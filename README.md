@@ -22,13 +22,19 @@ O objetivo é triplo:
 ## Estrutura
 
 ```
-*.md              Artigos (namespace principal), 1 arquivo por página
+<Categoria>/      Artigos organizados em pastas por categoria principal
+Categoria/        Páginas do namespace Categoria
 Ajuda/            Páginas de Ajuda
-Categoria/        Páginas de Categoria
+INDEX.md          Índice navegável por categoria
 dump/             browiki-current.xml — dump restaurável de TODOS os namespaces
-state.json        Metadados de revisão (pageid → revid) para sync incremental
-export_browiki.py Script de extração/sincronização
+export_browiki.py Extração/sincronização (baixa para _flat/)
+build_views.py    Gera a árvore organizada + INDEX.md + wiki/ a partir de _flat/
+_flat/            Markdown cru intermediário (não versionado)
 ```
+
+Cada artigo de conteúdo fica na pasta da sua **categoria principal**; o `INDEX.md` lista
+cada página em **todas** as suas categorias. Links internos e imagens são relativos e
+corrigidos automaticamente.
 
 > **Imagens:** os arquivos `.md` referenciam `images/...`, mas as ~6.700 imagens (~1,2 GB)
 > **não ficam na árvore do repositório** (para mantê-lo leve). Elas estão num **.zip anexado
@@ -56,9 +62,9 @@ Cada `.md` tem um cabeçalho YAML com `title`, `source` (URL original), `revisio
 ```bash
 pip install -r requirements.txt
 
-python export_browiki.py markdown   # rebaixa só as páginas alteradas + novas imagens
+python export_browiki.py markdown   # rebaixa só as páginas alteradas (para _flat/) + imagens
+python build_views.py               # regenera a árvore organizada + INDEX.md + wiki/
 python export_browiki.py dump       # regenera o dump XML completo
-python export_browiki.py all        # os dois
 ```
 
 O modo Markdown é **incremental**: usa `state.json` para comparar a revisão local com a

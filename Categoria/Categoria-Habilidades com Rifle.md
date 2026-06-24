@@ -1,12 +1,4 @@
----
-title: "Categoria:Habilidades com Rifle"
-source: https://browiki.org/wiki/Categoria%3AHabilidades_com_Rifle
-namespace: 14
-revision: 5725
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Habilidades"
----
+# Categoria:Habilidades com Rifle
 
 # Categoria:Habilidades com Rifle
 

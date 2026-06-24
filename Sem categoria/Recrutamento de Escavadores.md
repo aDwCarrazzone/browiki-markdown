@@ -1,0 +1,7 @@
+# Recrutamento de Escavadores
+
+# Recrutamento de Escavadores
+
+Redirecionar para:
+
+- [Fantasmagórica](../Quests%20de%20experi%C3%AAncia/Fantasmag%C3%B3rica.md "Fantasmagórica")

@@ -1,13 +1,5 @@
----
-title: "Categoria:Habilidades Espirituais"
-source: https://browiki.org/wiki/Categoria%3AHabilidades_Espirituais
-namespace: 14
-revision: 5575
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Habilidades"
----
+# Categoria:Habilidades Espirituais
 
 # Categoria:Habilidades Espirituais
 
-Esta categoria reúne artigos sobre habilidades concedidas por espíritos de [Espiritualistas](Espiritualistas.md "Espiritualistas").
+Esta categoria reúne artigos sobre habilidades concedidas por espíritos de [Espiritualistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espiritualistas.md "Espiritualistas").

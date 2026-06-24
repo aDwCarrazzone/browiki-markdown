@@ -1,0 +1,129 @@
+# Sábios
+
+# Sábios
+
+|  |  |
+| --- | --- |
+| Sábiospartyicn Sábios | |
+| Arte Sábios | |
+| Sprite | |
+| [Original](#tabber-Original)[Montaria](#tabber-Montaria) Sábiossprite  Sábiossprite mount | |
+|  | |
+| Classe | 2-2 |
+| Anterior | [Magos](Magos.md "Magos") |
+| Guia | [Mudança de classe](../Quest/Mudan%C3%A7a%20de%20Classe-%20S%C3%A1bios.md "Mudança de Classe: Sábios") |
+| Quest | [Novas habilidades](../Quest/Novas%20habilidades-%20Magos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Magos e evoluções") |
+| Estilos | [Ver Paleta de cores](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md#Magos_e_evolu.C3.A7.C3.B5es "Estilista") |
+| Armas | Adagas Cajados Livros |
+| Bônus de Classe | |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | **[FOR](../Sem%20categoria/FOR.md "FOR")** | **[AGI](../Sem%20categoria/AGI.md "AGI")** | **[VIT](../Sem%20categoria/VIT.md "VIT")** | **[INT](../Sem%20categoria/INT.md "INT")** | **[DES](../Sem%20categoria/DES.md "DES")** | **[SOR](../Sem%20categoria/SOR.md "SOR")** | | +5 | +5 | +3 | +9 | +5 | +3 | | |
+
+Os Sábios estudaram para melhorar seus feitiços iniciais de mago.
+
+Se aproveitam dos elementos para dar poderes especiais às armas de seus companheiros.
+
+Usam habilidades de encantar o solo para ajudar aliados com uma combinação de magias.
+
+Sábios podem também manipular os elementos para contra-atacar até as mais poderosas magias.
+
+São um suporte indispensável em qualquer grupo.
+
+Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "Nível de base") 99, podem transcender para [Professores](Professores.md "Professores").
+
+## Habilidades
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | |  |  | | --- | --- | | [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") | [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") | |  | |  |  | | --- | --- | | [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") | [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") | |
+|  | |  |  | | --- | --- | | [Abracadabra](../Ativa/Abracadabra.md "Abracadabra") | [Abracadabra](../Ativa/Abracadabra.md "Abracadabra") | |  | |  |  | | --- | --- | | [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros") | [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros") | |
+|  | |  |  | | --- | --- | | [Furacão](../Suporte/Furac%C3%A3o.md "Furacão") | [Furacão](../Suporte/Furac%C3%A3o.md "Furacão") | |  | |  |  | | --- | --- | | [Dragonologia](../Passiva/Dragonologia.md "Dragonologia") | [Dragonologia](../Passiva/Dragonologia.md "Dragonologia") | |
+|  | |  |  | | --- | --- | | [Vulcão](../Suporte/Vulc%C3%A3o.md "Vulcão") | [Vulcão](../Suporte/Vulc%C3%A3o.md "Vulcão") | |  | |  |  | | --- | --- | | [Coluna de Pedra](../Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") | [Coluna de Pedra](../Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") | |
+|  | |  |  | | --- | --- | | [Dilúvio](../Suporte/Dil%C3%BAvio.md "Dilúvio") | [Dilúvio](../Suporte/Dil%C3%BAvio.md "Dilúvio") | |  | |  |  | | --- | --- | | [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") | [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") | |
+|  | |  |  | | --- | --- | | [Sentido Sobrenatural](../Ativa/Sentido%20Sobrenatural.md "Sentido Sobrenatural") | [Sentido Sobrenatural](../Ativa/Sentido%20Sobrenatural.md "Sentido Sobrenatural") | |  | |  |  | | --- | --- | | [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") | [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") | |
+|  | |  |  | | --- | --- | | [Encantar com Chama](../Suporte/Encantar%20com%20Chama.md "Encantar com Chama") | [Encantar com Chama](../Suporte/Encantar%20com%20Chama.md "Encantar com Chama") | |  | |  |  | | --- | --- | | [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar") | [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar") | |
+|  | |  |  | | --- | --- | | [Encantar com Geada](../Suporte/Encantar%20com%20Geada.md "Encantar com Geada") | [Encantar com Geada](../Suporte/Encantar%20com%20Geada.md "Encantar com Geada") | |  | |  |  | | --- | --- | | [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia") | [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia") | |
+|  | |  |  | | --- | --- | | [Encantar com Ventania](../Suporte/Encantar%20com%20Ventania.md "Encantar com Ventania") | [Encantar com Ventania](../Suporte/Encantar%20com%20Ventania.md "Encantar com Ventania") | |  | |  |  | | --- | --- | | [Desencantar](../Ativa/Desencantar.md "Desencantar") | [Desencantar](../Ativa/Desencantar.md "Desencantar") | |
+|  | |  |  | | --- | --- | | [Encantar com Terremoto](../Suporte/Encantar%20com%20Terremoto.md "Encantar com Terremoto") | [Encantar com Terremoto](../Suporte/Encantar%20com%20Terremoto.md "Encantar com Terremoto") | |  | |  |  | | --- | --- | | [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno") | [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno") | |
+|  | |  |  | | --- | --- | | [Criar Conversor Elemental](../Ativa/Criar%20Conversor%20Elemental.md "Criar Conversor Elemental") | [Criar Conversor Elemental](../Ativa/Criar%20Conversor%20Elemental.md "Criar Conversor Elemental") | |
+|  | |  |  | | --- | --- | | [Mudança Elemental](../Ativa/Mudan%C3%A7a%20Elemental.md "Mudança Elemental") | [Mudança Elemental](../Ativa/Mudan%C3%A7a%20Elemental.md "Mudança Elemental") | |
+
+### Árvore de habilidades
+
+![SkilltreeSábios](../images/d/d7/SkilltreeS%C3%A1bios.png)
+
+## Construção do Personagem
+
+Para mais informações de construção de personagens, veja a página de [Guias de Classe](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Guias%20de%20Classe.md "Guias de Classe").
+
+**Rota Básica de Equipamentos:**
+
+- [Nv. 1 ~ 100] [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden")
+- [Nv. 100 ~ 120] [Equipamento Inicial](../Itens/Equipamento%20Inicial.md "Equipamento Inicial")
+- [Nv. 100 ~ 130] [Equipamento Excelion](../Quest/Equipamento%20Excelion.md "Equipamento Excelion") / [Relíquias de Mora](../Sem%20categoria/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora")
+- [Nv. 100 ~ 150] [Equipamentos de Honra](../Itens/Equipamentos%20de%20Honra.md "Equipamentos de Honra") / [Botas Temporais](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim")
+- [Nv. 130 ~ 160] [Equipamentos Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión")
+- [Nv. 160 ~ 200] [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron")
+
+### Psíquicos
+
+Estudam os elementos da natureza para o combate, evoluindo através das [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo"), [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") ou [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago").
+
+Normalmente possuem uma habilidade como defesa, podendo ser a [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo"), [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") ou [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico").
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Atributo | Qtd. | Observações | | --- | --- | --- | | [FOR](../Sem%20categoria/FOR.md "FOR") | 1 |  | | [AGI](../Sem%20categoria/AGI.md "AGI") | 1 |  | | [VIT](../Sem%20categoria/VIT.md "VIT") | 50-80 |  | | [INT](../Sem%20categoria/INT.md "INT") | 90-99 |  | | [DES](../Sem%20categoria/DES.md "DES") | 50-80 |  | | [SOR](../Sem%20categoria/SOR.md "SOR") | 1 |  | | | Habilidades principais | | --- | | [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia") [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia")  [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra")  [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") | |
+
+### Autoconjuradores
+
+Se beneficiam com o uso do [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") e [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") tendo um ótimo rendimento com um companheiro [Espiritualista](../Sem%20categoria/Espiritualista.md "Espiritualista").
+
+Também podem combinar com ataques [críticos](../Sem%20categoria/Cr%C3%ADticos.md "Críticos"), são voltados para a rápida evolução, sendo uma construção exclusiva para [PvM](../Sem%20categoria/PvM.md "PvM").
+
+É altamente recomendável a [AGI](../Sem%20categoria/AGI.md "AGI") alta para melhores valores de [esquiva](../Sem%20categoria/Esquiva.md "Esquiva") e [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque").
+
+Além das habilidades, dão preferência a [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") de [autoconjuração](../Sem%20categoria/Autoconjura%C3%A7%C3%A3o.md "Autoconjuração").
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Atributo | Qtd. | Observações | | --- | --- | --- | | [FOR](../Sem%20categoria/FOR.md "FOR") | 30-70 |  | | [AGI](../Sem%20categoria/AGI.md "AGI") | 80-99 |  | | [VIT](../Sem%20categoria/VIT.md "VIT") | 1-30 |  | | [INT](../Sem%20categoria/INT.md "INT") | 60-90 |  | | [DES](../Sem%20categoria/DES.md "DES") | 1-30 |  | | [SOR](../Sem%20categoria/SOR.md "SOR") | 10 |  | | | Habilidades principais | | --- | | [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano")  [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros") [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros")  [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") | |
+
+### Invocadores
+
+Também conhecidos como *Full Support*, são especialistas em dar auxílio em [grupos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo"), sendo recomendável pontos em [FOR](../Sem%20categoria/FOR.md "FOR") para carregar gemas.
+
+Sua principal habilidade é [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno"), sendo útil contra [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Atributo | Qtd. | Observações | | --- | --- | --- | | [FOR](../Sem%20categoria/FOR.md "FOR") | 1 |  | | [AGI](../Sem%20categoria/AGI.md "AGI") | 1 |  | | [VIT](../Sem%20categoria/VIT.md "VIT") | 80-99 |  | | [INT](../Sem%20categoria/INT.md "INT") | 9-40 |  | | [DES](../Sem%20categoria/DES.md "DES") | 90 |  | | [SOR](../Sem%20categoria/SOR.md "SOR") | 1 |  | | | Habilidades principais | | --- | | [Desencantar](../Ativa/Desencantar.md "Desencantar") [Desencantar](../Ativa/Desencantar.md "Desencantar")  [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar") [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar")  [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno") [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno") | |
+
+### Velocidade de ataque
+
+Abaixo está uma tabela das penalidades de [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") da classe.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **151** | | 2103.png [Escudo](http://www.divine-pride.net/database/item/2103/) | -10 | | 13035.png [Adaga](http://www.divine-pride.net/database/item/13035/) | -8 | | 1612.png [Cajado](http://www.divine-pride.net/database/item/1612/) | -10 | | 2001.png [Cajado de 2 mãos](http://www.divine-pride.net/database/item/2001/) | -10 | | 1550.png [Livro](http://www.divine-pride.net/database/item/1550/) | +2 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | 645.png | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | 656.png | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | 657.png | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
+
+| *O Poder dos Elementos* | | |
+| --- | --- | --- |
+| |  |  | | --- | --- | | [Magospartyicn](Magos.md "Magos") | [Magos](Magos.md "Magos") | | [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../Ativa/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../Ativa/Petrificar.md "Petrificar") · [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") · [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") | |
+| |  |  | | --- | --- | | [Sábiospartyicn](S%C3%A1bios.md "Sábios") | Sábios | | [Abracadabra](../Ativa/Abracadabra.md "Abracadabra") · [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia") · [Coluna de Pedra](../Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") · [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") · *[Criar Conversor Elemental](../Ativa/Criar%20Conversor%20Elemental.md "Criar Conversor Elemental")* · [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar") · [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") · [Desencantar](../Ativa/Desencantar.md "Desencantar") · [Dilúvio](../Suporte/Dil%C3%BAvio.md "Dilúvio") · [Dragonologia](../Passiva/Dragonologia.md "Dragonologia") · [Encantar com Chama](../Suporte/Encantar%20com%20Chama.md "Encantar com Chama") · [Encantar com Geada](../Suporte/Encantar%20com%20Geada.md "Encantar com Geada") · [Encantar com Terremoto](../Suporte/Encantar%20com%20Terremoto.md "Encantar com Terremoto") · [Encantar com Ventania](../Suporte/Encantar%20com%20Ventania.md "Encantar com Ventania") · [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") · [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros") · [Furacão](../Suporte/Furac%C3%A3o.md "Furacão") · [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") · *[Mudança Elemental](../Ativa/Mudan%C3%A7a%20Elemental.md "Mudança Elemental")* · [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno") · [Sentido Sobrenatural](../Ativa/Sentido%20Sobrenatural.md "Sentido Sobrenatural") · [Vulcão](../Suporte/Vulc%C3%A3o.md "Vulcão") | |
+| |  |  | | --- | --- | | [Professorespartyicn](Professores.md "Professores") | [Professores](Professores.md "Professores") | | [Bruma Ofuscante](../Ativa/Bruma%20Ofuscante.md "Bruma Ofuscante") · [Enlouquecedor](../Ativa/Enlouquecedor.md "Enlouquecedor") · [Exalar Alma](../Ativa/Exalar%20Alma.md "Exalar Alma") · [Indulgir](../Suporte/Indulgir.md "Indulgir") · [Lanças Duplas](../Ativa/Lan%C3%A7as%20Duplas.md "Lanças Duplas") · [Presciência](../Suporte/Presci%C3%AAncia.md "Presciência") · [Prisão de Teia](../Ativa/Pris%C3%A3o%20de%20Teia.md "Prisão de Teia") · [Sifão de Alma](../Ofensiva/Sif%C3%A3o%20de%20Alma.md "Sifão de Alma") | |
+| |  |  | | --- | --- | | [Feiticeirospartyicn](Feiticeiros.md "Feiticeiros") | [Feiticeiros](Feiticeiros.md "Feiticeiros") | | [Aquecer Terreno](../Suporte/Aquecer%20Terreno.md "Aquecer Terreno") · [Arrullo](../Ativa/Arrullo.md "Arrullo") · [Castigo de Nerthus](../Ofensiva/Castigo%20de%20Nerthus.md "Castigo de Nerthus") · [Encanto de Órion](../Suporte/Encanto%20de%20%C3%93rion.md "Encanto de Órion") · [Escudo Elemental](../Suporte/Escudo%20Elemental.md "Escudo Elemental") · [Implosão Tóxica](../Ofensiva/Implos%C3%A3o%20T%C3%B3xica.md "Implosão Tóxica") · [Lanças dos Aesir](../Ofensiva/Lan%C3%A7as%20dos%20Aesir.md "Lanças dos Aesir") · [Maldição de Jormungand](../Ofensiva/Maldi%C3%A7%C3%A3o%20de%20Jormungand.md "Maldição de Jormungand") · *[Maximizar Poder](../Suporte/Maximizar%20Poder.md "Maximizar Poder")* · [Onda Psíquica](../Ofensiva/Onda%20Ps%C3%ADquica.md "Onda Psíquica") · [Passos de Salamandra](../Ofensiva/Passos%20de%20Salamandra.md "Passos de Salamandra") · [Passos de Sílfide](../Ofensiva/Passos%20de%20S%C3%ADlfide.md "Passos de Sílfide") · [Pó de Diamante](../Ofensiva/P%C3%B3%20de%20Diamante.md "Pó de Diamante") · [Punho Arcano](../Ativa/Punho%20Arcano.md "Punho Arcano") · [Tornado](../Ativa/Tornado.md "Tornado") | |
+| Elementais | [Análise Elemental](../Ativa/An%C3%A1lise%20Elemental.md "Análise Elemental") · [Domínio Elemental](../Ativa/Dom%C3%ADnio%20Elemental.md "Domínio Elemental") · [Empatia Elemental](../Passiva/Empatia%20Elemental.md "Empatia Elemental") · [Incitar Elemental](../Ativa/Incitar%20Elemental.md "Incitar Elemental") · [Insígnia da Água](../Suporte/Ins%C3%ADgnia%20da%20%C3%81gua.md "Insígnia da Água") · [Insígnia da Terra](../Suporte/Ins%C3%ADgnia%20da%20Terra.md "Insígnia da Terra") · [Insígnia do Fogo](../Suporte/Ins%C3%ADgnia%20do%20Fogo.md "Insígnia do Fogo") · [Insígnia do Vento](../Suporte/Ins%C3%ADgnia%20do%20Vento.md "Insígnia do Vento") · [Invocar Agni](../Ativa/Invocar%20Agni.md "Invocar Agni") · [Invocar Chandra](../Ativa/Invocar%20Chandra.md "Invocar Chandra") · [Invocar Varuna](../Ativa/Invocar%20Varuna.md "Invocar Varuna") · [Invocar Vayu](../Ativa/Invocar%20Vayu.md "Invocar Vayu") · [Troca Espiritual](../Ativa/Troca%20Espiritual.md "Troca Espiritual") |
+| |  |  | | --- | --- | | [Elementalistaspartyicn](Elementalistas.md "Elementalistas") | [Elementalistas](Elementalistas.md "Elementalistas") | | [Canalizar Energia](../Suporte/Canalizar%20Energia.md "Canalizar Energia") · [Círculo Elemental](../Ofensiva/C%C3%ADrculo%20Elemental.md "Círculo Elemental") · [Conflagração](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração") · [Enfeitiçar](../Suporte/Enfeiti%C3%A7ar.md "Enfeitiçar") · [Estudo Elemental](../Passiva/Estudo%20Elemental.md "Estudo Elemental") · [Exaurir](../Ativa/Exaurir.md "Exaurir") · [Execução Aurora](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora") · [Invocar Ardor](../Ativa/Invocar%20Ardor.md "Invocar Ardor") · [Invocar Diluvium](../Ativa/Invocar%20Diluvium.md "Invocar Diluvium") · [Invocar Procella](../Ativa/Invocar%20Procella.md "Invocar Procella") · [Invocar Serpens](../Ativa/Invocar%20Serpens.md "Invocar Serpens") · [Invocar Terremotus](../Ativa/Invocar%20Terremotus.md "Invocar Terremotus") · [Maestria Elemental](../Passiva/Maestria%20Elemental.md "Maestria Elemental") · [Poço Venenoso](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso") · [Tormenta](../Ofensiva/Tormenta.md "Tormenta") · [Tremor de Terra](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra") · [Véu Elemental](../Ativa/V%C3%A9u%20Elemental.md "Véu Elemental") | |
+| [Quests](../Quest/Quests.md "Quests") | [Mudança de Classe: Sábios](../Quest/Mudan%C3%A7a%20de%20Classe-%20S%C3%A1bios.md "Mudança de Classe: Sábios") · [Mudança de Classe: Feiticeiros](../Quest/Mudan%C3%A7a%20de%20Classe-%20Feiticeiros.md "Mudança de Classe: Feiticeiros") · [Mudança de Classe: Elementalistas](../Quests%20de%20ca%C3%A7a/Mudan%C3%A7a%20de%20Classe-%20Elementalistas.md "Mudança de Classe: Elementalistas") [Novas habilidades](../Quest/Novas%20habilidades-%20Magos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Magos e evoluções") | |
+
+| *[Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | |
+| --- | --- | --- | --- |
+| Aprendiz | [Aprendizes](Aprendizes.md "Aprendizes") · [Superaprendizes](Superaprendizes.md "Superaprendizes") · Hyper Novice | | |
+| Classe 1 | [Espadachins](Espadachins.md "Espadachins") · [Gatunos](Gatunos.md "Gatunos") · [Magos](Magos.md "Magos") · [Mercadores](Mercadores.md "Mercadores") · [Noviços](Novi%C3%A7os.md "Noviços") · [Arqueiros](Arqueiros.md "Arqueiros") | | |
+| Classe 2 | [Cavaleiros](Cavaleiros.md "Cavaleiros") · [Mercenários](Mercen%C3%A1rios.md "Mercenários") · [Bruxos](Bruxos.md "Bruxos") · [Ferreiros](Ferreiros.md "Ferreiros") · [Sacerdotes](Sacerdotes.md "Sacerdotes") · [Caçadores](Ca%C3%A7adores.md "Caçadores") [Templários](Templ%C3%A1rios.md "Templários") · [Arruaceiros](Arruaceiros.md "Arruaceiros") · Sábios · [Alquimistas](Alquimistas.md "Alquimistas") · [Monges](Monges.md "Monges") · [Bardos](Bardos.md "Bardos") · [Odaliscas](Odaliscas.md "Odaliscas") | | |
+| Classe Transcendental | [Lordes](Lordes.md "Lordes") · [Algozes](Algozes.md "Algozes") · [Arquimagos](Arquimagos.md "Arquimagos") · [Mestres-Ferreiros](Mestres-Ferreiros.md "Mestres-Ferreiros") · [Sumo Sacerdotes](Sumo%20Sacerdotes.md "Sumo Sacerdotes") · [Atiradores de Elite](Atiradores%20de%20Elite.md "Atiradores de Elite") [Paladinos](Paladinos.md "Paladinos") · [Desordeiros](Desordeiros.md "Desordeiros") · [Professores](Professores.md "Professores") · [Criadores](Criadores.md "Criadores") · [Mestres](Mestres.md "Mestres") · [Menestréis](Menestr%C3%A9is.md "Menestréis") · [Ciganas](Ciganas.md "Ciganas") | | |
+| Classe 3 | [Cavaleiros Rúnicos](Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos") · [Sicários](Sic%C3%A1rios.md "Sicários") · [Arcanos](Arcanos.md "Arcanos") · [Mecânicos](Mec%C3%A2nicos.md "Mecânicos") · [Arcebispos](Arcebispos.md "Arcebispos") · [Sentinelas](Sentinelas.md "Sentinelas") [Guardiões Reais](Guardi%C3%B5es%20Reais.md "Guardiões Reais") · [Renegados](Renegados.md "Renegados") · [Feiticeiros](Feiticeiros.md "Feiticeiros") · [Bioquímicos](Bioqu%C3%ADmicos.md "Bioquímicos") · [Shuras](Shuras.md "Shuras") · [Trovadores](Trovadores.md "Trovadores") · [Musas](Musas.md "Musas") | | |
+| Classe 4 | [Cavaleiros Draconianos](Cavaleiros%20Draconianos.md "Cavaleiros Draconianos") · [Executores](Executores.md "Executores") · [Magus](Magus.md "Magus") · [Engenheiros](Engenheiros.md "Engenheiros") · [Cardeais](Cardeais.md "Cardeais") · [Falcões do Vento](Falc%C3%B5es%20do%20Vento.md "Falcões do Vento") [Guardiões Imperiais](Guardi%C3%B5es%20Imperiais.md "Guardiões Imperiais") · [Mandraques](Mandraques.md "Mandraques") · [Elementalistas](Elementalistas.md "Elementalistas") · [Cientistas](Cientistas.md "Cientistas") · [Inquisidores](Inquisidores.md "Inquisidores") · [Maestros](Maestros.md "Maestros") · [Divas](Divas.md "Divas") | | |
+| Classes Expandidas | ½ | [Justiceiros](Justiceiros.md "Justiceiros") · [Taekwons](Taekwons.md "Taekwons") ([Mestres Taekwons](Mestres%20Taekwons.md "Mestres Taekwons") & [Espiritualistas](Espiritualistas.md "Espiritualistas")) · [Ninjas](Ninjas.md "Ninjas") · [Invocadores](Invocadores.md "Invocadores") · Druidas |
+| 3 | [Insurgentes](Insurgentes.md "Insurgentes") · [Mestres Estelares](Mestres%20Estelares.md "Mestres Estelares") · [Ceifadores de Almas](Ceifadores%20de%20Almas.md "Ceifadores de Almas") · [Kagerou](Kagerou.md "Kagerou") · [Oboro](Oboro.md "Oboro") · Karnos |
+| 4 | Night Watch · Sky Emperor · Soul Ascetic · Shinkiro · Shiranui · Spirit Handler · Alitea |

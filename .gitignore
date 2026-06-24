@@ -6,7 +6,11 @@ __pycache__/
 # Logs e saidas temporarias
 scratchpad/
 scratchpad_*.log
+scratchpad_*.py
 test_out*/
+
+# Intermediario cru gerado por export_browiki.py (a arvore organizada e' derivada dele)
+_flat/
 
 # wiki/ é gerado por build_views.py e publicado no repo separado da Wiki do GitHub.
 wiki/

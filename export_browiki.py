@@ -247,7 +247,11 @@ def frontmatter(title: str, ns: int, revid, categories, retrieved: str) -> str:
 
 
 def export_markdown(out: str, limit=None, do_images=True, full=False):
-    state_path = os.path.join(out, "state.json")
+    # O markdown cru vai para _flat/ (intermediario). build_views.py gera depois
+    # a arvore organizada por categoria + INDEX.md + wiki/ a partir de _flat/.
+    flat = os.path.join(out, "_flat")
+    os.makedirs(flat, exist_ok=True)
+    state_path = os.path.join(flat, "state.json")
     state = {"pages": {}, "images": {}} if full else load_state(state_path)
     retrieved = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -263,7 +267,7 @@ def export_markdown(out: str, limit=None, do_images=True, full=False):
     if limit:
         pages = pages[:limit]
 
-    md_dir = out
+    md_dir = flat
     new_images: set[str] = set()
     changed = unchanged = 0
 

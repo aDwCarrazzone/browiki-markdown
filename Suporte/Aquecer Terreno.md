@@ -1,0 +1,61 @@
+# Aquecer Terreno
+
+# Aquecer Terreno
+
+|  |  |
+| --- | --- |
+| **Aquecer Terreno Aquecer Terreno** | |
+| Aquecer Terreno | |
+| **Warmer / Zona Cálida** | |
+| **ID** | SO\_WARMER (2452) |
+| **Tipo** | Suporte |
+| **Níveis** | 5 |
+| **[SP](../Sem%20categoria/SP.md "SP")** | 28 + (Nv. da habilidade × 12) |
+| **[Conjuração](../Sem%20categoria/Conjura%C3%A7%C3%A3o.md "Conjuração")** | [2 - (Nv. × 0,2)] + [2 + (Nv. × 0,2)] seg. |
+| **Pós-conjuração** | 1 segundo |
+| **Recarga** | [30 + (Nv. da hab. × 5)] segundos |
+| **Duração** | [35 + (Nv. da hab. × 5)] segundos |
+| **Alvo** | Chão |
+| **Área** | 7x7 células |
+| **Pré-requisitos** | |
+| - [Vulcão](Vulc%C3%A3o.md "Vulcão") [Vulcão](Vulc%C3%A3o.md "Vulcão") Nv. 1 - [Furacão](Furac%C3%A3o.md "Furacão") [Furacão](Furac%C3%A3o.md "Furacão") Nv. 1 | |
+
+Esquenta o chão para regenerar [HP](../Sem%20categoria/HP.md "HP") a cada 3 segundos.
+
+Personagens dentro da área terão imunidade a [congelamento](../Sem%20categoria/Congelamento.md "Congelamento"), [cristalização](../Sem%20categoria/Cristaliza%C3%A7%C3%A3o.md "Cristalização") e [hipotermia](../Sem%20categoria/Hipotermia.md "Hipotermia").
+
+Se os alvos estiverem sofrendo desses [efeitos negativos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Efeitos%20negativos.md "Efeitos negativos"), eles serão cancelados.
+
+| Nv. | Regeneração | Duração | [Conjuração](../Sem%20categoria/Conjura%C3%A7%C3%A3o.md "Conjuração") | | Recarga | [SP](../Sem%20categoria/SP.md "SP") |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fixa | Variável |
+| 1 | 1% | 40 segundos | 1,8 segundos | 2,2 segundos | 35 segundos | 40 |
+| 2 | 2% | 45 segundos | 1,6 segundos | 2,4 segundos | 40 segundos | 52 |
+| 3 | 3% | 50 segundos | 1,4 segundos | 2,6 segundos | 45 segundos | 64 |
+| 4 | 4% | 55 segundos | 1,2 segundos | 2,8 segundos | 50 segundos | 76 |
+| 5 | 5% | 60 segundos | 1 segundo | 3 segundos | 55 segundos | 88 |
+
+## Notas
+
+- Não regenera [HP](../Sem%20categoria/HP.md "HP") de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") e [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
+- Regenera [HP](../Sem%20categoria/HP.md "HP") de barricadas da [Guerra do Emperium](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium") S.E e personagens impedidos de regenerar [HP](../Sem%20categoria/HP.md "HP"), como personagens acima do peso ou com [Frenesi](../Ativa/Frenesi.md "Frenesi").
+- O bônus de regeneração aumenta em 10%, usando um [Agni](../Sem%20categoria/Agni.md "Agni") em nível 2.
+- [Proteger Terreno](Proteger%20Terreno.md "Proteger Terreno") cancela e previne que a habilidade seja conjurada.
+- Cartas e Encantos relacionados:
+  - ![29435.png](http://static.divine-pride.net/images/items/item/29435.png) [Feiticeiro (Capa)](http://www.divine-pride.net/database/item/29435/) [[1]](#cite_note-1)
+  - ![310149.png](http://static.divine-pride.net/images/items/item/310149.png) [H-Psíquico](http://www.divine-pride.net/database/item/310149/) [[2]](#cite_note-2)
+
+### Referências
+
+1. [↑](#cite_ref-1) [Encanto de Visual](../Sem%20categoria/Encanto%20de%20Visual.md "Encanto de Visual")
+2. [↑](#cite_ref-2) [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron")
+
+| *O Poder dos Elementos* | | |
+| --- | --- | --- |
+| |  |  | | --- | --- | | [Magospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | | [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../Ativa/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../Ativa/Petrificar.md "Petrificar") · [Proteção Arcana](Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") · [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") | |
+| |  |  | | --- | --- | | [Sábiospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/S%C3%A1bios.md "Sábios") | [Sábios](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/S%C3%A1bios.md "Sábios") | | [Abracadabra](../Ativa/Abracadabra.md "Abracadabra") · [Cancelar Magia](../Ativa/Cancelar%20Magia.md "Cancelar Magia") · [Coluna de Pedra](../Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") · [Conjuração Livre](../Passiva/Conjura%C3%A7%C3%A3o%20Livre.md "Conjuração Livre") · *[Criar Conversor Elemental](../Ativa/Criar%20Conversor%20Elemental.md "Criar Conversor Elemental")* · [Desconcentrar](../Ativa/Desconcentrar.md "Desconcentrar") · [Desejo Arcano](../Ativa/Desejo%20Arcano.md "Desejo Arcano") · [Desencantar](../Ativa/Desencantar.md "Desencantar") · [Dilúvio](Dil%C3%BAvio.md "Dilúvio") · [Dragonologia](../Passiva/Dragonologia.md "Dragonologia") · [Encantar com Chama](Encantar%20com%20Chama.md "Encantar com Chama") · [Encantar com Geada](Encantar%20com%20Geada.md "Encantar com Geada") · [Encantar com Terremoto](Encantar%20com%20Terremoto.md "Encantar com Terremoto") · [Encantar com Ventania](Encantar%20com%20Ventania.md "Encantar com Ventania") · [Espelho Mágico](../Ativa/Espelho%20M%C3%A1gico.md "Espelho Mágico") · [Estudo de Livros](../Passiva/Estudo%20de%20Livros.md "Estudo de Livros") · [Furacão](Furac%C3%A3o.md "Furacão") · [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") · *[Mudança Elemental](../Ativa/Mudan%C3%A7a%20Elemental.md "Mudança Elemental")* · [Proteger Terreno](Proteger%20Terreno.md "Proteger Terreno") · [Sentido Sobrenatural](../Ativa/Sentido%20Sobrenatural.md "Sentido Sobrenatural") · [Vulcão](Vulc%C3%A3o.md "Vulcão") | |
+| |  |  | | --- | --- | | [Professorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Professores.md "Professores") | [Professores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Professores.md "Professores") | | [Bruma Ofuscante](../Ativa/Bruma%20Ofuscante.md "Bruma Ofuscante") · [Enlouquecedor](../Ativa/Enlouquecedor.md "Enlouquecedor") · [Exalar Alma](../Ativa/Exalar%20Alma.md "Exalar Alma") · [Indulgir](Indulgir.md "Indulgir") · [Lanças Duplas](../Ativa/Lan%C3%A7as%20Duplas.md "Lanças Duplas") · [Presciência](Presci%C3%AAncia.md "Presciência") · [Prisão de Teia](../Ativa/Pris%C3%A3o%20de%20Teia.md "Prisão de Teia") · [Sifão de Alma](../Ofensiva/Sif%C3%A3o%20de%20Alma.md "Sifão de Alma") | |
+| |  |  | | --- | --- | | [Feiticeirospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Feiticeiros.md "Feiticeiros") | [Feiticeiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Feiticeiros.md "Feiticeiros") | | Aquecer Terreno · [Arrullo](../Ativa/Arrullo.md "Arrullo") · [Castigo de Nerthus](../Ofensiva/Castigo%20de%20Nerthus.md "Castigo de Nerthus") · [Encanto de Órion](Encanto%20de%20%C3%93rion.md "Encanto de Órion") · [Escudo Elemental](Escudo%20Elemental.md "Escudo Elemental") · [Implosão Tóxica](../Ofensiva/Implos%C3%A3o%20T%C3%B3xica.md "Implosão Tóxica") · [Lanças dos Aesir](../Ofensiva/Lan%C3%A7as%20dos%20Aesir.md "Lanças dos Aesir") · [Maldição de Jormungand](../Ofensiva/Maldi%C3%A7%C3%A3o%20de%20Jormungand.md "Maldição de Jormungand") · *[Maximizar Poder](Maximizar%20Poder.md "Maximizar Poder")* · [Onda Psíquica](../Ofensiva/Onda%20Ps%C3%ADquica.md "Onda Psíquica") · [Passos de Salamandra](../Ofensiva/Passos%20de%20Salamandra.md "Passos de Salamandra") · [Passos de Sílfide](../Ofensiva/Passos%20de%20S%C3%ADlfide.md "Passos de Sílfide") · [Pó de Diamante](../Ofensiva/P%C3%B3%20de%20Diamante.md "Pó de Diamante") · [Punho Arcano](../Ativa/Punho%20Arcano.md "Punho Arcano") · [Tornado](../Ativa/Tornado.md "Tornado") | |
+| Elementais | [Análise Elemental](../Ativa/An%C3%A1lise%20Elemental.md "Análise Elemental") · [Domínio Elemental](../Ativa/Dom%C3%ADnio%20Elemental.md "Domínio Elemental") · [Empatia Elemental](../Passiva/Empatia%20Elemental.md "Empatia Elemental") · [Incitar Elemental](../Ativa/Incitar%20Elemental.md "Incitar Elemental") · [Insígnia da Água](Ins%C3%ADgnia%20da%20%C3%81gua.md "Insígnia da Água") · [Insígnia da Terra](Ins%C3%ADgnia%20da%20Terra.md "Insígnia da Terra") · [Insígnia do Fogo](Ins%C3%ADgnia%20do%20Fogo.md "Insígnia do Fogo") · [Insígnia do Vento](Ins%C3%ADgnia%20do%20Vento.md "Insígnia do Vento") · [Invocar Agni](../Ativa/Invocar%20Agni.md "Invocar Agni") · [Invocar Chandra](../Ativa/Invocar%20Chandra.md "Invocar Chandra") · [Invocar Varuna](../Ativa/Invocar%20Varuna.md "Invocar Varuna") · [Invocar Vayu](../Ativa/Invocar%20Vayu.md "Invocar Vayu") · [Troca Espiritual](../Ativa/Troca%20Espiritual.md "Troca Espiritual") |
+| |  |  | | --- | --- | | [Elementalistaspartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Elementalistas.md "Elementalistas") | [Elementalistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Elementalistas.md "Elementalistas") | | [Canalizar Energia](Canalizar%20Energia.md "Canalizar Energia") · [Círculo Elemental](../Ofensiva/C%C3%ADrculo%20Elemental.md "Círculo Elemental") · [Conflagração](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração") · [Enfeitiçar](Enfeiti%C3%A7ar.md "Enfeitiçar") · [Estudo Elemental](../Passiva/Estudo%20Elemental.md "Estudo Elemental") · [Exaurir](../Ativa/Exaurir.md "Exaurir") · [Execução Aurora](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora") · [Invocar Ardor](../Ativa/Invocar%20Ardor.md "Invocar Ardor") · [Invocar Diluvium](../Ativa/Invocar%20Diluvium.md "Invocar Diluvium") · [Invocar Procella](../Ativa/Invocar%20Procella.md "Invocar Procella") · [Invocar Serpens](../Ativa/Invocar%20Serpens.md "Invocar Serpens") · [Invocar Terremotus](../Ativa/Invocar%20Terremotus.md "Invocar Terremotus") · [Maestria Elemental](../Passiva/Maestria%20Elemental.md "Maestria Elemental") · [Poço Venenoso](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso") · [Tormenta](../Ofensiva/Tormenta.md "Tormenta") · [Tremor de Terra](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra") · [Véu Elemental](../Ativa/V%C3%A9u%20Elemental.md "Véu Elemental") | |
+| [Quests](../Quest/Quests.md "Quests") | [Mudança de Classe: Sábios](../Quest/Mudan%C3%A7a%20de%20Classe-%20S%C3%A1bios.md "Mudança de Classe: Sábios") · [Mudança de Classe: Feiticeiros](../Quest/Mudan%C3%A7a%20de%20Classe-%20Feiticeiros.md "Mudança de Classe: Feiticeiros") · [Mudança de Classe: Elementalistas](../Quests%20de%20ca%C3%A7a/Mudan%C3%A7a%20de%20Classe-%20Elementalistas.md "Mudança de Classe: Elementalistas") [Novas habilidades](../Quest/Novas%20habilidades-%20Magos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Magos e evoluções") | |

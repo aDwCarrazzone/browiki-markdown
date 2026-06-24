@@ -1,13 +1,5 @@
----
-title: "Categoria:A Luz das Trevas"
-source: https://browiki.org/wiki/Categoria%3AA_Luz_das_Trevas
-namespace: 14
-revision: 5205
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Guias de Classe"
----
+# Categoria:A Luz das Trevas
 
 # Categoria:A Luz das Trevas
 
-Esta categoria reúne artigos sobre habilidades de [Gatunos](Gatunos.md "Gatunos") e evoluções.
+Esta categoria reúne artigos sobre habilidades de [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") e evoluções.

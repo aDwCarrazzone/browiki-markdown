@@ -1,0 +1,148 @@
+# Homunculus
+
+# Homunculus
+
+![Homuninfo](../images/8/82/Homuninfo.png)
+
+Homunculus são companheiros criados por [alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") e evoluções para ajudar o mestre nas batalhas.
+
+Existem 4 formas de homunculus iniciais, cada um com suas características e [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades").
+
+Todos os homunculus têm [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") e [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades") separados do mestre, eles começam com [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "Nível de base") 1 e não possuem [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md "Nível de classe").
+
+Cada 3 níveis de base evoluídos, o homunculus recebe 1 ponto para investir em uma habilidade.
+
+Homunculus ganham 10% de toda a [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe que o seu dono recebe, independente da origem: [Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), [Quests](../Quest/Quests.md "Quests") de [EXP](../Sem%20categoria/EXP.md "EXP"), [Medicinas](http://www.divine-pride.net/database/item/12261/), etc.
+
+Quando atingirem o nível máximo, eles não irão mais receber 10% dessa [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
+
+![JanelaHomunculus](../images/0/01/JanelaHomunculus.png)
+
+- Homunculus duram apenas 30 minutos, após esse tempo, eles são automaticamente vaporizados.
+- Homunculus podem ser deletados para sempre na janela de informações de homunculus (*ALT + R*).
+- Homunculus continuam com o mestre ao vaporizá-los para se tornar uma [transclasse](../Sem%20categoria/Transclasse.md "Transclasse").
+- Homunculus só regeneram [HP](../Sem%20categoria/HP.md "HP") por habilidades como [Arremessar Poção](../Suporte/Arremessar%20Po%C3%A7%C3%A3o.md "Arremessar Poção") ou [Santuário](../Suporte/Santu%C3%A1rio.md "Santuário").
+- Homunculus não recebem efeitos positivos como [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") e semelhantes.
+- A [velocidade de movimento](../Sem%20categoria/Velocidade%20de%20movimento.md "Velocidade de movimento") deles pode ser aumentada se o mestre receber essa condição e, em seguida, usar [Vaporizar](../Suporte/Vaporizar.md "Vaporizar") e [Despertar Homunculus](../Ativa/Despertar%20Homunculus.md "Despertar Homunculus") novamente.
+- Autoalimentação:
+  - Você pode selecionar a opção [Auto] na janela dos homunculus para alimentá-lo automaticamente.
+  - Você precisa ter o alimento correto no inventário.
+  - A alimentação automática ocorre logo quando seu Homunculus atingir 25% de fome.
+  - Com esse método, o Homunculus necessita ser alimentado exatas 890 vezes desde o momento de sua criação para que ele atinja lealdade alta.
+
+## Homunculus
+
+- Para conseguir um homunculus inicial, é preciso:
+  - Ter aprendido a habilidade [Bioética](../Passiva/Bio%C3%A9tica.md "Bioética")
+  - Ter um [Embrião](http://www.divine-pride.net/database/item/7142/) (Comprado ou criado por [Preparar Poção](../Ativa/Preparar%20Po%C3%A7%C3%A3o.md "Preparar Poção")).
+  - Usar [Despertar Homunculus](../Ativa/Despertar%20Homunculus.md "Despertar Homunculus") para surgir um homunculus de forma e visual aleatório.
+- Evoluir seu homunculus para a segunda forma requer:
+  - Lealdade alta.
+  - 1 [Pedra do Sábio](http://www.divine-pride.net/database/item/12040/).
+- Ao evoluir para a segunda forma, o Homunculus aprenderá uma nova habilidade.
+
+Cada homunculus inicial possui 2 aparências diferentes, sem diferenciação entre elas.
+
+| Homunculus | Habilidades | Aparência | Atributos iniciais |
+| --- | --- | --- | --- |
+| Lif2 Lif | |  |  | | --- | --- | | [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") | [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") |  |  |  | | --- | --- | | [Bater em Retirada](../Suporte/Bater%20em%20Retirada.md "Bater em Retirada") | [Bater em Retirada](../Suporte/Bater%20em%20Retirada.md "Bater em Retirada") |  |  |  | | --- | --- | | [Cirurgia Cerebral](../Passiva/Cirurgia%20Cerebral.md "Cirurgia Cerebral") | [Cirurgia Cerebral](../Passiva/Cirurgia%20Cerebral.md "Cirurgia Cerebral") |  |  |  | | --- | --- | | [Esforço Mental](../Suporte/Esfor%C3%A7o%20Mental.md "Esforço Mental") | [Esforço Mental](../Suporte/Esfor%C3%A7o%20Mental.md "Esforço Mental") | | Lif | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | 150 (+80 por nível) | | [SP](../Sem%20categoria/SP.md "SP") | 40 (+6,5 por nível) | | [FOR](../Sem%20categoria/FOR.md "FOR") | 12 (+0,67 por nível) | | [AGI](../Sem%20categoria/AGI.md "AGI") | 20 (+0,67 por nível) | | [VIT](../Sem%20categoria/VIT.md "VIT") | 15 (+0,67 por nível) | | [INT](../Sem%20categoria/INT.md "INT") | 35 (+0,71 por nível) | | [DES](../Sem%20categoria/DES.md "DES") | 24 (+0,8 por nível) | | [SOR](../Sem%20categoria/SOR.md "SOR") | 12 (+0,8 por nível) | |
+| - **Tipo:** Suporte - **Raça:** [Humanoide](../Sem%20categoria/Humanoide.md "Humanoide") - **Comida:** 537.png [Ração para Bichinho](http://www.divine-pride.net/database/item/537/) |
+| Amistr2 Amistr | |  |  | | --- | --- | | [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") | [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") |  |  |  | | --- | --- | | [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") | [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") |  |  |  | | --- | --- | | [Pele de Adamantium](../Passiva/Pele%20de%20Adamantium.md "Pele de Adamantium") | [Pele de Adamantium](../Passiva/Pele%20de%20Adamantium.md "Pele de Adamantium") |  |  |  | | --- | --- | | [Desejo por Sangue](../Suporte/Desejo%20por%20Sangue.md "Desejo por Sangue") | [Desejo por Sangue](../Suporte/Desejo%20por%20Sangue.md "Desejo por Sangue") | | Amistr | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | 320 (+105 por nível) | | [SP](../Sem%20categoria/SP.md "SP") | 10 (+2,5 por nível) | | [FOR](../Sem%20categoria/FOR.md "FOR") | 20 (+0,91 por nível) | | [AGI](../Sem%20categoria/AGI.md "AGI") | 17 (+0,71 por nível) | | [VIT](../Sem%20categoria/VIT.md "VIT") | 35 (+0,71 por nível) | | [INT](../Sem%20categoria/INT.md "INT") | 11 (+0,1 por nível) | | [DES](../Sem%20categoria/DES.md "DES") | 24 (+0,59 por nível) | | [SOR](../Sem%20categoria/SOR.md "SOR") | 12 (+0,59 por nível) | |
+| - **Tipo:** Defensor - **Raça:** [Bruto](../Sem%20categoria/Bruto.md "Bruto") - **Comida:** 912.png [Zargônio](http://www.divine-pride.net/database/item/912/) |
+| Filir2 Filir | |  |  | | --- | --- | | [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") | [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") |  |  |  | | --- | --- | | [Voo Frenético](../Suporte/Voo%20Fren%C3%A9tico.md "Voo Frenético") | [Voo Frenético](../Suporte/Voo%20Fren%C3%A9tico.md "Voo Frenético") |  |  |  | | --- | --- | | [Voo Acelerado](../Suporte/Voo%20Acelerado.md "Voo Acelerado") | [Voo Acelerado](../Suporte/Voo%20Acelerado.md "Voo Acelerado") |  |  |  | | --- | --- | | [S.B.R.44](../Ofensiva/S.B.R.44.md "S.B.R.44") | [S.B.R.44](../Ofensiva/S.B.R.44.md "S.B.R.44") | | Filir | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | 90 (+60 por nível) | | [SP](../Sem%20categoria/SP.md "SP") | 25 (+4,5 por nível) | | [FOR](../Sem%20categoria/FOR.md "FOR") | 29 (+0,71 por nível) | | [AGI](../Sem%20categoria/AGI.md "AGI") | 35 (+0,92 por nível) | | [VIT](../Sem%20categoria/VIT.md "VIT") | 9 (+0,1 por nível) | | [INT](../Sem%20categoria/INT.md "INT") | 8 (+0,59 por nível) | | [DES](../Sem%20categoria/DES.md "DES") | 30 (+0,71 por nível) | | [SOR](../Sem%20categoria/SOR.md "SOR") | 9 (+0,59 por nível) | |
+| - **Tipo:** Ágil - **Raça:** [Bruto](../Sem%20categoria/Bruto.md "Bruto") - **Comida:** 910.png [Garleta](http://www.divine-pride.net/database/item/910/) |
+| Vanilmirth2 Vanilmirth | |  |  | | --- | --- | | [Capricho](../Ofensiva/Capricho.md "Capricho") | [Capricho](../Ofensiva/Capricho.md "Capricho") |  |  |  | | --- | --- | | [Bênção Caótica](../Suporte/B%C3%AAn%C3%A7%C3%A3o%20Ca%C3%B3tica.md "Bênção Caótica") | [Bênção Caótica](../Suporte/B%C3%AAn%C3%A7%C3%A3o%20Ca%C3%B3tica.md "Bênção Caótica") |  |  |  | | --- | --- | | [Mudança de Planos](../Passiva/Mudan%C3%A7a%20de%20Planos.md "Mudança de Planos") | [Mudança de Planos](../Passiva/Mudan%C3%A7a%20de%20Planos.md "Mudança de Planos") |  |  |  | | --- | --- | | [Bioexplosão](../Ofensiva/Bioexplos%C3%A3o.md "Bioexplosão") | [Bioexplosão](../Ofensiva/Bioexplos%C3%A3o.md "Bioexplosão") | | Vanilmirth | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | 80 (+90 por nível) | | [SP](../Sem%20categoria/SP.md "SP") | 11 (+3,5 por nível) | | [FOR](../Sem%20categoria/FOR.md "FOR") | 11 (+1,1 por nível) | | [AGI](../Sem%20categoria/AGI.md "AGI") | 11 (+1,1 por nível) | | [VIT](../Sem%20categoria/VIT.md "VIT") | 11 (+1,1 por nível) | | [INT](../Sem%20categoria/INT.md "INT") | 11 (+1,1 por nível) | | [DES](../Sem%20categoria/DES.md "DES") | 11 (+1,1 por nível) | | [SOR](../Sem%20categoria/SOR.md "SOR") | 11 (+1,1 por nível) | |
+| - **Tipo:** Versátil - **Raça:** [Amorfo](../Sem%20categoria/Amorfo.md "Amorfo") - **Comida:** 911.png [Scell](http://www.divine-pride.net/database/item/911/) |
+
+## Homunculus S
+
+- Para conseguir um Homunculus S, você precisa:
+  - Ter um Homunculus evoluído na segunda forma e no nível 99 ou superior.
+  - Ser da classe dos [Bioquímicos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Bioqu%C3%ADmicos.md "Bioquímicos") ou evoluções.
+  - Completar a **[Quest de Homunculus S](../Quest/Novas%20habilidades-%20Mercadores%20e%20evolu%C3%A7%C3%B5es.md#Homunculus_S "Novas habilidades: Mercadores e evoluções")**.
+
+Quando evoluído, o Homunculus S perderá toda a lealdade da forma anterior, mas manterá todas as habilidades do Homunculus inicial.
+
+Diferente dos Homunculus iniciais, os Homunculus S desbloqueiam habilidades novas a partir de um determinado nível.
+
+| Homunculus S | Habilidades | Aparência | Crescimento |
+| --- | --- | --- | --- |
+| Arte Bayeri Bayeri | Nv. 105: [Impacto Preciso](../Ofensiva/Impacto%20Preciso.md "Impacto Preciso") [Impacto Preciso](../Ofensiva/Impacto%20Preciso.md "Impacto Preciso")  Nv. 112: [Fúria Iluminada](../Suporte/F%C3%BAria%20Iluminada.md "Fúria Iluminada") [Fúria Iluminada](../Suporte/F%C3%BAria%20Iluminada.md "Fúria Iluminada")  Nv. 121: [Luz Salvadora](../Suporte/Luz%20Salvadora.md "Luz Salvadora") [Luz Salvadora](../Suporte/Luz%20Salvadora.md "Luz Salvadora")  Nv. 130: [Raiva Iluminada](../Suporte/Raiva%20Iluminada.md "Raiva Iluminada") [Raiva Iluminada](../Suporte/Raiva%20Iluminada.md "Raiva Iluminada")  Nv. 138: [Illuminatus](../Ofensiva/Illuminatus.md "Illuminatus") [Illuminatus](../Ofensiva/Illuminatus.md "Illuminatus")  Nv. 210: [Chifre Iluminado](../Ofensiva/Chifre%20Iluminado.md "Chifre Iluminado") [Chifre Iluminado](../Ofensiva/Chifre%20Iluminado.md "Chifre Iluminado")  Nv. 215: [Ponta Reluzente](../Ofensiva/Ponta%20Reluzente.md "Ponta Reluzente") [Ponta Reluzente](../Ofensiva/Ponta%20Reluzente.md "Ponta Reluzente")  Nv. 215: [Equitatio](../Ofensiva/Equitatio.md "Equitatio") [Equitatio](../Ofensiva/Equitatio.md "Equitatio")  Nv. 230: [Couro Dourado](../Ofensiva/Couro%20Dourado.md "Couro Dourado") [Couro Dourado](../Ofensiva/Couro%20Dourado.md "Couro Dourado") | Bayeri | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | +225 | | [SP](../Sem%20categoria/SP.md "SP") | +50 | | [FOR](../Sem%20categoria/FOR.md "FOR") | +2,26 | | [AGI](../Sem%20categoria/AGI.md "AGI") | +1,76 | | [VIT](../Sem%20categoria/VIT.md "VIT") | +1,94 | | [INT](../Sem%20categoria/INT.md "INT") | +2,87 | | [DES](../Sem%20categoria/DES.md "DES") | +1,38 | | [SOR](../Sem%20categoria/SOR.md "SOR") | +2,41 | |
+| - **Tipo:** Atacante - **Raça:** [Bruto](../Sem%20categoria/Bruto.md "Bruto") - **Comida:** 6112.png [Planta Fresca](http://www.divine-pride.net/database/item/6112/) |
+| Arte Dieter Dieter | Nv. 102: [Cinzas Vulcânicas](../Ativa/Cinzas%20Vulc%C3%A2nicas.md "Cinzas Vulcânicas") [Cinzas Vulcânicas](../Ativa/Cinzas%20Vulc%C3%A2nicas.md "Cinzas Vulcânicas")  Nv. 109: [Derretimento com Lava](../Ofensiva/Derretimento%20com%20Lava.md "Derretimento com Lava") [Derretimento com Lava](../Ofensiva/Derretimento%20com%20Lava.md "Derretimento com Lava")  Nv. 116: [Armadura de Granito](../Suporte/Armadura%20de%20Granito.md "Armadura de Granito") [Armadura de Granito](../Suporte/Armadura%20de%20Granito.md "Armadura de Granito")  Nv. 122: [Inundação de Magma](../Ativa/Inunda%C3%A7%C3%A3o%20de%20Magma.md "Inundação de Magma") [Inundação de Magma](../Ativa/Inunda%C3%A7%C3%A3o%20de%20Magma.md "Inundação de Magma")  Nv. 131: [Piroclástico](../Suporte/Pirocl%C3%A1stico.md "Piroclástico") [Piroclástico](../Suporte/Pirocl%C3%A1stico.md "Piroclástico")  Nv. 210: [Lava Quente](../Ofensiva/Lava%20Quente.md "Lava Quente") [Lava Quente](../Ofensiva/Lava%20Quente.md "Lava Quente")  Nv. 215: [Grande Fornalha](../Ofensiva/Grande%20Fornalha.md "Grande Fornalha") [Grande Fornalha](../Ofensiva/Grande%20Fornalha.md "Grande Fornalha")  Nv. 230: [Têmpera](../Ofensiva/T%C3%AAmpera.md "Têmpera") [Têmpera](../Ofensiva/T%C3%AAmpera.md "Têmpera") | Dieter | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | +360 | | [SP](../Sem%20categoria/SP.md "SP") | +80 | | [FOR](../Sem%20categoria/FOR.md "FOR") | +2,57 | | [AGI](../Sem%20categoria/AGI.md "AGI") | +1,5 | | [VIT](../Sem%20categoria/VIT.md "VIT") | +2,26 | | [INT](../Sem%20categoria/INT.md "INT") | +2,27 | | [DES](../Sem%20categoria/DES.md "DES") | +1,94 | | [SOR](../Sem%20categoria/SOR.md "SOR") | +0,54 | |
+| - **Tipo:** Defensor - **Raça:** [Amorfo](../Sem%20categoria/Amorfo.md "Amorfo") - **Comida:** 6104.png [Cristal Gigante](http://www.divine-pride.net/database/item/6104/) |
+| Arte Eira Eira | Nv. 106: [Choque Supersônico](../Ofensiva/Choque%20Supers%C3%B4nico.md "Choque Supersônico") [Choque Supersônico](../Ofensiva/Choque%20Supers%C3%B4nico.md "Choque Supersônico")  Nv. 114: [Superestimular](../Suporte/Superestimular.md "Superestimular") [Superestimular](../Suporte/Superestimular.md "Superestimular")  Nv. 121: [Onda Supersônica](../Ofensiva/Onda%20Supers%C3%B4nica.md "Onda Supersônica") [Onda Supersônica](../Ofensiva/Onda%20Supers%C3%B4nica.md "Onda Supersônica")  Nv. 128: [Luz da Vida](../Suporte/Luz%20da%20Vida.md "Luz da Vida") [Luz da Vida](../Suporte/Luz%20da%20Vida.md "Luz da Vida")  Nv. 137: [Brisa da Calmaria](../Suporte/Brisa%20da%20Calmaria.md "Brisa da Calmaria") [Brisa da Calmaria](../Suporte/Brisa%20da%20Calmaria.md "Brisa da Calmaria")  Nv. 210: [Voo Elegante](../Passiva/Voo%20Elegante.md "Voo Elegante") [Voo Elegante](../Passiva/Voo%20Elegante.md "Voo Elegante")  Nv. 215: [Corte Supersônico](../Ofensiva/Corte%20Supers%C3%B4nico.md "Corte Supersônico") [Corte Supersônico](../Ofensiva/Corte%20Supers%C3%B4nico.md "Corte Supersônico")  Nv. 230: [Zéfiro Absoluto](../Ofensiva/Z%C3%A9firo%20Absoluto.md "Zéfiro Absoluto") [Zéfiro Absoluto](../Ofensiva/Z%C3%A9firo%20Absoluto.md "Zéfiro Absoluto") | Eira | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | +100 | | [SP](../Sem%20categoria/SP.md "SP") | +31 | | [FOR](../Sem%20categoria/FOR.md "FOR") | +2,11 | | [AGI](../Sem%20categoria/AGI.md "AGI") | +3,07 | | [VIT](../Sem%20categoria/VIT.md "VIT") | +1,55 | | [INT](../Sem%20categoria/INT.md "INT") | +2,63 | | [DES](../Sem%20categoria/DES.md "DES") | +2,14 | | [SOR](../Sem%20categoria/SOR.md "SOR") | +0,9 | |
+| - **Tipo:** Suporte - **Raça:** [Anjo](../Sem%20categoria/Anjo.md "Anjo") - **Comida:** 6098.png [Cristal de Neve](http://www.divine-pride.net/database/item/6098/) |
+| Arte Sera Sera | Nv. 105: [Ponto de Paralisia](../Ofensiva/Ponto%20de%20Paralisia.md "Ponto de Paralisia") [Ponto de Paralisia](../Ofensiva/Ponto%20de%20Paralisia.md "Ponto de Paralisia")  Nv. 116: [Névoa Venenosa](../Ofensiva/N%C3%A9voa%20Venenosa.md "Névoa Venenosa") [Névoa Venenosa](../Ofensiva/N%C3%A9voa%20Venenosa.md "Névoa Venenosa")  Nv. 123: [Analgésico](../Suporte/Analg%C3%A9sico.md "Analgésico") [Analgésico](../Suporte/Analg%C3%A9sico.md "Analgésico")  Nv. 132: [Convocação](../Ativa/Convoca%C3%A7%C3%A3o.md "Convocação") [Convocação](../Ativa/Convoca%C3%A7%C3%A3o.md "Convocação")  Nv. 210: [Ferrão Polido](../Passiva/Ferr%C3%A3o%20Polido.md "Ferrão Polido") [Ferrão Polido](../Passiva/Ferr%C3%A3o%20Polido.md "Ferrão Polido")  Nv. 215: [Toxina de Mandara](../Ofensiva/Toxina%20de%20Mandara.md "Toxina de Mandara") [Toxina de Mandara](../Ofensiva/Toxina%20de%20Mandara.md "Toxina de Mandara")  Nv. 230: [Ferroada](../Ofensiva/Ferroada.md "Ferroada") [Ferroada](../Ofensiva/Ferroada.md "Ferroada") | Sera | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | +150 | | [SP](../Sem%20categoria/SP.md "SP") | +50 | | [FOR](../Sem%20categoria/FOR.md "FOR") | +1,38 | | [AGI](../Sem%20categoria/AGI.md "AGI") | +1,94 | | [VIT](../Sem%20categoria/VIT.md "VIT") | +1,05 | | [INT](../Sem%20categoria/INT.md "INT") | +1,66 | | [DES](../Sem%20categoria/DES.md "DES") | +2,92 | | [SOR](../Sem%20categoria/SOR.md "SOR") | +2,57 | |
+| - **Tipo:** Versátil - **Raça:** [Inseto](../Sem%20categoria/Inseto.md "Inseto") - **Comida:** 6108.png [Gelatina de Maçã](http://www.divine-pride.net/database/item/6108/) |
+| Arte Eleanor Eleanor | Nv. 100: [Estilo de Luta](../Ativa/Estilo%20de%20Luta.md "Estilo de Luta") [Estilo de Luta](../Ativa/Estilo%20de%20Luta.md "Estilo de Luta")  Nv. 100: [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica")  Nv. 100: [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas")  Nv. 112: [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático")  Nv. 114: [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante")  Nv. 128: [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno")  Nv. 133: [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático")  Nv. 210: [Garras Afiadas](../Ofensiva/Garras%20Afiadas.md "Garras Afiadas") [Garras Afiadas](../Ofensiva/Garras%20Afiadas.md "Garras Afiadas")  Nv. 215: [Veloz e Furiosa](../Ofensiva/Veloz%20e%20Furiosa.md "Veloz e Furiosa") [Veloz e Furiosa](../Ofensiva/Veloz%20e%20Furiosa.md "Veloz e Furiosa")  Nv. 230: [Lutadora Ascendente](../Ofensiva/Lutadora%20Ascendente.md "Lutadora Ascendente") [Lutadora Ascendente](../Ofensiva/Lutadora%20Ascendente.md "Lutadora Ascendente") | Eleanor | |  |  | | --- | --- | | [HP](../Sem%20categoria/HP.md "HP") | +180 | | [SP](../Sem%20categoria/SP.md "SP") | +15 | | [FOR](../Sem%20categoria/FOR.md "FOR") | +2,57 | | [AGI](../Sem%20categoria/AGI.md "AGI") | +2,56 | | [VIT](../Sem%20categoria/VIT.md "VIT") | +3,12 | | [INT](../Sem%20categoria/INT.md "INT") | +0,55 | | [DES](../Sem%20categoria/DES.md "DES") | +1,96 | | [SOR](../Sem%20categoria/SOR.md "SOR") | +0,11 | |
+| - **Tipo:** Ágil - **Raça:** [Humanoide](../Sem%20categoria/Humanoide.md "Humanoide") - **Comida:** 6115.png [Bolinho Quente](http://www.divine-pride.net/database/item/6115/) |
+
+## Lealdade
+
+Lealdade é um ponto que o personagem consegue ao cuidar bem do seu homunculus.
+
+Todos os homunculus começam com 21 pontos de lealdade, num máximo de 1.000 pontos.
+
+Os pontos de lealdade não aparecem diretamente na janela de informação dos homunculus, mas como nomes de acordo com a pontuação.
+
+Ao atingir 911 pontos de lealdade, o homunculus pode mudar para uma segunda forma, que aumenta o [HP](../Sem%20categoria/HP.md "HP") e o [SP](../Sem%20categoria/SP.md "SP") e garante uma habilidade especial.
+
+- Um método capaz de aumentar a lealdade do homunculus é alimentando-o corretamente ou usando um ![100371.png](http://static.divine-pride.net/images/items/item/100371.png) [Suplemento de Homunculus](http://www.divine-pride.net/database/item/100371/) que garante +50 pontos de lealdade.
+- Se seu homunculus estiver entre 1 a 10% de fome, ele perderá 1 ponto de lealdade a cada 200 segundos.
+- Se ela estiver baixa demais, o homunculus foge e o personagem deverá criar outro totalmente do zero.
+
+A lealdade é perdida apenas ao não alimentá-lo, mudar de forma, usar habilidades específicas como [Bioexplosão](../Ofensiva/Bioexplos%C3%A3o.md "Bioexplosão") ou evoluir para Homunculus S.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Lealdade | Estado | | --- | --- | | 1 - 3 | Inimigo | | 4 - 10 | Não Amigo | | 11 - 100 | Baixíssima | | 101 - 250 | Baixa | | 251 - 750 | Nenhuma | | 751 - 910 | Normal | | 911 - 1.000 | Alta | | | Fome | Lealdade | | --- | --- | | 1% a 10% | +0,5 | | 11% a 25% | +1 | | 26% a 75% | +0,75 | | 76% a 90% | -0,05 | | 91% a 100% | -0,5 | |
+
+## Comandos
+
+O Homunculus ataca automaticamente de acordo com a programação da A.I.
+
+| Comando | Descrição |
+| --- | --- |
+| ALT + Botão direito do mouse no alvo | Seleciona um alvo para atacar. |
+| ALT + Botão direito do mouse no chão | Move o homunculus até o ponto escolhido. |
+| ALT + T ou opção "*Aguardar*" | O homunculus para de atacar. |
+| ALT + R ou opção "*Status*" | Abre a janela de informações homunculus. |
+| /hoai | Alterna entre a A.I. padrão e a personalizada. |
+
+### AI
+
+Seu homunculus pode usar a programação da A.I., a Inteligência Artificial.
+
+Normalmente, o jogo já fornece uma A.I. padrão, mas é totalmente permitido personalizar a sua, com algumas ressalvas.
+
+Abaixo, alguns comandos que você pode fazer manualmente.
+
+Caso opte por baixar e instalar uma A.I. personalizada, é necessário instalar o arquivo na pasta correta, bem como examiná-lo antes de qualquer ação, afim de evitar vírus ou malwares no seu computador.
+
+1. Clique com o botão direito do mouse em cima do ícone do jogo e selecione *Abrir local do arquivo*.
+
+   :   ![Ai1](../images/1/10/Ai1.jpg)
+2. Procure pela pasta A.I., dentro dela, crie uma nova pasta com o nome **USER\_AI**.
+
+   :   ![Ai2](../images/3/37/Ai2.jpg)
+3. Na USER\_AI, você instalará apenas *uma* A.I. personalizada.
+
+   :   ![Ai3](../images/0/0f/Ai3.jpg)
+4. Conecte-se no jogo após a instalação:
+   1. Digite `/hoai`
+   2. A mensagem "*Homunculus controlado pelo Jogador*" deve aparecer.
+   3. Use [Vaporizar](../Suporte/Vaporizar.md "Vaporizar") e depois [Despertar Homunculus](../Ativa/Despertar%20Homunculus.md "Despertar Homunculus") para começar a usar a A.I. personalizada.
+
+| *Homunculus* | | |
+| --- | --- | --- |
+| Forma Inicial | Amistr | [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") · [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") · [Pele de Adamantium](../Passiva/Pele%20de%20Adamantium.md "Pele de Adamantium") · **[Desejo por Sangue](../Suporte/Desejo%20por%20Sangue.md "Desejo por Sangue")** |
+| Filir | [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") · [Voo Frenético](../Suporte/Voo%20Fren%C3%A9tico.md "Voo Frenético") · [Voo Acelerado](../Suporte/Voo%20Acelerado.md "Voo Acelerado") · **[S.B.R.44](../Ofensiva/S.B.R.44.md "S.B.R.44")** |
+| Lif | [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") · [Bater em Retirada](../Suporte/Bater%20em%20Retirada.md "Bater em Retirada") · [Cirurgia Cerebral](../Passiva/Cirurgia%20Cerebral.md "Cirurgia Cerebral") · **[Esforço Mental](../Suporte/Esfor%C3%A7o%20Mental.md "Esforço Mental")** |
+| Vanilmirth | [Capricho](../Ofensiva/Capricho.md "Capricho") · [Bênção Caótica](../Suporte/B%C3%AAn%C3%A7%C3%A3o%20Ca%C3%B3tica.md "Bênção Caótica") · [Mudança de Planos](../Passiva/Mudan%C3%A7a%20de%20Planos.md "Mudança de Planos") · **[Bioexplosão](../Ofensiva/Bioexplos%C3%A3o.md "Bioexplosão")** |
+| Forma S | Bayeri | [Impacto Preciso](../Ofensiva/Impacto%20Preciso.md "Impacto Preciso") · [Fúria Iluminada](../Suporte/F%C3%BAria%20Iluminada.md "Fúria Iluminada") · [Luz Salvadora](../Suporte/Luz%20Salvadora.md "Luz Salvadora") · [Raiva Iluminada](../Suporte/Raiva%20Iluminada.md "Raiva Iluminada") · [Illuminatus](../Ofensiva/Illuminatus.md "Illuminatus") · [Chifre Iluminado](../Ofensiva/Chifre%20Iluminado.md "Chifre Iluminado") · [Ponta Reluzente](../Ofensiva/Ponta%20Reluzente.md "Ponta Reluzente") · [Equitatio](../Ofensiva/Equitatio.md "Equitatio") · [Couro Dourado](../Ofensiva/Couro%20Dourado.md "Couro Dourado") |
+| Dieter | [Cinzas Vulcânicas](../Ativa/Cinzas%20Vulc%C3%A2nicas.md "Cinzas Vulcânicas") · [Derretimento com Lava](../Ofensiva/Derretimento%20com%20Lava.md "Derretimento com Lava") · [Armadura de Granito](../Suporte/Armadura%20de%20Granito.md "Armadura de Granito") · [Inundação de Magma](../Ativa/Inunda%C3%A7%C3%A3o%20de%20Magma.md "Inundação de Magma") · [Piroclástico](../Suporte/Pirocl%C3%A1stico.md "Piroclástico") · [Lava Quente](../Ofensiva/Lava%20Quente.md "Lava Quente") · [Grande Fornalha](../Ofensiva/Grande%20Fornalha.md "Grande Fornalha") · [Têmpera](../Ofensiva/T%C3%AAmpera.md "Têmpera") |
+| Eira | [Choque Supersônico](../Ofensiva/Choque%20Supers%C3%B4nico.md "Choque Supersônico") · [Superestimular](../Suporte/Superestimular.md "Superestimular") · [Onda Supersônica](../Ofensiva/Onda%20Supers%C3%B4nica.md "Onda Supersônica") · [Luz da Vida](../Suporte/Luz%20da%20Vida.md "Luz da Vida") · [Brisa da Calmaria](../Suporte/Brisa%20da%20Calmaria.md "Brisa da Calmaria") · [Voo Elegante](../Passiva/Voo%20Elegante.md "Voo Elegante") · [Corte Supersônico](../Ofensiva/Corte%20Supers%C3%B4nico.md "Corte Supersônico") · [Zéfiro Absoluto](../Ofensiva/Z%C3%A9firo%20Absoluto.md "Zéfiro Absoluto") |
+| Eleanor | [Estilo de Luta](../Ativa/Estilo%20de%20Luta.md "Estilo de Luta") · [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") · [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") · [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") · [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") · [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") · [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") · [Garras Afiadas](../Ofensiva/Garras%20Afiadas.md "Garras Afiadas") · [Veloz e Furiosa](../Ofensiva/Veloz%20e%20Furiosa.md "Veloz e Furiosa") · [Lutadora Ascendente](../Ofensiva/Lutadora%20Ascendente.md "Lutadora Ascendente") |
+| Sera | [Ponto de Paralisia](../Ofensiva/Ponto%20de%20Paralisia.md "Ponto de Paralisia") · [Névoa Venenosa](../Ofensiva/N%C3%A9voa%20Venenosa.md "Névoa Venenosa") · [Analgésico](../Suporte/Analg%C3%A9sico.md "Analgésico") · [Convocação](../Ativa/Convoca%C3%A7%C3%A3o.md "Convocação") · [Ferrão Polido](../Passiva/Ferr%C3%A3o%20Polido.md "Ferrão Polido") · [Toxina de Mandara](../Ofensiva/Toxina%20de%20Mandara.md "Toxina de Mandara") · [Ferroada](../Ofensiva/Ferroada.md "Ferroada") |
+| Outros | *[Bioética](../Passiva/Bio%C3%A9tica.md "Bioética")* · [Despertar Homunculus](../Ativa/Despertar%20Homunculus.md "Despertar Homunculus") · [Ressuscitar Homunculus](../Suporte/Ressuscitar%20Homunculus.md "Ressuscitar Homunculus") · [Vaporizar](../Suporte/Vaporizar.md "Vaporizar") | |

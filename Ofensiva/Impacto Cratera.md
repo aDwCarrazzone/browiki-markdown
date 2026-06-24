@@ -1,0 +1,66 @@
+# Impacto Cratera
+
+# Impacto Cratera
+
+|  |  |
+| --- | --- |
+| **Impacto Cratera Impacto Cratera** | |
+| [Arquivo:Impacto Cratera.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Impacto_Cratera.gif "Arquivo:Impacto Cratera.gif") | |
+| **Impact Crater / Impacto Cráter** | |
+| **ID** | SHC\_IMPACT\_CRATER (5292) |
+| **Tipo** | Ofensiva |
+| **Níveis** | 5 |
+| **[SP](../Sem%20categoria/SP.md "SP")** | 40 + (Nv. da habilidade × 3) |
+| **Regen. de [AP](../Sem%20categoria/AP.md "AP")** | **5** |
+| **Pós-conjuração** | 0,5 segundos |
+| **Recarga** | 5 segundos |
+| **Alvo** | Usuário |
+| **Área** | 3x3 a 7x7 células |
+| **Arma** | Katar |
+| **Pré-requisitos** | |
+| - [Lâminas de Loki](L%C3%A2minas%20de%20Loki.md "Lâminas de Loki") [Lâminas de Loki](L%C3%A2minas%20de%20Loki.md "Lâminas de Loki") Nv. 5 - [Reflexo de Combate](../Ativa/Reflexo%20de%20Combate.md "Reflexo de Combate") [Reflexo de Combate](../Ativa/Reflexo%20de%20Combate.md "Reflexo de Combate") Nv. 3 - [Senso das Sombras](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") [Senso das Sombras](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") Nv. 5 - [Impacto Brutal](Impacto%20Brutal.md "Impacto Brutal") [Impacto Brutal](Impacto%20Brutal.md "Impacto Brutal") Nv. 5 | |
+
+Bate o Katar no chão, abrindo uma cratera.
+
+Causa dano físico corpo a corpo ao seu redor.
+
+O número de golpes aumenta de acordo com seus [Pontos de Rotação](L%C3%A2minas%20de%20Loki.md "Lâminas de Loki").
+
+Ao ser usada, concede imediatamente o estado de [Reflexão](../Ativa/Reflexo%20de%20Combate.md "Reflexo de Combate") por 10 segundos.
+
+É possível causar dano crítico com a habilidade.
+
+A chance do ataque crítico é a metade do [CRIT](../Sem%20categoria/CRIT.md "CRIT") do usuário.
+
+| Nv. | [ATQ](../Sem%20categoria/ATQ.md "ATQ") | Área | [SP](../Sem%20categoria/SP.md "SP") |
+| --- | --- | --- | --- |
+| 1 | 65% × Rotação | 3x3 células | 43 |
+| 2 | 130% × Rotação | 46 |
+| 3 | 195% × Rotação | 5x5 células | 49 |
+| 4 | 260% × Rotação | 52 |
+| 5 | 325% × Rotação | 7x7 células | 55 |
+
+### Fórmula
+
+`Dano = [Dano base + (POD x 3)] x (Nv. de base ÷ 100]%`
+
+## Notas
+
+- Esta é uma **[Habilidade Crítica](Categoria-Habilidades críticas.md "Categoria:Habilidades críticas").**
+- Não é possível usar se não tiver [Pontos de Rotação](L%C3%A2minas%20de%20Loki.md "Lâminas de Loki").
+- Armas relacionadas:
+  - ![610015.png](http://static.divine-pride.net/images/items/item/610015.png) [Katar Decadente](http://www.divine-pride.net/database/item/610015/)
+  - ![610019.png](http://static.divine-pride.net/images/items/item/610019.png) [Katar de Cinzas-AD](http://www.divine-pride.net/database/item/610019/) [[1]](#cite_note-reforma-1)
+
+### Referências
+
+1. [↑](#cite_ref-reforma_1-0) [Reforma](../Itens/Reforma.md "Reforma")
+
+| *A Luz das Trevas* | |
+| --- | --- |
+| |  |  | | --- | --- | | [Gatunospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | | [Arremessar Pedra](Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [Mercenáriospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercen%C3%A1rios.md "Mercenários") | [Mercenários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercen%C3%A1rios.md "Mercenários") | | [Envenenar Arma](../Suporte/Envenenar%20Arma.md "Envenenar Arma") · [Explosão Tóxica](Explos%C3%A3o%20T%C3%B3xica.md "Explosão Tóxica") · *[Faca Envenenada](Faca%20Envenenada.md "Faca Envenenada")* · [Furtividade](../Ativa/Furtividade.md "Furtividade") · *[Lâminas Aceleradas](../Passiva/L%C3%A2minas%20Aceleradas.md "Lâminas Aceleradas")* · [Lâminas Destruidoras](L%C3%A2minas%20Destruidoras.md "Lâminas Destruidoras") · [Névoa Tóxica](../Ativa/N%C3%A9voa%20T%C3%B3xica.md "Névoa Tóxica") · [Perícia com Katar](../Passiva/Per%C3%ADcia%20com%20Katar.md "Perícia com Katar") · [Perícia com Mão Direita](../Passiva/Per%C3%ADcia%20com%20M%C3%A3o%20Direita.md "Perícia com Mão Direita") · [Perícia com Mão Esquerda](../Passiva/Per%C3%ADcia%20com%20M%C3%A3o%20Esquerda.md "Perícia com Mão Esquerda") · [Refletir Veneno](../Ativa/Refletir%20Veneno.md "Refletir Veneno") · [Tocaia](Tocaia.md "Tocaia") |
+| |  |  | | --- | --- | | [Algozespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Algozes.md "Algozes") | [Algozes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Algozes.md "Algozes") | | [Criar Veneno Mortal](../Ativa/Criar%20Veneno%20Mortal.md "Criar Veneno Mortal") · [Destruidor de Almas](Destruidor%20de%20Almas.md "Destruidor de Almas") · [Encantar com Veneno Mortal](../Suporte/Encantar%20com%20Veneno%20Mortal.md "Encantar com Veneno Mortal") · [Impacto Meteoro](Impacto%20Meteoro.md "Impacto Meteoro") · [Perícia com Katar Avançada](../Passiva/Per%C3%ADcia%20com%20Katar%20Avan%C3%A7ada.md "Perícia com Katar Avançada") |
+| |  |  | | --- | --- | | [Sicáriospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sic%C3%A1rios.md "Sicários") | [Sicários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sic%C3%A1rios.md "Sicários") | | [Ameaça Fantasma](Amea%C3%A7a%20Fantasma.md "Ameaça Fantasma") · [Antídoto](../Suporte/Ant%C3%ADdoto.md "Antídoto") · [Aplicar Toxina](../Ativa/Aplicar%20Toxina.md "Aplicar Toxina") · [Castigo de Loki](Castigo%20de%20Loki.md "Castigo de Loki") · [Criar Toxina](../Ativa/Criar%20Toxina.md "Criar Toxina") · [Estilhaçar Arma](Estilha%C3%A7ar%20Arma.md "Estilhaçar Arma") · [Garra Sombria](Garra%20Sombria.md "Garra Sombria") · [Intoxicar](Intoxicar.md "Intoxicar") · [Lâminas de Loki](L%C3%A2minas%20de%20Loki.md "Lâminas de Loki") · [Lâminas Retalhadoras](L%C3%A2minas%20Retalhadoras.md "Lâminas Retalhadoras") · *[Maximizar Poder](../Suporte/Maximizar%20Poder.md "Maximizar Poder")* · [Nevoeiro Tóxico](../Ativa/Nevoeiro%20T%C3%B3xico.md "Nevoeiro Tóxico") · [Ocultação](../Ativa/Oculta%C3%A7%C3%A3o.md "Ocultação") · [Passo Sombrio](Passo%20Sombrio.md "Passo Sombrio") · [Passos da Ilusão](../Suporte/Passos%20da%20Ilus%C3%A3o.md "Passos da Ilusão") · [Pesquisa de Toxinas](../Passiva/Pesquisa%20de%20Toxinas.md "Pesquisa de Toxinas") · [Potencializar Veneno](../Ativa/Potencializar%20Veneno.md "Potencializar Veneno") · [Reflexo de Combate](../Ativa/Reflexo%20de%20Combate.md "Reflexo de Combate") · [Retaliação](Retalia%C3%A7%C3%A3o.md "Retaliação") |
+| |  |  | | --- | --- | | [Executorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Executores.md "Executores") | [Executores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Executores.md "Executores") | | [Adagas Voadoras](Adagas%20Voadoras.md "Adagas Voadoras") · [Adulterar Veneno](../Ativa/Adulterar%20Veneno.md "Adulterar Veneno") · [Carrasco Sombrio](../Suporte/Carrasco%20Sombrio.md "Carrasco Sombrio") · [Facada](Facada.md "Facada") · [Impacto Brutal](Impacto%20Brutal.md "Impacto Brutal") · Impacto Cratera · [Profanar Arma](../Suporte/Profanar%20Arma.md "Profanar Arma") · [Revoada Sombria](Revoada%20Sombria.md "Revoada Sombria") · [Senso das Sombras](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") · [Talho Eterno](Talho%20Eterno.md "Talho Eterno") |
+| [Quests](../Quest/Quests.md "Quests") | [Mudança de Classe: Mercenários](../Quest/Mudan%C3%A7a%20de%20Classe-%20Mercen%C3%A1rios.md "Mudança de Classe: Mercenários") · [Mudança de Classe: Sicários](../Quest/Mudan%C3%A7a%20de%20Classe-%20Sic%C3%A1rios.md "Mudança de Classe: Sicários") · [Mudança de Classe: Executores](../Quest/Mudan%C3%A7a%20de%20Classe-%20Executores.md "Mudança de Classe: Executores") [Novas habilidades](../Quest/Novas%20habilidades-%20Gatunos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Gatunos e evoluções") |

@@ -1,0 +1,7 @@
+# Grito de Liberdade
+
+# Grito de Liberdade
+
+Redirecionar para:
+
+- [Vocação Musical](../Suporte/Voca%C3%A7%C3%A3o%20Musical.md "Vocação Musical")

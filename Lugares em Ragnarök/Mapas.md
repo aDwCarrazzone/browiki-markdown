@@ -1,0 +1,122 @@
+# Mapas
+
+# Mapas
+
+O mundo dos humanos, como Midgard é conhecida, é apenas 1 dos 9 mundos existentes na mitologia.
+
+É em Midgard onde você começa suas aventuras em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online").
+
+Para não se perder, use a [navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação"), o mapa-múndi e o mini-mapa na sua tela lateral superior.
+
+- [![Mapa-múndi](../images/e/e3/Wold_map_real.jpg)](https://browiki.org/wiki/Arquivo%3AWold_map_real.jpg "Mapa-múndi")
+
+  Mapa-múndi
+- [![Norte de Midgard](../images/5/53/Midgard_North.jpg)](https://browiki.org/wiki/Arquivo%3AMidgard_North.jpg "Norte de Midgard")
+
+  Norte de Midgard
+- [![Issgard](../images/3/37/Issgard.jpg)](https://browiki.org/wiki/Arquivo%3AIssgard.jpg "Issgard")
+
+  Issgard
+
+## Cidades
+
+Midgard é dividida em 3 grandes continentes:
+
+- **Reino de Rune-Midgard:** Controlado pelas [famílias reais](../Quests%20de%20experi%C3%AAncia/As%20Fam%C3%ADlias%20Reais.md "As Famílias Reais") na capital [Prontera](Prontera.md "Prontera").
+- **República de Schwartzwald:** Governada por um presidente em [Juno](Juno.md "Juno"), conhecido como Karl Weierstrass.
+- **Sacro-Império de Arunafeltz:** Foi fundada por imigrantes que fugiram da perseguição religiosa, é governado por uma Papisa com a tutela de um conselho de Sumo Sacerdotes em [Rachel](Rachel.md "Rachel").
+
+### Reino de Rune-Midgard
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [TipProntera](Prontera.md "Prontera") | [TipIzlude](Izlude.md "Izlude") | [TipPayon](Payon.md "Payon") | [TipAlberta](Alberta.md "Alberta") | [TipMorroc](Morroc.md "Morroc") | [TipGeffen](Geffen.md "Geffen") | [TipAldebaran](Al%20De%20Baran.md "Al De Baran") | [TipComodo](Comodo.md "Comodo") | [TipUmbala](Umbala.md "Umbala") | [TipLutie](Lutie.md "Lutie") |
+| [Prontera](Prontera.md "Prontera") | [Izlude](Izlude.md "Izlude") | [Payon](Payon.md "Payon") | [Alberta](Alberta.md "Alberta") | [Morroc](Morroc.md "Morroc") | [Geffen](Geffen.md "Geffen") | [Al De Baran](Al%20De%20Baran.md "Al De Baran") | [Comodo](Comodo.md "Comodo") | [Umbala](Umbala.md "Umbala") | [Lutie](Lutie.md "Lutie") |
+
+### República de Schwartzwald
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [TipJuno](Juno.md "Juno") | [TipEinbroch](Einbroch.md "Einbroch") | [TipEinbech](Einbech.md "Einbech") | [TipLighthalzen](Lighthalzen.md "Lighthalzen") | [TipHugel](Hugel.md "Hugel") |
+| [Juno](Juno.md "Juno") | [Einbroch](Einbroch.md "Einbroch") | [Einbech](Einbech.md "Einbech") | [Lighthalzen](Lighthalzen.md "Lighthalzen") | [Hugel](Hugel.md "Hugel") |
+
+### Sacro-Império de Arunafeltz
+
+|  |  |  |
+| --- | --- | --- |
+| [TipRachel](Rachel.md "Rachel") | [TipVeins](Veins.md "Veins") | [TipNameless](Ilha%20Esquecida.md "Ilha Esquecida") |
+| [Rachel](Rachel.md "Rachel") | [Veins](Veins.md "Veins") | [Ilha Esquecida](Ilha%20Esquecida.md "Ilha Esquecida") |
+
+### Ilhas Nação
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [TipAmatsu](Amatsu.md "Amatsu") | [TipKunlun](Kunlun.md "Kunlun") | [TipLouyang](Louyang.md "Louyang") | [TipAyothaya](Ayothaya.md "Ayothaya") | [TipMoscovia](Mosc%C3%B3via.md "Moscóvia") | [TipDewata](Dewata.md "Dewata") | [TipBrasilis](Brasilis.md "Brasilis") | [TipMalaya](Porto%20Malaya.md "Porto Malaya") | [TipMalangdo](Malangdo.md "Malangdo") | [TipRockridge](Rockridge.md "Rockridge") |
+| [Amatsu](Amatsu.md "Amatsu") | [Kunlun](Kunlun.md "Kunlun") | [Louyang](Louyang.md "Louyang") | [Ayothaya](Ayothaya.md "Ayothaya") | [Moscóvia](Mosc%C3%B3via.md "Moscóvia") | [Dewata](Dewata.md "Dewata") | [Brasilis](Brasilis.md "Brasilis") | [Malaya](Porto%20Malaya.md "Porto Malaya") | [Malangdo](Malangdo.md "Malangdo") | [Rockridge](Rockridge.md "Rockridge") |
+
+### Além de Midgard
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| [TipManuka](Manuka.md "Manuka") | [TipElDicastes](El%20Dicastes.md "El Dicastes") | [TipMora](Mora.md "Mora") | [TipEsplendor](Esplendor.md "Esplendor") | [TipEclage](Eclage.md "Eclage") |
+| [Manuka](Manuka.md "Manuka") | [El Dicastes](El%20Dicastes.md "El Dicastes") | [Mora](Mora.md "Mora") | [Esplendor](Esplendor.md "Esplendor") | [Eclage](Eclage.md "Eclage") |
+
+## Mapas para evoluir
+
+- Você pode usar o sistema de [navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação") para facilitar sua procura por [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") do seu [nível](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/N%C3%ADvel.md "Nível") e evoluir mais rapidamente.
+- Basta digitar o comando `$$lv14~16` na janela de navegação.
+  - Você pode pesquisar por monstros de acordo com o nível que você digitar.
+  - No caso do exemplo, o sistema vai exibir monstros que estão entre os níveis 14 a 16.
+- Use o sistema da **[Agência de Aventuras](../Sem%20categoria/Ag%C3%AAncia%20de%20Aventuras.md "Agência de Aventuras")** para facilitar a procura de [grupos](../Sem%20categoria/Grupos.md "Grupos").
+- Abaixo encontram-se as rotas mais comuns de evolução de personagem.
+
+| Mapas de up | | | | |
+| --- | --- | --- | --- | --- |
+| | Nível | Mapa | Localização | Cidade próxima | Dificuldade | Observações | | --- | --- | --- | --- | --- | --- | | 1~20 | [Floresta Ravioli](http://www.divine-pride.net/database/map/lasa_fild02/) | (lasa\_fild02 20,98) | [Lasagna](Lasagna.md "Lasagna") | DificuldadeF | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") iniciantes | | 1~18 | [Floresta de Payon 8](http://www.divine-pride.net/database/map/pay_fild08/) | (pay\_fild08 20,74) | [Payon](Payon.md "Payon") | DificuldadeF | - | | 14~19 | [Floresta de Payon 7](http://www.divine-pride.net/database/map/pay_fild07/) | (pay\_fild07 280,379) | [Payon](Payon.md "Payon") | DificuldadeF | - | | 19~26 | [Floresta de Payon 9](http://www.divine-pride.net/database/map/pay_fild09/) | (pay\_fild09 19,91) | [Payon](Payon.md "Payon") | DificuldadeF | Com [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") | | 19~26 | [Monte Mjolnir 6](http://www.divine-pride.net/database/map/mjolnir_06/) | (mjolnir\_06 265,32) | [Geffen](Geffen.md "Geffen") | DificuldadeF | Com [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") | | 26~30 | [Caverna de Payon](http://www.divine-pride.net/database/map/pay_dun00/) | (pay\_dun00 21,183) | [Payon](Payon.md "Payon") | DificuldadeM | Teleporte via [Kafra](../Sem%20categoria/Kafra.md "Kafra") [Doram](../Sem%20categoria/Doram.md "Doram") de [Payon](Payon.md "Payon") | | 30~40 | [Vila dos Orcs](http://www.divine-pride.net/database/map/gef_fild10/) | (gef\_fild10 68,332) | [Geffen](Geffen.md "Geffen") | DificuldadeF | Teleporte via [Kafras](../Sem%20categoria/Kafra.md "Kafra") de [Prontera](Prontera.md "Prontera") e [Geffen](Geffen.md "Geffen") | | 40~55 | [Caverna dos Orcs](http://www.divine-pride.net/database/map/orcsdun01/) | (orcsdun01 32,170) | [Geffen](Geffen.md "Geffen") | DificuldadeM | Com [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") | | 55~71 | [Deserto de Sograt](http://www.divine-pride.net/database/map/moc_fild17/) | (moc\_fild17 33,300) | [Morroc](Morroc.md "Morroc") | DificuldadeF | Com [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md#Instrutor_Uru "Equipamentos do Éden") | | 71~86 | [Arredores de Geffen](http://www.divine-pride.net/database/map/gef_fild06/) | (gef\_fild06 218,20) | [Geffen](Geffen.md "Geffen") | DificuldadeF | Placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | | 71~86 | [Abadia de Glastheim](http://www.divine-pride.net/database/map/gl_church/) | (gl\_church 156,7) | [Geffen](Geffen.md "Geffen") | DificuldadeM | - | | 86~91 | [Cemitério de Glastheim](http://www.divine-pride.net/database/map/gl_chyard/) | (gl\_chyard 147,15) | [Geffen](Geffen.md "Geffen") | DificuldadeM | Placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | | 86~91 | [Roween](http://www.divine-pride.net/database/map/ra_fild12/) | (ra\_fild12 40,226) | [Rachel](Rachel.md "Rachel") | DificuldadeF | Placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | | 86~91 | [Vento da Colina](http://www.divine-pride.net/database/map/ra_fild04/) | (ra\_fild04 263,60) | [Rachel](Rachel.md "Rachel") | DificuldadeD | - | | 91~95 | [Arredores de Veins 7](http://www.divine-pride.net/database/map/ve_fild07/) | (ve\_fild07 147,366) | [Veins](Veins.md "Veins") | DificuldadeF | Placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | | 95~105 | [Magmarings](http://www.divine-pride.net/database/map/ve_fild03/) | (ve\_fild03 350,220) | [Veins](Veins.md "Veins") | DificuldadeF | Com [Equipamentos Iniciais](../Sem%20categoria/Equipamentos%20Iniciais.md "Equipamentos Iniciais") | | 95~109 | [Caverna de Magma](http://www.divine-pride.net/database/map/mag_dun02/) | (mag\_dun02 48,37) | [Juno](Juno.md "Juno") | DificuldadeM | - | | 100~115 | [Pirâmide Pesadelo](http://www.divine-pride.net/database/map/moc_prydn1/) | (moc\_prydb1 103,54) | [Morroc](Morroc.md "Morroc") | DificuldadeF | Missões do [Gato Suspeito](../Quests%20de%20experi%C3%AAncia/Gato%20Suspeito.md "Gato Suspeito") | | 109~115 | [Hospital Abandonado](http://www.divine-pride.net/database/map/ma_dun01/) | (malaya 55,72) | [Porto Malaya](Porto%20Malaya.md "Porto Malaya") | DificuldadeM | Acesso via [Enfermeira em Porto Malaya](../Acesso%20a%20Calabou%C3%A7os/Enfermeira%20em%20Porto%20Malaya.md "Enfermeira em Porto Malaya") | | 110~120 | [Santuário de Freya](http://www.divine-pride.net/database/map/ra_san01/) | (ra\_temple 119,179) | [Rachel](Rachel.md "Rachel") | DificuldadeM | Acesso via [Santuário de Rachel](../Quests%20de%20experi%C3%AAncia/Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | | 110~120 | [Britoniah 1](http://www.divine-pride.net/database/map/gld_dun04/) | (gef\_fild13 196,248) | [Geffen](Geffen.md "Geffen") | DificuldadeM | Acesso via [Feudo](../Sem%20categoria/Portal%20do%20Abismo.md "Portal do Abismo") | | 122~135 | [Rudus 1](http://www.divine-pride.net/database/map/sp_rudus/) | (ein\_fild05 156,288) | [Einbroch](Einbroch.md "Einbroch") | DificuldadeF | - | | 125~135 | [Ninho do Dragão 2](http://www.divine-pride.net/database/map/lasa_dun02/) | (lasa\_dun02 22,171) | [Lasagna](Lasagna.md "Lasagna") | DificuldadeM | - | | 135~145 | [Ninho do Dragão 3](http://www.divine-pride.net/database/map/lasa_dun03/) | (lasa\_dun03 190,18) | [Lasagna](Lasagna.md "Lasagna") | DificuldadeM | - | | 130~140 | [Luina 2](http://www.divine-pride.net/database/map/gld_dun02_2/) | (alde\_gld 191,164) | [Al De Baran](Al%20De%20Baran.md "Al De Baran") | DificuldadeM | Acesso via [Feudo](../Sem%20categoria/Portal%20do%20Abismo.md "Portal do Abismo") | | 130~140 | [Britoniah 2](http://www.divine-pride.net/database/map/gld_dun04_2/) | (gef\_fild13 196,248) | [Geffen](Geffen.md "Geffen") | DificuldadeM | Acesso via [Feudo](../Sem%20categoria/Portal%20do%20Abismo.md "Portal do Abismo") | | 135~140 | [Praça Central de Verus](http://www.divine-pride.net/database/map/verus03/) | (verus03 121,20) | [Verus](Verus.md "Verus") | DificuldadeM | - | | 140~150 | [Ilusão Submarina 1](http://www.divine-pride.net/database/map/iz_d04_i/) | (iz\_d04\_i 130,227) | [Izlude](Izlude.md "Izlude") | DificuldadeM | Acesso via [Ilusão do Mar](../Quests%20de%20experi%C3%AAncia/Ilus%C3%A3o%20do%20Mar.md "Ilusão do Mar") | | 160~170 | [Rudus 2](http://www.divine-pride.net/database/map/sp_rudus2/) | (ein\_fild05 156,288) | [Einbroch](Einbroch.md "Einbroch") | DificuldadeM | - | | 170~178 | [Rudus 3](http://www.divine-pride.net/database/map/sp_rudus3/) | (ein\_fild05 156,288) | [Einbroch](Einbroch.md "Einbroch") | DificuldadeM | - | | 170~185 | [Ilusão do Labirinto](http://www.divine-pride.net/database/map/prt_mz03_i/) | (prt\_maze01 97,21) | [Prontera](Prontera.md "Prontera") | DificuldadeD | [Missões diarias](../Quests%20de%20ca%C3%A7a/Ilus%C3%A3o%20do%20Labirinto.md#Missões_diárias "Ilusão do Labirinto") | | 170~180 | [Noggroad](http://www.divine-pride.net/database/map/mag_dun03/) | (mag\_dun02 247,68) | [Juno](Juno.md "Juno") | DificuldadeD | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 180~190 | [Calabouço da Mina 3](http://www.divine-pride.net/database/map/ein_dun03/) | (ein\_dun02 16,250) | [Einbech](Einbech.md "Einbech") | DificuldadeF | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 180~200 | [Antigo Templo de Odin](http://www.divine-pride.net/database/map/odin_past/) | (odin\_tem03 276,236) | [Hugel](Hugel.md "Hugel") | DificuldadeM | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 190~200 | [Lago do Abismo 4](http://www.divine-pride.net/database/map/abyss_04/) | (hu\_fild05 168,302) | [Hugel](Hugel.md "Hugel") | DificuldadeD | Acesso via [Lago do Abismo](../Acesso%20a%20Calabou%C3%A7os/Lago%20do%20Abismo.md "Lago do Abismo") / [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 201~215 | [Salão dos Mortos](http://www.divine-pride.net/database/map/nif_dun01/) | (niflheim 147,122) | [Niflheim](Niflheim.md "Niflheim") | DificuldadeM | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 215~225 | [Amicitia 1](http://www.divine-pride.net/database/map/amicitia1/) | (ein\_fild08 158,96) | [Einbroch](Einbroch.md "Einbroch") | DificuldadeM | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 225~235 | [Amicitia 2](http://www.divine-pride.net/database/map/amicitia2/) | (ein\_fild08 158,96) | [Einbroch](Einbroch.md "Einbroch") | DificuldadeM | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | | 235~245 | [Teatro em Ruínas](http://www.divine-pride.net/database/map/nif_dun02/) | (niflheim 147,122) | [Niflheim](Niflheim.md "Niflheim") | DificuldadeD | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | |
+
+## Calabouços
+
+São mapas repletos de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") onde o usuário poderá perder [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") em caso de morte.
+
+Além das áreas de campo comum, há os calabouços subterrâneos, mas todos com a mesma essência: áreas de treino para evoluir seu personagem!
+
+### Modo Pesadelo
+
+Calabouços do "*Modo Pesadelo*" são réplicas de mapas com [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") diferentes da versão original.
+
+Normalmente com variações de [HP](../Sem%20categoria/HP.md "HP"), [itens](../Itens/Itens.md "Itens") derrubados, [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e até aparência.
+
+Para entrar nesses lugares, é necessário conversar com um [NPC](../Sem%20categoria/NPC.md "NPC") de acesso.
+
+| Acesso | Mapa | Observações |
+| --- | --- | --- |
+| Tu Alcolyte01 | Navio Fantasma | - Acesso em (prt\_church 186,36) - Apenas para [Noviços](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") até o nível 21. |
+| Kamidaltunel4 | Túnel Kamidal | - Acesso em (dic\_dun01 266,113) - Você acessa com 1 [Perfume de Scaraba](http://www.divine-pride.net/database/item/6437/), comprado com o Manuk Curioso. - É necessário ter completado a missão [A Ordem Secreta de Doha](../Quest/A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha"). - Ao falar com os [NPCs](../Sem%20categoria/NPC.md "NPC"), equipe o [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/). |
+| GatoSuspeito1 | Pirâmide de Morroc | - Acesso em (moc\_prydb1 103,54) - Existem [missões diárias](../Quests%20de%20experi%C3%AAncia/Gato%20Suspeito.md "Gato Suspeito") neste calabouço. |
+| GHpesadelo1 | Glastheim | - Acesso em (glast\_01 195,273) - Escolha o calabouço e pague pela entrada.   - [Cemitério](http://www.divine-pride.net/database/map/gl_chyard_/), 5.000 [zenys](../Sem%20categoria/Zenys.md "Zenys")   - [Castelo](http://www.divine-pride.net/database/map/gl_cas02_/), 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") |
+| CTpesadelo1 | Torre do Relógio | - Acesso em (c\_tower1 232,222) - Escolha o calabouço e pague pela entrada. É necessário ter [nível](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/N%C3%ADvel.md "Nível") mínimo 150 para entrar.   - [2º andar da Torre](http://www.divine-pride.net/database/map/c_tower2_/), 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys")   - [3º andar da Torre](http://www.divine-pride.net/database/map/c_tower3_/), 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") |
+| Bio5a | Biolaboratório | - Acesso em (lighthalzen 321,218) - É necessário ter [nível](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/N%C3%ADvel.md "Nível") mínimo 100 para entrar. - Também é chamado de [Tumba da Honra](Tumba%20da%20Honra.md "Tumba da Honra"). |
+
+## Centro de Treinamento
+
+- Para acessá-lo fale com o Instrutor de Treino (prontera 246,62)
+- É um mapa para testar suas [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades"), [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") e seu dano.
+- O mapa possui *Dummy*, que são "Sacos de Pancada" de várias [raças](../Sem%20categoria/Ra%C3%A7as.md "Raças"), [tamanhos](../Sem%20categoria/Tamanhos.md "Tamanhos") e [propriedades](../Sem%20categoria/Propriedade.md "Propriedade").
+- Todos os *Dummy* são do tipo Chefe e possuem 2 bilhões de [HP](../Sem%20categoria/HP.md "HP").
+- Para sair do centro, basta falar com o Instrutor de Treino lá dentro.
+
+| Dummy de [Raça](../Sem%20categoria/Ra%C3%A7a.md "Raça") | Dummy de [Propriedade](../Sem%20categoria/Propriedade.md "Propriedade") | Dummy de [Tamanho](../Sem%20categoria/Tamanho.md "Tamanho") |
+| --- | --- | --- |
+| Guerra do Emperium- Segunda Ediçãogr | Guerra do Emperium- Segunda Ediçãorg | Barricade |
+
+| *Mapas em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
+| --- | --- | --- |
+| [Midgard](../Sem%20categoria/Midgard.md "Midgard") |
+| Rune-Midgard | **[Prontera](Prontera.md "Prontera")** · [Alberta](Alberta.md "Alberta") · [Al De Baran](Al%20De%20Baran.md "Al De Baran") · [Comodo](Comodo.md "Comodo") · [Geffen](Geffen.md "Geffen") · [Izlude](Izlude.md "Izlude") · [Jawaii](Jawaii.md "Jawaii") · [Morroc](Morroc.md "Morroc") · [Payon](Payon.md "Payon") · [Umbala](Umbala.md "Umbala") [Abadia de Santa Capitolina](Abadia%20de%20Santa%20Capitolina.md "Abadia de Santa Capitolina") · *[Glastheim](Glastheim.md "Glastheim")* · [Pharos](Pharos.md "Pharos") · **[Malangdo](Malangdo.md "Malangdo")** |
+| Schwartzwald | **[Juno](Juno.md "Juno")** · [Einbech](Einbech.md "Einbech") (*[Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri")*) · [Einbroch](Einbroch.md "Einbroch") · [Hugel](Hugel.md "Hugel") · [Lighthalzen](Lighthalzen.md "Lighthalzen") · *[Mansão de Varmunt](Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt")* · [Verus](Verus.md "Verus") *[Lago do Abismo](../Acesso%20a%20Calabou%C3%A7os/Lago%20do%20Abismo.md "Lago do Abismo")* · *[Torre de Thanatos](Torre%20de%20Thanatos.md "Torre de Thanatos")* |
+| Arunafeltz | [Aldeia do Lobo Cinzento](Aldeia%20do%20Lobo%20Cinzento.md "Aldeia do Lobo Cinzento") · **[Rachel](Rachel.md "Rachel")** · [Veins](Veins.md "Veins") *[Ilha Esquecida](Ilha%20Esquecida.md "Ilha Esquecida")* |
+| Norte | [Lutie](Lutie.md "Lutie") |
+| [Ash Vacuum](Ash%20Vacuum.md "Ash Vacuum") | |
+| **[El Dicastes](El%20Dicastes.md "El Dicastes")** · [Manuka](Manuka.md "Manuka") · **[Eclage](Eclage.md "Eclage")** · [Esplendor](Esplendor.md "Esplendor") · [Mora](Mora.md "Mora") |
+| Ilha-Nação | | [Amatsu](Amatsu.md "Amatsu") · [Ayothaya](Ayothaya.md "Ayothaya") · [Brasilis](Brasilis.md "Brasilis") · [Dewata](Dewata.md "Dewata") · [Kunlun](Kunlun.md "Kunlun") · [Louyang](Louyang.md "Louyang") · [Moscóvia](Mosc%C3%B3via.md "Moscóvia") · [Porto Malaya](Porto%20Malaya.md "Porto Malaya") · [Rockridge](Rockridge.md "Rockridge") |
+| Outros | | [Cavernas Ilusionais](Cavernas%20Ilusionais.md "Cavernas Ilusionais") · [Espaço Dimensional](Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") · [Lasagna](Lasagna.md "Lasagna") · *[Niflheim](Niflheim.md "Niflheim")* |

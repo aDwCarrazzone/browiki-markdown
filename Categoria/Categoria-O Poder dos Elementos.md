@@ -1,13 +1,5 @@
----
-title: "Categoria:O Poder dos Elementos"
-source: https://browiki.org/wiki/Categoria%3AO_Poder_dos_Elementos
-namespace: 14
-revision: 5208
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Guias de Classe"
----
+# Categoria:O Poder dos Elementos
 
 # Categoria:O Poder dos Elementos
 
-Esta categoria reúne artigos sobre habilidades de [Magos](Magos.md "Magos") e evoluções.
+Esta categoria reúne artigos sobre habilidades de [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") e evoluções.

@@ -1,12 +1,4 @@
----
-title: "Categoria:Habilidades com Espingarda"
-source: https://browiki.org/wiki/Categoria%3AHabilidades_com_Espingarda
-namespace: 14
-revision: 5720
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Habilidades"
----
+# Categoria:Habilidades com Espingarda
 
 # Categoria:Habilidades com Espingarda
 

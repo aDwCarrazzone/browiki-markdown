@@ -1,13 +1,5 @@
----
-title: "Categoria:A Arte da Alquimia e da Forja"
-source: https://browiki.org/wiki/Categoria%3AA_Arte_da_Alquimia_e_da_Forja
-namespace: 14
-revision: 5203
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Guias de Classe"
----
+# Categoria:A Arte da Alquimia e da Forja
 
 # Categoria:A Arte da Alquimia e da Forja
 
-Esta categoria reúne artigos sobre habilidades de [Mercadores](Mercadores.md "Mercadores") e evoluções.
+Esta categoria reúne artigos sobre habilidades de [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") e evoluções.

@@ -1,0 +1,118 @@
+# Invocadores
+
+# Invocadores
+
+|  |  |
+| --- | --- |
+| Invocadorespartyicn Invocadores | |
+| Arte Invocadores | |
+| Sprite | |
+| [Original](#tabber-Original)[Montaria](#tabber-Montaria) Invocadoressprite  Invocadoressprite mount | |
+|  | |
+| Classe | Expandida |
+| Estilos | [Ver Paleta de cores](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md#Ninjas_e_evolu.C3.A7.C3.B5es "Estilista") |
+| Armas | Cajados |
+| Bônus de Classe | |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | **[FOR](../Sem%20categoria/FOR.md "FOR")** | **[AGI](../Sem%20categoria/AGI.md "AGI")** | **[VIT](../Sem%20categoria/VIT.md "VIT")** | **[INT](../Sem%20categoria/INT.md "INT")** | **[DES](../Sem%20categoria/DES.md "DES")** | **[SOR](../Sem%20categoria/SOR.md "SOR")** | | +0 | +7 | +5 | +9 | +12 | +5 | | |
+
+Por possuírem forte ligação com a natureza, a [raça](../Sem%20categoria/Ra%C3%A7a.md "Raça") Doram tem aptidão para ser Invocador, uma classe que nasceu em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna").
+
+Depois das habilidades iniciais, os poderes dos Invocadores se ramificam em três vertentes: Fauna, Selva e Maré.
+
+Investir alguns pontos no Caminho da Maré renderá boas habilidades de suporte que ajudam todo [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
+
+Dedicando seus pontos de habilidade no Caminho da Fauna, você poderá desferir poderosos ataques físicos à distância.
+
+Já atribuindo pontos no Caminho da Selva, é possível conjurar ataques mágicos das mais variadas [propriedades](../Sem%20categoria/Propriedades.md "Propriedades").
+
+Uma grande vantagem nessas ramificações de habilidades é que você pode misturar as habilidades de suporte com as habilidades mágicas ou físicas, por exemplo.
+
+Como são habilidades de poucos níveis, você poderá se tornar um poderoso Invocador das Marés e Selva ao mesmo tempo!
+
+A classe só pode equipar cajados do tipo Cauda de Gato, mas também poderão usar qualquer equipamento que sirva para todas as classes.
+
+Por ser diferente da raça dos [Humanos](../Sem%20categoria/Humano.md "Humano"), os [Doram](../Sem%20categoria/Doram.md "Doram") não são afetados por efeitos relacionados à raça [Humanoide](../Sem%20categoria/Humanoide.md "Humanoide") ou [Humano](../Sem%20categoria/Humano.md "Humano").
+
+Além disso, eles não possuem o [tamanho](../Sem%20categoria/Tamanho.md "Tamanho") Médio, mas o Pequeno.
+
+A grande vantagem de iniciar o jogo como Doram é que você não terá problemas com missões de mudança de classe: você já começa como Invocador e permanece assim até depois do nível 100!
+
+Sem missões de [renascimento](../Quests%20de%20ca%C3%A7a/Renascimento.md "Renascimento") ou de troca de classe, os Invocadores chegaram para facilitar a vida de quem adora causar danos altos e ainda parecer muito, mas MUITO, fofo!
+
+## Habilidades
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | |  |  | | --- | --- | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") | |  | |  |  | | --- | --- | | [Camarão Fresquinho](../Suporte/Camar%C3%A3o%20Fresquinho.md "Camarão Fresquinho") | [Camarão Fresquinho](../Suporte/Camar%C3%A3o%20Fresquinho.md "Camarão Fresquinho") | |  | |  |  | | --- | --- | | [Lança Gateira](../Ofensiva/Lan%C3%A7a%20Gateira.md "Lança Gateira") | [Lança Gateira](../Ofensiva/Lan%C3%A7a%20Gateira.md "Lança Gateira") | |  | |  |  | | --- | --- | | [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") | [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") | |
+|  | |  |  | | --- | --- | | [Mordida](../Ofensiva/Mordida.md "Mordida") | [Mordida](../Ofensiva/Mordida.md "Mordida") | |  | |  |  | | --- | --- | | [Chuva de Mariscos](../Suporte/Chuva%20de%20Mariscos.md "Chuva de Mariscos") | [Chuva de Mariscos](../Suporte/Chuva%20de%20Mariscos.md "Chuva de Mariscos") | |  | |  |  | | --- | --- | | [Hera Venenosa](../Ofensiva/Hera%20Venenosa.md "Hera Venenosa") | [Hera Venenosa](../Ofensiva/Hera%20Venenosa.md "Hera Venenosa") | |  | |  |  | | --- | --- | | [Impulso de Arclouse](../Suporte/Impulso%20de%20Arclouse.md "Impulso de Arclouse") | [Impulso de Arclouse](../Suporte/Impulso%20de%20Arclouse.md "Impulso de Arclouse") | |
+|  | |  |  | | --- | --- | | [Pulo do Gato](../Ativa/Pulo%20do%20Gato.md "Pulo do Gato") | [Pulo do Gato](../Ativa/Pulo%20do%20Gato.md "Pulo do Gato") | |  | |  |  | | --- | --- | | [Dádiva do Atum](../Suporte/D%C3%A1diva%20do%20Atum.md "Dádiva do Atum") | [Dádiva do Atum](../Suporte/D%C3%A1diva%20do%20Atum.md "Dádiva do Atum") | |  | |  |  | | --- | --- | | [Meteoros de Nepeta](../Ofensiva/Meteoros%20de%20Nepeta.md "Meteoros de Nepeta") | [Meteoros de Nepeta](../Ofensiva/Meteoros%20de%20Nepeta.md "Meteoros de Nepeta") | |  | |  |  | | --- | --- | | [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") | [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") | |
+|  | |  |  | | --- | --- | | [Gato-Mia](../Ativa/Gato-Mia.md "Gato-Mia") | [Gato-Mia](../Ativa/Gato-Mia.md "Gato-Mia") | |  | |  |  | | --- | --- | | [Proteção da Orla](../Suporte/Prote%C3%A7%C3%A3o%20da%20Orla.md "Proteção da Orla") | [Proteção da Orla](../Suporte/Prote%C3%A7%C3%A3o%20da%20Orla.md "Proteção da Orla") | |  | |  |  | | --- | --- | | [Pulverizar](../Ativa/Pulverizar.md "Pulverizar") | [Pulverizar](../Ativa/Pulverizar.md "Pulverizar") | |  | |  |  | | --- | --- | | [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") | [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") | |
+|  | |  |  | | --- | --- | | [Invocar](../Passiva/Invocar.md "Invocar") | [Invocar](../Passiva/Invocar.md "Invocar") | |  | |  |  | | --- | --- | | [Poder das Marés](../Passiva/Poder%20das%20Mar%C3%A9s.md "Poder das Marés") | [Poder das Marés](../Passiva/Poder%20das%20Mar%C3%A9s.md "Poder das Marés") | |  | |  |  | | --- | --- | | [Poder da Selva](../Passiva/Poder%20da%20Selva.md "Poder da Selva") | [Poder da Selva](../Passiva/Poder%20da%20Selva.md "Poder da Selva") | |  | |  |  | | --- | --- | | [Poder da Fauna](../Passiva/Poder%20da%20Fauna.md "Poder da Fauna") | [Poder da Fauna](../Passiva/Poder%20da%20Fauna.md "Poder da Fauna") | |
+|  | |  |  | | --- | --- | | [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas") | [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas") | |  | |  |  | | --- | --- | | [Lambida](../Suporte/Lambida.md "Lambida") | [Lambida](../Suporte/Lambida.md "Lambida") | |  | |  |  | | --- | --- | | [Despertar](../Suporte/Despertar.md "Despertar") | [Despertar](../Suporte/Despertar.md "Despertar") | |  | |  |  | | --- | --- | | [Riscar Fósforo](../Suporte/Riscar%20F%C3%B3sforo.md "Riscar Fósforo") | [Riscar Fósforo](../Suporte/Riscar%20F%C3%B3sforo.md "Riscar Fósforo") | |
+|  | |  |  | | --- | --- | | [Arranhar](../Ofensiva/Arranhar.md "Arranhar") | [Arranhar](../Ofensiva/Arranhar.md "Arranhar") | |  | |  |  | | --- | --- | | [Banho de Lambidas](../Suporte/Banho%20de%20Lambidas.md "Banho de Lambidas") | [Banho de Lambidas](../Suporte/Banho%20de%20Lambidas.md "Banho de Lambidas") | |  | |  |  | | --- | --- | | [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") | [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") | |  | |  |  | | --- | --- | | [Intimidar](../Ativa/Intimidar.md "Intimidar") | [Intimidar](../Ativa/Intimidar.md "Intimidar") | |
+|  | |  |  | | --- | --- | | [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | |  | |  |  | | --- | --- | | [Festa do Camarão](../Suporte/Festa%20do%20Camar%C3%A3o.md "Festa do Camarão") | [Festa do Camarão](../Suporte/Festa%20do%20Camar%C3%A3o.md "Festa do Camarão") | |  | |  |  | | --- | --- | | [Mato de Gato](../Ativa/Mato%20de%20Gato.md "Mato de Gato") | [Mato de Gato](../Ativa/Mato%20de%20Gato.md "Mato de Gato") | |  | |  |  | | --- | --- | | [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") | [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") | |
+|  |  |  | |  |  | | --- | --- | | [Invocação das Marés](../Passiva/Invoca%C3%A7%C3%A3o%20das%20Mar%C3%A9s.md "Invocação das Marés") | [Invocação das Marés](../Passiva/Invoca%C3%A7%C3%A3o%20das%20Mar%C3%A9s.md "Invocação das Marés") | |  | |  |  | | --- | --- | | [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva") | [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva") | |  | |  |  | | --- | --- | | [Invocação da Fauna](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Fauna.md "Invocação da Fauna") | [Invocação da Fauna](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Fauna.md "Invocação da Fauna") | |
+
+### Árvore de habilidades
+
+![SkilltreeInvocadores new](../images/c/c7/SkilltreeInvocadores_new.png)
+
+## Construção do Personagem
+
+Invocadores podem variar de [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") e [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades") de acordo com a *build* (construção do personagem).
+
+Para mais informações de construção de personagens, veja a página de [Guias de Classe](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Guias%20de%20Classe.md "Guias de Classe").
+
+**Rota Básica de Equipamentos:**
+
+- [Nv. 1 ~ 100] [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden")
+- [Nv. 100 ~ 120] [Equipamento Inicial](../Itens/Equipamento%20Inicial.md "Equipamento Inicial")
+- [Nv. 100 ~ 130] [Equipamento Excelion](../Quest/Equipamento%20Excelion.md "Equipamento Excelion") / [Relíquias de Mora](../Sem%20categoria/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora")
+- [Nv. 100 ~ 150] [Equipamentos de Honra](../Itens/Equipamentos%20de%20Honra.md "Equipamentos de Honra") / [Botas Temporais](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim")
+- [Nv. 130 ~ 160] [Equipamentos Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión")
+- [Nv. 160 ~ 200] [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron")
+
+### Encantos e Sombrios
+
+Estes são os [Encantamentos de Visual](../Sem%20categoria/Encantamentos%20de%20Visual.md "Encantamentos de Visual") e os [Equipamentos Sombrios](../Sem%20categoria/Equipamentos%20Sombrios.md "Equipamentos Sombrios") relacionados à Invocadores.
+
+| Encantamentos de Visuais | | | | |
+| --- | --- | --- | --- | --- |
+| 29668.png [Invocador (Topo)](http://www.divine-pride.net/database/item/29668/) | 29669.png [Invocador (Meio)](http://www.divine-pride.net/database/item/29669/) | 29670.png [Invocador (Baixo)](http://www.divine-pride.net/database/item/29670/) | 29671.png [Invocador (Capa)](http://www.divine-pride.net/database/item/29671/) |
+| Sombrios | | | | |
+| Classe | Fauna | Selva |
+| 24287.png [Manopla Sombria de Fauna](http://www.divine-pride.net/database/item/24287/) | Não chegou ainda | Não chegou ainda |
+| 24316.png [Escudo Sombrio de Fauna](http://www.divine-pride.net/database/item/24316/) | Não chegou ainda | Não chegou ainda |
+| 24286.png [Manopla Sombria de Selva](http://www.divine-pride.net/database/item/24286/) | Não chegou ainda | Não chegou ainda |
+| 24317.png [Escudo Sombrio de Selva](http://www.divine-pride.net/database/item/24317/) | Não chegou ainda | Não chegou ainda |
+
+### Velocidade de ataque
+
+Abaixo está uma tabela das penalidades de [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") da classe.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | 2103.png [Escudo](http://www.divine-pride.net/database/item/2103/) | -7 | | 1612.png [Cajado](http://www.divine-pride.net/database/item/1612/) | -20 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | 645.png | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | 656.png | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | 657.png | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
+
+| *O Poder da Natureza* | | | |
+| --- | --- | --- | --- |
+| |  |  | | --- | --- | | [Invocadorespartyicn](Invocadores.md "Invocadores") | Invocadores | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") · [Mordida](../Ofensiva/Mordida.md "Mordida") · [Pulo do Gato](../Ativa/Pulo%20do%20Gato.md "Pulo do Gato") · [Gato-Mia](../Ativa/Gato-Mia.md "Gato-Mia") · [Arranhar](../Ofensiva/Arranhar.md "Arranhar") · [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas") · [Invocar](../Passiva/Invocar.md "Invocar") · [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | | |
+| Fauna | | [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") · [Impulso de Arclouse](../Suporte/Impulso%20de%20Arclouse.md "Impulso de Arclouse") · [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") · [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") · [Poder da Fauna](../Passiva/Poder%20da%20Fauna.md "Poder da Fauna") [Riscar Fósforo](../Suporte/Riscar%20F%C3%B3sforo.md "Riscar Fósforo") · [Intimidar](../Ativa/Intimidar.md "Intimidar") · [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") · [Invocação da Fauna](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Fauna.md "Invocação da Fauna") |
+| Selva | | [Lança Gateira](../Ofensiva/Lan%C3%A7a%20Gateira.md "Lança Gateira") · [Hera Venenosa](../Ofensiva/Hera%20Venenosa.md "Hera Venenosa") · [Meteoros de Nepeta](../Ofensiva/Meteoros%20de%20Nepeta.md "Meteoros de Nepeta") · [Pulverizar](../Ativa/Pulverizar.md "Pulverizar") · [Poder da Selva](../Passiva/Poder%20da%20Selva.md "Poder da Selva") [Despertar](../Suporte/Despertar.md "Despertar") · [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") · [Mato de Gato](../Ativa/Mato%20de%20Gato.md "Mato de Gato") · [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva") |
+| Maré | | [Camarão Fresquinho](../Suporte/Camar%C3%A3o%20Fresquinho.md "Camarão Fresquinho") · [Chuva de Mariscos](../Suporte/Chuva%20de%20Mariscos.md "Chuva de Mariscos") · [Dádiva do Atum](../Suporte/D%C3%A1diva%20do%20Atum.md "Dádiva do Atum") · [Proteção da Orla](../Suporte/Prote%C3%A7%C3%A3o%20da%20Orla.md "Proteção da Orla") · [Poder das Marés](../Passiva/Poder%20das%20Mar%C3%A9s.md "Poder das Marés") [Lambida](../Suporte/Lambida.md "Lambida") · [Banho de Lambidas](../Suporte/Banho%20de%20Lambidas.md "Banho de Lambidas") · [Festa do Camarão](../Suporte/Festa%20do%20Camar%C3%A3o.md "Festa do Camarão") · [Invocação das Marés](../Passiva/Invoca%C3%A7%C3%A3o%20das%20Mar%C3%A9s.md "Invocação das Marés") |
+| Spirit Handler | Maestria Mística · Aliança Animal · Bênção da Natureza | | |
+| Fauna | | Garras de Onça · Rugido da Onça · Patada Felina · União com Onça |
+| Selva | | Cores do Arco-Íris · Brisa Silvestre · Lança Galhada · União com Cervo |
+| Maré | | Esguichar Água · Festival Marinho · Lual nas Areias · Ira da Tartaruga · União com Tartaruga |
+
+| *[Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | |
+| --- | --- | --- | --- |
+| Aprendiz | [Aprendizes](Aprendizes.md "Aprendizes") · [Superaprendizes](Superaprendizes.md "Superaprendizes") · Hyper Novice | | |
+| Classe 1 | [Espadachins](Espadachins.md "Espadachins") · [Gatunos](Gatunos.md "Gatunos") · [Magos](Magos.md "Magos") · [Mercadores](Mercadores.md "Mercadores") · [Noviços](Novi%C3%A7os.md "Noviços") · [Arqueiros](Arqueiros.md "Arqueiros") | | |
+| Classe 2 | [Cavaleiros](Cavaleiros.md "Cavaleiros") · [Mercenários](Mercen%C3%A1rios.md "Mercenários") · [Bruxos](Bruxos.md "Bruxos") · [Ferreiros](Ferreiros.md "Ferreiros") · [Sacerdotes](Sacerdotes.md "Sacerdotes") · [Caçadores](Ca%C3%A7adores.md "Caçadores") [Templários](Templ%C3%A1rios.md "Templários") · [Arruaceiros](Arruaceiros.md "Arruaceiros") · [Sábios](S%C3%A1bios.md "Sábios") · [Alquimistas](Alquimistas.md "Alquimistas") · [Monges](Monges.md "Monges") · [Bardos](Bardos.md "Bardos") · [Odaliscas](Odaliscas.md "Odaliscas") | | |
+| Classe Transcendental | [Lordes](Lordes.md "Lordes") · [Algozes](Algozes.md "Algozes") · [Arquimagos](Arquimagos.md "Arquimagos") · [Mestres-Ferreiros](Mestres-Ferreiros.md "Mestres-Ferreiros") · [Sumo Sacerdotes](Sumo%20Sacerdotes.md "Sumo Sacerdotes") · [Atiradores de Elite](Atiradores%20de%20Elite.md "Atiradores de Elite") [Paladinos](Paladinos.md "Paladinos") · [Desordeiros](Desordeiros.md "Desordeiros") · [Professores](Professores.md "Professores") · [Criadores](Criadores.md "Criadores") · [Mestres](Mestres.md "Mestres") · [Menestréis](Menestr%C3%A9is.md "Menestréis") · [Ciganas](Ciganas.md "Ciganas") | | |
+| Classe 3 | [Cavaleiros Rúnicos](Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos") · [Sicários](Sic%C3%A1rios.md "Sicários") · [Arcanos](Arcanos.md "Arcanos") · [Mecânicos](Mec%C3%A2nicos.md "Mecânicos") · [Arcebispos](Arcebispos.md "Arcebispos") · [Sentinelas](Sentinelas.md "Sentinelas") [Guardiões Reais](Guardi%C3%B5es%20Reais.md "Guardiões Reais") · [Renegados](Renegados.md "Renegados") · [Feiticeiros](Feiticeiros.md "Feiticeiros") · [Bioquímicos](Bioqu%C3%ADmicos.md "Bioquímicos") · [Shuras](Shuras.md "Shuras") · [Trovadores](Trovadores.md "Trovadores") · [Musas](Musas.md "Musas") | | |
+| Classe 4 | [Cavaleiros Draconianos](Cavaleiros%20Draconianos.md "Cavaleiros Draconianos") · [Executores](Executores.md "Executores") · [Magus](Magus.md "Magus") · [Engenheiros](Engenheiros.md "Engenheiros") · [Cardeais](Cardeais.md "Cardeais") · [Falcões do Vento](Falc%C3%B5es%20do%20Vento.md "Falcões do Vento") [Guardiões Imperiais](Guardi%C3%B5es%20Imperiais.md "Guardiões Imperiais") · [Mandraques](Mandraques.md "Mandraques") · [Elementalistas](Elementalistas.md "Elementalistas") · [Cientistas](Cientistas.md "Cientistas") · [Inquisidores](Inquisidores.md "Inquisidores") · [Maestros](Maestros.md "Maestros") · [Divas](Divas.md "Divas") | | |
+| Classes Expandidas | ½ | [Justiceiros](Justiceiros.md "Justiceiros") · [Taekwons](Taekwons.md "Taekwons") ([Mestres Taekwons](Mestres%20Taekwons.md "Mestres Taekwons") & [Espiritualistas](Espiritualistas.md "Espiritualistas")) · [Ninjas](Ninjas.md "Ninjas") · Invocadores · Druidas |
+| 3 | [Insurgentes](Insurgentes.md "Insurgentes") · [Mestres Estelares](Mestres%20Estelares.md "Mestres Estelares") · [Ceifadores de Almas](Ceifadores%20de%20Almas.md "Ceifadores de Almas") · [Kagerou](Kagerou.md "Kagerou") · [Oboro](Oboro.md "Oboro") · Karnos |
+| 4 | Night Watch · Sky Emperor · Soul Ascetic · Shinkiro · Shiranui · Spirit Handler · Alitea |

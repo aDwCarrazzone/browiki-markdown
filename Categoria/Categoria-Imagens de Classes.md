@@ -1,13 +1,5 @@
----
-title: "Categoria:Imagens de Classes"
-source: https://browiki.org/wiki/Categoria%3AImagens_de_Classes
-namespace: 14
-revision: 4678
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Imagens"
----
+# Categoria:Imagens de Classes
 
 # Categoria:Imagens de Classes
 
-Esta categoria reúne imagens das classes de [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")
+Esta categoria reúne imagens das classes de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")

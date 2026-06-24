@@ -1,13 +1,5 @@
----
-title: "Categoria:O Tiro Certeiro da Natureza"
-source: https://browiki.org/wiki/Categoria%3AO_Tiro_Certeiro_da_Natureza
-namespace: 14
-revision: 5210
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Guias de Classe"
----
+# Categoria:O Tiro Certeiro da Natureza
 
 # Categoria:O Tiro Certeiro da Natureza
 
-Esta categoria reúne artigos sobre habilidades de [Arqueiros](Arqueiros.md "Arqueiros") e evoluções.
+Esta categoria reúne artigos sobre habilidades de [Arqueiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") e evoluções.

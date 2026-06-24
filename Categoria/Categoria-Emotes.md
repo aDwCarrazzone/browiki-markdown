@@ -1,13 +1,5 @@
----
-title: "Categoria:Emotes"
-source: https://browiki.org/wiki/Categoria%3AEmotes
-namespace: 14
-revision: 7751
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Imagens"
----
+# Categoria:Emotes
 
 # Categoria:Emotes
 
-Esta categoria reúne imagens de emojis de [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")
+Esta categoria reúne imagens de emojis de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")

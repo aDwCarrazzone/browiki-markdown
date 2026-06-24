@@ -1,13 +1,5 @@
----
-title: "Categoria:Instâncias"
-source: https://browiki.org/wiki/Categoria%3AInst%C3%A2ncias
-namespace: 14
-revision: 10507
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Quest"
----
+# Categoria:Instâncias
 
 # Categoria:Instâncias
 
-Esta categoria reúne todas as [instâncias](Instâncias.md "Instâncias") em [Ragnarök Online](Ragnarök Online.md "Ragnarök Online").
+Esta categoria reúne todas as [instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online").

@@ -1,13 +1,5 @@
----
-title: "Categoria:Rápidos no Gatilho"
-source: https://browiki.org/wiki/Categoria%3AR%C3%A1pidos_no_Gatilho
-namespace: 14
-revision: 5211
-retrieved: 2026-06-23T21:03:27Z
-categories:
-  - "Guias de Classe"
----
+# Categoria:Rápidos no Gatilho
 
 # Categoria:Rápidos no Gatilho
 
-Esta categoria reúne artigos sobre habilidades de [Justiceiros](Justiceiros.md "Justiceiros") e evoluções.
+Esta categoria reúne artigos sobre habilidades de [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") e evoluções.

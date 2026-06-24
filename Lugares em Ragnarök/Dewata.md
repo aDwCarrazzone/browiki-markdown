@@ -1,0 +1,60 @@
+# Dewata
+
+# Dewata
+
+[![Dewata worldmap](../images/d/da/Dewata_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ADewata_worldmap.jpg)
+
+Ilha Paradisíaca, Dewata
+
+Inspirada na Indonésia, o nome "Dewata" significa "Deuses" na língua local.
+
+O maior símbolo da cidade é o Templo de Borobudur, lugar de meditação dos monges budistas.
+
+O Templo existe de verdade e foi tombado como patrimônio histórico mundial pela UNESCO em 1991.
+
+Lar da Tribo dos Jaty e da cidade de Dewata, a ilha é um antigo paraíso tropical repleto de mistérios.
+
+A vila de Dewata abriga as mais diversas pousadas e dormitórios, perfeitos para casais que não querem pagar 100.000 [Zenys](../Sem%20categoria/Zenys.md "Zenys") em [Jawaii](Jawaii.md "Jawaii"), além de feiras de frutas e restaurantes.
+
+- Para chegar em Dewata, pague 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") para o Marinheiro de Dewata (alberta 240,47)
+
+## Mapa
+
+![Dewata imagem](../images/2/25/Dewata_imagem.jpg)
+
+|  |  |  |
+| --- | --- | --- |
+| Dewata map novo | | |
+| Map lupa | Guia |
+| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (dewata 202,184) |
+| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (dewata 196,193) |
+| Map pocao | Loja de Ferramentas | (dewata 182,164) |
+| Map escudo | Loja de Armaduras | (dewata 158,182) |
+| Map faca | Loja de Munições | (dewata 218,164) |
+
+|  |  |  |
+| --- | --- | --- |
+| NPCs | | |
+| Sr. Dwi Oblo | Vende [Saté](http://www.divine-pride.net/database/item/11533/) | (dewata 146,109) |
+| Pequeno Pagode | Realiza desejos ([RolePlay](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/RolePlay.md "RolePlay")) | (dewata 68,212) |
+| Loja de Gemas | Empacota Gemas | (dewata 177,167) |
+
+## Quests & Calabouços
+
+- [Tribo dos Jaty](../Quest/Tribo%20dos%20Jaty.md "Tribo dos Jaty")
+- [Ajude o Velhote](../Quests%20repet%C3%ADveis/Ajude%20o%20Velhote.md "Ajude o Velhote")
+- *[Arma Tradicional](../Quest/Arma%20Tradicional.md "Arma Tradicional")*
+- [Nv. 81 ~ 81] [Vulcão Krakatau](http://www.divine-pride.net/database/map/dew_dun01/)
+- [Nv. 85 ~ 88] [Caverna Istana](http://www.divine-pride.net/database/map/dew_dun02/)
+
+| *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
+| --- | --- | --- |
+| [Midgard](../Sem%20categoria/Midgard.md "Midgard") |
+| Rune-Midgard | **[Prontera](Prontera.md "Prontera")** · [Alberta](Alberta.md "Alberta") · [Al De Baran](Al%20De%20Baran.md "Al De Baran") · [Comodo](Comodo.md "Comodo") · [Geffen](Geffen.md "Geffen") · [Izlude](Izlude.md "Izlude") · [Jawaii](Jawaii.md "Jawaii") · [Morroc](Morroc.md "Morroc") · [Payon](Payon.md "Payon") · [Umbala](Umbala.md "Umbala") [Abadia de Santa Capitolina](Abadia%20de%20Santa%20Capitolina.md "Abadia de Santa Capitolina") · *[Glastheim](Glastheim.md "Glastheim")* · [Pharos](Pharos.md "Pharos") · **[Malangdo](Malangdo.md "Malangdo")** |
+| Schwartzwald | **[Juno](Juno.md "Juno")** · [Einbech](Einbech.md "Einbech") (*[Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri")*) · [Einbroch](Einbroch.md "Einbroch") · [Hugel](Hugel.md "Hugel") · [Lighthalzen](Lighthalzen.md "Lighthalzen") · *[Mansão de Varmunt](Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt")* · [Verus](Verus.md "Verus") *[Lago do Abismo](../Acesso%20a%20Calabou%C3%A7os/Lago%20do%20Abismo.md "Lago do Abismo")* · *[Torre de Thanatos](Torre%20de%20Thanatos.md "Torre de Thanatos")* |
+| Arunafeltz | [Aldeia do Lobo Cinzento](Aldeia%20do%20Lobo%20Cinzento.md "Aldeia do Lobo Cinzento") · **[Rachel](Rachel.md "Rachel")** · [Veins](Veins.md "Veins") *[Ilha Esquecida](Ilha%20Esquecida.md "Ilha Esquecida")* |
+| Norte | [Lutie](Lutie.md "Lutie") |
+| [Ash Vacuum](Ash%20Vacuum.md "Ash Vacuum") | |
+| **[El Dicastes](El%20Dicastes.md "El Dicastes")** · [Manuka](Manuka.md "Manuka") · **[Eclage](Eclage.md "Eclage")** · [Esplendor](Esplendor.md "Esplendor") · [Mora](Mora.md "Mora") |
+| Ilha-Nação | | [Amatsu](Amatsu.md "Amatsu") · [Ayothaya](Ayothaya.md "Ayothaya") · [Brasilis](Brasilis.md "Brasilis") · Dewata · [Kunlun](Kunlun.md "Kunlun") · [Louyang](Louyang.md "Louyang") · [Moscóvia](Mosc%C3%B3via.md "Moscóvia") · [Porto Malaya](Porto%20Malaya.md "Porto Malaya") · [Rockridge](Rockridge.md "Rockridge") |
+| Outros | | [Cavernas Ilusionais](Cavernas%20Ilusionais.md "Cavernas Ilusionais") · [Espaço Dimensional](Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") · [Lasagna](Lasagna.md "Lasagna") · *[Niflheim](Niflheim.md "Niflheim")* |
