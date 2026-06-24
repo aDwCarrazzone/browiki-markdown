@@ -33,26 +33,16 @@ _flat/            Markdown cru intermediário (não versionado)
 ```
 
 Cada artigo de conteúdo fica na pasta da sua **categoria principal**; o `INDEX.md` lista
-cada página em **todas** as suas categorias. Links internos e imagens são relativos e
-corrigidos automaticamente.
+cada página em **todas** as suas categorias. Os links internos são relativos e corrigidos
+automaticamente.
 
-> **Imagens:** os arquivos `.md` referenciam `images/...`, mas as ~6.700 imagens (~1,2 GB)
-> **não ficam na árvore do repositório** (para mantê-lo leve). Elas estão num **.zip anexado
-> ao [Release](../../releases)**, com a mesma estrutura de pastas.
->
-> Para ter a wiki completa com as imagens no lugar (renderizando em cada página em leitores
-> locais como VS Code/Obsidian):
->
-> ```bash
-> git clone https://github.com/aDwCarrazzone/browiki-markdown.git
-> cd browiki-markdown
-> # baixe browiki-images.zip do Release e extraia AQUI (na raiz):
-> unzip browiki-images.zip          # cria a pasta images/ no lugar certo
-> ```
->
-> Observação: no preview web do github.com as imagens não aparecem (o site não extrai o zip);
-> elas renderizam após a extração local. Alternativamente, `python export_browiki.py markdown`
-> rebaixa as imagens direto da wiki para `images/`.
+> **Imagens:** as ~6.700 imagens (~1,2 GB) ficam no repositório separado
+> **[browiki-images](https://github.com/aDwCarrazzone/browiki-images)** e são servidas pelo
+> CDN **jsDelivr** (`cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images`). Assim elas
+> **renderizam inline** nas páginas (aqui e na Wiki), de graça e mesmo que o browiki saia do ar.
+> (O browiki serve imagens como `octet-stream`, que o navegador não exibe inline — por isso o
+> CDN.) Há também um `.zip` de todas as imagens anexado ao [Release](../../releases) como
+> arquivo offline.
 
 Cada `.md` tem um cabeçalho YAML com `title`, `source` (URL original), `revision`,
 `retrieved` (data da coleta) e `categories`.
