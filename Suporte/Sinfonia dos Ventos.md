@@ -39,8 +39,8 @@ Todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Gr
 
 - O [ATQ](../Sem%20categoria/ATQ.md "ATQ") é cumulativo com os bônus de [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos").
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Harmonizar](../images/9/9b/Harmonizar.png)](../Ativa/Harmonizar.md "Harmonizar") [Harmonizar](../Ativa/Harmonizar.md "Harmonizar")
-  - [![Canção de Balder](../images/4/4e/Can%C3%A7%C3%A3o_de_Balder.png)](Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder") [Canção de Balder](Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder")
+  - [![Harmonizar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Harmonizar.png)](../Ativa/Harmonizar.md "Harmonizar") [Harmonizar](../Ativa/Harmonizar.md "Harmonizar")
+  - [![Canção de Balder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Can%C3%A7%C3%A3o_de_Balder.png)](Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder") [Canção de Balder](Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder")
 - Armas relacionadas:
   - ![1930.png](http://static.divine-pride.net/images/items/item/1930.png) [Flauta de Raiz](http://www.divine-pride.net/database/item/1930/)
   - ![1935.png](http://static.divine-pride.net/images/items/item/1935.png) [Ukulele](http://www.divine-pride.net/database/item/1935/)

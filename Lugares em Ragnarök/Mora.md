@@ -2,7 +2,7 @@
 
 # Mora
 
-[![Mora](../images/a/a4/Mora.jpg)](https://browiki.org/wiki/Arquivo%3AMora.jpg)
+[![Mora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/Mora.jpg)](https://browiki.org/wiki/Arquivo%3AMora.jpg)
 
 Mora, a Vila dos Rafflen
 

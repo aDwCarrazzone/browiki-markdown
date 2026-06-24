@@ -15,14 +15,14 @@
 
 1. Nas principais cidades, encontram-se um Auxiliar e um Bebedouro (prontera 169,125)
 
-   :   ![SJM01](../images/0/03/SJM01.png)
+   :   ![SJM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/SJM01.png)
 
    - Ativa as missões de caçada.
    - Teleporta para o mapa de caçada ao custo de 1 [Água Mineral](http://www.divine-pride.net/database/item/1000374/).
    - Vende [Água Mineral](http://www.divine-pride.net/database/item/1000374/) por 50.000 [zeny](../Sem%20categoria/Zeny.md "Zeny") ([Desconto](../Passiva/Desconto.md "Desconto") não funciona).
 2. Nos mapas de caçada, você pode falar com os Agentes.
 
-   :   ![SJM02](../images/5/53/SJM02.png)
+   :   ![SJM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/SJM02.png)
 
    - Receber a missão de caçada.
    - Teleportar para a cidade mais próxima ao custo de 1 [Água Mineral](http://www.divine-pride.net/database/item/1000374/).

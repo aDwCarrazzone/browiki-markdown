@@ -18,18 +18,18 @@
 
 1. Fale mais de uma vez com Krotzel (verus02 79,31)
 
-   :   ![Krotzel](../images/2/2a/Krotzel.png)
+   :   ![Krotzel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Krotzel.png)
 2. Encontre o Jornalista Bobão (verus01 172,146)
 
-   :   ![Trapp](../images/a/a3/Trapp.png)
+   :   ![Trapp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Trapp.png)
 3. Retorne a Krotzel.
 4. Encontre a Fotógrafa Jornalista (verus02 134,169)
 
-   :   ![SunnyKim](../images/5/5b/SunnyKim.png)
+   :   ![SunnyKim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/SunnyKim.png)
 5. Retorne a Krotzel.
 6. Encontre o Jornalista Exausto (verus01 41,103)
 
-   :   ![Grills](../images/8/83/Grills.png)
+   :   ![Grills](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Grills.png)
 7. Retorne a Krotzel.
    - Você receberá 1.500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 1.000.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 8. Ajude a Fotógrafa Jornalista.

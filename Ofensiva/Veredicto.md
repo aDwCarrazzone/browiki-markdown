@@ -43,8 +43,8 @@ Após o ataque, regenera um pouco de [HP](../Sem%20categoria/HP.md "HP") e [SP](
 
 - A quantia de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") regenerada é um valor fixo, não em porcentagem.
 - Só pode ser usada se uma dessas auréolas estiver ativa:
-  - [![Auréola do Juiz](../images/f/f2/Aur%C3%A9ola_do_Juiz.png)](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz") [Auréola do Juiz](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz")
-  - [![Auréola das Chamas](../images/2/25/Aur%C3%A9ola_das_Chamas.png)](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas") [Auréola das Chamas](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas")
+  - [![Auréola do Juiz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Aur%C3%A9ola_do_Juiz.png)](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz") [Auréola do Juiz](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz")
+  - [![Auréola das Chamas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Aur%C3%A9ola_das_Chamas.png)](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas") [Auréola das Chamas](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas")
 - Não regenera o [SP](../Sem%20categoria/SP.md "SP") de [Punho Supremo de Asura](Punho%20Supremo%20de%20Asura.md "Punho Supremo de Asura") durante o período de 3 segundos impossibilitado.
 
 | *O Poder Divino* | |

@@ -2,13 +2,13 @@
 
 # Atributos
 
-![Força](../images/6/65/For%C3%A7a.png)
+![Força](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/For%C3%A7a.png)
 
-![Destreza](../images/5/5d/Destreza.png)
+![Destreza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Destreza.png)
 
-![Sorte](../images/1/1c/Sorte.png)
+![Sorte](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/Sorte.png)
 
-![Vitalidade](../images/7/75/Vitalidade.png)
+![Vitalidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Vitalidade.png)
 
 Atributos são pontos escolhidos por você para melhorar o desempenho dos seus personagens e desenvolvê-los de maneira pessoal.
 
@@ -18,7 +18,7 @@ Todo [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "Nível de ba
 
 A janela de Atributos e de [Talentos](Talentos.md "Talentos") pode ser aberta pelo [comando](../Sem%20categoria/Comando.md "Comando") `Alt + A`
 
-![Statuswnd](../images/f/f9/Statuswnd.png)
+![Statuswnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Statuswnd.png)
 
 - [Classes](Classes.md "Classes") 1, 2, Transclasses e Expandidas: um atributo não pode ultrapassar **99** pontos.
 - [Classes](Classes.md "Classes") 3 e [Classes](Classes.md "Classes") 3-Expandidas, [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores"): um atributo não pode ultrapassar **130** pontos.
@@ -151,7 +151,7 @@ Ela não aumenta suas chances de [derrubar itens](../Sem%20categoria/Drop.md "Dr
 
 ### HP
 
-![HPSPwnd](../images/b/b4/HPSPwnd.png)
+![HPSPwnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/HPSPwnd.png)
 
 HP (*Health Points*) é a vida dos personagens exibida como uma barra verde (ou vermelha) abaixo do personagem.
 
@@ -175,7 +175,7 @@ Ao utilizar um [item](../Sem%20categoria/Item.md "Item") que aumenta a recupera�
 
 ### Ataque Físico
 
-![Atributosatq](../images/1/1c/Atributosatq.png)
+![Atributosatq](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/Atributosatq.png)
 
 Ataque Físico (**ATQ**) compreende em golpes físicos desferidos por armas de curta ou longa distância.
 
@@ -222,7 +222,7 @@ O bônus fornecido é apenas para ataques a distância, usando arcos, armas de f
 
 ### Ataque Mágico
 
-![Atributosatqm](../images/5/59/Atributosatqm.png)
+![Atributosatqm](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Atributosatqm.png)
 
 Ataque Mágico (**ATQM**) compreende em golpes mágicos e são sempre influenciadas pela [propriedade](../Sem%20categoria/Propriedade.md "Propriedade").
 
@@ -241,7 +241,7 @@ Ataques mágicos são identificados na sua *janela de atributos* por "A + B", on
 
 ### Defesa Física
 
-![Atributosdef](../images/7/7a/Atributosdef.png)
+![Atributosdef](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Atributosdef.png)
 
 Defesa Física (**DEF**) reduz o dano dos ataques físicos desferidos em você pelos seus oponentes.
 
@@ -260,7 +260,7 @@ Defesa Mágica (**DEFM**) não é muito diferente da defesa física.
 
 É exibida como "A + B" na *janela de atributos* do seu personagem, onde "A" é a "Soft MDEF" e "B", a "Hard MDEF".
 
-![Atributosdefm](../images/f/f6/Atributosdefm.png)
+![Atributosdefm](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Atributosdefm.png)
 
 - DEFM Leve (*Soft MDEF*):
   - Oriunda dos atributos (INT, DES, VIT), subtrai o dano final recebido pelo personagem.
@@ -269,10 +269,10 @@ Defesa Mágica (**DEFM**) não é muito diferente da defesa física.
   - Uma pessoa com 125 de DEFM Pesada consegue reduzir o dano pela metade.
   - Cada ponto de DEFM Pesada aumenta em 1% a tolerância a [congelamento](../Sem%20categoria/Congelamento.md "Congelamento") e [petrificação](../Sem%20categoria/Petrifica%C3%A7%C3%A3o.md "Petrificação"). Entretanto, mesmo adquirindo 100 de DEFM, a resistência a esses [efeitos negativos](Efeitos%20negativos.md "Efeitos negativos") ainda contabiliza a diferença de nível entre você e seu oponente.
 
-- [![Efeitos da DEF no dano](../images/7/71/Irowiki_def.png)](https://browiki.org/wiki/Arquivo%3AIrowiki_def.png "Efeitos da DEF no dano")
+- [![Efeitos da DEF no dano](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Irowiki_def.png)](https://browiki.org/wiki/Arquivo%3AIrowiki_def.png "Efeitos da DEF no dano")
 
   Efeitos da DEF no dano
-- [![Efeitos da DEFM no dano recebido](../images/9/9a/Irowiki_defm.png)](https://browiki.org/wiki/Arquivo%3AIrowiki_defm.png "Efeitos da DEFM no dano recebido")
+- [![Efeitos da DEFM no dano recebido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Irowiki_defm.png)](https://browiki.org/wiki/Arquivo%3AIrowiki_defm.png "Efeitos da DEFM no dano recebido")
 
   Efeitos da DEFM no dano recebido
 
@@ -282,7 +282,7 @@ Esquiva e Esquiva Perfeita são os valores gerados para desviar de um golpe fís
 
 Elas são exibidas como "A + B" na sua janela de equipamentos, sendo "A" para esquiva e "B" para esquiva perfeita.
 
-![Atributosesqv](../images/5/5b/Atributosesqv.png)
+![Atributosesqv](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Atributosesqv.png)
 
 - Esquiva:
   - É o valor calculado junto com a precisão para definir as chances de desviar-se de um golpe.
@@ -342,7 +342,7 @@ Precisão perfeita não acerta alvos com 100 de esquiva perfeita.
 
 ### Crítico
 
-![CRITwnd](../images/1/15/CRITwnd.png)
+![CRITwnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/CRITwnd.png)
 
 Crítico (**CRIT**) exibido na *janela de atributos* é a chance que o personagem possui de realizar ataques críticos que ignoram a esquiva do alvo.
 
@@ -378,7 +378,7 @@ A fórmula é:
   - 190 para personagens até nível 99.
   - 193 para personagens acima do nível 100.
 - O número é exibido arredondado na *janela de atributos*, não mostrando os valores decimais.
-- O **STD** (*Speed Total*) é aumentado diretamente habilidades, como [Rapidez com Duas Mãos](../Suporte/Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos"). [![RenewASPDformula](../images/b/b1/RenewASPDformula.png)](https://browiki.org/wiki/Arquivo%3ARenewASPDformula.png)
+- O **STD** (*Speed Total*) é aumentado diretamente habilidades, como [Rapidez com Duas Mãos](../Suporte/Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos"). [![RenewASPDformula](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/RenewASPDformula.png)](https://browiki.org/wiki/Arquivo%3ARenewASPDformula.png)
 
   Fórmula da Velocidade de Ataque, por Sigma
 
@@ -411,7 +411,7 @@ Exemplo:
 
 ### Conjuração
 
-![Presciência](../images/6/60/Presci%C3%AAncia.gif)
+![Presciência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Presci%C3%AAncia.gif)
 
 A conjuração é o tempo necessário para o personagem invocar uma habilidade, ela é dividida em fixo e variável.
 
@@ -440,7 +440,7 @@ O tempo de conjuração só é calculado na fase inicial, isso significa que qua
 
 ### Pós-conjuração
 
-![Skillcd](../images/f/ff/Skillcd.gif)
+![Skillcd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Skillcd.gif)
 
 Pós-conjuração é o término da conjuração, também chamada de "*delay*".
 

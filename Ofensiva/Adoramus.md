@@ -53,7 +53,7 @@ Se houver um [Noviço](../Sem%20categoria/Novi%C3%A7o.md "Noviço") e evoluçõe
 
 ### Adoração
 
-- Ícone: ![I Diminuir Agilidade](../images/0/05/I_Diminuir_Agilidade.png)
+- Ícone: ![I Diminuir Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/I_Diminuir_Agilidade.png)
 - Reduz a [AGI](../Sem%20categoria/AGI.md "AGI") e inflige [Cegueira](../Sem%20categoria/Cegueira.md "Cegueira").
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Desencantar](../Ativa/Desencantar.md "Desencantar").
 - Chance = `[Chance base + (Nv. de classe ÷ 2)]%`

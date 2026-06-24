@@ -2,9 +2,9 @@
 
 # Paramercado
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para o Mercado em Prontera, veja [Bazar de Prontera](../Sem%20categoria/Bazar%20de%20Prontera.md "Bazar de Prontera").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para o Mercado em Prontera, veja [Bazar de Prontera](../Sem%20categoria/Bazar%20de%20Prontera.md "Bazar de Prontera").
 
-![Paramarket](../images/c/c2/Paramarket.jpg)
+![Paramarket](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Paramarket.jpg)
 
 O Mercado Paralelo do Éden
 
@@ -24,7 +24,7 @@ Diferente de outros [NPC](../Sem%20categoria/NPC.md "NPC") de venda, estes possu
 
 Clique na letra para ser direcionado à loja.
 
-![Mercado do Éden](../images/f/f5/ParadiseMarket.png)
+![Mercado do Éden](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/ParadiseMarket.png)
 
 Mercado do Éden
 

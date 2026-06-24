@@ -54,7 +54,7 @@ Ultrapasse os limites do mundo à sua volta e use sua magia para distorcer e con
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeFeiticeiros1](../images/0/0b/SkilltreeFeiticeiros1.png)
+![SkilltreeFeiticeiros1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/SkilltreeFeiticeiros1.png)
 
 ## Construção do Personagem
 

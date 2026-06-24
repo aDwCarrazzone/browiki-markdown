@@ -18,32 +18,32 @@
 
 1. Fale com Echinacea, a Líder do Grupo (mid\_campin 68,185)
 
-   :   ![CCM1](../images/3/3a/CCM1.png)
+   :   ![CCM1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/CCM1.png)
 2. Mencione Echinacea para Kidd (mid\_camp 199,311)
 
-   :   ![CCM2](../images/6/63/CCM2.png)
+   :   ![CCM2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/CCM2.png)
 3. Diga que deseja falar com Lin para o Mestre (que\_job01 81,91)
 
-   :   ![CCM3a](../images/f/f2/CCM3a.png)
+   :   ![CCM3a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/CCM3a.png)
 4. Entre no portal e no final do corredor, entre na sala da direita para falar com Lin.
 
-   :   ![CCM3b](../images/f/f8/CCM3b.png)
+   :   ![CCM3b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/CCM3b.png)
 5. Pegue o [Cristal Sangrento da Escuridão](http://www.divine-pride.net/database/item/6027/) olhando o Monte de Terra (hu\_fild04 235,103)
 
-   :   ![CCM3c](../images/6/6b/CCM3c.png)
+   :   ![CCM3c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/CCM3c.png)
 6. Receba o [Registro da Perseguição](http://www.divine-pride.net/database/item/6029/) de Lin, em [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc").
 7. Entregue os itens para Kidd analisar. O [NPC](../Sem%20categoria/NPC.md "NPC") pede tempo, mas você pode clicá-lo logo em seguida.
 8. Você acordará em um mapa onde, após um diálogo entre Lin e Ryan Moore, 4 [Membros da Dandelion](http://www.divine-pride.net/database/monster/1985/) atacarão você.
 9. Ao derrotá-los, confira os bolsos do Corpo para encontrar um [Pergaminho Selado](http://www.divine-pride.net/database/item/6028/).
 
-   :   ![CCM3d](../images/2/2e/CCM3d.png)
+   :   ![CCM3d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/CCM3d.png)
 10. Você acordará ao lado de Kidd, fale com ele.
 11. Conte o caso para Echinacea (mid\_campin 68,185)
 
-    :   ![CCM1](../images/3/3a/CCM1.png)
+    :   ![CCM1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/CCM1.png)
 12. Localize o Sr. Defaria (mid\_camp 256,272)
 
-    :   ![CCM4](../images/3/3c/CCM4.png)
+    :   ![CCM4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/CCM4.png)
 
     - Selecione "*Entendido*".
     - Traga 30 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/), 30 [Runas Sangrentas](http://www.divine-pride.net/database/item/7563/) e 30 [Água Benta](http://www.divine-pride.net/database/item/523/).
@@ -52,7 +52,7 @@
 14. Dê um clique duplo no [Pergaminho Mágico Aberto](http://www.divine-pride.net/database/item/14595/) para teleportar.
 15. Entre na Casa Abandonada (yuno\_fild09 234,133)
 
-    :   ![CCM4a](../images/4/47/CCM4a.png)
+    :   ![CCM4a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/CCM4a.png)
 16. Siga até o final do corredor e vire à direita para ouvir uma conversa.
 17. Fale com Kidd em [Ash Vacuum](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum").
 18. Volte para a Casa Abandonada e reative o diálogo. Selecione "*Ryan?!*" para voltar ao ponto de retorno.
@@ -64,7 +64,7 @@
     - `CM3-TRDFGHE0`
 22. Após falar com Echinacea várias vezes, converse com o Gerente (mid\_camp 182,210)
 
-    :   ![CCM5](../images/b/b7/CCM5.png)
+    :   ![CCM5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/CCM5.png)
 23. Volte com a Echinacea para receber [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e uma [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/).
     - Fale mais uma vez com Echinacea (mid\_campin 68,185)
 24. Reencontre o Sr. Defaria (mid\_camp 256,272)

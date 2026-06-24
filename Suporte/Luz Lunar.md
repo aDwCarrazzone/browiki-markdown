@@ -20,7 +20,7 @@
 
 Usa o poder da luz da Lua.
 
-Aumenta temporariamente o dano de [![Chute Lunar](../images/1/1f/Chute_Lunar.png)](../Ofensiva/Chute%20Lunar.md "Chute Lunar") [Chute Lunar](../Ofensiva/Chute%20Lunar.md "Chute Lunar").
+Aumenta temporariamente o dano de [![Chute Lunar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Chute_Lunar.png)](../Ofensiva/Chute%20Lunar.md "Chute Lunar") [Chute Lunar](../Ofensiva/Chute%20Lunar.md "Chute Lunar").
 
 | Nv. | Dano | Duração |
 | --- | --- | --- |

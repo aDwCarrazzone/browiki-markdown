@@ -6,7 +6,7 @@ Em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"), você pod
 
 - O [NPC](../Sem%20categoria/NPC.md "NPC") encarregado de encantar é Snow (malangdo 213,167)
 
-  :   ![Snowmal](../images/f/f0/Snowmal.png)
+  :   ![Snowmal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Snowmal.png)
 - Observe atentamente os requisitos:
   - A [arma](../Sem%20categoria/Arma.md "Arma") precisa estar equipada na mão direita do personagem;
   - Uma [arma](../Sem%20categoria/Arma.md "Arma") pode ter até 2 encantos;

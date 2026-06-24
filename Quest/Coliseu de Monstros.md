@@ -13,7 +13,7 @@
 
 1. Procure pelo Homem de Ferro (gonryun 180,118)
 
-   :   ![Coliseu de Monstros01](../images/6/67/Coliseu_de_Monstros01.png)
+   :   ![Coliseu de Monstros01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Coliseu_de_Monstros01.png)
 
    - Seu primeiro teste será carregar algumas [pedras](http://www.divine-pride.net/database/item/7049/) que ele dará.
    - Se você falhar, tente ficar com [peso](../Sem%20categoria/Peso.md "Peso") zero para carregar as pedras.
@@ -21,17 +21,17 @@
 2. No salão de batalha, existem 2 [NPCs](../Sem%20categoria/NPC.md "NPC"):
    - Para entrar como Desafiante, entre na sala de chat;
 
-   :   ![Coliseu de Monstros02](../images/2/2d/Coliseu_de_Monstros02.png)
+   :   ![Coliseu de Monstros02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Coliseu_de_Monstros02.png)
 
    - Para entrar como Espectador, fale com a Guia de Batalha e selecione a opção: *Quero entrar.*
 
-   :   ![Coliseu de Monstros03](../images/c/c2/Coliseu_de_Monstros03.png)
+   :   ![Coliseu de Monstros03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Coliseu_de_Monstros03.png)
 
    - Como espectador, você terá uma melhor visão da batalha, mas não poderá interferir nela. Algumas [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades") não alcançam o desafiante, nem mesmo disparos de longas distâncias.
    - Para sair, basta falar com o [NPC](../Sem%20categoria/NPC.md "NPC") na área dos espectadores, que manda o usuário novamente para a pequena sala.
 3. Como desafiante, você deve falar com o Conjurador, ele mostrará uma lista de grupos com 6 monstros, sendo que você só poderá escolher apenas 1 monstro por desafio.
 
-   :   ![Coliseu de Monstros04](../images/d/d3/Coliseu_de_Monstros04.png)
+   :   ![Coliseu de Monstros04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Coliseu_de_Monstros04.png)
 
    - O monstro conjurado não fornece [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e [itens](../Itens/Itens.md "Itens").
    - Ao entrar na arena, você terá 5 minutos para invocar e derrotar o monstro.

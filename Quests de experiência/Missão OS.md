@@ -19,10 +19,10 @@
 
 1. Reserve a instância com o Oficial de Operações (sp\_cor 160,55)
 
-   :   ![MissaoOS01](../images/5/5c/MissaoOS01.png)
+   :   ![MissaoOS01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/MissaoOS01.png)
 2. Seu objetivo é limpar as 5 bases dos monstros.
 
-   :   ![MissaoOS02](../images/3/3c/MissaoOS02.png)
+   :   ![MissaoOS02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/MissaoOS02.png)
 
    - Cada monstro possui um valor de **C**ódigo de **P**esquisa
    - Esse valor determina o poder de [ATQ](../Sem%20categoria/ATQ.md "ATQ") do monstro:
@@ -35,10 +35,10 @@
    - Os monstros são: [A013-Caput](http://www.divine-pride.net/database/monster/20348/), [A013-Dolor](http://www.divine-pride.net/database/monster/20349/) e [A013-Bellare](http://www.divine-pride.net/database/monster/20350/).
 3. Se deseja conhecer um pouco da história dos monstros, há um caderno que descreve os experimentos realizados em uma cobaia aleatória, próximo das coordenadas 254, 117.
 
-   :   ![MissaoOS03](../images/a/a4/MissaoOS03.png)
+   :   ![MissaoOS03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/MissaoOS03.png)
 4. Assim que limpar a última base, aguarde [Miguel](http://www.divine-pride.net/database/monster/20346/) aparecer para enfrentá-lo.
 
-   :   ![MissaoOS07](../images/5/5f/MissaoOS07.png)
+   :   ![MissaoOS07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/MissaoOS07.png)
 
    - Miguel virá com um valor de CP aleatório.
    - Quanto maior o CP de Miguel, maior seu poder.

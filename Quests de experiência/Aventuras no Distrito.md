@@ -2,13 +2,13 @@
 
 # Aventuras no Distrito
 
-![OSarea](../images/0/08/OSarea.png)
+![OSarea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/OSarea.png)
 
 O Distrito OS
 
 - Para chegar no Distrito COR, basta entrar pelo portal próximo do Membro da Rebelião (ein\_fild03 278,269)
 
-  :   ![OSentrada](../images/a/aa/OSentrada.png)
+  :   ![OSentrada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/OSentrada.png)
 - Em seguida, ao norte do [Distrito OS](http://www.divine-pride.net/database/map/sp_os/) estará a entrada para [COR](http://www.divine-pride.net/database/map/sp_cor/).
 - Você pode chegar nesse mapa através do Mago Nillem (pub\_cat 85,105).
 
@@ -28,10 +28,10 @@ O Distrito OS
 
 1. Aceite ajudar o Fazendeiro a cuidar da plantação (sp\_cor 246,97)
 
-   :   ![FazendeiroCOR](../images/a/ab/FazendeiroCOR.png)
+   :   ![FazendeiroCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/FazendeiroCOR.png)
 2. Existem 3 pés espalhados pelo mapa: Abóbora, Uva e Feijão (o mais distante).
 
-   :   ![FazendaCOR](../images/5/53/FazendaCOR.png)
+   :   ![FazendaCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/FazendaCOR.png)
 3. Preste atenção no diálogo, haverá uma instrução do que fazer com cada planta:
    - Retirar pulgões
    - Remover ervas daninhas
@@ -57,7 +57,7 @@ O Distrito OS
 
 1. Aceite ajudar Yuslan (sp\_cor 155,94)
 
-   :   ![YuslanCOR](../images/f/f9/YuslanCOR.png)
+   :   ![YuslanCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/YuslanCOR.png)
 2. Seu objetivo é ir ao [Distrito OS](http://www.divine-pride.net/database/map/sp_os/) e eliminar alguns Caça-Corações:
    - 15 [Bellare](http://www.divine-pride.net/database/monster/20361/)
    - 15 [Sanare](http://www.divine-pride.net/database/monster/20357/)
@@ -80,11 +80,11 @@ O Distrito OS
 
 1. Em [Rudus](http://www.divine-pride.net/database/map/sp_rudus/), clique no [NPC](../Sem%20categoria/NPC.md "NPC") perto de Morning e selecione *cavar*.
 
-   :   ![Olgrudus](../images/b/b2/Olgrudus.png)
+   :   ![Olgrudus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Olgrudus.png)
 2. Uma carta explica que Morning é uma criança que precisa ser alimentada diariamente.
 3. Fale com Morning (sp\_rudus 130,200)
 
-   :   ![Morningrudus](../images/e/ea/Morningrudus.png)
+   :   ![Morningrudus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Morningrudus.png)
 4. Ele pede que você traga alguma coisa para comer, podendo ser uma das seguintes opções do dia:
    - 10 ![909.png](http://static.divine-pride.net/images/items/item/909.png) [Jellopy](http://www.divine-pride.net/database/item/909/)
    - 10 ![902.png](http://static.divine-pride.net/images/items/item/902.png) [Raiz de Árvore](http://www.divine-pride.net/database/item/902/)
@@ -127,7 +127,7 @@ O Distrito OS
 
 1. Em COR, aceite ajudar Ace (sp\_cor 135,147)
 
-   :   ![AceCOR](../images/a/a1/AceCOR.png)
+   :   ![AceCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/AceCOR.png)
 2. Seu objetivo é ir à [Rudus](http://www.divine-pride.net/database/map/sp_rudus/), eliminar algumas cobaias e trazer um item delas:
    - Eliminar 20 [Dolor](http://www.divine-pride.net/database/monster/20361/)
    - Coletar ![25666.png](http://static.divine-pride.net/images/items/item/25666.png) 10 [Bracelete de Identificação](http://www.divine-pride.net/database/item/25666/)

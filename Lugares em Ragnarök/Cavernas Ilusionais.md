@@ -2,7 +2,7 @@
 
 # Cavernas Ilusionais
 
-![Illusiondungeons](../images/d/dd/Illusiondungeons.jpg)
+![Illusiondungeons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Illusiondungeons.jpg)
 
 Cavernas ilusionais são diferentes de cavernas do modo pesadelo por terem mecânicas padronizadas.
 
@@ -43,7 +43,7 @@ Cavernas ilusionais são diferentes de cavernas do modo pesadelo por terem mecâ
 
 ## Bônus Aleatórios
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para mais informações, veja [Bônus aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para mais informações, veja [Bônus aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios").
 
 - A Maga das Ilusões vende os [combinadores](../Itens/Combina%C3%A7%C3%A3o.md "Combinação") para adicionar 1 a 2 [bônus aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") nas Armas Ilusionais (prontera 87,113)
 - Os combinadores podem ser adquiridos de duas formas:

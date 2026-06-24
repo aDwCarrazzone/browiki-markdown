@@ -34,7 +34,7 @@ Inimigos atingidos receberão o estado de [*Óleo Ungido*] por alguns segundos.
 
 ### Óleo Ungido
 
-- **Ícone:** ![I Oleum Sanctum](../images/d/da/I_Oleum_Sanctum.png)
+- **Ícone:** ![I Oleum Sanctum](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/I_Oleum_Sanctum.png)
 - **Efeito:** Reduz a resistência à danos físicos à distância.
 - O estado não é cancelado por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Desencantar](../Ativa/Desencantar.md "Desencantar").
 

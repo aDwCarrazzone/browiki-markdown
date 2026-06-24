@@ -6,7 +6,7 @@ Algumas [armas](../Sem%20categoria/Armas.md "Armas") e [equipamentos](../Sem%20c
 
 Todos os [NPCs](../Sem%20categoria/NPC.md "NPC") podem ser encontrados na Guilda dos Ninjas em [Amatsu](../Lugares%20em%20Ragnar%C3%B6k/Amatsu.md "Amatsu"), mas eles também estão espalhados em algumas cidades.
 
-Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map mascote](../images/0/08/Map_mascote.png)
+Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map mascote](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Map_mascote.png)
 
 Também é possível comprar [munições](../Sem%20categoria/Muni%C3%A7%C3%B5es.md "Munições") para a classe em [NPCs](../Sem%20categoria/NPC.md "NPC") encontrados nas lojas de armas das principais cidades.
 
@@ -48,7 +48,7 @@ Também é possível comprar [munições](../Sem%20categoria/Muni%C3%A7%C3%B5es.
 
 - Os encantos custam 100.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") e são feitos pelo Artesão Tene (que\_ng 75,20)
 
-  :   ![Tene](../images/6/60/Tene.png)
+  :   ![Tene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Tene.png)
 - Um único [encantamento](../Itens/Encantamento.md "Encantamento") permite receber 2 pedras de encanto, aleatórias e sem direito a escolha.
 - É cobrado 100.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") para remover 1 ou 2 pedras de encanto, a seu critério.
 - Não há chances de falha para encantar ou remover os [encantamentos](../Sem%20categoria/Encantamentos.md "Encantamentos").

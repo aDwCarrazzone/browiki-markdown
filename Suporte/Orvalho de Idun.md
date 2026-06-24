@@ -55,9 +55,9 @@ Aumenta o [HP](../Sem%20categoria/HP.md "HP") máximo dos membros do [grupo](../
   - Não podem ser removidos por [Desencantar](../Ativa/Desencantar.md "Desencantar"), mas por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Improviso](../Ativa/Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Dança com Lobos](../images/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
-  - [![Murmúrio Perene](../images/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
-  - [![Canção de Alfheim](../images/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
+  - [![Dança com Lobos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
+  - [![Murmúrio Perene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
+  - [![Canção de Alfheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

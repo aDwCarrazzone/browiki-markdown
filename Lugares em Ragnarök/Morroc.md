@@ -2,7 +2,7 @@
 
 # Morroc
 
-[![Morroc city](../images/0/02/Morroc_city.jpg)](https://browiki.org/wiki/Arquivo%3AMorroc_city.jpg)
+[![Morroc city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Morroc_city.jpg)](https://browiki.org/wiki/Arquivo%3AMorroc_city.jpg)
 
 Morroc, a Joia do deserto
 

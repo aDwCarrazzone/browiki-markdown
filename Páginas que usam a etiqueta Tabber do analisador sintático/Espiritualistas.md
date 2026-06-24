@@ -52,7 +52,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeEspiritualistas](../images/1/1c/SkilltreeEspiritualistas.png)
+![SkilltreeEspiritualistas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/SkilltreeEspiritualistas.png)
 
 ## Construção do Personagem
 

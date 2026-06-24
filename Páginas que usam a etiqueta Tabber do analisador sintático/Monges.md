@@ -42,7 +42,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeMonges](../images/7/7f/SkilltreeMonges.png)
+![SkilltreeMonges](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/SkilltreeMonges.png)
 
 ## Construção do Personagem
 

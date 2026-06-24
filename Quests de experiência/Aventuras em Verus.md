@@ -17,8 +17,8 @@
 
 1. Fale com a Gerente Michelle (ver\_eju 113,39) ou com o Comandante Louis (verus04 179,165)
 
-   :   ![Michelleb](../images/c/ce/Michelleb.png)
-   :   ![ComandanteLouis](../images/4/4f/ComandanteLouis.png)
+   :   ![Michelleb](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Michelleb.png)
+   :   ![ComandanteLouis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/ComandanteLouis.png)
 
    - Elimine 10 [Robôs de Reconhecimento](http://www.divine-pride.net/database/monster/3154/).
 2. Informe sobre a limpeza do túnel para o Comandante Louis (verus04 179,165)
@@ -38,7 +38,7 @@
 
 1. Fale sobre a eliminação de monstros para o Comandante Louis (verus04 179,165)
 
-   :   ![ComandanteLouis](../images/4/4f/ComandanteLouis.png)
+   :   ![ComandanteLouis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/ComandanteLouis.png)
 
    - Elimine 15 [Robôs Exploradores](http://www.divine-pride.net/database/monster/3156/).
 2. Retorne ao Comandante Louis para receber sua recompensa.
@@ -59,18 +59,18 @@
 
 1. Fale com a Capitã Arquien (verus04 170,148)
 
-   :   ![NileAtnad](../images/1/1f/NileAtnad.png)
+   :   ![NileAtnad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/NileAtnad.png)
 
    - Selecione as duas opções para coletar os registros de memória.
 2. Colete 5 [Registros de Memórias do Instituto](http://www.divine-pride.net/database/item/6757/) no mapa (verus02 72,18).
 
-   :   ![Papeis Espalhados](../images/9/92/Papeis_Espalhados.png)
+   :   ![Papeis Espalhados](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/Papeis_Espalhados.png)
 3. Colete 5 [Registros de Memórias do Abrigo](http://www.divine-pride.net/database/item/6824/) no mapa (verus01 123,181).
 
-   :   ![NPCsabrigo1](../images/b/b3/NPCsabrigo1.png)
+   :   ![NPCsabrigo1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/NPCsabrigo1.png)
 4. Entregue-os para a Capitã Arquien e clique no Reprodutor em seguida.
 
-   :   ![Reprodutor](../images/b/b6/Reprodutor.png)
+   :   ![Reprodutor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Reprodutor.png)
 
    - Ouça o conteúdo do reprodutor até receber o pedaço dos Registros do 1º, 30º, 32º, 40º ou do 50º dia.
    - Utilize esses pedaços para fazer as missões diárias do [Sobrevivendo no Abrigo](Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo").
@@ -89,7 +89,7 @@
 
 1. Converse com Ian Atnad (verus04 144,193)
 
-   :   ![IanAtnad](../images/4/44/IanAtnad.png)
+   :   ![IanAtnad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/IanAtnad.png)
 
    - Colete 20 [Núcleo de Energia](http://www.divine-pride.net/database/item/6749/) derrotando os [Robôs de Reconhecimento](http://www.divine-pride.net/database/monster/3154/), [Robôs Exploradores](http://www.divine-pride.net/database/monster/3156/) e [Robôs Reparadores](http://www.divine-pride.net/database/monster/3155/).
 2. Retorne a Ian Atnad para receber sua recompensa.
@@ -110,10 +110,10 @@
 
 1. Encontre o Maquinista Lloyd (verus03 103,177)
 
-   :   ![Lloyd](../images/5/50/Lloyd.png)
+   :   ![Lloyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Lloyd.png)
 2. Com 10 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/) no inventário, consiga 10 [Energias Condensadas](http://www.divine-pride.net/database/item/6756/) dos Restos de Máquina.
 
-   :   ![Resto de Maquina](../images/a/a1/Resto_de_Maquina.png)
+   :   ![Resto de Maquina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Resto_de_Maquina.png)
 3. Retorne ao Maquinista Lloyd para receber sua recompensa.
 
 ## Relatório Diário
@@ -131,10 +131,10 @@
 
 1. Após completar as duas missões de Relatório Diário (Energia e Núcleo), receba o [Relatório da Escavação](http://www.divine-pride.net/database/item/6748/) com o Arqueologista (verus04 141,193)
 
-   :   ![ArqAures](../images/4/4d/ArqAures.png)
+   :   ![ArqAures](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/ArqAures.png)
 2. Informe os resultados da escavação para o Comandante Louis (verus04 179,165)
 
-   :   ![ComandanteLouis](../images/4/4f/ComandanteLouis.png)
+   :   ![ComandanteLouis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/ComandanteLouis.png)
 
 ## Perigo no Elevador
 

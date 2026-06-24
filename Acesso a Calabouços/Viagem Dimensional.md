@@ -17,7 +17,7 @@
 
 1. Encontre uma Pilha de Trapos (morocc 137,238)
 
-   :   ![Dimensional01](../images/9/99/Dimensional01.png)
+   :   ![Dimensional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Dimensional01.png)
 
    - Selecione:
      - *Remover*
@@ -27,42 +27,42 @@
      - *Acompanhá-lo.*
 2. Ouça a história de Tamarin (moc\_ruins 107,139)
 
-   :   ![Dimensional02](../images/6/62/Dimensional02.png)
+   :   ![Dimensional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Dimensional02.png)
 
    - Selecione:
      - *Estou ouvindo*
      - *Dizer que você quer ir junto*
 3. Dirija-se ao [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") e fale com Tamarin (dali 112,69)
 
-   :   ![Dimensional03](../images/7/7b/Dimensional03.png)
+   :   ![Dimensional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Dimensional03.png)
 4. Entre no [Círculo de Fogo](http://www.divine-pride.net/database/map/moro_vol/) através do Monte de Areia (dali02 88,62)
 
-   :   ![Dimensional04](../images/b/ba/Dimensional04.png)
+   :   ![Dimensional04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Dimensional04.png)
 5. Fale com Tamarin (moro\_vol 132,140)
 
-   :   ![Dimensional05](../images/1/12/Dimensional05.png)
+   :   ![Dimensional05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Dimensional05.png)
 6. Converse com Barget Tiblack (moro\_vol 142,131)
 
-   :   ![Dimensional06](../images/a/a2/Dimensional06.png)
+   :   ![Dimensional06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Dimensional06.png)
 7. Derrote 20 [Fossos de Fogo](http://www.divine-pride.net/database/monster/3026/) e traga 50 [Peles de Verme Flamejante](http://www.divine-pride.net/database/item/6689/) para Barget Tiblack.
    - É altamente recomendável usar [Furto](../Ativa/Furto.md "Furto") nos [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), a taxa de queda dos itens são muito baixas.
    - Ao eliminar 1 [Fosso de Fogo](http://www.divine-pride.net/database/monster/3026/), 3 [Besouros Rola Brasa](http://www.divine-pride.net/database/monster/3027/) aparecem.
 8. Fale com Tamarin, ele te ajudará a caçar 25 [Sonias](http://www.divine-pride.net/database/monster/3028/) e coletar 25 [Caules Deliciosos](http://www.divine-pride.net/database/item/6690/).
 9. No centro do mapa, reencontre Tamarin (moro\_vol 198,179)
 
-   :   ![Dimensional07](../images/4/42/Dimensional07.png)
+   :   ![Dimensional07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Dimensional07.png)
 10. Entregue os itens para Barget Tiblack.
 11. Procure o Instrutor Lugen (moro\_vol 105,71)
 
-    :   ![Dimensional08](../images/8/83/Dimensional08.png)
+    :   ![Dimensional08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Dimensional08.png)
 12. Próximo ao Instrutor, clique no Paciente Envenenado (moro\_vol 104,70)
 
-    :   ![Dimensional09](../images/b/be/Dimensional09.png)
+    :   ![Dimensional09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Dimensional09.png)
 13. Reporte a situação ao Instrutor Lugen.
 14. Retorne a Barget Tiblack para receber 1.500.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe.
 15. Reencontre Tamarin no centro do [Círculo de Fogo](http://www.divine-pride.net/database/map/moro_vol/) para ter acesso à [Caverna de Fogo](http://www.divine-pride.net/database/map/moro_cav/).
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

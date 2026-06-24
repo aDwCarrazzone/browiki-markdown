@@ -2,7 +2,7 @@
 
 # Reforma
 
-![ReformJanela](../images/b/b8/ReformJanela.png)
+![ReformJanela](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/ReformJanela.png)
 
 Interface de Reforma
 

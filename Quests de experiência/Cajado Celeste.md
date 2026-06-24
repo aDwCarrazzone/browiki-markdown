@@ -16,7 +16,7 @@
 
 1. Para iniciar a missão, você deve fazer parte do Clã do Cajado Celeste (prt\_in 33,114)
 
-   :   ![DavidAird](../images/b/b1/DavidAird.png)
+   :   ![DavidAird](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/DavidAird.png)
 2. Fale com o Líder do Clã Cajado Celeste (prontera 47,112)
 3. Encontre os Vestígios Suspeitos nas seguintes localidades:
    - (prt\_fild08 24,377)

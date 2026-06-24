@@ -17,7 +17,7 @@
 
 - Mecânica do mapa:
   - Para invocar a [Bomi](http://www.divine-pride.net/database/monster/3756/), 30 pessoas do servidor devem completar a missão diária *Coleta de Sangue*.
-  - Para invocar o [Conde Drácula](http://www.divine-pride.net/database/monster/3757/)![MonstroMVP](../images/5/53/MonstroMVP.png), é necessário eliminar a [Bomi](http://www.divine-pride.net/database/monster/3756/).
+  - Para invocar o [Conde Drácula](http://www.divine-pride.net/database/monster/3757/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), é necessário eliminar a [Bomi](http://www.divine-pride.net/database/monster/3756/).
   - Após a morte do [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP"), a contagem da missão é reiniciada.
   - Durante a missão de acesso, vários [NPCs](../Sem%20categoria/NPC.md "NPC") aparecerão aleatoriamente no mapa, ativando diálogos que podem atrapalhar nas batalhas, tome cuidado.
 
@@ -25,22 +25,22 @@
 
 1. Dirija-se para o calabouço subterrâneo da Torre de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") e fale mais de uma vez com Grimm (gef\_dun01 132,223).
 
-   :   ![Grimm vamp1](../images/1/1f/Grimm_vamp1.png)
+   :   ![Grimm vamp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Grimm_vamp1.png)
 2. Após um bom diálogo, selecione a opção "*Sim, por favor*" para teleportar-se até a página 250 e fale com Gemma (gef\_d01\_i 113,230).
 
-   :   ![Gemma vamp1](../images/2/2f/Gemma_vamp1.png)
+   :   ![Gemma vamp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Gemma_vamp1.png)
 3. Encontre o Monge Jubilee (gef\_d01\_i 250,164).
 
-   :   ![Jubilee vamp1](../images/e/ed/Jubilee_vamp1.png)
+   :   ![Jubilee vamp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Jubilee_vamp1.png)
 4. Aceite ajudar Bomi, a Bruxa (gef\_d01\_i 81,135).
 
-   :   ![Bomi vamp1](../images/5/5b/Bomi_vamp1.png)
+   :   ![Bomi vamp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Bomi_vamp1.png)
 
    - Elimine 5 [Mattiliar](http://www.divine-pride.net/database/monster/3750/) e 5 [Cogumelos Brilhantes](http://www.divine-pride.net/database/monster/3755/).
    - Colete 10 [Seiva de Cogumelo](http://www.divine-pride.net/database/item/25269/) e 10 [Sangue Coagulado](http://www.divine-pride.net/database/item/25268/), eles aparecem diretamente no seu inventário.
 5. Após falar com a Bruxa, encontre o Bruxo Jojo, mas a missão prossegue falando com Drácula (gef\_d01\_i 189,98).
 
-   :   ![Conde vamp1](../images/4/48/Conde_vamp1.png)
+   :   ![Conde vamp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Conde_vamp1.png)
 6. Ao lado do Drácula, fale com Qing, que chamará atenção para uma luta acontecendo.
 7. Volte a falar com a Bruxa Bomi (gef\_d01\_i 81,135).
    - Após o intenso diálogo, fale com a Bruxa Bomi novamente.

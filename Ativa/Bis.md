@@ -24,26 +24,26 @@ A música, dança ou dueto vai consumir 50% a menos de [SP](../Sem%20categoria/S
 ### Habilidades afetadas
 
 - [Odaliscas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Odaliscas.md "Odaliscas"):
-  - [![Não me Abandones](../images/0/0c/N%C3%A3o_me_Abandones.png)](../Suporte/N%C3%A3o%20me%20Abandones.md "Não me Abandones") [Não me Abandones](../Suporte/N%C3%A3o%20me%20Abandones.md "Não me Abandones")
-  - [![Dança do Ventre](../images/b/b5/Dan%C3%A7a_do_Ventre.png)](Dan%C3%A7a%20do%20Ventre.md "Dança do Ventre") [Dança do Ventre](Dan%C3%A7a%20do%20Ventre.md "Dança do Ventre")
-  - [![Dança Cigana](../images/f/f4/Dan%C3%A7a_Cigana.png)](../Suporte/Dan%C3%A7a%20Cigana.md "Dança Cigana") [Dança Cigana](../Suporte/Dan%C3%A7a%20Cigana.md "Dança Cigana")
-  - [![Beijo da Sorte](../images/e/eb/Beijo_da_Sorte.png)](../Suporte/Beijo%20da%20Sorte.md "Beijo da Sorte") [Beijo da Sorte](../Suporte/Beijo%20da%20Sorte.md "Beijo da Sorte")
-  - [![Sibilo](../images/6/6c/Sibilo.png)](../Suporte/Sibilo.md "Sibilo") [Sibilo](../Suporte/Sibilo.md "Sibilo")
+  - [![Não me Abandones](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/N%C3%A3o_me_Abandones.png)](../Suporte/N%C3%A3o%20me%20Abandones.md "Não me Abandones") [Não me Abandones](../Suporte/N%C3%A3o%20me%20Abandones.md "Não me Abandones")
+  - [![Dança do Ventre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Dan%C3%A7a_do_Ventre.png)](Dan%C3%A7a%20do%20Ventre.md "Dança do Ventre") [Dança do Ventre](Dan%C3%A7a%20do%20Ventre.md "Dança do Ventre")
+  - [![Dança Cigana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Dan%C3%A7a_Cigana.png)](../Suporte/Dan%C3%A7a%20Cigana.md "Dança Cigana") [Dança Cigana](../Suporte/Dan%C3%A7a%20Cigana.md "Dança Cigana")
+  - [![Beijo da Sorte](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Beijo_da_Sorte.png)](../Suporte/Beijo%20da%20Sorte.md "Beijo da Sorte") [Beijo da Sorte](../Suporte/Beijo%20da%20Sorte.md "Beijo da Sorte")
+  - [![Sibilo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Sibilo.png)](../Suporte/Sibilo.md "Sibilo") [Sibilo](../Suporte/Sibilo.md "Sibilo")
 - [Bardos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Bardos.md "Bardos"):
-  - [![Dissonância](../images/1/1a/Disson%C3%A2ncia.png)](../Ofensiva/Disson%C3%A2ncia.md "Dissonância") [Dissonância](../Ofensiva/Disson%C3%A2ncia.md "Dissonância")
-  - [![Poema de Bragi](../images/c/cf/Poema_de_Bragi.png)](../Suporte/Poema%20de%20Bragi.md "Poema de Bragi") [Poema de Bragi](../Suporte/Poema%20de%20Bragi.md "Poema de Bragi")
-  - [![Maçãs de Idun](../images/1/1a/Ma%C3%A7%C3%A3s_de_Idun.png)](../Suporte/Ma%C3%A7%C3%A3s%20de%20Idun.md "Maçãs de Idun") [Maçãs de Idun](../Suporte/Ma%C3%A7%C3%A3s%20de%20Idun.md "Maçãs de Idun")
-  - [![Assovio](../images/9/93/Assovio.png)](../Suporte/Assovio.md "Assovio") [Assovio](../Suporte/Assovio.md "Assovio")
-  - [![Crepúsculo Sangrento](../images/e/e9/Crep%C3%BAsculo_Sangrento.png)](../Suporte/Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento") [Crepúsculo Sangrento](../Suporte/Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento")
+  - [![Dissonância](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Disson%C3%A2ncia.png)](../Ofensiva/Disson%C3%A2ncia.md "Dissonância") [Dissonância](../Ofensiva/Disson%C3%A2ncia.md "Dissonância")
+  - [![Poema de Bragi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Poema_de_Bragi.png)](../Suporte/Poema%20de%20Bragi.md "Poema de Bragi") [Poema de Bragi](../Suporte/Poema%20de%20Bragi.md "Poema de Bragi")
+  - [![Maçãs de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Ma%C3%A7%C3%A3s_de_Idun.png)](../Suporte/Ma%C3%A7%C3%A3s%20de%20Idun.md "Maçãs de Idun") [Maçãs de Idun](../Suporte/Ma%C3%A7%C3%A3s%20de%20Idun.md "Maçãs de Idun")
+  - [![Assovio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Assovio.png)](../Suporte/Assovio.md "Assovio") [Assovio](../Suporte/Assovio.md "Assovio")
+  - [![Crepúsculo Sangrento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Crep%C3%BAsculo_Sangrento.png)](../Suporte/Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento") [Crepúsculo Sangrento](../Suporte/Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento")
 - Duetos:
-  - [![Ode a Siegfried](../images/d/d8/Ode_a_Siegfried.png)](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried")
-  - [![Banquete de Njord](../images/3/38/Banquete_de_Njord.png)](Banquete%20de%20Njord.md "Banquete de Njord") [Banquete de Njord](Banquete%20de%20Njord.md "Banquete de Njord")
-  - [![Rufar dos Tambores](../images/7/7b/Rufar_dos_Tambores.png)](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores") [Rufar dos Tambores](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores")
-  - [![Anel dos Nibelungos](../images/4/4c/Anel_dos_Nibelungos.png)](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos") [Anel dos Nibelungos](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos")
-  - [![Ritmo Caótico](../images/e/ed/Ritmo_Ca%C3%B3tico.png)](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico") [Ritmo Caótico](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico")
-  - [![Lamento de Loki](../images/6/6e/Lamento_de_Loki.png)](Lamento%20de%20Loki.md "Lamento de Loki") [Lamento de Loki](Lamento%20de%20Loki.md "Lamento de Loki")
-  - [![Canção Preciosa](../images/6/67/Can%C3%A7%C3%A3o_Preciosa.png)](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa") [Canção Preciosa](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa")
-  - [![Cantiga de Ninar](../images/1/13/Cantiga_de_Ninar.png)](Cantiga%20de%20Ninar.md "Cantiga de Ninar") [Cantiga de Ninar](Cantiga%20de%20Ninar.md "Cantiga de Ninar")
+  - [![Ode a Siegfried](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Ode_a_Siegfried.png)](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried")
+  - [![Banquete de Njord](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Banquete_de_Njord.png)](Banquete%20de%20Njord.md "Banquete de Njord") [Banquete de Njord](Banquete%20de%20Njord.md "Banquete de Njord")
+  - [![Rufar dos Tambores](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Rufar_dos_Tambores.png)](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores") [Rufar dos Tambores](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores")
+  - [![Anel dos Nibelungos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Anel_dos_Nibelungos.png)](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos") [Anel dos Nibelungos](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos")
+  - [![Ritmo Caótico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Ritmo_Ca%C3%B3tico.png)](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico") [Ritmo Caótico](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico")
+  - [![Lamento de Loki](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Lamento_de_Loki.png)](Lamento%20de%20Loki.md "Lamento de Loki") [Lamento de Loki](Lamento%20de%20Loki.md "Lamento de Loki")
+  - [![Canção Preciosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Can%C3%A7%C3%A3o_Preciosa.png)](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa") [Canção Preciosa](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa")
+  - [![Cantiga de Ninar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Cantiga_de_Ninar.png)](Cantiga%20de%20Ninar.md "Cantiga de Ninar") [Cantiga de Ninar](Cantiga%20de%20Ninar.md "Cantiga de Ninar")
 
 ## Notas
 

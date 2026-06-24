@@ -16,16 +16,16 @@
 
 1. Converse com o Churrasqueiro (comodo 206,304)
 
-   :   ![ComodoRegional01](../images/0/0b/ComodoRegional01.png)
+   :   ![ComodoRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/ComodoRegional01.png)
 2. Elimine 10 [Sapos de Thara](http://www.divine-pride.net/database/monster/1034/) e traga 5 [Ovas de Sapo](http://www.divine-pride.net/database/item/908/) para ele.
 3. O Churrasqueiro pedirá que você fale com Seravi (comodo 166,137)
 
-   :   ![ComodoRegional02a](../images/3/39/ComodoRegional02a.png)
+   :   ![ComodoRegional02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/ComodoRegional02a.png)
 4. Elimine 10 [Megalodons](http://www.divine-pride.net/database/monster/1064/) para ele.
 5. Reporte para Seravi, que mandará você ir para o Churrasqueiro (comodo 206,304)
 6. O Churrasqueiro pede que você fale com Bunny (comodo 249,300) (Que é a filha dele, mas está com o sprite errado)
 
-   :   ![ComodoRegional03](../images/a/a4/ComodoRegional03.png)
+   :   ![ComodoRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/ComodoRegional03.png)
 7. Retorne a Seravi (comodo 166,137)
 8. Elimine 10 [Hidras](http://www.divine-pride.net/database/monster/1068/) e colete 5 [Tentáculos](http://www.divine-pride.net/database/item/962/)
 9. Retorne a Bunny (comodo 249,300).

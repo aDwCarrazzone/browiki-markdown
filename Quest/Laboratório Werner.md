@@ -17,20 +17,20 @@
 
 1. Nos arredores de [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch"), para entrar na [Base Militar](http://www.divine-pride.net/database/map/que_swat/) fale com Lukie (ein\_fild04 284,332)
 
-   :   ![LukieLucky1](../images/9/9a/LukieLucky1.png)
+   :   ![LukieLucky1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/LukieLucky1.png)
 2. Na Base Militar, Lukie (que\_swat 150,58) tem algumas missões diárias para você completar. Você só terá acesso à instância se tiver uma missão de Lukie para fazer.
 
-   :   ![LukiSwat](../images/3/3a/LukiSwat.png)
+   :   ![LukiSwat](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/LukiSwat.png)
 3. Entre no [Laboratório Clandestino](http://www.divine-pride.net/database/map/slabw01/) e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![LuckyWerner](../images/6/6b/LuckyWerner.png)
+   :   ![LuckyWerner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/LuckyWerner.png)
 4. Assim que a entrada for liberada, clique no portal que aparece no centro do círculo.
 5. Dentro da instância, siga ao norte, derrotando [Caça-Corações](http://www.divine-pride.net/database/monster/3622/) no caminho.
 
-   :   ![CaçaCorações](../images/9/94/Ca%C3%A7aCora%C3%A7%C3%B5es.png)
+   :   ![CaçaCorações](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Ca%C3%A7aCora%C3%A7%C3%B5es.png)
 6. Ir para as próximas áreas requer ativar os Aparatos de Segurança.
 
-   :   ![Aparato de Segurança](../images/5/57/Aparato_de_Seguran%C3%A7a.png)
+   :   ![Aparato de Segurança](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Aparato_de_Seguran%C3%A7a.png)
 
    - Ao clicar nos Aparatos, ele exibe um nome que foi dado para uma das espécimes do Eisen Werner.
    - Você deve selecionar a cor correta das duas opções que aparecem.
@@ -57,7 +57,7 @@
      - Modo Batalha (Onde você enfrenta [Fofinho](http://www.divine-pride.net/database/monster/3621/)).
 9. Selecionando qualquer opção, aproxime-se do centro do mapa para iniciar a luta.
 
-   :   ![Fofinho](../images/6/64/Fofinho.png)
+   :   ![Fofinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/Fofinho.png)
 10. Ao derrotar o monstro, saia pelo portal ao sul e fale com Luki para finalizar a instância com sucesso (ein\_fild04 284,332).
 
 | *[Instâncias](Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |

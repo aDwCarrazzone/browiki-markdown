@@ -37,7 +37,7 @@ Para acessar o carrinho, basta usar o atalho `ALT + W`
 - [Superaprendizes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Superaprendizes.md "Superaprendizes") só podem alugar o carrinho com a Funcionária Kafra (aldebaran 54,238)
 - O carrinho dos [Superaprendizes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Superaprendizes.md "Superaprendizes") tem aparência única e não pode ser [personalizada](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho").
 
-:   ![Carrinho dos SA](../images/e/e0/Carrinho_dos_SA.png)
+:   ![Carrinho dos SA](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Carrinho_dos_SA.png)
 
 ## Notas
 

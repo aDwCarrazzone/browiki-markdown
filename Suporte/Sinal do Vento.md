@@ -35,7 +35,7 @@ há uma chance de regenerar 1 ponto do seu [AP](../Sem%20categoria/AP.md "AP").
 
 ### A Marca
 
-- **Ícone:** ![I Sinal do Vento](../images/2/2f/I_Sinal_do_Vento.png)
+- **Ícone:** ![I Sinal do Vento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/I_Sinal_do_Vento.png)
 - Torna o alvo visível para o usuário.
 - Oponentes marcados ainda exibirão o sinal do vento em [Esconderijo](../Ativa/Esconderijo.md "Esconderijo"), [Furtividade](../Ativa/Furtividade.md "Furtividade"), [Ocultação](../Ativa/Oculta%C3%A7%C3%A3o.md "Ocultação"), etc.
 - Apesar disso, para atacá-los, ainda é necessário revelá-los.

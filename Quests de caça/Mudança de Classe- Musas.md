@@ -16,32 +16,32 @@
 
 1. Dirija-se para [Lutie](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md "Lutie") falando com o Papai Noel (aldebaran 167,167)
 
-   :   ![Job bard02](../images/0/0a/Job_bard02.png)
+   :   ![Job bard02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Job_bard02.png)
 2. Pergunte sobre a Odalisca Kim para uma das Musas Iniciantes (xmas 161,209)
 
-   :   ![Clschmusa01](../images/f/f5/Clschmusa01.png)
+   :   ![Clschmusa01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Clschmusa01.png)
 3. Encontre o Gerente de Desempenho (xmas 132,143). Se aparecer uma caixa para você digitar, escreva qualquer coisa.
 
-   :   ![Clschmusa02](../images/4/49/Clschmusa02.png)
+   :   ![Clschmusa02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/49/Clschmusa02.png)
 4. Procure pelo Trovador Desanimado, chegando no /navi, atravesse o portal (cmd\_in02 74,25)
 
-   :   ![Clschmusa03](../images/e/e5/Clschmusa03.png)
+   :   ![Clschmusa03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Clschmusa03.png)
 
    - Selecione:
      - Beijo da Sorte (*Caso não tenha aprendido a habilidade, selecione "Escândalo".*)
 5. Fale com a Moça Forasteira (hu\_in01 305,250). Fique demonstrando preocupação até ela sugerir (apareça a opção) que você ajude-a no exercício físico.
 
-   :   ![Clschmusa04](../images/e/ea/Clschmusa04.png)
+   :   ![Clschmusa04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Clschmusa04.png)
 6. Converse com a Odalisca Kim (hu\_fild05 342,130)
 
-   :   ![Clschmusa05](../images/6/6d/Clschmusa05.png)
+   :   ![Clschmusa05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Clschmusa05.png)
 
    - Seu desafio é eliminar 50 [Novus Dourado](http://www.divine-pride.net/database/monster/1718/) em 10 minutos.
    - Se não conseguir concluir a etapa a tempo, basta voltar com a Odalisca Kim e recomeçar novamente.
 7. Reencontre o Trovador Desanimado em [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo") (cmd\_in02 74,25)
 8. Aproxime-se da árvore central para a Odalisca Kim aparecer (xmas 147,135)
 
-   :   ![Clschmusa06](../images/f/f2/Clschmusa06.png)
+   :   ![Clschmusa06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Clschmusa06.png)
 9. Após a apresentação, Kim mudará sua classe e você receberá 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e 1 [Súplica do Cisne](http://www.divine-pride.net/database/item/5758/).
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.

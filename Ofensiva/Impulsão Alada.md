@@ -48,7 +48,7 @@ A chance é igual ao [CRIT](../Sem%20categoria/CRIT.md "CRIT") do usuário.
 
 ### Área
 
-![AreaAladaPhantom](../images/5/5d/AreaAladaPhantom.png)
+![AreaAladaPhantom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/AreaAladaPhantom.png)
 
 1. Ao usar a habilidade no alvo, ela verifica que oponentes estão marcados.
 2. Há 2 oponentes marcados no campo vermelho (7x7 células), eles recebem dano.

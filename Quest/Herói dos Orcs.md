@@ -14,7 +14,7 @@
 
 1. Aproxime-se do Guerreiro Orc (in\_orcs01 31,93)
 
-   :   ![Orques01](../images/4/43/Orques01.png)
+   :   ![Orques01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Orques01.png)
 
    - Entregue os [Jellopys](http://www.divine-pride.net/database/item/909/) ao [NPC](../Sem%20categoria/NPC.md "NPC").
    - Você receberá um [Machado Orc](http://www.divine-pride.net/database/item/909/), guarde-o no seu [armazém](../Sem%20categoria/Armaz%C3%A9m.md "Armazém") e retorne ao [NPC](../Sem%20categoria/NPC.md "NPC").
@@ -22,6 +22,6 @@
    - Fale novamente com o Guerreiro Orc com [Insígnias do Herói](http://www.divine-pride.net/database/item/968/) no inventário.
 2. Aproxime-se do Orc Herói (in\_orcs01 162,33)
 
-   :   ![Orques02a](../images/a/a8/Orques02a.png)
+   :   ![Orques02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Orques02a.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") transformará seu [Capacete de Orc](http://www.divine-pride.net/database/item/2299/) em um [Elmo de Orc Herói](http://www.divine-pride.net/database/item/5094/).

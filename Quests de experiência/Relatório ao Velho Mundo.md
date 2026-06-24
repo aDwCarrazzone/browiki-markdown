@@ -16,14 +16,14 @@
 
 1. Fale com Hibba Agip (mid\_campin 92,121)
 
-   :   ![Relatorio01](../images/3/36/Relatorio01.png)
+   :   ![Relatorio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Relatorio01.png)
 2. Aceite a missão do Oficial Abidal. (mid\_campin 94,118)
 
-   :   ![Relatorio02](../images/4/40/Relatorio02.png)
+   :   ![Relatorio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Relatorio02.png)
 3. Receba o [Relatório da Expedição](http://www.divine-pride.net/database/item/11012/) das mãos de Hibba Agip.
 4. Encontre o Mensageiro (mid\_camp 206,286)
 
-   :   ![Relatorio03a](../images/8/89/Relatorio03a.png)
+   :   ![Relatorio03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Relatorio03a.png)
 
    - Escolha qualquer opção, não interfere na missão.
 5. Retorne a Hibba Agip.
@@ -34,7 +34,7 @@
    - [Relatório da Expedição Vol. 4](http://www.divine-pride.net/database/item/11016/)
 7. Para coletar os relatórios, você pode conversar com os Batedores espalhados em [Ash Vacuum](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum") ou derrotar [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") na região.
 
-   :   ![Relatorio03b](../images/c/c5/Relatorio03b.png)
+   :   ![Relatorio03b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Relatorio03b.png)
 
    - Localização dos Batedores:
      - (spl\_fild02 296,369)
@@ -53,11 +53,11 @@
 9. Retorne a Hibba Agip para receber 3 [Relatório da Expedição](http://www.divine-pride.net/database/item/11012/).
 10. Entregue o primeiro relatório para Laur (prt\_cas 108,265)
 
-    :   ![Relatorio04 n](../images/c/ca/Relatorio04_n.png)
+    :   ![Relatorio04 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Relatorio04_n.png)
 11. Entregue o segundo relatório para Nuria (ra\_temple 122,174)
 
-    :   ![Relatorio05](../images/f/fa/Relatorio05.png)
+    :   ![Relatorio05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Relatorio05.png)
 12. Entregue o terceiro relatório para Gerhart (lhz\_in01 110,174)
 
-    :   ![Relatorio06](../images/2/2d/Relatorio06.png)
+    :   ![Relatorio06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Relatorio06.png)
 13. Retorne a Hibba Agip, que agradecerá a sua ajuda e lhe dará [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").

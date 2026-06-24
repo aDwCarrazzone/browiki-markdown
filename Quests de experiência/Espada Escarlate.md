@@ -16,7 +16,7 @@
 
 1. Para iniciar a missão, você deve fazer parte do Clã da Espada Escarlate (prt\_in 33,114)
 
-   :   ![RafaellaOra](../images/b/be/RafaellaOra.png)
+   :   ![RafaellaOra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/RafaellaOra.png)
 2. Fale com a Líder do Clã Espada Escarlate (prontera 32,325)
 3. Encontre Jade (gef\_fild05 198,251)
 4. Investigue os Vestígios Suspeitos:

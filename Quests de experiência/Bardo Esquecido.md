@@ -14,12 +14,12 @@
 
 1. Fale com o Bardo (geffen 132,38)
 
-   :   ![O Bardo de Geffen01](../images/7/71/O_Bardo_de_Geffen01.png)
+   :   ![O Bardo de Geffen01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/O_Bardo_de_Geffen01.png)
 
    - Peça para ele tocar uma canção divertida. Eventualmente, ele pode esquecer do 8º trecho da canção, logo, você deve se oferecer para ajudá-lo.
 2. Converse com o Bardo (payon 180,172)
 
-   :   ![O Bardo de Geffen02](../images/5/5b/O_Bardo_de_Geffen02.png)
+   :   ![O Bardo de Geffen02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/O_Bardo_de_Geffen02.png)
 
    - Digite o texto abaixo, parágrafo por parágrafo, e fale com ele novamente.
      - `At One, I Fall in Love`
@@ -27,7 +27,7 @@
 3. Volte ao Bardo em [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") e diga que Kino Kitty mudou a canção.
 4. Fale com o Bardo (morocc 134,110)
 
-   :   ![O Bardo de Geffen03](../images/8/83/O_Bardo_de_Geffen03.png)
+   :   ![O Bardo de Geffen03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/O_Bardo_de_Geffen03.png)
 
    - Selecione:
      - Desculpe, interrompê-lo
@@ -35,10 +35,10 @@
 5. Volte ao Bardo de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen").
 6. Mostre sua mão esquerda para o Velho (yuno 264,87)
 
-   :   ![O Bardo de Geffen04](../images/9/93/O_Bardo_de_Geffen04.png)
+   :   ![O Bardo de Geffen04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/O_Bardo_de_Geffen04.png)
 7. Leia o Livro Velho até encontrar a canção.
 
-   :   ![O Bardo de Geffen05](../images/e/ec/O_Bardo_de_Geffen05.png)
+   :   ![O Bardo de Geffen05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/O_Bardo_de_Geffen05.png)
 8. Volte ao Bardo de [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc").
    - Selecione:
      - Tá aqui

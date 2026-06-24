@@ -18,9 +18,9 @@ Melhora suas práticas de arremesso com lâminas.
 
 Aumenta o [ATQ](../Sem%20categoria/ATQ.md "ATQ") de perícia das seguintes habilidades:
 
-- [![Arremessar Huuma](../images/4/41/Arremessar_Huuma.png)](../Ofensiva/Arremessar%20Huuma.md "Arremessar Huuma") [Arremessar Huuma](../Ofensiva/Arremessar%20Huuma.md "Arremessar Huuma")
-- [![Arremessar Kunai](../images/5/54/Arremessar_Kunai.png)](../Ofensiva/Arremessar%20Kunai.md "Arremessar Kunai") [Arremessar Kunai](../Ofensiva/Arremessar%20Kunai.md "Arremessar Kunai")
-- [![Arremessar Shuriken](../images/f/f2/Arremessar_Shuriken.png)](../Ofensiva/Arremessar%20Shuriken.md "Arremessar Shuriken") [Arremessar Shuriken](../Ofensiva/Arremessar%20Shuriken.md "Arremessar Shuriken")
+- [![Arremessar Huuma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Arremessar_Huuma.png)](../Ofensiva/Arremessar%20Huuma.md "Arremessar Huuma") [Arremessar Huuma](../Ofensiva/Arremessar%20Huuma.md "Arremessar Huuma")
+- [![Arremessar Kunai](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Arremessar_Kunai.png)](../Ofensiva/Arremessar%20Kunai.md "Arremessar Kunai") [Arremessar Kunai](../Ofensiva/Arremessar%20Kunai.md "Arremessar Kunai")
+- [![Arremessar Shuriken](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Arremessar_Shuriken.png)](../Ofensiva/Arremessar%20Shuriken.md "Arremessar Shuriken") [Arremessar Shuriken](../Ofensiva/Arremessar%20Shuriken.md "Arremessar Shuriken")
 
 | Nv. | [ATQ](../Sem%20categoria/ATQ.md "ATQ") |
 | --- | --- |

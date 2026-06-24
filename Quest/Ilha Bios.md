@@ -17,24 +17,24 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 6684.png 1 [Marca do Herói](http://www.divine-pride.net/database/item/6684/) |
 | **Recompensa** | Acesso a [Caverna de Mors](Caverna%20de%20Mors.md "Caverna de Mors") |
 
-[![IlhaBios](../images/f/f5/IlhaBios.jpg)](https://browiki.org/wiki/Arquivo%3AIlhaBios.jpg)
+[![IlhaBios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/IlhaBios.jpg)](https://browiki.org/wiki/Arquivo%3AIlhaBios.jpg)
 
 Ilha Bios durante o dia
 
 1. Fale com o Velho Errante (moro\_cav 45,60)
 
-   :   ![Bios01](../images/0/06/Bios01.png)
+   :   ![Bios01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Bios01.png)
 2. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") através da Semente Amarela, ao lado dele.
 
-   :   ![Bios02](../images/d/da/Bios02.png)
+   :   ![Bios02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Bios02.png)
 3. Aproxime-se de Zeith e Vrid para iniciar a história.
 
-   :   ![Bios03](../images/e/e5/Bios03.png)
+   :   ![Bios03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Bios03.png)
 4. Na primeira fase, derrote todos os [Filhotes de Orc Caído](http://www.divine-pride.net/database/monster/3010/), [Filhotes de Lobo Caído](http://www.divine-pride.net/database/monster/3011/) e [Familiar Caídos](http://www.divine-pride.net/database/monster/3012/).
 5. Na segunda fase, derrote todos os [Orcs Caídos](http://www.divine-pride.net/database/monster/3013/), [Lobos Caídos](http://www.divine-pride.net/database/monster/3014/) e [Fens Caídos](http://www.divine-pride.net/database/monster/3015/).
 6. Na terceira fase, aproxime-se de Zeith e Vrid novamente.
 
-   :   ![Bios04](../images/7/73/Bios04.png)
+   :   ![Bios04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Bios04.png)
 7. Seu grupo será atacado por [Zumbis Caídos](http://www.divine-pride.net/database/monster/3016/), [Verits Caídos](http://www.divine-pride.net/database/monster/3017/), [Megalodons Caídos](http://www.divine-pride.net/database/monster/3018/) em seguida, pelo [Ceifador Ankou](http://www.divine-pride.net/database/monster/3029/).
 8. Após eliminá-los, fale com Zeith para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") e receber uma [Marca do Herói](http://www.divine-pride.net/database/item/6684/).
 9. Relate o ocorrido ao Velho Errante.

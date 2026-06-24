@@ -2,7 +2,7 @@
 
 # Clana Nemieri
 
-![BaseRebeliao](../images/3/3b/BaseRebeliao.jpg)
+![BaseRebeliao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/BaseRebeliao.jpg)
 
 A Base da Rebelião
 
@@ -19,10 +19,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 - Para acessar os mapas abaixo, você precisa ter completado a missão **[Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria")**.
 - **Clana Nemieri** (einbech 215,83)
 
-  :   ![ClanaNemieri](../images/f/f5/ClanaNemieri.png)
+  :   ![ClanaNemieri](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/ClanaNemieri.png)
 - **Base Militar** (ein\_fild04 284,332)
 
-  :   ![LukieLucky1](../images/9/9a/LukieLucky1.png)
+  :   ![LukieLucky1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/LukieLucky1.png)
 - Você pode chegar na Base Militar através do Mago Nillem (pub\_cat 85,105).
 
 ## Brasão de Honra
@@ -83,10 +83,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Aceite ajudar Rachel Smith.
 
-   :   ![RachelSmith](../images/a/a1/RachelSmith.png)
+   :   ![RachelSmith](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/RachelSmith.png)
 2. Você receberá o [Revólver de Rachel](http://www.divine-pride.net/database/item/25151/) para ser entregue ao Ferreiro (einbroch 255,109)
 
-   :   ![FerreiroJack](../images/0/0d/FerreiroJack.png)
+   :   ![FerreiroJack](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/FerreiroJack.png)
 3. Volte a falar com Rachel Smith, que pedirá um dos seguintes materiais, de maneira aleatória.
    - ![998.png](http://static.divine-pride.net/images/items/item/998.png) 5 [Ferro](http://www.divine-pride.net/database/item/998/)
    - ![984.png](http://static.divine-pride.net/images/items/item/984.png) 2 [Oridecon](http://www.divine-pride.net/database/item/984/)
@@ -114,10 +114,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Aceite ajudar Manson Bender.
 
-   :   ![MansonBender](../images/3/3f/MansonBender.png)
+   :   ![MansonBender](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/MansonBender.png)
 2. Você receberá 3 [Panfletos de Loja](http://www.divine-pride.net/database/item/25163/) para distribuir entre 3 moradores de [Einbech](../Lugares%20em%20Ragnar%C3%B6k/Einbech.md "Einbech").
 
-   :   ![MoradoresEinbech](../images/2/2a/MoradoresEinbech.png)
+   :   ![MoradoresEinbech](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/MoradoresEinbech.png)
 
    - Idosa Sonolenta (einbech 170,143)
    - Homem Cansado (einbech 71,168)
@@ -144,13 +144,13 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Aceite ajudar Ericsson Adler.
 
-   :   ![EricssonAdler](../images/2/28/EricssonAdler.png)
+   :   ![EricssonAdler](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/EricssonAdler.png)
 2. Encontre a Menina Florista (einbroch 168,160)
 
-   :   ![MeninaFloristanew](../images/c/ca/MeninaFloristanew.png)
+   :   ![MeninaFloristanew](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/MeninaFloristanew.png)
 3. Traga 3 [Pedaço de Papel](http://www.divine-pride.net/database/item/7111/) à [NPC](../Sem%20categoria/NPC.md "NPC") para receber 1 [Buquê Cerimonial](http://www.divine-pride.net/database/item/25152/) e leve o item à Grande Árvore, bem próximo dali (einbroch 163,152)
 
-   :   ![GrandeArvore](../images/0/02/GrandeArvore.png)
+   :   ![GrandeArvore](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/GrandeArvore.png)
 4. Volte ao Ericsson Adler para receber 200.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
    - Na sua primeira vez completando a missão, você recebe 10 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
 
@@ -172,7 +172,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Converse com Lukie.
 
-   :   ![LukieLucky](../images/e/ef/LukieLucky.png)
+   :   ![LukieLucky](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/LukieLucky.png)
 2. Aleatoriamente, 1 de 3 crianças aparecerão para fazer um pedido.
 3. Assim que completar a tarefa, retorne ao Lukie para receber 200.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
 
@@ -200,7 +200,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Fale com Milo River, que oferece duas missões diárias, que são independentes uma da outra.
 
-   :   ![MiloRiver](../images/c/c7/MiloRiver.png)
+   :   ![MiloRiver](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/MiloRiver.png)
 2. **Lanche dos Veteranos:**
    1. Basta entregar 1 dos seguintes pratos de [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") para receber 100.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
       - ![12046.png](http://static.divine-pride.net/images/items/item/12046.png) 1 [Chá de Ervas com Uvas](http://www.divine-pride.net/database/item/12046/)
@@ -211,7 +211,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 3. **Gata Perdida:**
    1. Você receberá 1 [Anchova Crocante](http://www.divine-pride.net/database/item/25162/) para atrair Charity em um dos Bancos Vazios espalhados por Einbech.
 
-      :   ![BancoVazio](../images/8/80/BancoVazio.png)
+      :   ![BancoVazio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/BancoVazio.png)
 
       - (einbech 257,100)
       - (einbech 34,209)
@@ -239,10 +239,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Aceite ajudar a Chefe atrás do balcão.
 
-   :   ![Recuperando01](../images/4/4c/Recuperando01.png)
+   :   ![Recuperando01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Recuperando01.png)
 2. Vá até algumas pilha de areia nos arredores de [Einbech](../Lugares%20em%20Ragnar%C3%B6k/Einbech.md "Einbech") e conseguir 3 [Resto de Arma Quebrada](http://www.divine-pride.net/database/item/25153/).
 
-   :   ![Recuperando02](../images/7/74/Recuperando02.png)
+   :   ![Recuperando02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Recuperando02.png)
 
    - (ein\_fild09 135,305)
    - (ein\_fild09 255,282)
@@ -276,7 +276,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Aceite lutar contra Elena Bolkova.
 
-   :   ![ElenaBolkova](../images/9/9a/ElenaBolkova.png)
+   :   ![ElenaBolkova](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/ElenaBolkova.png)
 
    - Seu personagem será enviado para a arena de batalha.
    - Se seu personagem for da classe [Arcebispos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcebispos.md "Arcebispos") e evoluções, a [Elena Bolkova](http://www.divine-pride.net/database/monster/3630/) terá somente 1.300 de [HP](../Sem%20categoria/HP.md "HP").
@@ -304,10 +304,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 1. Entre no quarto das Veteranas para ouvir uma conversa da porta.
 2. Dentro do quarto, fale com Dien.
 
-   :   ![Veteranas](../images/9/9f/Veteranas.png)
+   :   ![Veteranas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Veteranas.png)
 3. Converse com o Guarda Larcis ao lado das madames.
 
-   :   ![GuardaLarcis](../images/4/4b/GuardaLarcis.png)
+   :   ![GuardaLarcis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/GuardaLarcis.png)
 4. Agora você pode aceitar missões diárias relacionadas à instância [Base Militar](../Quest/Base%20Militar.md "Base Militar"), sendo necessário ter completado a missão [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") para acessá-la.
 5. Os itens das quests só aparecem no seu inventário com as missões ativas, não são [drops](../Sem%20categoria/Drop.md "Drop") comuns dos monstros.
 6. **Festa: Chá de Dien**:
@@ -341,7 +341,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Na Base Militar, Lukie (que\_swat 150,58) tem algumas missões diárias para você completar.
 
-   :   ![LukiSwat](../images/3/3a/LukiSwat.png)
+   :   ![LukiSwat](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/LukiSwat.png)
 2. **Elimine Fofinho**:
    1. Elimine 1 [Fofinho](http://www.divine-pride.net/database/monster/3621/) no modo batalha do [Laboratório Werner](../Quest/Laborat%C3%B3rio%20Werner.md "Laboratório Werner").
    2. Você recebe 150.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
@@ -368,10 +368,10 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Na Base Militar, ajude Philopontess (que\_swat 145,57)
 
-   :   ![TessSwat](../images/c/cf/TessSwat.png)
+   :   ![TessSwat](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/TessSwat.png)
 2. Entre no [Laboratório Werner](http://www.divine-pride.net/database/map/slawb01/) e localize 3 Pesquisadores escondidos.
 
-   :   ![WernerPesquisadores](../images/5/50/WernerPesquisadores.png)
+   :   ![WernerPesquisadores](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/WernerPesquisadores.png)
 
    - Armário Suspeito (slabw01 235,137)
    - Armário Suspeito (slabw01 254,131)
@@ -402,7 +402,7 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 1. Na Base Militar, aceite o pedido de Yuslan (que\_swat 161,53)
 
-   :   ![Yuslan](../images/2/28/Yuslan.png)
+   :   ![Yuslan](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Yuslan.png)
 2. Elimine 10 [Quimeras Humanas](http://www.divine-pride.net/database/monster/3631/) e 10 [Quimeras Disformes](http://www.divine-pride.net/database/monster/3632/) no [Laboratório Werner](http://www.divine-pride.net/database/map/slawb01/).
 3. Você recebe 150.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
 

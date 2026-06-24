@@ -23,7 +23,7 @@
 
 Atira uma flecha que causa dano físico a distância em um único alvo.
 
-O dano aumenta se o usuário estiver em estado de [![Disparo Selvagem](../images/6/6b/Disparo_Selvagem.png)](../Suporte/Disparo%20Selvagem.md "Disparo Selvagem") [Disparo Selvagem](../Suporte/Disparo%20Selvagem.md "Disparo Selvagem").
+O dano aumenta se o usuário estiver em estado de [![Disparo Selvagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/Disparo_Selvagem.png)](../Suporte/Disparo%20Selvagem.md "Disparo Selvagem") [Disparo Selvagem](../Suporte/Disparo%20Selvagem.md "Disparo Selvagem").
 
 | Nv. | [ATQ](../Sem%20categoria/ATQ.md "ATQ") sem bônus | [ATQ](../Sem%20categoria/ATQ.md "ATQ") com bônus |
 | --- | --- | --- |

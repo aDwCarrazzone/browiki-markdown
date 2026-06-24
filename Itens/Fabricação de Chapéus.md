@@ -4,7 +4,7 @@
 
 Alguns equipamentos para cabeça podem ser adquiridos ao completar missões dadas por determinados [NPCs](../Sem%20categoria/NPC.md "NPC").
 
-Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map cozinheiro](../images/f/f6/Map_cozinheiro.png)
+Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map cozinheiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Map_cozinheiro.png)
 
 Não constam nesta lista as missões: [Carrascos na Prisão](../Quest/Carrascos%20na%20Pris%C3%A3o.md "Carrascos na Prisão") e [Herói dos Orcs](../Quest/Her%C3%B3i%20dos%20Orcs.md "Herói dos Orcs").
 

@@ -2,7 +2,7 @@
 
 # Combinação
 
-![CombinadorJanela](../images/2/2f/CombinadorJanela.png)
+![CombinadorJanela](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/CombinadorJanela.png)
 
 Combinação é a interface que um jogador interage a partir de um item combinador.
 

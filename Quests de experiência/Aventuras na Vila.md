@@ -17,10 +17,10 @@
 
 1. Pegue uma tarefa com Chow Chow (mora 119,103)
 
-   :   ![Chowchow](../images/0/0e/Chowchow.png)
+   :   ![Chowchow](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Chowchow.png)
 2. Entregue os itens pedidos para Artigos Diversos (mora 119,118)
 
-   :   ![Rafflen1](../images/6/61/Rafflen1.png)
+   :   ![Rafflen1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Rafflen1.png)
 
 | Missão | Itens pedidos |
 | --- | --- |
@@ -45,10 +45,10 @@
 
 1. Pegue uma tarefa com o Labrador (mora 124,108)
 
-   :   ![Labrador](../images/1/12/Labrador.png)
+   :   ![Labrador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Labrador.png)
 2. Entregue os itens pedidos para a Negociante Mercadora (mora 127,112)
 
-   :   ![Rafflen2](../images/f/f7/Rafflen2.png)
+   :   ![Rafflen2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Rafflen2.png)
 
 | Missão | Itens pedidos |
 | --- | --- |
@@ -73,10 +73,10 @@
 
 1. Pegue uma tarefa com Elephantine (mora 133,80)
 
-   :   ![Elephante](../images/b/b1/Elephante.png)
+   :   ![Elephante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Elephante.png)
 2. Reporte a caçada para Hotcha (mora 115,98)
 
-   :   ![Rafflen3](../images/a/a2/Rafflen3.png)
+   :   ![Rafflen3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Rafflen3.png)
 
 | Missão | Monstro |
 | --- | --- |
@@ -101,10 +101,10 @@
 
 1. Pegue uma tarefa com a Guia das Almas (mora 170,101)
 
-   :   ![Guiadasalma](../images/8/82/Guiadasalma.png)
+   :   ![Guiadasalma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Guiadasalma.png)
 2. Encontre os restos mortais dos seres que se perderam em Bifröst.
 
-   :   ![Rafflen4](../images/2/24/Rafflen4.png)
+   :   ![Rafflen4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Rafflen4.png)
 
    - A [NPC](../Sem%20categoria/NPC.md "NPC") dará um nome aleatório para você localizar no [Labirinto da Neblina](../Quest/Labirinto%20da%20Neblina.md "Labirinto da Neblina").
    - Achando os restos, você receberá uma recompensa aleatória, podendo ser [itens](../Itens/Itens.md "Itens") ou mais moedas adicionais.

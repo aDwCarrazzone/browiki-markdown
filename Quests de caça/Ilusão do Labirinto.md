@@ -13,7 +13,7 @@
 | **Recompensa** | Libera o acesso a [Ilusão do Labirinto](http://www.divine-pride.net/database/map/prt_mz03_i/) |
 
 - Mecânica do mapa:
-  - Para invocar um [Bafomé Caótico](http://www.divine-pride.net/database/monster/20520/)![MonstroMVP](../images/5/53/MonstroMVP.png), você precisa eliminar os 4 Noviços no [Labirinto](http://www.divine-pride.net/database/map/prt_mz03_i/).
+  - Para invocar um [Bafomé Caótico](http://www.divine-pride.net/database/monster/20520/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), você precisa eliminar os 4 Noviços no [Labirinto](http://www.divine-pride.net/database/map/prt_mz03_i/).
     - [Andrea](http://www.divine-pride.net/database/monster/20521/)
     - [Agnes](http://www.divine-pride.net/database/monster/20522/)
     - [Silvano](http://www.divine-pride.net/database/monster/20523/)
@@ -29,17 +29,17 @@
 
 1. Dentro do Labirinto da Floresta, aceite ajudar Irene (prt\_fild01 136,370)
 
-   :   ![IllusionLabby01](../images/8/86/IllusionLabby01.png)
+   :   ![IllusionLabby01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/IllusionLabby01.png)
 2. Encontre Esmeralda (prontera 212,320)
 
-   :   ![IllusionLabby02](../images/4/4b/IllusionLabby02.png)
+   :   ![IllusionLabby02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/IllusionLabby02.png)
 3. Volte para o Labirinto da Floresta e fale com Esmeralda (ela estará próxima da Irene e da Fenda Retorcida).
 4. Clique na Fenda Retorcida, na frente dela (prt\_maze01 99,23)
 
-   :   ![IllusionLabby03](../images/b/b8/IllusionLabby03.png)
+   :   ![IllusionLabby03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/IllusionLabby03.png)
 5. Leve os Restos dos Noviços. Haverá uma barra de conjuração que será interrompida se você sofrer dano.
 
-   :   ![IllusionLabby04](../images/6/6a/IllusionLabby04.png)
+   :   ![IllusionLabby04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/IllusionLabby04.png)
 
    1. Restos de Andrea (prt\_mz03\_i 107,104)
    2. Restos de Agnes (prt\_mz03\_i 10,18)
@@ -49,14 +49,14 @@
 7. Mais uma vez, seu personagem será teleportado para a entrada do Labirinto, mas dessa vez, ao entrar, todos estarão reunidos.
 8. Fale com Andrea para finalizar a missão (você não recebe recompensa).
 
-   :   ![IllusionLabby05](../images/5/5a/IllusionLabby05.png)
+   :   ![IllusionLabby05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/IllusionLabby05.png)
 
 ### Missões diárias
 
-- ![DQ ico](../images/8/8b/DQ_ico.png) Missões Diárias são dadas pelo Andrea (prt\_maze01 97,21)
+- ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Missões Diárias são dadas pelo Andrea (prt\_maze01 97,21)
   - 1.750.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base
   - 1.137.500 [EXP](../Sem%20categoria/EXP.md "EXP") de classe
-- ![NQ ico](../images/8/82/NQ_ico.png) Missões Semanais são aleatórias entre 1 das 4 Purificações e são dadas pela Agnes (prt\_maze01 97,25)
+- ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missões Semanais são aleatórias entre 1 das 4 Purificações e são dadas pela Agnes (prt\_maze01 97,25)
   - 2.500.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base
   - 1.625.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe
 - Para receber as recompensas, reporte as missões para Silvano (prt\_maze01 101,25)

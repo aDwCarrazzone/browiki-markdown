@@ -54,7 +54,7 @@ Diferente dos homunculus existentes, novas formas com habilidades mais poderosas
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeBioquímicos](../images/6/6f/SkilltreeBioqu%C3%ADmicos.png)
+![SkilltreeBioquímicos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/SkilltreeBioqu%C3%ADmicos.png)
 
 ## Construção do Personagem
 

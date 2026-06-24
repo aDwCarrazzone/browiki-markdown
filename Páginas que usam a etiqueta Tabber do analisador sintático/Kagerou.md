@@ -49,7 +49,7 @@ Com habilidades para encarar uma guerra, os Kagerous se destacam por 3 especiali
 
 ### Árvore de habilidades
 
-![SkilltreeKagerou](../images/2/25/SkilltreeKagerou.png)
+![SkilltreeKagerou](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/SkilltreeKagerou.png)
 
 ## Construção do Personagem
 

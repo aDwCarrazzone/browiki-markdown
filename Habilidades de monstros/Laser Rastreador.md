@@ -35,9 +35,9 @@ Oponentes ao redor de 7x7 células ao redor do alvo também sofrerão dano.
 - A mira não pode ser removida por [Desencantar](../Ativa/Desencantar.md "Desencantar") ou [Gênese](../Ativa/G%C3%AAnese.md "Gênese").
 - O dano não pode ser bloqueado por [Imunidade Mágica](../Passiva/Imunidade%20M%C3%A1gica.md "Imunidade Mágica").
 - O dano é fixo, ignorando [DEF](../Sem%20categoria/DEF.md "DEF") e [DEFM](../Sem%20categoria/DEFM.md "DEFM"), mas pode ser reduzido por:
-  - [![Corpo Fechado](../images/c/c4/Corpo_Fechado.png)](../Suporte/Corpo%20Fechado.md "Corpo Fechado") [Corpo Fechado](../Suporte/Corpo%20Fechado.md "Corpo Fechado")
-  - [![Proteção Arcana](../images/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
-  - [![Kyrie Eleison](../images/f/f4/Kyrie_Eleison.png)](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison") [Kyrie Eleison](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison")
+  - [![Corpo Fechado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Corpo_Fechado.png)](../Suporte/Corpo%20Fechado.md "Corpo Fechado") [Corpo Fechado](../Suporte/Corpo%20Fechado.md "Corpo Fechado")
+  - [![Proteção Arcana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
+  - [![Kyrie Eleison](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Kyrie_Eleison.png)](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison") [Kyrie Eleison](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison")
 - Pode ser esquivada por [Cambalhota](../Ativa/Cambalhota.md "Cambalhota").
 - Pode bloqueado por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico")
 

@@ -16,7 +16,7 @@
 
 1. Sua jornada começa com a Bruxa Catarina (gef\_tower 111,37). Se seu nível de classe for menor que 50, ela pedirá os itens abaixo, aleatoriamente:
 
-   :   ![Classchwiz01](../images/9/92/Classchwiz01.png)
+   :   ![Classchwiz01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/Classchwiz01.png)
 
    - Possibilidade 1:
      - ![716.png](http://static.divine-pride.net/images/items/item/716.png) 10 [Gema Vermelha](http://www.divine-pride.net/database/item/716/)
@@ -29,7 +29,7 @@
      - ![992.png](http://static.divine-pride.net/images/items/item/992.png) 5 [Frescor do Vento](http://www.divine-pride.net/database/item/992/)
 2. Responda o questionário de Lauro (gef\_tower 102,24). Você precisa acertar 8 perguntas para passar no teste.
 
-   :   ![Classchwiz02](../images/f/f6/Classchwiz02.png)
+   :   ![Classchwiz02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Classchwiz02.png)
 
 :   :   | Questionário I | |
         | --- | --- |

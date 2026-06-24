@@ -2,7 +2,7 @@
 
 # Grupo
 
-![JaneladeGrupo](../images/d/da/JaneladeGrupo.png)
+![JaneladeGrupo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/JaneladeGrupo.png)
 
 Personagens poderão se unir em até 12 pessoas em um grupo para dividir a [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e os [itens](../Itens/Itens.md "Itens").
 
@@ -15,7 +15,7 @@ Para criar um grupo, é necessário ter as habilidades [Instintos Básicos](../P
 - Também é possível convidar membros clicando com o botão direito em cima do personagem ou na própria janela do grupo.
 - Se o cadeado na janela de grupo estiver ativo você não conseguirá realizar algumas funções, como criar uma mini-janela ou remover algum membro do grupo.
 
-  :   ![Negociação](../images/f/fb/Negocia%C3%A7%C3%A3o.png)
+  :   ![Negociação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Negocia%C3%A7%C3%A3o.png)
 
 ## Informações
 
@@ -26,7 +26,7 @@ Para criar um grupo, é necessário ter as habilidades [Instintos Básicos](../P
 - Você pode conferir o nível do personagem, se ele está online, se ele está morto, quem é o líder do grupo e quantos membros o grupo possui.
 - Os nomes dos membros podem ser arrastados para fora da janela do grupo, criando uma mini-janela.
 
-  :   ![MiniJaneladeGrupo](../images/5/5d/MiniJaneladeGrupo.png)
+  :   ![MiniJaneladeGrupo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/MiniJaneladeGrupo.png)
 - A mini janela de grupo:
   - Pode ser arrastada para qualquer canto da sua tela.
   - Tem funcionalidade, podendo usar uma habilidade no membro do grupo. (Exemplo, você pode curar alguém por essa janela).
@@ -37,7 +37,7 @@ Para criar um grupo, é necessário ter as habilidades [Instintos Básicos](../P
 
 Em um grupo, você poderá enviar mensagens somente para membros e serão visualizadas por todos em qualquer mapa de [Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online"), basta selecionar o botão azul na janela de conversas.
 
-:   ![Mensagempública](../images/6/60/Mensagemp%C3%BAblica.png)
+:   ![Mensagempública](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Mensagemp%C3%BAblica.png)
 
 As configurações do grupo podem ser acessadas na própria janela, clicando no ícone da *Lupa*.
 
@@ -80,7 +80,7 @@ Encontrar grupos ou personagens para serem membros ficou mais fácil com esse si
 
 A janela da Agência de Aventuras pode ser acessada pelo comando `CTRL + Z`
 
-![AgênciadeAventura](../images/0/0e/Ag%C3%AAnciadeAventura.png)
+![AgênciadeAventura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Ag%C3%AAnciadeAventura.png)
 
 **Quem está procurando grupos:**
 
@@ -94,16 +94,16 @@ A janela da Agência de Aventuras pode ser acessada pelo comando `CTRL + Z`
 - Na nova janela, escolha o alcance de nível, o mapa de interesse e o seu objetivo (para upar, para fazer instâncias, etc.)
 - É possível escolher as classes que você tem mais interesse para seu grupo, são elas:
 
-1. ![Tanker](../images/e/e3/Tanker.png) Defensor = São classes do tipo *Tanker*, como [Guardiões Reais](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Guardi%C3%B5es%20Reais.md "Guardiões Reais"), [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") de Maré ou [Shuras](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Shuras.md "Shuras").
-2. ![Helpers](../images/b/b0/Helpers.png) Suporte = São classes de suporte, os mais famosos são [Arcebispos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcebispos.md "Arcebispos"), [Trovadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Trovadores.md "Trovadores"), [Musas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Musas.md "Musas") e [Feiticeiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Feiticeiros.md "Feiticeiros").
-3. ![Killer](../images/8/8e/Killer.png) Atacante = São conhecidos como *Killers*, classes com boas habilidades ofensivas, como [Cavaleiros Rúnicos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos"), [Sentinelas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sentinelas.md "Sentinelas") e [Arcanos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcanos.md "Arcanos").
-4. ![Assis](../images/6/60/Assis.png) Auxiliar = Os famosos *Mobbers*, todas as outras classes que podem ajudar a trazer monstros para o grupo, geralmente [Sicários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sic%C3%A1rios.md "Sicários") e [Renegados](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Renegados.md "Renegados").
+1. ![Tanker](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Tanker.png) Defensor = São classes do tipo *Tanker*, como [Guardiões Reais](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Guardi%C3%B5es%20Reais.md "Guardiões Reais"), [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") de Maré ou [Shuras](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Shuras.md "Shuras").
+2. ![Helpers](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Helpers.png) Suporte = São classes de suporte, os mais famosos são [Arcebispos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcebispos.md "Arcebispos"), [Trovadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Trovadores.md "Trovadores"), [Musas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Musas.md "Musas") e [Feiticeiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Feiticeiros.md "Feiticeiros").
+3. ![Killer](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/Killer.png) Atacante = São conhecidos como *Killers*, classes com boas habilidades ofensivas, como [Cavaleiros Rúnicos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos"), [Sentinelas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sentinelas.md "Sentinelas") e [Arcanos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcanos.md "Arcanos").
+4. ![Assis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Assis.png) Auxiliar = Os famosos *Mobbers*, todas as outras classes que podem ajudar a trazer monstros para o grupo, geralmente [Sicários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sic%C3%A1rios.md "Sicários") e [Renegados](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Renegados.md "Renegados").
 
 - Quando registrar o grupo, ele aparecerá duas vezes: na fila dos grupos e no topo da janela.
 - Você receberá pedidos para entrar no seu grupo de qualquer parte do jogo!
 - Os pedidos exibem a classe e o nível do personagem.
 
-:   ![PedidosdeGrupo](../images/8/82/PedidosdeGrupo.png)
+:   ![PedidosdeGrupo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/PedidosdeGrupo.png)
 
 | *[Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

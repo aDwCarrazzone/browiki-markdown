@@ -19,7 +19,7 @@
 
 1. Fale com Seiyu (ba\_in01 237,47)
 
-   :   ![Seiyu172](../images/1/16/Seiyu172.png)
+   :   ![Seiyu172](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Seiyu172.png)
 
    - A Autômata oferece 3 missões diárias diferentes:
      - [Nv. 130] Caçar Papilia Violeta
@@ -29,7 +29,7 @@
    - Você não poderá fazer o modo Normal e o Difícil no mesmo dia.
 3. **O Jardim Aquático**
 
-   :   ![OrtusAqua1](../images/9/9a/OrtusAqua1.png)
+   :   ![OrtusAqua1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/OrtusAqua1.png)
 
    1. Converse com a Jardineira na entrada.
    2. Seu grupo será teleportado aleatoriamente para 4 folhas aquáticas.  
@@ -42,7 +42,7 @@
       - Monstros do modo difícil: [Fada das Chamas](http://www.divine-pride.net/database/monster/20678/) e [Papila Lilás](http://www.divine-pride.net/database/monster/20670/).
 4. **O Jardim Xadrez**
 
-   :   ![OrtusAqua2](../images/7/73/OrtusAqua2.png)
+   :   ![OrtusAqua2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/OrtusAqua2.png)
 
    1. Converse com a Jardineira na entrada.
    2. Nessa fase, há uma mecânica que invoca [Ruptura Terrestre](../Habilidades%20de%20monstros/Ruptura%20Terrestre.md "Ruptura Terrestre") a cada 5 segundos.  
@@ -54,7 +54,7 @@
       - Monstros do modo difícil: [Fada das Chamas](http://www.divine-pride.net/database/monster/20678/), [Jardineira Superior](http://www.divine-pride.net/database/monster/20632/) e [Verporte](http://www.divine-pride.net/database/monster/20666/).
 5. **O Orquidário**
 
-   :   ![OrtusAqua3](../images/b/b4/OrtusAqua3.png)
+   :   ![OrtusAqua3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/OrtusAqua3.png)
 
    1. Converse com a Jardineira na entrada.
    2. Basta seguir o caminho, eliminando os monstros.
@@ -63,7 +63,7 @@
    3. Se você não conseguir sair dessa fase, significa que você não conversou com a Jardineira na entrada.
 6. **O Labirinto**
 
-   :   ![OrtusAqua4](../images/2/26/OrtusAqua4.png)
+   :   ![OrtusAqua4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/OrtusAqua4.png)
 
    1. Converse com a Jardineira na entrada.
    2. Seu grupo será teleportado aleatoriamente para 4 pontos do labirinto.
@@ -73,7 +73,7 @@
       - Monstros do modo difícil: [Papila Escarlate](http://www.divine-pride.net/database/monster/20672/) e [Papila Anil](http://www.divine-pride.net/database/monster/20675/).
 7. **O Gazebo**
 
-   :   ![OrtusAqua5](../images/2/27/OrtusAqua5.png)
+   :   ![OrtusAqua5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/OrtusAqua5.png)
 
    1. Após o diálogo com a Jardineira, a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") aparece.
    2. A cada 15 segundos, dois pilares coloridos aparecerão na área.  

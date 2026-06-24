@@ -24,7 +24,7 @@ Remove o efeito de Cansaço do usuário.
 
 ### Cansaço
 
-[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Cansaço](../images/c/c9/I_Cansa%C3%A7o.png)
+[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Cansaço](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/I_Cansa%C3%A7o.png)
 
 - Dura 10 segundos.
 - Recebe essa condição logo após ativar um dueto.

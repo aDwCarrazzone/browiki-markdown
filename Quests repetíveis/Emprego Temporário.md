@@ -20,7 +20,7 @@
    - `Somente os primeiros a chegar serão contratados!`
 2. Se ofereça para o trabalho ao Criador Taab (mid\_camp 143,306)
 
-   :   ![Questav01](../images/5/54/Questav01.png)
+   :   ![Questav01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Questav01.png)
 
    - A tarefa é dada aos voluntários de acordo com a ordem de chegada dos jogadores:
 

@@ -15,5 +15,5 @@
 
 1. Equipe uma máscara qualquer e fale com o Chefe da Tribo (um\_in 39,121)
 
-   :   ![Língua de Umbala01](../images/5/56/L%C3%ADngua_de_Umbala01.png)
+   :   ![Língua de Umbala01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/L%C3%ADngua_de_Umbala01.png)
 2. Entregue os itens ao Chefe da Tribo para aprender o idioma dos Wootan.

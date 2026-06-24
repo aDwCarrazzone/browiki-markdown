@@ -16,7 +16,7 @@
 | **Recompensa** | Libera o acesso a [Ilusão da Tartaruga](http://www.divine-pride.net/database/map/tur_d03_i/) |
 
 - Mecânica do mapa:
-  - Para invocar um [Marechal Tartaruga](http://www.divine-pride.net/database/monster/3804/)![MonstroMVP](../images/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros no [Palácio Tartaruga](http://www.divine-pride.net/database/map/tur_d04_i/).
+  - Para invocar um [Marechal Tartaruga](http://www.divine-pride.net/database/monster/3804/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros no [Palácio Tartaruga](http://www.divine-pride.net/database/map/tur_d04_i/).
     - 2.500 [Agressor Ominoso](http://www.divine-pride.net/database/monster/3799/),
     - 2.500 [Batedor Ominoso](http://www.divine-pride.net/database/monster/3800/),
     - 2.500 [Aquecedor Ominoso](http://www.divine-pride.net/database/monster/3803/),
@@ -28,24 +28,24 @@
 
 1. Converse com o Soldado Elivar (alberta 211,28) e selecione "*Deixe-me ver o pedaço*" para teleportar à Vila das Boas Tartarugas.
 
-   :   ![Elivar tur1](../images/b/b2/Elivar_tur1.png)
+   :   ![Elivar tur1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Elivar_tur1.png)
 2. Fale com a Garota (tur\_d03\_i 139,186) e escolha "*Ok, farei algumas perguntas.*".
 
-   :   ![Narin tur1](../images/e/e3/Narin_tur1.png)
+   :   ![Narin tur1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Narin_tur1.png)
 3. Ela indicará no mapa algumas pessoas que você deve conversar, são elas:
    1. Homem impaciente (tur\_d03\_i 80,180)
    2. Soldado bravo (tur\_d03\_i 234,187)
    3. Moça debilitada, no próximo andar (tur\_d04\_i 96,111)
 4. Após falar com a moça, encontre o Arqueólogo Leiphen (tur\_d04\_i 26,167)
 
-   :   ![Leiphen tur1](../images/8/86/Leiphen_tur1.png)
+   :   ![Leiphen tur1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Leiphen_tur1.png)
 
    - Retorne ao [NPC](../Sem%20categoria/NPC.md "NPC") após coletar 10 [Carnes Estragadas](http://www.divine-pride.net/database/item/7564/) e caçar 10 tartarugas de cada:
    - [Batedor Ominoso](http://www.divine-pride.net/database/monster/3800/), [Aquecedor Ominoso](http://www.divine-pride.net/database/monster/3803/), [Agressor Ominoso](http://www.divine-pride.net/database/monster/3799/),
    - [Congelador Ominoso](http://www.divine-pride.net/database/monster/3801/), [Agressor Ominoso](http://www.divine-pride.net/database/monster/3799/) e [Solidificador Ominoso](http://www.divine-pride.net/database/monster/3802/).
 5. Fale com a Moça debilitada (tur\_d04\_i 96,111)
 
-   :   ![Debilitada tur1](../images/4/49/Debilitada_tur1.png)
+   :   ![Debilitada tur1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/49/Debilitada_tur1.png)
 6. Volte a falar com a Garota (tur\_d03\_i 139,186)
    - Você precisa conversar com a [NPC](../Sem%20categoria/NPC.md "NPC") até ela revelar o nome.
    - Seu personagem recebe uma missão para vê-la no dia seguinte.

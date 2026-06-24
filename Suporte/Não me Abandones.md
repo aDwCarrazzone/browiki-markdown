@@ -52,18 +52,18 @@ Alvos atingidos perderão todos os efeitos positivos que aumentam velocidade.
 ### Efeitos removidos
 
 - Movimentação:
-  - [![Aumentar Agilidade](../images/d/d9/Aumentar_Agilidade.png)](Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](Aumentar%20Agilidade.md "Aumentar Agilidade")
-  - [![Caminho do Vento](../images/d/df/Caminho_do_Vento.png)](Caminho%20do%20Vento.md "Caminho do Vento") [Caminho do Vento](Caminho%20do%20Vento.md "Caminho do Vento")
-  - [![Ritmo Contagiante](../images/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
-  - [![Impulso no Carrinho](../images/5/52/Impulso_no_Carrinho.png)](Impulso%20no%20Carrinho.md "Impulso no Carrinho") [Impulso no Carrinho](Impulso%20no%20Carrinho.md "Impulso no Carrinho")
-  - [![Propulsão do Carrinho](../images/4/43/Propuls%C3%A3o_do_Carrinho.png)](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho") [Propulsão do Carrinho](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho")
+  - [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](Aumentar%20Agilidade.md "Aumentar Agilidade")
+  - [![Caminho do Vento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/df/Caminho_do_Vento.png)](Caminho%20do%20Vento.md "Caminho do Vento") [Caminho do Vento](Caminho%20do%20Vento.md "Caminho do Vento")
+  - [![Ritmo Contagiante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
+  - [![Impulso no Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Impulso_no_Carrinho.png)](Impulso%20no%20Carrinho.md "Impulso no Carrinho") [Impulso no Carrinho](Impulso%20no%20Carrinho.md "Impulso no Carrinho")
+  - [![Propulsão do Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Propuls%C3%A3o_do_Carrinho.png)](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho") [Propulsão do Carrinho](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho")
 - Velocidade de ataque:
-  - [![Rapidez com Duas Mãos](../images/9/93/Rapidez_com_Duas_M%C3%A3os.png)](Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos") [Rapidez com Duas Mãos](Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos")
-  - [![Rapidez com Uma Mão](../images/3/37/Rapidez_com_Uma_M%C3%A3o.png)](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão") [Rapidez com Uma Mão](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão")
-  - [![Rapidez com Lança](../images/a/a9/Rapidez_com_Lan%C3%A7a.png)](Rapidez%20com%20Lan%C3%A7a.md "Rapidez com Lança") [Rapidez com Lança](Rapidez%20com%20Lan%C3%A7a.md "Rapidez com Lança")
-  - [![Crepúsculo Sangrento](../images/e/e9/Crep%C3%BAsculo_Sangrento.png)](Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento") [Crepúsculo Sangrento](Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento")
-  - [![Adrenalina Pura](../images/5/52/Adrenalina_Pura.png)](Adrenalina%20Pura.md "Adrenalina Pura") [Adrenalina Pura](Adrenalina%20Pura.md "Adrenalina Pura")
-  - [![Adrenalina Concentrada](../images/8/88/Adrenalina_Concentrada.png)](Adrenalina%20Concentrada.md "Adrenalina Concentrada") [Adrenalina Concentrada](Adrenalina%20Concentrada.md "Adrenalina Concentrada")
+  - [![Rapidez com Duas Mãos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Rapidez_com_Duas_M%C3%A3os.png)](Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos") [Rapidez com Duas Mãos](Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos")
+  - [![Rapidez com Uma Mão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Rapidez_com_Uma_M%C3%A3o.png)](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão") [Rapidez com Uma Mão](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão")
+  - [![Rapidez com Lança](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Rapidez_com_Lan%C3%A7a.png)](Rapidez%20com%20Lan%C3%A7a.md "Rapidez com Lança") [Rapidez com Lança](Rapidez%20com%20Lan%C3%A7a.md "Rapidez com Lança")
+  - [![Crepúsculo Sangrento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Crep%C3%BAsculo_Sangrento.png)](Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento") [Crepúsculo Sangrento](Crep%C3%BAsculo%20Sangrento.md "Crepúsculo Sangrento")
+  - [![Adrenalina Pura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Adrenalina_Pura.png)](Adrenalina%20Pura.md "Adrenalina Pura") [Adrenalina Pura](Adrenalina%20Pura.md "Adrenalina Pura")
+  - [![Adrenalina Concentrada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Adrenalina_Concentrada.png)](Adrenalina%20Concentrada.md "Adrenalina Concentrada") [Adrenalina Concentrada](Adrenalina%20Concentrada.md "Adrenalina Concentrada")
 - Itens:
   - Poções que aumentam velocidade de movimento (Super poções, Emblema Oficial, etc.)
   - Poções que aumentam velocidade de ataque (Concentração, Garrafa de Veneno, Bala de Guaraná, etc.)

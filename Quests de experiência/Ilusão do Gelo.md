@@ -16,7 +16,7 @@
 | **Recompensa** | Libera o acesso a [Ilusão do Gelo](http://www.divine-pride.net/database/map/ice_d03_i/) |
 
 - Mecânica do mapa:
-  - Para invocar um [Ktullanux de Cristal](http://www.divine-pride.net/database/monster/3796/)![MonstroMVP](../images/5/53/MonstroMVP.png), você precisa clicar nos 4 Cristais Congelados no centro da [Caverna de Gelo](http://www.divine-pride.net/database/map/ice_d03_i/) dentro de 30 segundos.
+  - Para invocar um [Ktullanux de Cristal](http://www.divine-pride.net/database/monster/3796/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), você precisa clicar nos 4 Cristais Congelados no centro da [Caverna de Gelo](http://www.divine-pride.net/database/map/ice_d03_i/) dentro de 30 segundos.
     - (ice\_d03\_i 126,126)
     - (ice\_d03\_i 172,126)
     - (ice\_d03\_i 172,173)
@@ -27,13 +27,13 @@
 
 1. A Ilusão do Gelo pode ser acessada ao aproximar-se do portal no segundo andar da Caverna de Gelo (ice\_dun02 150,11)
 
-   :   ![Illusion Frozen1](../images/4/4b/Illusion_Frozen1.png)
+   :   ![Illusion Frozen1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Illusion_Frozen1.png)
 2. Converse com Vrid e Zeith (ice\_d03\_i 155,43), eles pedirão que você traga 10 [Galho Morto](http://www.divine-pride.net/database/item/25309/).
 
-   :   ![Illusion Frozen2](../images/9/90/Illusion_Frozen2.png)
+   :   ![Illusion Frozen2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Illusion_Frozen2.png)
 3. [Galhos Mortos](http://www.divine-pride.net/database/item/25309/) são adquiridos clicando nas Terras Secas. Há um tempo de conjuração que é interrompido se você receber dano.
 
-   :   ![Illusion Frozen3](../images/c/ce/Illusion_Frozen3.png)
+   :   ![Illusion Frozen3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Illusion_Frozen3.png)
 4. Assim que entregar os itens, Vrid e Zeith darão uma missão aleatória de caça:
    - Eliminar 10 [Gazeti de Cristal](http://www.divine-pride.net/database/monster/3792/) ou
    - Eliminar 10 [Yeti de Cristal](http://www.divine-pride.net/database/monster/3793/) ou
@@ -41,7 +41,7 @@
    - Eliminar 10 [Cristal de Gelo](http://www.divine-pride.net/database/monster/3795/)
 5. Voltando para Zeith e Vrid, esses [NPCs](../Sem%20categoria/NPC.md "NPC") poderão ser atacados, destrua o gelo para prosseguir a missão.
 
-   :   ![Illusion Frozen4](../images/d/df/Illusion_Frozen4.png)
+   :   ![Illusion Frozen4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/df/Illusion_Frozen4.png)
 6. Converse com eles novamente para receber sua recompensa.
    - Essa missão se torna uma missão diária, basta repetir todos os passos.
 

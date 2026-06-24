@@ -37,12 +37,12 @@ Só pode ser usada em ambientes de [PvP](../PvP/PvP.md "PvP") e [Guerra do Emper
 
 ### Efeitos
 
-[![Hipernova](../images/6/67/Hipernova.png)](../Ofensiva/Hipernova.md "Hipernova") [Hipernova](../Ofensiva/Hipernova.md "Hipernova")
+[![Hipernova](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Hipernova.png)](../Ofensiva/Hipernova.md "Hipernova") [Hipernova](../Ofensiva/Hipernova.md "Hipernova")
 
 - Remove a penalidade de ficar imóvel de 2 segundos.
 - Remove a recarga da habilidade.
 
-[![Advento Imperial](../images/f/f7/Advento_Imperial.png)](../Ofensiva/Advento%20Imperial.md "Advento Imperial") [Advento Imperial](../Ofensiva/Advento%20Imperial.md "Advento Imperial")
+[![Advento Imperial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Advento_Imperial.png)](../Ofensiva/Advento%20Imperial.md "Advento Imperial") [Advento Imperial](../Ofensiva/Advento%20Imperial.md "Advento Imperial")
 
 - Cria 2 astros que irão bloquear o dano recebido por 30 segundos.
 - Os astros possuem a mesma [DEF](../Sem%20categoria/DEF.md "DEF")/[DEFM](../Sem%20categoria/DEFM.md "DEFM") e o mesmo [HP](../Sem%20categoria/HP.md "HP") que o [SP](../Sem%20categoria/SP.md "SP") máx. do usuário.

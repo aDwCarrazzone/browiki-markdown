@@ -26,8 +26,8 @@ Alinha os centros de energia, aumentando o [ATQ](../Sem%20categoria/ATQ.md "ATQ"
 
 Aumenta em 30% o dano das seguintes habilidades:
 
-- [![Explosão Espiritual](../images/e/e6/Explos%C3%A3o_Espiritual.png)](../Ofensiva/Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](../Ofensiva/Explos%C3%A3o%20Espiritual.md "Explosão Espiritual")
-- [![Pancada Corporal](../images/3/34/Pancada_Corporal.png)](../Ofensiva/Pancada%20Corporal.md "Pancada Corporal") [Pancada Corporal](../Ofensiva/Pancada%20Corporal.md "Pancada Corporal")
+- [![Explosão Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Explos%C3%A3o_Espiritual.png)](../Ofensiva/Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](../Ofensiva/Explos%C3%A3o%20Espiritual.md "Explosão Espiritual")
+- [![Pancada Corporal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Pancada_Corporal.png)](../Ofensiva/Pancada%20Corporal.md "Pancada Corporal") [Pancada Corporal](../Ofensiva/Pancada%20Corporal.md "Pancada Corporal")
 
 | Nv. | [ATQ](../Sem%20categoria/ATQ.md "ATQ") | [ATQ](../Sem%20categoria/ATQ.md "ATQ") da arma | [HP](../Sem%20categoria/HP.md "HP") | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- | --- | --- |

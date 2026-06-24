@@ -36,7 +36,7 @@ Com a ação, dá um *Ultimato* para os membros do [grupo](../Informa%C3%A7%C3%B
 
 ### Ultimato
 
-- **Ícone:** ![I Ultimato](../images/3/30/I_Ultimato.png)
+- **Ícone:** ![I Ultimato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/I_Ultimato.png)
 - Quando morrer, é ressuscitado imediatamente.
 - O [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") ao ressuscitar é de 100%.
 - É cancelado por [Gênese](../Ativa/G%C3%AAnese.md "Gênese"), [Desencantar](../Ativa/Desencantar.md "Desencantar") ou ressuscitar.

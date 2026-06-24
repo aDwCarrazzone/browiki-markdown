@@ -32,18 +32,18 @@ Aumenta a [INT](../Sem%20categoria/INT.md "INT"), o [SP](../Sem%20categoria/SP.m
 
 ### Armadilhas afetadas
 
-- [![Armadilha Atordoante](../images/a/aa/Armadilha_Atordoante.png)](../Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante") [Armadilha Atordoante](../Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante")
-- [![Armadilha Congelante](../images/5/5d/Armadilha_Congelante.png)](../Ofensiva/Armadilha%20Congelante.md "Armadilha Congelante") [Armadilha Congelante](../Ofensiva/Armadilha%20Congelante.md "Armadilha Congelante")
-- [![Instalar Mina](../images/6/66/Instalar_Mina.png)](../Ofensiva/Instalar%20Mina.md "Instalar Mina") [Instalar Mina](../Ofensiva/Instalar%20Mina.md "Instalar Mina")
-- [![Armadilha Explosiva](../images/5/5c/Armadilha_Explosiva.png)](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva") [Armadilha Explosiva](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva")
-- [![Bomba Relógio](../images/6/65/Bomba_Rel%C3%B3gio.png)](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio") [Bomba Relógio](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio")
-- [![Armadilha Incendiária](../images/3/3b/Armadilha_Incendi%C3%A1ria.png)](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária") [Armadilha Incendiária](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária")
-- [![Armadilha Glacial](../images/c/c1/Armadilha_Glacial.png)](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial") [Armadilha Glacial](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial")
+- [![Armadilha Atordoante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Armadilha_Atordoante.png)](../Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante") [Armadilha Atordoante](../Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante")
+- [![Armadilha Congelante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Armadilha_Congelante.png)](../Ofensiva/Armadilha%20Congelante.md "Armadilha Congelante") [Armadilha Congelante](../Ofensiva/Armadilha%20Congelante.md "Armadilha Congelante")
+- [![Instalar Mina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Instalar_Mina.png)](../Ofensiva/Instalar%20Mina.md "Instalar Mina") [Instalar Mina](../Ofensiva/Instalar%20Mina.md "Instalar Mina")
+- [![Armadilha Explosiva](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Armadilha_Explosiva.png)](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva") [Armadilha Explosiva](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva")
+- [![Bomba Relógio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Bomba_Rel%C3%B3gio.png)](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio") [Bomba Relógio](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio")
+- [![Armadilha Incendiária](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Armadilha_Incendi%C3%A1ria.png)](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária") [Armadilha Incendiária](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária")
+- [![Armadilha Glacial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/Armadilha_Glacial.png)](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial") [Armadilha Glacial](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial")
 - Apenas alcance:
-  - [![Armadilha Terrestre](../images/9/9c/Armadilha_Terrestre.png)](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre") [Armadilha Terrestre](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre")
-  - [![Armadilha Ardente](../images/9/98/Armadilha_Ardente.png)](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente") [Armadilha Ardente](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente")
-  - [![Armadilha Zéfira](../images/d/d3/Armadilha_Z%C3%A9fira.png)](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira") [Armadilha Zéfira](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira")
-  - [![Armadilha Sombria](../images/0/08/Armadilha_Sombria.png)](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria") [Armadilha Sombria](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria")
+  - [![Armadilha Terrestre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Armadilha_Terrestre.png)](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre") [Armadilha Terrestre](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre")
+  - [![Armadilha Ardente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/Armadilha_Ardente.png)](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente") [Armadilha Ardente](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente")
+  - [![Armadilha Zéfira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Armadilha_Z%C3%A9fira.png)](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira") [Armadilha Zéfira](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira")
+  - [![Armadilha Sombria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Armadilha_Sombria.png)](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria") [Armadilha Sombria](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria")
 
 ## Notas
 

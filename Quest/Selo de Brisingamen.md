@@ -13,23 +13,23 @@
 
 1. Ouça a história do Bardo (prt\_fild08 175,374)
 
-   :   ![Selo de Brisingamen01a](../images/2/29/Selo_de_Brisingamen01a.png)
+   :   ![Selo de Brisingamen01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Selo_de_Brisingamen01a.png)
 2. Ajude o Sábio Estudando (yuno\_in04 47,113)
 
-   :   ![Selo de Brisingamen02](../images/9/94/Selo_de_Brisingamen02.png)
+   :   ![Selo de Brisingamen02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Selo_de_Brisingamen02.png)
 3. Entregue a carta ao Homem Rezando (prt\_church 113,103)
 
-   :   ![Selo de Brisingamen04](../images/1/19/Selo_de_Brisingamen04.png)
+   :   ![Selo de Brisingamen04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Selo_de_Brisingamen04.png)
 
    - Selecione:
      - *Quando você a viu pela última vez?*
 4. Encontre uma Mulher (prontera 258,352)
 
-   :   ![Selo de Brisingamen05](../images/0/0a/Selo_de_Brisingamen05.png)
+   :   ![Selo de Brisingamen05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Selo_de_Brisingamen05.png)
 5. Retorne ao Homem Rezando.
 6. Clique na Árvore (gef\_dun01 91,192)
 
-   :   ![Selo de Brisingamen06](../images/8/84/Selo_de_Brisingamen06.png)
+   :   ![Selo de Brisingamen06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Selo_de_Brisingamen06.png)
 
    - Selecione:
      - *Do que você está falando?*
@@ -37,34 +37,34 @@
 7. Retorne para a Mulher atrás da Catedral.
 8. Leia os documentos do Registro de Pessoal (prt\_cas 373,30)
 
-   :   ![Selo de Brisingamen07 n](../images/c/c0/Selo_de_Brisingamen07_n.png)
+   :   ![Selo de Brisingamen07 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Selo_de_Brisingamen07_n.png)
 
    - Insista em ler os documentos várias vezes, mesmo se o guarda teleportar você.
    - É importante frisar que você **não deve** conversar com o guarda próximo ao registro.
 9. Volte à Árvore do calabouço e digite: `Lowen`
 10. Repita o passo acima em outra árvore (gef\_dun01 203,48)
 
-    :   ![Selo de Brisingamen08](../images/e/e2/Selo_de_Brisingamen08.png)
+    :   ![Selo de Brisingamen08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Selo_de_Brisingamen08.png)
 
     - Você se teleportará para um mapa especial;
     - Caso não ocorra o teleporte, retorne para a Mulher atrás da Catedral e em sequência, tente ler o registro no castelo novamente.
 11. Neste mapa, ajude Lowen selecionando "*Você ainda tem algo para fazer*".
 
-    :   ![Selo de Brisingamen09](../images/9/9e/Selo_de_Brisingamen09.png)
+    :   ![Selo de Brisingamen09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/Selo_de_Brisingamen09.png)
 12. Um Soldado surgirá, fale com Lowen novamente e e entre na fila para descer ao nível inferior.
     - Às vezes, duas pessoas são levadas para baixo ao mesmo tempo, basta ficar próximo ao Soldado.
     - Neste novo mapa, mate todos os [Zumbis](http://www.divine-pride.net/database/monster/1015/), [Carniçais](http://www.divine-pride.net/database/monster/1036/) e [Múmias](http://www.divine-pride.net/database/monster/1041/).
 13. No final do corredor surgirá uma Valquíria, aceite acompanhá-la para sair do mapa.
 
-    :   ![Selo de Brisingamen10](../images/0/07/Selo_de_Brisingamen10.png)
+    :   ![Selo de Brisingamen10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Selo_de_Brisingamen10.png)
 14. Fale com a Mulher atrás da Catedral e clique no túmulo (prontera 262,353)
 
-    :   ![Selo de Brisingamen11](../images/1/12/Selo_de_Brisingamen11.png)
+    :   ![Selo de Brisingamen11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Selo_de_Brisingamen11.png)
 15. Procure pelo Homem Rezando novamente.
 16. Retorne ao Sábio Estudando. Selecione "*O que é desta vez?*"
 17. Clique em uma Árvore (xmas 40,108)
 
-    :   ![Selo de Brisingamen12](../images/8/86/Selo_de_Brisingamen12.png)
+    :   ![Selo de Brisingamen12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Selo_de_Brisingamen12.png)
 
     - Selecione:
       - Limpar a neve com a mão
@@ -79,7 +79,7 @@
 19. Feito isso, o anão Alfrik aparece. Cite a Valquíria para dar continuidade. Fale com o Alfrik novamente e pergunte sobre seu irmão.
 20. Raspe a superfície de uma pedra no meio das árvores (prt\_fild02 183,267)
 
-    :   ![Selo de Brisingamen13](../images/e/e3/Selo_de_Brisingamen13.png)
+    :   ![Selo de Brisingamen13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Selo_de_Brisingamen13.png)
 
     - Arrume o poema:
 
@@ -91,10 +91,10 @@
 21. Acorde Dvalin a mando de Alfrik.
 22. Aproxime-se do lago e responda 42 para o Anão (mjolnir\_09 85,129)
 
-    :   ![Selo de Brisingamen14](../images/d/d3/Selo_de_Brisingamen14.png)
+    :   ![Selo de Brisingamen14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Selo_de_Brisingamen14.png)
 23. Pise em um buraco (mjo\_dun02 126,37)
 
-    :   ![Selo de Brisingamen15](../images/3/36/Selo_de_Brisingamen15.png)
+    :   ![Selo de Brisingamen15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Selo_de_Brisingamen15.png)
 
     - Mencione Berling ao [NPC](../Sem%20categoria/NPC.md "NPC").
     - Quando surgir uma caixa de texto, você deve digitar parágrafo por parágrafo, corretamente:

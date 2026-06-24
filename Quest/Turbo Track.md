@@ -12,7 +12,7 @@ A arena do Turbo Track fica no Feudo de Luina, em [Al De Baran](../Lugares%20em%
 
 - Coordenadas: (alde\_gld 183,204)
 
-![TurboTrack](../images/a/a1/TurboTrack.png)
+![TurboTrack](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/TurboTrack.png)
 
 ## Regras
 
@@ -88,7 +88,7 @@ Ao competir seu personagem recebe 2 pontos de participação.
 
 1. Escolha sua recompensa com o Distribuidor de Pontos (turbo\_room 93,117)
 
-   :   ![TurboRoom](../images/a/a5/TurboRoom.png)
+   :   ![TurboRoom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/TurboRoom.png)
 
 | Pontos | Premiação |
 | --- | --- |
@@ -109,7 +109,7 @@ Ao competir seu personagem recebe 2 pontos de participação.
 
 - Você pode trocar Pontos da [Arena de Batalha](Arena%20de%20Batalha.md "Arena de Batalha") por Pontos do Turbo Track com o Encarregado da Turbo Track (turbo\_room 107,117)
 
-  :   ![TTEncarregado](../images/7/73/TTEncarregado.png)
+  :   ![TTEncarregado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/TTEncarregado.png)
 
 | *[Quests](Quests.md "Quests") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

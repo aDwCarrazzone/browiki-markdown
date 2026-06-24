@@ -54,7 +54,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeCaçadores](../images/f/f1/SkilltreeCa%C3%A7adores.png)
+![SkilltreeCaçadores](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/SkilltreeCa%C3%A7adores.png)
 
 ## Construção do Personagem
 

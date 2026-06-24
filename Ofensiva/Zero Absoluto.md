@@ -42,12 +42,12 @@ O número de acertos depende do número de cristais.
 
 ### Calafrio
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Hipotermia](../images/3/37/I_Hipotermia.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Hipotermia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/I_Hipotermia.png)
 - Duração: 10 segundos
 - Alvos atingidos brilham na cor azul.
 - Funciona contra outros personagens, [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") normais, chefes e [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese"), [Desencantar](../Ativa/Desencantar.md "Desencantar") ou ao morrer.
-- Recebem mais dano de [![Esquife de Gelo](../images/7/76/Esquife_de_Gelo.png)](Esquife%20de%20Gelo.md "Esquife de Gelo") [Esquife de Gelo](Esquife%20de%20Gelo.md "Esquife de Gelo").
+- Recebem mais dano de [![Esquife de Gelo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Esquife_de_Gelo.png)](Esquife%20de%20Gelo.md "Esquife de Gelo") [Esquife de Gelo](Esquife%20de%20Gelo.md "Esquife de Gelo").
 
 ### Fórmula
 

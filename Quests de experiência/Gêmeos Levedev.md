@@ -17,7 +17,7 @@
 
 1. Em [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri"), converse com Elena Bolkova.
 
-   :   ![ElenaBolkova](../images/9/9a/ElenaBolkova.png)
+   :   ![ElenaBolkova](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/ElenaBolkova.png)
 
    - Selecione:
      - *Estou livre, dei uma passada aqui*
@@ -26,19 +26,19 @@
      - *Irei ajudar*
 2. Fale com Jana Levedev.
 
-   :   ![Levedev](../images/0/0e/Levedev.png)
+   :   ![Levedev](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Levedev.png)
 3. Volte a falar sobre os Levedev com Elena Bolkova.
 4. Converse com Milo River.
 
-   :   ![MiloRiver](../images/c/c7/MiloRiver.png)
+   :   ![MiloRiver](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/MiloRiver.png)
 5. Converse com Manson Bender.
 
-   :   ![MansonBender](../images/3/3f/MansonBender.png)
+   :   ![MansonBender](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/MansonBender.png)
 6. Retorne à Jana Levedev e selecione "*Perguntar diretamente*".
 7. Volte para Elena Bolkova e selecione "*Conte a ela sobre os gêmeos Levedev*".
 8. Converse com Ericsson Adler até receber 1 [Bolacha Caseira](http://www.divine-pride.net/database/item/25161/).
 
-   :   ![EricssonAdler](../images/2/28/EricssonAdler.png)
+   :   ![EricssonAdler](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/EricssonAdler.png)
 9. Ofereça a [Bolacha Caseira](http://www.divine-pride.net/database/item/25161/) para Jana Levedev.
 10. Volte para Elena Bolkova e selecione "*Conte a ela sobre os gêmeos Levedev*".
 11. Retorne a Jana Levedev.

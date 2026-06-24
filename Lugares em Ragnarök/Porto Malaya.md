@@ -2,7 +2,7 @@
 
 # Porto Malaya
 
-[![Porto Malaya worldmap](../images/d/db/Porto_Malaya_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3APorto_Malaya_worldmap.jpg)
+[![Porto Malaya worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Porto_Malaya_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3APorto_Malaya_worldmap.jpg)
 
 Porto Malaya, a terra da liberdade
 

@@ -20,7 +20,7 @@
 
 Usa o poder da da luz do Sol.
 
-Aumenta temporariamente o dano de [![Explosão Solar](../images/5/54/Explos%C3%A3o_Solar.png)](../Ofensiva/Explos%C3%A3o%20Solar.md "Explosão Solar") [Explosão Solar](../Ofensiva/Explos%C3%A3o%20Solar.md "Explosão Solar").
+Aumenta temporariamente o dano de [![Explosão Solar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Explos%C3%A3o_Solar.png)](../Ofensiva/Explos%C3%A3o%20Solar.md "Explosão Solar") [Explosão Solar](../Ofensiva/Explos%C3%A3o%20Solar.md "Explosão Solar").
 
 | Nv. | Dano | Duração |
 | --- | --- | --- |

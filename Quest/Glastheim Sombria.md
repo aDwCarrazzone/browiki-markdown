@@ -16,21 +16,21 @@
 | **Chefe** | Monster OrigemEscuridão [Origem da Escuridão](http://www.divine-pride.net/database/monster/3151/) Monster AmdaraisSombrio [Amdarais Sombrio](http://www.divine-pride.net/database/monster/3150/) |
 | **[Itens](../Itens/Itens.md "Itens")** | 6607.png [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) 6608.png [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) 6755.png [Manas Sombrias](http://www.divine-pride.net/database/item/6755/) |
 
-[![MapaOGHa](../images/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
+[![MapaOGHa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
 
 Mapa-Chave da instância
 
 1. Converse com o Sósia de Hugin (glast\_01 179,282)
 
-   :   ![NOGH01](../images/b/bf/NOGH01.png)
+   :   ![NOGH01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/NOGH01.png)
 
    - Após o diálogo, fale novamente para gerar e entrar na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 2. Encontre Varmunt.
 
-   :   ![OGH02](../images/3/32/OGH02.png)
+   :   ![OGH02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/OGH02.png)
 3. Reporte a situação para Henrich.
 
-   :   ![OGH03](../images/7/73/OGH03.png)
+   :   ![OGH03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/OGH03.png)
 4. Após a história terminar, várias [Khalitzburgs Sombrias](http://www.divine-pride.net/database/monster/3146/) e [Sombrios do Abismo](http://www.divine-pride.net/database/monster/3145/) aparecerão.
    - Você não precisa eliminá-los, Henrich se encarregará disso.
 5. Aguarde o final do diálogo e dirija-se ao setor 1 para eliminar todos os monstros.
@@ -38,26 +38,26 @@ Mapa-Chave da instância
    - Quando uma boa quantidade de monstros forem mortos, uma mensagem surgirá avisando que a maldição de Himelemez se enfraqueceu.
 6. O líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverá encontrar o Domun.
 
-   :   ![OGH04](../images/6/6a/OGH04.png)
+   :   ![OGH04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/OGH04.png)
 7. Dirija-se ao setor 2 e elimine todos os monstros.
    - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são: [Zumbi Sombrio](http://www.divine-pride.net/database/monster/3139/) e [Carniçal Sombrio](http://www.divine-pride.net/database/monster/3141/).
    - Cuidado ao se aproximar dos Homens Caídos, eles invocarão [Arclouses Sombrios](http://www.divine-pride.net/database/monster/3142/).
 
-     :   ![NOGH05](../images/c/c8/NOGH05.png)
+     :   ![NOGH05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/NOGH05.png)
 8. Assim que eliminar todos os monstros, o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve falar com a Ferreira Hollgrehenn.
 
-   :   ![OGH06](../images/c/c7/OGH06.png)
+   :   ![OGH06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/OGH06.png)
 9. Dirija-se ao setor 3 e elimine todos os monstros.
    - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são: [Raydric Sombrio](http://www.divine-pride.net/database/monster/3143/) e [Arqueiro Sombrio](http://www.divine-pride.net/database/monster/3144/).
 10. Assim que eliminar todos os monstros, aproxime-se de Himmelmez.
 
-    :   ![OGH07](../images/b/b6/OGH07.png)
+    :   ![OGH07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/OGH07.png)
 
     - Após o diálogo, elimine a [Origem da Escuridão](http://www.divine-pride.net/database/monster/3151/).
     - Esta versão do [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") invocará [Arclouses Sombrios](http://www.divine-pride.net/database/monster/3142/) e usa [Neblina de Veneno](../Habilidades%20de%20monstros/Neblina%20de%20Veneno.md "Neblina de Veneno").
 11. **Todos** os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão falar com Varmunt antes de entrar no portal.
 
-    :   ![OGH08](../images/6/6c/OGH08.png)
+    :   ![OGH08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/OGH08.png)
 
     - Se esta for sua primeira vez, você receberá:
       - 250.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base
@@ -70,7 +70,7 @@ Mapa-Chave da instância
     - O [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") é contado na janela de quests e todos do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") precisam estar vivos e na mesma tela para contabilizar e poder ganhar a premiação.
 12. Continue a história se aproximando de Henrich.
 
-    :   ![OGH09](../images/8/89/OGH09.png)
+    :   ![OGH09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/OGH09.png)
 
     - Assim que o diálogo acabar, siga reto até encontrar um portal.
 13. Elimine todos os monstros até aparecer *uma mensagem no topo da tela*.
@@ -78,18 +78,18 @@ Mapa-Chave da instância
     - As chances da mensagem aparecer são aleatórias, *é importante continuar matando os monstros até surgir*.
 14. Encontre e elimine o [Desmorto Sombrio](http://www.divine-pride.net/database/monster/3148/).
 
-    :   ![NOGH10](../images/f/f5/NOGH10.png)
+    :   ![NOGH10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/NOGH10.png)
 
     - Após derrotar o [Desmorto Sombrio](http://www.divine-pride.net/database/monster/3148/), retorne ao corredor e entre no segundo portal, um pouco mais abaixo.
     - O [Desmorto Sombrio](http://www.divine-pride.net/database/monster/3148/) aparece em 1 dos pontos vermelhos destacados no mapa.
 15. Repita o passo *13* e elimine a [Desmorta Sombria](http://www.divine-pride.net/database/monster/3149/).
 
-    :   ![NOGH11](../images/4/4c/NOGH11.png)
+    :   ![NOGH11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/NOGH11.png)
 
     - A [Desmorta Sombria](http://www.divine-pride.net/database/monster/3149/) aparece em 1 dos pontos vermelhos destacados no mapa.
 16. Retorne ao corredor e entre no portal ao norte, siga reto até reencontrar Himmelmez.
 
-    :   ![OGH12a](../images/d/db/OGH12a.png)
+    :   ![OGH12a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/OGH12a.png)
 
     - Cuidado nesse setor do mapa, não entre nos corredores próximos para não sofrer com a [Chuva de Meteoros](../Ofensiva/Chuva%20de%20Meteoros.md "Chuva de Meteoros").
     - Após diálogo, prepare-se para a batalha contra [Amdarais Sombrio](http://www.divine-pride.net/database/monster/3150/)!
@@ -98,7 +98,7 @@ Mapa-Chave da instância
     - Durante a luta, Varmunt aparecerá no centro do mapa para ajudar seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
     - Sempre que se aproximar do Fantasma de Varmunt, você receberá um bônus aleatório, temporariamente:
 
-      :   ![OGH012a](../images/c/c1/OGH012a.png)
+      :   ![OGH012a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/OGH012a.png)
 
           :   **Estado Temporal**: Todos os atributos +20.
           :   **Poder Temporal**: [DEF](../Sem%20categoria/DEF.md "DEF") +200 e [DEFM](../Sem%20categoria/DEFM.md "DEFM") +50.
@@ -109,7 +109,7 @@ Mapa-Chave da instância
           :   **Ataque Temporal**: Dano físico contra [Amdarais Sombrio](http://www.divine-pride.net/database/monster/3150/) +100%, ignora 100% da [DEFM](../Sem%20categoria/DEFM.md "DEFM") das raças [morto-vivo](../Sem%20categoria/Morto-Vivo.md "Morto-vivo") e [demônio](../Sem%20categoria/Dem%C3%B4nio.md "Demônio").
 17. Ao terminar a batalha, todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão falar com Hugin.
 
-    :   ![OGH13a](../images/0/09/OGH13a.png)
+    :   ![OGH13a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/OGH13a.png)
 
     - Se esta for sua primeira vez, você receberá:
       - 350.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base
@@ -122,10 +122,10 @@ Mapa-Chave da instância
     - O [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") é contado na janela de quests e todos do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") precisam estar vivos e na mesma tela para contabilizar e poder ganhar a premiação.
 18. Antes de sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), retorne ao primeiro andar e clique na Estátua Estranha para teleportar.
 
-    :   ![OGH013](../images/a/a7/OGH013.png)
+    :   ![OGH013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/OGH013.png)
 19. Nesta sala especial, clique nas 7 Estátuas Estranhas.
 
-    :   ![OGH014](../images/5/5c/OGH014.png)
+    :   ![OGH014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/OGH014.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelas estátuas: (Itens que aumentam a taxa de drop não afetam estas estátuas.)
       - ![720.png](http://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/)

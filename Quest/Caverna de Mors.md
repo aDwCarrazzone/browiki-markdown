@@ -19,16 +19,16 @@
 
 1. Fale com o Rastreador Sênior (moro\_cav 61,69)
 
-   :   ![Mors01](../images/0/04/Mors01.png)
+   :   ![Mors01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Mors01.png)
 2. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") clicando na Rosa Vermelha.
 
-   :   ![Mors02](../images/e/ed/Mors02.png)
+   :   ![Mors02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Mors02.png)
 3. Derrote todos os [Carniçais Profanos](http://www.divine-pride.net/database/monster/3001/) e fale com o Ceifador Ankou no final do corredor.
 
-   :   ![Mors03](../images/d/dc/Mors03.png)
+   :   ![Mors03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Mors03.png)
 4. Após uma breve conversa com [Morroc](http://www.divine-pride.net/database/monster/2998/), derrote-o.
 
-   :   ![Mors04](../images/5/5f/Mors04.png)
+   :   ![Mors04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Mors04.png)
 
    - Se um membro do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") entrar na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") o Ceifador Ankou teleportar todos, ele não será enviado para a sala de Morroc.
    - Entretanto, se ele estiver aguardando no mapa após Morroc ser eliminado, o membro será teleportado para a sala do passo a seguir.
@@ -40,10 +40,10 @@
    - Haverá um monstro com o nome do líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") no centro do mapa, mas não adianta atacá-lo.
 6. Enfrente o [Necromante](http://www.divine-pride.net/database/monster/2999/) e, em seguida, elimine o [Necromante de Morroc](http://www.divine-pride.net/database/monster/3000/).
 
-   :   ![Mors06](../images/3/30/Mors06.png)
+   :   ![Mors06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Mors06.png)
 7. Para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") clique no Teleportador.
 
-   :   ![Mors07](../images/9/9b/Mors07.png)
+   :   ![Mors07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Mors07.png)
 8. Fale com o Rastreador Sênior para receber a [Marca do Herói](http://www.divine-pride.net/database/item/6684/).
    - Você pode usar as [Marca do Herói](http://www.divine-pride.net/database/item/6684/) para adquirir um [Anel Heroico](http://www.divine-pride.net/database/item/2981/) e encantá-lo.
    - Confira a lista de itens do [Prêmio do Herói](Ilha%20Bios.md#Prêmio_do_Herói "Ilha Bios").
@@ -52,10 +52,10 @@
 
 1. Na [Caverna de Fogo](http://www.divine-pride.net/database/map/moro_cav/), dentro do [Círculo de Fogo](http://www.divine-pride.net/database/map/moro_vol/), você pode trocar 30 [Marcas do Herói](http://www.divine-pride.net/database/item/6684/) por 1 [Anel Heroico](http://www.divine-pride.net/database/item/2981/) com a Negociante Especial (moro\_cav 32,73)
 
-   :   ![Bios05](../images/5/57/Bios05.png)
+   :   ![Bios05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Bios05.png)
 2. O [Anel Heroico](http://www.divine-pride.net/database/item/2981/) pode ser encantado gratuitamente pelo Encantador Byrnes (moro\_cav 34,65)
 
-   :   ![Bios06](../images/1/15/Bios06.png)
+   :   ![Bios06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Bios06.png)
 
    - Resetar todos os encantos custará 3 [Marcas do Herói](http://www.divine-pride.net/database/item/6684/).
 

@@ -18,16 +18,16 @@
 
 1. Acesse a prisão pelo Guarda de Eclage (ecl\_in02 98,32)
 
-   :   ![Preocupações de uma Fada2](../images/7/74/Preocupa%C3%A7%C3%B5es_de_uma_Fada2.png)
+   :   ![Preocupações de uma Fada2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Preocupa%C3%A7%C3%B5es_de_uma_Fada2.png)
 2. Siga em direção ao guarda até uma mensagem aparecer.
 
-   :   ![Prisioneiro Suspeito1](../images/4/48/Prisioneiro_Suspeito1.png)
+   :   ![Prisioneiro Suspeito1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Prisioneiro_Suspeito1.png)
 
    - Digite:
      - `Esperto`
 3. Converse mais de uma vez com Esperto (ecl\_in02 147,114)
 
-   :   ![Prisioneiro Suspeito2](../images/9/9c/Prisioneiro_Suspeito2.png)
+   :   ![Prisioneiro Suspeito2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Prisioneiro_Suspeito2.png)
 
    - Selecione:
      - *O que você fez para estar aqui?*
@@ -39,10 +39,10 @@
 4. Fale com o Guarda para sair da prisão. Você recebe 100.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base e 60.000 de classe
 5. Entre no Yai pela Placa (eclage 155,91)
 
-   :   ![Prisioneiro Suspeito3](../images/0/0c/Prisioneiro_Suspeito3.png)
+   :   ![Prisioneiro Suspeito3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Prisioneiro_Suspeito3.png)
 6. Fale com Hiel.
 
-   :   ![Prisioneiro Suspeito3a](../images/1/17/Prisioneiro_Suspeito3a.png)
+   :   ![Prisioneiro Suspeito3a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Prisioneiro_Suspeito3a.png)
 
    - Digite:
      - `Esperto`
@@ -52,10 +52,10 @@
      - *Claro, vou dar uma olhada*
 7. Saia do Yai de Hiel usando a Corda Eletrônica (ecl\_in04 108,214)
 
-   :   ![Prisioneiro Suspeito30](../images/5/5b/Prisioneiro_Suspeito30.png)
+   :   ![Prisioneiro Suspeito30](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Prisioneiro_Suspeito30.png)
 8. Fale com os gatos Shelby e Ford (mid\_camp 173,257)
 
-   :   ![Prisioneiro Suspeito5](../images/b/b7/Prisioneiro_Suspeito5.png)
+   :   ![Prisioneiro Suspeito5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Prisioneiro_Suspeito5.png)
 
    - Traga 10 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12344/) para receber 120.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base e 80.000 de classe.
 9. Retorne a Hiel com 2 [Gemas Azuis](http://www.divine-pride.net/database/item/12345/), [Vermelhas](http://www.divine-pride.net/database/item/12345/), [Amarelas](http://www.divine-pride.net/database/item/12344/) e 1 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/). Você recebe 120.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base e 80.000 de classe.
@@ -64,18 +64,18 @@
 12. Converse com Esperto na prisão. Selecione qualquer opção.
 13. Leia todas as páginas do *Monthly Eclage* (ecl\_in01 82,80)
 
-    :   ![Prisioneiro Suspeito6](../images/0/07/Prisioneiro_Suspeito6.png)
+    :   ![Prisioneiro Suspeito6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Prisioneiro_Suspeito6.png)
 14. Reencontre Esperto.
 15. Aproxime-se do Guarda dentro da prisão para abrir um diálogo.
 16. Ouça a história de Espero para ganhar 120.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base e 80.000 de classe.
 17. Volte a Hiel.
 18. Ande em direção da entrada da praça para que Robert apareça (eclage 290,300)
 
-    :   ![Rumores sobre o Rei11](../images/4/46/Rumores_sobre_o_Rei11.png)
+    :   ![Rumores sobre o Rei11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Rumores_sobre_o_Rei11.png)
 19. Fale com Hiel e peça o reator. Você recebe 120.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base e 80.000 de classe.
 20. Aproxime-se da Lápide (ecl\_tdun01 60,55)
 
-    :   ![Prisioneiro Suspeito7](../images/e/e8/Prisioneiro_Suspeito7.png)
+    :   ![Prisioneiro Suspeito7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Prisioneiro_Suspeito7.png)
 21. Clique na Lápide e selecione todas as opções.
 22. Saia da Torre de Bifröst e dê alguns passos pra frente para que Etran apareça.
     - Você receberá 120.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base, 80.000 de classe e a [Antiga Joia dos Esplêndidos](http://www.divine-pride.net/database/item/6539/).

@@ -38,10 +38,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Dentro de um prédio, encontre o Monge (monk\_test 316,68)
 
-   :   ![Novas Habilidades- Monges02](../images/4/4d/Novas_Habilidades-_Monges02.png)
+   :   ![Novas Habilidades- Monges02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/Novas_Habilidades-_Monges02.png)
 2. Com zero de [peso](../Sem%20categoria/Peso.md "Peso"), fale com o Monge Aprendiz (prt\_monk 270,198)
 
-   :   ![Novas Habilidades- Monges01](../images/d/d5/Novas_Habilidades-_Monges01.png)
+   :   ![Novas Habilidades- Monges01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/Novas_Habilidades-_Monges01.png)
 
    - Você aprenderá [Concessão Espiritual](../Suporte/Concess%C3%A3o%20Espiritual.md "Concessão Espiritual").
 3. De volta ao prédio, retorne ao Monge (monk\_test 316,68)

@@ -19,18 +19,18 @@
 
 1. Fale com Amêndoa (ba\_in01 28,255) para pegar a missão *Coletar Núcleos*.
 
-   :   ![SageLegacy025](../images/7/7b/SageLegacy025.png)
+   :   ![SageLegacy025](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/SageLegacy025.png)
 2. Em seguida, reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Amêndoa (ba\_in01 28,255).
 3. Dentro da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), elimine [Sweety](http://www.divine-pride.net/database/monster/20642/).
 
-   :   ![DuelocomSweety](../images/7/78/DuelocomSweety.png)
+   :   ![DuelocomSweety](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/DuelocomSweety.png)
 
    - [Sweety](http://www.divine-pride.net/database/monster/20642/) possui a habilidade [Laser Rastreador](../Habilidades%20de%20monstros/Laser%20Rastreador.md "Laser Rastreador").
    - Esse ataque cai na célula em que o personagem se encontra.
    - Caso o jogador se mova antes do ataque, ele não será atingido.
 4. Saia pelo portal e colete até ![1000226.png](http://static.divine-pride.net/images/items/item/1000226.png) 10 [Núcleo de Autômata Quebrada](http://www.divine-pride.net/database/item/1000226/)
 
-   :   ![DuelocomSweety2](../images/9/9f/DuelocomSweety2.png)
+   :   ![DuelocomSweety2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/DuelocomSweety2.png)
 
    - Para coletar, clique nas Autômatas Quebradas marcadas no mapa.
    - Você também enfrentará alguns [Emboscadores](http://www.divine-pride.net/database/monster/20699/).
@@ -38,7 +38,7 @@
 5. Retorne para o mini aeroporto e fale com Amêndoa para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 6. Fora da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), pegue sua recompensa com com Amêndoa (ba\_in01 28,255)
 
-   :   ![SageLegacy025](../images/7/7b/SageLegacy025.png)
+   :   ![SageLegacy025](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/SageLegacy025.png)
 
 | *[Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

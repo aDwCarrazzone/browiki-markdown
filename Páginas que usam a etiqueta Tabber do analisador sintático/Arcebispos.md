@@ -55,7 +55,7 @@ Domine os mais fortes poderes divinos e torne-se capaz de exorcizar o mal do mun
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeArcebispos](../images/a/a5/SkilltreeArcebispos.png)
+![SkilltreeArcebispos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/SkilltreeArcebispos.png)
 
 ## Construção do Personagem
 

@@ -15,15 +15,15 @@
 
 1. Fale com a Professora (yuno\_in04 190,125)
 
-   :   ![Jupe1](../images/9/95/Jupe1.png)
+   :   ![Jupe1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/Jupe1.png)
 2. Leia o índice do Monte de Arquivos ao lado da professora.
 
-   :   ![Jupe1a](../images/7/7f/Jupe1a.png)
+   :   ![Jupe1a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Jupe1a.png)
 3. Volte a falar com a Professora e selecione "*Por acaso...*".
 4. Localize 1 das 4 estátuas nas ruínas de Juperos.
 
-   :   ![Jupe2](../images/1/17/Jupe2.png) ![Jupe4](../images/0/01/Jupe4.png)
-   :   ![Jupe3](../images/e/e9/Jupe3.png) ![Jupe5](../images/8/8a/Jupe5.png)
+   :   ![Jupe2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Jupe2.png) ![Jupe4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Jupe4.png)
+   :   ![Jupe3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Jupe3.png) ![Jupe5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Jupe5.png)
 
    - (juperos\_01 99,71)
    - (juperos\_01 215,127)

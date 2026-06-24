@@ -16,9 +16,9 @@
 
 - Mecânica do mapa:
   - Quando abrirem os [servidores](../Sem%20categoria/Servidores.md "Servidores"), uma tribo aleatória é invocada em [Luanda](http://www.divine-pride.net/database/map/com_d02_i/), por exemplo, a tribo Megalito.
-  - Após 1.500 monstros de qualquer espécie ser eliminado, um [Tao Gunka Ancestral](http://www.divine-pride.net/database/monster/20273/)![MonstroMVP](../images/5/53/MonstroMVP.png) aparece.
+  - Após 1.500 monstros de qualquer espécie ser eliminado, um [Tao Gunka Ancestral](http://www.divine-pride.net/database/monster/20273/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png) aparece.
   - Assim que o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") for derrotado, a tribo inteira desaparece e uma nova tribo reaparecerá, no caso a tribo Wootan.
-  - O [Defensor Wootan](http://www.divine-pride.net/database/monster/20277/)![MonstroMVP](../images/5/53/MonstroMVP.png) aparece após 1.500 monstros mortos.
+  - O [Defensor Wootan](http://www.divine-pride.net/database/monster/20277/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png) aparece após 1.500 monstros mortos.
   - E assim, se repete o ciclo.
   - Um [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") só poderá ser invocado novamente depois de 2 horas, mesmo se a contagem atingir 1.500 antes desse tempo.
 
@@ -26,14 +26,14 @@
 
 1. Para acessar a caverna, basta clicar no Totem (beach\_dun2 244,251).
 
-   :   ![Luanda ILL01](../images/c/cd/Luanda_ILL01.png)
+   :   ![Luanda ILL01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Luanda_ILL01.png)
 2. Fale com o Oficial Luanda (com\_d02\_i 241,255)
 
-   :   ![Luanda ILL02](../images/f/fd/Luanda_ILL02.png)
+   :   ![Luanda ILL02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Luanda_ILL02.png)
 3. Agora, você pode aceitar as missões diárias do Quadro de Tarefas (com\_d02\_i 238,266)
 4. Para continuar a história, encontre um Vórtex em qualquer ponto do mapa.
 
-   :   ![Luanda ILL03](../images/7/78/Luanda_ILL03.png)
+   :   ![Luanda ILL03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Luanda_ILL03.png)
 5. Reporte o fenômeno ao Oficial Luanda (com\_d02\_i 241,255)
    - Você receberá 1.1200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 650.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 6. Você só conseguirá concluir a missão quando tiver visitado todos os Vórtex.

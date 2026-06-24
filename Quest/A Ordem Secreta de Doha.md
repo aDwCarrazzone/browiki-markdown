@@ -17,13 +17,13 @@
 
 1. Fale com o Inspetor Doha (mid\_campin 168,170)
 
-   :   ![Doha01](../images/8/88/Doha01.png)
+   :   ![Doha01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Doha01.png)
 2. Em [El Dicastes](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes"), entre na residência e selecione "*Bal El Borracho*" no Elevador (dic\_in01 42,116)
 
-   :   ![Frede08](../images/4/4c/Frede08.png)
+   :   ![Frede08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Frede08.png)
 3. No Bar, fale com Shai (dic\_in01 245,119)
 
-   :   ![Doha02](../images/3/30/Doha02.png)
+   :   ![Doha02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Doha02.png)
 
    - Selecione:
      - *Conversar.*
@@ -31,17 +31,17 @@
      - *Com orelhas de gato.*
 4. Interrogue Stolling Nit, o antendente andarilho (dicastes01 207,210)
 
-   :   ![Doha03](../images/f/f2/Doha03.png)
+   :   ![Doha03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Doha03.png)
 5. Interrogue Peom, o mineiro descansando (dicastes01 112,248)
 
-   :   ![Doha04](../images/6/65/Doha04.png)
+   :   ![Doha04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Doha04.png)
 6. Interrogue Garton Treinador (dicastes01 249,140)
 
-   :   ![Doha05](../images/0/04/Doha05.png)
+   :   ![Doha05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Doha05.png)
 7. Retorne a Shai (dic\_in01 245,119).
 8. Localize BK (dic\_fild01 232,175)
 
-   :   ![Doha06](../images/1/1f/Doha06.png)
+   :   ![Doha06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Doha06.png)
 
    - Digite:
      - `A bebida especial de Shay será entregue.`
@@ -52,7 +52,7 @@
 10. Reporte o caso a Shai (dic\_in01 245,119).
 11. Colete apenas 1 dos itens abaixo nos [NPCs](../Sem%20categoria/NPC.md "NPC") perto da fenda dimensional nos [campos de El Dicastes](http://www.divine-pride.net/database/map/dic_fild02/).
 
-    :   ![Doha07](../images/3/3b/Doha07.png)
+    :   ![Doha07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Doha07.png)
 
     - Pilha de Rochas: ![6307.png](http://static.divine-pride.net/images/items/item/6307.png) [Estranha Pedra Mágica](http://www.divine-pride.net/database/item/6307/)
     - Pilha de Sujeira: ![6306.png](http://static.divine-pride.net/images/items/item/6306.png) [Sangue Pisado](http://www.divine-pride.net/database/item/6306/)
@@ -60,30 +60,30 @@
 12. Volte a falar com Shai (dic\_in01 245,119)
 13. Com 3 [Certificados do Explorador](http://www.divine-pride.net/database/item/6304/) no inventário, procure o Aventureiro Escrivão (dic\_in01 39,261)
 
-    :   ![VdS05](../images/7/77/VdS05.png)
+    :   ![VdS05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/VdS05.png)
 14. Siga para o "*Escritório Administrativo*" usando o Elevador.
 
-    :   ![Relíquias Desconhecidas03](../images/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
+    :   ![Relíquias Desconhecidas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
 15. Vire à direita, entrando no corredor. Peça permissão de entrada ao Guarda de Diel (dic\_in01 138,226)
 
-    :   ![Doha09](../images/c/cb/Doha09.png)
+    :   ![Doha09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Doha09.png)
 16. Faça o mesmo com o outro Guarda de Diel (dic\_in01 265,194)
 17. Aproxime-se da mesa do Ministro Ahat, um diálogo deve surgir.
 
-    :   ![Doha011](../images/5/5d/Doha011.png)
+    :   ![Doha011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Doha011.png)
 
     - Fale com o Ministro Ahat e continue insistindo no diálogo.
     - Após um bom tempo, finja cair nos truques de hipnose do Ministro e concorde em ajudá-lo.
     - Escolha sempre as opções que demonstrem submissão ao [NPC](../Sem%20categoria/NPC.md "NPC").
 18. Fale com o Ajudante Secreto, ao lado de Ahat.
 
-    :   ![Doha012](../images/f/f1/Doha012.png)
+    :   ![Doha012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Doha012.png)
 19. Recolha 11 [Sangues Pisados](http://www.divine-pride.net/database/item/6306/), 11 [Pedaços de Pele Congelada](http://www.divine-pride.net/database/item/6305/) e 11 [Estranhas Pedras Mágicas](http://www.divine-pride.net/database/item/6307/) no [campo de El Dicastes](http://www.divine-pride.net/database/map/dic_fild02/) do passo 10.
 20. Entregue os itens para o Ajudante Secreto. (dic\_in01 294,276)
 21. Pegue o [Broche de Bradium](http://www.divine-pride.net/database/item/2790/) das mãos de Ahat.
 22. Saia andando dos aposentos do Ministro, pegue o elevador e caminhe próximo da sala de HesLanta, uma mensagem surge e te leva para o gabinete do Ministro HesLanta.
 
-    :   ![Doha013](../images/0/09/Doha013.png)
+    :   ![Doha013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Doha013.png)
 
     - Selecione:
       - Não estou entendendo o que quer dizer.
@@ -100,7 +100,7 @@
       - Acesso ao segundo calabouço do [Túnel Kamidal](http://www.divine-pride.net/database/map/dic_dun02/)
       - Compra de [equipamentos](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md#equipamentos "El Dicastes") ferais, com Jalapeno (dic\_fild01 240,198)
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

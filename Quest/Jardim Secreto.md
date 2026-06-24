@@ -17,10 +17,10 @@
 
 1. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com a Autômata (ba\_maison 120,321).
 
-   :   ![Zona Restrita01](../images/e/e0/Zona_Restrita01.png)
+   :   ![Zona Restrita01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Zona_Restrita01.png)
 2. Elimine monstros à medida que vai avançando nas fases.
 
-   :   ![JardimSecreto1](../images/9/9e/JardimSecreto1.png)
+   :   ![JardimSecreto1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/JardimSecreto1.png)
 
    - Monstros do modo normal:
      - [Assistente](http://www.divine-pride.net/database/monster/20622/), [Raflésia Seca](http://www.divine-pride.net/database/monster/20624/) e [Alnoldi Comum](http://www.divine-pride.net/database/monster/20626/).
@@ -29,7 +29,7 @@
 3. Após derrotar todos, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") teleportará para enfrentar o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
    - No modo normal, enfrente a Pimentinha [Kappa](http://www.divine-pride.net/database/monster/20620/).
    - No modo difícil, enfrente o Pimentão [Lambda](http://www.divine-pride.net/database/monster/20621/).
-4. Mecânica da batalha: ![JardimSecretoA](../images/2/20/JardimSecretoA.png)
+4. Mecânica da batalha: ![JardimSecretoA](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/JardimSecretoA.png)
 
    - **Escudo de Energia**
      - Quando o [HP](../Sem%20categoria/HP.md "HP") do [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") está abaixo de 90%, haverá 40% de chance de ativar [Aliviar](../Habilidades%20de%20monstros/Aliviar.md "Aliviar").
@@ -47,7 +47,7 @@
      - Esse bônus de [ATQ](../Sem%20categoria/ATQ.md "ATQ") não afeta a habilidade [Laser Rastreador](../Habilidades%20de%20monstros/Laser%20Rastreador.md "Laser Rastreador").
 5. Após derrotar o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP"), você irá para o quarto de Sigma.
 
-   :   ![ZonaRestrita03](../images/4/45/ZonaRestrita03.png)
+   :   ![ZonaRestrita03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/ZonaRestrita03.png)
 
    - No modo normal, você recebe ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 6 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
    - No modo difícil, você recebe o conteúdo aleatório da ![100161.png](http://static.divine-pride.net/images/items/item/100161.png) [Caixa de Automódulo H-](http://www.divine-pride.net/database/item/100161/)

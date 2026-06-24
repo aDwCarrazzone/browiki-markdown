@@ -16,7 +16,7 @@
 
 1. Em [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta"), fale com Lana, a Gerente (alberta 138,169)
 
-   :   ![HarvestFes 01](../images/2/21/HarvestFes_01.png)
+   :   ![HarvestFes 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/HarvestFes_01.png)
 2. Traga os itens abaixo para ela:
    - ![1752.png](http://static.divine-pride.net/images/items/item/1752.png) 1 [Flecha de Fogo](http://www.divine-pride.net/database/item/1752/)
    - ![902.png](http://static.divine-pride.net/images/items/item/902.png) 10 [Raiz de Árvore](http://www.divine-pride.net/database/item/902/)

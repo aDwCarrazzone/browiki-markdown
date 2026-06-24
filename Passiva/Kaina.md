@@ -17,9 +17,9 @@ Aumenta o [SP](../Sem%20categoria/SP.md "SP") máximo e fornece um bônus de reg
 
 Reduz o custo de [SP](../Sem%20categoria/SP.md "SP") das seguintes habilidades, de acordo com o nível de base.
 
-- [![Esma](../images/e/ed/Esma.png)](../Ofensiva/Esma.md "Esma") [Esma](../Ofensiva/Esma.md "Esma")
-- [![Estin](../images/b/be/Estin.png)](../Ofensiva/Estin.md "Estin") [Estin](../Ofensiva/Estin.md "Estin")
-- [![Estun](../images/1/17/Estun.png)](../Ofensiva/Estun.md "Estun") [Estun](../Ofensiva/Estun.md "Estun")
+- [![Esma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Esma.png)](../Ofensiva/Esma.md "Esma") [Esma](../Ofensiva/Esma.md "Esma")
+- [![Estin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Estin.png)](../Ofensiva/Estin.md "Estin") [Estin](../Ofensiva/Estin.md "Estin")
+- [![Estun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Estun.png)](../Ofensiva/Estun.md "Estun") [Estun](../Ofensiva/Estun.md "Estun")
 
 | Nv. | [SP](../Sem%20categoria/SP.md "SP") Máx. | Bônus | Custo de SP | | |
 | --- | --- | --- | --- | --- | --- |

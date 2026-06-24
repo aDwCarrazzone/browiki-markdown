@@ -18,16 +18,16 @@
 
 1. Ajude Gallina (mosk\_in 144,278)
 
-   :   ![OCM01](../images/6/6d/OCM01.png)
+   :   ![OCM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/OCM01.png)
 2. Clique no Forno (mosk\_in 205,268)
 
-   :   ![OCM02](../images/b/bd/OCM02.png)
+   :   ![OCM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/OCM02.png)
 3. Converse com a Anna, selecionando todas as opções. (mosk\_in 148,274)
 
-   :   ![OCM04](../images/e/ed/OCM04.png)
+   :   ![OCM04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/OCM04.png)
 4. Localize a Senhoria (mosk\_in 135,190)
 
-   :   ![OCM05](../images/b/b1/OCM05.png)
+   :   ![OCM05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/OCM05.png)
 
    - Selecione:
      - *Perguntar sobre Mikhail*.
@@ -35,13 +35,13 @@
    - Você acorda na cama, no segundo andar da Estalagem. Desça as escadas e pergunte sobre Mikhail para a Senhoria.
 5. Pague 1.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") pela informação do Dono da Taverna (mosk\_in 141,212)
 
-   :   ![OCM06](../images/0/01/OCM06.png)
+   :   ![OCM06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/OCM06.png)
 6. Converse com Victor (mosk\_in 147,202)
 
-   :   ![OCM07](../images/9/9d/OCM07.png)
+   :   ![OCM07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/OCM07.png)
 7. Dirija-se ao Pântano (mosk\_dun03 153,90)
 
-   :   ![OCM08](../images/1/1a/OCM08.png)
+   :   ![OCM08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/OCM08.png)
 8. Volte a clicar no Forno.
    - Selecione:
      - *Olhar melhor*
@@ -53,7 +53,7 @@
 13. Converse com Gallina, que agradecerá com [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 14. Agora você pode fazer panquecas com a Larissa (mosk\_in 211,259)
 
-    :   ![OCM09](../images/d/d3/OCM09.png)
+    :   ![OCM09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/OCM09.png)
 
 | Panqueca | Itens Necessários |
 | --- | --- |

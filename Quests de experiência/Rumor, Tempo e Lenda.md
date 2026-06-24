@@ -16,20 +16,20 @@
 
 1. Pergunte sobre Bakonawa ao Contador de Lendas (malaya 285,332)
 
-   :   ![Malaya20](../images/3/3a/Malaya20.png)
+   :   ![Malaya20](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Malaya20.png)
 2. Fale com a Neta do Ancião (malaya 304,100)
 
-   :   ![Malaya21](../images/7/74/Malaya21.png)
+   :   ![Malaya21](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Malaya21.png)
 3. Retorne ao Contador de Lendas.
 4. Ouça a história do Imigrante de Malaya (ma\_fild02 40,240)
 
-   :   ![Malaya22](../images/2/24/Malaya22.png)
+   :   ![Malaya22](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Malaya22.png)
 5. Faça o mesmo com o outro Imigrante de Malaya (ma\_fild01 165,237)
 
-   :   ![Malaya23](../images/0/04/Malaya23.png)
+   :   ![Malaya23](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Malaya23.png)
 6. Perto do imigrante, ouça a história nas coordenadas (ma\_fild01 171,236)
 
-   :   ![Rumor, Tempo e Lenda005](../images/2/25/Rumor%2C_Tempo_e_Lenda005.png)
+   :   ![Rumor, Tempo e Lenda005](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Rumor%2C_Tempo_e_Lenda005.png)
 
    - Recomenda-se andar em volta das coordenadas para ouvir a história mais de uma vez.
 7. Fale novamente com o Imigrante de Malaya, perto dali.

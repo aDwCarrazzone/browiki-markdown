@@ -24,8 +24,8 @@ Inspira-se no Divino para receber os seguintes efeitos:
 
 - Garante imunidade a [efeitos negativos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Efeitos%20negativos.md "Efeitos negativos").
 - Aumenta [ATQ](../Sem%20categoria/ATQ.md "ATQ"), [ATQM](../Sem%20categoria/ATQM.md "ATQM"), [HP](../Sem%20categoria/HP.md "HP"), [Precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") e os [Atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos").
-- Altera para [Neutro](../Sem%20categoria/Neutro.md "Neutro") a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") de [![Luz da Criação](../images/3/3b/Luz_da_Cria%C3%A7%C3%A3o.png)](../Ofensiva/Luz%20da%20Cria%C3%A7%C3%A3o.md "Luz da Criação") [Luz da Criação](../Ofensiva/Luz%20da%20Cria%C3%A7%C3%A3o.md "Luz da Criação").
-- Aumenta o dano de [![Trindade](../images/e/ec/Trindade.png)](../Ofensiva/Trindade.md "Trindade") [Trindade](../Ofensiva/Trindade.md "Trindade").
+- Altera para [Neutro](../Sem%20categoria/Neutro.md "Neutro") a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") de [![Luz da Criação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Luz_da_Cria%C3%A7%C3%A3o.png)](../Ofensiva/Luz%20da%20Cria%C3%A7%C3%A3o.md "Luz da Criação") [Luz da Criação](../Ofensiva/Luz%20da%20Cria%C3%A7%C3%A3o.md "Luz da Criação").
+- Aumenta o dano de [![Trindade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/Trindade.png)](../Ofensiva/Trindade.md "Trindade") [Trindade](../Ofensiva/Trindade.md "Trindade").
 
 Enquanto estiver ativa, drena [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") por segundo.
 

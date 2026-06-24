@@ -27,10 +27,10 @@ A propriedade do dano pode ser alterada por [Brisa Leve](../Suporte/Brisa%20Leve
 
 Só pode ser usada 3 segundos após conjurar 1 dessas habilidades:
 
-- [![Estin](../images/b/be/Estin.png)](Estin.md "Estin") [Estin](Estin.md "Estin") Nv. 7
-- [![Estun](../images/1/17/Estun.png)](Estun.md "Estun") [Estun](Estun.md "Estun") Nv. 7
-- [![Eske](../images/4/41/Eske.png)](../Ativa/Eske.md "Eske") [Eske](../Ativa/Eske.md "Eske")
-- [![Eswhoo](../images/d/d5/Eswhoo.png)](Eswhoo.md "Eswhoo") [Eswhoo](Eswhoo.md "Eswhoo")
+- [![Estin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Estin.png)](Estin.md "Estin") [Estin](Estin.md "Estin") Nv. 7
+- [![Estun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Estun.png)](Estun.md "Estun") [Estun](Estun.md "Estun") Nv. 7
+- [![Eske](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Eske.png)](../Ativa/Eske.md "Eske") [Eske](../Ativa/Eske.md "Eske")
+- [![Eswhoo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/Eswhoo.png)](Eswhoo.md "Eswhoo") [Eswhoo](Eswhoo.md "Eswhoo")
 
 | Nv. | Círculos | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- |

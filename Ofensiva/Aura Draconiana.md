@@ -44,12 +44,12 @@ Após o ataque, entra em estado de [*Aura do Dragão*] por 300 segundos.
 
 ### Aura do Dragão
 
-- **Ícone:** ![I Aura Draconiana](../images/4/4c/I_Aura_Draconiana.png)
+- **Ícone:** ![I Aura Draconiana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/I_Aura_Draconiana.png)
 - **Duração:** 300 segundos.
 - Aumenta o dano do dragão nas seguintes habilidades:
-  - [![Sopro do Dragão](../images/2/27/Sopro_do_Drag%C3%A3o.png)](Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
-  - [![Bafo do Dragão](../images/5/5d/Bafo_do_Drag%C3%A3o.png)](Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
-  - [![Lança das Mil Pontas](../images/f/f9/Lan%C3%A7a_das_Mil_Pontas.png)](Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas") [Lança das Mil Pontas](Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas")
+  - [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
+  - [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
+  - [![Lança das Mil Pontas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Lan%C3%A7a_das_Mil_Pontas.png)](Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas") [Lança das Mil Pontas](Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas")
 - Não pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").
 
 ### Fórmula

@@ -15,29 +15,29 @@
 
 1. Converse com o Agente da Pata de Gato (mid\_camp 61,125)
 
-   :   ![Cathand01](../images/6/6b/Cathand01.png)
+   :   ![Cathand01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/Cathand01.png)
 2. Encontre o Gyaruk Dócil (mid\_camp 71,94)
 
-   :   ![Cathand02](../images/4/40/Cathand02.png)
+   :   ![Cathand02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Cathand02.png)
 3. Volte ao Agente da Pata de Gato. Agora já é possível salvar o Ponto de Retorno, mas é opcional.
 4. Retorne ao Gyaruk Dócil.
 5. Fale com o Minerador da Pata de Gato (mid\_camp 88,100)
 
-   :   ![Cathand03](../images/7/79/Cathand03.png)
+   :   ![Cathand03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Cathand03.png)
 6. Para minerar, dirija-se para o lado dos Manuks e clique nas Rochas Misteriosas até conseguir 3 [Minerais não identificados](http://www.divine-pride.net/database/item/6048/).
 
-   :   ![Cathand04](../images/d/d7/Cathand04.png)
+   :   ![Cathand04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Cathand04.png)
 7. Entregue os 3 [Minerais não identificados](http://www.divine-pride.net/database/item/6048/) ao Minerador para receber 20.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e 1 Ponto de Crédito.
 8. Aprenda a pescar com o Gorurug Feroz (mid\_camp 69,144)
 
-   :   ![Cathand07](../images/0/0a/Cathand07.png)
+   :   ![Cathand07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Cathand07.png)
 9. Para pescar, dirija-se ao lado dos Esplêndidos e clique nos Peixes até conseguir 10 [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/).
 
-   :   ![Cathand08](../images/f/f1/Cathand08.png)
+   :   ![Cathand08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Cathand08.png)
 10. Entregue os 10 [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) ao Gorurug Feroz para receber 20.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e 5 Pontos de Crédito.
 11. Também é possível adquirir créditos falando com o Ajudante de Investimento (mal\_in02 134,31)
 
-    :   ![Cathand012](../images/e/ea/Cathand012.png)
+    :   ![Cathand012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Cathand012.png)
 
     - Ele dará 1 Ponto de Crédito a cada 10 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12636/).
 
@@ -55,12 +55,12 @@
 
 1. Fale com o Gorurug Feroz (mid\_camp 69,144)
 
-   :   ![Cathand07](../images/0/0a/Cathand07.png)
+   :   ![Cathand07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Cathand07.png)
 2. Seu objetivo é coletar 10 [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) clicando nos Peixes espalhados nos campos esplêndido:
 
-   :   ![Cathand08](../images/f/f1/Cathand08.png)  
-       ![Cathand09](../images/b/bb/Cathand09.png)  
-       ![Cathand010](../images/c/c7/Cathand010.png)
+   :   ![Cathand08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Cathand08.png)  
+       ![Cathand09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Cathand09.png)  
+       ![Cathand010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Cathand010.png)
 
    - Notas:
      - Só é possível carregar 20 [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) no inventário.
@@ -80,7 +80,7 @@
 3. Após a coleta, entregue os [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) ao Gorurug Feroz para receber sua recompensa.
 4. Se você pescar um [Marlin](http://www.divine-pride.net/database/item/6049/), entregue-o a Henry Clifford (mid\_camp 66,122)
 
-   :   ![Cathand011](../images/e/e7/Cathand011.png)
+   :   ![Cathand011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/Cathand011.png)
 
    - Clifford dará 2 Pontos de Crédito sem precisar esperar 24 horas para refazer a pescaria.
 
@@ -98,12 +98,12 @@
 
 1. Fale com o Minerador da Pata de Gato (mid\_camp 88,100)
 
-   :   ![Cathand03](../images/7/79/Cathand03.png)
+   :   ![Cathand03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Cathand03.png)
 2. Seu objetivo é coletar 3 [Minerais não identificados](http://www.divine-pride.net/database/item/6048/) clicando nas Rochas Misteriosas espalhadas nos campos dos manuks:
 
-   :   ![Cathand04](../images/d/d7/Cathand04.png)  
-       ![Cathand05](../images/f/f0/Cathand05.png)  
-       ![Cathand06](../images/3/33/Cathand06.png)
+   :   ![Cathand04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Cathand04.png)  
+       ![Cathand05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Cathand05.png)  
+       ![Cathand06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Cathand06.png)
 
    - Notas:
      - Só é possível carregar 3 [Minerais não identificados](http://www.divine-pride.net/database/item/6048/) no inventário.

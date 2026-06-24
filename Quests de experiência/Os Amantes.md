@@ -15,24 +15,24 @@
 
 1. Fale com Calla (ein\_in01 31,138)
 
-   :   ![Os Amantes01](../images/8/88/Os_Amantes01.png)
+   :   ![Os Amantes01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Os_Amantes01.png)
 
    - Para chegar até ela, você terá que contornar o pai, que sempre te expulsará do local se chegar perto.
 
-   :   :   ![Assassinato030](../images/b/bc/Assassinato030.png)
+   :   :   ![Assassinato030](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Assassinato030.png)
 2. Encontre Clitzer (ein\_in01 200,101)
 
-   :   ![Os Amantes02](../images/9/99/Os_Amantes02.png)
+   :   ![Os Amantes02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Os_Amantes02.png)
 3. Retorne a Calla para receber um [Violino](http://www.divine-pride.net/database/item/1901/).
 4. Entregue o instrumento a Clitzer. Você receberá [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e uma [Flor](http://www.divine-pride.net/database/item/712/).
 5. Dê a [Flor](http://www.divine-pride.net/database/item/712/) para Calla e digite o nome do seu personagem.
 6. Volte a Clitzer e digite o nome do seu personagem também.
 7. Converse mais de uma vez com Kaijeta (ein\_in01 191,102)
 
-   :   ![Os Amantes03](../images/5/5b/Os_Amantes03.png)
+   :   ![Os Amantes03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Os_Amantes03.png)
 8. Com 40 [Carvões](http://www.divine-pride.net/database/item/1003/) no inventário, fale com Satra (ein\_in01 31,151)
 
-   :   ![Os Amantes04](../images/f/f7/Os_Amantes04.png)
+   :   ![Os Amantes04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Os_Amantes04.png)
 
    - Observações:
      - Sempre que falar com Satra, ela consumirá 10 [carvões](http://www.divine-pride.net/database/item/1003/).

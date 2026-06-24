@@ -2,7 +2,7 @@
 
 # Jawaii
 
-[![Jawaii](../images/5/54/Jawaii.jpg)](https://browiki.org/wiki/Arquivo%3AJawaii.jpg)
+[![Jawaii](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Jawaii.jpg)](https://browiki.org/wiki/Arquivo%3AJawaii.jpg)
 
 Jawaii, a ilha da Lua de Mel
 

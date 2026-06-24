@@ -55,7 +55,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeTemplários](../images/8/85/SkilltreeTempl%C3%A1rios.png)
+![SkilltreeTemplários](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/SkilltreeTempl%C3%A1rios.png)
 
 ## Construção do Personagem
 

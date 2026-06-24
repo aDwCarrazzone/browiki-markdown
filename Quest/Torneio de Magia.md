@@ -17,28 +17,28 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), fale com o Pesquisador de Fissuras (dali 98,141)
 
-   :   ![Torneio01](../images/0/08/Torneio01.png)
+   :   ![Torneio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Torneio01.png)
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo Portal Dimensional.
 
-   :   ![Torneio02](../images/e/e5/Torneio02.png)
+   :   ![Torneio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Torneio02.png)
 3. Ao entrar, você poderá escolher 1 dos 4 caminhos:
    - Pela esquerda, você encontrará uma Estudante em apuros.
 
-     :   ![Torneio03a](../images/3/31/Torneio03a.png)
+     :   ![Torneio03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Torneio03a.png)
 
      - Salve a Estudante enfrentando os 3 [Valentões de Geffen](http://www.divine-pride.net/database/monster/2567/).
      - Loki e Fenrir aparecerão para te abençoar com 1 hora de dano mágico contra a raça Humanoide.
      - No torneio, o [Valentão de Geffen](http://www.divine-pride.net/database/monster/2914/) será seu 3o oponente.
    - Pela direita, você encontrará uma Kafra em apuros.
 
-     :   ![Torneio03b](../images/b/be/Torneio03b.png)
+     :   ![Torneio03b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Torneio03b.png)
 
      - Salve a Kafra enfrentando os 3 [Bandidos de Geffen](http://www.divine-pride.net/database/monster/2568/).
      - Chaos e Iris aparecerão para te abençoar com 1 hora de resistência a raça Humanoide.
      - No torneio, o [Bandido de Geffen](http://www.divine-pride.net/database/monster/2553/) será seu 3o oponente.
    - Pela centro-esquerda, você encontrará uma Moradora em apuros.
 
-     :   ![Torneio03c](../images/a/a7/Torneio03c.png)
+     :   ![Torneio03c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Torneio03c.png)
 
      - Salve a Moradora seguindo a [Gatuna de Geffen](http://www.divine-pride.net/database/monster/2914/).
      - Você perderá uma quantia de [zenys](../Sem%20categoria/Zenys.md "Zenys") até enfrentar a [Gatuna de Geffen](http://www.divine-pride.net/database/monster/2914/).
@@ -48,7 +48,7 @@
      - No torneio, a [Gatuna de Geffen](http://www.divine-pride.net/database/monster/2551/) será sua 3a oponente.
 4. Inscreva-se no torneio com o Recepcionista `/navi 1@gef 122/58`
 
-   :   ![Torneio04](../images/7/74/Torneio04.png)
+   :   ![Torneio04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Torneio04.png)
 
    - Elimine o [Lobo do Deserto](http://www.divine-pride.net/database/monster/1106/) em menos de 60 segundos para prosseguir.
    - Fale com o Recepcionista novamente e digite seu nome.
@@ -62,7 +62,7 @@
    - Recomendamos que, se seu personagem morrer, aguarde o tempo da partida.
 6. Independente de ganhar ou perder, fale com Chaos, Loki, Iris, Lydia e Fenrir.
 
-   :   ![Torneio05](../images/b/b2/Torneio05.png)
+   :   ![Torneio05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Torneio05.png)
 
    - Você receberá de cada um, aleatoriamente:
      - [Poção Vermelha](http://www.divine-pride.net/database/item/501/)
@@ -76,7 +76,7 @@
    - Se você venceu Fenrir, ela não dará o prêmio.
 7. Será necessário reportar o resultado ao Pesquisador de Fissuras.
 
-   :   ![Torneio01](../images/0/08/Torneio01.png)
+   :   ![Torneio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Torneio01.png)
 
 ### Oponentes
 

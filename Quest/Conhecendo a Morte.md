@@ -14,13 +14,13 @@
 
 1. Fale com Aleuce (prt\_in 161,20)
 
-   :   ![Conhecendo a Morte01](../images/a/a5/Conhecendo_a_Morte01.png)
+   :   ![Conhecendo a Morte01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Conhecendo_a_Morte01.png)
 2. Diga que está atrás de uma pessoa para Billy (umbala 215,181)
 
-   :   ![Conhecendo a Morte02](../images/a/af/Conhecendo_a_Morte02.png)
+   :   ![Conhecendo a Morte02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Conhecendo_a_Morte02.png)
 3. Com os itens no inventário, fale mais de uma vez com Fayelyn (niflheim 153,215)
 
-   :   ![Conhecendo a Morte03](../images/f/fa/Conhecendo_a_Morte03.png)
+   :   ![Conhecendo a Morte03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Conhecendo_a_Morte03.png)
 
    - Selecione sempre a primeira opção. Não selecione a opção "*Desculpe*".
    - Fayelyn tentará realizar uma magia, a premiação varia se essa magia der certo ou errado.

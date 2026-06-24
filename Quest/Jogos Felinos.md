@@ -16,7 +16,7 @@
 - Se você perder em um dos quatro jogos, haverá uma punição em forma de [quest](../Sem%20categoria/Quest.md "Quest"), onde é necessário completá-la para poder participar dos Jogos Felinos novamente.
 - Todas as punições deverão ser reportadas ao Diretor dos Jogos, selecionando a opção "*Relatar Status*".
 
-  :   ![Catgamer01](../images/a/a5/Catgamer01.png)
+  :   ![Catgamer01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Catgamer01.png)
 - Sempre que cumprir a punição, você receberá 3 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12636/).
 
 |  |  |  |  |  |
@@ -34,7 +34,7 @@
 
 1. Inicie a brincadeira com Kuka (mal\_in01 91,222)
 
-   :   ![Catgamerccc](../images/b/b7/Catgamerccc.png)
+   :   ![Catgamerccc](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Catgamerccc.png)
 2. Seu objetivo é virar a mão para a direção em que o gato está olhando.
    - Você receberá 1 [Peixe Enlatado de Malangdo](http://www.divine-pride.net/database/item/12636/) a cada 3 rodadas vencidas.
    - A direção que Kuka está olhando é determinada de maneira aleatória.
@@ -49,7 +49,7 @@
 
 1. Inicie a brincadeira com KungKung (mal\_in01 134,221)
 
-   :   ![Catgamerknk](../images/f/f0/Catgamerknk.png)
+   :   ![Catgamerknk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Catgamerknk.png)
 2. Seu objetivo é derrotar a adversária através de uma batalha feita pela janela de diálogo.
    - Você e Kungkung receberão 100 de HP, cada ataque retira 10 de HP.
    - Durante a batalha, você terá as seguintes opções:
@@ -58,12 +58,12 @@
 3. Regras do jogo:
    - É necessário entender as regras de ataque e defesa. A mão que está no canto de baixo da imagem é a mão que está atacando.
 
-   :   :   ![KongNyangKong001](../images/a/a7/KongNyangKong001.png)![KongNyangKong007](../images/b/b9/KongNyangKong007.png)
+   :   :   ![KongNyangKong001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/KongNyangKong001.png)![KongNyangKong007](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/KongNyangKong007.png)
 
    - Para seu ataque ser bem sucedido, sua mão deve estar virada para o mesmo lado da mão da sua oponente.
    - Para uma defesa bem sucedida, sua mão deve estar virada para o lado oposto da mão da sua oponente.
 
-   :   :   ![KongNyangKong006](../images/b/bd/KongNyangKong006.png)![KongNyangKong002](../images/7/78/KongNyangKong002.png)
+   :   :   ![KongNyangKong006](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/KongNyangKong006.png)![KongNyangKong002](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/KongNyangKong002.png)
 
    - Você só poderá atacar KungKung quando se defender de um ataque dela, da mesma forma que ela só poderá atacar você quando sua defesa falhar.
 4. A premiação para quem vence a partida é de 5 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12636/).
@@ -72,7 +72,7 @@
 
 1. Inicie a brincadeira com Ser ou Paa (mal\_in01 86,222)
 
-   :   ![Catgamerppt](../images/7/72/Catgamerppt.png)
+   :   ![Catgamerppt](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/Catgamerppt.png)
 2. Seu objetivo é vencer 3 de 5 rodadas, no mínimo.
    - Pedra ganha de Tesoura;
    - Tesoura ganha de Papel;
@@ -83,7 +83,7 @@
 
 1. Inicie a brincadeira com o Líder (mal\_in01 133,214)
 
-   :   ![Catgamerjdb](../images/2/2d/Catgamerjdb.png)
+   :   ![Catgamerjdb](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Catgamerjdb.png)
 2. Seu objetivo é balançar a bandeira quando nenhum outro participante estiver balançando.
    - Você começa com 5 pontos, mas perde 1 ponto ao balançar a bandeira.
    - Quando os pontos de todos os gatos chegarem a zero, o jogo termina.

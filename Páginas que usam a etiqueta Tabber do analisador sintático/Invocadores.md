@@ -55,7 +55,7 @@ Sem missões de [renascimento](../Quests%20de%20ca%C3%A7a/Renascimento.md "Renas
 
 ### Árvore de habilidades
 
-![SkilltreeInvocadores new](../images/c/c7/SkilltreeInvocadores_new.png)
+![SkilltreeInvocadores new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/SkilltreeInvocadores_new.png)
 
 ## Construção do Personagem
 

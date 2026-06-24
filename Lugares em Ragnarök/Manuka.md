@@ -2,7 +2,7 @@
 
 # Manuka
 
-[![Manuka city](../images/6/6f/Manuka_city.jpg)](https://browiki.org/wiki/Arquivo%3AManuka_city.jpg)
+[![Manuka city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Manuka_city.jpg)](https://browiki.org/wiki/Arquivo%3AManuka_city.jpg)
 
 Vila mineradora Manuka
 

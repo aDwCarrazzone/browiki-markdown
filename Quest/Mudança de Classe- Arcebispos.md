@@ -16,40 +16,40 @@
 
 1. Inicie a peregrinação com o Crente (prt\_church 103,88)
 
-   :   ![Bisp1](../images/2/24/Bisp1.png)
+   :   ![Bisp1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Bisp1.png)
 2. Procure pelo Sacerdote (umbala 139,227)
 
-   :   ![Bisp2](../images/2/2b/Bisp2.png)
+   :   ![Bisp2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Bisp2.png)
 
    - Digite:
 
    :   `Sou de Prontera em uma peregrinação`
 3. Com 1 [Água Benta](http://www.divine-pride.net/database/item/523/) no inventário, aproxime-se das coordenadas (yggdrasil01 219,47)
 
-   :   ![Bisp3](../images/3/35/Bisp3.png)
+   :   ![Bisp3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/Bisp3.png)
 
    - Selecione: *O caminho da meditação*
    - Digite qualquer coisa.
 4. Retorne ao Sacerdote (umbala 139,227)
 5. Fale com a Crente (hu\_in01 205,204)
 
-   :   ![Bisp4](../images/2/22/Bisp4.png)
+   :   ![Bisp4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Bisp4.png)
 6. Siga ao Templo de Odin falando com o Barqueiro (hugel 209,109)
 
-   :   ![TdO03a](../images/7/7c/TdO03a.png)
+   :   ![TdO03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/TdO03a.png)
 7. Aproxime-se das coordenadas (odin\_tem02 281,275)
 
-   :   ![Bisp5](../images/2/29/Bisp5.png)
+   :   ![Bisp5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Bisp5.png)
 
    - Uma Ilusão da Valquíria deve aparecer.
    - Selecione "*Toque na Ilusão*" para teleportar para uma sala.
    - Se você precisar retornar a este [NPC](../Sem%20categoria/NPC.md "NPC"), experimente andar ao redor das coordenadas, mas um pouco mais ao sul.
 8. Aceite ajudar a Valquíria, você receberá 1 [Assistente de Dama dos Desejos](http://www.divine-pride.net/database/item/12797/). Caso a Valquíria não esteja neste mapa, outro personagem deve estar realizando a missão, então você deverá aguardar 10 minutos, aproximadamente.
 
-   :   ![Bisp6](../images/4/4e/Bisp6.png)
+   :   ![Bisp6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Bisp6.png)
 9. Seu objetivo no teste é encontrar e derrotar o [Pesadelo da Valquíria](http://www.divine-pride.net/database/monster/2036/).
 
-   :   ![Bisp7](../images/9/9f/Bisp7.png)
+   :   ![Bisp7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Bisp7.png)
 
    - Ao entrar no mapa do teste, seus [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") serão retirados e você deve ativar a [Assistente de Dama dos Desejos](http://www.divine-pride.net/database/item/12797/). Você deve se equipar novamente assim que começar o teste (não faça sem equipamentos).
    - Existe um tempo para ficar neste mapa. Se seu personagem morrer, não retorne ao ponto salvo, aguarde o tempo acabar.
@@ -62,7 +62,7 @@
    - Dispense sua [assistente](../Sem%20categoria/Assistente.md "Assistente") e fale com a Valquíria, que dará outro [Assistente de Dama dos Desejos](http://www.divine-pride.net/database/item/12797/).
 10. Siga em direção a outro [Pesadelo da Valquíria](http://www.divine-pride.net/database/monster/2036/).
 
-    :   ![Bisp8](../images/f/f0/Bisp8.png)
+    :   ![Bisp8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Bisp8.png)
 
     - Ative novamente a [Assistente de Dama dos Desejos](http://www.divine-pride.net/database/item/12797/).
     - Desta vez, os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") do mapa são [Zumbis Prisioneiros](http://www.divine-pride.net/database/monster/1197/), [Raydrics Arqueiros](http://www.divine-pride.net/database/monster/1276/) e [Pesadelos](http://www.divine-pride.net/database/monster/1061/).
@@ -71,7 +71,7 @@
     - Você receberá um [Desejo do Arcanjo](http://www.divine-pride.net/database/item/2798/).
 11. Aproxime-se do centro do mapa (job3\_arch02 281,232)
 
-    :   ![Bisp9](../images/a/a8/Bisp9.png)
+    :   ![Bisp9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Bisp9.png)
 
     - No caminho até lá, haverão os mesmos [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"). Um [Frus](http://www.divine-pride.net/database/monster/1753/) irá surgir quando você estiver quase no objetivo central, é mais fácil correr para a válquiria, ela mata todos os monstros quando você chega a ela.
     - Uma conversa entre duas Valquírias deverão surgir, sua classe será alterada e você recebe 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e 1 [Desejo dos Deuses](http://www.divine-pride.net/database/item/5747/).

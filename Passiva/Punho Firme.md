@@ -17,9 +17,9 @@ Garante [FOR](../Sem%20categoria/FOR.md "FOR") +1 e [ATQ](../Sem%20categoria/ATQ
 
 Aumenta em 10% a duração das seguintes habilidades:
 
-- [![Adrenalina Pura](../images/5/52/Adrenalina_Pura.png)](../Suporte/Adrenalina%20Pura.md "Adrenalina Pura") [Adrenalina Pura](../Suporte/Adrenalina%20Pura.md "Adrenalina Pura")
-- [![Força Violenta](../images/3/30/For%C3%A7a_Violenta.png)](../Suporte/For%C3%A7a%20Violenta.md "Força Violenta") [Força Violenta](../Suporte/For%C3%A7a%20Violenta.md "Força Violenta")
-- [![Manejo Perfeito](../images/b/bd/Manejo_Perfeito.png)](../Suporte/Manejo%20Perfeito.md "Manejo Perfeito") [Manejo Perfeito](../Suporte/Manejo%20Perfeito.md "Manejo Perfeito")
+- [![Adrenalina Pura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Adrenalina_Pura.png)](../Suporte/Adrenalina%20Pura.md "Adrenalina Pura") [Adrenalina Pura](../Suporte/Adrenalina%20Pura.md "Adrenalina Pura")
+- [![Força Violenta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/For%C3%A7a_Violenta.png)](../Suporte/For%C3%A7a%20Violenta.md "Força Violenta") [Força Violenta](../Suporte/For%C3%A7a%20Violenta.md "Força Violenta")
+- [![Manejo Perfeito](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Manejo_Perfeito.png)](../Suporte/Manejo%20Perfeito.md "Manejo Perfeito") [Manejo Perfeito](../Suporte/Manejo%20Perfeito.md "Manejo Perfeito")
 
 | *A Arte da Alquimia e da Forja* | | |
 | --- | --- | --- |

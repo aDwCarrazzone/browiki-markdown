@@ -14,7 +14,7 @@
 
 1. No [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden"), fale com o Agente da Pata de Gato (moc\_para01 44,19)
 
-   :   ![Agentefelino01](../images/c/ca/Agentefelino01.png)
+   :   ![Agentefelino01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Agentefelino01.png)
 
    - Selecione:
      - *Por que você mesmo não vai buscar?*
@@ -23,18 +23,18 @@
    - Pague 50.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") (valor pago apenas uma vez).
 2. Converse com o Gato (moc\_fild20 368,197)
 
-   :   ![Agentefelino02](../images/b/b4/Agentefelino02.png)
+   :   ![Agentefelino02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Agentefelino02.png)
 
    - Selecione: *Vamos com isso!*
 3. Na Fenda Dimensional, fale com o Agente Tat (moc\_fild22b 182,179)
 
-   :   ![Agentefelino03](../images/b/b6/Agentefelino03.png)
+   :   ![Agentefelino03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Agentefelino03.png)
 
    - Selecione: *Para o outro mundo!*
 4. Você estará no [Acampamento da Aliança](http://www.divine-pride.net/database/map/mid_camp/).
 5. Agora, sempre que desejar ir para [Ash Vacuum](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum") de maneira mais rápida, fale com o Agente da Pata de Gato no [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden"), sem precisar pagar novamente.
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

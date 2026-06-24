@@ -302,7 +302,7 @@ Afim de reunir todo o vocabulário usado no jogo, este artigo separa as gírias 
 - **SinX:** Assassin Cross, [Algozes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Algozes.md "Algozes").
 - **SL:** Soul Linker, [Espiritualistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espiritualistas.md "Espiritualistas").
 - **Slave:** Escravo, refere-se a algum personagem dentro de um [grupo](Grupo.md "Grupo") dando suporte sem dividir a [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
-- **Slim:** Poção compacta criada por [Criadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Criadores.md "Criadores").[![Prt fild08](../images/e/e1/Prt_fild08.png)](https://browiki.org/wiki/Arquivo%3APrt_fild08.png)
+- **Slim:** Poção compacta criada por [Criadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Criadores.md "Criadores").[![Prt fild08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/Prt_fild08.png)](https://browiki.org/wiki/Arquivo%3APrt_fild08.png)
 
   [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") está no Spot 8 deste mapa, enquanto que [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude"), no 6.
 - **SN:** Super Novice, [Superaprendizes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Superaprendizes.md "Superaprendizes").

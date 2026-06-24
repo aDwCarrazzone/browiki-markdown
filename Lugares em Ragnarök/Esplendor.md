@@ -2,7 +2,7 @@
 
 # Esplendor
 
-[![Esplendor city](../images/a/a8/Esplendor_city.jpg)](https://browiki.org/wiki/Arquivo%3AEsplendor_city.jpg)
+[![Esplendor city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Esplendor_city.jpg)](https://browiki.org/wiki/Arquivo%3AEsplendor_city.jpg)
 
 Base dos Esplêndidos, Esplendor
 

@@ -14,7 +14,7 @@
 
 1. Ofereça ajuda ao Mestre do Sushi (ama\_in01 162,17)
 
-   :   ![O Mestre do Sushi](../images/c/c4/O_Mestre_do_Sushi.png)
+   :   ![O Mestre do Sushi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/O_Mestre_do_Sushi.png)
 
    - Seu objetivo é entregar os itens aleatórios que o [NPC](../Sem%20categoria/NPC.md "NPC") pedir, ao fazer isso, você recebe uma recompensa.
    - Para receber a recompensa principal, a espada [Sashimi](http://www.divine-pride.net/database/item/1144/), será necessário entregar os [Corações de Sereia](http://www.divine-pride.net/database/item/950/) todas as 3 vezes que ele pedir.

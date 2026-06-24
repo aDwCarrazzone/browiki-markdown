@@ -18,31 +18,31 @@
 
 1. Aproxime-se dos Viajantes (ecl\_in01 34,51)
 
-   :   ![Rumores sobre o Rei1](../images/b/b8/Rumores_sobre_o_Rei1.png)
+   :   ![Rumores sobre o Rei1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Rumores_sobre_o_Rei1.png)
 
    - Converse com todos eles e selecione a opção: *Porque Eclage é tão popular entre os viajantes?*
    - Em caso de desconexão durante esse diálogo, basta falar com o Guarda de Eclage (ecl\_in01 82,70)
 2. Fale com o Guarda de Eclage (ecl\_in01 82,70)
 
-   :   ![Rumores sobre o Rei3](../images/c/c6/Rumores_sobre_o_Rei3.png)
+   :   ![Rumores sobre o Rei3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Rumores_sobre_o_Rei3.png)
 3. Converse com a Chefe do Gabinete (ecl\_in03 245,93)
 
-   :   ![Rumores sobre o Rei2](../images/c/cd/Rumores_sobre_o_Rei2.png)
+   :   ![Rumores sobre o Rei2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Rumores_sobre_o_Rei2.png)
 
    - Selecione: *Sim, eu prometo!*
 4. Aguarde 10 minutos e fale novamente com o Guarda de Eclage (ecl\_in01 82,70)
 5. Converse com o Rei Jun Kardui (ecl\_in03 41,90)
 
-   :   ![Rumores sobre o Rei10](../images/1/1a/Rumores_sobre_o_Rei10.png)
+   :   ![Rumores sobre o Rei10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Rumores_sobre_o_Rei10.png)
 6. Entregue os itens que o Guarda de Eclage pede.
    - 5 [Chifres de Leão da Montanha](http://www.divine-pride.net/database/item/6032/), 5 [Chifres Místicos](http://www.divine-pride.net/database/item/6023/) e 5 [Ferraduras](http://www.divine-pride.net/database/item/944/).
    - Você receberá 200.000 de experiência de base e classe.
 7. Ajude o Mensageiro Roy (ecl\_fild01 205,86)
 
-   :   ![Rumores sobre o Rei4](../images/9/97/Rumores_sobre_o_Rei4.png)
+   :   ![Rumores sobre o Rei4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Rumores_sobre_o_Rei4.png)
 8. Pegue o [Pacote de Correio](http://www.divine-pride.net/database/item/6552/) com o Diretor do Escritório (splendide 267,368)
 
-   :   ![Rumores sobre o Rei5](../images/8/8a/Rumores_sobre_o_Rei5.png)
+   :   ![Rumores sobre o Rei5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Rumores_sobre_o_Rei5.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") fica na parte de cima, o acesso pode ser feito a partir de (splendide 249,244)
    - Você não precisa equipar o Anel do Rei Sábio.
@@ -50,7 +50,7 @@
    - Você receberá 200.000 de experiência de base e classe.
 10. Converse com o Guarda de Eclage, Leo. (eclage 111,41)
 
-    :   ![Rumores sobre o Rei6](../images/1/1b/Rumores_sobre_o_Rei6.png)
+    :   ![Rumores sobre o Rei6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Rumores_sobre_o_Rei6.png)
 
     - Entregue 3 [Geleias de Mel de Vagalume](http://www.divine-pride.net/database/item/12345/) e 3 [Geleias de Fruta de Pinguicula](http://www.divine-pride.net/database/item/12344/).
     - Esses itens podem ser comprados em [Esplendor](../Lugares%20em%20Ragnar%C3%B6k/Esplendor.md "Esplendor") usando [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/).
@@ -64,11 +64,11 @@
 13. Receba uma [Asa de Fada](http://www.divine-pride.net/database/item/2916/) da Chefe de Gabinete (ecl\_in03 245,93)
 14. Pergunte sobre os rumores para a Viajante Fome (ecl\_in01 32,52)
 
-    :   ![Rumores sobre o Rei19](../images/d/da/Rumores_sobre_o_Rei19.png)
+    :   ![Rumores sobre o Rei19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Rumores_sobre_o_Rei19.png)
 15. Caminhe ao redor do Trabalhador Esplêndido (ecl\_in03 246,54)
 
-    :   ![Rumores sobre o Rei8](../images/3/30/Rumores_sobre_o_Rei8.png)
+    :   ![Rumores sobre o Rei8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Rumores_sobre_o_Rei8.png)
 16. Aproxime-se dos Esplêndidos Conversando (eclage 274,294)
 
-    :   ![Rumores sobre o Rei7](../images/5/56/Rumores_sobre_o_Rei7.png)
+    :   ![Rumores sobre o Rei7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Rumores_sobre_o_Rei7.png)
 17. Volte ao Rei Jun Kardui e ouça a história para ganhar 200.000 de experiência de base e classe.

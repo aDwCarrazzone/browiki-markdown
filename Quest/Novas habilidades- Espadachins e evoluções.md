@@ -36,21 +36,21 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Converse com o Cavaleiro para receber a missão (prt\_in 85,99).
 
-   :   ![Quest Avanço Ofensivo01a](../images/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
+   :   ![Quest Avanço Ofensivo01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
 2. Aproxime-se do grupo de cavaleiros até que uma janela de diálogo surja. Converse com cada um deles até que o Cavaleiro Essofeit seja citado.
 
-   :   ![Quest Avanço Ofensivo02a](../images/f/f9/Quest_Avan%C3%A7o_Ofensivo02a.png)
+   :   ![Quest Avanço Ofensivo02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Quest_Avan%C3%A7o_Ofensivo02a.png)
 3. Volte para a Cavalaria e converse com o Cavaleiro (Essofeit).
 
-   :   ![Quest Avanço Ofensivo01a](../images/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
+   :   ![Quest Avanço Ofensivo01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
 4. Converse com o outro Cavaleiro (prontera 66,358).
 
-   :   ![Quest Avanço Ofensivo03a](../images/a/a3/Quest_Avan%C3%A7o_Ofensivo03a.png)
+   :   ![Quest Avanço Ofensivo03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Quest_Avan%C3%A7o_Ofensivo03a.png)
 5. Retorne a Cavalaria e entregue ao Cavaleiro (Essofeit).
    - ![530.png](http://static.divine-pride.net/images/items/item/530.png) 5 [Bengala Doce](http://www.divine-pride.net/database/item/530/)
    - ![748.png](http://static.divine-pride.net/images/items/item/748.png) 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)
 
-   :   ![Quest Avanço Ofensivo01a](../images/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
+   :   ![Quest Avanço Ofensivo01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Quest_Avan%C3%A7o_Ofensivo01a.png)
 
    - Dica: você pode comprar Boneco de Pelúcia no Comerciante de Bonecas (prontera 248,153) e trocar ![740.png](http://static.divine-pride.net/images/items/item/740.png) 1 [Boneco de Pelúcia](http://www.divine-pride.net/database/item/740/) por ![530.png](http://static.divine-pride.net/images/items/item/530.png) 1 [Bengala Doce](http://www.divine-pride.net/database/item/530/) na Elin (alberta 117,135). A Rosa Eterna pode ser comprada em Lighthalzen (lighthalzen 112,44) ou nas Ruínas de Morroc (moc\_ruins 131,138).
 6. Fale outra vez com ele para aprender a habilidade.
@@ -71,14 +71,14 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Localize Ford (geffen 110,118)
 
-   :   ![Novas Habilidades- Templários01](../images/b/bd/Novas_Habilidades-_Templ%C3%A1rios01.png)
+   :   ![Novas Habilidades- Templários01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Novas_Habilidades-_Templ%C3%A1rios01.png)
 2. Com uma [Poção Vermelha](http://www.divine-pride.net/database/item/501/) no inventário, fale com o Soldado (gef\_fild13 297,242)
 
-   :   ![Novas Habilidades- Templários02](../images/e/ef/Novas_Habilidades-_Templ%C3%A1rios02.png)
+   :   ![Novas Habilidades- Templários02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Novas_Habilidades-_Templ%C3%A1rios02.png)
 3. Retorne a Ford.
 4. Entregue os itens ao Pastor (prt\_church 87,127)
 
-   :   ![Novas Habilidades- Templários03](../images/1/15/Novas_Habilidades-_Templ%C3%A1rios03.png)
+   :   ![Novas Habilidades- Templários03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Novas_Habilidades-_Templ%C3%A1rios03.png)
 
    - ![938.png](http://static.divine-pride.net/images/items/item/938.png) 20 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
    - ![713.png](http://static.divine-pride.net/images/items/item/713.png) 3 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)

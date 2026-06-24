@@ -13,7 +13,7 @@
 
 1. Os [Vales Varmida](http://www.divine-pride.net/database/item/1000103/) são trocados dentro do Refeitório (ba\_maison 137,96)
 
-   :   ![AutomaticEquip](../images/9/94/AutomaticEquip.png)
+   :   ![AutomaticEquip](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/AutomaticEquip.png)
 
 ## Armas do Pecado
 

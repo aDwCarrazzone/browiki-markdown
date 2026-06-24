@@ -17,27 +17,27 @@
 
 1. Localize uma Mulher muito bonita (ayothaya 231,105)
 
-   :   ![O anel de noivado01](../images/a/a9/O_anel_de_noivado01.png)
+   :   ![O anel de noivado01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/O_anel_de_noivado01.png)
 
    - Selecione:
      - *"Mentira!"*
 2. Tente pescar o [Anel de Compromisso](http://www.divine-pride.net/database/item/7288/). Você consumirá 1 [Ração para Monstros](http://www.divine-pride.net/database/item/528/) e 50 [zenys](../Sem%20categoria/Zenys.md "Zenys") por tentativa. Inicie a pesca com o Pescador (ayothaya 253,99)
 
-   :   ![O anel de noivado02](../images/e/e4/O_anel_de_noivado02.png)
+   :   ![O anel de noivado02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/O_anel_de_noivado02.png)
 3. Entregue o [Anel de Compromisso](http://www.divine-pride.net/database/item/7288/) para a Mulher muito bonita.
 4. Fale com o Velho (ayothaya 191,171)
 
-   :   ![O anel de noivado03](../images/f/f5/O_anel_de_noivado03.png)
+   :   ![O anel de noivado03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/O_anel_de_noivado03.png)
 5. Agora, prepare-se para entrar no Santuário Ancestral. Seu objetivo é caminhar em volta dos pontos indicados abaixo, em ordem.
 
-   :   ![O anel de noivado04](../images/c/ce/O_anel_de_noivado04.png)
+   :   ![O anel de noivado04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/O_anel_de_noivado04.png)
 
    1. (ayo\_dun01 256,61)
    2. (ayo\_dun01 73,142)
    3. (ayo\_dun01 243,257)
    4. (ayo\_dun01 18,258)
 
-   :   ![O anel de noivado04a](../images/3/3b/O_anel_de_noivado04a.png)
+   :   ![O anel de noivado04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/O_anel_de_noivado04a.png)
 
    1. (ayo\_dun02 146,117)
    2. (ayo\_dun02 136,169)
@@ -46,10 +46,10 @@
    5. (ayo\_dun02 89,262)
 6. Clique na árvore e procure diversas vezes até que o Homem Cansado apareça.
 
-   :   ![O anel de noivado06](../images/2/2e/O_anel_de_noivado06.png)
+   :   ![O anel de noivado06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/O_anel_de_noivado06.png)
 7. Fale com o Homem Cansado (ayo\_dun02 91,262)
 
-   :   ![O anel de noivado05](../images/8/8c/O_anel_de_noivado05.png)
+   :   ![O anel de noivado05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/O_anel_de_noivado05.png)
 
    - Selecione:
      - *Tratar dele antes*

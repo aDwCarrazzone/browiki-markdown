@@ -2,7 +2,7 @@
 
 # JoyCoins
 
-![ROPS 1](../images/4/4e/ROPS_1.jpg)
+![ROPS 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/ROPS_1.jpg)
 
 JoyCoins são moedas virtuais adquiridas através de um pagamento em dinheiro real.
 
@@ -10,10 +10,10 @@ JoyCoins são moedas virtuais adquiridas através de um pagamento em dinheiro re
 
 1. Clique no botão da Loja dentro do jogo.
 
-   :   [![Botãoloja](../images/8/8b/Bot%C3%A3oloja.png)](https://browiki.org/wiki/Arquivo%3ABot%C3%A3oloja.png)
+   :   [![Botãoloja](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Bot%C3%A3oloja.png)](https://browiki.org/wiki/Arquivo%3ABot%C3%A3oloja.png)
 2. Diferente dos *JoyCoins*, para usar os *JoyPoints*, você deve digitar o valor.
 
-   :   ![JP01](../images/9/9b/JP01.png)
+   :   ![JP01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/JP01.png)
 3. Depois, selecione "Comprar".
 
 Você pode desligar o botão da loja digitando o comando `/cashshop`
@@ -59,9 +59,9 @@ O [Shopping](http://www.divine-pride.net/database/map/itemmall/) pode ser acessa
 
 ### Sloteamento
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para itens sloteados gratuitamente, veja [Slot](Slot.md "Slot").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para itens sloteados gratuitamente, veja [Slot](Slot.md "Slot").
 
-:   ![JP03](../images/6/6f/JP03.png)
+:   ![JP03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/JP03.png)
 
 - Informações sobre Sloteamento:
   - Leve o [Perfurador](http://www.divine-pride.net/database/item/6396/) ou o [Desentupidor](http://www.divine-pride.net/database/item/25041/) para o [NPC](../Sem%20categoria/NPC.md "NPC") correto.
@@ -116,7 +116,7 @@ O [Shopping](http://www.divine-pride.net/database/map/itemmall/) pode ser acessa
 
 ## VIP
 
-![JP0vip](../images/f/f3/JP0vip.png)
+![JP0vip](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/JP0vip.png)
 
 Você pode adquirir bônus extras através dos itens [VIP](http://www.divine-pride.net/database/item/23207/).
 

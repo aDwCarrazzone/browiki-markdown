@@ -15,7 +15,7 @@
 
 1. Você pode conseguir missões diárias ao ajudar o Chef (lasagna 222,186)
 
-   :   ![ChefLasagna](../images/a/a3/ChefLasagna.png)
+   :   ![ChefLasagna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/ChefLasagna.png)
 
    - Você só poderá fazer 1 missão por dia.
    - As missões possuem nível mínimo e máximo, isso significa que acima daquele nível, você não poderá mais realizá-la.

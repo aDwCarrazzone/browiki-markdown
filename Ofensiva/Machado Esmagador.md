@@ -39,9 +39,9 @@ Entra em estado de *Esmagador* por 10 segundos.
 
 ### Esmagador
 
-- **Ícone:** ![I Machado Esmagador](../images/f/f0/I_Machado_Esmagador.png)
+- **Ícone:** ![I Machado Esmagador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/I_Machado_Esmagador.png)
 - **Duração**: 10 segundos.
-- **Efeito:** Aumenta o dano de [![Fúria do Furacão](../images/7/75/F%C3%BAria_do_Furac%C3%A3o.png)](F%C3%BAria%20do%20Furac%C3%A3o.md "Fúria do Furacão") [Fúria do Furacão](F%C3%BAria%20do%20Furac%C3%A3o.md "Fúria do Furacão")
+- **Efeito:** Aumenta o dano de [![Fúria do Furacão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/F%C3%BAria_do_Furac%C3%A3o.png)](F%C3%BAria%20do%20Furac%C3%A3o.md "Fúria do Furacão") [Fúria do Furacão](F%C3%BAria%20do%20Furac%C3%A3o.md "Fúria do Furacão")
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Desencantar](../Ativa/Desencantar.md "Desencantar").
 
 ### Fórmula

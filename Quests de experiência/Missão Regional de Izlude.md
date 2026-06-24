@@ -17,10 +17,10 @@
 
 1. Fale com Ernesto (iz\_dun01 121,158)
 
-   :   ![IzludeRegional01](../images/5/54/IzludeRegional01.png)
+   :   ![IzludeRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/IzludeRegional01.png)
 2. Encontre o Líder Maximus (iz\_dun02 229,231)
 
-   :   ![IzludeRegional02](../images/1/19/IzludeRegional02.png)
+   :   ![IzludeRegional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/IzludeRegional02.png)
 
    - Agora você pode iniciar as missões diárias. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 3. Ao lado de Maximus, converse com Kysekili (iz\_dun02 228,229)

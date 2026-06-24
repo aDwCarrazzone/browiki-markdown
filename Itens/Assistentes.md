@@ -22,7 +22,7 @@ Existem assistentes que podem ser obtidos por diversas formas, tais como [Missõ
 
 - Contratada na [Vila dos Arqueiros](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") (pay\_arche 99,167)
 
-![AssistenteAmazona](../images/a/a7/AssistenteAmazona.png)
+![AssistenteAmazona](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/AssistenteAmazona.png)
 
 | Amazona | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Existem assistentes que podem ser obtidos por diversas formas, tais como [Missõ
 
 - Contratado em [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude") (izlude 47,139)
 
-![AssistenteSoldado](../images/a/ac/AssistenteSoldado.png)
+![AssistenteSoldado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/AssistenteSoldado.png)
 
 | Soldados | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -160,7 +160,7 @@ Existem assistentes que podem ser obtidos por diversas formas, tais como [Missõ
 
 - Contratado em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prontera 41,337)
 
-![AssistenteLanceiro](../images/6/63/AssistenteLanceiro.png)
+![AssistenteLanceiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/AssistenteLanceiro.png)
 
 | Lanceiros | | | | | |
 | --- | --- | --- | --- | --- | --- |
@@ -325,13 +325,13 @@ Caso opte por baixar e instalar uma A.I. personalizada, é necessário instalar 
 
 1. Clique com o botão direito do mouse em cima do ícone do jogo e selecione *Abrir local do arquivo*.
 
-   :   ![Ai1](../images/1/10/Ai1.jpg)
+   :   ![Ai1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Ai1.jpg)
 2. Procure pela pasta AI, dentro dela, crie uma nova pasta com o nome **USER\_AI**.
 
-   :   ![Ai2](../images/3/37/Ai2.jpg)
+   :   ![Ai2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Ai2.jpg)
 3. Na USER\_AI, você instalará apenas 1 AI personalizada.
 
-   :   ![Ai3](../images/0/0f/Ai3.jpg)
+   :   ![Ai3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Ai3.jpg)
 4. Conecte-se no jogo após a instalação:
    1. Digite `/merai`
    2. A mensagem "*Usar AI customizada*" deve aparecer.

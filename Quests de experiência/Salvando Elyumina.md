@@ -17,18 +17,18 @@
 
 1. Fale com Renshiz (ba\_pw02 41,267).
 
-   :   ![Salvaelyu1](../images/e/e4/Salvaelyu1.png)
+   :   ![Salvaelyu1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Salvaelyu1.png)
 2. Encontre Nid (ba\_maison 170,270).
 
-   :   ![Salvaelyu2](../images/f/ff/Salvaelyu2.png)
+   :   ![Salvaelyu2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Salvaelyu2.png)
 3. Converse com Seiyu (ba\_maison 239,47).
 
-   :   ![Seiyu172](../images/1/16/Seiyu172.png)
+   :   ![Seiyu172](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Seiyu172.png)
 4. Você receberá a missão de eliminar uma [Papilia Violeta](http://www.divine-pride.net/database/monster/20667/) em [Ortus Aqua](Ortus%20Aqua.md "Ortus Aqua").
 5. Após completar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), retorne a Seiyu (ba\_maison 239,47).
 6. Entregue o antídoto para Elyumina (ba\_maison 234,51).
 
-   :   ![Salvaelyu4](../images/a/ad/Salvaelyu4.png)
+   :   ![Salvaelyu4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Salvaelyu4.png)
 
    - Você receberá sua recompensa.
    - Após um dia, você poderá iniciar [Ortus Aqua](Ortus%20Aqua.md "Ortus Aqua").

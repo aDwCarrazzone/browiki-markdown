@@ -16,16 +16,16 @@
 
 1. Aceite a missão do Quadro de Caça (prontera 59,339)
 
-   :   ![PronteraRegional01](../images/8/8c/PronteraRegional01.png)
+   :   ![PronteraRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/PronteraRegional01.png)
 2. Em seguida, fale com a Escrivã ao lado. Ela deverá entregar 1 [Suprimentos da Cavalaria](http://www.divine-pride.net/database/item/25077/).
    - Se você perder o item, ela cobrará 200 [zeny](../Sem%20categoria/Zeny.md "Zeny") para lhe dar um novo.
 3. Dirija-se à Vila dos Orcs e entregue os Suprimentos para o Líder da Tropa (gef\_fild10 78,340)
 
-   :   ![PronteraRegional02a](../images/e/e0/PronteraRegional02a.png)
+   :   ![PronteraRegional02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/PronteraRegional02a.png)
 4. Assim que entregar os Suprimentos, você já poderá iniciar as missões diárias de caçada dos Orcs, se possuir nível 50 ou maior. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 5. Na Vila Goblin e entregue os Suprimentos para o Vice-Líder da Tropa (gef\_fild11 128,351)
 
-   :   ![PronteraRegional03](../images/e/e0/PronteraRegional03.png)
+   :   ![PronteraRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/PronteraRegional03.png)
 6. Você já poderá iniciar as missões diárias de caçada dos Goblins. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 7. Essa missão de entrega de Suprimentos não está no [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") e é resetada às 4 horas da manhã.
    - Você receberá 4.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 3.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
@@ -49,10 +49,10 @@
 
 1. Aceite ajudar o Arcebispo Laerte (prontera 235,311). Fale com ele novamente para se teleportar para [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md "Glastheim").
 
-   :   ![PronteraRegional04](../images/9/93/PronteraRegional04.png)
+   :   ![PronteraRegional04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/PronteraRegional04.png)
 2. Fale com Cláudio (gef\_fild10 78,340)
 
-   :   ![PronteraRegional05](../images/4/40/PronteraRegional05.png)
+   :   ![PronteraRegional05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/PronteraRegional05.png)
 
    - Você receberá 5.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 3.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 3. Assim que terminar a conversa, você já poderá iniciar as missões diárias. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").

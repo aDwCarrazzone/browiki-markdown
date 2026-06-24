@@ -14,7 +14,7 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Charles (iz\_ac02 148,110)
 
-   :   ![Aca magician01](../images/5/5b/Aca_magician01.png)
+   :   ![Aca magician01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Aca_magician01.png)
 
    - Charles lhe dará um [Manual do Mago](http://www.divine-pride.net/database/item/2824/).
    - Você pode optar por mudar de classe diretamente na Academia, mas é recomendável mudar de classe na Guilda.
@@ -22,15 +22,15 @@
    - Esse passo é opcional, mas ajuda a chegar mais rápido na Guilda dos Magos.
 2. Na Guilda dos Magos, fale com a Professora de Magia (geffen\_in 164,124)
 
-   :   ![QMago1](../images/b/b0/QMago1.png)
+   :   ![QMago1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/QMago1.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
      - ![1639.png](http://static.divine-pride.net/images/items/item/1639.png) 1 [Cajado de Iniciante](http://www.divine-pride.net/database/item/1639/)
-     - Aprende [![Proteção Arcana](../images/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
+     - Aprende [![Proteção Arcana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44).
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -44,39 +44,39 @@
 
 1. Na guilda dos Magos, converse com Charles (geffen\_in 159,124)
 
-   :   ![Tu magician00](../images/5/5b/Tu_magician00.png)
+   :   ![Tu magician00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Tu_magician00.png)
 
    - Já nesse primeiro momento você ganha 5 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 6.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 500 de classe.
    - Selecione a opção "*Comportamento de um Mago*" para começar a missão.
 2. Dirija-se para o lado direito de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") (gef\_fild00) e elimine 30 [Fabre](http://www.divine-pride.net/database/monster/1007/) e 30 [ChonChon](http://www.divine-pride.net/database/monster/1011/).
 3. Quando completar a caça, reporte a situação para a Maga Descolada, que está no mapa à direita (prt\_fild00 36,123)
 
-   :   ![Tu magician01](../images/7/7a/Tu_magician01.png)
+   :   ![Tu magician01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Tu_magician01.png)
 
    - Sua recompensa será 5 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 8.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 1.000 de classe.
    - Agora sua missão é caçar 30 [Sapo de Rodda](http://www.divine-pride.net/database/monster/1012/) e 30 [Bebê Selvagem](http://www.divine-pride.net/database/monster/1167/).
 4. Quando completar a caça, reporte a situação para a Maga Descolada, que está no mapa à direita (mjolnir\_09 48,246)
 
-   :   ![Tu magician03](../images/f/f0/Tu_magician03.png)
+   :   ![Tu magician03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Tu_magician03.png)
 
    - Dica: *o mapa mjolnir\_09 tem mais [Bebês Selvagens](http://www.divine-pride.net/database/monster/1167/).*
    - Sua recompensa será 5 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 10.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 1.500 de classe.
    - Agora sua missão é encontrar com ela no mapa ao sul do mapa atual.
 5. Procure pela Maga Descolada (prt\_fild05 285,378)
 
-   :   ![Tu magician02](../images/1/11/Tu_magician02.png)
+   :   ![Tu magician02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Tu_magician02.png)
 
    - Sua recompensa será 5 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 12.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 2.000 de classe.
    - Agora sua missão é caçar 30 [Besouro-Ladrão](http://www.divine-pride.net/database/monster/1051/) e 30 [Ovo de Besouro-Ladrão](http://www.divine-pride.net/database/monster/1048/).
 6. Quando completar a caça, reporte a situação para a Maga Descolada, perto de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prt\_fild05 359,213)
 
-   :   ![Tu magician04](../images/d/d3/Tu_magician04.png)
+   :   ![Tu magician04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Tu_magician04.png)
 
    - Sua última recompensa será 5 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 14.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 3.000 de classe.
    - Com o fim da missão, a Maga sugere que você experimente as [quests](Quests.md "Quests") do **[Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden")**.
 7. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-   :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+   :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
    - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
    - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

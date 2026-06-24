@@ -37,7 +37,7 @@ Oponentes atingidos serão afetados por *Vício Mágico*.
 
 ### Vício Mágico
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Tornado](../images/4/48/I_Tornado.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Tornado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/I_Tornado.png)
 - Duração: 20 segundos
 - Alvos atingidos brilham na cor rosa escuro.
 - Funciona contra outros personagens, [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") normais, chefes e [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").

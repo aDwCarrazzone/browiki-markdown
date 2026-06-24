@@ -14,21 +14,21 @@
 
 1. Ajude Muff (comodo 224,187)
 
-   :   ![Muff01](../images/a/a8/Muff01.png)
+   :   ![Muff01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Muff01.png)
 2. Cave o Pedaço de Terra até encontrar uma carteira (cmd\_fild01 55,160)
 
-   :   ![Muff2](../images/c/cd/Muff2.png)
+   :   ![Muff2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Muff2.png)
 3. Reencontre Muff, em [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo").
 4. Dirija-se a Dorian (izlude\_in 59,94)
 
-   :   ![Muff3 new](../images/2/2b/Muff3_new.png)
+   :   ![Muff3 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Muff3_new.png)
 
    - Digite:
      - `Teoria das Ondas Tricentrífugas`
    - Entregue os itens pedidos.
 5. Clique na Máquina ao lado de Dorian.
 
-   :   ![NPMaquina nw](../images/b/bc/NPMaquina_nw.png)
+   :   ![NPMaquina nw](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/NPMaquina_nw.png)
 
    - Primeiro troque o Motor.
    - Depois, aperte o parafuso várias vezes lendo os diálogos até o som mudar para de "*krrr*" para "*clique*".

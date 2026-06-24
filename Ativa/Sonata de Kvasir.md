@@ -27,38 +27,38 @@ Enquanto estiver ativo, permite usar Dueto ou Coral sem necessidade de ter um pa
 
 ### Duetos afetados
 
-- [![Anel dos Nibelungos](../images/4/4c/Anel_dos_Nibelungos.png)](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos") [Anel dos Nibelungos](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos")
-- [![Banquete de Njord](../images/3/38/Banquete_de_Njord.png)](Banquete%20de%20Njord.md "Banquete de Njord") [Banquete de Njord](Banquete%20de%20Njord.md "Banquete de Njord")
-- [![Canção Preciosa](../images/6/67/Can%C3%A7%C3%A3o_Preciosa.png)](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa") [Canção Preciosa](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa")
-- [![Cantiga de Ninar](../images/1/13/Cantiga_de_Ninar.png)](Cantiga%20de%20Ninar.md "Cantiga de Ninar") [Cantiga de Ninar](Cantiga%20de%20Ninar.md "Cantiga de Ninar")
-- [![Lamento de Loki](../images/6/6e/Lamento_de_Loki.png)](Lamento%20de%20Loki.md "Lamento de Loki") [Lamento de Loki](Lamento%20de%20Loki.md "Lamento de Loki")
-- [![Ode a Siegfried](../images/d/d8/Ode_a_Siegfried.png)](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried")
-- [![Ritmo Caótico](../images/e/ed/Ritmo_Ca%C3%B3tico.png)](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico") [Ritmo Caótico](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico")
-- [![Rufar dos Tambores](../images/7/7b/Rufar_dos_Tambores.png)](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores") [Rufar dos Tambores](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores")
+- [![Anel dos Nibelungos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Anel_dos_Nibelungos.png)](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos") [Anel dos Nibelungos](../Suporte/Anel%20dos%20Nibelungos.md "Anel dos Nibelungos")
+- [![Banquete de Njord](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Banquete_de_Njord.png)](Banquete%20de%20Njord.md "Banquete de Njord") [Banquete de Njord](Banquete%20de%20Njord.md "Banquete de Njord")
+- [![Canção Preciosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Can%C3%A7%C3%A3o_Preciosa.png)](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa") [Canção Preciosa](../Suporte/Can%C3%A7%C3%A3o%20Preciosa.md "Canção Preciosa")
+- [![Cantiga de Ninar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Cantiga_de_Ninar.png)](Cantiga%20de%20Ninar.md "Cantiga de Ninar") [Cantiga de Ninar](Cantiga%20de%20Ninar.md "Cantiga de Ninar")
+- [![Lamento de Loki](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Lamento_de_Loki.png)](Lamento%20de%20Loki.md "Lamento de Loki") [Lamento de Loki](Lamento%20de%20Loki.md "Lamento de Loki")
+- [![Ode a Siegfried](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Ode_a_Siegfried.png)](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried")
+- [![Ritmo Caótico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Ritmo_Ca%C3%B3tico.png)](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico") [Ritmo Caótico](Ritmo%20Ca%C3%B3tico.md "Ritmo Caótico")
+- [![Rufar dos Tambores](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Rufar_dos_Tambores.png)](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores") [Rufar dos Tambores](../Suporte/Rufar%20dos%20Tambores.md "Rufar dos Tambores")
 
 ### Corais afetados
 
-- [![Canção de Alfheim](../images/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
-- [![Cântico da Iluminação](../images/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
-- [![Clamor de Batalha](../images/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
-- [![Dança com Lobos](../images/e/e9/Dan%C3%A7a_com_Lobos.png)](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
-- [![Embalos de Sábado a Noite](../images/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
-- [![Murmúrio Perene](../images/a/a3/Murm%C3%BArio_Perene.png)](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene")
-- [![Orvalho de Idun](../images/0/0a/Orvalho_de_Idun.png)](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun")
-- [![Prelúdio do Ragnarök](../images/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
+- [![Canção de Alfheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
+- [![Cântico da Iluminação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
+- [![Clamor de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
+- [![Dança com Lobos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Dan%C3%A7a_com_Lobos.png)](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
+- [![Embalos de Sábado a Noite](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
+- [![Murmúrio Perene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Murm%C3%BArio_Perene.png)](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene")
+- [![Orvalho de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Orvalho_de_Idun.png)](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun")
+- [![Prelúdio do Ragnarök](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
 
 ### Parceiro fantasma
 
 - As seguintes habilidades possuem um bônus caso exista um ou mais parceiros no [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
 - Com a Sonata ativa, mesmo que você esteja só, esse bônus de 1 parceiro será contabilizado.
-  - [![Brado de Odin](../images/5/58/Brado_de_Odin.png)](../Ofensiva/Brado%20de%20Odin.md "Brado de Odin") [Brado de Odin](../Ofensiva/Brado%20de%20Odin.md "Brado de Odin")
-  - [![Recital de Geffenia](../images/0/0c/Recital_de_Geffenia.png)](Recital%20de%20Geffenia.md "Recital de Geffenia") [Recital de Geffenia](Recital%20de%20Geffenia.md "Recital de Geffenia")
-  - [![Réquiem de Niflheim](../images/1/1c/R%C3%A9quiem_de_Niflheim.png)](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim") [Réquiem de Niflheim](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim")
-  - [![Caprichos de Loki](../images/8/8e/Caprichos_de_Loki.png)](Caprichos%20de%20Loki.md "Caprichos de Loki") [Caprichos de Loki](Caprichos%20de%20Loki.md "Caprichos de Loki")
-  - [![Rapsódia do Minerador](../images/0/0d/Raps%C3%B3dia_do_Minerador.png)](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador") [Rapsódia do Minerador](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador")
-  - [![Serenata de Jawaii](../images/1/1f/Serenata_de_Jawaii.png)](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii") [Serenata de Jawaii](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii")
-  - [![Interlúdio](../images/d/d4/Interl%C3%BAdio.png)](../Suporte/Interl%C3%BAdio.md "Interlúdio") [Interlúdio](../Suporte/Interl%C3%BAdio.md "Interlúdio")
-  - [![Marcha de Prontera](../images/8/86/Marcha_de_Prontera.png)](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera") [Marcha de Prontera](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera")
+  - [![Brado de Odin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/Brado_de_Odin.png)](../Ofensiva/Brado%20de%20Odin.md "Brado de Odin") [Brado de Odin](../Ofensiva/Brado%20de%20Odin.md "Brado de Odin")
+  - [![Recital de Geffenia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Recital_de_Geffenia.png)](Recital%20de%20Geffenia.md "Recital de Geffenia") [Recital de Geffenia](Recital%20de%20Geffenia.md "Recital de Geffenia")
+  - [![Réquiem de Niflheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/R%C3%A9quiem_de_Niflheim.png)](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim") [Réquiem de Niflheim](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim")
+  - [![Caprichos de Loki](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/Caprichos_de_Loki.png)](Caprichos%20de%20Loki.md "Caprichos de Loki") [Caprichos de Loki](Caprichos%20de%20Loki.md "Caprichos de Loki")
+  - [![Rapsódia do Minerador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/Raps%C3%B3dia_do_Minerador.png)](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador") [Rapsódia do Minerador](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador")
+  - [![Serenata de Jawaii](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Serenata_de_Jawaii.png)](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii") [Serenata de Jawaii](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii")
+  - [![Interlúdio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Interl%C3%BAdio.png)](../Suporte/Interl%C3%BAdio.md "Interlúdio") [Interlúdio](../Suporte/Interl%C3%BAdio.md "Interlúdio")
+  - [![Marcha de Prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Marcha_de_Prontera.png)](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera") [Marcha de Prontera](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera")
 
 ## Notas
 

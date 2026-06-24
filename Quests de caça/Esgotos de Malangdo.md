@@ -18,14 +18,14 @@
 
 1. Antes de gerar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), pegue uma missão com Bigodes (mal\_in01 172,28)
 
-   :   ![Esgotosdemalangdo01](../images/d/dc/Esgotosdemalangdo01.png)
+   :   ![Esgotosdemalangdo01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Esgotosdemalangdo01.png)
 
    - Serviço diário: caçar 20 monstros do modo normal ou difícil.
    - Serviço semanal: caçar 1 [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") do modo normal ou difícil.
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Missing, o Faxineiro, selecionando a opção "*Agraham me insultou*".
    - Os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão ter [VIP](../Sem%20categoria/VIP.md "VIP") ativo para conseguirem entrar na instância.
 
-   :   ![Esgotosdemalangdo02](../images/1/19/Esgotosdemalangdo02.png)
+   :   ![Esgotosdemalangdo02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Esgotosdemalangdo02.png)
 
 1. Nos esgotos, encontre Missing e decida a dificuldade da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
    - Selecione:
@@ -36,10 +36,10 @@
 
    :   **Drenos do Modo Normal**
 
-       :   ![Esgotosdemalangdo03](../images/8/8c/Esgotosdemalangdo03.png)
+       :   ![Esgotosdemalangdo03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/Esgotosdemalangdo03.png)
    :   **Drenos do Modo Difícil**
 
-       :   ![Esgotosdemalangdo03a](../images/e/eb/Esgotosdemalangdo03a.png)
+       :   ![Esgotosdemalangdo03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Esgotosdemalangdo03a.png)
 3. Observe que:
    - Durante a limpeza, uma barra de conjuração de **15** segundos aparece, ela pode ser interrompida se receber dano.
    - Um dreno dura 10 segundos ativo, passado esse tempo, ele desaparece e reaparece em outro ponto do mapa.
@@ -55,7 +55,7 @@
 7. Retorne a Bigodes para receber sua premiação de acordo com o serviço e a dificuldade. (ver tabela abaixo)
 8. Se o tempo da missão expirar, remova a quest da janela de missões falando com Amy.
 
-   :   ![Esgotosdemalangdo04](../images/e/e2/Esgotosdemalangdo04.png)
+   :   ![Esgotosdemalangdo04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Esgotosdemalangdo04.png)
 
 | [Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") | | | |
 | --- | --- | --- | --- |

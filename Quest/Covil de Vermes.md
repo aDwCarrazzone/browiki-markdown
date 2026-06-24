@@ -17,10 +17,10 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com o Acadêmico de Magia (dali 80,60). A entrada é pelo Portal Dimensional atrás do [NPC](../Sem%20categoria/NPC.md "NPC").
 
-   :   ![Vermes01](../images/c/c1/Vermes01.png)
+   :   ![Vermes01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/Vermes01.png)
 2. Converse com Chaos para iniciar a história.
 
-   :   ![Vermes03new](../images/8/87/Vermes03new.png).
+   :   ![Vermes03new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/87/Vermes03new.png).
 3. Seu objetivo é eliminar os [Vermes com Rosto](http://www.divine-pride.net/database/monster/2528/) afim de passar para a próxima fase.
    - O líder deve escolher entre os dois modos:
      - **Modo fácil**: Aparecem cerca de 30 [Vermes com Rosto](http://www.divine-pride.net/database/monster/2528/).
@@ -31,7 +31,7 @@
    - Em todas as fases, existem os *Montinhos Duvidosos*, eles invocam [Larvas de Verme](http://www.divine-pride.net/database/monster/2541/) ao se aproximar.
 5. Após eliminar o [Verme Sombrio](http://www.divine-pride.net/database/monster/2530/), um baú aparece.
 
-   :   ![Vermes05new](../images/0/02/Vermes05new.png)
+   :   ![Vermes05new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Vermes05new.png)
 
    - O baú de cada fase fornece 1 [Pele da Rainha Verme](http://www.divine-pride.net/database/item/20717/) com [encantos](../Sem%20categoria/Encantos.md "Encantos") e refinos aleatórios.
    - O baú também informa o tempo que seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") levou para completar a fase.
@@ -41,16 +41,16 @@
    - Na **4ª** fase, cuidado ao se aproximar das Neblinas, elas curam monstros e causam dano contínuo (pode ser evitado por [Kyrie Eleison](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison") ou usando uma armadura de [veneno](../Sem%20categoria/Veneno.md "Veneno")).
 7. Na **5ª** fase, a última, após uma breve conversa com Chaos, a [Rainha Verme](http://www.divine-pride.net/database/monster/2529/) aparecerá.
 
-   :   ![Vermes08new](../images/0/02/Vermes08new.png)
+   :   ![Vermes08new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Vermes08new.png)
 8. Informações da batalha:
    - No modo fácil, a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") tem 28.000.000 de [HP](../Sem%20categoria/HP.md "HP") inicial, que aumenta em 2.000.000 de [HP](../Sem%20categoria/HP.md "HP") para cada membro do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
    - No modo difícil, ela vem com o [HP](../Sem%20categoria/HP.md "HP") completo.
    - De tempos em tempos, a [Rainha Verme](http://www.divine-pride.net/database/monster/2529/) troca de pele, alterando sua [propriedade](../Sem%20categoria/Propriedade.md "Propriedade"):
-     - [![Cartas09](../images/1/14/Cartas09.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme](http://www.divine-pride.net/database/monster/2529/): [Veneno](../Sem%20categoria/Veneno.md "Veneno") (Versão padrão)
-     - [![Cartas02](../images/0/0d/Cartas02.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Amarela](http://www.divine-pride.net/database/monster/2535/): [Vento](../Sem%20categoria/Vento.md "Vento") (Alta [esquiva](../Sem%20categoria/Esquiva.md "Esquiva"))
-     - [![Cartas004](../images/1/1e/Cartas004.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Azul](http://www.divine-pride.net/database/monster/2534/): [Água](../Sem%20categoria/%C3%81gua.md "Água") (Ativa [Esfera d'Água](../Ofensiva/Esfera%20d%27%C3%81gua.md "Esfera d'Água"))
-     - [![Cartas03](../images/2/22/Cartas03.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Verde](http://www.divine-pride.net/database/monster/2533/): [Terra](../Sem%20categoria/Terra.md "Terra") (Cura frequente)
-     - [![Cartas001](../images/1/1e/Cartas001.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Vermelha](http://www.divine-pride.net/database/monster/2532/): [Fogo](../Sem%20categoria/Fogo.md "Fogo") (Ativa se a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") sofrer dano alto ou se afastar do centro).
+     - [![Cartas09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/Cartas09.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme](http://www.divine-pride.net/database/monster/2529/): [Veneno](../Sem%20categoria/Veneno.md "Veneno") (Versão padrão)
+     - [![Cartas02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/Cartas02.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Amarela](http://www.divine-pride.net/database/monster/2535/): [Vento](../Sem%20categoria/Vento.md "Vento") (Alta [esquiva](../Sem%20categoria/Esquiva.md "Esquiva"))
+     - [![Cartas004](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Cartas004.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Azul](http://www.divine-pride.net/database/monster/2534/): [Água](../Sem%20categoria/%C3%81gua.md "Água") (Ativa [Esfera d'Água](../Ofensiva/Esfera%20d%27%C3%81gua.md "Esfera d'Água"))
+     - [![Cartas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Cartas03.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Verde](http://www.divine-pride.net/database/monster/2533/): [Terra](../Sem%20categoria/Terra.md "Terra") (Cura frequente)
+     - [![Cartas001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Cartas001.png)](../Itens/Cartas.md#Cores "Cartas") [Rainha Verme Vermelha](http://www.divine-pride.net/database/monster/2532/): [Fogo](../Sem%20categoria/Fogo.md "Fogo") (Ativa se a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") sofrer dano alto ou se afastar do centro).
    - Durante a luta, podem aparecer [Casulos](http://www.divine-pride.net/database/monster/2531/) ou [Ovos de Verme](http://www.divine-pride.net/database/monster/2540/) que curam [HP](../Sem%20categoria/HP.md "HP") e invocam [Larvas de Verme](http://www.divine-pride.net/database/monster/2541/).
    - Em alguns momentos, Chaos poderá aparecer em um ponto da área.
    - Arraste a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") até Chaos para causar um grande dano na [Rainha Verme](http://www.divine-pride.net/database/monster/2529/).
@@ -58,7 +58,7 @@
 9. Assim que derrotá-la, um Baú com 2 [Peles da Rainha Verme](http://www.divine-pride.net/database/item/20718/) aparece. Para sair, clique no Portal Dimensional.
 10. Caso opte por ficar, você pode voltar para as fases anteriores e pegar recompensas clicando nos Baús do Mercador, que podem ou não aparecer e estarão espalhados pelo mapa.
 
-    :   ![Vermes10new](../images/9/99/Vermes10new.png)
+    :   ![Vermes10new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Vermes10new.png)
 
 :   |  |  |  |
     | --- | --- | --- |

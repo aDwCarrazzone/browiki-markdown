@@ -15,35 +15,35 @@
 
 1. Fale mais de uma vez com a Bruxa Baba-Yaga (mosk\_dun02 53,220)
 
-   :   ![Banindo0](../images/1/1f/Banindo0.png)
+   :   ![Banindo0](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Banindo0.png)
 
    - Você precisa ter [Pilões Yaga](http://www.divine-pride.net/database/item/7762/) no inventário.
    - Após a conversa, entregue os itens pedidos.
    - O Diamante pode ser de [1 quilate](http://www.divine-pride.net/database/item/730/), [2 quilates](http://www.divine-pride.net/database/item/731/) ou [3 quilates](http://www.divine-pride.net/database/item/732/).
 2. Procure pela [Garrafa de Magia](http://www.divine-pride.net/database/item/7761/) na Pilha de Esqueletos (mosk\_dun03 225,233)
 
-   :   ![Banindo1](../images/f/f6/Banindo1.png)
+   :   ![Banindo1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Banindo1.png)
 3. Retorne para a Bruxa Baba-Yaga, que dará uma missão: Seu objetivo é falar com os [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo até conseguir que eles digam algo semelhante a "*Inverno, não venha*".
 4. Menino (moscovia 202,102)
 
-   :   ![Banindo2](../images/1/13/Banindo2.png)
+   :   ![Banindo2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Banindo2.png)
 5. Jovem (moscovia 233,204)
 
-   :   ![Banindo3](../images/7/70/Banindo3.png)
+   :   ![Banindo3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Banindo3.png)
 6. Um Homem (moscovia 253,175)
 
-   :   ![Banindo4](../images/1/16/Banindo4.png)
+   :   ![Banindo4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Banindo4.png)
 7. Retorne para a Bruxa Baba-Yaga, mas os Guardas levarão você para o Palácio.
 8. Mostre os [Pilões Yaga](http://www.divine-pride.net/database/item/7762/) ao Czar Alexei III (mosk\_in 131,192)
 
-   :   ![Mosk05](../images/4/4b/Mosk05.png)
+   :   ![Mosk05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Mosk05.png)
 9. Reencontre Baba-Yaga.
 10. Pegue o [Livro Mágico de Yaga](http://www.divine-pride.net/database/item/7760/) clicando no Livro.
 
-    :   ![Banindo6](../images/b/bc/Banindo6.png)
+    :   ![Banindo6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Banindo6.png)
 11. Clique no Caldeirão para começar a preparar a magia.
 
-    :   ![Banindo7](../images/6/63/Banindo7.png)
+    :   ![Banindo7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Banindo7.png)
 
     - Selecione:
       - "*Inserir Ingredientes*"
@@ -62,5 +62,5 @@
 12. Fale com Baba-Yaga até receber o [Remédio de Baba-Yaga](http://www.divine-pride.net/database/item/7765/).
 13. Quebre a garrafa no centro de [Moscóvia](../Lugares%20em%20Ragnar%C3%B6k/Mosc%C3%B3via.md "Moscóvia") (moscovia 224,190)
 
-    :   ![Banindo8](../images/5/5b/Banindo8.png)
+    :   ![Banindo8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Banindo8.png)
 14. Reporte a situação ao Czar, que agradecerá com uma recompensa.

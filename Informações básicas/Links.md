@@ -6,7 +6,7 @@
 
 - Atente-se aos requisitos de sistema e **[baixe o jogo](https://ro.gnjoylatam.com/pt/download).**
 
-:   [![BotãoJogar](../images/b/bf/Bot%C3%A3oJogar.png)](https://member.gnjoylatam.com/pt/join?redirectUrl=https%3A%2F%2Fro.gnjoylatam.com%2F%2Fdownload)
+:   [![BotãoJogar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Bot%C3%A3oJogar.png)](https://member.gnjoylatam.com/pt/join?redirectUrl=https%3A%2F%2Fro.gnjoylatam.com%2F%2Fdownload)
 
 ## Sites oficiais
 

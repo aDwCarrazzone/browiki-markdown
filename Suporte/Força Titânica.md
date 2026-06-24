@@ -27,7 +27,7 @@ Em mapas de [PvP](../PvP/PvP.md "PvP"), ataques básicos causarão apenas 125% v
 
 Ao realizar ataques básicos, tem 30% de chance de infligir 2,5 vezes mais dano físico.
 
-Altera a propriedade de [Fogo](../Sem%20categoria/Fogo.md "Fogo") para [Sagrado](../Sem%20categoria/Sagrado.md "Sagrado") em [![Sopro do Dragão](../images/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão").
+Altera a propriedade de [Fogo](../Sem%20categoria/Fogo.md "Fogo") para [Sagrado](../Sem%20categoria/Sagrado.md "Sagrado") em [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão").
 
 ## Notas
 

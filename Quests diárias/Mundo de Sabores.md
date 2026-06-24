@@ -15,7 +15,7 @@
 
 1. Dentro do Conchiolina, fale com o Sous-Chef.
 
-   :   ![Sous-Chef](../images/4/47/Sous-Chef.png)
+   :   ![Sous-Chef](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Sous-Chef.png)
 
    - Colete 4 [Mastelas](http://www.divine-pride.net/database/item/522/) e o [Biscoito de Navio](http://www.divine-pride.net/database/item/11536/)
    - Você consegue o [Biscoito de Navio](http://www.divine-pride.net/database/item/11536/) completando a missão [Ache os Biscoitos](../Quests%20repet%C3%ADveis/Ache%20os%20Biscoitos.md "Ache os Biscoitos").

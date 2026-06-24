@@ -39,13 +39,13 @@ Quando o tempo acabar, causa dano mágico de [propriedade](../Sem%20categoria/Pr
 
 ### Desarranjo Musical
 
-- **Ícone:** ![I Arranjo Musical](../images/6/6e/I_Arranjo_Musical.png)
+- **Ícone:** ![I Arranjo Musical](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/I_Arranjo_Musical.png)
 - Recebe mais dano das seguintes habilidades:
-  - [![Ressonância](../images/b/bd/Resson%C3%A2ncia.png)](Resson%C3%A2ncia.md "Ressonância") [Ressonância](Resson%C3%A2ncia.md "Ressonância")
-  - [![Ruído Estridente](../images/a/a9/Ru%C3%ADdo_Estridente.png)](Ru%C3%ADdo%20Estridente.md "Ruído Estridente") [Ruído Estridente](Ru%C3%ADdo%20Estridente.md "Ruído Estridente")
-  - [![Atirar Rosas](../images/b/be/Atirar_Rosas.png)](Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](Atirar%20Rosas.md "Atirar Rosas")
-  - [![Disparo Rítmico](../images/a/aa/Disparo_R%C3%ADtmico.png)](Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](Disparo%20R%C3%ADtmico.md "Disparo Rítmico")
-  - [![Fúria Estridente](../images/3/31/F%C3%BAria_Estridente.png)](F%C3%BAria%20Estridente.md "Fúria Estridente") [Fúria Estridente](F%C3%BAria%20Estridente.md "Fúria Estridente")
+  - [![Ressonância](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Resson%C3%A2ncia.png)](Resson%C3%A2ncia.md "Ressonância") [Ressonância](Resson%C3%A2ncia.md "Ressonância")
+  - [![Ruído Estridente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Ru%C3%ADdo_Estridente.png)](Ru%C3%ADdo%20Estridente.md "Ruído Estridente") [Ruído Estridente](Ru%C3%ADdo%20Estridente.md "Ruído Estridente")
+  - [![Atirar Rosas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Atirar_Rosas.png)](Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](Atirar%20Rosas.md "Atirar Rosas")
+  - [![Disparo Rítmico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Disparo_R%C3%ADtmico.png)](Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](Disparo%20R%C3%ADtmico.md "Disparo Rítmico")
+  - [![Fúria Estridente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/F%C3%BAria_Estridente.png)](F%C3%BAria%20Estridente.md "Fúria Estridente") [Fúria Estridente](F%C3%BAria%20Estridente.md "Fúria Estridente")
 - Não pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").
 - O estado pode ser cancelado se for atingido por [Fúria Estridente](F%C3%BAria%20Estridente.md "Fúria Estridente").
 

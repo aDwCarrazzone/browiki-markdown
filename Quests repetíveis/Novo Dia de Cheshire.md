@@ -16,14 +16,14 @@
 
 1. Aceite o pedido de Cheshire (bif\_fild01 335,168)
 
-   :   ![Cheshire01](../images/f/f9/Cheshire01.png)
+   :   ![Cheshire01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Cheshire01.png)
 2. Pegue a [Caixa de Bradium](http://www.divine-pride.net/database/item/6392/) na Pilha de Caixas (dic\_dun01 276,113)
 
-   :   ![Cheshire02](../images/2/26/Cheshire02.png)
+   :   ![Cheshire02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/Cheshire02.png)
 3. Retorne a Cheshire e entregue a [Caixa de Bradium](http://www.divine-pride.net/database/item/6392/) para receber sua recompensa.
    - Se perder a [Caixa de Bradium](http://www.divine-pride.net/database/item/6392/), você terá de entregar 20 [Bradiuns Purificados](http://www.divine-pride.net/database/item/6090/) para Cheshire.
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

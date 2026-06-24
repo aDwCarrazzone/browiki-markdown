@@ -16,7 +16,7 @@
 1. Para chegar em [Al De Baran](../Lugares%20em%20Ragnar%C3%B6k/Al%20De%20Baran.md "Al De Baran"), fale com os Anunciantes espalhados nas principais cidades.
 2. Participe do evento com a Produtora do Festival (aldebaran 174,164)
 
-   :   ![FloresNeve01](../images/b/b1/FloresNeve01.png)
+   :   ![FloresNeve01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/FloresNeve01.png)
 3. Entregue 10 [Flocos Mágicos de Neve](http://www.divine-pride.net/database/item/25425/) para a Produtora dom Festival.
    - Eles são adquiridos pelos [Siromas Natalinos](http://www.divine-pride.net/database/monster/20073/) espalhados nos mapas do jogo.
 4. Você deverá escolher 1 dos nomes abaixo para receber 1 Biscoito e o Efeito dele.
@@ -30,7 +30,7 @@
 
 1. Aproxime-se para falar com a Pessoa Idosa (aldebaran 163,127)
 
-   :   ![01SnowFest2025](../images/b/bc/01SnowFest2025.png)
+   :   ![01SnowFest2025](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/01SnowFest2025.png)
 2. Acalme Sparkle (aldebaran 159,128) e colete os seguintes itens:
    - ![516.png](http://static.divine-pride.net/images/items/item/516.png) 3 [Batata Doce](http://www.divine-pride.net/database/item/516/)
    - ![519.png](http://static.divine-pride.net/images/items/item/519.png) 3 [Leite](http://www.divine-pride.net/database/item/519/)

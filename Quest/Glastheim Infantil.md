@@ -15,19 +15,19 @@
 | **Chefe** | Nenhum |
 | **[Itens](../Itens/Itens.md "Itens")** | 6608.png [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) |
 
-[![MapaOGHa](../images/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
+[![MapaOGHa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
 
 Mapa-Chave da instância
 
 1. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Palhaço Estranho (glast\_01 196,235).
 
-   :   ![PaliassoEstranio1](../images/c/c5/PaliassoEstranio1.png)
+   :   ![PaliassoEstranio1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/PaliassoEstranio1.png)
 2. Encontre Varmunt.
 
-   :   ![OGH02](../images/3/32/OGH02.png)
+   :   ![OGH02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/OGH02.png)
 3. Reporte a situação para Henrich.
 
-   :   ![OGH03](../images/7/73/OGH03.png)
+   :   ![OGH03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/OGH03.png)
 4. Após a história terminar, vários [Pickys](http://www.divine-pride.net/database/monster/1049/) aparecerão. Você não precisa eliminá-los.
 5. Aguarde o final do diálogo e dirija-se à Área 1.
 
@@ -35,46 +35,46 @@ Mapa-Chave da instância
 6. Elimine cerca de 15 monstros. ([Zumbi](http://www.divine-pride.net/database/monster/1015/), [Carniçal](http://www.divine-pride.net/database/monster/1036/) e [Alma Penada](http://www.divine-pride.net/database/monster/1192/))
 7. Um aviso deve surgir e o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverá encontrar o Domun.
 
-   :   ![OGH04](../images/6/6a/OGH04.png)
+   :   ![OGH04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/OGH04.png)
 8. Dirija-se à Área 2.
 
    :   **Área 2**
 9. Cuidado ao se aproximar da área 2x2 células dos Corpos, eles invocarão [Arclouses](http://www.divine-pride.net/database/monster/2467/) com 10.000 de [HP](../Sem%20categoria/HP.md "HP").
 
-   :   ![OGH05](../images/f/fe/OGH05.png)
+   :   ![OGH05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/OGH05.png)
 10. Assim que eliminar 20 Zumbis e Carniçais, o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve falar com a Ferreira Hollgrehenn.
 
-    :   ![OGH06](../images/c/c7/OGH06.png)
+    :   ![OGH06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/OGH06.png)
 11. Dirija-se à Área 3.
 
     :   **Área 3**
 12. Elimine 20 monstros. ([Raydric](http://www.divine-pride.net/database/monster/1163/) e [Raydric Arqueiro](http://www.divine-pride.net/database/monster/1276/))
 13. Assim que surgir um aviso, aproxime-se de Himmelmez.
 
-    :   ![OGH07](../images/b/b6/OGH07.png)
+    :   ![OGH07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/OGH07.png)
 14. Após o diálogo, elimine o [Cavaleiro Sanguinário](http://www.divine-pride.net/database/monster/1268/).
 15. Todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão falar com Varmunt.
 
-    :   ![OGH08](../images/6/6c/OGH08.png)
+    :   ![OGH08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/OGH08.png)
 16. Dirija-se para o 2º andar.
 
     :   **2º Andar**
 17. Continue a história se aproximando de Henrich. Assim que o diálogo acabar, siga reto até encontrar um portal.
 
-    :   ![OGH09](../images/8/89/OGH09.png)
+    :   ![OGH09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/OGH09.png)
 18. Elimine todos os monstros até aparecer *um anúncio pedindo para mudar para a Área 2*.
     - Esse aviso tem 45% de chance de aparecer sempre que elimina um [Cavaleiro Sanguinário](http://www.divine-pride.net/database/monster/1268/).
     - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são: [Khalitzburg](http://www.divine-pride.net/database/monster/1132/), [Raydric](http://www.divine-pride.net/database/monster/1163/) e [Raydric Arqueiro](http://www.divine-pride.net/database/monster/1276/)
 19. Dirija-se para a próxima Área e repita o procedimento até o anúncio aparecer.
 20. Retorne ao corredor e entre no portal ao norte, siga reto até reencontrar Himmelmez.
 
-    :   ![OGH12a](../images/d/db/OGH12a.png)
+    :   ![OGH12a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/OGH12a.png)
 
     - Após diálogo, prepare-se para a batalha contra [Cavaleiro Desmorto](http://www.divine-pride.net/database/monster/2473/) com 10% de [HP](../Sem%20categoria/HP.md "HP")!
     - Durante a luta, Varmunt aparecerá no centro do mapa para ajudar seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
     - Sempre que se aproximar do Fantasma de Varmunt, você receberá um bônus aleatório, temporariamente:
 
-      :   ![OGH012a](../images/c/c1/OGH012a.png)
+      :   ![OGH012a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/OGH012a.png)
 
           :   **Estado Temporal**: Todos os atributos +20.
           :   **Poder Temporal**: [DEF](../Sem%20categoria/DEF.md "DEF") +200 e [DEFM](../Sem%20categoria/DEFM.md "DEFM") +50.
@@ -82,7 +82,7 @@ Mapa-Chave da instância
           :   **Cura Temporal**: Efetividade de cura +100% e Cura recebida +50%.
 21. Ao terminar a batalha, todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão falar com Hugin.
 
-    :   ![OGH13a](../images/0/09/OGH13a.png)
+    :   ![OGH13a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/OGH13a.png)
 
     - Fale com Hugin e diga que quer ficar.
     - Seu personagem será teleportado para a sala do tesouro.
@@ -90,7 +90,7 @@ Mapa-Chave da instância
     :   **Sala do Tesouro**
 22. Clique nas 7 Estátuas Estranhas.
 
-    :   ![OGH014](../images/5/5c/OGH014.png)
+    :   ![OGH014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/OGH014.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelas estátuas:
       - ![909.png](http://static.divine-pride.net/images/items/item/909.png) [Jellopy](http://www.divine-pride.net/database/item/909/)

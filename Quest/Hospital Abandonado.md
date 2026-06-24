@@ -17,12 +17,12 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Enfermeira (ma\_dun01 147,10)
 
-   :   ![Maenf11](../images/3/3c/Maenf11.png)
+   :   ![Maenf11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Maenf11.png)
 2. No segundo piso do hospital, derrotem a [Mangkukulam](http://www.divine-pride.net/database/monster/2339/) da entrada e, em seguida, eliminem os [Tiyanak](http://www.divine-pride.net/database/monster/2340/) e mais [Mangkukulans](http://www.divine-pride.net/database/monster/2339/) em cada quarto.
 3. Entre no portal no final do corredor e lute contra a [Bangungot](http://www.divine-pride.net/database/monster/2317/).
 4. A cada 1 minuto, a [Bangungot](http://www.divine-pride.net/database/monster/2317/) se protege por uma bola dourada.
 
-   :   ![Hospitalabandonado1](../images/c/cb/Hospitalabandonado1.png)
+   :   ![Hospitalabandonado1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Hospitalabandonado1.png)
 
    - Quando isso acontecer, não adianta atacá-la, sigam para o quarto onde um paciente está sofrendo ataques.
    - Eliminem os monstros que perturbam o paciente para voltar a sala de [Bangungot](http://www.divine-pride.net/database/monster/2317/).
@@ -30,7 +30,7 @@
    - Quanto mais rápido seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") derrotar os monstros, menos [Mananaggal](http://www.divine-pride.net/database/monster/2338/) nascerá na sala da [Bangungot](http://www.divine-pride.net/database/monster/2317/) e menos [HP](../Sem%20categoria/HP.md "HP") ela conseguirá recuperar.
 5. Ao derrotá-la, um [Pilar dos Espíritos](http://www.divine-pride.net/database/monster/2327/) aparece no centro da sala.
 
-   :   ![Hospitalabandonado2](../images/1/15/Hospitalabandonado2.png)
+   :   ![Hospitalabandonado2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Hospitalabandonado2.png)
 
    - Seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") precisa destruí-lo em menos de 30 segundos, do contrário, a [Bangungot](http://www.divine-pride.net/database/monster/2317/) renasce com o [HP](../Sem%20categoria/HP.md "HP") completamente restaurado.
    - O [Pilar dos Espíritos](http://www.divine-pride.net/database/monster/2327/) recebe apenas 1 de dano.

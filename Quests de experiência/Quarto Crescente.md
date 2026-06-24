@@ -18,13 +18,13 @@
 
 1. Seu personagem poderá receber uma mensagem via [RODEX](../Sem%20categoria/RODEX.md "RODEX") de Niren, mas independente de ter recebido ou não, você pode iniciar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Suma Sacerdotisa Niren (rachel 175,138)
 
-   :   ![EddaA01](../images/7/78/EddaA01.png)
+   :   ![EddaA01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/EddaA01.png)
 2. Entre na instância pelo Portal dos Sonhos, logo atrás da Niren.
 
-   :   ![EddaA02](../images/4/45/EddaA02.png)
+   :   ![EddaA02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/EddaA02.png)
 3. Fale com a Papisa em Sessrumnir e siga adiante, aproximando-se dela até encontrá-la perto do trono papal.
 
-   :   ![EddaA03](../images/b/b8/EddaA03.png)
+   :   ![EddaA03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/EddaA03.png)
 4. Após um longo diálogo, prepare-se para enfrentar os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
    - Personagens de nível 80 ou mais enfrentarão [Guardas](http://www.divine-pride.net/database/monster/3510/), [Crentes Agressivas](http://www.divine-pride.net/database/monster/3511/) e [Crentes Agressivos](http://www.divine-pride.net/database/monster/3512/).
    - Personagens de nível 130 ou mais enfrentarão [Guardas](http://www.divine-pride.net/database/monster/3518/), [Crentes Agressivas](http://www.divine-pride.net/database/monster/3519/) e [Crentes Agressivos](http://www.divine-pride.net/database/monster/3520/).
@@ -32,16 +32,16 @@
    - Haverá uma pequena chance de aparecer um Feixo de Luz Branca no centro do mapa, clique nele para conseguir uma [Bonequinha de Pelúcia](http://www.divine-pride.net/database/item/25087/). Se esse feixo de luz não aparecer, prossiga com a instância normalmente.
 5. Ao derrotá-lo, siga para baixo, descendo as escadarias até encontrar Loomin e a Papisa.
 
-   :   ![EddaA05](../images/e/e2/EddaA05.png)
+   :   ![EddaA05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/EddaA05.png)
 6. Nessa fase, siga conversando com Loomin e Papisa e enfrentando as hordas de monstros.
 
-   :   ![EddaA06](../images/5/58/EddaA06.png)
+   :   ![EddaA06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/EddaA06.png)
 7. Continue acompanhando a Papisa pela cidade. Não há monstros nessa etapa.
 
-   :   ![EddaA07](../images/1/14/EddaA07.png)
+   :   ![EddaA07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/EddaA07.png)
 8. Assim que Niren e Zhed aparecerem, prepare-se para as batalhas!
 
-   :   ![EddaA08](../images/3/34/EddaA08.png)
+   :   ![EddaA08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/EddaA08.png)
 
    - Junto com os Guardas e Crentes, também aparece [Cachorro](http://www.divine-pride.net/database/monster/3513/) (80+) ou [Cachorro](http://www.divine-pride.net/database/monster/3521/) (130+).
    - No ponto 3, o Sacerdote Violento aparecerá novamente.
@@ -49,14 +49,14 @@
    - Entre no portal abaixo do ponto 4.
 9. Nos jardins sagrados, fale com a Papisa e prossiga o diálogo.
 
-   :   ![EddaA09](../images/f/fc/EddaA09.png)
+   :   ![EddaA09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/EddaA09.png)
 
    - Você enfrentará [Loomin](http://www.divine-pride.net/database/monster/3516/) (80+) ou [Loomin](http://www.divine-pride.net/database/monster/3524/) (130+).
    - Se seu nível for 80 a 129, a instância se encerra por aqui, basta sair pelo portal do mapa.
    - Se seu nível for 130 ou maior, você enfrentará o [Espectro de Ktullanux](http://www.divine-pride.net/database/monster/3526/).
    - Haverá uma pequena chance de aparecer um Feixo de Luz Branca, clique nele para conseguir uma [Bonequinha de Pelúcia](http://www.divine-pride.net/database/item/25087/).
 
-     :   ![EddaA10](../images/b/b8/EddaA10.png)
+     :   ![EddaA10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/EddaA10.png)
 10. Termine a instância entregando a [Bonequinha de Pelúcia](http://www.divine-pride.net/database/item/25087/) à papisa para receber [EXP](../Sem%20categoria/EXP.md "EXP").
     - **Nv. 99 a 100:** 50.000 de base e 2.500 de classe.
     - **Nv. 101 a 130:** 100.000 de base e 100.000 de classe.
@@ -70,7 +70,7 @@
 
 1. A Cientista é a encarregada de adicionar [encantamentos](../Sem%20categoria/Encantamentos.md "Encantamentos") no [Colar da Papisa](http://www.divine-pride.net/database/item/28387/).
 
-   :   ![EddaA00](../images/0/01/EddaA00.png)
+   :   ![EddaA00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/EddaA00.png)
 
    - Você poderá escolher o encanto do acessório ao custo de ![25088.png](http://static.divine-pride.net/images/items/item/25088.png) 100 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).
    - Após a escolha, você ainda pode fortalecer o encanto para o nível 2 ao custo de ![25088.png](http://static.divine-pride.net/images/items/item/25088.png) 1.000 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).

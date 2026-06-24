@@ -48,11 +48,11 @@ Após o ataque, o usuário entra em estado de [*Fervor Espiritual*].
 
 ### Fervor Espiritual
 
-- **Ícone:** ![I Punho Labareda](../images/8/85/I_Punho_Labareda.png)
+- **Ícone:** ![I Punho Labareda](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/I_Punho_Labareda.png)
 - **Duração**: 300 segundos
 - Ao usar as seguintes habilidades, não haverá consumo de Esperas Espirituais:
-  - [![Explosão Espiritual](../images/e/e6/Explos%C3%A3o_Espiritual.png)](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual")
-  - [![Tempestade Espiritual](../images/d/db/Tempestade_Espiritual.png)](Tempestade%20Espiritual.md "Tempestade Espiritual") [Tempestade Espiritual](Tempestade%20Espiritual.md "Tempestade Espiritual")
+  - [![Explosão Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Explos%C3%A3o_Espiritual.png)](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual")
+  - [![Tempestade Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Tempestade_Espiritual.png)](Tempestade%20Espiritual.md "Tempestade Espiritual") [Tempestade Espiritual](Tempestade%20Espiritual.md "Tempestade Espiritual")
 - O estado não pode ser cancelado por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").
 
 ### Fórmula

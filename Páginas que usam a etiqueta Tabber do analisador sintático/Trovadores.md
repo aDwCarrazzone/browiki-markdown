@@ -51,7 +51,7 @@ Forme uma dupla e libere todo o potencial da sua música!
 
 ### Árvore de habilidades
 
-![SkilltreeTrovadoresA](../images/f/f5/SkilltreeTrovadoresA.png)
+![SkilltreeTrovadoresA](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/SkilltreeTrovadoresA.png)
 
 ## Construção do Personagem
 

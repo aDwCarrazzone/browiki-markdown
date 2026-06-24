@@ -15,7 +15,7 @@
 
 1. Aproxime-se do Vidente (geffen 110,104)
 
-   :   ![TesouroDiarioNPC](../images/0/08/TesouroDiarioNPC.png)
+   :   ![TesouroDiarioNPC](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/TesouroDiarioNPC.png)
 2. Esse [NPC](../Sem%20categoria/NPC.md "NPC") se comunica apenas por aproximação. Ele pedirá zeny duas vezes para você.
    - A quantidade de zeny pedida varia de acordo com a seguinte fórmula:
      - `x < [(Aleatório entre 10.000 e 12.500) × 100]`

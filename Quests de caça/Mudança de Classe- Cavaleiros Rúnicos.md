@@ -17,19 +17,19 @@
 
 1. Tome uma bebida com o Cavaleiro Esplêndido (prt\_in01 162,24)
 
-   :   ![Qrunico1](../images/d/dd/Qrunico1.png)
+   :   ![Qrunico1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Qrunico1.png)
 2. Encontre o Guia Jungberg (glast\_01 44,363)
 
-   :   ![Qrunico2](../images/f/fc/Qrunico2.png)
+   :   ![Qrunico2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Qrunico2.png)
 3. Dirija-se ao 2º andar da Cavalaria de Glastheim e localize o Cavaleiro Rúnico (gl\_knt02 150,55). Ele enviará você para a Guilda dos Cavaleiros Rúnicos.
 
-   :   ![Qrunico3](../images/b/b0/Qrunico3.png)
+   :   ![Qrunico3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Qrunico3.png)
 4. Inicie o teste de batalha com o Cavaleiro Rúnico Chefe (job3\_rune01 80,60)
 
-   :   ![Qrunico4](../images/0/02/Qrunico4.png)
+   :   ![Qrunico4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Qrunico4.png)
 5. Entre na arena pela Cavaleira Rúnica Lunarea (job3\_rune01 90,50)
 
-   :   ![Qrunico5](../images/6/60/Qrunico5.png)
+   :   ![Qrunico5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Qrunico5.png)
 
    - Se houver outros personagens fazendo o teste, você deve aguardar pelo menos 10 minutos.
    - Atualmente, basta falar com o [NPC](../Sem%20categoria/NPC.md "NPC") uma vez para completar esta etapa.
@@ -40,21 +40,21 @@
 7. Volte a falar com o Cavaleiro Rúnico Chefe.
 8. Converse com a Cavaleira Rúnica Renoa (job3\_rune01 40,53)
 
-   :   ![Qrunico6](../images/9/9d/Qrunico6.png)
+   :   ![Qrunico6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Qrunico6.png)
 9. Leia o livro Runas e Cavaleiros (finalize com "Parar de Ler o Livro") (job3\_rune01 43,43)
 
-   :   ![Qrunico7](../images/a/ac/Qrunico7.png)
+   :   ![Qrunico7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/Qrunico7.png)
 10. Leia o livro Princípio das Runas (finalize com "Parar de Ler o Livro") (job3\_rune01 49,38)
 
-    :   ![Qrunico7a](../images/a/a4/Qrunico7a.png)
+    :   ![Qrunico7a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/Qrunico7a.png)
 11. Leia o livro Runas (finalize com "Parar de Ler o Livro") (job3\_rune01 55,50)
 
-    :   ![Qrunico7b](../images/4/41/Qrunico7b.png)
+    :   ![Qrunico7b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Qrunico7b.png)
 12. Retorne a Cavaleira Rúnica Renoa.
     - Fale com ela mais de uma vez para que ela te teleporte ao [Novo Mundo](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum").
 13. Encontre o Sábio Serpeone (mid\_camp 235,249)
 
-    :   ![Qrunico8](../images/0/01/Qrunico8.png)
+    :   ![Qrunico8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Qrunico8.png)
 
     - Derrote 10 [Dullahan](http://www.divine-pride.net/database/monster/1504/), 10 [Mascarado](http://www.divine-pride.net/database/monster/1506/), 10 [Quves](http://www.divine-pride.net/database/monster/1508/) e 10 [Poltergeist](http://www.divine-pride.net/database/monster/1510/).
     - Retorne ao Sábio usando o [NPC](../Sem%20categoria/NPC.md "NPC") da missão [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo").
@@ -62,7 +62,7 @@
 14. Inicie um novo teste com a Cavaleira Rúnica Renoa.
 15. Clique na Fornalha de Runas (job3\_rune01 58,51)
 
-    :   ![Qrunico9](../images/f/f8/Qrunico9.png)
+    :   ![Qrunico9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/Qrunico9.png)
 
     1. Usar a fornalha de aquecimento de runa.
     2. Observe a descrição da runa no diálogo.
@@ -80,7 +80,7 @@
 :   17. Volte a falar com o Cavaleiro Rúnico Chefe.
 :   18. Inicie o teste com o Cavaleiro Rúnico Velpino (job3\_rune01 114,50)
 
-    :   ![Qrunico10](../images/1/12/Qrunico10.png)
+    :   ![Qrunico10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Qrunico10.png)
 
         - Seu objetivo é usar runas para eliminar 1 [Tirfing](http://www.divine-pride.net/database/monster/1204/), 1 [Executora](http://www.divine-pride.net/database/monster/1205/) e 1 [Mysteltainn](http://www.divine-pride.net/database/monster/1203/).
         - Velpino dará 60 runas: 30 runas para ataque e 30 runas para defesa.

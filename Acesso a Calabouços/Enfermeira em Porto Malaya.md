@@ -18,7 +18,7 @@
 
 1. Converse com a Enfermeira (malaya 55,72)
 
-   :   ![Maenf1](../images/6/63/Maenf1.png)
+   :   ![Maenf1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Maenf1.png)
 
    - Selecione:
      - *Sim*
@@ -29,15 +29,15 @@
    - Continue falando com a Enfermeira.
 2. Clique na Porta do Hospital (malaya 48,76)
 
-   :   ![Maenf2](../images/b/b7/Maenf2.png)
+   :   ![Maenf2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Maenf2.png)
 3. Fale com a Enfermeira novamente.
 4. Converse com a Aldeã (malaya 64,78)
 
-   :   ![Maenf3](../images/0/04/Maenf3.png)
+   :   ![Maenf3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Maenf3.png)
 5. Retorne a Enfermeira.
 6. Fale com o Aldeão (malaya 62,37)
 
-   :   ![Maenf4](../images/7/78/Maenf4.png)
+   :   ![Maenf4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Maenf4.png)
 7. Reencontre a Enfermeira.
 8. Converse com a Aldeã (malaya 64,78) novamente.
 9. Retorne a Enfermeira.
@@ -45,7 +45,7 @@
 11. Reencontre a Enfermeira.
 12. Diga "*Não*" ao Dr. Boon (malaya 210,200)
 
-    :   ![Maenf5](../images/d/db/Maenf5.png)
+    :   ![Maenf5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Maenf5.png)
 13. Reencontre a Enfermeira.
 14. Clique na Porta do Hospital novamente.
 15. Fale com a Enfermeira até ouvir uma voz dos arbustos.
@@ -53,30 +53,30 @@
       - *Sobre minha mãe*
 16. Pergunte sobre a Velhinha ao Arbusto (malaya 53,68)
 
-    :   ![Maenf6](../images/f/fa/Maenf6.png)
+    :   ![Maenf6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Maenf6.png)
 17. Puxe as Varetas Suspeitas ao redor do hospital até a mensagem mudar e fale com a Enfermeira. Você ganhará [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) nesse passo.
 
-    :   ![Maenf7](../images/c/cb/Maenf7.png)
+    :   ![Maenf7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Maenf7.png)
 18. Fale com a Enfermeira.
 19. Pergunte sobre o hospital para a Velhinha Corcunda, fale mais de uma vez com ela. (malaya 114,183).
 
-    :   ![Maenf8](../images/1/18/Maenf8.png)
+    :   ![Maenf8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Maenf8.png)
 20. Ao voltar para a Enfermeira, ela te manda para o [Hospital Bangungot](http://www.divine-pride.net/database/map/ma_dun01/).
 21. Fale com a Enfermeira (ma\_dun01 35,108)
 
-    :   ![Maenf9](../images/1/1a/Maenf9.png)
+    :   ![Maenf9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Maenf9.png)
 22. Procure pela Vareta Suspeita (ma\_dun01 152,23)
 
-    :   ![Maenf10](../images/7/71/Maenf10.png)
+    :   ![Maenf10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Maenf10.png)
 23. Atrás da Vareta, está outra Enfermeira (ma\_dun01 147,10)
 
-    :   ![Maenf11](../images/3/3c/Maenf11.png)
+    :   ![Maenf11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Maenf11.png)
 24. Saia do lugar com a Enfermeira na entrada do [hospital](http://www.divine-pride.net/database/map/ma_dun01/), selecionando "*Ir para fora*".
 25. Fale com a Enfermeira em [Porto Malaya](../Lugares%20em%20Ragnar%C3%B6k/Porto%20Malaya.md "Porto Malaya").
 26. Reencontre a Velhinha Corcunda.
 27. Procure pela Xamã Corcunda (malaya 276,367)
 
-    :   ![Maenf12](../images/4/4b/Maenf12.png)
+    :   ![Maenf12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Maenf12.png)
 28. Volte para a Enfermeira em [Porto Malaya](../Lugares%20em%20Ragnar%C3%B6k/Porto%20Malaya.md "Porto Malaya") e entre no [hospital](http://www.divine-pride.net/database/map/ma_dun01/) em seguida.
 29. Clique na Vareta Suspeita dentro do calabouço.
 30. Converse com a Enfermeira na frente do hospital para receber sua recompensa.

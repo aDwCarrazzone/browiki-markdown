@@ -2,7 +2,7 @@
 
 # Homunculus
 
-![Homuninfo](../images/8/82/Homuninfo.png)
+![Homuninfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Homuninfo.png)
 
 Homunculus são companheiros criados por [alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") e evoluções para ajudar o mestre nas batalhas.
 
@@ -16,7 +16,7 @@ Homunculus ganham 10% de toda a [EXP](../Sem%20categoria/EXP.md "EXP") de base e
 
 Quando atingirem o nível máximo, eles não irão mais receber 10% dessa [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 
-![JanelaHomunculus](../images/0/01/JanelaHomunculus.png)
+![JanelaHomunculus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/JanelaHomunculus.png)
 
 - Homunculus duram apenas 30 minutos, após esse tempo, eles são automaticamente vaporizados.
 - Homunculus podem ser deletados para sempre na janela de informações de homunculus (*ALT + R*).
@@ -122,13 +122,13 @@ Caso opte por baixar e instalar uma A.I. personalizada, é necessário instalar 
 
 1. Clique com o botão direito do mouse em cima do ícone do jogo e selecione *Abrir local do arquivo*.
 
-   :   ![Ai1](../images/1/10/Ai1.jpg)
+   :   ![Ai1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Ai1.jpg)
 2. Procure pela pasta A.I., dentro dela, crie uma nova pasta com o nome **USER\_AI**.
 
-   :   ![Ai2](../images/3/37/Ai2.jpg)
+   :   ![Ai2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Ai2.jpg)
 3. Na USER\_AI, você instalará apenas *uma* A.I. personalizada.
 
-   :   ![Ai3](../images/0/0f/Ai3.jpg)
+   :   ![Ai3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Ai3.jpg)
 4. Conecte-se no jogo após a instalação:
    1. Digite `/hoai`
    2. A mensagem "*Homunculus controlado pelo Jogador*" deve aparecer.

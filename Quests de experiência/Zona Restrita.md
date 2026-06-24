@@ -18,11 +18,11 @@
 
 1. Aproxime-se das coordenadas (ba\_maison 120,321).
 
-   :   ![Zona Restrita01](../images/e/e0/Zona_Restrita01.png)
+   :   ![Zona Restrita01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Zona_Restrita01.png)
 2. Fale com a Gerente da Zona Restrita e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 3. Lá dentro, clique na Autômata e selecione *Tocar a tela*, *Me encontrei com Varmunt* e *Aceito ser Gerente temporário*.
 
-   :   ![Zona Restrita02](../images/b/b5/Zona_Restrita02.png)
+   :   ![Zona Restrita02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Zona_Restrita02.png)
 4. Siga a Autômata e continue conversando sempre que necessário.
    - É possível escolher um nome personalizado para a autômata.
    - Você avaliará a horta, então pode selecionar qualquer opção que surgir.
@@ -31,7 +31,7 @@
    - Quando surgir, pergunte sobre a Área de Segurança e como entrar nela.
 5. Na Zona Restrita, siga a conversa para entender a história de Sigma, Kappa e Lambda.
 
-   :   ![ZonaRestrita03](../images/4/45/ZonaRestrita03.png)
+   :   ![ZonaRestrita03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/ZonaRestrita03.png)
 
    - Essa [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") é apenas feita uma única vez.
    - Você receberá a sua recompensa e libera o acesso ao [Jardim Secreto](../Quest/Jardim%20Secreto.md "Jardim Secreto").

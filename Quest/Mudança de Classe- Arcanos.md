@@ -15,7 +15,7 @@
 
 1. Aproxime-se das coordenadas (morocc 95,132)
 
-   :   ![MdCarc1](../images/5/5c/MdCarc1.png)
+   :   ![MdCarc1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/MdCarc1.png)
 
    - Responda:
      - Procurar pela área
@@ -23,10 +23,10 @@
    - Seu personagem será enviado para um Yai.
 2. Fale com a Mestre da Guilda.
 
-   :   ![MdCarc2](../images/3/33/MdCarc2.png)
+   :   ![MdCarc2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/MdCarc2.png)
 3. Para sua primeira missão, fale com a Assistente.
 
-   :   ![MdCarc3](../images/2/28/MdCarc3.png)
+   :   ![MdCarc3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/MdCarc3.png)
 
    - Você receberá 2 [Rochas Mágicas](http://www.divine-pride.net/database/item/2796/) para equipar como acessório.
    - O objetivo é coletar 1 [Cristal Brilhante](http://www.divine-pride.net/database/item/6152/) das [Nagas](http://www.divine-pride.net/database/monster/2047/) e 1 [Pedaço de Bradium](http://www.divine-pride.net/database/item/6151/) dos [Golens de Bradium](http://www.divine-pride.net/database/monster/2049/).
@@ -35,17 +35,17 @@
    - Tenha cuidado com as [Vespas Vagalumes](http://www.divine-pride.net/database/monster/1994/) elas são agressivas com personagens abaixo do nível 105.
 4. Para sair do Yai, basta falar com a Assistente.
 
-   :   ![MdCarc4](../images/c/c3/MdCarc4.png)
+   :   ![MdCarc4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/MdCarc4.png)
 5. Desequipe as Rochas Mágicas e entregue todos os itens para Yoop (splendide 119,322)
 
-   :   ![MdCarc5](../images/1/1f/MdCarc5.png)
+   :   ![MdCarc5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/MdCarc5.png)
 6. Entre na Guilda dos Arcanos proximando-se das coordenadas (splendide 140,284)
 
-   :   ![MdCarc6](../images/f/f7/MdCarc6.png)
+   :   ![MdCarc6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/MdCarc6.png)
 7. Converse com a Mestre da Guilda.
 8. Receba 20 [Rubis Arco-Íris](http://www.divine-pride.net/database/item/12387/) da Assistente para iniciar o teste prático.
 
-   :   ![MdCarc7](../images/3/3b/MdCarc7.png)
+   :   ![MdCarc7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/MdCarc7.png)
 
    - Cada 5 [Rubis Arco-Íris](http://www.divine-pride.net/database/item/12387/) conjuram uma magia diferente, em ordem recebida pela [NPC](../Sem%20categoria/NPC.md "NPC"): [Zero Absoluto](../Ofensiva/Zero%20Absoluto.md "Zero Absoluto"), [Corrente Elétrica](../Ofensiva/Corrente%20El%C3%A9trica.md "Corrente Elétrica"), [Abalo Sísmico](../Ofensiva/Abalo%20S%C3%ADsmico.md "Abalo Sísmico") e [Meteoro Escarlate](../Ofensiva/Meteoro%20Escarlate.md "Meteoro Escarlate").
    - Traga o máximo possível de poções e outros consumíveis como [Poção Infinita](http://www.divine-pride.net/database/item/100333/) e [Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) (adquiríveis através do [Logue e Ganhe](Logue%20e%20Ganhe.md "Logue e Ganhe")).  
@@ -60,7 +60,7 @@
    - Caso tenha falhado no teste, retorne com a Assistente novamente.
 9. Reporte a situação para a Assistente.
 
-   :   ![MdCarc7](../images/3/3b/MdCarc7.png)
+   :   ![MdCarc7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/MdCarc7.png)
 10. Converse com a Mestre da Guilda para mudar de classe e receber 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e 1 [Mistério da Magia](http://www.divine-pride.net/database/item/5753/) [1].
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.

@@ -15,17 +15,17 @@
 
 1. Fale com Kurupe (hugel 57,104)
 
-   :   ![Vacabubu01](../images/f/f2/Vacabubu01.png)
+   :   ![Vacabubu01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Vacabubu01.png)
 2. Com o [Florete](http://www.divine-pride.net/database/item/1110/) no inventário, encontre Burupu (hu\_fild06 217,270)
 
-   :   ![Vacabubu02](../images/5/56/Vacabubu02.png)
+   :   ![Vacabubu02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Vacabubu02.png)
 3. Leia as Instruções de Burupu (hugel 72,101)
 
-   :   ![Vacabubu03](../images/7/70/Vacabubu03.png)
+   :   ![Vacabubu03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Vacabubu03.png)
 4. Fale com Kurupe.
 5. Agora você pode ordenhar a Vaca Bubu (hugel 68,99)
 
-   :   ![Vacabubu04](../images/e/ea/Vacabubu04.png)
+   :   ![Vacabubu04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Vacabubu04.png)
 
    - Cada vez que ordenhar a Vaca Bubu, 3 [Poções da Concentração](http://www.divine-pride.net/database/item/645/) serão consumidas. Você deve trazer muitas poções para casos de falha.
    - Essa etapa exige que você conheça as [BGM](../Sem%20categoria/BGM.md "BGM")'s do jogo. A [NPC](../Sem%20categoria/NPC.md "NPC") informará seu humor através de um trecho das músicas, portanto, é necessário estar com os efeitos sonoros ligados.

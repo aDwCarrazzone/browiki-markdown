@@ -18,15 +18,15 @@
 
 1. Fale com Luynan (ba\_maison 311,206)
 
-   :   ![EstufadePitaya01](../images/6/6a/EstufadePitaya01.png)
+   :   ![EstufadePitaya01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/EstufadePitaya01.png)
 2. Elimine as Pitayas que aparecem após Silka se esconder nas caixas.
 
-   :   ![EstufadePitaya02](../images/b/bf/EstufadePitaya02.png)
+   :   ![EstufadePitaya02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/EstufadePitaya02.png)
 
    - Monstros: [Pitaya Azul](http://www.divine-pride.net/database/monster/20662/), [Pitaya Amarela](http://www.divine-pride.net/database/monster/20661/), [Pitaya Verde](http://www.divine-pride.net/database/monster/20664/), [Pitaya Vermelha](http://www.divine-pride.net/database/monster/20660/) e [Pitaya Roxa](http://www.divine-pride.net/database/monster/20663/).
 3. Após algumas batalhas, Silka marcará no mapa 2 caminhos para subir até as roseiras (tanto faz a escolha).
 
-   :   ![EstufadePitaya03](../images/5/53/EstufadePitaya03.png)
+   :   ![EstufadePitaya03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/EstufadePitaya03.png)
 
    - Clique na Caixa de Madeira para invocar a [Árvore de Pitaya](http://www.divine-pride.net/database/monster/20659/).
    - Durante a batalha, alguns Pitayas com apelidos de bichinhos de estimação devem surgir para atrapalhar.

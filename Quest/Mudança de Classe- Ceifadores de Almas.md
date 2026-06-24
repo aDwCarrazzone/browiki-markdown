@@ -15,41 +15,41 @@
 
 1. Sua jornada inicia na Floresta de [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon"), aproximando-se das coordenadas (pay\_fild08 51,82)
 
-   :   ![ClassChangeSR01](../images/c/cd/ClassChangeSR01.png)
+   :   ![ClassChangeSR01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/ClassChangeSR01.png)
 
    - Fale com Banyak e selecione:
      - *Como assim, dinheiro?*
      - *Qual é o problema?*
 2. Aproxime-se da Pousada para falar com Banyak (payon 190,93)
 
-   :   ![ClassChangeSR02](../images/c/c2/ClassChangeSR02.png)
+   :   ![ClassChangeSR02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/ClassChangeSR02.png)
 3. Após a conversa, uma Garotinha deve aparecer ao lado, fale com ela.
 
-   :   ![ClassChangeSR03](../images/0/03/ClassChangeSR03.png)
+   :   ![ClassChangeSR03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/ClassChangeSR03.png)
 
    - A [NPC](../Sem%20categoria/NPC.md "NPC") vira um Gato chamado Munchkin, converse com ele para ativar a navegação.
 4. Aproxime-se das coordenadas (pay\_fild08 53,128) para Munchkin aparecer, clique na Bolsa Enterrada.
 
-   :   ![ClassChangeSR04](../images/5/5c/ClassChangeSR04.png)
+   :   ![ClassChangeSR04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/ClassChangeSR04.png)
 
    - Após a animação, você pode falar com Munchkin para entender a história.
 5. Retorne a Banyak na Pousada (payon 190,93)
    - A Garotinha deve aparecer novamente, converse com ela.
 6. Assim que a cinemática acabar, aproxime-se das coordenadas (payon 241,294) para Banyak aparecer.
 
-   :   ![ClassChangeSR05](../images/8/8a/ClassChangeSR05.png)
+   :   ![ClassChangeSR05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/ClassChangeSR05.png)
 
    - Aceite ajudá-la para Munchkin aparecer, fale com o gato para ativar a navegação.
    - Sua missão é coletar 44 [Nove-Caudas](http://www.divine-pride.net/database/item/1022/), mas mesmo que já as tenha no inventário, você ainda precisará seguir até o local que Munchkin sinaliza.
 7. Siga até o Vilarejo Abandonado da Caverna de Payon e fale com Munchkin (pay\_dun04 120,116)
 
-   :   ![ClassChangeSR06](../images/0/09/ClassChangeSR06.png)
+   :   ![ClassChangeSR06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/ClassChangeSR06.png)
 8. Retorne à Banyak (payon 241,294)
    - Crie um [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") para abrir o portal da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") do Limbo.
    - Quando chegar sua vez na fila de espera, fale com Banyak novamente e escolha "*Atravessar o portal*".
 9. Dentro do Limbo, prepare-se para a batalha!
 
-   :   ![ClassChangeSR07](../images/9/9d/ClassChangeSR07.png)
+   :   ![ClassChangeSR07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/ClassChangeSR07.png)
 
    1. Alguns monstros aparecerão para te atacar: [Astaroth I](http://www.divine-pride.net/database/monster/1423/), [Astaroth II](http://www.divine-pride.net/database/monster/1472/), [Furcas](http://www.divine-pride.net/database/monster/1471/), [Paimon](http://www.divine-pride.net/database/monster/1564/), [Orobas](http://www.divine-pride.net/database/monster/1490/), [Asmodeus](http://www.divine-pride.net/database/monster/1420/) e [Murmur](http://www.divine-pride.net/database/monster/1566/).
    2. Você precisa eliminá-los para prosseguir.
@@ -58,7 +58,7 @@
    5. Durante o teste a Alma de Soha surgirá e irá lhe curar ao se aproximar dela.
    6. Após a batalha, Soha aparecerá, fale com ele para finalizar a instância.
 
-      :   ![ClassChangeSR08](../images/1/1d/ClassChangeSR08.png)
+      :   ![ClassChangeSR08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1d/ClassChangeSR08.png)
 10. Assim que retornar ao mundo material, mude de classe falando com Banyak (payon 241,294).
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.

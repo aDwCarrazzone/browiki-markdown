@@ -2,7 +2,7 @@
 
 # Glastheim
 
-[![Artwork Glast Heim](../images/7/75/Artwork_Glast_Heim.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Glast_Heim.png)
+[![Artwork Glast Heim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Artwork_Glast_Heim.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Glast_Heim.png)
 
 A Capital Amaldiçoada
 

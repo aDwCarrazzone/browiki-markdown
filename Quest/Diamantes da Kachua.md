@@ -14,10 +14,10 @@
 
 1. Você pode trocar 1 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/) por 1 equipamento aleatório com a Kachua (comodo 219,158)
 
-   :   ![KachuaDiamond](../images/b/b4/KachuaDiamond.png)
+   :   ![KachuaDiamond](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/KachuaDiamond.png)
 2. Os diamantes podem ser comprados a 55.000 zenys com a Ferreira (mjolnir\_02 85,362)
 
-   :   ![DwayneDiamond](../images/a/a0/DwayneDiamond.png)
+   :   ![DwayneDiamond](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/DwayneDiamond.png)
 3. Kachua fornece 1 equipamento aleatório de acordo com a categoria escolhida.
    - Normalmente, Kachua fornece todos os equipamentos disponíveis gratuitamente no jogo.
    - Independente da categoria, você pode ganhar o prêmio principal.

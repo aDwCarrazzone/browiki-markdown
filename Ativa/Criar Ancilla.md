@@ -25,7 +25,7 @@ Pelos próximos 60 segundos, garante:
 
 - Efetividade de cura +15%.
 - Regeneração natural de [SP](../Sem%20categoria/SP.md "SP") +30%.
-- [![Adoramus](../images/4/4f/Adoramus.png)](../Ofensiva/Adoramus.md "Adoramus") [Adoramus](../Ofensiva/Adoramus.md "Adoramus") tem a propriedade alterada para [Neutro](../Sem%20categoria/Neutro.md "Neutro").
+- [![Adoramus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Adoramus.png)](../Ofensiva/Adoramus.md "Adoramus") [Adoramus](../Ofensiva/Adoramus.md "Adoramus") tem a propriedade alterada para [Neutro](../Sem%20categoria/Neutro.md "Neutro").
 
 ## Notas
 

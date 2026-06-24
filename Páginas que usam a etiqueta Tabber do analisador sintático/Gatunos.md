@@ -54,7 +54,7 @@ Para começar sua jornada em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeGatunos](../images/d/d2/SkilltreeGatunos.png)
+![SkilltreeGatunos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/SkilltreeGatunos.png)
 
 ### Velocidade de ataque
 

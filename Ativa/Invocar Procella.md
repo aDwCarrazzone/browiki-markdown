@@ -32,7 +32,7 @@ Enquanto estiver ativo, fornece bônus independente do nível de [Domínio Eleme
 ### Bônus
 
 - Dano mágico de propriedade [Vento](../Sem%20categoria/Vento.md "Vento") +10%.
-- Aumenta o dano base de [![Tormenta](../images/9/92/Tormenta.png)](../Ofensiva/Tormenta.md "Tormenta") [Tormenta](../Ofensiva/Tormenta.md "Tormenta")
+- Aumenta o dano base de [![Tormenta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/Tormenta.png)](../Ofensiva/Tormenta.md "Tormenta") [Tormenta](../Ofensiva/Tormenta.md "Tormenta")
 
 ### Status do Elemental
 

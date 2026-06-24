@@ -17,10 +17,10 @@ A arena consiste em um trajeto a ser percorrido enfrentando [monstros](../Inform
 
 1. Para trocar os Pontos da Arena, dirija-se ao Teleportador e fale com Givu.
 
-   :   ![ArenaTele](../images/0/09/ArenaTele.png) ![ArenaGivu](../images/0/0e/ArenaGivu.png)
+   :   ![ArenaTele](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/ArenaTele.png) ![ArenaGivu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/ArenaGivu.png)
 2. Você pode trocar Pontos do [Turbo Track](Turbo%20Track.md "Turbo Track") por Pontos de Arena com o Encarregado da Arena (prt\_are\_in 103,11)
 
-   :   ![ArenaEncarregado](../images/4/43/ArenaEncarregado.png)
+   :   ![ArenaEncarregado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/ArenaEncarregado.png)
 
 | Pontos | Premiação |
 | --- | --- |
@@ -39,7 +39,7 @@ A arena consiste em um trajeto a ser percorrido enfrentando [monstros](../Inform
 
 ## Modalidades
 
-:   ![ArenaGrupo](../images/6/62/ArenaGrupo.png)
+:   ![ArenaGrupo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/ArenaGrupo.png)
 
 - Dentro da Arena, dirija-se para uma das salas nos extremos do mapa.
 - O percurso inicia entrando no chat do Recrutador daquela modalidade.

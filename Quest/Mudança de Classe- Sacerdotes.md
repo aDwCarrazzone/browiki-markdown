@@ -15,31 +15,31 @@
 
 1. Inicie a jornada com o Bispo Tomas (prt\_church 16,41)
 
-   :   ![MdCscr01](../images/d/d4/MdCscr01.png)
+   :   ![MdCscr01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/MdCscr01.png)
 2. Aceitando fazer a peregrinação, o jogador deve seguir para os [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo e conversar. Caso tenha o nível de classe 50, não há necessidade de fazer o passo **3**.
 3. Fique atento a ordem da peregrinação no seu quest log (alt+u). Se for em um NPC antes do outro, terá que refazer o caminho certo.
    1. Encontre a Irmã Matilda (moc\_fild07 41,355)
 
-      :   ![MdCscr02](../images/6/6b/MdCscr02.png)
+      :   ![MdCscr02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/MdCscr02.png)
    2. Localize o Irmão Bartolomeu (prt\_fild00 208,218)
 
-      :   ![MdCscr03](../images/a/ad/MdCscr03.png)
+      :   ![MdCscr03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/MdCscr03.png)
    3. Procure o Irmão Simão (prt\_fild03 365,255)
 
-      :   ![MdCscr04](../images/a/a6/MdCscr04.png)
+      :   ![MdCscr04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/MdCscr04.png)
 4. Fale com Bispo Tomas para ser teleportado para uma sala de testes.
 5. Nesta sala, fale com o Irmão Pedro para iniciar seu teste de exorcismo, ele é dividido em 3 partes.
 
-   :   ![MdCscr05](../images/3/36/MdCscr05.png)
+   :   ![MdCscr05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/MdCscr05.png)
 6. No primeiro quarto, seu objetivo é eliminar todos os [Zumbis](http://www.divine-pride.net/database/monster/1015/) e seguir para o portal ao norte.
 7. Em seguida, haverá um corredor com 4 [NPCs](../Sem%20categoria/NPC.md "NPC") onde deve se aproximar deles para ativar o diálogo. Cada um fará ofertas diferentes a fim de que você desista do teste, se aceitá-las você fracassa e verá que são propostas mentirosas, mas se recusá-las pode passar para a etapa seguinte.
 
-   :   ![MdCscr07](../images/e/ec/MdCscr07.png)
+   :   ![MdCscr07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/MdCscr07.png)
 8. A última sala terá mais alguns [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), você não precisa matá-los, basta correr, mas caso não queira arriscar, elimine-os.
 9. Concluído o teste, reencontre o Bispo Tomas.
 10. Faça um juramento com a Irmã Cecilia, basta responder sim ou não, são perguntas bem simples e fáceis (prt\_church 27,24)
 
-    :   ![MdCscr06](../images/8/8b/MdCscr06.png)
+    :   ![MdCscr06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/MdCscr06.png)
 
 | Conjunto de Perguntas | Respostas |
 | --- | --- |

@@ -14,14 +14,14 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Arang (iz\_ac02 70,85)
 
-   :   ![Aca Taekwn01](../images/3/3d/Aca_Taekwn01.png)
+   :   ![Aca Taekwn01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Aca_Taekwn01.png)
 
    - Ela lhe dará um [Manual do Taekwon](http://www.divine-pride.net/database/item/2942/).
    - Se você tiver alcançado o nível de classe 10, selecione "*Eu quero!*" para seguir a [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon").
    - Esse passo é opcional, mas ajuda a chegar mais rápido na Guilda dos Taekwon.
 2. Na Guilda dos Taekwons, fale com Fênix (payon\_in01 62,10)
 
-   :   ![QTaekwn1 new](../images/3/39/QTaekwn1_new.png)
+   :   ![QTaekwn1 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/QTaekwn1_new.png)
 
    - Ele pede que você evolua mais 1 [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "Nível de base").
    - Quando completar a missão, volte a falar com Fênix.
@@ -34,7 +34,7 @@
      - ![2101.png](http://static.divine-pride.net/images/items/item/2101.png) 1 [Vembrassa](http://www.divine-pride.net/database/item/2101/)
 5. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -48,7 +48,7 @@
 
 1. Fale com Ari (payon 245,295)
 
-   :   ![Tu Taekwn01](../images/f/f1/Tu_Taekwn01.png)
+   :   ![Tu Taekwn01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Tu_Taekwn01.png)
 
    - Pergunte como é ser um Taekwon e, em seguida, selecione "*Treino Prático*"
    - As missões podem ser repetidas assim que completadas.
@@ -65,7 +65,7 @@
 
 :   :   2. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

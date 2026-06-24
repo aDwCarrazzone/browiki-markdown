@@ -16,19 +16,19 @@
 
 1. No [aeroplano](../Sem%20categoria/Aeroplano.md "Aeroplano") doméstico, fale mais de uma vez com Hoi (airplane 236,63)
 
-   :   ![SdA01](../images/e/e1/SdA01.png)
+   :   ![SdA01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/SdA01.png)
 2. Selecione todas as opções ao falar com Kaci (airplane 33,69)
 
-   :   ![SdA02](../images/1/1e/SdA02.png)
+   :   ![SdA02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/SdA02.png)
 3. Concorde em ajudar Hoi para receber uma [Poção Vermelha](http://www.divine-pride.net/database/item/501/). Fale com ele mais de uma vez.
 4. No [aeroplano](../Sem%20categoria/Aeroplano.md "Aeroplano") internacional, converse com o Capitão Tarlock (airplane\_01 238,154)
 
-   :   ![SdA03](../images/9/98/SdA03.png)
+   :   ![SdA03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/SdA03.png)
 
    - Insista na opção "*Como é que o aeroplano voa?*".
 5. No [aeroplano](../Sem%20categoria/Aeroplano.md "Aeroplano") doméstico, entregue 2 [Frutas Espinhosas](http://www.divine-pride.net/database/item/576/) e 2 [Desejos das Trevas](http://www.divine-pride.net/database/item/7340/) ao Capitão Ferlock (airplane 236,163)
 
-   :   ![SdA04](../images/9/94/SdA04.png)
+   :   ![SdA04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/SdA04.png)
 6. Reencontre o Capitão Tarlock e entregue a carta. Fique apressando o [NPC](../Sem%20categoria/NPC.md "NPC") para terminar de ler e lhe dar sua [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
    - 20.000 de base
    - 1.000 de classe
@@ -36,7 +36,7 @@
 8. Pergunte quem é o homem bêbado a Kaci.
 9. Entre no Laboratório de Einbroch (einbroch 54,52)
 
-   :   ![Assassinato034](../images/4/46/Assassinato034.png)
+   :   ![Assassinato034](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Assassinato034.png)
 
    - Você deverá inserir uma senha de duas frases em menos de 1 minuto.
    - Os códigos pedidos estão disponíveis abaixo.
@@ -55,7 +55,7 @@
        - `hfjdkeldjsieldjshfjdjeiskdlefvbd`
 10. Dentro do laboratório, caminhe ao redor máquina central (ein\_in01 261,35)
 
-    :   ![SdA06](../images/b/bf/SdA06.png)
+    :   ![SdA06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/SdA06.png)
 
     - Quando um diálogo abrir, será necessário adivinhar uma sequência aleatória de 3 números, de 1 a 9.
     - Estes números não podem ser repetidos e devem estar na ordem correta definida pelo [NPC](../Sem%20categoria/NPC.md "NPC").

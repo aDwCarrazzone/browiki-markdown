@@ -45,7 +45,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeFerreiros](../images/a/ac/SkilltreeFerreiros.png)
+![SkilltreeFerreiros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/SkilltreeFerreiros.png)
 
 ## Construção do Personagem
 

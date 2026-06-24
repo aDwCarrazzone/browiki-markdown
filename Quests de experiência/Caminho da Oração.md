@@ -18,7 +18,7 @@
 
 1. Nos jardins da [Mansão de Varmunt](../Lugares%20em%20Ragnar%C3%B6k/Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt"), fale com Elly (ba\_in01 26,266)
 
-   :   ![SageLegacy024](../images/f/f6/SageLegacy024.png)
+   :   ![SageLegacy024](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/SageLegacy024.png)
 
    - Você receberá uma [Smart Elly](http://www.divine-pride.net/database/item/400127/) para ser usada durante a missão.
    - Esse chapéu é necessário para prosseguir com alguns passos, então atente-se em quando retirar ou equipar.
@@ -269,7 +269,7 @@
    - Você também ganha ![1000405.png](http://static.divine-pride.net/images/items/item/1000405.png) 180 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/)
    - Sua recompensa também vem em forma de ![400128.png](http://static.divine-pride.net/images/items/item/400128.png) 1 [(Visual) Mini Elly](http://www.divine-pride.net/database/item/400128/)
 
-![SagaEpisodios](../images/0/0a/SagaEpisodios.png)
+![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
 | Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

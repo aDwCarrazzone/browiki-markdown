@@ -15,24 +15,24 @@
 
 1. Converse com Noyee (yuno 164,200)
 
-   :   ![Selo de Sleipnir01](../images/3/31/Selo_de_Sleipnir01.png)
+   :   ![Selo de Sleipnir01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Selo_de_Sleipnir01.png)
 2. Siga para o laboratório e ofereça ajuda à Gerente (que\_god01 98,98)
 
-   :   ![Selo de Sleipnir02](../images/1/10/Selo_de_Sleipnir02.png)
+   :   ![Selo de Sleipnir02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Selo_de_Sleipnir02.png)
 3. Entre no portal esquerdo da sala, ele te levará para um longo corredor com 4 portais, cada entrada é de uma sala com cientistas.
 4. **Sala 1: O Cientista**
    1. Fale com Hallandaute, o cientista (que\_god01 66,125)
 
-      :   ![Selo de Sleipnir03](../images/2/27/Selo_de_Sleipnir03.png)
+      :   ![Selo de Sleipnir03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Selo_de_Sleipnir03.png)
    2. Se você já tiver completado a missão [Cientista Maluco](Cientista%20Maluco.md "Cientista Maluco"), converse com Hallandaute diversas vezes até o *Sleipnir* ser citado.
    3. A missão desta sala está completa. Dirija-se para a próxima.
 5. **Sala 2: O Linguista**
    1. Fale com Pavel, o linguista (que\_god01 14,47)
 
-      :   ![Selo de Sleipnir09](../images/e/ea/Selo_de_Sleipnir09.png)
+      :   ![Selo de Sleipnir09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Selo_de_Sleipnir09.png)
    2. Examine a Pedra (que\_god01 20,48)
 
-      :   ![Selo de Sleipnir10](../images/3/3d/Selo_de_Sleipnir10.png)
+      :   ![Selo de Sleipnir10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Selo_de_Sleipnir10.png)
    3. Fale com Pavel novamente.
    4. Clique na Pedra mais uma vez e digite as palavras-chaves na ordem abaixo:
       - `dirdnl`
@@ -42,17 +42,17 @@
 6. **Sala 3: A Bióloga**
    1. Entregue os itens pedidos pela bióloga, Kurdt (que\_god01 55,47)
 
-      :   ![Selo de Sleipnir11](../images/0/0f/Selo_de_Sleipnir11.png)
+      :   ![Selo de Sleipnir11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Selo_de_Sleipnir11.png)
 
       - Os itens são relacionados ao mar. Eles estão listados na tabela lateral.
    2. Após a entrega, a missão desta sala está completa. Dirija-se para a próxima.
 7. **Sala 4: O Historiador**
    1. Fale com Aadin, o historiador (que\_god01 11,136)
 
-      :   ![Selo de Sleipnir12](../images/3/3c/Selo_de_Sleipnir12.png)
+      :   ![Selo de Sleipnir12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Selo_de_Sleipnir12.png)
    2. Pergunte sobre Sleipnir para a Freira (payon 81,171)
 
-      :   ![Selo de Sleipnir13](../images/3/3e/Selo_de_Sleipnir13.png)
+      :   ![Selo de Sleipnir13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/Selo_de_Sleipnir13.png)
 
       - Sempre que ela perguntar se você está com tédio, selecione a opção para "seguir em frente" ou "organizar a história".
    3. Retorne a Aadin.

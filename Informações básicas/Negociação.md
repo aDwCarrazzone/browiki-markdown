@@ -8,13 +8,13 @@ Personagens podem trocar [zenys](../Sem%20categoria/Zenys.md "Zenys") e [itens](
 
 ## Vender
 
-1. Para vender seus itens e adquirir zenys, procure um [NPC](../Sem%20categoria/NPC.md "NPC") com o ícone em cima da cabeça: [![Map Sacola](../images/b/b9/Map_Sacola.png)](https://browiki.org/wiki/Arquivo%3AMap_Sacola.png)
+1. Para vender seus itens e adquirir zenys, procure um [NPC](../Sem%20categoria/NPC.md "NPC") com o ícone em cima da cabeça: [![Map Sacola](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/Map_Sacola.png)](https://browiki.org/wiki/Arquivo%3AMap_Sacola.png)
 2. Selecione a opção "*Ven.*" que significa "Vender".
 
-   :   ![Venderitens](../images/8/8d/Venderitens.png)
+   :   ![Venderitens](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Venderitens.png)
 3. Arraste para o lado os itens que deseja vender ou dê um clique duplo.
    - Cuidado! Você não pode desfazer essa negociação!
-   - Para evitar vender itens sem querer, arraste-os para a aba "Favoritos" do seu inventário e clique no botão ![Btn blocktrade](../images/3/32/Btn_blocktrade.png) para bloquear.
+   - Para evitar vender itens sem querer, arraste-os para a aba "Favoritos" do seu inventário e clique no botão ![Btn blocktrade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Btn_blocktrade.png) para bloquear.
 
 ## Troca
 
@@ -22,13 +22,13 @@ Personagens podem trocar [zenys](../Sem%20categoria/Zenys.md "Zenys") e [itens](
 2. Fique lado a lado do personagem que você fará a troca. A negociação só funciona até 1 célula de distância do outro.
 3. Clique com o botão direito sobre o personagem e solicite uma negociação.
 
-   :   ![Negociação](../images/f/fb/Negocia%C3%A7%C3%A3o.png)
+   :   ![Negociação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Negocia%C3%A7%C3%A3o.png)
 4. Se o personagem aceitar a solicitação, uma janela de troca se abre. você pode arrastar os itens do seu inventário até a janela de troca ou segurar a tecla `ALT` e clicar com o botão direito do mouse sobre os itens.
    - Se você pretende comprar ou emprestar [zenys](../Sem%20categoria/Zenys.md "Zenys"), digite o valor sem vírgulas ou pontos no campo.
 5. Ao terminar de inserir todos os itens, basta selecionar *Ok*.
 6. Quando ambos tiverem dado o *Ok*, basta apertar o botão *Trocar* para finalizar a negociação.
 
-   :   ![Negociação2](../images/e/e9/Negocia%C3%A7%C3%A3o2.png)
+   :   ![Negociação2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Negocia%C3%A7%C3%A3o2.png)
 
 ### Notas
 
@@ -44,7 +44,7 @@ Personagens podem trocar [zenys](../Sem%20categoria/Zenys.md "Zenys") e [itens](
 
 ## Banco
 
-![UIBanco](../images/d/d5/UIBanco.png)
+![UIBanco](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/UIBanco.png)
 
 - O máximo de [zenys](../Sem%20categoria/Zenys.md "Zenys") que um personagem pode carregar é de 2.147.483.647.
 - Você pode guardar esse valor no Banco, acessado pelo [comando](../Sem%20categoria/Comando.md "Comando") `Ctrl + B`.
@@ -55,9 +55,9 @@ Personagens podem trocar [zenys](../Sem%20categoria/Zenys.md "Zenys") e [itens](
 
 ## Bazar
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para o Mercado do Éden, veja [Paramercado](../Quest/Paramercado.md "Paramercado").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para o Mercado do Éden, veja [Paramercado](../Quest/Paramercado.md "Paramercado").
 
-![Prontera loading](../images/a/a1/Prontera_loading.jpg)
+![Prontera loading](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Prontera_loading.jpg)
 
 O Bazar de Prontera e o de Payon são mapas exclusivos para usar as habilidades de [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio"), [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") e [Lojinha de Rua](Lojinha%20de%20Rua.md "Lojinha de Rua").
 
@@ -73,7 +73,7 @@ Além dos [mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do
 - Máquina de Catálogo de Lojas
 - Teleporte para várias áreas do mapa, através dos Guias ou dos Porings nos 4 pontos centrais.
 
-:   :   ![Prt mk](../images/0/00/Prt_mk.png) ![Pay mk](../images/d/da/Pay_mk.png)
+:   :   ![Prt mk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Prt_mk.png) ![Pay mk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Pay_mk.png)
 
 ## Busca de Lojas
 
@@ -88,7 +88,7 @@ Para acessar a interface, deve ter um [Catálogo de Vendas Prata](http://www.div
 
 Com o item em mãos, dê um clique duplo para abrir a interface.
 
-:   ![Lojas02](../images/d/d8/Lojas02.png)
+:   ![Lojas02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Lojas02.png)
 
 - Em type, selecione *Ven.* para buscar lojas de [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") ou *Com.* para buscar [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras").
 - Em item, digite o nome do item corretamente, incluindo letra maiúscula, acentos, cedilhas e hifens, se houver.
@@ -101,7 +101,7 @@ Com o item em mãos, dê um clique duplo para abrir a interface.
 - O [Catálogo de Lojas](http://www.divine-pride.net/database/item/23368/) habilita a compra diretamente pelo catálogo, sem necessidade de se dirigir até a loja.
 - A loja selecionada ficará destacada das restantes.
 
-:   :   ![Lojas03](../images/e/e7/Lojas03.png) ![Lojas04](../images/d/d6/Lojas04.png)
+:   :   ![Lojas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/Lojas03.png) ![Lojas04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Lojas04.png)
 
 ### Notas
 

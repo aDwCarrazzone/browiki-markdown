@@ -19,47 +19,47 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), ajude o Guarda Real Sinistro (dali02 43,129)
 
-   :   ![Skurai01](../images/0/02/Skurai01.png)
+   :   ![Skurai01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Skurai01.png)
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo Portal Dimensional.
 
-   :   ![Skurai02](../images/e/e2/Skurai02.png)
+   :   ![Skurai02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Skurai02.png)
 3. Fale com o Rei para iniciar a história.
 
-   :   ![Skurai03](../images/1/12/Skurai03.png)
+   :   ![Skurai03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Skurai03.png)
 
    - Derrote os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para abrir a passagem para a próxima etapa.
    - Monstros: [Soldado Amaldiçoado](http://www.divine-pride.net/database/monster/2948/) e [Sentinela Amaldiçoado](http://www.divine-pride.net/database/monster/2949/).
 4. Converse com o Guarda Real Sinistro.
 
-   :   ![Skurai04](../images/c/c9/Skurai04.png)
+   :   ![Skurai04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Skurai04.png)
 
    - Derrote os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para abrir a passagem para a próxima etapa.
    - Monstros: [Alma Estilhaçada](http://www.divine-pride.net/database/monster/2950/), [Lamento Errante](http://www.divine-pride.net/database/monster/2951/) e [Suplício Perdido](http://www.divine-pride.net/database/monster/2952/).
 5. Prossiga com a história falando com o Rei.
 
-   :   ![Skurai05](../images/2/23/Skurai05.png)
+   :   ![Skurai05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Skurai05.png)
 
    - Derrote os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para abrir a passagem para a próxima etapa.
    - Monstros: [Memória Ressentida](http://www.divine-pride.net/database/monster/2953/), [Juramento Desolado](http://www.divine-pride.net/database/monster/2954/) e [Rancor Antigo](http://www.divine-pride.net/database/monster/2955/).
    - Quando a passagem for aberta, uma enorme horda de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") surgirá.
 6. Nessa nova fase, siga enfrentando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") até o Guarda Real Sinistro aparecer.
 
-   :   ![Skurai06](../images/c/cd/Skurai06.png)
+   :   ![Skurai06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Skurai06.png)
 
    - Derrote os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para o [Angústia Torturante](http://www.divine-pride.net/database/monster/2959/) surgir.
    - Monstros: [Massacre Prazeroso](http://www.divine-pride.net/database/monster/2956/) e [Sentinela Amaldiçoado](http://www.divine-pride.net/database/monster/2949/).
 7. Fale com a Princesa Titania.
 
-   :   ![Skurai07](../images/3/39/Skurai07.png)
+   :   ![Skurai07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Skurai07.png)
 
    - Elimine os monstros: [Legado Esquecido](http://www.divine-pride.net/database/monster/2957/), [Juramento Desolado](http://www.divine-pride.net/database/monster/2954/) e [Passado Irreversível](http://www.divine-pride.net/database/monster/2958/).
    - Ao derrotar todos, uma [Amargura Perpétua](http://www.divine-pride.net/database/monster/2961/) aparece, mas não a enfrente, ela será eliminada por Skurai.
 8. Converse com Skurai para finalizar a história.
 
-   :   ![Skurai08](../images/1/1e/Skurai08.png)
+   :   ![Skurai08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Skurai08.png)
 9. Se esta for a sua primeira vez completando a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), fale com o Rei para receber [EXP](../Sem%20categoria/EXP.md "EXP").
 
-   :   ![Skurai09](../images/2/2d/Skurai09.png)
+   :   ![Skurai09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Skurai09.png)
 
    - Você receberá 900.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base, 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe e 2 [Fragmentos de Cinzas](http://www.divine-pride.net/database/item/6672/)
    - Da 2ª vez em diante, basta sair pelo portal que você receberá 1 [Fragmento de Cinzas](http://www.divine-pride.net/database/item/6672/).
@@ -69,7 +69,7 @@
 
 - No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), os [Fragmentos de Cinzas](http://www.divine-pride.net/database/item/6672/) são trocados com a Viajante das Dimensões (dali02 51,130).
 
-![Skurai010](../images/9/96/Skurai010.png)
+![Skurai010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Skurai010.png)
 
 | Item | Fragmentos de Cinzas |
 | --- | --- |

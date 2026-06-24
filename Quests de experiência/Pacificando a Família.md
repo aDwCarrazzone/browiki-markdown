@@ -16,11 +16,11 @@
 
 1. Encontre Kacteron (rockrdg1 341,133)
 
-   :   ![RRpeace01](../images/7/7a/RRpeace01.png)
+   :   ![RRpeace01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/RRpeace01.png)
 2. Elimine [Coiotes](http://www.divine-pride.net/database/monster/3739/) e colete 5 [Mistura de Suco](http://www.divine-pride.net/database/item/25246/).
 3. Para conseguir os [Mistura de Suco](http://www.divine-pride.net/database/item/25246/), fale com os seguintes [NPCs](../Sem%20categoria/NPC.md "NPC"):
 
-   :   ![RRpeace02](../images/c/cc/RRpeace02.png)
+   :   ![RRpeace02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/RRpeace02.png)
 
    - Coiote Curioso (rockrdg1 195,183)
    - Monte de Areia Suspeito (rockrdg1 202,246)

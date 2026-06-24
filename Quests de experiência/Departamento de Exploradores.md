@@ -22,10 +22,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Calyon (dicastes01 223,190)
 
-   :   ![Caylon](../images/3/34/Caylon.png)
+   :   ![Caylon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Caylon.png)
 2. Entregue os itens pedidos para o Gerente de Transportes (dic\_in01 43,277)
 
-   :   ![CaylonGT](../images/e/ea/CaylonGT.png)
+   :   ![CaylonGT](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/CaylonGT.png)
 
 | Missão | Item | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- |
@@ -58,10 +58,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Moltuka (dicastes01 211,178)
 
-   :   ![Moltuka](../images/4/4f/Moltuka.png)
+   :   ![Moltuka](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Moltuka.png)
 2. Entregue os itens pedidos para o 2º Gerente de Transporte (dic\_in01 37,270)
 
-   :   ![MoltukaGT](../images/6/69/MoltukaGT.png)
+   :   ![MoltukaGT](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/MoltukaGT.png)
 
 | Missão | Item | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- |
@@ -93,10 +93,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Pura (dicastes01 208,230)
 
-   :   ![Pura](../images/3/3f/Pura.png)
+   :   ![Pura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Pura.png)
 2. Entregue os itens pedidos para o Gerente de Suprimentos (dic\_in01 54,271)
 
-   :   ![PuraGS](../images/b/b5/PuraGS.png)
+   :   ![PuraGS](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/PuraGS.png)
 
 | Missão | Item | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- |
@@ -128,10 +128,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Tragis (dicastes01 225,211)
 
-   :   ![Tragis](../images/3/3a/Tragis.png)
+   :   ![Tragis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Tragis.png)
 2. Entregue os itens pedidos para o 2º Gerente de Suprimentos (dic\_in01 49,277)
 
-   :   ![TragisGS](../images/6/65/TragisGS.png)
+   :   ![TragisGS](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/TragisGS.png)
 
 | Missão | Item | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- |
@@ -163,10 +163,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Laponte (dicastes01 187,230)
 
-   :   ![Laponte](../images/9/94/Laponte.png)
+   :   ![Laponte](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Laponte.png)
 2. Entregue os itens pedidos para o Gerente de Caça (dic\_in01 49,259)
 
-   :   ![LaponteGC](../images/c/c2/LaponteGC.png)
+   :   ![LaponteGC](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/LaponteGC.png)
 
 | Missão | Nível Mín. | Monstro | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- | --- |
@@ -195,10 +195,10 @@ Você pode fazer uma solicitação para cada [NPC](../Sem%20categoria/NPC.md "NP
 
 1. Pegue uma solicitação com Kalipo (dicastes01 175,217)
 
-   :   ![Kalipo](../images/0/08/Kalipo.png)
+   :   ![Kalipo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Kalipo.png)
 2. Entregue os itens pedidos para o 2º Gerente de Caça (dic\_in01 54,266)
 
-   :   ![KalipoGC](../images/4/4a/KalipoGC.png)
+   :   ![KalipoGC](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/KalipoGC.png)
 
 | Missão | Nível Mín. | Monstro | [Experiência de Base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base") |
 | --- | --- | --- | --- |

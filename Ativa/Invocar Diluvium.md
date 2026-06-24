@@ -32,7 +32,7 @@ Enquanto estiver ativo, fornece bônus independente do nível de [Domínio Eleme
 ### Bônus
 
 - Dano mágico de propriedade [Água](../Sem%20categoria/%C3%81gua.md "Água") +10%.
-- Aumenta o dano base de [![Execução Aurora](../images/5/54/Execu%C3%A7%C3%A3o_Aurora.png)](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora") [Execução Aurora](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora")
+- Aumenta o dano base de [![Execução Aurora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Execu%C3%A7%C3%A3o_Aurora.png)](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora") [Execução Aurora](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora")
 
 ### Status do Elemental
 

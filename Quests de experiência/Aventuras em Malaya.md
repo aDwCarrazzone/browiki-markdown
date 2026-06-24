@@ -19,7 +19,7 @@
 
 1. Fale com o Colecionador Woeon (malaya 295,171)
 
-   :   ![Malaya5](../images/1/17/Malaya5.png)
+   :   ![Malaya5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Malaya5.png)
 
    - Selecione:
      - *O colecionador e sua coleção*
@@ -46,7 +46,7 @@
 
 1. Aliste-se com o Guarda Rondel (malaya 266,76)
 
-   :   ![Vila Cautelosax](../images/8/82/Vila_Cautelosax.png)
+   :   ![Vila Cautelosax](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Vila_Cautelosax.png)
 2. Após a caçada, retorne ao Guarda Rondel para receber sua recompensa.
 
 ## Proteção Espiritual
@@ -66,18 +66,18 @@
 
 1. Ajude Imelda (malaya 169,350)
 
-   :   ![Malaya13](../images/5/53/Malaya13.png)
+   :   ![Malaya13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Malaya13.png)
 2. Colete 6 [Sacolas de Sal](http://www.divine-pride.net/database/item/6501/) nas Armadilhas de Areia (malaya 70,282)
 
-   :   ![Malaya14](../images/d/d1/Malaya14.png)
+   :   ![Malaya14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/Malaya14.png)
 
    - Só existem 3 Armadilhas de Areia, que reaparecerão após 30 segundos.
 3. Colete 6 [Bambus Afiados](http://www.divine-pride.net/database/item/6500/) nos Bambus Pretos (ma\_fild01 178,206)
 
-   :   ![Malaya15](../images/8/85/Malaya15.png)
+   :   ![Malaya15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/Malaya15.png)
 4. Entregue 12 [Braceletes de Prata](http://www.divine-pride.net/database/item/6508/) ao Ferreiro Pandoi (malaya 119,217)
 
-   :   ![Malaya2](../images/0/01/Malaya2.png)
+   :   ![Malaya2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Malaya2.png)
 
    - Selecione:
      - *Cruz de Prata*
@@ -86,22 +86,22 @@
 6. Aguarde 10 minutos e depois fale com Imelda novamente e ajude-a na entrega das [Proteções Espirituais](http://www.divine-pride.net/database/item/6503/) para cada [NPC](../Sem%20categoria/NPC.md "NPC") abaixo:
    - Ancião Nardo (malaya 181,353)
 
-     :   ![Malaya1](../images/9/9f/Malaya1.png)
+     :   ![Malaya1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Malaya1.png)
    - Ferreiro Pandoi (malaya 119,217)
 
-     :   ![Malaya2](../images/0/01/Malaya2.png)
+     :   ![Malaya2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Malaya2.png)
    - Romel (malaya 224,267)
 
-     :   ![Malaya3](../images/c/cd/Malaya3.png)
+     :   ![Malaya3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Malaya3.png)
    - Talah (malaya 223,267)
 
-     :   ![Malaya4](../images/9/9f/Malaya4.png)
+     :   ![Malaya4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Malaya4.png)
    - Colecionador Woeon (malaya 295,171)
 
-     :   ![Malaya5](../images/1/17/Malaya5.png)
+     :   ![Malaya5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Malaya5.png)
    - Marinheiro Pedro (malaya 326,68)
 
-     :   ![Malaya6](../images/2/2c/Malaya6.png)
+     :   ![Malaya6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Malaya6.png)
 7. Retorne a Imelda para receber e 200.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e classe.
 
 ## Fantasma no Barco
@@ -122,16 +122,16 @@
 
 1. Ouça a história do Marinheiro Pedro (malaya 326,68)
 
-   :   ![Malaya6](../images/2/2c/Malaya6.png)
+   :   ![Malaya6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Malaya6.png)
 2. Entre no barco e aproxime-se da Fantasma Diwata (ma\_in01 125,107)
 
-   :   ![Fantasma no Barco02](../images/3/39/Fantasma_no_Barco02.png)
+   :   ![Fantasma no Barco02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Fantasma_no_Barco02.png)
 
    - Não importa a opção que escolher, ela sempre vai te expulsar do lugar.
 3. Retorne ao Marinheiro Pedro, sugira um presente floral.
 4. Peça um conselho com Phong, o Líder Mumbaki (malaya 185,358)
 
-   :   ![Vila Cautelosa2](../images/e/ee/Vila_Cautelosa2.png)
+   :   ![Vila Cautelosa2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/Vila_Cautelosa2.png)
 5. Colete 3 [Flores Elegantes](http://www.divine-pride.net/database/item/6510/), 3 [Flores Bonitas](http://www.divine-pride.net/database/item/6511/) e 3 [Flores Misteriosas](http://www.divine-pride.net/database/item/6509/).
    - Enquanto este passo estiver aberto, as [Flores Elegantes](http://www.divine-pride.net/database/item/6510/) serão adicionadas diretamente no seu inventário ao derrotar [Engkantos](http://www.divine-pride.net/database/monster/2310/).
 6. Peça para Phong abençoar as flores e receber um [Buquê de Oferenda](http://www.divine-pride.net/database/item/6506/).
@@ -156,7 +156,7 @@
 
 1. Encontre o Ferreiro Pandoi (malaya 119,217)
 
-   :   ![Malaya2](../images/0/01/Malaya2.png)
+   :   ![Malaya2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Malaya2.png)
 
    - Selecione:
      - *Espada de Prata*
@@ -180,10 +180,10 @@
 
 1. Ajude Maries (ma\_fild01 199,190)
 
-   :   ![Malaya11](../images/8/88/Malaya11.png)
+   :   ![Malaya11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Malaya11.png)
 2. Entregue uma [Camiseta do Avesso](http://www.divine-pride.net/database/item/12700/) para a Criança Perdida (ma\_fild01 251,93)
 
-   :   ![Malaya12](../images/f/f5/Malaya12.png)
+   :   ![Malaya12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Malaya12.png)
 3. Retorne a Maries para receber sua recompensa.
 
 ## Ossos Purificados
@@ -203,7 +203,7 @@
 
 1. Fale com o Guarda Dhong (ma\_fild01 239,253)
 
-   :   ![Malaya8](../images/3/33/Malaya8.png)
+   :   ![Malaya8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Malaya8.png)
 
    - Selecione:
      - *Sobre Vantai, o cão de guarda*
@@ -212,7 +212,7 @@
    - O item é adicionado diretamente no seu inventário.
 3. Peça um ritual de purificação ao Kiko em Mumbaki (ma\_fild01 261,208)
 
-   :   ![Malaya7](../images/8/81/Malaya7.png)
+   :   ![Malaya7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Malaya7.png)
 
    - Kiko removerá todos os [Ossos Malignos de Espírito](http://www.divine-pride.net/database/item/6507/) do seu inventário.
 4. Retorne ao Guarda Dhong com os 10 [Ossos Purificados de Espírito](http://www.divine-pride.net/database/item/6505/) para receber sua recompensa.
@@ -234,7 +234,7 @@
 
 1. Encontre o Capre Bom Budidai (ma\_fild02 241,39)
 
-   :   ![Malaya9](../images/7/7b/Malaya9.png)
+   :   ![Malaya9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Malaya9.png)
 
    - Selecione:
      - *Um estudo profundo de monstros caolhos*
@@ -257,14 +257,14 @@
 
 1. Fale com o Ancião Nardo (malaya 181,353)
 
-   :   ![Malaya1](../images/9/9f/Malaya1.png)
+   :   ![Malaya1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Malaya1.png)
 
    - Selecione:
      - *O Velho e o Caldeirão de Ferro Fundido*
      - *Eu o farei*
 2. Entregue os 5 [Caldeirões de Ferro Fundido](http://www.divine-pride.net/database/item/6504/) para Kiko em Mumbaki (ma\_fild01 261,208)
 
-   :   ![Malaya7](../images/8/81/Malaya7.png)
+   :   ![Malaya7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Malaya7.png)
 3. Retorne ao Ancião Nardo para receber sua recompensa.
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |

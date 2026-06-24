@@ -18,10 +18,10 @@
 
 1. Acesse o [Laboratório de Somatologia](http://www.divine-pride.net/database/map/lhz_dun02/) pelo canal de esgoto, na favela (lighthalzen 312,303).
 
-   :   ![Rekn02](../images/7/79/Rekn02.png)
+   :   ![Rekn02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Rekn02.png)
 2. Com 1 [Algema de Identificação](http://www.divine-pride.net/database/item/7345/) no inventário, dirija-se para **uma** das coordenadas abaixo. Você precisa ativar um diálogo para prosseguir com a missão.
 
-   :   ![Enterprise1new](../images/7/7e/Enterprise1new.png)
+   :   ![Enterprise1new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Enterprise1new.png)
 
    - (lhz\_dun02 244,229)
    - (lhz\_dun02 267,278)
@@ -35,7 +35,7 @@
    - (lhz\_dun03 74,140)
 3. Encontre outras 4 mensagens na favela.
 
-   :   ![Enterprise2new](../images/2/28/Enterprise2new.png)
+   :   ![Enterprise2new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Enterprise2new.png)
 
    - Perto da entrada da favela (lighthalzen 294,229)
    - Entre duas casas (lighthalzen 342,278)
@@ -43,42 +43,42 @@
    - Dentro do bar (lighthalzen 344,227), na cadeira (lhz\_in03 178,20)
 4. Fale com a Anciã (lighthalzen 345,263)
 
-   :   ![Empresa1](../images/5/51/Empresa1.png)
+   :   ![Empresa1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Empresa1.png)
 5. Dentro da corporação Rekenber, ative um novo diálogo se aproximando das coordenadas (lhz\_in01 110,147)
 6. Pergunte sobre a história da corporação para a Atendente (lhz\_in01 114,181)
 
-   :   ![Empresa2a](../images/1/1f/Empresa2a.png)
+   :   ![Empresa2a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Empresa2a.png)
 7. Na biblioteca, fale duas vezes com a outra Atendente (lhz\_in01 27,247)
 
-   :   ![Empresa3](../images/3/38/Empresa3.png)
+   :   ![Empresa3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Empresa3.png)
 8. Leia o Guia da Rekenber, na estante.
 
-   :   ![Empresa4](../images/e/ec/Empresa4.png)
+   :   ![Empresa4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/Empresa4.png)
 9. Ainda com a [Algema de Identificação](http://www.divine-pride.net/database/item/7345/) no inventário, ouça uma nova mensagem nas coordenadas (lhz\_in01 272,227)
 10. Equipe o [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) e o [Quatro Olhos](http://www.divine-pride.net/database/item/2243/) para falar com o Guarda (lhz\_in01 35,226)
     - Eles podem ser comprados no Vendedor de Óculos em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prt\_in 117,79)
 
-    :   ![Rebeliao07](../images/c/c5/Rebeliao07.png)
+    :   ![Rebeliao07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Rebeliao07.png)
 11. Você terá acesso ao Laboratório Regenschrim. Ative o diálogo no Portal do final da sala (lhz\_in01 206,129)
     - Se o personagem estiver acima de 50% do peso, não poderá prosseguir nesse passo
     - Se o diálogo não aparecer, aguarde 24h e repita os passos anteriores.
 12. Nessa nova sala, clique em qualquer um dos dois [NPC](../Sem%20categoria/NPC.md "NPC")'s para iniciar a conversa.
 
-    :   ![Enterprise8](../images/8/8a/Enterprise8.png)
+    :   ![Enterprise8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Enterprise8.png)
 13. No fim do diálogo, você volta para o laboratório.
 14. Entre no portal à direita e fale com o Cientista Louco (lhz\_in01 273,121)
 
-    :   ![Enterprise9](../images/5/52/Enterprise9.png)
+    :   ![Enterprise9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Enterprise9.png)
 
     - Entregue a [Bolinha de Gude](http://www.divine-pride.net/database/item/746/) e insista no diálogo com o [NPC](../Sem%20categoria/NPC.md "NPC").
 15. Aproxime-se das coordenadas (lhz\_in01 282,166) do portal à esquerda.
 16. Seu personagem será teleportado para uma sala, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") para ganhar um [Pingente do Espírito](http://www.divine-pride.net/database/item/6003/).
 
-    :   ![Enterprise10](../images/b/b2/Enterprise10.png)
+    :   ![Enterprise10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Enterprise10.png)
 17. Reencontre a Anciã e entregue os itens pedidos.
 18. Localize a Garota Aleijada (lighthalzen 321,322)
 
-    :   ![Empresa5](../images/8/83/Empresa5.png)
+    :   ![Empresa5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Empresa5.png)
 
     - Selecione:
       - Mostre o pingente a ela
@@ -88,7 +88,7 @@
 19. Saia da casa andando, você receberá [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 20. Interrogue a Secretária Slierre (lhz\_in01 286,226)
 
-    :   ![Empresa6](../images/c/ce/Empresa6.png)
+    :   ![Empresa6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Empresa6.png)
 
     - Selecione:
       - Perguntar sobre a favela
@@ -105,7 +105,7 @@
     - Você receberá 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) e 10 [Poção do Vento](http://www.divine-pride.net/database/item/12016/).
 21. Retorne ao quarto do Cientista Louco, que fugiu.
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

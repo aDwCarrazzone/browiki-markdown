@@ -26,9 +26,9 @@ Reduz o [ATQ](../Sem%20categoria/ATQ.md "ATQ") por equipamentos.
 
 Nesse estado, é possível usar:
 
-- [![Escudo Guardião](../images/a/a9/Escudo_Guardi%C3%A3o.png)](../Suporte/Escudo%20Guardi%C3%A3o.md "Escudo Guardião") [Escudo Guardião](../Suporte/Escudo%20Guardi%C3%A3o.md "Escudo Guardião")
-- [![Remissão](../images/2/2b/Remiss%C3%A3o.png)](../Suporte/Remiss%C3%A3o.md "Remissão") [Remissão](../Suporte/Remiss%C3%A3o.md "Remissão")
-- [![Ultimato](../images/a/a6/Ultimato.png)](../Suporte/Ultimato.md "Ultimato") [Ultimato](../Suporte/Ultimato.md "Ultimato")
+- [![Escudo Guardião](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Escudo_Guardi%C3%A3o.png)](../Suporte/Escudo%20Guardi%C3%A3o.md "Escudo Guardião") [Escudo Guardião](../Suporte/Escudo%20Guardi%C3%A3o.md "Escudo Guardião")
+- [![Remissão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Remiss%C3%A3o.png)](../Suporte/Remiss%C3%A3o.md "Remissão") [Remissão](../Suporte/Remiss%C3%A3o.md "Remissão")
+- [![Ultimato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Ultimato.png)](../Suporte/Ultimato.md "Ultimato") [Ultimato](../Suporte/Ultimato.md "Ultimato")
 
 Pode ser desativada ao usar novamente.
 

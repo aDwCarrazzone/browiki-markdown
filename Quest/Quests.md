@@ -2,7 +2,7 @@
 
 # Quests
 
-![QuestUIold](../images/0/0a/QuestUIold.png)
+![QuestUIold](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/QuestUIold.png)
 
 A janela de missões.
 
@@ -12,7 +12,7 @@ Além de [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos"), [ite
 
 A janela de missões é acessada pelo [comando](../Sem%20categoria/Comando.md "Comando") `Alt + U`
 
-Missões novas são indicadas por um ícone na tela inferior ![Imagemdequest](../images/2/25/Imagemdequest.png)
+Missões novas são indicadas por um ícone na tela inferior ![Imagemdequest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Imagemdequest.png)
 
 - *Dicas para fazer missões*:
   - **Leia** sempre.

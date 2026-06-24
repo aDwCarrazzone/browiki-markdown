@@ -7,10 +7,10 @@
 - Personagens poderão ajudar na reconstrução da cidade de [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc") falando com os [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo.
 - Após finalizar uma das missões abaixo, pegue o [Recibo de Morroc](http://www.divine-pride.net/database/item/6685/) com o Mestre de Obras (morocc 52,197)
 
-  :   ![Morrocrebuild01](../images/4/4c/Morrocrebuild01.png)
+  :   ![Morrocrebuild01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Morrocrebuild01.png)
 - Os [Recibos de Morroc](http://www.divine-pride.net/database/item/6685/) podem ser trocados por recompensas na Máquina Registradora (morocc 52,197)
 
-  :   ![Morrocrebuild02](../images/9/97/Morrocrebuild02.png)
+  :   ![Morrocrebuild02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Morrocrebuild02.png)
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,10 +24,10 @@ Missões de produção não podem ser feitas simultaneamente com as missões de 
 
 1. Ajude o Chefe dos Pedreiros (morocc 42,73)
 
-   :   ![Morrocrebuild03](../images/f/f1/Morrocrebuild03.png)
+   :   ![Morrocrebuild03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Morrocrebuild03.png)
 2. Entregue 10 [Areias Finas](http://www.divine-pride.net/database/item/7043/) e 10 [Torrões de Areia](http://www.divine-pride.net/database/item/1056/) para o Mímico Irritado (morocc 40,72)
 
-   :   ![Morrocrebuild04](../images/4/4b/Morrocrebuild04.png)
+   :   ![Morrocrebuild04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Morrocrebuild04.png)
 
    - Você receberá 1 [Tijolo](http://www.divine-pride.net/database/item/6686/).
    - Existem chances de falha, você perderá os itens em quantidades aleatórias.
@@ -37,7 +37,7 @@ Missões de produção não podem ser feitas simultaneamente com as missões de 
 
 1. Aceite ajudar o Chefe dos Artesãos (morocc 282,284)
 
-   :   ![Morrocrebuild05](../images/3/35/Morrocrebuild05.png)
+   :   ![Morrocrebuild05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/Morrocrebuild05.png)
 2. Para fazer a [Corda](http://www.divine-pride.net/database/item/6687/), você pode escolher 2 materiais abaixo e trazer 10 deles ao [NPC](../Sem%20categoria/NPC.md "NPC").
    - ![906.png](http://static.divine-pride.net/images/items/item/906.png) 10 [Escama Afiada](http://www.divine-pride.net/database/item/906/)
    - ![1025.png](http://static.divine-pride.net/images/items/item/1025.png) 10 [Teia de Aranha](http://www.divine-pride.net/database/item/1025/)
@@ -50,15 +50,15 @@ Missões de produção não podem ser feitas simultaneamente com as missões de 
 
 1. Aceite ajudar o Chefe dos Carpinteiros (morocc 285,70)
 
-   :   ![Morrocrebuild06](../images/d/db/Morrocrebuild06.png)
+   :   ![Morrocrebuild06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Morrocrebuild06.png)
 2. Fale com o Ajudante de Carpinteiro (morocc 285,70)
 
-   :   ![Morrocrebuild06a](../images/4/44/Morrocrebuild06a.png)
+   :   ![Morrocrebuild06a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Morrocrebuild06a.png)
 
    - Você receberá 1 [Machado de Madeira](http://www.divine-pride.net/database/item/6698/).
 3. Ande ao redor das Árvores (moc\_fild12 83,376)
 
-   :   ![Morrocrebuild07](../images/a/ab/Morrocrebuild07.png)
+   :   ![Morrocrebuild07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Morrocrebuild07.png)
 
    - Haverá uma chance de você conseguir uma [Madeira](http://www.divine-pride.net/database/item/6688/).
 4. Entregue as 10 [Madeiras](http://www.divine-pride.net/database/item/6688/) para o Chefe dos Carpinteiros.
@@ -71,13 +71,13 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar o Pedreiro (morocc 55,67)
 
-   :   ![Morrocrebuild08](../images/b/bc/Morrocrebuild08.png)
+   :   ![Morrocrebuild08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Morrocrebuild08.png)
 2. Clique na Pilha de Tijolos e selecione a quantidade de [Tijolos](http://www.divine-pride.net/database/item/6686/) que conseguir carregar.
 
-   :   ![Morrocrebuild09a](../images/c/c4/Morrocrebuild09a.png)
+   :   ![Morrocrebuild09a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Morrocrebuild09a.png)
 3. Descarregue os [Tijolos](http://www.divine-pride.net/database/item/6686/) se aproximando da Pilha de Tijolos (morocc 155,112)
 
-   :   ![Morrocrebuild010](../images/f/f7/Morrocrebuild010.png)
+   :   ![Morrocrebuild010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Morrocrebuild010.png)
 4. Repita o procedimento até ter descarregado 100 [Tijolos](http://www.divine-pride.net/database/item/6686/) na Pilha.
 5. Reporte seu trabalho para o Mestre de Obras.
 
@@ -85,13 +85,13 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar o Artesão (morocc 266,288)
 
-   :   ![Morrocrebuild011](../images/c/cd/Morrocrebuild011.png)
+   :   ![Morrocrebuild011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Morrocrebuild011.png)
 2. Clique na Pilha de Cordas e selecione a quantidade de [Cordas](http://www.divine-pride.net/database/item/6687/) que conseguir carregar.
 
-   :   ![Morrocrebuild09b](../images/2/2a/Morrocrebuild09b.png)
+   :   ![Morrocrebuild09b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Morrocrebuild09b.png)
 3. Descarregue as [Cordas](http://www.divine-pride.net/database/item/6687/) se aproximando da Pilha de Cordas (morocc 148,112)
 
-   :   ![Morrocrebuild012](../images/1/1a/Morrocrebuild012.png)
+   :   ![Morrocrebuild012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Morrocrebuild012.png)
 4. Repita o procedimento até ter descarregado 100 [Cordas](http://www.divine-pride.net/database/item/6687/) na Pilha.
 5. Reporte seu trabalho para o Mestre de Obras.
 
@@ -99,13 +99,13 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar o Carpinteiro (morocc 265,74)
 
-   :   ![Morrocrebuild013](../images/7/79/Morrocrebuild013.png)
+   :   ![Morrocrebuild013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Morrocrebuild013.png)
 2. Clique na Pilha de Madeira e selecione a quantidade de [Madeiras](http://www.divine-pride.net/database/item/6688/) que conseguir carregar.
 
-   :   ![Morrocrebuild09c](../images/c/c4/Morrocrebuild09c.png)
+   :   ![Morrocrebuild09c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Morrocrebuild09c.png)
 3. Descarregue as [Madeiras](http://www.divine-pride.net/database/item/6688/) se aproximando da Pilha de Madeira (morocc 162,112)
 
-   :   ![Morrocrebuild014](../images/e/ea/Morrocrebuild014.png)
+   :   ![Morrocrebuild014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Morrocrebuild014.png)
 4. Repita o procedimento até ter descarregado 100 [Madeiras](http://www.divine-pride.net/database/item/6688/) na Pilha.
 5. Reporte seu trabalho para o Mestre de Obras.
 
@@ -113,14 +113,14 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar o Encarregado de Obras (morocc 57,196)
 
-   :   ![Morrocrebuild015](../images/0/09/Morrocrebuild015.png)
+   :   ![Morrocrebuild015](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Morrocrebuild015.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") invocará um [assistente](../Sem%20categoria/Assistente.md "Assistente") Construtor.
    - Preste atenção no diálogo, o Encarregado dirá qual lugar você deve levar o Construtor.
    - Você terá 1 minuto para levar o Construtor ao lugar correto.
 2. Existem 4 Gestores de RH espalhados em [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc"), você deve se aproximar deles, junto com seu [assistente](../Sem%20categoria/Assistente.md "Assistente") para ativar um diálogo.
 
-   :   ![Morrocrebuild016](../images/3/37/Morrocrebuild016.png)
+   :   ![Morrocrebuild016](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Morrocrebuild016.png)
 
    - Se o [assistente](../Sem%20categoria/Assistente.md "Assistente") for rejeitado naquele lugar, siga para um outro Gestor.
    - Em caso de sucesso, dispense seu [assistente](../Sem%20categoria/Assistente.md "Assistente") e fale com o Gestor de RH que o aceitou.
@@ -130,7 +130,7 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar a Tia do Lanche (morocc 40,190)
 
-   :   ![Morrocrebuild017](../images/d/db/Morrocrebuild017.png)
+   :   ![Morrocrebuild017](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Morrocrebuild017.png)
 2. Entregue qualquer um dos pratos de [culinária](../Itens/Culin%C3%A1ria.md "Culinária") listados abaixo.
    - Dica: esses itens podem ser derrubados pelos monstros da instância [Memórias de Sarah](../Quests%20de%20experi%C3%AAncia/Mem%C3%B3rias%20de%20Sarah.md "Memórias de Sarah").
 
@@ -147,5 +147,5 @@ Missões de entrega não podem ser feitas simultaneamente com as missões de pro
 
 1. Aceite ajudar o Centurião Van (morocc 47,193)
 
-   :   ![Morrocrebuild018](../images/7/7d/Morrocrebuild018.png)
+   :   ![Morrocrebuild018](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/Morrocrebuild018.png)
 2. Após eliminar os monstros, retorne ao [NPC](../Sem%20categoria/NPC.md "NPC") para receber 4 [Recibos de Morroc](http://www.divine-pride.net/database/item/6685/).

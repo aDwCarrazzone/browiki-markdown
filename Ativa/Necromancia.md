@@ -35,7 +35,7 @@ Tem uma chance de infligir *Assombração* no alvo e oponentes ao redor.
 
 ### Assombração
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Maldição](../images/8/8c/I_Maldi%C3%A7%C3%A3o.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Maldição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/I_Maldi%C3%A7%C3%A3o.png)
 - Em monstros normais: Resistência a propriedade [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") -100%.
 - Em monstros chefes: Resistência a propriedade [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") -20%.
 

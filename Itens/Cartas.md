@@ -8,10 +8,10 @@ Para combinar uma carta, mantenha o [equipamento](../Sem%20categoria/Equipamento
 
 1. Dê um clique duplo na carta. Aparecerá uma lista de [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") com [slot](Slot.md "Slot") disponíveis.
 
-   :   ![Cartaguia01](../images/9/93/Cartaguia01.png)
+   :   ![Cartaguia01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Cartaguia01.png)
 2. Selecione o [equipamento](../Sem%20categoria/Equipamento.md "Equipamento") desejado. Com a carta combinada, o [equipamento](../Sem%20categoria/Equipamento.md "Equipamento") recebe um sufixo indicando que existe um [slot](Slot.md "Slot") ocupado.
 
-   :   ![Cartaguia02](../images/2/2a/Cartaguia02.png)
+   :   ![Cartaguia02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Cartaguia02.png)
 3. Se uma mesma carta for combinada mais de uma vez no [equipamento](../Sem%20categoria/Equipamento.md "Equipamento"), ele receberá sufixos com "*Bi*", "*Tri*" ou *Quád.*.
 
 ## Identificação
@@ -36,7 +36,7 @@ Também é possível combinar *Essências de Morroc* em qualquer [equipamentos](
 
 - Você pode separar uma carta do [slot](Slot.md "Slot") em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo") com Richard (malangdo 220,160).
 
-  :   ![Richard Comeu Pookie](../images/7/74/Richard_Comeu_Pookie.png)
+  :   ![Richard Comeu Pookie](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Richard_Comeu_Pookie.png)
 
 Atente-se às instruções quanto ao procedimento de retirada:
 

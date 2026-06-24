@@ -17,13 +17,13 @@
 3. Assim que eliminar o [Kublin](http://www.divine-pride.net/database/monster/1980/), um Anão anuncia que está procurando pelo item.
 4. Dirija-se ao Anão, que se localiza nos dois calabouços. O [NPC](../Sem%20categoria/NPC.md "NPC") levará você para um novo mapa.
 
-   :   ![O Tesouro do Anão01a](../images/c/c0/O_Tesouro_do_An%C3%A3o01a.png)
+   :   ![O Tesouro do Anão01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/O_Tesouro_do_An%C3%A3o01a.png)
 
    - Anão do Feudo de Nithafjoll (schg\_dun01 194,148)
    - Anão do Feudo de Valfreyja (arug\_dun01 199,195)
 5. Inicie o evento com Pierre, que derrubará 900 [Papéis Brilhantes](http://www.divine-pride.net/database/item/6030/) no chão.
 
-   :   ![O Tesouro do Anão03](../images/2/21/O_Tesouro_do_An%C3%A3o03.png)
+   :   ![O Tesouro do Anão03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/O_Tesouro_do_An%C3%A3o03.png)
 6. Seu objetivo é coletar o [Papel Brilhante](http://www.divine-pride.net/database/item/6030/) correto. Você terá 1 minuto para entregá-lo a Pierre.
    - Os [Papéis Brilhantes](http://www.divine-pride.net/database/item/6030/) não ocupam o mesmo espaço no inventário, que tem um limite de 100 itens.
    - Ter a habilidade [Ganância](../Ativa/Gan%C3%A2ncia.md "Ganância") ajuda.

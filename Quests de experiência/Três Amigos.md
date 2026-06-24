@@ -14,17 +14,17 @@
 
 1. Para iniciar a missão, você precisará alternar entre a favela e a área da cidade através do Guarda (lighthalzen 266,200)
 
-   :   ![Lhz01](../images/7/77/Lhz01.png)
+   :   ![Lhz01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Lhz01.png)
 
    - Normalmente, o [NPC](../Sem%20categoria/NPC.md "NPC") não permite sua entrada, exceto:
      - Clicar diversas vezes nele até o diálogo informar que ele está dormindo ou distraído.
      - Se [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen") for invadida por [Gangsters](http://www.divine-pride.net/database/monster/1592/), o Guarda não vai interagir, sendo necessário derrotar todos os monstros da cidade.
 2. Encontre Maku (lighthalzen 336,231)
 
-   :   ![Lhz02](../images/5/5d/Lhz02.png)
+   :   ![Lhz02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Lhz02.png)
 3. Converse com Digotz (lhz\_in02 201,209)
 
-   :   ![Lhz03](../images/e/e5/Lhz03.png)
+   :   ![Lhz03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Lhz03.png)
 4. Volte a Maku.
 5. Retorne a Digotz.
 6. Reencontre Maku.
@@ -47,15 +47,15 @@
 8. Siga para a Biblioteca de [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno") (yuno 338,203) e lá dentro fale com o Estudante (yuno\_in04 106,14)
    - (Primeiro portal à direita)
 
-   :   ![Lhz04](../images/a/ac/Lhz04.png)
+   :   ![Lhz04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/Lhz04.png)
 9. Insista em conversar com o Estudante Entusiasmado (yuno\_in04 96,105)
    - (Primeiro portal à esquerda)
 
-   :   ![Lhz05](../images/7/70/Lhz05.png)
+   :   ![Lhz05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Lhz05.png)
 10. Pegue o [Diário do Amigo](http://www.divine-pride.net/database/item/7351/) clicando no Livro (yuno\_in04 168,114)
     - (Portal no fim do corredor)
 
-    :   ![Lhz06](../images/4/45/Lhz06.png)
+    :   ![Lhz06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/Lhz06.png)
 11. Converse novamente com o Estudante Entusiasmado.
 12. Mostre o [Diário do Amigo](http://www.divine-pride.net/database/item/7351/) para Digotz.
 13. Também mostre o [Diário do Amigo](http://www.divine-pride.net/database/item/7351/) para Maku. Você receberá um pouco de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").

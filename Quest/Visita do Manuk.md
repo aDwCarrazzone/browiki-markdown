@@ -16,16 +16,16 @@
 1. Você não precisa ter completado a missão [Anel do Rei Sábio](../Quests%20de%20experi%C3%AAncia/Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") caso já tenha o anel.
 2. Converse com o Viajante Ben (mid\_camp 222,246)
 
-   :   ![VdS01](../images/3/3e/VdS01.png)
+   :   ![VdS01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/VdS01.png)
 3. Fale com Guarda Aello (mid\_campin 93,114)
 
-   :   ![VdS02](../images/e/e0/VdS02.png)
+   :   ![VdS02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/VdS02.png)
 4. Entre no quarto falando com o Soldado (mid\_campin 111,120)
 
-   :   ![VdS03](../images/3/34/VdS03.png)
+   :   ![VdS03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/VdS03.png)
 5. Converse com o Embaixador de Manuk (mid\_campin 168,128)
 
-   :   ![VdS04](../images/e/e6/VdS04.png)
+   :   ![VdS04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/VdS04.png)
 
    - Selecione:
      - *Digo o mesmo.*
@@ -34,21 +34,21 @@
    - Fale com o Hound, ao lado. Converse mais de uma vez com esses [NPCs](../Sem%20categoria/NPCs.md "NPCs").
 6. Dentro do prédio e subindo as escadas, procure pelo Comandante Avalanche (man\_in01 314,52)
 
-   :   ![VdS04b](../images/2/23/VdS04b.png)
+   :   ![VdS04b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/VdS04b.png)
 7. Acesse o [Túnel Kamidal](http://www.divine-pride.net/database/map/dic_dun01/) falando com o Gerente da Entrada (manuk 320,181)
 
-   :   ![VdS04a](../images/d/d1/VdS04a.png)
+   :   ![VdS04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/VdS04a.png)
 8. Após atravessar o [Túnel Kamidal](http://www.divine-pride.net/database/map/dic_dun01/), entre em [El Dicastes](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes") com o Guarda da Capital (dic\_fild01 147,280)
 
-   :   ![VdS04c](../images/8/82/VdS04c.png)
+   :   ![VdS04c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/VdS04c.png)
 9. Dirija-se ao norte de [El Dicastes](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes"), entre no castelo e registre-se com o Aventureiro Escrivão (dic\_in01 40,261).
 
-   :   ![VdS05](../images/7/77/VdS05.png)
+   :   ![VdS05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/VdS05.png)
 
    - Você receberá uma [Luz de El Dicastes](http://www.divine-pride.net/database/item/2844/).
 10. Você pode [encantar](../Itens/Encantamento.md "Encantamento") a [Luz de El Dicastes](http://www.divine-pride.net/database/item/2844/) com Kareka (dicastes01 96,257)
 
-    :   ![VdS06](../images/e/e0/VdS06.png)
+    :   ![VdS06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/VdS06.png)
 
     - O serviço de [encantamento](../Itens/Encantamento.md "Encantamento") funciona da seguinte forma:
       - Encantar o 1º slot, custará 1 [Certificado do Explorador](http://www.divine-pride.net/database/item/6304/).
@@ -61,7 +61,7 @@
 | --- | --- | --- |
 | 4766.png [ATQ +2%](http://www.divine-pride.net/database/item/4766/) ou [+3%](http://www.divine-pride.net/database/item/4767/)  4760.png [Pedra da Conjuração 1](http://www.divine-pride.net/database/item/4760/) ou [2](http://www.divine-pride.net/database/item/4761/)  4764.png [CRI +5](http://www.divine-pride.net/database/item/4764/) ou [+7](http://www.divine-pride.net/database/item/4765/)  4762.png [Esquiva +6](http://www.divine-pride.net/database/item/4762/) ou [+12](http://www.divine-pride.net/database/item/4763/) | 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) ou [+2](http://www.divine-pride.net/database/item/4731/)  4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) ou [+2](http://www.divine-pride.net/database/item/4721/)  4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) ou [+2](http://www.divine-pride.net/database/item/4711/) | 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) ou [+2](http://www.divine-pride.net/database/item/4731/)  4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) ou [+2](http://www.divine-pride.net/database/item/4721/)  4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) ou [+2](http://www.divine-pride.net/database/item/4711/) |
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

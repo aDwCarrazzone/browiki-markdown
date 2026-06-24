@@ -16,41 +16,41 @@
 
 1. Ofereça ajuda ao Policial Kesler (verus04 133,212)
 
-   :   ![Kesler](../images/2/25/Kesler.png)
+   :   ![Kesler](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Kesler.png)
 
    - Se concordar em ajudá-lo, você garantirá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base no final da missão.
 2. Encontre o Policial Piffs (verus04 202,258)
 
-   :   ![Piffs](../images/4/42/Piffs.png)
+   :   ![Piffs](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Piffs.png)
 
    - Se concordar em ajudá-lo, você garantirá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base no final da missão.
    - Entregue para ele as 10 [Ervas Coletadas](http://www.divine-pride.net/database/item/6754/) dos Matagais.
 
-     :   ![Matagal](../images/8/8e/Matagal.png)
+     :   ![Matagal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/Matagal.png)
 3. Fale com o Policial Gerev (verus03 116,36)
 
-   :   ![Gerev](../images/6/69/Gerev.png)
+   :   ![Gerev](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Gerev.png)
 
    - Se concordar em ajudá-lo, você garantirá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base no final da missão.
    - Desarme 10 Armadilhas clicando nos **???**. Existe 50% de chance de você não conseguir desativá-las.
 
-     :   ![InterrograçõesVerus](../images/e/e9/Interrogra%C3%A7%C3%B5esVerus.png)
+     :   ![InterrograçõesVerus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Interrogra%C3%A7%C3%B5esVerus.png)
 4. Fale com o Policial Salgran (verus03 36,113)
 
-   :   ![Salgran](../images/a/a1/Salgran.png)
+   :   ![Salgran](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Salgran.png)
 
    - Se concordar em ajudá-lo, você garantirá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base no final da missão.
    - Elimine 10 [Propagandas Ilegais](http://www.divine-pride.net/database/monster/3159/).
 
-     :   ![Propagandas Ilegais](../images/b/be/Propagandas_Ilegais.png)
+     :   ![Propagandas Ilegais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Propagandas_Ilegais.png)
 5. Fale com o Policial Seiden (verus03 81,241)
 
-   :   ![Seiden](../images/2/27/Seiden.png)
+   :   ![Seiden](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Seiden.png)
 
    - Se concordar em ajudá-lo, você garantirá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base no final da missão.
    - Colete 10 Pedras clicando nos **???**. Não adianta usar [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras").
 
-     :   ![InterrograçõesVerus](../images/e/e9/Interrogra%C3%A7%C3%B5esVerus.png)
+     :   ![InterrograçõesVerus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Interrogra%C3%A7%C3%B5esVerus.png)
 6. Retorne ao Policial Kesler, que dará sua recompensa de acordo com sua ajuda!
    - Se concordou em ajudar todos, você receberá 1.000.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
    - Ao entregar [Amuletos do Infortúnio](http://www.divine-pride.net/database/item/6753/) para o Policial Kesler, você receberá [Envelopes Surpresas](http://www.divine-pride.net/database/item/22611/), que garantem os efeitos abaixo.

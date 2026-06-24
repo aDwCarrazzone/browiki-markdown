@@ -21,17 +21,17 @@
 3. Quando os 4 selos forem liberados, ou seja, terminados por 100 pessoas cada, o líder de um clã poderá fabricar um Item Divinos.
 4. O líder deve procurar pelo anão chamado *Grunburti* que se encontra no primeiro piso do calabouço do seu castelo.
 
-   :   ![Selos1](../images/5/51/Selos1.png)
+   :   ![Selos1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Selos1.png)
    :   (gld\_dun01 28,85)
    :   (gld\_dun02 85,84)
    :   (gld\_dun03 92,105)
    :   (gld\_dun04 268,230)
 5. O anão enviará o líder para um corredor, entre no chat no final dele e aguarde a fila de espera.
 
-   :   ![Selos2 n](../images/b/b3/Selos2_n.png)
+   :   ![Selos2 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Selos2_n.png)
 6. Nesse novo mapa, fale com o Anão para criar um *Item Divino* a partir dos materiais que você trouxe.
 
-   :   ![Selos3 n](../images/c/ce/Selos3_n.png)
+   :   ![Selos3 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Selos3_n.png)
 
 | 2410.png [Sleipnir](http://www.divine-pride.net/database/item/2410/) | 2629.png [Megingjard](http://www.divine-pride.net/database/item/2629/) | 1530.png [Mjolnir](http://www.divine-pride.net/database/item/1530/) | 2630.png [Brisingamen](http://www.divine-pride.net/database/item/2630/) |
 | --- | --- | --- | --- |
@@ -41,7 +41,7 @@
 
 - Fale com Rebarev Doug (prt\_cas 178,243)
 
-  :   ![Selo de Megingjard01 n](../images/c/c3/Selo_de_Megingjard01_n.png)
+  :   ![Selo de Megingjard01 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Selo_de_Megingjard01_n.png)
 - Entregue os materiais para fazer um [Gleipnir](http://www.divine-pride.net/database/item/7058/):
   - ![7080.png](http://static.divine-pride.net/images/items/item/7080.png) 4 [*Passos de Gato*](http://www.divine-pride.net/database/item/7080/)
   - ![7081.png](http://static.divine-pride.net/images/items/item/7081.png) 5 [*Barbas de Mulher*](http://www.divine-pride.net/database/item/7081/)
@@ -61,7 +61,7 @@
 - Se você estava fazendo uma [quest](../Sem%20categoria/Quest.md "Quest") e o selo se fechou, você não poderá mais continuar com a [quest](../Sem%20categoria/Quest.md "Quest") até que o ciclo comece novamente.
 - Você pode reiniciar a [quest](../Sem%20categoria/Quest.md "Quest") dos Selos trazendo 1 [Pedra das Valquírias](http://www.divine-pride.net/database/item/6320/) para o Advogado Sombrio (nif\_in 190,112)
 
-  :   ![AdvogadoSombrio](../images/3/39/AdvogadoSombrio.png)
+  :   ![AdvogadoSombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/AdvogadoSombrio.png)
 - Não há como saber a situação atual dos selos, se é possível iniciar as [quests](Quests.md "Quests") ou não. Logo, você deve falar com os [NPC](../Sem%20categoria/NPC.md "NPC")'s que começam as [quests](Quests.md "Quests") para descobrir se é possível continuar/começar com a [quest](../Sem%20categoria/Quest.md "Quest").
 - Significado dos broadcasts:
 

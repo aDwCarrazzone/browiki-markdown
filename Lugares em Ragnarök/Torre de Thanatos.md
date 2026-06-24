@@ -2,7 +2,7 @@
 
 # Torre de Thanatos
 
-[![ThanatosTorre](../images/e/ee/ThanatosTorre.png)](https://browiki.org/wiki/Arquivo%3AThanatosTorre.png)
+[![ThanatosTorre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/ThanatosTorre.png)](https://browiki.org/wiki/Arquivo%3AThanatosTorre.png)
 
 A Torre de Thanatos
 
@@ -22,11 +22,11 @@ Entretanto... muitos afirmam que viram anjos vingativos rondando os andares mais
 
 1. Para entrar na Torre, fale com Gatei (hu\_fild01 140,163)
 
-   :   ![Thanatos01a](../images/2/27/Thanatos01a.png)
+   :   ![Thanatos01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Thanatos01a.png)
 2. A entrada custa 5.000 [zeny](../Sem%20categoria/Zeny.md "Zeny"), mas se aceitar trabalhar na restauração, a taxa é de 3.000.
 3. Para trabalhar, fale com a Recepcionista Ditze (tha\_t01 149,78)
 
-   :   ![Thanatos02a](../images/f/fe/Thanatos02a.png)
+   :   ![Thanatos02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Thanatos02a.png)
 4. Aceitar o trabalho dará acesso a:
    - **[Segredo da Torre](../Quests%20de%20experi%C3%AAncia/Segredo%20da%20Torre.md "Segredo da Torre")**
    - *[Memórias de Thanatos](../Quests%20de%20experi%C3%AAncia/Mem%C3%B3rias%20de%20Thanatos.md "Memórias de Thanatos")*: [Instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância")

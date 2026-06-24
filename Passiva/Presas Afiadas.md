@@ -17,9 +17,9 @@ Treina seu Worg para a caça.
 
 Aumenta o [ATQ](../Sem%20categoria/ATQ.md "ATQ") do Worg e afeta o dano das habilidades:
 
-- [![Investida de Worg](../images/c/c4/Investida_de_Worg.png)](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg") [Investida de Worg](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg")
-- [![Mordida Feroz](../images/f/f8/Mordida_Feroz.png)](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz") [Mordida Feroz](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz")
-- [![Assalto de Worg](../images/5/54/Assalto_de_Worg.png)](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg") [Assalto de Worg](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg")
+- [![Investida de Worg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Investida_de_Worg.png)](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg") [Investida de Worg](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg")
+- [![Mordida Feroz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/Mordida_Feroz.png)](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz") [Mordida Feroz](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz")
+- [![Assalto de Worg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Assalto_de_Worg.png)](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg") [Assalto de Worg](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg")
 
 | Nv. | [ATQ](../Sem%20categoria/ATQ.md "ATQ") |
 | --- | --- |

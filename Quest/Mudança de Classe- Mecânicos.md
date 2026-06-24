@@ -15,30 +15,30 @@
 
 1. Converse várias vezes com Luc Tomwa (yuno 129,156). Insista na conversa até a opção "*Quero saber mais*" surgir.
 
-   :   ![MdC01](../images/c/c7/MdC01.png)
+   :   ![MdC01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/MdC01.png)
 2. Dirija-se ao Sábio (jupe\_cave 37,55)
 
-   :   ![MdC02](../images/b/b4/MdC02.png)
+   :   ![MdC02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/MdC02.png)
 
    - Ele teleportará você para uma versão do [Centro de Juperos](http://www.divine-pride.net/database/map/jupe_core2/).
    - Nesse mapa, existem [Dimiks](http://www.divine-pride.net/database/monster/2053/) mais fracos, mas tome cuidado mesmo assim.
    - Evite batalhas, use equipamentos com alta [esquiva perfeita](../Sem%20categoria/Esquiva%20perfeita.md "Esquiva perfeita") ou com [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") e [Furtividade](../Ativa/Furtividade.md "Furtividade"), leve bastantes poções.
 3. Seu objetivo é encontrar os 3 Fantasmas e selecionar a opção "*Concentrar-me*".
 
-   :   ![MdC03 new](../images/7/77/MdC03_new.png)
+   :   ![MdC03 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/MdC03_new.png)
 
    1. Fantasma 1 (jupe\_core2 149,273)
    2. Fantasma 2 (jupe\_core2 53,75)
    3. Fantasma 3 (jupe\_core2 242,62)
 4. Aproxime-se dos Dispositivos Oeste (jupe\_core2 29,150) e, depois, do Leste (jupe\_core2 272,149).
 
-   :   ![MdC07 new](../images/9/93/MdC07_new.png)
+   :   ![MdC07 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/MdC07_new.png)
 5. Ande ao redor da Estátua (jupe\_core2 288,140). Se você morrer ou desconectar antes de falar com este [NPC](../Sem%20categoria/NPC.md "NPC"), terá que ativar os dispositivos Oeste-Leste novamente.
 
-   :   ![MdC08](../images/9/9a/MdC08.png)
+   :   ![MdC08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/MdC08.png)
 6. Aproxime-se do Dispositivo Sul (jupe\_core2 150,33)
 
-   :   ![MdC09](../images/4/45/MdC09.png)
+   :   ![MdC09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/MdC09.png)
 7. Retorne ao Fantasma 1 (jupe\_core2 149,273).
 8. Reencontre Luc Tomwa para mudar de classe e receber 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e [Talento do Piloto](http://www.divine-pride.net/database/item/5749/).
    - Personagens masculinos recebem [Talento do Piloto](http://www.divine-pride.net/database/item/5749/) de cor vermelha.

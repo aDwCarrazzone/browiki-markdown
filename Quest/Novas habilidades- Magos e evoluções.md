@@ -30,7 +30,7 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Busque novos conhecimentos com Mishuna (yuno\_in03 175,24)
 
-   :   ![Novas Habilidades- Sábios01](../images/5/5b/Novas_Habilidades-_S%C3%A1bios01.png)
+   :   ![Novas Habilidades- Sábios01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Novas_Habilidades-_S%C3%A1bios01.png)
 2. Entregue os itens a Mishuna.
    - ![947.png](http://static.divine-pride.net/images/items/item/947.png) 7 [Chifre](http://www.divine-pride.net/database/item/947/)
    - ![1013.png](http://static.divine-pride.net/images/items/item/1013.png) 12 [Casco Arco-íris](http://www.divine-pride.net/database/item/1013/)
@@ -40,10 +40,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 3. Após aprender [Criar Conversor Elemental](../Ativa/Criar%20Conversor%20Elemental.md "Criar Conversor Elemental"), retorne a Mishuna.
 4. Com 1 [Tubo de Ensaio](http://www.divine-pride.net/database/item/1092/) no inventário, fale com o Instrutor de Magia (pay\_arche 122,101) para receber 1 [Solução de Payon](http://www.divine-pride.net/database/item/1089/).
 
-   :   ![Novas Habilidades-- Sábios02](../images/7/7c/Novas_Habilidades--_S%C3%A1bios02.png)
+   :   ![Novas Habilidades-- Sábios02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Novas_Habilidades--_S%C3%A1bios02.png)
 5. Com 1 [Tubo de Ensaio](http://www.divine-pride.net/database/item/1092/) no inventário, fale com a Instrutora de Magia (moc\_ruins 92,150) para receber 1 [Solução de Morroc](http://www.divine-pride.net/database/item/1088/).
 
-   :   ![Novas Habilidades-- Sábios03](../images/4/42/Novas_Habilidades--_S%C3%A1bios03.png)
+   :   ![Novas Habilidades-- Sábios03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Novas_Habilidades--_S%C3%A1bios03.png)
 6. Retorne a Mishuna para aprender [Mudança Elemental](../Ativa/Mudan%C3%A7a%20Elemental.md "Mudança Elemental").
    - Você poderá escolher 1 das 4 versões da habilidade, trazendo os itens abaixo de acordo com o elemento que você decidiu.
    - Após ter aprendido a habilidade, você não poderá alterá-la para outro elemento.
@@ -73,10 +73,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Fale com Miau (gef\_tower 116,37)
 
-   :   ![Novas Habilidades- Bruxos01](../images/e/e3/Novas_Habilidades-_Bruxos01.png)
+   :   ![Novas Habilidades- Bruxos01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Novas_Habilidades-_Bruxos01.png)
 2. Converse várias vezes com Simon Mayace (prt\_in 81,98)
 
-   :   ![Novas Habilidades- Bruxos02](../images/5/5e/Novas_Habilidades-_Bruxos02.png)
+   :   ![Novas Habilidades- Bruxos02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Novas_Habilidades-_Bruxos02.png)
 
    - Insista no [NPC](../Sem%20categoria/NPC.md "NPC") até ele mencionar o efeito de *empurrão*.
 3. Entregue os itens ao Miau para aprender a habilidade.
@@ -100,10 +100,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Localize o Mestre Velofos (geffen\_in 176,105)
 
-   :   ![Novas Habilidades- Bruxos03](../images/4/42/Novas_Habilidades-_Bruxos03.png)
+   :   ![Novas Habilidades- Bruxos03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Novas_Habilidades-_Bruxos03.png)
 2. Agora você pode comprar grimórios com Lea (geffen\_in 175,112)
 
-   :   ![Novas Habilidades- Bruxos04](../images/8/89/Novas_Habilidades-_Bruxos04.png)
+   :   ![Novas Habilidades- Bruxos04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Novas_Habilidades-_Bruxos04.png)
 
 | Categoria | Grimório | Preço |
 | --- | --- | --- |
@@ -135,26 +135,26 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Fale com Lea na guilda dos magos e pergunte pelos Grimórios Avançados (geffen\_in 175,112)
 
-   :   ![Novas Habilidades- Bruxos04](../images/8/89/Novas_Habilidades-_Bruxos04.png)
+   :   ![Novas Habilidades- Bruxos04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Novas_Habilidades-_Bruxos04.png)
 2. Converse com o Mestre Velofos e selecione "Sobre Grimórios Avançados" (geffen\_in 176,105)
 
-   :   ![Novas Habilidades- Bruxos03](../images/4/42/Novas_Habilidades-_Bruxos03.png)
+   :   ![Novas Habilidades- Bruxos03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Novas_Habilidades-_Bruxos03.png)
 3. Procure por Galfos em Ash Vacuum (mid\_camp 255,244)
 
-   :   ![Novas Habilidades- Bruxos04a](../images/6/6a/Novas_Habilidades-_Bruxos04a.png)
+   :   ![Novas Habilidades- Bruxos04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Novas_Habilidades-_Bruxos04a.png)
 4. Entre em [El Dicastes](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes") falando com o Guarda da Capital (dic\_fild01 147,280)
 
-   :   ![VdS04c](../images/8/82/VdS04c.png)
+   :   ![VdS04c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/VdS04c.png)
 
    - É necessário ter feito a missão [Visita do Manuk](Visita%20do%20Manuk.md "Visita do Manuk").
    - Você precisa completar a missão [Anel do Rei Sábio](../Quests%20de%20experi%C3%AAncia/Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") mesmo se já tiver o anel.
 5. Dirija-se ao norte de [El Dicastes](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes") (dic\_in01 46,286).
 6. Com o [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) equipado, use o elevador e escolha a opção *Sala de Arquivo*.
 
-   :   ![Relíquias Desconhecidas03](../images/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
+   :   ![Relíquias Desconhecidas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
 7. No lugar, examine os *Documentos Misteriosos* (dic\_in01 25,190)
 
-   :   ![Novas Habilidades- Bruxos04b](../images/f/f1/Novas_Habilidades-_Bruxos04b.png)
+   :   ![Novas Habilidades- Bruxos04b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Novas_Habilidades-_Bruxos04b.png)
 
    - **Preste atenção**: apenas 1 [NPC](../Sem%20categoria/NPC.md "NPC") chamado *Documentos Misteriosos* dá a missão, é o que fica nas coordenadas citadas.
    - Insista no diálogo até receber todas as 5 missões dos *dois* Grimórios.
@@ -165,20 +165,20 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
    1. Para obter o grimório de Cometa:
       1. Leve ![7097.png](http://static.divine-pride.net/images/items/item/7097.png) 40+ [Coração Incandescente](http://www.divine-pride.net/database/item/7097/) para Energia Ardente (thor\_v02 163,104)
 
-      :   ![Novas Habilidades- Bruxos05](../images/0/04/Novas_Habilidades-_Bruxos05.png)
+      :   ![Novas Habilidades- Bruxos05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Novas_Habilidades-_Bruxos05.png)
    2. Para obter o grimório de Tetra Vortex
       1. Leve ![7312.png](http://static.divine-pride.net/images/items/item/7312.png) 10+ [Jubileu](http://www.divine-pride.net/database/item/7312/) para Energia Fóssil (ein\_dun02 179,125)
 
-         :   ![Novas Habilidades- Bruxos06](../images/2/27/Novas_Habilidades-_Bruxos06.png)
+         :   ![Novas Habilidades- Bruxos06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Novas_Habilidades-_Bruxos06.png)
       2. Leve ![7561.png](http://static.divine-pride.net/images/items/item/7561.png) 10+ [Coração Glacial](http://www.divine-pride.net/database/item/7561/) para Energia Gélida (ice\_dun03 136,148)
 
-         :   ![Novas Habilidades- Bruxos07](../images/c/cc/Novas_Habilidades-_Bruxos07.png)
+         :   ![Novas Habilidades- Bruxos07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Novas_Habilidades-_Bruxos07.png)
       3. Leve ![7266.png](http://static.divine-pride.net/images/items/item/7266.png) 10+ [Dentadura da Máscara do Dragão](http://www.divine-pride.net/database/item/7266/) para Energia Airada (gon\_dun02 252,198)
 
-         :   ![Novas Habilidades- Bruxos08](../images/d/da/Novas_Habilidades-_Bruxos08.png)
+         :   ![Novas Habilidades- Bruxos08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Novas_Habilidades-_Bruxos08.png)
       4. Leve ![7098.png](http://static.divine-pride.net/images/items/item/7098.png) 10+ [Lenha em Brasa](http://www.divine-pride.net/database/item/7098/) para Energia Quente (thor\_v01 185,91)
 
-         :   ![Novas Habilidades- Bruxos09](../images/9/96/Novas_Habilidades-_Bruxos09.png)
+         :   ![Novas Habilidades- Bruxos09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Novas_Habilidades-_Bruxos09.png)
    3. Retorne a Galfos e compre os grimórios avançados com ele.
 
 | Tipo | Grimório | Preço |

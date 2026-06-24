@@ -14,17 +14,17 @@
 
 1. Com uma [Carne](http://www.divine-pride.net/database/item/517/) no seu inventário, fale com Morrisson (prt\_in 47,173)
 
-   :   ![Sucos01](../images/3/3e/Sucos01.png)
+   :   ![Sucos01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/Sucos01.png)
 
    - Selecione:
      - *Mostrar Carne.*
      - *Não dar a carne para ele.*
 2. Fale com Marianne (prt\_in 49,172)
 
-   :   ![Sucos02](../images/9/95/Sucos02.png)
+   :   ![Sucos02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/Sucos02.png)
 3. Fale com Marxhansen (payon\_in03 188,146)
 
-   :   ![Sucos03](../images/9/9d/Sucos03.png)
+   :   ![Sucos03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Sucos03.png)
 4. Agora você poderá fazer sucos com Marxhansen! Basta trazer os ingredientes abaixo e 3 [zenys](../Sem%20categoria/Zenys.md "Zenys").
    - Você pode optar por produzir Sucos diretamente através do [Kit de Culinária de Iniciante](../Itens/Culin%C3%A1ria.md "Culinária"), sem precisar ter completado essa missão.
    - Ingredentes em verde podem ser comprados em [NPC](../Sem%20categoria/NPC.md "NPC").

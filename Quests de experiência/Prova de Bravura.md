@@ -18,6 +18,6 @@
 
 1. Discorde da opinião do Manuk Garton (manuk 251,116)
 
-   :   ![Bravora01](../images/9/9c/Bravora01.png)
+   :   ![Bravora01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Bravora01.png)
 2. Derrote 1 [Rata](http://www.divine-pride.net/database/monster/2017/) e 1 [Duneyrr](http://www.divine-pride.net/database/monster/2018/) no calabouço da [Grande Ferida](http://www.divine-pride.net/database/map/nyd_dun01/).
 3. Retorne ao Manuk Garton para receber sua recompensa.

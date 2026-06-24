@@ -45,7 +45,7 @@ Se [Cultivar Fada](../Ativa/Cultivar%20Fada.md "Cultivar Fada") estiver ativo, c
 
 ### Esporão
 
-- Ícone: ![I Explosão Antimatéria](../images/3/35/I_Explos%C3%A3o_Antimat%C3%A9ria.png)
+- Ícone: ![I Explosão Antimatéria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/I_Explos%C3%A3o_Antimat%C3%A9ria.png)
 - Recebem 10% a mais de dano físico a distância.
 - [Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") Chefes recebem apenas 5% a mais.
 

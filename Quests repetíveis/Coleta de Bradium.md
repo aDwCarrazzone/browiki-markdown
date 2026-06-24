@@ -17,7 +17,7 @@
 
 1. Fale com Jeruth HesLanta (moro\_vol 136,84)
 
-   :   ![Heslanta](../images/1/1f/Heslanta.png)
+   :   ![Heslanta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Heslanta.png)
 
    - Você receberá 1 [Certificado do Explorador](http://www.divine-pride.net/database/item/6304/).
 2. Derrote 1 [Mímico Enfurecido](http://www.divine-pride.net/database/monster/3061/) e retorne a HesLanta.
@@ -26,12 +26,12 @@
    - A partir deste passo, você não poderá mais realizar a missão [Chamado de Cheshire](../Quests%20de%20experi%C3%AAncia/Chamado%20de%20Cheshire.md "Chamado de Cheshire").
    - Para concluir a história de Cheshire, fale com ele nas coordenadas (dicastes02 103,190)
 
-     :   ![Cheshirefinal](../images/1/13/Cheshirefinal.png)
+     :   ![Cheshirefinal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Cheshirefinal.png)
 4. Após 23 horas, fale com Jeruth HesLanta novamente.
 5. Colete 10 [Caixas de Bradium](http://www.divine-pride.net/database/item/6392/) e as entregue para HesLanta.
    - Você receberá 800.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base, 800.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe e 1 [Certificado do Explorador](http://www.divine-pride.net/database/item/6304/).
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

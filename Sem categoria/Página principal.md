@@ -6,7 +6,7 @@
 | --- | --- |
 | **Boas-vindas ao bRO Wiki** Emote34 new  O fã site brasileiro de **[Ragnarök Online Latin America](Ragnar%C3%B6k.md "Ragnarök")** com 1 806 guias do jogo!  Desde 12 de Março de 2012.    [BrowikiLogoYoutube](https://www.twitch.tv/andre_dunde) [Youtube](https://www.youtube.com/@canalbrowiki)  · [BrowikiLogoFacebook](https://web.facebook.com/ROWiki/) [Facebook](https://web.facebook.com/ROWiki/)  · [BrowikiLogoTwitch](https://www.instagram.com/browiki_/) [Instagram](https://www.instagram.com/browiki_/)  · [BrowikiLogoTwitter](https://x.com/browiki) [Twitter](https://x.com/browiki)  · [BlueSky](https://bsky.app/profile/browiki.bsky.social)  · [BrowikiLogoTwitchtv](https://www.twitch.tv/andre_dunde) [Twitch](https://www.twitch.tv/andre_dunde) | [BotãoJogar](https://member.gnjoylatam.com/pt/join?redirectUrl=https%3A%2F%2Fro.gnjoylatam.com%2Fprereservation) |
 
-[![EventoRefinoGrau](../images/3/37/EventoRefinoGrau.jpg)](https://ro.gnjoylatam.com/pt/event/anniversary_1st/jumpstart)
+[![EventoRefinoGrau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/EventoRefinoGrau.jpg)](https://ro.gnjoylatam.com/pt/event/anniversary_1st/jumpstart)
 
 [até 06.07.2026 · Evento
 
@@ -14,7 +14,7 @@
 
 Comemore o aniversário de 1 ano de RO LATAM com uma avalanche de eventos incríveis!!](https://ro.gnjoylatam.com/pt/event/anniversary_1st/jumpstart)
 
-[![Update](../images/d/d5/Update.png)](../Itens/Reforma.md "Reforma")
+[![Update](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/Update.png)](../Itens/Reforma.md "Reforma")
 
 [Permanente · Atualização
 
@@ -22,7 +22,7 @@ Comemore o aniversário de 1 ano de RO LATAM com uma avalanche de eventos incrí
 
 Conheça o sistema de Reforma e como ele vai impactar a sua vida a partir de hoje!](../Itens/Reforma.md "Reforma")
 
-[![EventoFestaAnniver](../images/f/f8/EventoFestaAnniver.jpg)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação")
+[![EventoFestaAnniver](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/EventoFestaAnniver.jpg)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação")
 
 [Permanente · Atualização
 
@@ -30,23 +30,23 @@ Conheça o sistema de Reforma e como ele vai impactar a sua vida a partir de hoj
 
 Hora de experimentar a política da boa vizinhança e conhecer o sistema de reputação!](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação")
 
-[![Profissões2](../images/6/69/Profiss%C3%B5es2.jpg)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes")
+[![Profissões2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Profiss%C3%B5es2.jpg)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes")
 
 ## [Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes")
 
-[![Inicial Eden](../images/6/6a/Inicial_Eden.png)](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden")
+[![Inicial Eden](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Inicial_Eden.png)](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden")
 
 ## [Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden")
 
-[![Airplane](../images/4/4a/Airplane.png)](../Quest/Inst%C3%A2ncias.md "Instâncias")
+[![Airplane](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Airplane.png)](../Quest/Inst%C3%A2ncias.md "Instâncias")
 
 ## [Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias")
 
-[![MvPlro](../images/e/ea/MvPlro.png)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP")
+[![MvPlro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/MvPlro.png)](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP")
 
 ## [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP")
 
-[![Fotogde00](../images/1/19/Fotogde00.jpg)](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium")
+[![Fotogde00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Fotogde00.jpg)](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium")
 
 ## [Guerra](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium")
 

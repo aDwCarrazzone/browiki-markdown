@@ -15,22 +15,22 @@
 | **Chefe** | Nenhum |
 | **Recompensa** | 7642.png [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
 
-[![FabricaHorror1](../images/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
+[![FabricaHorror1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
 
 Mapa-Chave da Fábrica. Clique para ampliar.
 
 1. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Palhaço Estranho (xmas 232,290).
 
-   :   ![PaliassoEstranio2](../images/b/b6/PaliassoEstranio2.png)
+   :   ![PaliassoEstranio2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/PaliassoEstranio2.png)
 2. Esta instância é divida em 4 fases. Confira o Mapa-Chave ao lado para detalhes.
 
    :   **Fase 1**
 3. Fale com Catherine. Você pode optar por ouvir a história ou não.
 
-   :   ![ToyHorror03](../images/e/e5/ToyHorror03.png)
+   :   ![ToyHorror03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/ToyHorror03.png)
 4. Assim que aparecer, clique na Caixa de Uniformes para se disfarçar em um PecoPeco.
 
-   :   ![ToyHorror04](../images/d/da/ToyHorror04.png)
+   :   ![ToyHorror04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/ToyHorror04.png)
 
    - Informações:
      - Todos do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão se disfarçar, caso contrário, [Soldadinhos Corrompidos](http://www.divine-pride.net/database/monster/2990/) serão invocados no decorrer da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
@@ -39,32 +39,32 @@ Mapa-Chave da Fábrica. Clique para ampliar.
      - Nesta fase, aparecerão [Presente](http://www.divine-pride.net/database/monster/1249/) e [Soldadinho de Chumbo](http://www.divine-pride.net/database/monster/1248/).
 5. Após eliminar 20 monstros, mantenha-se no disfarce de PecoPeco para falar com o Supervisor.
 
-   :   ![ToyHorror05](../images/6/6f/ToyHorror05.png)
+   :   ![ToyHorror05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/ToyHorror05.png)
 6. Clique na Caixa de Uniformes ao lado para se transformar em um Presente.
 
-   :   ![ToyHorror06](../images/d/de/ToyHorror06.png)
+   :   ![ToyHorror06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/ToyHorror06.png)
 7. Entre no portal e siga reto pela esteira para a Fase 2.
 
    :   **Fase 2**
 8. Fale com Catherine. Você pode optar por ouvir as táticas dela ou não.
 
-   :   ![ToyHorror06a](../images/3/32/ToyHorror06a.png)
+   :   ![ToyHorror06a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/ToyHorror06a.png)
 9. Clique na Caixa de Uniformes para se disfarçar em PecoPeco novamente.
 
-   :   ![ToyHorror07](../images/5/5b/ToyHorror07.png)
+   :   ![ToyHorror07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/ToyHorror07.png)
 
    - Informações:
      - Desta vez, o tempo do disfarce é de 5 minutos.
      - Nesta fase, aparecerão [Lude Grotesco](http://www.divine-pride.net/database/monster/2992/) (1 vez), [Ursinho](http://www.divine-pride.net/database/monster/1622/), [Presente](http://www.divine-pride.net/database/monster/1249/) e [Poltergeist](http://www.divine-pride.net/database/monster/1510/)
 10. Agora, percorra pela área atrás de 10 Operários.
 
-    :   ![ToyHorror08](../images/b/b1/ToyHorror08.png)
+    :   ![ToyHorror08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/ToyHorror08.png)
 11. Terminada a busca, retorne ao portal e siga subindo pelas esteiras para a próxima etapa.
 
     :   **Fase 3**
 12. Inicie a conversa com o Papai Noel Capturado.
 
-    :   ![ToyHorror09](../images/e/e8/ToyHorror09.png)
+    :   ![ToyHorror09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/ToyHorror09.png)
 13. Após o diálogo, dirija-se ao portal da esquerda.
     - Informações:
       - Seu objetivo é encontrar e derrotar [Antonio](http://www.divine-pride.net/database/monster/2988/).
@@ -81,10 +81,10 @@ Mapa-Chave da Fábrica. Clique para ampliar.
 16. Ao derrotar a [Celine Falsificada](http://www.divine-pride.net/database/monster/2994/), saia pelo portal sul da esteira.
 17. Na sala de tesouros, aproxime-se de Catherine para concluir o enredo.
 
-    :   ![ToyHorror10](../images/f/f1/ToyHorror10.png)
+    :   ![ToyHorror10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/ToyHorror10.png)
 18. Clique nos Baús.
 
-    :   ![ToyHorror12](../images/5/53/ToyHorror12.png)
+    :   ![ToyHorror12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/ToyHorror12.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelos baús:
       - ![7642.png](http://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
@@ -100,7 +100,7 @@ Mapa-Chave da Fábrica. Clique para ampliar.
     - Bônus de DROP não influenciam na chance.
 19. Para sair da instância, clique no Portão.
 
-    :   ![ToyHorror13](../images/f/fe/ToyHorror13.png)
+    :   ![ToyHorror13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/ToyHorror13.png)
 
     - Você pode trocar as [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) por [itens natalinos](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md#Itens_Natalinos "Lutie").
 

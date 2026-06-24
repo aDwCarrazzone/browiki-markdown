@@ -2,7 +2,7 @@
 
 # Liga dos Desbravadores
 
-![LigadosDesbravadores2](../images/9/96/LigadosDesbravadores2.png)
+![LigadosDesbravadores2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/LigadosDesbravadores2.png)
 
 Um grupo de seres de outra dimensão estão em busca de aventureiros experientes.
 
@@ -14,7 +14,7 @@ Você pode ajudá-los nessa nova aventura ao explorar [instâncias](../Quest/Ins
 
 - O prédio da **Liga dos Desbravadores** fica em [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta") (alberta 116,71)
 
-:   ![OrdemPredium](../images/a/a4/OrdemPredium.png)
+:   ![OrdemPredium](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/OrdemPredium.png)
 
 ## Teleporte
 
@@ -22,7 +22,7 @@ Você pode ajudá-los nessa nova aventura ao explorar [instâncias](../Quest/Ins
 - A maioria dos teleportes custam 20.000 zenys.
 - Em alguns locais, se você tiver completado a missão de acesso, o serviço é gratuito.
 
-  :   ![OrdemPredium2](../images/3/3f/OrdemPredium2.png)
+  :   ![OrdemPredium2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/OrdemPredium2.png)
 
 ## Missões
 
@@ -32,7 +32,7 @@ Você pode ajudá-los nessa nova aventura ao explorar [instâncias](../Quest/Ins
 - Dessa forma, mesmo que você não tenha falado com a placa no dia seguinte, você já terá a missão de caça ativa, aguardando apenas o tempo de espera liberar.
 - Você receberá [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe ao completar as missões de caçada.
 
-  :   ![OrdemPredium3](../images/4/43/OrdemPredium3.png)
+  :   ![OrdemPredium3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/OrdemPredium3.png)
 
 | Missões A | | | |
 | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Você pode ajudá-los nessa nova aventura ao explorar [instâncias](../Quest/Ins
 
 - Troque as [Moedas do Desbravador](http://www.divine-pride.net/database/item/1002750/) com Yanoma.
 
-  :   ![OrdemPredium4](../images/4/44/OrdemPredium4.png)
+  :   ![OrdemPredium4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/OrdemPredium4.png)
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -12,7 +12,7 @@ Para mais informações, acesse o **[Site Oficial](https://ro.gnjoylatam.com/pt/
 
 O torneio segue um formato de partida baseada em [clãs](../Sem%20categoria/Cl%C3%A3s.md "Clãs").
 
-![ROS2025a](../images/3/3d/ROS2025a.png)
+![ROS2025a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/ROS2025a.png)
 
 ## Informações
 

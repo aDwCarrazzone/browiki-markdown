@@ -2,7 +2,7 @@
 
 # Batalhas Campais
 
-![Bgkvmbn01](../images/c/c7/Bgkvmbn01.jpg)
+![Bgkvmbn01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Bgkvmbn01.jpg)
 
 Numa terra distante, à oeste de [Arunafeltz](../Sem%20categoria/Arunafeltz.md "Arunafeltz"), fica localizado o poderoso reino de Maroll.
 
@@ -26,13 +26,13 @@ As Batalhas Campais são disputadas por duas equipes, os vencedores receberão p
 
 1. Para participar da Campal, você deve falar com a Emissária de Maroll, localizada nas principais cidades.
 
-   :   ![Batalhacampal1](../images/6/6f/Batalhacampal1.png)
+   :   ![Batalhacampal1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Batalhacampal1.png)
 2. No Atrium, você encontrará os [NPCs](../Sem%20categoria/NPC.md "NPC") Príncipe Croix e General Guillaume, escolha seu lado nessa disputa!
 
-   :   ![Batalhacampal2](../images/9/94/Batalhacampal2.png) ![Batalhacampal3](../images/1/16/Batalhacampal3.png)
+   :   ![Batalhacampal2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Batalhacampal2.png) ![Batalhacampal3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Batalhacampal3.png)
 3. Após a decisão, você deverá encontrar os Oficiais responsáveis por levar você até a sala de espera, as guerras não começarão sem os participantes necessários.
 
-   :   ![Batalhacampal4](../images/b/b7/Batalhacampal4.png) ![Batalhacampal5](../images/c/c4/Batalhacampal5.png)
+   :   ![Batalhacampal4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Batalhacampal4.png) ![Batalhacampal5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Batalhacampal5.png)
 
 ### Arenas
 
@@ -67,10 +67,10 @@ Existem prêmios específicos para cada Emblema e Ponto, isso significa que voc�
 
 1. Erudek troca emblemas de Valor e Bravura por [itens](../Itens/Itens.md "Itens") relacionados aos emblemas.
 
-   :   ![Batalhacampal6](../images/6/6e/Batalhacampal6.png)
+   :   ![Batalhacampal6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Batalhacampal6.png)
 2. O negociante KVM troca Emblemas por [itens](../Itens/Itens.md "Itens") da KVM.
 
-   :   ![Batalhacampal7](../images/e/e9/Batalhacampal7.png)
+   :   ![Batalhacampal7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Batalhacampal7.png)
 
 | Consumíveis | 7828.png [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* 7829.png [Valor](http://www.divine-pride.net/database/item/7829/) |
 | --- | --- |

@@ -14,7 +14,7 @@
 
 1. Na sala de conveniência do seu castelo, clique no Girassol Misterioso para teleportar até a Fallacious Okolnir.
 
-   :   ![Dessafio0](../images/8/8c/Dessafio0.png)
+   :   ![Dessafio0](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/Dessafio0.png)
 2. O líder do [clã](../PvP/Cl%C3%A3.md "Clã") deverá falar com a Dama dos Desejos para iniciar a missão.
    - Tenha os materiais necessários para a criação do item divino no inventário.
    - É preciso que o castelo tenha 65 de Economia e 30 de Defesa.
@@ -22,7 +22,7 @@
    :   **O Jardim Secreto**
 3. Nessa primeira etapa, todos os membros de seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") serão separados e espalhados por diferentes pontos do labirinto.
 
-   :   ![Dessafio1](../images/d/d2/Dessafio1.png)
+   :   ![Dessafio1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/Dessafio1.png)
 
    - A cada 2 minutos nesse mapa, as flores mudam de lugar, abrindo e fechando novos caminhos.
    - Para cada personagem no jardim, um [monstro](../Sem%20categoria/Monstro.md "Monstro") com o mesmo nome aparece, sendo necessário eliminá-los para passar do labirinto.
@@ -30,7 +30,7 @@
    :   **O Devaneio**
 4. Nessa fase, recolha as [Chaves de Cristal](http://www.divine-pride.net/database/item/7839/) que caem dos [Seguranças do Jardim](http://www.divine-pride.net/database/monster/1932/).
 
-   :   ![Dessafio2](../images/5/57/Dessafio2.png)
+   :   ![Dessafio2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Dessafio2.png)
 
    - Cada membro do seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverá ter 1 [Chave de Cristal](http://www.divine-pride.net/database/item/7839/) para prosseguir.
    - As [Chaves de Cristal](http://www.divine-pride.net/database/item/7839/) não passam por [negociação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Negocia%C3%A7%C3%A3o.md "Negociação"), então não pegue do chão se você já tem uma.
@@ -39,7 +39,7 @@
    :   **O Sonho**
 5. Alguns membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") serão aprisionados e ficarão sob o efeito de [atordoamento](../Sem%20categoria/Atordoamento.md "Atordoamento").
 
-   :   ![Dessafio3](../images/8/88/Dessafio3.png)
+   :   ![Dessafio3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Dessafio3.png)
 
    - O resto do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") terá 90 segundos para destruir as [Barricadas](http://www.divine-pride.net/database/monster/1906/) e libertá-los, do contrário, o teste recomeçará.
    - Para dificultar, a [Piamette](http://www.divine-pride.net/database/monster/1930/) ativará armadilhas, surgindo [Mímicos Anciões](http://www.divine-pride.net/database/monster/1699/), [Alices](http://www.divine-pride.net/database/monster/1275/) e [Violy](http://www.divine-pride.net/database/monster/1390/).
@@ -49,14 +49,14 @@
    :   **O Pesadelo**
 6. No novo mapa, existem 120 [Caçadores Sanguinários](http://www.divine-pride.net/database/monster/1762/), 120 [Guardiões das Sombras](http://www.divine-pride.net/database/monster/1761/) e 50 [Vigias](http://www.divine-pride.net/database/monster/1933/) para você enfrentar, mas somente 20 desses [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são os "certos".
 
-   :   ![Dessafio4](../images/6/69/Dessafio4.png)
+   :   ![Dessafio4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Dessafio4.png)
 
    - Ao encontrar e eliminar os 20 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") certos, os outros morrerão e o caminho se abre para a próxima etapa.
 
    :   **O Despertar**
 7. Fale com a Dama dos Desejos.
 
-   :   ![Dessafio5](../images/5/57/Dessafio5.png)
+   :   ![Dessafio5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Dessafio5.png)
 
    - A batalha entre seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e a [Dama dos Desejos](http://www.divine-pride.net/database/monster/1931/) começará.
 8. Ao derrotá-la, o líder do [clã](../PvP/Cl%C3%A3.md "Clã") poderá criar o [Manto de Asfrika](http://www.divine-pride.net/database/item/2541/) ou a [Armadura de Brynhildr](http://www.divine-pride.net/database/item/2383/), de acordo com os itens.
@@ -78,10 +78,10 @@
 1. Ao completar a Fallacius Okolnir, o líder do [clã](../PvP/Cl%C3%A3.md "Clã") receberá 1 [Presente da Valquíria](http://www.divine-pride.net/database/item/7840/).
 2. Se seu castelo fica no Feudo de Valfreyja, entregue o item para Rhehe Ravies (rachel 132,117)
 
-   :   ![Dessafio6](../images/a/ae/Dessafio6.png)
+   :   ![Dessafio6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Dessafio6.png)
 3. Se seu castelo fica no Feudo de Nithafjoll, entregue o item para Rmimi Ravies (yuno 118,192)
 
-   :   ![Dessafio7](../images/1/15/Dessafio7.png)
+   :   ![Dessafio7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Dessafio7.png)
 4. Uma das duas [NPCs](../Sem%20categoria/NPC.md "NPC") iniciarão o *Presente da Valquíria*: uma celebração que invocará 12 vezes 50 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") Cristais:
    - [Cristal Amarelo](http://www.divine-pride.net/database/monster/1395/)
    - [Cristal Verde](http://www.divine-pride.net/database/monster/1396/)

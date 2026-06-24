@@ -51,7 +51,7 @@ Obtenha controle das caóticas forças da magia e descubra novas formas de causa
 
 ### Árvore de habilidades
 
-![SkilltreeArcanos](../images/0/0e/SkilltreeArcanos.png)
+![SkilltreeArcanos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/SkilltreeArcanos.png)
 
 ## Construção do Personagem
 

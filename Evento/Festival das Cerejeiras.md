@@ -14,10 +14,10 @@
 
 1. Em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), converse com Arles Orleans (prontera 167,291).
 
-   :   ![SpringFlower 01](../images/8/8c/SpringFlower_01.png)
+   :   ![SpringFlower 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/SpringFlower_01.png)
 2. Para coletar os [Raminhos de Flores](http://www.divine-pride.net/database/item/9585/), elimine as Cerejeiras espalhadas pela cidade que derrubarão vários raminho no chão.
 
-   :   ![SpringFlower 02](../images/0/00/SpringFlower_02.png)
+   :   ![SpringFlower 02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/SpringFlower_02.png)
 
    - Assim que eliminar uma, vários [Raminhos de Flores](http://www.divine-pride.net/database/item/9585/) serão derrubados no chão ao redor da árvore.
    - As Cerejeiras reaparecem a cada 5 minutos.

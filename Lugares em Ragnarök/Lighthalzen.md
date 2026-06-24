@@ -2,7 +2,7 @@
 
 # Lighthalzen
 
-[![Lighthalzen art](../images/b/bd/Lighthalzen_art.png)](https://browiki.org/wiki/Arquivo%3ALighthalzen_art.png)
+[![Lighthalzen art](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Lighthalzen_art.png)](https://browiki.org/wiki/Arquivo%3ALighthalzen_art.png)
 
 Lighthalzen, a Cidade-Estado da Prosperidade
 
@@ -60,7 +60,7 @@ Após a grande rebelião, Varmunt abandonou a Regenschirm e se escondeu em sua M
 
 ## Quests & Calabouços
 
-[![WolfchevLab](../images/0/09/WolfchevLab.jpg)](https://browiki.org/wiki/Arquivo%3AWolfchevLab.jpg)
+[![WolfchevLab](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/WolfchevLab.jpg)](https://browiki.org/wiki/Arquivo%3AWolfchevLab.jpg)
 
 O laboratório de Wolfchev
 

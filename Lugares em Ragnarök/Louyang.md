@@ -2,7 +2,7 @@
 
 # Louyang
 
-[![Louyang worldmap](../images/a/a9/Louyang_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ALouyang_worldmap.jpg)
+[![Louyang worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Louyang_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ALouyang_worldmap.jpg)
 
 Louyang, as terras altas
 

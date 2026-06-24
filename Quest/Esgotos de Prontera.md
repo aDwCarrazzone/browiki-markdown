@@ -14,11 +14,11 @@
 
 1. Fale com o Recrutador (prt\_in 88,105)
 
-   :   ![Esgotos de Prontera01](../images/6/6f/Esgotos_de_Prontera01.png)
+   :   ![Esgotos de Prontera01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Esgotos_de_Prontera01.png)
 
    - Selecione:
      - *Quero juntar-me às forças!*
    - Você recebe 3 [Poções Vermelhas](http://www.divine-pride.net/database/item/7312/), 1 [Leite](http://www.divine-pride.net/database/item/519/), 1 [Poção Laranja](http://www.divine-pride.net/database/item/7312/) e se teleportará para a entrada dos esgotos.
 2. Para acessar os esgotos, converse com o Encarregado dos Esgotos (prt\_fild05 270,212)
 
-   :   ![Esgotos de Prontera02](../images/6/65/Esgotos_de_Prontera02.png)
+   :   ![Esgotos de Prontera02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Esgotos_de_Prontera02.png)

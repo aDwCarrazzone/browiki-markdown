@@ -6,19 +6,19 @@ Configure o jogo da melhor forma para uma jogabilidade mais personalizada.
 
 Para acessar o menu de *Configurações do Jogo* e de *Teclas de Atalho*, basta apertar o botão `ESC`
 
-![ESCbutau](../images/0/0a/ESCbutau.png)
+![ESCbutau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/ESCbutau.png)
 
 ## Configurações
 
 Na janela de configurações, você pode ajustar música, efeitos sonoros, efeitos gráficos, idioma e até alterar a *Skin* do jogo.
 
-![Settingwnd](../images/0/0a/Settingwnd.png)
+![Settingwnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Settingwnd.png)
 
 ## Atalhos
 
 Os atalhos rápidos podem ser alterados de acordo com o seu gosto, não apenas para uso de [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades"), mas também para acesso a outras janelas.
 
-![Hotkeyteclas](../images/3/31/Hotkeyteclas.png)
+![Hotkeyteclas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Hotkeyteclas.png)
 
 ## Teclas
 

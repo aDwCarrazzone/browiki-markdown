@@ -53,7 +53,7 @@ Contudo, permitir que um Espírito Santo entre no corpo é difícil demais para 
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeGuardiões Reais](../images/3/35/SkilltreeGuardi%C3%B5es_Reais.png)
+![SkilltreeGuardiões Reais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/SkilltreeGuardi%C3%B5es_Reais.png)
 
 ## Construção do Personagem
 

@@ -20,23 +20,23 @@
 
 1. Converse com Fili (ecl\_fild01 190,93)
 
-   :   [![Aventuras em Eclage1](../images/9/9c/Aventuras_em_Eclage1.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage1.png)
+   :   [![Aventuras em Eclage1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Aventuras_em_Eclage1.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage1.png)
 
    - Selecione:
      - *Esplêndidos que amam a terra*
 2. Encontre as 4 fadas espalhadas no mapa:
    1. Esplêndido Jardineiro (ecl\_fild01 83,263)
 
-      :   [![Aventuras em Eclage2](../images/1/11/Aventuras_em_Eclage2.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage2.png)
+      :   [![Aventuras em Eclage2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Aventuras_em_Eclage2.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage2.png)
    2. Esplêndido Gracioso (ecl\_fild01 237,181)
 
-      :   [![Aventuras em Eclage3](../images/b/b9/Aventuras_em_Eclage3.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage3.png)
+      :   [![Aventuras em Eclage3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/Aventuras_em_Eclage3.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage3.png)
    3. Esplêndida Cantora (ecl\_fild01 222,290)
 
-      :   [![Aventuras em Eclage4](../images/e/e5/Aventuras_em_Eclage4.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage4.png)
+      :   [![Aventuras em Eclage4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Aventuras_em_Eclage4.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage4.png)
    4. Esplêndida Dançarina (ecl\_fild01 163,196)
 
-      :   [![Aventuras em Eclage5](../images/0/04/Aventuras_em_Eclage5.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage5.png)
+      :   [![Aventuras em Eclage5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Aventuras_em_Eclage5.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage5.png)
 3. Retorne ao Fili, que agradecerá:
    - 1 [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/)
    - 300.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e classe.
@@ -46,21 +46,21 @@
 5. Encontre os aventureiros. Os dois primeiros mudam de posição, basta aproximar-se deles para ativar o diálogo.
    1. Euncheong
 
-      :   [![Aventuras em Eclage6](../images/f/f1/Aventuras_em_Eclage6.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage6.png)
+      :   [![Aventuras em Eclage6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Aventuras_em_Eclage6.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage6.png)
 
       - (ecl\_tdun01 11,62)
       - (ecl\_tdun01 51,103)
       - (ecl\_tdun01 98,47)
    2. Rosi
 
-      :   [![Aventuras em Eclage7](../images/c/c0/Aventuras_em_Eclage7.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage7.png)
+      :   [![Aventuras em Eclage7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Aventuras_em_Eclage7.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage7.png)
 
       - (ecl\_tdun02 99,63)
       - (ecl\_tdun02 84,21)
       - (ecl\_tdun02 22,36)
    3. Novo Oz
 
-      :   [![Aventuras em Eclage8](../images/6/69/Aventuras_em_Eclage8.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage8.png)
+      :   [![Aventuras em Eclage8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Aventuras_em_Eclage8.png)](https://browiki.org/wiki/Arquivo%3AAventuras_em_Eclage8.png)
 
       - (ecl\_tdun03 68,80)
 6. Reporte a situação a Fili, que dará 10 [Carnes](http://www.divine-pride.net/database/item/517/).
@@ -91,10 +91,10 @@
 
 1. Ajude o Mensageiro Roy (ecl\_fild01 205,86)
 
-   :   ![Rumores sobre o Rei4](../images/9/97/Rumores_sobre_o_Rei4.png)
+   :   ![Rumores sobre o Rei4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Rumores_sobre_o_Rei4.png)
 2. Pegue o [Pacote de Correio](http://www.divine-pride.net/database/item/6552/) com o Diretor do Escritório (splendide 267,368)
 
-   :   ![Rumores sobre o Rei5](../images/8/8a/Rumores_sobre_o_Rei5.png)
+   :   ![Rumores sobre o Rei5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Rumores_sobre_o_Rei5.png)
 
    - Não há necessidade de equipar o [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) para conversar com o Diretor.
 3. Entregue o [Pacote de Correio](http://www.divine-pride.net/database/item/6552/) ao Mensageiro Roy para receber sua recompensa.
@@ -116,7 +116,7 @@
 
 1. Ajude o Guarda de Eclage, Leo (eclage 112,40)
 
-   :   ![Rumores sobre o Rei6](../images/1/1b/Rumores_sobre_o_Rei6.png)
+   :   ![Rumores sobre o Rei6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Rumores_sobre_o_Rei6.png)
 2. Derrote 5 [Menblatt](http://www.divine-pride.net/database/monster/2363/) e 5 [Petal](http://www.divine-pride.net/database/monster/2364/).
 3. Retorne ao Guarda de Eclage, Leo para receber sua recompensa.
 
@@ -137,7 +137,7 @@
 
 1. Ajude o Guarda de Eclage (ecl\_in01 82,70)
 
-   :   ![Rumores sobre o Rei3](../images/c/c6/Rumores_sobre_o_Rei3.png)
+   :   ![Rumores sobre o Rei3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Rumores_sobre_o_Rei3.png)
 2. Entregue os itens para receber sua recompensa.
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |

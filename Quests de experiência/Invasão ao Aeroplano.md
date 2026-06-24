@@ -18,10 +18,10 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), acesse a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo Salta-Dimensões (dali02 142,81)
 
-   :   ![InvasaoAeroplano01](../images/2/28/InvasaoAeroplano01.png)
+   :   ![InvasaoAeroplano01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/InvasaoAeroplano01.png)
 2. Converse com Iris próxima à cabine do capitão.
 
-   :   ![InvasaoAeroplano02](../images/f/f5/InvasaoAeroplano02.png)
+   :   ![InvasaoAeroplano02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/InvasaoAeroplano02.png)
 
    - Um ataque será anunciado, não adianta atacar os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") aqui, eles são apenas [NPCs](../Sem%20categoria/NPCs.md "NPCs")
    - Use o portal para acessar o interior do aeroplano.
@@ -32,7 +32,7 @@
 3. Elimine todos os monstros e desça as escadas.
 4. No andar inferior, derrote todos os monstros e fale com Iris em seguida.
 
-   :   ![InvasaoAeroplano03](../images/2/29/InvasaoAeroplano03.png)
+   :   ![InvasaoAeroplano03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/InvasaoAeroplano03.png)
 5. Após falar com Iris, suba as escadas e elimine todos os monstros.
 6. Suba as escadas e fale com Fenrir para iniciar a batalha.
    - Você enfrentará um [Wyvern Gigante](http://www.divine-pride.net/database/monster/3180/).
@@ -42,7 +42,7 @@
    - Para os [Arcebispos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcebispos.md "Arcebispos") e evoluções, um [Capitão Ferlock](http://www.divine-pride.net/database/monster/3188/) mais fraco aparece.
 8. Ao fim da luta, fale com Chaos para receber sua [EXP](../Sem%20categoria/EXP.md "EXP") e sair pelo portal na ponte.
 
-   :   ![InvasaoAeroplano04](../images/f/ff/InvasaoAeroplano04.png)
+   :   ![InvasaoAeroplano04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/InvasaoAeroplano04.png)
 
 | Nv. | [EXP](../Sem%20categoria/EXP.md "EXP") base | [EXP](../Sem%20categoria/EXP.md "EXP") classe |
 | --- | --- | --- |

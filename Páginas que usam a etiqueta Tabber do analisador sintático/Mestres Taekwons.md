@@ -50,7 +50,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeMestres Taekwons](../images/7/72/SkilltreeMestres_Taekwons.png)
+![SkilltreeMestres Taekwons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/SkilltreeMestres_Taekwons.png)
 
 ## Construção do Personagem
 

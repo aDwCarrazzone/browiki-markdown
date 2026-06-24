@@ -17,15 +17,15 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Estrela do Mar (mal\_dun01 151,235)
 
-   :   ![Caverna do Polvo1](../images/a/a8/Caverna_do_Polvo1.png)
+   :   ![Caverna do Polvo1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Caverna_do_Polvo1.png)
 
    - Todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão ter 1 [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/6442/) no inventário para participar.
 2. Clique na Entrada Estranha para acessar.
 
-   :   ![Caverna do Polvo2](../images/d/d4/Caverna_do_Polvo2.png)
+   :   ![Caverna do Polvo2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Caverna_do_Polvo2.png)
 3. Sua tarefa é eliminar 1 [Tentáculo de Polvo](http://www.divine-pride.net/database/monster/2193/) no final de cada corredor. Como existem 4 portais, serão ao todo 4 Tentáculos.
 
-   :   ![Caverna do Polvo3](../images/1/1e/Caverna_do_Polvo3.png)
+   :   ![Caverna do Polvo3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Caverna_do_Polvo3.png)
 4. Entre no portal ao norte para enfrentar o [Polvo Gigante](http://www.divine-pride.net/database/monster/2194/).
 5. Saia da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo portal ao norte.
 

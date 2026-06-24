@@ -24,9 +24,9 @@ Alinha os centros de energia, concedendo a chance de adquirir 1 esfera espiritua
 
 Aumenta em 50% o dano das seguintes habilidades:
 
-- [![O Último Dragão](../images/d/d2/O_%C3%9Altimo_Drag%C3%A3o.png)](../Ofensiva/O%20%C3%9Altimo%20Drag%C3%A3o.md "O Último Dragão") [O Último Dragão](../Ofensiva/O%20%C3%9Altimo%20Drag%C3%A3o.md "O Último Dragão")
-- [![Combo Esmagador](../images/3/36/Combo_Esmagador.png)](../Ofensiva/Combo%20Esmagador.md "Combo Esmagador") [Combo Esmagador](../Ofensiva/Combo%20Esmagador.md "Combo Esmagador")
-- [![Punho do Tigre](../images/e/e6/Punho_do_Tigre.png)](../Ofensiva/Punho%20do%20Tigre.md "Punho do Tigre") [Punho do Tigre](../Ofensiva/Punho%20do%20Tigre.md "Punho do Tigre")
+- [![O Último Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/O_%C3%9Altimo_Drag%C3%A3o.png)](../Ofensiva/O%20%C3%9Altimo%20Drag%C3%A3o.md "O Último Dragão") [O Último Dragão](../Ofensiva/O%20%C3%9Altimo%20Drag%C3%A3o.md "O Último Dragão")
+- [![Combo Esmagador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Combo_Esmagador.png)](../Ofensiva/Combo%20Esmagador.md "Combo Esmagador") [Combo Esmagador](../Ofensiva/Combo%20Esmagador.md "Combo Esmagador")
+- [![Punho do Tigre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Punho_do_Tigre.png)](../Ofensiva/Punho%20do%20Tigre.md "Punho do Tigre") [Punho do Tigre](../Ofensiva/Punho%20do%20Tigre.md "Punho do Tigre")
 
 | Nv. | Chance | [Conjuração fixa](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20fixa.md "Conjuração fixa") | [HP](../Sem%20categoria/HP.md "HP") | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- | --- | --- |

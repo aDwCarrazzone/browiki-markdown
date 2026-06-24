@@ -10,11 +10,11 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Todas as habilidades novas de [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") são adquiridas por Yuji, na guilda dos Gatunos (moc\_prydb1 154,128)
 
-   :   ![Novas Habilidades- Gatunos](../images/7/72/Novas_Habilidades-_Gatunos.png)
+   :   ![Novas Habilidades- Gatunos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/Novas_Habilidades-_Gatunos.png)
 2. Observe o nível de classe necessário para completar as missões.
 3. Para conseguir um [Alforje de Couro do Infinito](http://www.divine-pride.net/database/item/7042/), fale com o Mercador de Bolsas (payon 91,77).
 
-   :   ![Novas Habilidades- Gatunos01](../images/2/2e/Novas_Habilidades-_Gatunos01.png)
+   :   ![Novas Habilidades- Gatunos01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Novas_Habilidades-_Gatunos01.png)
 
 |  |  |  |
 | --- | --- | --- |
@@ -46,10 +46,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Na guilda dos Mercenários, fale com o Mercenário (in\_moc\_16 14,27)
 
-   :   ![Novas Habilidades- Mercenários01](../images/0/05/Novas_Habilidades-_Mercen%C3%A1rios01.png)
+   :   ![Novas Habilidades- Mercenários01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Novas_Habilidades-_Mercen%C3%A1rios01.png)
 2. Você pode comprar as [Facas Envenenadas](http://www.divine-pride.net/database/item/1771/) com o Mercador Sepulcral (in\_moc\_16 22,20) ou em qualquer Loja de Ferramentas das cidades.
 
-   :   ![Novas Habilidades- Mercenários010](../images/2/22/Novas_Habilidades-_Mercen%C3%A1rios010.png)
+   :   ![Novas Habilidades- Mercenários010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Novas_Habilidades-_Mercen%C3%A1rios010.png)
 
 ### Lâminas Aceleradas
 
@@ -65,14 +65,14 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Na guilda dos Mercenários, fale com a Mercenária (in\_moc\_16 23,27)
 
-   :   ![Novas Habilidades- Mercenários02a](../images/c/cb/Novas_Habilidades-_Mercen%C3%A1rios02a.png)
+   :   ![Novas Habilidades- Mercenários02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Novas_Habilidades-_Mercen%C3%A1rios02a.png)
 2. Seu objetivo é encontrar 1 joia no local mencionado pela [NPC](../Sem%20categoria/NPC.md "NPC"). *Preste atenção no diálogo*.
    1. Se ela mencionou **Sarcófago**, siga para a *Esfinge*.
       - Você deverá se aproximar de 1 dessas 2 coordenadas abaixo.
       - Se o diálogo não aparecer em uma coordenada, tente outra.
       - Você deve receber 1 [Safira](http://www.divine-pride.net/database/item/726/).
 
-      :   ![Novas Habilidades- Mercenários03](../images/c/c1/Novas_Habilidades-_Mercen%C3%A1rios03.png)
+      :   ![Novas Habilidades- Mercenários03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/Novas_Habilidades-_Mercen%C3%A1rios03.png)
       :   Possibilidade 1: (in\_sphinx2 260,218)
       :   Possibilidade 2: (in\_sphinx2 216,268)
    2. Se ela mencionou **Estátuas de Pedra**, siga para a *Esfinge*.
@@ -80,14 +80,14 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
       - Se o diálogo não aparecer em uma coordenada, tente outra.
       - Você deve receber 1 [Rubi](http://www.divine-pride.net/database/item/723/).
 
-      :   ![Novas Habilidades- Mercenários04](../images/8/82/Novas_Habilidades-_Mercen%C3%A1rios04.png)
+      :   ![Novas Habilidades- Mercenários04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Novas_Habilidades-_Mercen%C3%A1rios04.png)
       :   Possibilidade 1: (in\_sphinx2 13,150)
       :   Possibilidade 2: (in\_sphinx2 13,159)
    3. Se ela mencionou **Cripta Inundada**, siga para a *Pirâmide*.
       - Você deverá se aproximar da coordenada abaixo.
       - Você deve receber 1 [Aquamarina](http://www.divine-pride.net/database/item/720/).
 
-      :   ![Novas Habilidades- Mercenários05](../images/2/2d/Novas_Habilidades-_Mercen%C3%A1rios05.png)
+      :   ![Novas Habilidades- Mercenários05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Novas_Habilidades-_Mercen%C3%A1rios05.png)
       :   Coordenada: (moc\_pryd04 83,96)
    - Basta aproximar-se das coordenadas que o diálogo será ativado.
    - Existe uma chance de receber [maldição](../Sem%20categoria/Maldi%C3%A7%C3%A3o.md "Maldição"), [cegueira](../Sem%20categoria/Cegueira.md "Cegueira"), [envenenamento](../Sem%20categoria/Envenenamento.md "Envenenamento") ou [sono](../Sem%20categoria/Sono.md "Sono") ao procurar pela joia, quando isso acontecer, tente outra coordenada ou fique insistindo no diálogo.
@@ -109,13 +109,13 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Dentro de uma casa em [Pharos](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md "Pharos"), fale com Thor Greg (in\_rogue 268,125)
 
-   :   ![MdCrogue05](../images/3/3e/MdCrogue05.png)
+   :   ![MdCrogue05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/MdCrogue05.png)
 2. No segundo andar da Guilda dos Arruaceiros, atravesse a passagem secreta (in\_rogue 350,129)
 
-   :   ![Novas Habilidades- Arruaceiros010](../images/8/86/Novas_Habilidades-_Arruaceiros010.png)
+   :   ![Novas Habilidades- Arruaceiros010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Novas_Habilidades-_Arruaceiros010.png)
 3. Ajude Haijara Greg (in\_rogue 355,179)
 
-   :   ![Novas Habilidades- Arruaceiros01](../images/2/2e/Novas_Habilidades-_Arruaceiros01.png)
+   :   ![Novas Habilidades- Arruaceiros01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Novas_Habilidades-_Arruaceiros01.png)
 
    - Selecione:
      - Não vou lhe fazer mal!
@@ -124,20 +124,20 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
      - Claro!
 4. Encontre Louis Greg (in\_rogue 152,29)
 
-   :   ![MdCrogue06](../images/3/3a/MdCrogue06.png)
+   :   ![MdCrogue06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/MdCrogue06.png)
 
    - A senha para entrar na casa é Meu pai nunca colecionou itens de aprimoramento.
 5. Volte a Thor Greg.
 6. Localize Jay Greg (in\_rogue 181,114)
 
-   :   ![MdCrogue04](../images/3/33/MdCrogue04.png)
+   :   ![MdCrogue04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/MdCrogue04.png)
 
    - A senha para entrar na casa é Antonio não gosta de destruir itens de aprimoramento.
 7. Retorne a Haijara Greg.
 8. Reencontre Thor Greg para iniciar o teste prático.
 9. Na sala de testes, seu objetivo é aproximar-se de Kienna em menos de 1 segundo. Em seguida, derrote-a numa batalha via diálogo.
 
-   :   ![Novas Habilidades- Arruaceiros08](../images/9/94/Novas_Habilidades-_Arruaceiros08.png)
+   :   ![Novas Habilidades- Arruaceiros08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Novas_Habilidades-_Arruaceiros08.png)
 
    - Recomendamos que use [Recuar](../Ativa/Recuar.md "Recuar") para chegar perto da [NPC](../Sem%20categoria/NPC.md "NPC").
    - Você tem 5 minutos dentro da sala de testes. Passado esse tempo, você volta para a casa de Thor Greg.
@@ -148,7 +148,7 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 10. Ao completar o teste, fale com Thor Greg.
 11. No quarto com Haijara, um Matador aparecerá, vale com ele para iniciar uma batalha semelhante à de Kienna.
 
-    :   ![Novas Habilidades- Arruaceiros05](../images/2/20/Novas_Habilidades-_Arruaceiros05.png)
+    :   ![Novas Habilidades- Arruaceiros05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Novas_Habilidades-_Arruaceiros05.png)
 
     - Essa batalha segue o mesmo padrão da Kienna. O [NPC](../Sem%20categoria/NPC.md "NPC") te instrui a escolher uma opção de acordo com a o efeito de aura.
       - Se a aura for Azul, bloqueie pela esquerda.

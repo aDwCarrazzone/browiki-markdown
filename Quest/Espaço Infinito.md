@@ -16,7 +16,7 @@
 
 1. Em [Pharos](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md "Pharos"), pergunte *O que está acontecendo?* para a Arqueóloga (cmd\_fild07 54,277)
 
-   :   ![Ifnf01](../images/2/21/Ifnf01.png)
+   :   ![Ifnf01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/Ifnf01.png)
 2. Fale mais uma vez com a [NPC](../Sem%20categoria/NPC.md "NPC") para reservar a instância. Para entrar, clique na Entrada.
 3. Dentro do Farol, converse com a Arqueóloga e escolha o nível de dificuldade.
    - **Fácil**: invoca aleatoriamente entre 1 a 5 monstros.
@@ -24,13 +24,13 @@
 4. O interior do Farol é composto por 50 andares, você deve ir eliminando monstros por andar para avançar ao próximo.
 5. Em todos os andares há uma chance de aparecer 1 monstro Chefe ou 1 [Poring de Ouro](http://www.divine-pride.net/database/monster/3494/) ou os dois.
 
-   :   ![Ifnf02](../images/3/3f/Ifnf02.png)
+   :   ![Ifnf02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Ifnf02.png)
 
    - Ele aparece com mais frequência no modo difícil.
    - O [Poring de Ouro](http://www.divine-pride.net/database/monster/3494/) desaparece assim que o andar for limpo, se ele aparecer, você deve matá-lo primeiro.
 6. A cada 10 andares, um [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") aparece. Assim que eliminá-lo, o baú surge para derrubar [Armas Safiras](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md#O_Farol "Pharos") ou ![6905.png](http://static.divine-pride.net/images/items/item/6905.png) [Pó Espacial](http://www.divine-pride.net/database/item/6905/).
 
-   :   ![Ifnf03](../images/8/8d/Ifnf03.png)
+   :   ![Ifnf03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Ifnf03.png)
 7. No último andar, fale com a Arqueóloga para sair do mapa.
 8. O [Pó Espacial](http://www.divine-pride.net/database/item/6905/) pode ser negociado por  [armas, armaduras ou encantos](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md#O_Farol "Pharos") na entrada do farol.
 

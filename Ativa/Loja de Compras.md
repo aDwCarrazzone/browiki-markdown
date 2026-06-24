@@ -40,12 +40,12 @@ Veja [Gestão de Lojas](../Quests%20de%20ca%C3%A7a/Gest%C3%A3o%20de%20Lojas.md "
 - [Superaprendizes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Superaprendizes.md "Superaprendizes"), [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") e evoluções que possuam [Comércio](Com%C3%A9rcio.md "Comércio") em nível 1 deverão se dirigir até a Guilda dos Mercadores, em [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta").
 - Fale com o Sr. Hector (alberta\_in 58,52)
 
-  :   ![LicensaCompras](../images/9/93/LicensaCompras.png)
+  :   ![LicensaCompras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/LicensaCompras.png)
 - Pague 10.000 zenys para ter o direito de comprar [Licenças de Loja de Compras](http://www.divine-pride.net/database/item/6377/) por 200 zenys cada. É possível comprar até 50 de uma vez.
 - **Qualquer outra classe** pode adquirir a habilidade seguindo até [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc").
 - Procure pelo Mercador Suspeito (que\_job01 68,84)
 
-  :   ![LicensaFalsaCompras](../images/c/cf/LicensaFalsaCompras.png)
+  :   ![LicensaFalsaCompras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/LicensaFalsaCompras.png)
 - Basta desembolsar 500 zenys para adquirir 1 [Licença Falsa de Loja](http://www.divine-pride.net/database/item/12548/). É possível comprar até 10 de uma vez.
 
 ### Taxas

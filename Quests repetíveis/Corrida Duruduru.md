@@ -17,10 +17,10 @@
 
 1. Troque 1 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12636/) por 1 [Cartão da Aventura A](http://www.divine-pride.net/database/item/6428/) com Mione (malangdo 215,211)
 
-   :   ![Duruduru01](../images/6/64/Duruduru01.png)
+   :   ![Duruduru01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/Duruduru01.png)
 2. Clique na Bússola Iniciante (malangdo 21,204)
 
-   :   ![Babycats0dgf](../images/e/ed/Babycats0dgf.png)
+   :   ![Babycats0dgf](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Babycats0dgf.png)
 
    - Antes de iniciar esse passo, é recomendável conhecer o local das bússolas para não perder tempo.
    - Sua missão é percorrer pela ilha encontrando Bússolas. Ao iniciar a corrida, pontos coloridos serão exibidos no mini-mapa e você só terá 3 minutos.
@@ -34,9 +34,9 @@
      - Bússola das Nuvens (malangdo 111,178)
      - Bússola da Chama Vermelha (malangdo 213,89)
 
-   :   ![Brincando com gatinhos004](../images/3/3f/Brincando_com_gatinhos004.png) ![Babycats0a](../images/e/e0/Babycats0a.png)
-   :   ![Babycats03](../images/c/c6/Babycats03.png) ![Babycats0c](../images/b/bb/Babycats0c.png)
-   :   ![Babycats0d](../images/1/12/Babycats0d.png) ![Babycats04](../images/3/39/Babycats04.png)
+   :   ![Brincando com gatinhos004](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Brincando_com_gatinhos004.png) ![Babycats0a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Babycats0a.png)
+   :   ![Babycats03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Babycats03.png) ![Babycats0c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Babycats0c.png)
+   :   ![Babycats0d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Babycats0d.png) ![Babycats04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Babycats04.png)
 3. Retorne a Ízis.
    - Se não conseguir resolver tudo dentro do tempo, tente a corrida novamente.
    - Em caso de sucesso, você receberá o [Cartão de Aventura B](http://www.divine-pride.net/database/item/6429/).

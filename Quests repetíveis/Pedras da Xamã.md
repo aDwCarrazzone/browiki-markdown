@@ -15,13 +15,13 @@
 
 1. Fale com o crânio na entrada da casa e insira uma gema azul na órbita ocular esquerda e uma gema vermelha na órbita ocular direita. (umbala 219,191)
 
-   :   ![Pedras Elementais da Xamã01](../images/5/5c/Pedras_Elementais_da_Xam%C3%A301.png)
+   :   ![Pedras Elementais da Xamã01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Pedras_Elementais_da_Xam%C3%A301.png)
 2. Lá dentro, fale com a Xamã usando uma [Máscara Feliz](http://www.divine-pride.net/database/item/2278/).
 
-   :   ![Pedras Elementais da Xamã02](../images/c/cc/Pedras_Elementais_da_Xam%C3%A302.png)
+   :   ![Pedras Elementais da Xamã02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Pedras_Elementais_da_Xam%C3%A302.png)
 3. Entregue a [Máscara Feliz](http://www.divine-pride.net/database/item/2278/) ao Chefe da Tribo (um\_in 39,121) (Ela precisa estar desequipada para que possa ser dada a ele)
 
-   :   ![Língua de Umbala01](../images/5/56/L%C3%ADngua_de_Umbala01.png)
+   :   ![Língua de Umbala01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/L%C3%ADngua_de_Umbala01.png)
 4. Retorne a Xamã, agora você tem permissão para criar pedras elementais!
    - Há chances de falha e perda total dos itens ao transformá-los em pedras elementais.
    - Ao destruir uma pedra bruta, os minérios partidos variam de 6 a 10. A Xamã pode quebrar até 10 pedras brutas ao mesmo tempo.

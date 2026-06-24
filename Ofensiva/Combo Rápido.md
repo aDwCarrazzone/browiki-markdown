@@ -25,9 +25,9 @@ Nesse tempo, você recebe um bônus de [ATQ](../Sem%20categoria/ATQ.md "ATQ").
 
 A sequência será de:
 
-- [![Punho do Dragão](../images/6/6d/Punho_do_Drag%C3%A3o.png)](Punho%20do%20Drag%C3%A3o.md "Punho do Dragão") [Punho do Dragão](Punho%20do%20Drag%C3%A3o.md "Punho do Dragão")
-- [![Ruína](../images/0/00/Ru%C3%ADna.png)](Ru%C3%ADna.md "Ruína") [Ruína](Ru%C3%ADna.md "Ruína")
-- [![Garra de Tigre](../images/e/e2/Garra_de_Tigre.png)](Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](Garra%20de%20Tigre.md "Garra de Tigre")
+- [![Punho do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Punho_do_Drag%C3%A3o.png)](Punho%20do%20Drag%C3%A3o.md "Punho do Dragão") [Punho do Dragão](Punho%20do%20Drag%C3%A3o.md "Punho do Dragão")
+- [![Ruína](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Ru%C3%ADna.png)](Ru%C3%ADna.md "Ruína") [Ruína](Ru%C3%ADna.md "Ruína")
+- [![Garra de Tigre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Garra_de_Tigre.png)](Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](Garra%20de%20Tigre.md "Garra de Tigre")
 
 Aumentar o nível da habilidade diminui o consumo de esferas espirituais.
 

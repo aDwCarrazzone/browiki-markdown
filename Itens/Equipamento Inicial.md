@@ -10,7 +10,7 @@ Para adquirir os Equipamentos Iniciais:
 2. Abrir a ![23583.png](http://static.divine-pride.net/images/items/item/23583.png) [Caixa de Equipamento Inicial](http://www.divine-pride.net/database/item/23583/).
 3. Para conseguir a Arma Inicial, leve o ![25427.png](http://static.divine-pride.net/images/items/item/25427.png) [Cupom Inicial](http://www.divine-pride.net/database/item/25427/) para o Gerente de Armas (prontera 157,191).
 
-   :   ![RebeginerW](../images/7/7f/RebeginerW.png)
+   :   ![RebeginerW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/RebeginerW.png)
 
 ## Equipamentos
 

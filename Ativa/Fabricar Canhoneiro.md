@@ -35,9 +35,9 @@ Enquanto estiver invocado, garante efeitos adicionais.
 ### Efeitos adicionais
 
 - As seguintes habilidades passam a infligir 2 ataques, ao invés de 1:
-  - [![Canhão](../images/8/82/Canh%C3%A3o.png)](../Ofensiva/Canh%C3%A3o.md "Canhão") [Canhão](../Ofensiva/Canh%C3%A3o.md "Canhão")
-  - [![Metralhadora](../images/7/74/Metralhadora.png)](../Ofensiva/Metralhadora.md "Metralhadora") [Metralhadora](../Ofensiva/Metralhadora.md "Metralhadora")
-  - [![Punho Foguete](../images/5/59/Punho_Foguete.png)](../Ofensiva/Punho%20Foguete.md "Punho Foguete") [Punho Foguete](../Ofensiva/Punho%20Foguete.md "Punho Foguete")
+  - [![Canhão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Canh%C3%A3o.png)](../Ofensiva/Canh%C3%A3o.md "Canhão") [Canhão](../Ofensiva/Canh%C3%A3o.md "Canhão")
+  - [![Metralhadora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Metralhadora.png)](../Ofensiva/Metralhadora.md "Metralhadora") [Metralhadora](../Ofensiva/Metralhadora.md "Metralhadora")
+  - [![Punho Foguete](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Punho_Foguete.png)](../Ofensiva/Punho%20Foguete.md "Punho Foguete") [Punho Foguete](../Ofensiva/Punho%20Foguete.md "Punho Foguete")
 
 ## O Canhoneiro
 

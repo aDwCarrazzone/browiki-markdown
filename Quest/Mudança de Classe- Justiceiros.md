@@ -16,20 +16,20 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Luísa (iz\_ac02 142,85)
 
-   :   ![Aca Gunner01](../images/c/c3/Aca_Gunner01.png)
+   :   ![Aca Gunner01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Aca_Gunner01.png)
 
    - Ela lhe dará um [Manual do Justiceiro](http://www.divine-pride.net/database/item/2941/).
    - Quando completar nível 10 de [classe](../Sem%20categoria/Classe.md "Classe"), selecione "*Manual dos Justiceiros?*" para ir até [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
    - Esse passo é opcional, mas ajuda a chegar mais rápido para a Guilda.
 2. Na a Guilda dos Justiceiros, converse com o Mestre Miller (einbroch 134,199)
 
-   :   ![Gunsticeiro02](../images/f/f3/Gunsticeiro02.png)
+   :   ![Gunsticeiro02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Gunsticeiro02.png)
 
    - Expresse seu desejo em fazer parte dos [justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros").
    - Fale mais uma vez com o Mestre para teleportar a [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon").
 3. Em [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") procure pelo Sábio Chifre de Touro (payon 191,67)
 
-   :   ![Gunsticeiro01](../images/2/2f/Gunsticeiro01.png)
+   :   ![Gunsticeiro01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Gunsticeiro01.png)
 
    - Continue conversando com o Sábio até ele pedir os itens:
      - ![921.png](http://static.divine-pride.net/images/items/item/921.png) 3 [Esporo de Cogumelo](http://www.divine-pride.net/database/item/921/)
@@ -39,7 +39,7 @@
    - Escolha a opção "*Me leve até ele, por favor!*" para teleportar para [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
 4. Fale novamente com o Mestre Miller (que\_ng 152,167)
 
-   :   ![Gunsticeiro02](../images/f/f3/Gunsticeiro02.png)
+   :   ![Gunsticeiro02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Gunsticeiro02.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
@@ -48,7 +48,7 @@
      - ![12151.png](http://static.divine-pride.net/images/items/item/12151.png) 1 [Cartucho de Prata](http://www.divine-pride.net/database/item/12151/)
 5. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -62,18 +62,18 @@
 
 1. Na Guilda dos Justiceiros, desça as escadas e fale com o Barista (que\_ng 179,31)
 
-   :   ![Tu Gunner01](../images/1/11/Tu_Gunner01.png)
+   :   ![Tu Gunner01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Tu_Gunner01.png)
 
    - Ele explicará um pouco sobre [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos"), se não tiver mais nenhuma dúvida, ele dará 1.100 de base e 750 de classe.
 2. Fale com o Armando (que\_ng 184,18)
 
-   :   ![Tu Gunner02](../images/1/10/Tu_Gunner02.png)
+   :   ![Tu Gunner02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Tu_Gunner02.png)
 
    - Ele explicará brevemente sobre as armas. Se você quiser apenas a [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência"), basta selecionar "*cancelar*".
    - Você recebe 1.100 de base e 750 de classe.
 3. Retorne ao Barista Louis (que\_ng 179,31)
 
-   :   ![Tu Gunner01](../images/1/11/Tu_Gunner01.png)
+   :   ![Tu Gunner01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Tu_Gunner01.png)
 
    - Quando perguntado, selecione "*Alt + S*".
    - Você recebe 1.100 de base e 750 de classe.
@@ -81,10 +81,10 @@
    - Você também ganhará 1 [Bilhete para Aeroplano](http://www.divine-pride.net/database/item/7311/).
 4. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Luísa (iz\_ac02 142,85)
 
-   :   ![Aca Gunner01](../images/c/c3/Aca_Gunner01.png)
+   :   ![Aca Gunner01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Aca_Gunner01.png)
 5. Agora você pode fazer missões repetíveis até o nível 20, basta clicar na Mesa da Luísa e escolher sua missão.
 
-   :   ![Tu Gunner03](../images/d/d0/Tu_Gunner03.png)
+   :   ![Tu Gunner03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Tu_Gunner03.png)
 6. Retorne para Luísa sempre que completar uma [quest](../Sem%20categoria/Quest.md "Quest") da mesa.
 
 :   :   :   :   | Missão | Objetivo | Recompensa |
@@ -96,7 +96,7 @@
 
 :   :   7. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

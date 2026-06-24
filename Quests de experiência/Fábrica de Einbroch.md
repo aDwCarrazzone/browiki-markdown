@@ -14,14 +14,14 @@
 
 1. Siga até Zelmeto (ein\_in01 67,242)
 
-   :   ![Fábrica de Einbroch01](../images/b/b0/F%C3%A1brica_de_Einbroch01.png)
+   :   ![Fábrica de Einbroch01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/F%C3%A1brica_de_Einbroch01.png)
 
    - Selecione as opções:
      - *Vocês estão com falta de empregados?*
      - *Eu posso te ajudar.*
 2. O [NPC](../Sem%20categoria/NPC.md "NPC") pedirá que você informe a situação de diversos objetos espalhados na Fábrica. Observe o mapa abaixo para saber as coordenadas de cada uma delas.
 
-   :   ![Fábrica de Einbrochmapa](../images/4/46/F%C3%A1brica_de_Einbrochmapa.png)
+   :   ![Fábrica de Einbrochmapa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/F%C3%A1brica_de_Einbrochmapa.png)
 
    - Sempre que interagir com uma máquina, reporte a situação a Zelmeto.
    1. Segundo Painel de Controle (ein\_in01 49,232)
@@ -32,7 +32,7 @@
    6. Esteira Grande (ein\_in01 95,239)
 3. Fale com Liotzburg (einbroch 132,84)
 
-   :   ![Fábrica de Einbroch02](../images/5/53/F%C3%A1brica_de_Einbroch02.png)
+   :   ![Fábrica de Einbroch02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/F%C3%A1brica_de_Einbroch02.png)
 4. Entregue os itens a Zelmeto para receber sua recompensa.
 
 :   :   | Nv. | [EXP](../Sem%20categoria/EXP.md "EXP") |
@@ -46,7 +46,7 @@
         | 91-99 | 29.067 |
         | 100+ | 0 |
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

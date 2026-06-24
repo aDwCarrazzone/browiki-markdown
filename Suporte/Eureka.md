@@ -31,10 +31,10 @@ As habilidades de Atirar Ácido passam a consumir 1 frasco ao invés de 2.
 
 ### Habilidades afetadas
 
-- [![Atirar Ácido Álgido](../images/d/d6/Atirar_%C3%81cido_%C3%81lgido.png)](../Ofensiva/Atirar%20%C3%81cido%20%C3%81lgido.md "Atirar Ácido Álgido") [Atirar Ácido Álgido](../Ofensiva/Atirar%20%C3%81cido%20%C3%81lgido.md "Atirar Ácido Álgido")
-- [![Atirar Ácido Inflamável](../images/3/3b/Atirar_%C3%81cido_Inflam%C3%A1vel.png)](../Ofensiva/Atirar%20%C3%81cido%20Inflam%C3%A1vel.md "Atirar Ácido Inflamável") [Atirar Ácido Inflamável](../Ofensiva/Atirar%20%C3%81cido%20Inflam%C3%A1vel.md "Atirar Ácido Inflamável")
-- [![Atirar Ácido Sólido](../images/5/51/Atirar_%C3%81cido_S%C3%B3lido.png)](../Ofensiva/Atirar%20%C3%81cido%20S%C3%B3lido.md "Atirar Ácido Sólido") [Atirar Ácido Sólido](../Ofensiva/Atirar%20%C3%81cido%20S%C3%B3lido.md "Atirar Ácido Sólido")
-- [![Atirar Ácido Gasoso](../images/6/62/Atirar_%C3%81cido_Gasoso.png)](../Ofensiva/Atirar%20%C3%81cido%20Gasoso.md "Atirar Ácido Gasoso") [Atirar Ácido Gasoso](../Ofensiva/Atirar%20%C3%81cido%20Gasoso.md "Atirar Ácido Gasoso")
+- [![Atirar Ácido Álgido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Atirar_%C3%81cido_%C3%81lgido.png)](../Ofensiva/Atirar%20%C3%81cido%20%C3%81lgido.md "Atirar Ácido Álgido") [Atirar Ácido Álgido](../Ofensiva/Atirar%20%C3%81cido%20%C3%81lgido.md "Atirar Ácido Álgido")
+- [![Atirar Ácido Inflamável](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Atirar_%C3%81cido_Inflam%C3%A1vel.png)](../Ofensiva/Atirar%20%C3%81cido%20Inflam%C3%A1vel.md "Atirar Ácido Inflamável") [Atirar Ácido Inflamável](../Ofensiva/Atirar%20%C3%81cido%20Inflam%C3%A1vel.md "Atirar Ácido Inflamável")
+- [![Atirar Ácido Sólido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Atirar_%C3%81cido_S%C3%B3lido.png)](../Ofensiva/Atirar%20%C3%81cido%20S%C3%B3lido.md "Atirar Ácido Sólido") [Atirar Ácido Sólido](../Ofensiva/Atirar%20%C3%81cido%20S%C3%B3lido.md "Atirar Ácido Sólido")
+- [![Atirar Ácido Gasoso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Atirar_%C3%81cido_Gasoso.png)](../Ofensiva/Atirar%20%C3%81cido%20Gasoso.md "Atirar Ácido Gasoso") [Atirar Ácido Gasoso](../Ofensiva/Atirar%20%C3%81cido%20Gasoso.md "Atirar Ácido Gasoso")
 
 ### Fórmula
 

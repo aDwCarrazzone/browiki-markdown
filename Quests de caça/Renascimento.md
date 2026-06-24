@@ -32,7 +32,7 @@ Antes de começar sua jornada, você deverá estar nas seguintes condições:
 
 1. No Castelo dos Sábios, encontre Metheus Sylphe (yuno\_in02 88,164)
 
-   :   ![Reborn01](../images/9/9b/Reborn01.png)
+   :   ![Reborn01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Reborn01.png)
 2. Você poderá escolher 2 opções para renascer:
    1. O jeito mais rápido é doando 1.285.000 zenys. Vá para o passo **3**.
    2. Se não tiver zenys, pode fazer a missão mais longa, selecionando as opções:
@@ -46,10 +46,10 @@ Antes de começar sua jornada, você deverá estar nas seguintes condições:
       - Agora você pode ler o Livro de Ymir.
 3. Deixe seu corpo flutuar ao ler o Livro de Ymir (yuno\_in02 93,204)
 
-   :   ![Reborn02](../images/9/96/Reborn02.png)
+   :   ![Reborn02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Reborn02.png)
 4. Seu personagem será teleportado, siga até a Valquíria (valkyrie 48,86)
 
-   :   ![Guia de Renascimento10](../images/5/59/Guia_de_Renascimento10.png)
+   :   ![Guia de Renascimento10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Guia_de_Renascimento10.png)
 
    - Caso não cumpra algum dos requisitos (peso acima de 500, sem montaria, etc.), você voltará ao Livro de Ymir.
    - Seu personagem volta ao nível de base e classe 1.

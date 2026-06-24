@@ -50,7 +50,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeArruaceiros](../images/c/c9/SkilltreeArruaceiros.png)
+![SkilltreeArruaceiros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/SkilltreeArruaceiros.png)
 
 ## Construção do Personagem
 

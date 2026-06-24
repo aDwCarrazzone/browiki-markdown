@@ -2,7 +2,7 @@
 
 # Amatsu
 
-[![Amatsu worldmap](../images/8/8f/Amatsu_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AAmatsu_worldmap.jpg)
+[![Amatsu worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Amatsu_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AAmatsu_worldmap.jpg)
 
 Amatsu, a terra das cerejeiras
 

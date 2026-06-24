@@ -36,7 +36,7 @@ Após o giro, ativa o estado de *Lança Lunar* por alguns segundos.
 
 ### Lança Lunar
 
-- **Ícone:** ![I GHatq](../images/c/cd/I_GHatq.png)
+- **Ícone:** ![I GHatq](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/I_GHatq.png)
 - Aumenta o dano base de [Lança do Destino](Lan%C3%A7a%20do%20Destino.md "Lança do Destino").
 
 ### Fórmula

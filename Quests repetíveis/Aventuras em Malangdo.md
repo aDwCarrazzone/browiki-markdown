@@ -16,10 +16,10 @@
 
 1. Encontre Rican (mal\_in01 114,169)
 
-   :   ![RRdG05](../images/b/ba/RRdG05.png)
+   :   ![RRdG05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/RRdG05.png)
 2. Colete 30 [Frutos de Yggdrasil Frescos](http://www.divine-pride.net/database/item/6435/) dos Montinhos de Areia.
 
-   :   ![RRdG06](../images/8/85/RRdG06.png)
+   :   ![RRdG06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/RRdG06.png)
 
    - Existem 11 Montinhos de Areia espalhados pela ilha. Dois deles são da missão [Ache os Biscoitos](Ache%20os%20Biscoitos.md "Ache os Biscoitos").
    - O Montinho de Areia sempre desaparecerá após ser clicado. Ele reaparece após 30 segundos.
@@ -28,12 +28,12 @@
    - Se você clicar no Montinho de Areia e apertar a tecla [enter] rapidamente e diversas vezes seguidas, conseguirá pegar [Frutos de Yggdrasil Frescos](http://www.divine-pride.net/database/item/6435/) sem que o Montinho de Areia desapareça.
 3. Coloque os [Frutos de Yggdrasil Frescos](http://www.divine-pride.net/database/item/6435/) na Máquina de Secar (mal\_in01 116,168)
 
-   :   ![RRdG07](../images/8/82/RRdG07.png)
+   :   ![RRdG07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/RRdG07.png)
 
    - Você receberá 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/).
 4. Fale com Brie (mal\_in02 181,55)
 
-   :   ![RRdG04](../images/1/1a/RRdG04.png)
+   :   ![RRdG04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/RRdG04.png)
 
 ## Reparando a Rachadura
 
@@ -49,13 +49,13 @@
 
 1. Ajude a Geologista Mali (mal\_in02 179,57)
 
-   :   ![RRdG08](../images/0/05/RRdG08.png)
+   :   ![RRdG08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/RRdG08.png)
 2. Pegue o [Kit de Reparação](http://www.divine-pride.net/database/item/6434/) com Bob (mal\_in02 140,94)
 
-   :   ![RRdG09](../images/0/03/RRdG09.png)
+   :   ![RRdG09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/RRdG09.png)
 3. Seu objetivo é *tampar* ou *grampear* as Rachaduras espalhadas em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo").
 
-   :   ![RRdG010](../images/a/af/RRdG010.png)
+   :   ![RRdG010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/RRdG010.png)
 
    - Ao interagir com a Rachadura, há uma chance de você cair no [Recife de Corais Estrelados](http://www.divine-pride.net/database/map/mal_dun01/).
    - Continue reparando as Rachaduras até surgir uma mensagem pedindo que você reporte a Bob.
@@ -79,7 +79,7 @@
 
 1. Fale sobre entrega de comida com o Chef Nyas (mal\_in02 187,58)
 
-   :   ![LimpeoNavio02](../images/f/f7/LimpeoNavio02.png)
+   :   ![LimpeoNavio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/LimpeoNavio02.png)
 2. Entregue a comida pedida para receber sua recompensa de acordo com o nível do prato entregue.
    - Os pratos de comida são consumíveis criados ao aprender [culinária](../Itens/Culin%C3%A1ria.md "Culinária").
    - Nyas poderá pedir pratos de qualquer nível, do 1 ao 10 e também dos pratos da habilidade [Culinária Avançada](../Ativa/Culin%C3%A1ria%20Avan%C3%A7ada.md "Culinária Avançada").
@@ -113,11 +113,11 @@
 
 1. Anime o Líder da Patrulha (malangdo 125,146)
 
-   :   ![Ajude os gatos em perigo05](../images/3/32/Ajude_os_gatos_em_perigo05.png)
+   :   ![Ajude os gatos em perigo05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Ajude_os_gatos_em_perigo05.png)
 2. Derrote 20 [Erumas Vermelhos](http://www.divine-pride.net/database/monster/2197/) e retorne ao Líder da Patrulha (malangdo 125,146)
 3. Fale com El Gatom sem Rabom (malangdo 176,206)
 
-   :   ![Ajude os gatos em perigo01](../images/7/7f/Ajude_os_gatos_em_perigo01.png)
+   :   ![Ajude os gatos em perigo01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Ajude_os_gatos_em_perigo01.png)
 
    - Receba 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)
 
@@ -136,7 +136,7 @@
 
 1. Fale com Bolacha (mal\_dun01 136,122)
 
-   :   ![RRdG012](../images/5/5c/RRdG012.png)
+   :   ![RRdG012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/RRdG012.png)
 2. Entregue 30 [Geleias Deliciosas](http://www.divine-pride.net/database/item/12624/) para Bolacha te recompensar com 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/).
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |

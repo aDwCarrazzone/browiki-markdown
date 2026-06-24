@@ -16,7 +16,7 @@
 
 1. Inicie sua jornada em [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel") com a Caçadora da Guilda (hu\_in01 386,373)
 
-   :   ![Que hunt01](../images/c/c7/Que_hunt01.png)
+   :   ![Que hunt01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Que_hunt01.png)
 2. Ela fará uma breve entrevista, onde você deverá selecionar as seguintes respostas:
    - Ando sozinho e procuro um lugar.
    - Uso o serviço Kafra.
@@ -30,7 +30,7 @@
    - Tentar encontrar o dono.
 3. Após o diálogo, entregue os itens pedidos pelo Recepcionista da Guilda (hu\_in01 382,382). Preste atenção, pois são aleatórios para cada pessoa.
 
-   :   ![Que hunt02a](../images/0/0f/Que_hunt02a.png)
+   :   ![Que hunt02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Que_hunt02a.png)
 
 :   :   | Possibilidade 1 | Possibilidade 2 | Possibilidade 3 | Possibilidade 4 |
         | --- | --- | --- | --- |
@@ -42,10 +42,10 @@
 
     - Na Vila dos Arqueiros (payon\_in02 21,31) ou em [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") (payon\_in03 131,7)
 
-    :   :   ![Que hunt03](../images/7/7e/Que_hunt03.png) ![Que hunt04](../images/a/a9/Que_hunt04.png)
+    :   :   ![Que hunt03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Que_hunt03.png) ![Que hunt04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Que_hunt04.png)
 :   4. A Caçadora teleportará você para um teste prático. Portanto, prepare-se!
 
-    :   ![Que hunt05](../images/b/b7/Que_hunt05.png)
+    :   ![Que hunt05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Que_hunt05.png)
 
     - Você receberá 200 [Flechas de Prata](http://www.divine-pride.net/database/item/1751/).
     - Seu objetivo é matar 4 monstros chamados de "Monstro Alvo" em 3 minutos. Eles estão exibidos no mapa acima em forma de diabinhos.
@@ -57,10 +57,10 @@
       - Morrer.
 :   5. Em caso de sucesso, retorne à Caçadora (em [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") (payon\_in02 21,31) ou na Vila (payon\_in03 131,7)) para receber 1 [Colar da Sabedoria](http://www.divine-pride.net/database/item/1007/).
 
-    :   ![Que hunt03](../images/7/7e/Que_hunt03.png) ![Que hunt04](../images/a/a9/Que_hunt04.png)
+    :   ![Que hunt03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Que_hunt03.png) ![Que hunt04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Que_hunt04.png)
 :   6. Exiba o [Colar da Sabedoria](http://www.divine-pride.net/database/item/1007/) para a Caçadora da Guilda (hu\_in01 386,373).
 
-    :   ![Que hunt01](../images/c/c7/Que_hunt01.png)
+    :   ![Que hunt01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Que_hunt01.png)
 
     - Se seu [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md "Nível de classe") for 50, você receberá um [Arco de Caça](http://www.divine-pride.net/database/item/1718/).
     - Se seu [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md "Nível de classe") for 49 ou menos, você receberá uma [Besta](http://www.divine-pride.net/database/item/1710/).

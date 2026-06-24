@@ -41,10 +41,10 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Com um [Espelho de Cristal](http://www.divine-pride.net/database/item/747/) no inventário, fale com Canella (comodo 203,172)
 
-   :   ![Novas Habilidades- Artistas01a](../images/f/f0/Novas_Habilidades-_Artistas01a.png)
+   :   ![Novas Habilidades- Artistas01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Novas_Habilidades-_Artistas01a.png)
 2. Entregue os itens a Aelle (prontera 182,334)
 
-   :   ![Novas Habilidades- Artistas02](../images/c/c2/Novas_Habilidades-_Artistas02.png)
+   :   ![Novas Habilidades- Artistas02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Novas_Habilidades-_Artistas02.png)
 
    - ![970.png](http://static.divine-pride.net/images/items/item/970.png) 1 [Álcool](http://www.divine-pride.net/database/item/970/)
    - ![736.png](http://static.divine-pride.net/images/items/item/736.png) 1 [Prato de Porcelana](http://www.divine-pride.net/database/item/736/)
@@ -69,20 +69,20 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 
 1. Fale com o Jovem (prontera 174,328)
 
-   :   ![Novas Habilidades- Artistas03](../images/5/5f/Novas_Habilidades-_Artistas03.png)
+   :   ![Novas Habilidades- Artistas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Novas_Habilidades-_Artistas03.png)
 2. Compre 1 [Sograt Tropical](http://www.divine-pride.net/database/item/12112/) por 1.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") com o Garçom (morocc\_in 166,76)
 
-   :   ![Quest Voz Dolorosa3a](../images/2/2b/Quest_Voz_Dolorosa3a.png)
+   :   ![Quest Voz Dolorosa3a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Quest_Voz_Dolorosa3a.png)
 3. Retorne ao Jovem em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera").
 4. Volte ao bar e converse com o Bardo Maldoso (morocc\_in 169,72)
 
-   :   ![Quest Voz Dolorosa5a](../images/a/a5/Quest_Voz_Dolorosa5a.png)
+   :   ![Quest Voz Dolorosa5a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Quest_Voz_Dolorosa5a.png)
 
    - Complete a quest [Bardo Esquecido](../Quests%20de%20experi%C3%AAncia/Bardo%20Esquecido.md "Bardo Esquecido") e retorne ao NPC.
    - Você deverá seguir para [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim").
 5. Seu objetivo é conseguir 5 [Ovos](http://www.divine-pride.net/database/item/7605/) das Galinhas espalhadas por [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim").
 
-   :   ![Galinhachiken](../images/6/63/Galinhachiken.png)
+   :   ![Galinhachiken](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Galinhachiken.png)
 
    - Ao chegar perto da Galinha ou clicar nela, ela desaparece e reaparece em outro local, mas você terá uma chance de conseguir um [Ovo](http://www.divine-pride.net/database/item/7605/).
    - Se uma galinha não estiver na coordenada, ela estará em outro ponto.

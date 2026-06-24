@@ -17,11 +17,11 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), fale com o Pesquisador Bernard (dali02 97,142)
 
-   :   ![SarahFenrir01](../images/5/5a/SarahFenrir01.png)
+   :   ![SarahFenrir01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/SarahFenrir01.png)
 2. Acesse a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pela Fenda Temporal, atrás do Professor.
 3. Ao aproximar de Fenrir, um diálogo começa.
 
-   :   ![SarahFenrir02](../images/d/d5/SarahFenrir02.png)
+   :   ![SarahFenrir02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/SarahFenrir02.png)
 
    - O personagem que ativou o diálogo ficará imóvel por um período.
    - Vários [Galions Ancestrais](http://www.divine-pride.net/database/monster/3198/) serão invocados nesse tempo.
@@ -29,7 +29,7 @@
    - Assim que a conversa concluir, siga ao portal ao sul.
 4. Continue em frente até encontrar Fenrir no sul de Glastheim.
 
-   :   ![SarahFenrir03](../images/1/19/SarahFenrir03.png)
+   :   ![SarahFenrir03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/SarahFenrir03.png)
 
    - Você pode ignorar as [Quimeras Ancestrais](http://www.divine-pride.net/database/monster/3200/) pelo caminho, já que não tem nada de especial nelas.
    - Novamente, o personagem que ativar os diálogos ficará imóvel.
@@ -39,7 +39,7 @@
    1. **Ajudando Fenrir**.
       1. Seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") terá 5 minutos para encontrar-se com Fenrir.
 
-         :   ![SarahFenrir04a](../images/5/5d/SarahFenrir04a.png)
+         :   ![SarahFenrir04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/SarahFenrir04a.png)
       2. Siga até o ponto indicado no mini-mapa e fale com Fenrir.
       3. Um diálogo entre Fenrir e Sarah acontecerá, prepare-se para a luta!
          - Além de [Dragões Ancestrais](http://www.divine-pride.net/database/monster/3199/), também aparecerão 1 [Gigante Imaterial](http://www.divine-pride.net/database/monster/3195/) (imune a danos físicos) e 1 [Gigante Antimagia](http://www.divine-pride.net/database/monster/3194/) (imune a danos mágicos).
@@ -48,21 +48,21 @@
    2. **Ajudando o Professor**.
       1. Seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") terá 5 minutos para encontrar e eliminar até 6 [Gigantes Ancestrais](http://www.divine-pride.net/database/monster/3196/).
 
-         :   ![SarahFenrir04x](../images/c/c9/SarahFenrir04x.png)
+         :   ![SarahFenrir04x](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/SarahFenrir04x.png)
 
          - Cada [Gigante Ancestral](http://www.divine-pride.net/database/monster/3196/) fica no topo de uma torre e ataca quando se aproximam.
          - Junto com os [Gigantes Ancestrais](http://www.divine-pride.net/database/monster/3196/), aparecem também alguns [Gigantes](http://www.divine-pride.net/database/monster/3191/).
          - Ao ativar um Gigante, algumas [Gárgolas Ancestrais](http://www.divine-pride.net/database/monster/3197/) aparecem nas saídas das torres para atacar.
 6. Independente da escolha, após 5 minutos, Fenrir pedirá que você ajude-a a enfrentar Sarah Irine.
 
-   :   ![SarahFenrir05](../images/2/22/SarahFenrir05.png)
+   :   ![SarahFenrir05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/SarahFenrir05.png)
 
    - Um portal estará aberto no centro da cidade, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") terá 5 minutos para alcançá-lo.
    - Caso não consiga chegar dentro do tempo, ela enfrentará Sarah sozinha.
    - Se seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") optou por enfrentar os Gigantes, você ainda pode eliminá-los até o último minuto caso queira também enfrentar a Sarah.
 7. Fale com Fenrir e siga ao portal em seguida, para chegar no parapeito do Castelo.
 
-   :   ![SarahFenrir06](../images/4/43/SarahFenrir06.png)
+   :   ![SarahFenrir06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/SarahFenrir06.png)
 
    - Após um breve diálogo, a batalha começa.
    - [Sara Irine](http://www.divine-pride.net/database/monster/3190/) sempre recebe 1 de dano físico e mágico.
@@ -75,7 +75,7 @@
    - Se o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") não estiver no campo de visão da [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP"), a Sara morrerá sozinha.
 8. Após a luta, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") precisa fugir da ira de Sarah.
 
-   :   ![SarahFenrir02](../images/d/d5/SarahFenrir02.png)
+   :   ![SarahFenrir02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/SarahFenrir02.png)
 
    - Basta retornar até a entrada de Glastheim, onde você começou a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
    - O tempo para escapar é de 5 minutos, o ideal é ignorar todos os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que vão aparecendo.
@@ -96,7 +96,7 @@
 
 1. O Assistente só conversará com você caso tenha completado a instância (dali02 93,146)
 
-   :   ![SarahFenrir09](../images/9/94/SarahFenrir09.png)
+   :   ![SarahFenrir09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/SarahFenrir09.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") vende 1 Brinco por 1 [Fragmento de Gigantes](http://www.divine-pride.net/database/item/6803/).
      - Você pode escolher entre os [Brincos de Regeneração](http://www.divine-pride.net/database/item/28310/) ou [Brincos de Locomoção](http://www.divine-pride.net/database/item/28311/)

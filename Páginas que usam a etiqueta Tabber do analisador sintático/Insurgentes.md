@@ -52,7 +52,7 @@ Agora, ocupando um espaço visível na influência política de Schwartzwald, o 
 
 ### Árvore de habilidades
 
-![SkilltreeInsurgentes](../images/6/6a/SkilltreeInsurgentes.png)
+![SkilltreeInsurgentes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/SkilltreeInsurgentes.png)
 
 ## Construção do Personagem
 

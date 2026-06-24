@@ -46,7 +46,7 @@ Em vez do tradicional Peco Peco, ele monta em dragões e possui habilidades que 
 
 ### Árvore de habilidades
 
-![SkilltreeCavaleiros Rúnicos](../images/e/ec/SkilltreeCavaleiros_R%C3%BAnicos.png)
+![SkilltreeCavaleiros Rúnicos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/SkilltreeCavaleiros_R%C3%BAnicos.png)
 
 ## Construção do Personagem
 

@@ -54,7 +54,7 @@ Sua jornada começa com seu personagem [renascido](../Quests%20de%20ca%C3%A7a/Re
 
 ### Árvore de habilidades
 
-![SkilltreeLordes](../images/d/d7/SkilltreeLordes.png)
+![SkilltreeLordes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/SkilltreeLordes.png)
 
 ## Construção do Personagem
 

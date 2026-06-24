@@ -20,27 +20,27 @@
 
 1. No quarto dos Heine, aceite o pedido de Friedrich S. Heine (prt\_cas\_q 12,83)
 
-   :   ![Friedrich Heine](../images/5/52/Friedrich_Heine.png)
+   :   ![Friedrich Heine](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Friedrich_Heine.png)
 2. Dirija-se ao Registro de Memórias das Famílias Reais.
    1. Vá ao seu quarto e invoque o Mago Nillem falando com o Camareiro Bell.
    2. No Memorial, fale com Nillem para ativar a Máquina do Tempo.
    3. No passado, reserve a instância com o Mago Nillem.
 3. Entre na instância pela Distorção.
 
-   :   ![Distorção Ymir](../images/6/6d/Distor%C3%A7%C3%A3o_Ymir.png)
+   :   ![Distorção Ymir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Distor%C3%A7%C3%A3o_Ymir.png)
 4. Inicie o diálogo com Fenrir.
 
-   :   ![Fenrir Ymir](../images/f/fc/Fenrir_Ymir.png)
+   :   ![Fenrir Ymir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Fenrir_Ymir.png)
 5. Siga reto e suba as escadas para falar com Iris.
 
-   :   ![Iris Ymir](../images/b/b5/Iris_Ymir.png)
+   :   ![Iris Ymir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Iris_Ymir.png)
 6. Nesse momento, uma pequena leva de monstros surgirá.
    - Monstros invocados: [Arqueiro Imortal](http://www.divine-pride.net/database/monster/3445/), [Esqueleto Imortal](http://www.divine-pride.net/database/monster/3446/) e [Soldado Imortal](http://www.divine-pride.net/database/monster/3447/).
    - Após derrotá-los, fale com Iris novamente.
 7. Derrote o [Amdarais Imortal](http://www.divine-pride.net/database/monster/3448/).
 8. Fale com Iris novamente para iniciar a batalha contra Bijou.
 
-   :   ![Bijou Ymir](../images/6/60/Bijou_Ymir.png)
+   :   ![Bijou Ymir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Bijou_Ymir.png)
 
    - Primeiro, Bijou inicia a luta em uma versão mais fraca.
    - Depois de atacá-la, Sarah Irine surge.

@@ -2,7 +2,7 @@
 
 # Central de Suporte
 
-![CDSuporte2](../images/8/85/CDSuporte2.jpg)
+![CDSuporte2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/CDSuporte2.jpg)
 
 A Central de Suporte é um serviço de atendimento ao cliente oferecido pela GnJoy LATAM para resolução de problemas do jogo.
 

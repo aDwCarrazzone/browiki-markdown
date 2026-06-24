@@ -18,37 +18,37 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), aceite a missão da Historiadora Shepit (dali02 134,119)
 
-   :   ![TorreSata01](../images/3/3a/TorreSata01.png)
+   :   ![TorreSata01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/TorreSata01.png)
 2. Fale com Artie ao lado da [NPC](../Sem%20categoria/NPC.md "NPC").
 
-   :   ![TorreSata02](../images/b/bd/TorreSata02.png)
+   :   ![TorreSata02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/TorreSata02.png)
 3. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo Portal Dimensional.
 
-   :   ![TorreSata03](../images/2/2b/TorreSata03.png)
+   :   ![TorreSata03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/TorreSata03.png)
 4. Inicie a história se aproximando da Comandante Heim.
 
-   :   ![TorreSata04](../images/c/c5/TorreSata04.png)
+   :   ![TorreSata04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/TorreSata04.png)
 
    - Se houver muitos usuários perto dela, peça para os membros se afastarem para ativar o diálogo.
 5. Você deverá ajudar Fama a cuidar dos soldados abatidos.
 
-   :   ![TorreSata05](../images/8/8b/TorreSata05.png)
+   :   ![TorreSata05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/TorreSata05.png)
 
    - Fale com Fama para pegar 1 [Caixa com Primeiros Socorros](http://www.divine-pride.net/database/item/7641/).
    - A [NPC](../Sem%20categoria/NPC.md "NPC") só entregará uma caixa por vez.
    - Outros membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") também podem pegar a caixa para agilizar essa etapa.
 6. Clique nos Soldados Abatidos e espere a barra carregar, repita o procedimento até todos estarem recuperados.
 
-   :   ![TorreSata06](../images/7/70/TorreSata06.png)
+   :   ![TorreSata06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/TorreSata06.png)
 7. Prossiga a missão com Lucile.
 
-   :   ![TorreSata07](../images/8/8e/TorreSata07.png)
+   :   ![TorreSata07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/TorreSata07.png)
 8. Siga para a próxima etapa falando com Dewey.
 
-   :   ![TorreSata08](../images/6/6d/TorreSata08.png)
+   :   ![TorreSata08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/TorreSata08.png)
 9. Suba as escadas matando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que surgirem pelo caminho. Fale com Ryui no final do corredor.
 
-   :   ![TorreSata09](../images/f/fb/TorreSata09.png)
+   :   ![TorreSata09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/TorreSata09.png)
 
    - AGUARDE SEU GRUPO CHEGAR ANTES DE MATAR ALGUM MONSTRO.
    - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são contados na janela de [quests](../Quest/Quests.md "Quests") e todos do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") precisam estar na mesma tela para contabilizar.
@@ -56,14 +56,14 @@
    - Ao falar com Ryui, o diálogo dirá que você fez a primeira descoberta sobre a Torre.
 10. Inicie o diálogo com Lucile.
 
-    :   ![TorreSata10](../images/a/aa/TorreSata10.png)
+    :   ![TorreSata10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/TorreSata10.png)
 
     - Durante a conversa, [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") surgirão para atacar. Você precisa eliminá-los e falar com Lucile novamente.
     - Aguarde o tempo de 50 segundos da barra de conjuração terminar.
     - Após eliminar todos os monstros, fale com Hughie para acessar o topo da torre.
 11. Reencontre Lucile no centro do mapa.
 
-    :   ![TorreSata11](../images/2/25/TorreSata11.png)
+    :   ![TorreSata11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/TorreSata11.png)
 
     - Seu objetivo é encontrar e destruir os 5 [Selos Mágicos](http://www.divine-pride.net/database/monster/2938/) espalhados nos pontos vermelhos do mapa.
     - Os [Selos Mágicos](http://www.divine-pride.net/database/monster/2938/) andam lentamente para o centro do mapa e invocam [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
@@ -74,13 +74,13 @@
 12. Após destruir os [Selos Mágicos](http://www.divine-pride.net/database/monster/2938/), retorne a Lucile para seguir adiante.
 13. Derrote todos os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") e fale com a Jovem Garota para abrir o portal ao lado dela.
 
-    :   ![TorreSata12](../images/2/25/TorreSata12.png)
+    :   ![TorreSata12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/TorreSata12.png)
 
     - Ao falar com a Jovem Garota, o diálogo dirá que você fez a segunda descoberta sobre a Torre.
     - Continue enfrentando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") nos mapas seguintes, entrando nos portais que se abrirão.
 14. Procure por Loki no centro da sala.
 
-    :   ![TorreSata13](../images/6/67/TorreSata13.png)
+    :   ![TorreSata13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/TorreSata13.png)
 
     - Antes de falar com Loki, certifiquem se o mapa está totalmente livre de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
     - Após uma breve conversa, Loki puxará seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") para um canto e o líder deverá conversar com o [NPC](../Sem%20categoria/NPC.md "NPC") para ativar o [assistente](../Sem%20categoria/Assistente.md "Assistente") Loki.
@@ -94,7 +94,7 @@
     - Ao falar com Loki, o diálogo dirá que você fez a terceira descoberta sobre a Torre.
 17. Antes de sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), clique no Baú.
 
-    :   ![TorreSata14](../images/3/33/TorreSata14.png)
+    :   ![TorreSata14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/TorreSata14.png)
 
     - O baú derruba quantidades aleatórias dos itens abaixo: (Itens que aumentam a taxa de drop não afetam este baú.)
       - ![616.png](http://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)

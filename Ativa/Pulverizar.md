@@ -41,11 +41,11 @@ Inimigos dentro da área terão:
 
 ### Removido por
 
-- [![Ganbantein](../images/6/68/Ganbantein.png)](Ganbantein.md "Ganbantein") [Ganbantein](Ganbantein.md "Ganbantein")
-- [![Erva Daninha](../images/6/65/Erva_Daninha.png)](../Ofensiva/Erva%20Daninha.md "Erva Daninha") [Erva Daninha](../Ofensiva/Erva%20Daninha.md "Erva Daninha")
-- [![Campo Gravitacional](../images/2/23/Campo_Gravitacional.png)](../Ofensiva/Campo%20Gravitacional.md "Campo Gravitacional") [Campo Gravitacional](../Ofensiva/Campo%20Gravitacional.md "Campo Gravitacional")
-- [![Sopro do Dragão](../images/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
-- [![Bafo do Dragão](../images/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
+- [![Ganbantein](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Ganbantein.png)](Ganbantein.md "Ganbantein") [Ganbantein](Ganbantein.md "Ganbantein")
+- [![Erva Daninha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Erva_Daninha.png)](../Ofensiva/Erva%20Daninha.md "Erva Daninha") [Erva Daninha](../Ofensiva/Erva%20Daninha.md "Erva Daninha")
+- [![Campo Gravitacional](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Campo_Gravitacional.png)](../Ofensiva/Campo%20Gravitacional.md "Campo Gravitacional") [Campo Gravitacional](../Ofensiva/Campo%20Gravitacional.md "Campo Gravitacional")
+- [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
+- [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
 
 ## Notas
 

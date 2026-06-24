@@ -15,10 +15,10 @@
 
 1. No [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"), fale com o Sindicalista e aceite se afiliar ao Sindicato. Depois, fale com a Oficial do Governo para iniciar as missões.
 
-   :   ![Sindicato1](../images/2/28/Sindicato1.png)
+   :   ![Sindicato1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Sindicato1.png)
 2. Seu objetivo é juntar o máximo de ![25051.png](http://static.divine-pride.net/images/items/item/25051.png) [Moedas Sindicais](http://www.divine-pride.net/database/item/25051/) para serem trocadas por pontos de *Fama* nos Investidores em cada cidade.
 
-   :   ![Sindicato2](../images/8/88/Sindicato2.png)
+   :   ![Sindicato2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Sindicato2.png)
 3. Há dois métodos para conseguir as Moedas:
    - **Falando com o Sindicalista**:
      - Você receberá uma missão que permite receber uma Moeda Sindical direto no inventário toda vez que eliminar um monstro (20% de chance).  

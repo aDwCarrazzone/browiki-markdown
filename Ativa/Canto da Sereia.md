@@ -45,7 +45,7 @@ Tem chance de infligir [Sedução](../Sem%20categoria/Sedu%C3%A7%C3%A3o.md "Sedu
 
 - Alvos afetados não poderão atacar o usuário, incluindo atacar usando armadilhas.
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Melodia de Morfeu](../images/c/c5/Melodia_de_Morfeu.png)](Melodia%20de%20Morfeu.md "Melodia de Morfeu") [Melodia de Morfeu](Melodia%20de%20Morfeu.md "Melodia de Morfeu")
+  - [![Melodia de Morfeu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Melodia_de_Morfeu.png)](Melodia%20de%20Morfeu.md "Melodia de Morfeu") [Melodia de Morfeu](Melodia%20de%20Morfeu.md "Melodia de Morfeu")
 - Armas relacionadas:
   - ![1985.png](http://static.divine-pride.net/images/items/item/1985.png) [Chicote de Caule Rosa](http://www.divine-pride.net/database/item/1985/)
 

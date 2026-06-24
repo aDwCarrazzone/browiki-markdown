@@ -2,7 +2,7 @@
 
 # Encantamento
 
-![Encantamento1](../images/0/0c/Encantamento1.png)
+![Encantamento1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Encantamento1.png)
 
 Item encantado
 
@@ -37,7 +37,7 @@ Exemplos
 
 - As [Asas de Arcanjo](http://www.divine-pride.net/database/item/2573/) são encantadas pelo Arcanjo Caído (mal\_in01 14,16).
 
-:   ![ArcanoJcaaído](../images/b/be/ArcanoJcaa%C3%ADdo.png)
+:   ![ArcanoJcaaído](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/ArcanoJcaa%C3%ADdo.png)
 
 - As [Asas de Arcanjo](http://www.divine-pride.net/database/item/2573/) recebem apenas 1 pedra de encanto aleatória.
 - O processo de encanto custa 1.000.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
@@ -60,7 +60,7 @@ Exemplos
 
 - As [Asas de Arcanjo Caído](http://www.divine-pride.net/database/item/2589/) são encantadas pela Valquíria Caída (itemmall 29,66)
 
-:   ![ValquiriaCaida](../images/9/90/ValquiriaCaida.png)
+:   ![ValquiriaCaida](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/ValquiriaCaida.png)
 
 - Encantar as [Asas de Arcanjo Caído](http://www.divine-pride.net/database/item/2589/) é de graça.
 - Você pode escolher a categoria do encanto, mas não pode escolher um encanto específico.
@@ -91,7 +91,7 @@ Exemplos
 
 ### Armaduras
 
-:   ![AprendizEnch](../images/b/b9/AprendizEnch.png)
+:   ![AprendizEnch](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/AprendizEnch.png)
 
 - Armaduras são encantadas pela Aprendiz de Encantamento (prontera 165,60)
 - Cada processo de encanto custa 400.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").

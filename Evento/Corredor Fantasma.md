@@ -17,7 +17,7 @@
 
 - Para participar, vá para [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo") e fale com o Espectro da Morte (comodo 208,187).
 
-  :   ![PhantomCu](../images/a/a4/PhantomCu.png)
+  :   ![PhantomCu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/PhantomCu.png)
 - Compre o [Selo Visionário](http://www.divine-pride.net/database/item/25504/) do Espectro para ter acesso às salas.
 - Os Selos são de aluguel, basta comprar uma vez para ter acesso total às salas enquanto o tempo durar.
 - Quando o tempo do Selo acabar e você ainda estiver nas salas, seu personagem não será removido do lugar.

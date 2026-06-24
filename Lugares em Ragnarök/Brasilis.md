@@ -2,7 +2,7 @@
 
 # Brasilis
 
-[![Brasilis worldmap](../images/7/78/Brasilis_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ABrasilis_worldmap.jpg)
+[![Brasilis worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Brasilis_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ABrasilis_worldmap.jpg)
 
 Brasilis, terra da felicidade
 
@@ -28,7 +28,7 @@ Para torná-la ainda mais especial, graças à influência dos indígenas locais
 | Map pocao | Loja de Ferramentas | (brasilis 252,257) |
 | Map faca | Loja de Munições | (brasilis 244,243) |
 
-![Brasilis Waterfalls](../images/0/09/Brasilis_Waterfalls.jpg)
+![Brasilis Waterfalls](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Brasilis_Waterfalls.jpg)
 
 |  |  |  |
 | --- | --- | --- |

@@ -47,7 +47,7 @@ Tem chance de infligir [Atordoamento](../Sem%20categoria/Atordoamento.md "Atordo
 - Por caírem em células aleatórias da área de 7x7, alguns meteoros podem cair na borda dessa área.
 - Como cada meteoro possui 7x7 células de tamanho, a área pode chegar a 13x13 células.
 
-:   ![Tamanho do Meteoro](../images/1/1b/Tamanho_do_Meteoro.png)
+:   ![Tamanho do Meteoro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Tamanho_do_Meteoro.png)
 
     :   **C** o centro selecionado da área
     :   **X** o centro do meteoro

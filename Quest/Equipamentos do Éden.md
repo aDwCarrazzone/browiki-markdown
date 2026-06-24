@@ -4,7 +4,7 @@
 
 Para adquirir Equipamentos do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden"), complete as missões dos instrutores atrás do balcão.
 
-:   :   ![InstcBoya](../images/b/b6/InstcBoya.png)
+:   :   ![InstcBoya](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/InstcBoya.png)
 
 - Os instrutores darão uma missão de acordo com seu nível.
   - **Nível 12** em diante: Instrutora Boya (moc\_para01 23,35)
@@ -12,7 +12,7 @@ Para adquirir Equipamentos do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo 
   - **Nível 100** em diante: Troca de Moedas com a Gerente Emily (moc\_para01 107,97)
 - Após completar a missão, retorne ao instrutor e entre no portal para adquirir seus equipamentos com o [NPC](../Sem%20categoria/NPC.md "NPC") correto.
 
-  :   ![Valhalla3a](../images/1/1e/Valhalla3a.png)
+  :   ![Valhalla3a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Valhalla3a.png)
 - Ao completar missões superiores, você receberá novas armas, mas os [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") só serão entregues uma única vez.
 - Não é possível refazer as missões, mesmo após o [renascimento](../Quests%20de%20ca%C3%A7a/Renascimento.md "Renascimento").
 - Caso você perca alguma arma ou equipamento de até nível 99, fale com o Gerente Harmony (moc\_para01 113,90) para repor.

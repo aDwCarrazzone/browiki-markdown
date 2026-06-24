@@ -16,22 +16,22 @@
 
 1. Ofereça ajuda a Doutora (lou\_in02 265,69)
 
-   :   ![Erva Medicinal01](../images/9/9a/Erva_Medicinal01.png)
+   :   ![Erva Medicinal01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Erva_Medicinal01.png)
 2. Fale com o Vendedor de Ferramentas (lou\_in02 248,166)
 
-   :   ![Erva Medicinal02](../images/e/e6/Erva_Medicinal02.png)
+   :   ![Erva Medicinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Erva_Medicinal02.png)
 3. Anote o formulário dado pelo Especialista em Lanças (lou\_in02 201,166)
 
-   :   ![Erva Medicinal03](../images/0/01/Erva_Medicinal03.png)
+   :   ![Erva Medicinal03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Erva_Medicinal03.png)
 4. Pague 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") ao Soldado (lou\_in02 210,47)
 
-   :   ![Erva Medicinal04](../images/b/b0/Erva_Medicinal04.png)
+   :   ![Erva Medicinal04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Erva_Medicinal04.png)
 
    - Digite:
      - `10000`
 5. Fale com o Homem dos Papéis (lou\_in02 156,38)
 
-   :   ![Erva Medicinal05](../images/5/57/Erva_Medicinal05.png)
+   :   ![Erva Medicinal05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Erva_Medicinal05.png)
 
    - Digite corretamente o formulário dado pelo Especialista em Lanças:
      - `Plano para Gerência e Assistente de Loja`

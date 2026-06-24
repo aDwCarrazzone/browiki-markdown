@@ -16,21 +16,21 @@
 
 1. Ao entrar no [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"), você receberá uma mensagem da Secretária Lenore. (Apenas no canal Principal)
 
-   :   ![Valhalla2](../images/f/f9/Valhalla2.png)
+   :   ![Valhalla2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Valhalla2.png)
 2. No segundo andar, fale com a Capitã Arquien (moc\_para01 133,170)
 
-   :   ![Arquien](../images/a/a8/Arquien.png)
+   :   ![Arquien](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Arquien.png)
 
    - Selecione qualquer opção.
 3. Na sala ao lado, fale com a Secretária Lenore. (moc\_para01 174,165)
 
-   :   ![LimeEvenor](../images/a/aa/LimeEvenor.png)
+   :   ![LimeEvenor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/LimeEvenor.png)
 
    - Selecione qualquer opção.
    - A partir deste passo, você já pode começar a missão [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado").
 4. Fale com a Recepcionista (verus04 182,168)
 
-   :   ![RecpNara](../images/a/a1/RecpNara.png)
+   :   ![RecpNara](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/RecpNara.png)
 
    - Digite:
      - `Atnad`
@@ -38,10 +38,10 @@
    - Você liberou as missões [Limpando o Caminho](Aventuras%20em%20Verus.md "Aventuras em Verus") e [Eliminando Robôs](Aventuras%20em%20Verus.md "Aventuras em Verus").
 5. Fale com o Arqueologista (verus04 141,193)
 
-   :   ![ArqAures](../images/4/4d/ArqAures.png)
+   :   ![ArqAures](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/ArqAures.png)
 6. Converse com Ian Atnad (verus04 144,193)
 
-   :   ![IanAtnad](../images/4/44/IanAtnad.png)
+   :   ![IanAtnad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/IanAtnad.png)
 
    - Colete 20 [Núcleo de Energia](http://www.divine-pride.net/database/item/6749/) derrotando os [Robôs de Reconhecimento](http://www.divine-pride.net/database/monster/3154/), [Robôs Exploradores](http://www.divine-pride.net/database/monster/3156/) e [Robôs Reparadores](http://www.divine-pride.net/database/monster/3155/).
 7. Retorne a Ian Atnad.
@@ -50,10 +50,10 @@
 8. Fale com o Arqueologista.
 9. Encontre o Maquinista Lloyd (verus03 103,177)
 
-   :   ![Lloyd](../images/5/50/Lloyd.png)
+   :   ![Lloyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Lloyd.png)
 10. Com 10 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/) no inventário, consiga 10 [Energias Condensadas](http://www.divine-pride.net/database/item/6756/) dos Restos de Máquina, indicados no mapa abaixo.
 
-    :   ![Resto de Maquina](../images/a/a1/Resto_de_Maquina.png)
+    :   ![Resto de Maquina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Resto_de_Maquina.png)
 
     - Os Restos de Máquina retornam após 30 segundos.
 11. Entregue os itens para o Maquinista Lloyd.
@@ -62,7 +62,7 @@
     - Você receberá 1 [Relatório da Escavação](http://www.divine-pride.net/database/item/6748/).
 13. Informe os resultados da escavação para o Comandante Louis (verus04 179,165)
 
-    :   ![ComandanteLouis](../images/4/4f/ComandanteLouis.png)
+    :   ![ComandanteLouis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/ComandanteLouis.png)
 
     - Você receberá 300.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
     - Você liberou a missão [Relatório Diário](Aventuras%20em%20Verus.md "Aventuras em Verus").
@@ -70,14 +70,14 @@
 15. Fale com o Arqueologo, ao lado de Ian.
 16. Procure por Luke Lapez (verus03 107,177)
 
-    :   ![LukeLopez](../images/0/06/LukeLopez.png)
+    :   ![LukeLopez](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/LukeLopez.png)
 
     - Traga 2 [Carnes](http://www.divine-pride.net/database/item/517/), 1 [Manga de Mora](http://www.divine-pride.net/database/item/11520/) e 1 [Banana](http://www.divine-pride.net/database/item/513/) ao [NPC](../Sem%20categoria/NPC.md "NPC") para receber 1 Torrada de Carne
 17. Dê a Torrada de Carne para Ian Atnad.
     - Fale novamente com o [NPC](../Sem%20categoria/NPC.md "NPC") e selecione "*Conversar*". Repita esse passo mais uma vez até receber a missão "[Registro de Memórias](Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias")"
 18. Fale com Damhwa (verus03 166,258)
 
-    :   ![Damhwa](../images/a/a5/Damhwa.png)
+    :   ![Damhwa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Damhwa.png)
 
     - Selecione:
       - Eu sou do grupo de escavação de Atnad.
@@ -87,7 +87,7 @@
       - [Abrigo Subterrâneo](http://www.divine-pride.net/database/map/un_bunker/)
     - Agora você pode acessar o mapa da instância [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central") e da missão [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado").
 
-![Saga4](../images/8/84/Saga4.png)
+![Saga4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Saga4.png)
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |

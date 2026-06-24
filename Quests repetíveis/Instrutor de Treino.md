@@ -25,7 +25,7 @@
 
 1. Converse com o Instrutor Rune (te\_prt\_gld 125,149)
 
-   :   ![Quests de Guerra001](../images/8/8f/Quests_de_Guerra001.png)
+   :   ![Quests de Guerra001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Quests_de_Guerra001.png)
 
    - **Quebre o Emperium**: destruir [Emperiuns](http://www.divine-pride.net/database/monster/1288/) durante a [GdE: TE](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium").
    - **Suspeitos**: eliminar [Bebê Suspeitos](http://www.divine-pride.net/database/monster/2451/) dentro do tempo limite de 4 horas.
@@ -33,7 +33,7 @@
 
 1. Converse com o Instrutor Mana (te\_alde\_gld 218,182)
 
-   :   ![Quests de Guerra002](../images/2/20/Quests_de_Guerra002.png)
+   :   ![Quests de Guerra002](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Quests_de_Guerra002.png)
 
    - **Quebre o Emperium**: destruir [Emperiuns](http://www.divine-pride.net/database/monster/1288/) durante a [GdE: TE](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium").
    - **Suspeitos**: eliminar [Porings Suspeitos](http://www.divine-pride.net/database/monster/2450/) dentro do tempo limite de 4 horas.

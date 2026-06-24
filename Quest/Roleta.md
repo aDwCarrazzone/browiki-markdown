@@ -2,7 +2,7 @@
 
 # Roleta
 
-![EventoRoleta](../images/f/f5/EventoRoleta.png)
+![EventoRoleta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/EventoRoleta.png)
 
 Aparência da roleta
 

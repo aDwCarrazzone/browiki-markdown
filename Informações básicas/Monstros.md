@@ -2,7 +2,7 @@
 
 # Monstros
 
-![Eartwork monstros](../images/2/22/Eartwork_monstros.jpg)
+![Eartwork monstros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Eartwork_monstros.jpg)
 
 O mundo de [Ragnarök](../Sem%20categoria/Ragnar%C3%B6k.md "Ragnarök") é o lar de várias criaturas que habitam diversos mapas do jogo - com exceção das cidades - e que garantem [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") e [drop](../Sem%20categoria/Drops.md "Drops")!
 
@@ -19,10 +19,10 @@ Monstros se dividem em 3 categorias:
   - Monstros chefes podem ser [MVPs](MVP.md "MVP") ou não;
   - Detectam personagens em [esconderijo](../Ativa/Esconderijo.md "Esconderijo");
   - Não são afetados por [efeitos negativos](Efeitos%20negativos.md "Efeitos negativos"), por [empurrões](Categoria-Habilidades que empurram.md "Categoria:Habilidades que empurram") e habilidades como [Furto](../Ativa/Furto.md "Furto"), [Rapto](../Ofensiva/Rapto.md "Rapto"), [Kaite](../Ativa/Kaite.md "Kaite") e [Provocar](../Ativa/Provocar.md "Provocar");
-  - São identificados com uma Caveira Cinza ao lado do nome.![MonstroChefe](../images/6/61/MonstroChefe.png)
+  - São identificados com uma Caveira Cinza ao lado do nome.![MonstroChefe](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/MonstroChefe.png)
 - **Monstros MVPs:**
   - Possuem as mesmas características de um monstro chefe.
-  - São identificados com uma Caveira Dourada ao lado do nome.![MonstroMVP](../images/5/53/MonstroMVP.png)
+  - São identificados com uma Caveira Dourada ao lado do nome.![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png)
   - Veja mais detalhes na página de [MVP](MVP.md "MVP").
 
 ## Raças
@@ -49,9 +49,9 @@ Ao todo, existem 12 raças diferentes, cada uma com sua peculiaridade.
 ## Tamanho
 
 - Além de [raça](../Sem%20categoria/Ra%C3%A7a.md "Raça") e [propriedade](../Sem%20categoria/Propriedade.md "Propriedade"), monstros e personagens possuem 3 tipos de tamanho:
-  - ![Tamanho Pequeno](../images/1/13/Tamanho_Pequeno.png) Pequeno
-  - ![Tamanho Medio](../images/f/f7/Tamanho_Medio.png) Médio
-  - ![Tamanho Grande](../images/6/63/Tamanho_Grande.png) Grande
+  - ![Tamanho Pequeno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Tamanho_Pequeno.png) Pequeno
+  - ![Tamanho Medio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Tamanho_Medio.png) Médio
+  - ![Tamanho Grande](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Tamanho_Grande.png) Grande
 - Personagens adultos são considerados de tamanho médio e [personagens adotados](Fam%C3%ADlia.md#adoção "Família") e [Doram](../Sem%20categoria/Doram.md "Doram") são de tamanho pequeno.
 - Estar em uma [montaria](../Passiva/Montaria.md "Montaria") não torna o personagem de tamanho grande.
 - A aparência de um [monstro](../Sem%20categoria/Monstro.md "Monstro") não reflete seu tamanho real, por exemplo, um [Cochicho](http://www.divine-pride.net/database/monster/1186/) parece ser do tamanho grande, mas na verdade é do tamanho pequeno.
@@ -193,23 +193,23 @@ Além disso, eles:
 - Não contam em missões de caça ao monstro original, a menos que a [quest](../Sem%20categoria/Quest.md "Quest") se refira diretamente a eles.
 - Não podem ser transformados em outros monstros.
 
-- [![Monstro comum.](../images/4/41/CM_normal.png)](https://browiki.org/wiki/Arquivo%3ACM_normal.png "Monstro comum.")
+- [![Monstro comum.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/CM_normal.png)](https://browiki.org/wiki/Arquivo%3ACM_normal.png "Monstro comum.")
 
   Monstro comum.
-- [![Ágil: Andam 50% mais rápido.](../images/1/14/CM_agil.png)](https://browiki.org/wiki/Arquivo%3ACM_agil.png "Ágil: Andam 50% mais rápido.")
+- [![Ágil: Andam 50% mais rápido.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/CM_agil.png)](https://browiki.org/wiki/Arquivo%3ACM_agil.png "Ágil: Andam 50% mais rápido.")
 
   **Ágil:** Andam 50% mais rápido.
-- [![Brutal: Possui 10 vezes mais HP e 20% menos movimento.](../images/0/04/CM_brutal.png)](https://browiki.org/wiki/Arquivo%3ACM_brutal.png "Brutal: Possui 10 vezes mais HP e 20% menos movimento.")
+- [![Brutal: Possui 10 vezes mais HP e 20% menos movimento.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/CM_brutal.png)](https://browiki.org/wiki/Arquivo%3ACM_brutal.png "Brutal: Possui 10 vezes mais HP e 20% menos movimento.")
 
   **Brutal:** Possui 10 vezes mais [HP](../Sem%20categoria/HP.md "HP") e 20% menos movimento.
 
-- [![Alfa: Invoca 2 versões originais de si mesmos, uma única vez.](../images/5/5f/CM_alfa.png)](https://browiki.org/wiki/Arquivo%3ACM_alfa.png "Alfa: Invoca 2 versões originais de si mesmos, uma única vez.")
+- [![Alfa: Invoca 2 versões originais de si mesmos, uma única vez.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/CM_alfa.png)](https://browiki.org/wiki/Arquivo%3ACM_alfa.png "Alfa: Invoca 2 versões originais de si mesmos, uma única vez.")
 
   **Alfa:** Invoca 2 versões originais de si mesmos, uma única vez.
-- [![Feroz: Possui mais velocidade de ataque e 30% mais AGI.](../images/f/f6/CM_feroz.png)](https://browiki.org/wiki/Arquivo%3ACM_feroz.png "Feroz: Possui mais velocidade de ataque e 30% mais AGI.")
+- [![Feroz: Possui mais velocidade de ataque e 30% mais AGI.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/CM_feroz.png)](https://browiki.org/wiki/Arquivo%3ACM_feroz.png "Feroz: Possui mais velocidade de ataque e 30% mais AGI.")
 
   **Feroz:** Possui mais [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") e 30% mais [AGI](../Sem%20categoria/AGI.md "AGI").
-- [![Fugaz: Conjura Curar e Teleporte com muita frequência.](../images/5/5e/CM_fugaz.png)](https://browiki.org/wiki/Arquivo%3ACM_fugaz.png "Fugaz: Conjura Curar e Teleporte com muita frequência.")
+- [![Fugaz: Conjura Curar e Teleporte com muita frequência.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/CM_fugaz.png)](https://browiki.org/wiki/Arquivo%3ACM_fugaz.png "Fugaz: Conjura Curar e Teleporte com muita frequência.")
 
   **Fugaz:** Conjura [Curar](../Suporte/Curar.md "Curar") e [Teleporte](../Ativa/Teleporte.md "Teleporte") com muita frequência.
 

@@ -49,7 +49,7 @@ Com habilidades para encarar uma guerra, as Oboros se destacam por 3 especialida
 
 ### Árvore de habilidades
 
-![SkilltreeOboro](../images/5/59/SkilltreeOboro.png)
+![SkilltreeOboro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/SkilltreeOboro.png)
 
 ## Construção do Personagem
 

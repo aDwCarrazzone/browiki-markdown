@@ -30,10 +30,10 @@ Equipar armas do tipo Arco, Chicote ou Instrumento Musical aumenta o [P.ATQ](../
 
 ### Habilidades afetadas
 
-- [![Arranjo Musical](../images/a/a8/Arranjo_Musical.png)](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") [Arranjo Musical](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical")
-- [![Disparo Rítmico](../images/a/aa/Disparo_R%C3%ADtmico.png)](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico")
-- [![Atirar Rosas](../images/b/be/Atirar_Rosas.png)](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas")
-- [![Fúria Estridente](../images/3/31/F%C3%BAria_Estridente.png)](../Ofensiva/F%C3%BAria%20Estridente.md "Fúria Estridente") [Fúria Estridente](../Ofensiva/F%C3%BAria%20Estridente.md "Fúria Estridente")
+- [![Arranjo Musical](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Arranjo_Musical.png)](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") [Arranjo Musical](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical")
+- [![Disparo Rítmico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Disparo_R%C3%ADtmico.png)](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico")
+- [![Atirar Rosas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Atirar_Rosas.png)](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas")
+- [![Fúria Estridente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/F%C3%BAria_Estridente.png)](../Ofensiva/F%C3%BAria%20Estridente.md "Fúria Estridente") [Fúria Estridente](../Ofensiva/F%C3%BAria%20Estridente.md "Fúria Estridente")
 
 ## Notas
 

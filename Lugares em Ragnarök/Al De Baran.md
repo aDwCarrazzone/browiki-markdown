@@ -2,7 +2,7 @@
 
 # Al De Baran
 
-[![Aldebaran city](../images/e/e0/Aldebaran_city.jpg)](https://browiki.org/wiki/Arquivo%3AAldebaran_city.jpg)
+[![Aldebaran city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Aldebaran_city.jpg)](https://browiki.org/wiki/Arquivo%3AAldebaran_city.jpg)
 
 Al De Baran, a cidade da Fronteira.
 
@@ -47,7 +47,7 @@ Al de Baran parece ter sido inspirada em [Zaanse Schans](https://en.wikipedia.or
 | Horácio Ponteiro | Acesso ao *[Modo Pesadelo](../Sem%20categoria/Modo%20Pesadelo.md "Modo Pesadelo")* | (c\_tower1 232,222) |
 | Auxiliar de Cozinha | [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") | (aldebaran 165,107) |
 
-[![ClockTower](../images/f/fd/ClockTower.png)](https://browiki.org/wiki/Arquivo%3AClockTower.png)
+[![ClockTower](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/ClockTower.png)](https://browiki.org/wiki/Arquivo%3AClockTower.png)
 
 O interior da Torre do Relógio
 

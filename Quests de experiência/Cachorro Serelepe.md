@@ -15,10 +15,10 @@
 
 1. Aceite ajudar a Sra. McPhy (harboro1 347,65)
 
-   :   ![Spotty01](../images/f/fd/Spotty01.png)
+   :   ![Spotty01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Spotty01.png)
 2. Clique no Buraco (rockrdg1 43,145)
 
-   :   ![Spotty02](../images/4/4f/Spotty02.png)
+   :   ![Spotty02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Spotty02.png)
 3. Volte a falar com a Sra. McPhy (harboro1 347,65)
    - Você recebe 1 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) e libera as missões diárias.
 

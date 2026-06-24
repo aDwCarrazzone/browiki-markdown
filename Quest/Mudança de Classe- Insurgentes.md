@@ -15,50 +15,50 @@
 
 1. Para iniciar uma conversa, aproxime-se do Homem Suspeito (moc\_fild12 261,318)
 
-   :   ![QuestInsu01](../images/2/20/QuestInsu01.png)
+   :   ![QuestInsu01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/QuestInsu01.png)
 
    - Não importa a opção que você escolha, seu personagem sempre será teleportado para uma área aleatória do mapa.
    - Após receber a janela de missão falando com o [NPC](../Sem%20categoria/NPC.md "NPC"), dirija-se a [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
 2. Fale com o Segurança (einbroch 54,97)
 
-   :   ![QuestInsu02](../images/f/f3/QuestInsu02.png)
+   :   ![QuestInsu02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/QuestInsu02.png)
 3. Dentro do bar, aceite o pedido de Kulbertinov para iniciar os testes.
 
-   :   ![QuestInsu03](../images/b/bf/QuestInsu03.png)
+   :   ![QuestInsu03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/QuestInsu03.png)
 4. Assine o contrato da Elwin Conick.
 
-   :   ![QuestInsu04](../images/d/db/QuestInsu04.png)
+   :   ![QuestInsu04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/QuestInsu04.png)
 5. **Primeiro teste**
    1. Fale com a Elwin Conick para se transformar em Cecil.
 
-      :   ![QuestInsu05](../images/5/58/QuestInsu05.png)
+      :   ![QuestInsu05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/QuestInsu05.png)
 
       - Seu objetivo é criar uma arma antes da transformação acabar (3 minutos).
       - Em caso de falha, basta retornar a Elwin para recomeçar.
       - Recomendamos que você se familiarize com a localização da Fornalha e da Bigorna antes de iniciar.
    2. Clique no Controle da Fornalha, próximo ao portal.
 
-      :   ![QuestInsu06](../images/8/8c/QuestInsu06.png)
+      :   ![QuestInsu06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/QuestInsu06.png)
    3. Colete 5 ou mais [Fragmentos de Aço](http://www.divine-pride.net/database/item/6747/) que caírem perto das máquinas.
 
-      :   ![QuestInsu07](../images/4/4a/QuestInsu07.png)
+      :   ![QuestInsu07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/QuestInsu07.png)
 
       - É necessário estar no disfarce de Cecil para coletar o item, caso contrário, a [NPC](../Sem%20categoria/NPC.md "NPC") pegará todos os fragmentos do seu inventário.
    4. Entre no portal e clique na Bigorna Automática para tentar fazer uma [Chama Efêmera](http://www.divine-pride.net/database/item/13118/).
 
-      :   ![QuestInsu08](../images/1/13/QuestInsu08.png)
+      :   ![QuestInsu08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/QuestInsu08.png)
 
       - Serão consumidos 5 [Fragmentos de Aço](http://www.divine-pride.net/database/item/6747/). Em caso de falha, você deve coletar os materiais novamente.
    5. Em caso de sucesso, fale com Elwin Conick.
 
-      :   ![QuestInsu09](../images/2/29/QuestInsu09.png)
+      :   ![QuestInsu09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/QuestInsu09.png)
 6. **Segundo teste**
    1. Converse com Ivan Sidorenko para um teste de 3 minutos de tiro ao alvo.
 
-      :   ![QuestInsu010](../images/9/98/QuestInsu010.png)
+      :   ![QuestInsu010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/QuestInsu010.png)
    2. Elimine 10 [Alvos](http://www.divine-pride.net/database/monster/3189/) espalhados nos corredores do lugar.
 
-      :   ![QuestInsu011](../images/4/44/QuestInsu011.png)
+      :   ![QuestInsu011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/QuestInsu011.png)
 
       - Ataque apenas os monstros com o nome de **Alvo**.
       - Você pode ir atravessando os portais do lugar, aparecerão mais monstros.
@@ -67,7 +67,7 @@
    3. Em caso de sucesso, retorne a Ivan para teleportar-se.
 7. No escritório, fale com Ivan Sidorenko para mudar sua classe e receber uma [Chama da Liberdade](http://www.divine-pride.net/database/item/13119/).
 
-   :   ![QuestInsu012](../images/6/61/QuestInsu012.png)
+   :   ![QuestInsu012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/QuestInsu012.png)
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.
 

@@ -16,43 +16,43 @@
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | Ver tabela |
 
-![Payon city](../images/f/f6/Payon_city.jpg)
+![Payon city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Payon_city.jpg)
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), aceite o pedido do Aventureiro Leon (dali 130,107)
 
-   :   ![SarahM01](../images/4/43/SarahM01.png)
+   :   ![SarahM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/SarahM01.png)
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") pelo Portal Dimensional atrás de Leon.
 
-   :   ![SarahM02](../images/8/82/SarahM02.png)
+   :   ![SarahM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/SarahM02.png)
 3. Converse com Sarah para iniciar a história. Entre no portal destacado em vermelho no mapa.
 
-   :   ![SarahM03](../images/3/39/SarahM03.png)
+   :   ![SarahM03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/SarahM03.png)
 4. Fale com Sarah novamente e prepare-se para a batalha!
 
-   :   ![SarahM04](../images/c/c5/SarahM04.png)
+   :   ![SarahM04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/SarahM04.png)
 
    - Vários [Guardas de Payon](http://www.divine-pride.net/database/monster/2543/) aparecerão para atacar.
    - Siga enfrentando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") pelo caminho até o portal destacado em vermelho.
 5. Nesta etapa, continue eliminando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") até abrir o portal.
 
-   :   ![SarahM05](../images/5/51/SarahM05.png)
+   :   ![SarahM05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/SarahM05.png)
 
    - Monstros: [Soldados de Payon](http://www.divine-pride.net/database/monster/2544/), [Guardas de Payon](http://www.divine-pride.net/database/monster/2543/), [Lobos da Guarda](http://www.divine-pride.net/database/monster/2545/), [Lobos da Guarda Ferozes](http://www.divine-pride.net/database/monster/2546/).
 6. Prossiga eliminando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") até abrir o portal.
 
-   :   ![SarahM06](../images/3/31/SarahM06.png)
+   :   ![SarahM06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/SarahM06.png)
 7. Prossiga eliminando os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") até abrir o portal.
 
-   :   ![SarahM07](../images/9/99/SarahM07.png)
+   :   ![SarahM07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/SarahM07.png)
 8. Fale com Sarah e enfrente os [Soldados de Payon](http://www.divine-pride.net/database/monster/2544/) para iniciar a batalha contra [Lorde Irine](http://www.divine-pride.net/database/monster/2542/).
 
-   :   ![SarahM08](../images/e/e5/SarahM08.png)
+   :   ![SarahM08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SarahM08.png)
 9. Ao derrotá-los, converse com Lorde Irine.
 
-   :   ![SarahM08a](../images/3/3b/SarahM08a.png)
+   :   ![SarahM08a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/SarahM08a.png)
 10. Encontre Sarah na ponte e em seguida, entre no portal à frente.
 
-    :   ![SarahM09](../images/a/a1/SarahM09.png)
+    :   ![SarahM09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/SarahM09.png)
 11. Retorne ao Aventureiro Leon, que dará uma recompensa em [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência"):
 
 :   :   |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

@@ -48,7 +48,7 @@ Oponentes atingidos serão empurrados para trás e terão a chance de sofrer [Co
 - Por caírem em células aleatórias da área de 9x9, algumas bolas de neve podem cair na borda dessa área.
 - Como cada bola de neve possui 3x3 células de tamanho, a área pode chegar a 11x11 células.
 
-:   ![Tamanho do Meteoro](../images/1/1b/Tamanho_do_Meteoro.png)
+:   ![Tamanho do Meteoro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Tamanho_do_Meteoro.png)
 
     :   **C** o centro selecionado da área
     :   **X** o centro da bola de neve

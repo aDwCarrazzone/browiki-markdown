@@ -14,7 +14,7 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Mayshell (iz\_ac02 52,136)
 
-   :   ![Basic Thief01](../images/0/01/Basic_Thief01.png)
+   :   ![Basic Thief01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Basic_Thief01.png)
 2. Leia as dicas da classe dadas por Vicente e Bercassell ao lado de Mayshell.
    - Ao responder "*AGI*" para Vicente, você recebe 30 [Poção de Aprendiz](http://www.divine-pride.net/database/item/7059/).
    - Já Bercassell, você deve selecionar todas as opções e responder "*Tô suave na nave!*".
@@ -22,14 +22,14 @@
    - Você receberá 1 [Manual do Gatuno](http://www.divine-pride.net/database/item/2820/) e 200 de [EXP](../Sem%20categoria/EXP.md "EXP") de base.
 4. Fale com Vicente para receber a missão de usar a habilidade [Furto](../Ativa/Furto.md "Furto") em 1 [Poring](http://www.divine-pride.net/database/monster/1002/).
 
-   :   ![Basic Thief02a](../images/3/3d/Basic_Thief02a.png)
+   :   ![Basic Thief02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Basic_Thief02a.png)
 
    - Você deve conseguir 1 [Pedra](http://www.divine-pride.net/database/item/7049/). Entregue-a para Vicente.
    - Vicente dará 800 de [EXP](../Sem%20categoria/EXP.md "EXP") de base.
 5. Converse com Bercassell para receber a missão de eliminar 1 [Poring](http://www.divine-pride.net/database/monster/1002/).
 6. Antes de atacar, converse com Rumin.
 
-   :   ![Basic Thief03](../images/5/56/Basic_Thief03.png)
+   :   ![Basic Thief03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Basic_Thief03.png)
 
    - Rumin te desafia eliminar 4 [Porings](http://www.divine-pride.net/database/monster/1002/) em menos de 30 segundos.
    - Se conseguir você recebe 800 de [EXP](../Sem%20categoria/EXP.md "EXP") de base, 50 de classe, 3 [Maçãs](http://www.divine-pride.net/database/item/512/), 2 [Ervas Verdes](http://www.divine-pride.net/database/item/511/), 22 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/) e 1 [Cenoura Arco Íris](http://www.divine-pride.net/database/item/622/).
@@ -37,25 +37,25 @@
 7. Retorne a Bercassell para ganhar 800 de [EXP](../Sem%20categoria/EXP.md "EXP") de base.
 8. Após completar tudo, fale com Mayshell.
 
-   :   ![Basic Thief01](../images/0/01/Basic_Thief01.png)
+   :   ![Basic Thief01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Basic_Thief01.png)
 
    - Você recebe 800 de [EXP](../Sem%20categoria/EXP.md "EXP") de base, 50 de classe, 30 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/) e 20 [Lupa de Iniciante](http://www.divine-pride.net/database/item/12325/).
    - Esse passo é opcional, mas ajuda a chegar mais rápido na guilda dos gatunos.
    - Você pode optar por mudar de classe diretamente na Academia, mas é recomendável mudar de classe na Guilda.
 9. Na Guilda dos Gatunos, converse com o Auxiliar dos Gatunos (moc\_prydb1 45,131)
 
-   :   ![Basic Thief06](../images/1/1e/Basic_Thief06.png)
+   :   ![Basic Thief06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Basic_Thief06.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
      - ![13041.png](http://static.divine-pride.net/images/items/item/13041.png) 1 [Main Gauche de Iniciante](http://www.divine-pride.net/database/item/13041/)
-     - Aprende [![Recuar](../images/7/78/Recuar.png)](../Ativa/Recuar.md "Recuar") [Recuar](../Ativa/Recuar.md "Recuar")
-     - Aprende [![Chutar Areia](../images/4/4f/Chutar_Areia.png)](../Ofensiva/Chutar%20Areia.md "Chutar Areia") [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia")
-     - Aprende [![Procurar Pedras](../images/0/02/Procurar_Pedras.png)](../Ativa/Procurar%20Pedras.md "Procurar Pedras") [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras")
-     - Aprende [![Arremessar Pedra](../images/8/89/Arremessar_Pedra.png)](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra")
+     - Aprende [![Recuar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Recuar.png)](../Ativa/Recuar.md "Recuar") [Recuar](../Ativa/Recuar.md "Recuar")
+     - Aprende [![Chutar Areia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Chutar_Areia.png)](../Ofensiva/Chutar%20Areia.md "Chutar Areia") [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia")
+     - Aprende [![Procurar Pedras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Procurar_Pedras.png)](../Ativa/Procurar%20Pedras.md "Procurar Pedras") [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras")
+     - Aprende [![Arremessar Pedra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Arremessar_Pedra.png)](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra")
 10. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
       - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -69,10 +69,10 @@
 
 1. Kaizel e a placa de Missões Fáceis fornecem [quests](Quests.md "Quests") uma única vez.
 
-   :   ![Tu thief01](../images/b/b8/Tu_thief01.png)
+   :   ![Tu thief01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Tu_thief01.png)
 2. Para acessar a Fazenda de Cogumelos, fale com Ted Ado (moc\_ruins 85,142)
 
-   :   ![Tu thief03](../images/c/c8/Tu_thief03.png)
+   :   ![Tu thief03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/Tu_thief03.png)
 
 :   :   :   :   | Missão | Objetivo | Recompensa |
                 | --- | --- | --- |
@@ -86,7 +86,7 @@
 
 :   :   3. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

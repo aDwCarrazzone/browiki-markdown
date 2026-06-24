@@ -21,26 +21,26 @@
 
 ### 1ª Opção: Mapa da Guilda
 
-:   Ao cumprir os requisitos mínimos, você receberá via [![Bt mail](../images/f/f2/Bt_mail.png)](https://browiki.org/wiki/Arquivo%3ABt_mail.png) [RODEX](../Sem%20categoria/RODEX.md "RODEX") o e-mail **Hora de Mudar a Classe** na caixa de entrada.
+:   Ao cumprir os requisitos mínimos, você receberá via [![Bt mail](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Bt_mail.png)](https://browiki.org/wiki/Arquivo%3ABt_mail.png) [RODEX](../Sem%20categoria/RODEX.md "RODEX") o e-mail **Hora de Mudar a Classe** na caixa de entrada.
 :   Dentro dele haverá o item ![1000346.png](http://static.divine-pride.net/images/items/item/1000346.png) [Mapa da Guilda](http://www.divine-pride.net/database/item/1000346/). Abra-o e clique na opção **[Falcões do Vento]**.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 :   Você será guiado até o [NPC](../Sem%20categoria/NPC.md "NPC") Idoso Bêbado (payon 106,176), próximo a entrada oeste de [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon").
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 ### 2ª Opção: Sistema de Navegação
 
-:   Caso não tenha recebido o e-mail via [![Bt mail](../images/f/f2/Bt_mail.png)](https://browiki.org/wiki/Arquivo%3ABt_mail.png) [RODEX](../Sem%20categoria/RODEX.md "RODEX"), é possível obter as coordenadas do [NPC](../Sem%20categoria/NPC.md "NPC") usando o [![Bt navigation](../images/0/0e/Bt_navigation.png)](https://browiki.org/wiki/Arquivo%3ABt_navigation.png) [Sistema de Navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação"), buscando por `Idoso Bêbado`.
+:   Caso não tenha recebido o e-mail via [![Bt mail](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Bt_mail.png)](https://browiki.org/wiki/Arquivo%3ABt_mail.png) [RODEX](../Sem%20categoria/RODEX.md "RODEX"), é possível obter as coordenadas do [NPC](../Sem%20categoria/NPC.md "NPC") usando o [![Bt navigation](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Bt_navigation.png)](https://browiki.org/wiki/Arquivo%3ABt_navigation.png) [Sistema de Navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação"), buscando por `Idoso Bêbado`.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 ## Falando com o velho
 
-Ao falar com o Idoso Bêbado, você receberá a missão [![NQ ico](../images/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Velho Bêbado**, disponível em [![Bt quest](../images/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
+Ao falar com o Idoso Bêbado, você receberá a missão [![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Velho Bêbado**, disponível em [![Bt quest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
 
-:   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 Durante o diálogo, ele irá mencionar sobre um antigo campo secreto de treinamento na Floresta de Luluka, nos arredores de [Umbala](../Lugares%20em%20Ragnar%C3%B6k/Umbala.md "Umbala").
 
@@ -54,15 +54,15 @@ Durante o diálogo, ele irá mencionar sobre um antigo campo secreto de treiname
 
 :   **Dica:** Caso tenha fechado a janela de diálogo, basta distanciar-se e reaproximar-se do local onde o Idoso Bêbado estava para que o [NPC](../Sem%20categoria/NPC.md "NPC") reapareça. Fale com ele para obter as instruções novamente.
 
-:   Você receberá a missão [![NQ ico](../images/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Motivos da curiosidade**, disponível em [![Bt quest](../images/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
+:   Você receberá a missão [![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Motivos da curiosidade**, disponível em [![Bt quest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
 :   A missão **Velho Bêbado** será excluída.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
-:   Ao relembrar corretamente as instruções, você receberá a missão [![NQ ico](../images/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Em busca do campo de treinamento secreto**, disponível em [![Bt quest](../images/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
+:   Ao relembrar corretamente as instruções, você receberá a missão [![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Em busca do campo de treinamento secreto**, disponível em [![Bt quest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).
 :   A missão **Motivos da curiosidade** será excluída.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 ## Encontrando o sapo
 
@@ -70,23 +70,23 @@ Conforme explicado pelo Idoso Bêbado, a entrada para o campo se dá por meio da
 
 ### 1ª Opção: Menu de Missões
 
-:   Na missão [![NQ ico](../images/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Em busca do campo de treinamento secreto**, as coordenadas fornecidas após clicar em **[Floresta de Luluka]** irá guiá-lo para próximo da entrada leste da floresta.
+:   Na missão [![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Em busca do campo de treinamento secreto**, as coordenadas fornecidas após clicar em **[Floresta de Luluka]** irá guiá-lo para próximo da entrada leste da floresta.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 :   Na verdade, a posição *exata* do [NPC](../Sem%20categoria/NPC.md "NPC") é (um\_fild01 47,345), próximo a entrada oeste da floresta.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 ### 2ª Opção: Sistema de Navegação
 
-:   Abra o [![Bt navigation](../images/0/0e/Bt_navigation.png)](https://browiki.org/wiki/Arquivo%3ABt_navigation.png) [Sistema de Navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação") e busque por `Sapo`. Clique no [NPC](../Sem%20categoria/NPC.md "NPC") Sapo e selecione a **5ª opção** da lista.
+:   Abra o [![Bt navigation](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Bt_navigation.png)](https://browiki.org/wiki/Arquivo%3ABt_navigation.png) [Sistema de Navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação") e busque por `Sapo`. Clique no [NPC](../Sem%20categoria/NPC.md "NPC") Sapo e selecione a **5ª opção** da lista.
 
-:   :   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   :   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 ## Rotas
 
-Partindo de ![Tamanho Pequeno](../images/1/13/Tamanho_Pequeno.png) [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon"), existem algumas opções até a ![Tamanho Grande](../images/6/63/Tamanho_Grande.png) [Floresta de Luluka](../Lugares%20em%20Ragnar%C3%B6k/Umbala.md "Umbala").
+Partindo de ![Tamanho Pequeno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Tamanho_Pequeno.png) [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon"), existem algumas opções até a ![Tamanho Grande](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Tamanho_Grande.png) [Floresta de Luluka](../Lugares%20em%20Ragnar%C3%B6k/Umbala.md "Umbala").
 
 ### 1ª Opção: Consumíveis
 
@@ -132,7 +132,7 @@ Partindo de ![Tamanho Pequeno](../images/1/13/Tamanho_Pequeno.png) [Payon](../Lu
 
 Deverá ser exibido um ícone de *job quest* acima do [NPC](../Sem%20categoria/NPC.md "NPC") Sapo. Caso contrário, você **não** concluiu as etapas descritas [aqui](#Relembrando_as_instruções).
 
-:   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 Crie um grupo (e.g., `/organize`). Fale com o [NPC](../Sem%20categoria/NPC.md "NPC") e escolha:
 
@@ -140,13 +140,13 @@ Crie um grupo (e.g., `/organize`). Fale com o [NPC](../Sem%20categoria/NPC.md "N
 
 Uma [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") será criada. Aguarde na fila.
 
-:   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 Após liberada a entrada, dirija-se ao portal para entrar na Floresta Profunda de Luluka, o antigo campo secreto de treinamento do [NPC](../Sem%20categoria/NPC.md "NPC") Idoso Bêbado.  
-Ao entrar no campo, você receberá a missão [![NQ ico](../images/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Nas Profundezas da Floresta de Luluka**, disponível em [![Bt quest](../images/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).  
+Ao entrar no campo, você receberá a missão [![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png)](https://browiki.org/wiki/Arquivo%3ANQ_ico.png) **Nas Profundezas da Floresta de Luluka**, disponível em [![Bt quest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Bt_quest.png)](https://browiki.org/wiki/Arquivo%3ABt_quest.png) [Missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") (Alt+U).  
 A missão **Em busca do campo de treinamento secreto** será excluída.
 
-:   [![BrowikiLogoYoutube](../images/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
+:   [![BrowikiLogoYoutube](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/BrowikiLogoYoutube.png)](https://browiki.org/wiki/Arquivo%3ABrowikiLogoYoutube.png)
 
 **Nota:** O portal (um\_fild01 40,341) estará aberto apenas enquanto a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") estiver em curso. Caso saia do campo sem concluir a missão de mudança de classe, só será possível retornar após **1 hora**
 

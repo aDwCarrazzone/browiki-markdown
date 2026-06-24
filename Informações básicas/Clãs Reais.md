@@ -2,9 +2,9 @@
 
 # Clãs Reais
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para clãs que podem participar da Guerra do Emperium, veja [Clã](../PvP/Cl%C3%A3.md "Clã").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para clãs que podem participar da Guerra do Emperium, veja [Clã](../PvP/Cl%C3%A3.md "Clã").
 
-![ServidoresRO](../images/0/04/ServidoresRO.jpg)
+![ServidoresRO](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/ServidoresRO.jpg)
 
 O sistema de *Clãs Reais* serve para reunir pessoas que não possuem [clã](../PvP/Cl%C3%A3.md "Clã"), afim de iniciar um contato com outros jogadores de [Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online").
 
@@ -19,7 +19,7 @@ Você pode se unir a um clã real e sair dele a qualquer momento.
 - Para conversar com membros do seu clã, você deve usar o comando `/cl` antes das suas frases.
 - Você também pode clicar na bolinha azul na janela do seu chat para enviar as mensagens.
 
-  :   ![Mensagempública](../images/6/60/Mensagemp%C3%BAblica.png)
+  :   ![Mensagempública](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Mensagemp%C3%BAblica.png)
 - Ao se juntar a um clã real, você receberá bônus de [atributos](Atributos.md "Atributos").
 - Para visualizar as mensagens de clã no seu chat, clique no botão de configuração em cima da janela de chat e selecione "Mensagens de Clã Real".
 

@@ -17,10 +17,10 @@
 
 1. Em [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md "Glastheim"), aproxime-se para Oscar surgir (glast\_01 143,288)
 
-   :   ![OGHCM01](../images/c/c2/OGHCM01.png)
+   :   ![OGHCM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/OGHCM01.png)
 2. Após reservar e entrar na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverá falar com Oscar para definir o nível de dificuldade.
 
-   :   ![OGHCM02](../images/4/43/OGHCM02.png)
+   :   ![OGHCM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/OGHCM02.png)
 3. Após a escolha, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") será dividido em dois lados.
    - Cada lado tem 50 monstros, sendo eles: [Raydric Maldito](http://www.divine-pride.net/database/monster/20577/), [Khalitzburg Mutante](http://www.divine-pride.net/database/monster/20576/) e [Cavaleiro Mutante](http://www.divine-pride.net/database/monster/20574/), vocês devem eliminar até 47.
    - Se só um lado for completado, um portal os levará para o outro lado.
@@ -32,7 +32,7 @@
    - A mecânica da batalha varia de acordo com o nível de dificuldade, explicada na tabela abaixo.
 5. Quando a batalha terminar, clique Oscar e um Baú aparecerão.
 
-   :   ![OGHCM04](../images/f/f0/OGHCM04.png)
+   :   ![OGHCM04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/OGHCM04.png)
 
    - Clicar no baú fará com que as recompensas caiam no chão, todos do grupo podem pegar.
    - Apenas o líder do grupo recebe recompensa adicional falando com Oscar.

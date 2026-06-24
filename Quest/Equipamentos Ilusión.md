@@ -13,11 +13,11 @@
 
 1. Equipamentos e Armas podem ser adquiridos com Elyumina, mas para invocá-la, é necessário que você fale com o Insurgente (sp\_cor 108,130)
 
-   :   ![Ilusionrebel](../images/d/d1/Ilusionrebel.png)
+   :   ![Ilusionrebel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/Ilusionrebel.png)
 2. Você pode adicionar [encantamentos](../Sem%20categoria/Encantamentos.md "Encantamentos") nos itens Ilusión e [bônus aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") nas armas OS.
 3. Para encantar um equipamento Ilusión, fale com a RS26 (sp\_cor 106,136)
 
-   :   ![RS26](../images/9/97/RS26.png)
+   :   ![RS26](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/RS26.png)
 4. O processo de encanto é bem parecido com os [Equipamentos Excelion](../Sem%20categoria/Equipamentos%20Excelion.md "Equipamentos Excelion").
 
 ## Armas OS

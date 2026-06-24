@@ -53,7 +53,7 @@ Sua jornada começa com seu personagem [renascido](../Quests%20de%20ca%C3%A7a/Re
 
 ### Árvore de habilidades
 
-![SkilltreeArquimagos](../images/9/97/SkilltreeArquimagos.png)
+![SkilltreeArquimagos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/SkilltreeArquimagos.png)
 
 ## Construção do Personagem
 

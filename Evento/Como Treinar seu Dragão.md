@@ -15,13 +15,13 @@
 1. Fale com Benjamin (hugel 101,139)
 2. Clique na Faísca Roxa (hu\_fild05 344,226) para teleportar ao Lago do Abismo versão evento (sem monstros).
 
-   :   ![HTTYD02](../images/9/94/HTTYD02.png)
+   :   ![HTTYD02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/HTTYD02.png)
 3. Fale com Soluço (httyd\_01 321,230)
 
-   :   ![HTTYD03](../images/2/20/HTTYD03.png)
+   :   ![HTTYD03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/HTTYD03.png)
 4. Agora, investigue os seguintes pontos:
 
-   :   ![HTTYD04](../images/2/23/HTTYD04.png)
+   :   ![HTTYD04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/HTTYD04.png)
 
    1. (httyd\_01 106,115)
    2. (httyd\_01 168,300)
@@ -34,20 +34,20 @@
 8. Clique no Local de Encontro (hu\_fild05 328,226) e selecione "*sim*".
 9. Agora, você deve percorrer pela caverna para conseguir alguns minérios.
 
-   :   ![HTTYD07](../images/e/e6/HTTYD07.png)
+   :   ![HTTYD07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/HTTYD07.png)
 
    1. (httyd\_02 226,259)
    2. (httyd\_02 168,162)
    3. (httyd\_02 132,265)
 10. Fale com Astrid (httyd\_02 94,242) para sair do lugar.
 
-    :   ![HTTYD08](../images/5/5c/HTTYD08.png)
+    :   ![HTTYD08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/HTTYD08.png)
 11. Converse mais de uma vez com Soluço (httyd\_01 321,230)
 12. Com os minérios em mãos, retorne a Tony (prt\_elib 45,78). Selecione "*eu vou junto*" para voltar ao Lago do Abismo.
 13. Fale com Soluço (httyd\_01 321,230) para ir à [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen").
 14. Encontre o Pós-graduando (geffen\_in 176,117)
 
-    :   ![HTTYD09](../images/9/9e/HTTYD09.png)
+    :   ![HTTYD09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/HTTYD09.png)
 
     - Traga 1 [Erva Branca](http://www.divine-pride.net/database/item/509/), 1 [Erva Azul](http://www.divine-pride.net/database/item/510/) e 1 [Erva Verde](http://www.divine-pride.net/database/item/511/) para ele.
     - Ele também teleporta você de volta ao mapa do evento.

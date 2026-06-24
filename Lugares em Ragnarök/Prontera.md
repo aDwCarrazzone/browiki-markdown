@@ -2,7 +2,7 @@
 
 # Prontera
 
-[![Prontera 2](../images/a/ae/Prontera_2.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_2.jpg)
+[![Prontera 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Prontera_2.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_2.jpg)
 
 Prontera, capital de Rune-Midgard
 
@@ -63,7 +63,7 @@ Ao leste, [Monges](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20a
 
 ## Quests & Calabouços
 
-[![Prontera palace](../images/f/fe/Prontera_palace.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_palace.jpg)
+[![Prontera palace](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Prontera_palace.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_palace.jpg)
 
 O interior do Palácio
 
@@ -109,7 +109,7 @@ O interior do Palácio
 
 ## Marcas de Honra
 
-[![Prontera palace2](../images/e/e0/Prontera_palace2.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_palace2.jpg)
+[![Prontera palace2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Prontera_palace2.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_palace2.jpg)
 
 Salão do Palácio
 

@@ -16,19 +16,19 @@
 
 1. Fale com Tamarin (ba\_maison 71,145)
 
-   :   ![SageLegacy06](../images/a/a5/SageLegacy06.png)
+   :   ![SageLegacy06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/SageLegacy06.png)
 2. Vá para a Fonte (ba\_maison 83,111)
 
-   :   ![Bibovar02](../images/4/40/Bibovar02.png)
+   :   ![Bibovar02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Bibovar02.png)
 3. Tente atravessar o portal de dentro da Biblioteca (ba\_maison 197,103).
 
-   :   ![Bibovar03](../images/a/af/Bibovar03.png)
+   :   ![Bibovar03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Bibovar03.png)
 4. Lá dentro, registre-se com a Bibliotecária Beta (ba\_lib 157,18)
 
-   :   ![Bibovar04](../images/4/4e/Bibovar04.png)
+   :   ![Bibovar04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Bibovar04.png)
 5. Localize os outros membros do grupo de Du Lian.
 
-   :   ![Bibovar05](../images/5/53/Bibovar05.png)
+   :   ![Bibovar05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Bibovar05.png)
 
    1. Mark (ba\_lib 84,85)
    2. Maggi (ba\_lib 112,266)

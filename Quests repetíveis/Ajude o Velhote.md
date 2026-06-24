@@ -16,18 +16,18 @@
 
 1. Ajude Memo (dewata 109,262)
 
-   :   ![Ajude o velhote01](../images/e/ee/Ajude_o_velhote01.png)
+   :   ![Ajude o velhote01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/Ajude_o_velhote01.png)
 2. Procure Lero (dew\_fild01 114,275)
 
-   :   ![Ajude o velhote02](../images/3/3c/Ajude_o_velhote02.png)
+   :   ![Ajude o velhote02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Ajude_o_velhote02.png)
 3. Encontre Poby (dew\_fild01 259,48)
 
-   :   ![Ajude o velhote03](../images/5/5b/Ajude_o_velhote03.png)
+   :   ![Ajude o velhote03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Ajude_o_velhote03.png)
 4. Conte o que aconteceu a Lero.
 5. Volte a Poby.
 6. Seu objetivo é coletar [Frutos de Palmeira](http://www.divine-pride.net/database/item/6402/). Para coletá-los, basta sacudir as Palmeiras espalhadas na área vermelha.
 
-   :   ![Ajude o velhote04](../images/c/cb/Ajude_o_velhote04.png)
+   :   ![Ajude o velhote04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Ajude_o_velhote04.png)
 
    - É recomendável sacudir as árvores menores e chutar as maiores. O que cair delas é aleatório, variando entre 1 a 5 [Frutos de Palmeira](http://www.divine-pride.net/database/item/6402/), [Folhas Gigantes](http://www.divine-pride.net/database/item/7198/), [Peles de Verme](http://www.divine-pride.net/database/item/955/) e [Pedras](http://www.divine-pride.net/database/item/7049/).
    - Sem o [Capacete de Segurança](http://www.divine-pride.net/database/item/5009/) equipado, há uma chance de receber uma *pancada*, fazendo você voltar para a entrada da cidade com -10% de [HP](../Sem%20categoria/HP.md "HP").
@@ -41,4 +41,4 @@
 14. Entregue os itens a Memo para receber 20.000 de [experiência de base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de base") e uma [Água de Coco](http://www.divine-pride.net/database/item/11534/).
 15. Troque a [Água de Coco](http://www.divine-pride.net/database/item/11534/) por um [Diamante de 2 quilates](http://www.divine-pride.net/database/item/731/) com o Garoto preguiçoso (dewata 114,243)
 
-    :   ![Ajude o velhote05](../images/a/aa/Ajude_o_velhote05.png)
+    :   ![Ajude o velhote05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Ajude_o_velhote05.png)

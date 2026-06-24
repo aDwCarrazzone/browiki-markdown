@@ -14,13 +14,13 @@
 
 1. Fale com Jirtas (gl\_prison1 137,138) e escolha a primeira opção duas vezes.
 
-   :   ![Zealotus01](../images/6/6e/Zealotus01.png)
+   :   ![Zealotus01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Zealotus01.png)
 2. Chicoteie mais de uma vez o Phendark (gl\_prison1 97,104)
 
-   :   ![Zealotus02a](../images/6/67/Zealotus02a.png)
+   :   ![Zealotus02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Zealotus02a.png)
 3. Converse com o Rybio (gl\_prison1 100,48)
 
-   :   ![Zealotus03](../images/a/a9/Zealotus03.png)
+   :   ![Zealotus03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Zealotus03.png)
 4. Retorne ao Phendark e o alimente com os fragmentos.
 5. Volte ao Rybio.
 6. Torture Phendark mais uma vez, escolhendo as opções "*Jirtas*", "*Odeia*", "*Phendark*" e "*Continue insultando ele*".

@@ -38,7 +38,7 @@ Dentro da nuvem, oponentes sofrerão de *Infecção*.
 
 ### Infecção
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Caveira](../images/2/2e/I_Caveira.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Caveira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/I_Caveira.png)
 - Dura 5 segundos.
 - Reduz a resistência à propriedade [Veneno](../Sem%20categoria/Veneno.md "Veneno").
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Desencantar](../Ativa/Desencantar.md "Desencantar").

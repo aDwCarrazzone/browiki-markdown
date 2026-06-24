@@ -16,10 +16,10 @@
 
 1. Fale com o Jovem (einbech 58,209)
 
-   :   ![Assassinato01](../images/4/4a/Assassinato01.png)
+   :   ![Assassinato01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Assassinato01.png)
 2. Encontre Buender Hikeman (einbech 164,102)
 
-   :   ![Assassinato010](../images/8/8e/Assassinato010.png)
+   :   ![Assassinato010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/Assassinato010.png)
 
    - Selecione:
      - *Do que você está falando?*
@@ -28,24 +28,24 @@
      - *Gostaria de me desculpar*.
 3. Localize o Velho Doente (ein\_in01 231,161)
 
-   :   ![Assassinato02](../images/c/ca/Assassinato02.png)
+   :   ![Assassinato02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Assassinato02.png)
 
    - Seu objetivo é insistir nas opções até o [NPC](../Sem%20categoria/NPC.md "NPC") admitir que é *Shinokas*.
 4. Converse com a Empregada (ein\_in01 32,133)
 
-   :   ![Assassinato03](../images/8/8f/Assassinato03.png)
+   :   ![Assassinato03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Assassinato03.png)
 
    - Para chegar até ela, você terá que contornar o [NPC](../Sem%20categoria/NPC.md "NPC"), que sempre te expulsará do local se chegar perto.
 
-   :   :   ![Assassinato030](../images/b/bc/Assassinato030.png)
+   :   :   ![Assassinato030](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Assassinato030.png)
 5. Retorne ao Velho Doente, que manda você investigar a [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch").
 6. Fale com Zelmeto (ein\_in01 67,247)
 
-   :   ![Fábrica de Einbroch01](../images/b/b0/F%C3%A1brica_de_Einbroch01.png)
+   :   ![Fábrica de Einbroch01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/F%C3%A1brica_de_Einbroch01.png)
 7. Volte ao Velho Doente e diga que investigará o Laboratório.
 8. Entre no portal do laboratório (einbroch 53,51)
 
-   :   ![Assassinato034](../images/4/46/Assassinato034.png)
+   :   ![Assassinato034](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Assassinato034.png)
 
    - Para passar, é necessário inserir uma senha de segurança. São duas linhas que você deve copiar e colar:
 
@@ -67,10 +67,10 @@
        :   `hfjdkeldjsieldjshfjdjeiskdlefvbd`
 9. Lá dentro, pergunte o que há de errado para o Cientista (ein\_in01 256,35)
 
-   :   ![Assassinato04](../images/d/d8/Assassinato04.png)
+   :   ![Assassinato04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Assassinato04.png)
 10. Dirija-se ao [Aeroplano Doméstico](../Sem%20categoria/Aeroplano.md "Aeroplano") e converse com o Homem Bêbado (airplane 34,77)
 
-    :   ![Assassinato05](../images/a/a9/Assassinato05.png)
+    :   ![Assassinato05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Assassinato05.png)
 11. Com 100 [Maçãs](http://www.divine-pride.net/database/item/512/) no inventário, vença uma partida contra o Homem Bêbado e pergunte sobre o *Coração de Ymir*.
 12. Volte ao Velho Doente em [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
     - Digite:
@@ -84,7 +84,7 @@
         | 80-89 | 70.000 | 70.000 |
         | 90-100 | 90.000 | 90.000 |
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

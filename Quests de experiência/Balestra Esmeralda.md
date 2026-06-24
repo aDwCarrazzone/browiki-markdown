@@ -16,7 +16,7 @@
 
 1. Para iniciar a missão, você deve fazer parte do Clã da Balestra Esmeralda (prt\_in 39,114)
 
-   :   ![Samruim](../images/b/bd/Samruim.png)
+   :   ![Samruim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Samruim.png)
 2. Fale com o Líder do Clã Balestra Esmeralda (prontera 204,259)
 3. Você receberá 3 itens para entregar aos [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo.
 4. Entregue o [Documento Suspeito](http://www.divine-pride.net/database/item/6851/) para Fulano (yuno\_fild07 247,195)

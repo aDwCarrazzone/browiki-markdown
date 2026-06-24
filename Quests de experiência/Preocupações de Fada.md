@@ -16,35 +16,35 @@
 
 1. Receba a [Carta do Irmão](http://www.divine-pride.net/database/item/6546/) de Wuhari (eclage 282,255)
 
-   :   ![Preocupações de uma Fada1](../images/d/db/Preocupa%C3%A7%C3%B5es_de_uma_Fada1.png)
+   :   ![Preocupações de uma Fada1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Preocupa%C3%A7%C3%B5es_de_uma_Fada1.png)
 2. Entre na prisão através do o Guarda de Eclage (ecl\_in02 98,32)
 
-   :   ![Preocupações de uma Fada2](../images/7/74/Preocupa%C3%A7%C3%B5es_de_uma_Fada2.png)
+   :   ![Preocupações de uma Fada2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Preocupa%C3%A7%C3%B5es_de_uma_Fada2.png)
 3. Insista em conversar com Wuhuru (ecl\_in02 149,117)
 
-   :   ![Preocupações de uma Fada3](../images/2/2b/Preocupa%C3%A7%C3%B5es_de_uma_Fada3.png)
+   :   ![Preocupações de uma Fada3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Preocupa%C3%A7%C3%B5es_de_uma_Fada3.png)
 4. Retorne a Wuhari.
 5. Fale com Masione (eclage 200,272)
 
-   :   ![Preocupações de uma Fada4](../images/2/23/Preocupa%C3%A7%C3%B5es_de_uma_Fada4.png)
+   :   ![Preocupações de uma Fada4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Preocupa%C3%A7%C3%B5es_de_uma_Fada4.png)
 6. Encontre Goatie (eclage 163,228)
 
-   :   ![Preocupações de uma Fada5](../images/f/f1/Preocupa%C3%A7%C3%B5es_de_uma_Fada5.png)
+   :   ![Preocupações de uma Fada5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Preocupa%C3%A7%C3%B5es_de_uma_Fada5.png)
 7. Pegue o [Livro Manchado de Pesquisas](http://www.divine-pride.net/database/item/6547/) com Svery (eclage 170,195)
 
-   :   ![Preocupações de uma Fada6](../images/0/0e/Preocupa%C3%A7%C3%B5es_de_uma_Fada6.png)
+   :   ![Preocupações de uma Fada6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Preocupa%C3%A7%C3%B5es_de_uma_Fada6.png)
 8. Entregue o [Livro Manchado de Pesquisas](http://www.divine-pride.net/database/item/6547/) para Wuhari e aguarde 5 minutos para falar com ele novamente.
 9. Retorne a Svery.
 10. Volte a Goatie.
 11. Localize Pompe (eclage 126,151)
 
-    :   ![Preocupações de uma Fada7](../images/3/31/Preocupa%C3%A7%C3%B5es_de_uma_Fada7.png)
+    :   ![Preocupações de uma Fada7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Preocupa%C3%A7%C3%B5es_de_uma_Fada7.png)
 12. Procure Giranni (ecl\_fild01 70,285)
 
-    :   ![Preocupações de uma Fada8](../images/8/81/Preocupa%C3%A7%C3%B5es_de_uma_Fada8.png)
+    :   ![Preocupações de uma Fada8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Preocupa%C3%A7%C3%B5es_de_uma_Fada8.png)
 13. Examine o Cadáver de Esplêndido (ecl\_fild01 269,165)
 
-    :   ![Preocupações de uma Fada9](../images/4/46/Preocupa%C3%A7%C3%B5es_de_uma_Fada9.png)
+    :   ![Preocupações de uma Fada9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Preocupa%C3%A7%C3%B5es_de_uma_Fada9.png)
 
     - Você receberá um [Pedaço de Asa dos Esplêndidos](http://www.divine-pride.net/database/item/6548/).
 14. Giranni agradece você com 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/0000/) e 100.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").

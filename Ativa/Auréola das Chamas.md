@@ -28,9 +28,9 @@ Entra em estado de [*Auréola das Chamas*].
 
 Enquanto estiver ativa, as seguintes habilidades não consomem Esferas Espirituais:
 
-- [![Ruína](../images/0/00/Ru%C3%ADna.png)](../Ofensiva/Ru%C3%ADna.md "Ruína") [Ruína](../Ofensiva/Ru%C3%ADna.md "Ruína")
-- [![Combo Rápido](../images/9/90/Combo_R%C3%A1pido.png)](../Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido") [Combo Rápido](../Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido")
-- [![Garra de Tigre](../images/e/e2/Garra_de_Tigre.png)](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre")
+- [![Ruína](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Ru%C3%ADna.png)](../Ofensiva/Ru%C3%ADna.md "Ruína") [Ruína](../Ofensiva/Ru%C3%ADna.md "Ruína")
+- [![Combo Rápido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Combo_R%C3%A1pido.png)](../Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido") [Combo Rápido](../Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido")
+- [![Garra de Tigre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Garra_de_Tigre.png)](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre")
 
 | Nv. | Duração | Recarga |
 | --- | --- | --- |

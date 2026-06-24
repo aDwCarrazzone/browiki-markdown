@@ -19,10 +19,10 @@ Algumas das missões requerem entrar no subterrâneo da cidade.
 
 1. Fale com Joe (harboro1 324,124)
 
-   :   ![RRjow](../images/c/c1/RRjow.png)
+   :   ![RRjow](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/RRjow.png)
 2. Depois, clique na Passagem (harboro1 335,144)
 
-   :   ![RRharboro](../images/0/03/RRharboro.png)
+   :   ![RRharboro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/RRharboro.png)
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |

@@ -29,9 +29,9 @@ Por 15 minutos, garante todos os seguintes efeitos:
 - Dano físico contra todos os tamanhos +30%.
 - Ao realizar ataques físicos, 15% de chance de autoconjurar [Explosão Rúnica](../Ofensiva/Explos%C3%A3o%20R%C3%BAnica.md "Explosão Rúnica").
 
-Altera a propriedade de [Fogo](../Sem%20categoria/Fogo.md "Fogo") para [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") em [![Sopro do Dragão](../images/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão").
+Altera a propriedade de [Fogo](../Sem%20categoria/Fogo.md "Fogo") para [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") em [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão").
 
-Altera a propriedade de [Água](../Sem%20categoria/%C3%81gua.md "Água") para [Neutro](../Sem%20categoria/Neutro.md "Neutro") em [![Bafo do Dragão](../images/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão").
+Altera a propriedade de [Água](../Sem%20categoria/%C3%81gua.md "Água") para [Neutro](../Sem%20categoria/Neutro.md "Neutro") em [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão").
 
 ## Notas
 

@@ -16,22 +16,22 @@
 
 1. Fale com o Velho Professor (morocc 151,86)
 
-   :   ![MorrocRegional01](../images/6/67/MorrocRegional01.png)
+   :   ![MorrocRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/MorrocRegional01.png)
 2. Encontre o Jovem Andarilho (moc\_fild17 358,277)
 
-   :   ![MorrocRegional02](../images/9/9c/MorrocRegional02.png)
+   :   ![MorrocRegional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/MorrocRegional02.png)
 
    - Elimine 10 [Arenoso](http://www.divine-pride.net/database/monster/1165/) e traga 5 [Torrões de Areia](http://www.divine-pride.net/database/item/1056/) para o [NPC](../Sem%20categoria/NPC.md "NPC").
    - Você receberá 10.800 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 9.600 de classe.
 3. Fale com o Velho Professor e Ernesto que estão nas Ruínas de Morroc (moc\_ruins 104,122)
 
-   :   ![MorrocRegional03](../images/1/1b/MorrocRegional03.png)
+   :   ![MorrocRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/MorrocRegional03.png)
 
    - O Professor pede que você elimine 10 [Verit](http://www.divine-pride.net/database/monster/1032/), 10 [Minorous](http://www.divine-pride.net/database/monster/1149/) e traga 1 [Pá de Campo](http://www.divine-pride.net/database/item/6381/) que cai direto no seu inventário ao derrotar Verits.
    - Você receberá 10.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 9.000 de classe.
 4. À pedido de Ernesto, fale com o Líder Maximus (moc\_pryd01 20,192)
 
-   :   ![MorrocRegional04](../images/6/6f/MorrocRegional04.png)
+   :   ![MorrocRegional04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/MorrocRegional04.png)
 5. O Líder pede que você elimine 10 [Múmias](http://www.divine-pride.net/database/monster/1041/) e traga 1 [Espólio](http://www.divine-pride.net/database/item/934/).
 6. Retorne ao Líder e, em seguida, fale com Ernesto (moc\_ruins 101,124)
    - Você receberá 5.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 3.000 de classe.

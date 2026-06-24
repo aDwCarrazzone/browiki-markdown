@@ -62,9 +62,9 @@ Só pode ser usado em mapas de [PvP](../PvP/PvP.md "PvP") e [Guerra do Emperium]
   - Não podem ser removidos por [Desencantar](Desencantar.md "Desencantar"), mas por [Gênese](G%C3%AAnese.md "Gênese") e [Improviso](Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Cântico da Iluminação](../images/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
-  - [![Prelúdio do Ragnarök](../images/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
-  - [![Embalos de Sábado a Noite](../images/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
+  - [![Cântico da Iluminação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
+  - [![Prelúdio do Ragnarök](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
+  - [![Embalos de Sábado a Noite](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

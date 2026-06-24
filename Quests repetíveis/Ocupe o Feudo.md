@@ -12,7 +12,7 @@
 
 1. Em qualquer feudo da [Guerra do Emperium](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium"), converse com o Instrutor sobre conquistas.
 
-   :   ![Caça no Calabouço001](../images/3/3c/Ca%C3%A7a_no_Calabou%C3%A7o001.png)
+   :   ![Caça no Calabouço001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Ca%C3%A7a_no_Calabou%C3%A7o001.png)
 
    - Líderes do [clã](../PvP/Cl%C3%A3.md "Clã") terão 1 hora para conquistar castelos do feudo relacionado.
    - O número de castelos conquistados define a quantidade de prêmios.

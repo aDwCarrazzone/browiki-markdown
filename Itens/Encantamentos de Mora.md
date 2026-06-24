@@ -2,7 +2,7 @@
 
 # Encantamentos de Mora
 
-![Eclage city](../images/8/8f/Eclage_city.jpg)
+![Eclage city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Eclage_city.jpg)
 
 Você pode usar as [Moedas Mora](http://www.divine-pride.net/database/item/6380/) para comprar e encantar as Relíquias de [Mora](../Lugares%20em%20Ragnar%C3%B6k/Mora.md "Mora").
 

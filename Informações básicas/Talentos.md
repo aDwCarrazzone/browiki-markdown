@@ -2,13 +2,13 @@
 
 # Talentos
 
-![Poder](../images/2/2f/Poder.png)
+![Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Poder.png)
 
-![Criatividade](../images/5/58/Criatividade.png)
+![Criatividade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/Criatividade.png)
 
-![Sabedoria](../images/1/10/Sabedoria.png)
+![Sabedoria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Sabedoria.png)
 
-![Stamina](../images/8/8d/Stamina.png)
+![Stamina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Stamina.png)
 
 Talentos são características adquiridas quando seu personagem atinge a **[Classe](../Sem%20categoria/Classe.md "Classe") 4**.
 
@@ -16,7 +16,7 @@ A partir do nível 201, seu personagem deixa de receber pontos de [atributos](At
 
 A janela de Talentos pode ser aberta pelo [comando](../Sem%20categoria/Comando.md "Comando") `Alt + A` e selecionar "*Talentos*".
 
-![Traitwnd](../images/4/41/Traitwnd.png)
+![Traitwnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Traitwnd.png)
 
 - Os talentos não podem passar de 100 pontos.
 - Ao mudar para [Classe](../Sem%20categoria/Classe.md "Classe") 4, você já recebe 7 pontos para distribuir.
@@ -35,7 +35,7 @@ A quantidade máxima de AP que você pode acumular é 200, independentemente da 
 
 Ao morrer em qualquer mapa ou entrar em um mapa [PvP](../PvP/PvP.md "PvP") ou [GdE](../Sem%20categoria/GdE.md "GdE"), você perde todos os seus AP.
 
-![APinterface](../images/a/a3/APinterface.png)
+![APinterface](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/APinterface.png)
 
 ## Talentos Primários
 

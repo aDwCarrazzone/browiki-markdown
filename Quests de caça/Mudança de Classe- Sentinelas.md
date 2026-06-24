@@ -19,7 +19,7 @@
 
 1. Fale com o Instrutor Sobrevivente (tur\_dun01 157,36)
 
-   :   ![MdCran01](../images/7/73/MdCran01.png)
+   :   ![MdCran01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/MdCran01.png)
 
    - Fique com zero de peso.
      - [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden"), que tem peso zero, podem te ajudar.
@@ -28,7 +28,7 @@
    - Retorne ao Instrutor e fale com ele até receber 10 [Asas de Mosca de Iniciante](http://www.divine-pride.net/database/item/12323/), 1 [Arco](http://www.divine-pride.net/database/item/1703/) e 500 [Flechas](http://www.divine-pride.net/database/item/1750/).
 2. Encontre o Instrutor de Teste (tur\_dun01 91,169)
 
-   :   ![MdCran02](../images/9/9c/MdCran02.png)
+   :   ![MdCran02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/MdCran02.png)
 
    - Seu objetivo é eliminar 1 [Lavadeira](http://www.divine-pride.net/database/monster/1321/) e trazer 1 [Asa de Libélula](http://www.divine-pride.net/database/item/7064/) ao [NPC](../Sem%20categoria/NPC.md "NPC").
    - Retorne ao Instrutor de Teste e selecione "*...*" para iniciar o teste prático.
@@ -45,7 +45,7 @@
    - Preste atenção que o Poring não vem sempre na cor rosa original.
    - *P* é seu personagem.
 
-   :   ![MdCran04](../images/6/6f/MdCran04.png)
+   :   ![MdCran04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/MdCran04.png)
 
    - Se o monstro se chamar X **→** o Poring nascerá no ponto Y
      - Horin **→** 2
@@ -59,7 +59,7 @@
    :   **Teste de Armadilha**
 5. Nessa sala, você terá 1 minuto para falar com Rust.
 
-   :   ![MdCran05](../images/f/f9/MdCran05.png)
+   :   ![MdCran05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/MdCran05.png)
 
    - Rust dará 100 [poções de aprendiz](http://www.divine-pride.net/database/item/569/) e 10 [Cápsulas de Bombardeio](http://www.divine-pride.net/database/item/12258/), que invocam [Bombrings](http://www.divine-pride.net/database/monster/1904/).
    - Os [Bombrings](http://www.divine-pride.net/database/monster/1904/) explodem 3 segundos após invocados, matando qualquer coisa na área de 5x5 células, incluindo você.
@@ -69,11 +69,11 @@
    - Para pegar mais [Cápsulas de Bombardeio](http://www.divine-pride.net/database/item/12258/), fale com Rust.
 6. Seu objetivo é cruzar o corredor e dar a volta ao redor da Supervisora de teste no tempo de 3 minutos. Você não precisa matar os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), mas é necessário consumir todas as [Cápsulas de Bombardeio](http://www.divine-pride.net/database/item/12258/) antes de falar com a Supervisora.
 
-   :   ![MdCran06](../images/7/76/MdCran06.png)
+   :   ![MdCran06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/MdCran06.png)
    :   **Teste de Domesticação**
 7. Converse com o Supervisor de Teste para receber 1 [Flauta do Filhote de Lobo](http://www.divine-pride.net/database/item/12380/).
 
-   :   ![MdCran08](../images/5/54/MdCran08.png)
+   :   ![MdCran08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/MdCran08.png)
 
    - Usar a [Flauta](http://www.divine-pride.net/database/item/12380/) invoca um Filhote de Lobo como [assistente](../Sem%20categoria/Assistente.md "Assistente").
    - Após falar com o Supervisor, seu personagem ficará em estado de [petrificação](../Sem%20categoria/Petrifica%C3%A7%C3%A3o.md "Petrificação").
@@ -84,7 +84,7 @@
    - Após concluí-la, fale com o Supervisor de Teste em menos de 2 minutos ou falhará nessa etapa.
 8. Fale com o Mestre dos Sentinelas para mudar de classe e receber 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/), 1 [Visão do Sentinela](http://www.divine-pride.net/database/item/5748/) e 1 [Flauta Uivante](http://www.divine-pride.net/database/item/6124/).
 
-   :   ![MdCran09](../images/b/be/MdCran09.png)
+   :   ![MdCran09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/MdCran09.png)
 
    - O [assistente](../Sem%20categoria/Assistente.md "Assistente") lobo desaparecerá após um tempo, mas você pode dispensá-lo.
    - É necessário retirar a [ave](../Passiva/Adestrar%20Ave.md "Adestrar Ave") antes de falar com o [NPC](../Sem%20categoria/NPC.md "NPC").

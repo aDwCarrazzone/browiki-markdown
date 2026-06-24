@@ -2,7 +2,7 @@
 
 # Mansão de Varmunt
 
-[![Mansão v](../images/3/31/Mans%C3%A3o_v.jpg)](https://browiki.org/wiki/Arquivo%3AMans%C3%A3o_v.jpg)
+[![Mansão v](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Mans%C3%A3o_v.jpg)](https://browiki.org/wiki/Arquivo%3AMans%C3%A3o_v.jpg)
 
 Os jardins da mansão
 
@@ -46,7 +46,7 @@ A mansão ficou abandonada por alguns anos, até ser ocupada pelos Rebeldes, num
 | Sipera | Troca 1000104.png 300 [Pedra-Sabão Mágica](http://www.divine-pride.net/database/item/1000104/) | (ba\_in01 87,373) |
 | Ryza | Encanta os [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") | (ba\_in01 87,370) |
 
-[![PowerPlany](../images/1/10/PowerPlany.jpg)](https://browiki.org/wiki/Arquivo%3APowerPlany.jpg)
+[![PowerPlany](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/PowerPlany.jpg)](https://browiki.org/wiki/Arquivo%3APowerPlany.jpg)
 
 Usina Mágica de Energia
 

@@ -34,7 +34,7 @@ Concede efeitos positivos temporariamente a um [Ferreiro](../Sem%20categoria/Fer
 ### Efeitos
 
 - Se o alvo tiver aprendido [Adrenalina Pura](Adrenalina%20Pura.md "Adrenalina Pura") nv. 5:
-- Habilita [![Adrenalina Concentrada](../images/8/88/Adrenalina_Concentrada.png)](Adrenalina%20Concentrada.md "Adrenalina Concentrada") [Adrenalina Concentrada](Adrenalina%20Concentrada.md "Adrenalina Concentrada").
+- Habilita [![Adrenalina Concentrada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Adrenalina_Concentrada.png)](Adrenalina%20Concentrada.md "Adrenalina Concentrada") [Adrenalina Concentrada](Adrenalina%20Concentrada.md "Adrenalina Concentrada").
 
 ## Notas
 

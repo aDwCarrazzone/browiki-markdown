@@ -16,20 +16,20 @@
 
 1. Ofereça ajuda a Cleanyang (mal\_in02 76,63)
 
-   :   ![LimpeoNavio01](../images/0/05/LimpeoNavio01.png)
+   :   ![LimpeoNavio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/LimpeoNavio01.png)
 2. Dê uma olhada na Grelha do Salão (mal\_in02 183,49)
 
-   :   ![MeetingRoom](../images/6/69/MeetingRoom.png)
+   :   ![MeetingRoom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/MeetingRoom.png)
 3. Limpe o Mapa (mal\_in02 29,65)
 
-   :   ![CaptainRoom](../images/7/77/CaptainRoom.png)
+   :   ![CaptainRoom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/CaptainRoom.png)
 4. Levante levemente o colchão da Cama (mal\_in02 102,22)
 
-   :   ![Bedroom](../images/3/3f/Bedroom.png)
+   :   ![Bedroom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Bedroom.png)
 5. Retorne a Cleanyang (mal\_in02 76,63)
 6. Dirija-se ao Chef Nyas (mal\_in02 187,58).
 
-   :   ![LimpeoNavio02](../images/f/f7/LimpeoNavio02.png)
+   :   ![LimpeoNavio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/LimpeoNavio02.png)
 
    - Continue insistindo na conversa até ele pedir 1 [Molho Saboroso](http://www.divine-pride.net/database/item/7454/) e 10 [Sacolas de Grãos](http://www.divine-pride.net/database/item/577/).
    - Assim que entregar os itens, você libera a missão diária [Chef Nyas](Aventuras%20em%20Malangdo.md#Chef_Nyas "Aventuras em Malangdo").

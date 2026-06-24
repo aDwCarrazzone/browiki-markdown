@@ -38,8 +38,8 @@ Reduz todos os [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md 
 
 - Para usar em [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), segure a tecla `Shift`
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Canção de Balder](../images/4/4e/Can%C3%A7%C3%A3o_de_Balder.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder") [Canção de Balder](../Suporte/Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder")
-  - [![Sinfonia dos Ventos](../images/5/52/Sinfonia_dos_Ventos.png)](../Suporte/Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos") [Sinfonia dos Ventos](../Suporte/Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos")
+  - [![Canção de Balder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Can%C3%A7%C3%A3o_de_Balder.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder") [Canção de Balder](../Suporte/Can%C3%A7%C3%A3o%20de%20Balder.md "Canção de Balder")
+  - [![Sinfonia dos Ventos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Sinfonia_dos_Ventos.png)](../Suporte/Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos") [Sinfonia dos Ventos](../Suporte/Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos")
 - Sombrios relacionados:
   - ![24299.png](http://static.divine-pride.net/images/items/item/24299.png) [Manopla Sombria de Trovador](http://www.divine-pride.net/database/item/24299/)
 

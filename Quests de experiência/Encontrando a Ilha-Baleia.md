@@ -16,21 +16,21 @@
 
 1. Converse sobre a Ilha-Baleia com Berbayeff (moscovia 171,71)
 
-   :   ![Mosk01](../images/7/79/Mosk01.png)
+   :   ![Mosk01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Mosk01.png)
 2. Ouça as histórias do Sr. Ibanoff (moscovia 136,50)
 
-   :   ![Mosk02](../images/5/55/Mosk02.png)
+   :   ![Mosk02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/Mosk02.png)
 3. Ao pedir o barco de Ibanoff emprestado, você deve entregar os itens pedidos.
    - Só é possível navegar nos seguintes horários: Entre 07:00 às 18:00
 4. No barco, fale com o Sr. Ibanoff para receber as instruções.
 
-   :   ![Mosk02a](../images/6/6e/Mosk02a.png)
+   :   ![Mosk02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Mosk02a.png)
 5. Gire o Leme de acordo com a direção solicitada.
 
-   :   ![Mosk02b](../images/d/d0/Mosk02b.png)
+   :   ![Mosk02b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Mosk02b.png)
 6. Após um determinado tempo, Ibanoff pede para você checar o convés. Basta andar em direção à ponta do barco.
 
-   :   ![Mosk02c](../images/b/b6/Mosk02c.png)
+   :   ![Mosk02c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Mosk02c.png)
 
    - Observações:
      - Repita os passos 4 e 5 até acontecer um ataque de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros");
@@ -40,14 +40,14 @@
      - Ao checar o convés, há uma possibilidade do seu personagem acordar na Ilha-Baleia!
 7. Na Ilha-Baleia, converse com o Senhor Estranho (mosk\_fild01 86,104)
 
-   :   ![Mosk03](../images/a/a6/Mosk03.png)
+   :   ![Mosk03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Mosk03.png)
 8. Retorne ao barco e explique ao Sr. Ibanoff.
 9. Localize o Primeiro Ministro Dimit (mosk\_in 127,89)
 
-   :   ![Mosk04](../images/a/a5/Mosk04.png)
+   :   ![Mosk04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Mosk04.png)
 10. Conte toda a história ao Czar Alexei III (mosk\_in 131,192)
 
-    :   ![Mosk05](../images/4/4b/Mosk05.png)
+    :   ![Mosk05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Mosk05.png)
 11. Reencontre o Sr. Ibanoff para chegar na Ilha-Baleia.
 12. Repita o procedimento dos passos 4 e 5.
 13. Explique a situação ao Senhor Estranho. Ele pedirá alguns itens e mesmo que você já os tenha, precisa selecionar a opção "*Estou Pronto*" para voltar a [Moscóvia](../Lugares%20em%20Ragnar%C3%B6k/Mosc%C3%B3via.md "Moscóvia").
@@ -64,4 +64,4 @@
     - Para ter acesso a [mosk\_fild02](http://www.divine-pride.net/database/map/mosk_fild02/), aventure-se com o Senhor Estranho.
     - Para retornar a [Moscóvia](../Lugares%20em%20Ragnar%C3%B6k/Mosc%C3%B3via.md "Moscóvia"), clique no Barco (mosk\_fild02 198,53)
 
-    :   :   ![Mosk06](../images/b/b8/Mosk06.png)
+    :   :   ![Mosk06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Mosk06.png)

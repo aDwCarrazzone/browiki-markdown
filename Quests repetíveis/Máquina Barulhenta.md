@@ -17,10 +17,10 @@
 
 1. Troque 1 [Peixe Enlatado de Malangdo](http://www.divine-pride.net/database/item/12636/) por 1 [Cartão de Aventura B](http://www.divine-pride.net/database/item/6429/) com o Detetive (malangdo 173,178)
 
-   :   ![Babycats05](../images/f/fb/Babycats05.png)![Brincando com gatinhos09](../images/4/4f/Brincando_com_gatinhos09.gif)
+   :   ![Babycats05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Babycats05.png)![Brincando com gatinhos09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Brincando_com_gatinhos09.gif)
 2. Insira o [Cartão de Aventura B](http://www.divine-pride.net/database/item/6429/) na Coisa Barulhenta (malangdo 174,175)
 
-   :   ![Babycats06](../images/2/2a/Babycats06.png)
+   :   ![Babycats06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Babycats06.png)
 
    - Você deve prestar atenção na sequência de cores. É extremamente recomendável anotá-las.
    - São 4 sequências: de 2 cores; de 4 cores; de 6 cores e de 8 cores.

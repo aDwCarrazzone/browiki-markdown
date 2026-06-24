@@ -17,11 +17,11 @@
 
 1. Na escadaria do 6º andar indo para o 7º da [Torre de Thanatos](../Lugares%20em%20Ragnar%C3%B6k/Torre%20de%20Thanatos.md "Torre de Thanatos"), fale com Rumin (thana\_step 154,367)
 
-   :   ![ThanaMemo01](../images/3/3b/ThanaMemo01.png)
+   :   ![ThanaMemo01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/ThanaMemo01.png)
 2. **Aviso do Anjo**
    1. Fale 3 vezes com o Anjo da Observação.
 
-      :   ![ThanaMemo02](../images/7/76/ThanaMemo02.png)
+      :   ![ThanaMemo02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/ThanaMemo02.png)
    2. Elimine todos os anjos da [Observação](http://www.divine-pride.net/database/monster/20800/).
    3. Dirija-se ao próximo mapa. A ordem dos quartos é aleatória!
 3. **Memória do Ódio**
@@ -30,7 +30,7 @@
    3. Consiga o [Fragmento de Ódio](http://www.divine-pride.net/database/item/7438/) no [NPC](../Sem%20categoria/NPC.md "NPC") central.
    4. Obtenha as 4 Pedras Encantadas (Vermelha, Amarela, Verde e Azul) nos [NPCs](../Sem%20categoria/NPC.md "NPC") da parede.
 
-      :   ![Thanatos03](../images/b/bb/Thanatos03.png)
+      :   ![Thanatos03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Thanatos03.png)
    5. Dirija-se ao próximo mapa.
 4. **Memória da Agústia**
    1. Elimine todos os anjos do [Abrigo](http://www.divine-pride.net/database/monster/20790/).
@@ -38,7 +38,7 @@
    3. Derrote a [Angústia de Thanatos](http://www.divine-pride.net/database/monster/20799/) que aparece no centro do quarto.
    4. Consiga o [Fragmento de Agonia](http://www.divine-pride.net/database/item/7436/) no [NPC](../Sem%20categoria/NPC.md "NPC") central.
 
-      :   ![ThanaMemo04](../images/4/43/ThanaMemo04.png)
+      :   ![ThanaMemo04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/ThanaMemo04.png)
    5. Dirija-se ao próximo mapa.
 5. **Memória da Tristeza**
    1. Elimine todos os anjos do [Conforto](http://www.divine-pride.net/database/monster/20791/).
@@ -46,7 +46,7 @@
    3. Derrote a [Maero de Thanatos](http://www.divine-pride.net/database/monster/20798/) que aparece no centro do quarto.
    4. Consiga o [Fragmento de Desgraça](http://www.divine-pride.net/database/item/7437/) no [NPC](../Sem%20categoria/NPC.md "NPC") central.
 
-      :   ![ThanaMemo05](../images/d/dd/ThanaMemo05.png)
+      :   ![ThanaMemo05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/ThanaMemo05.png)
    5. Dirija-se ao próximo mapa.
 6. **Memória do Desespero**
    1. Elimine todos os anjos da [Retribuição](http://www.divine-pride.net/database/monster/20789/).
@@ -54,12 +54,12 @@
    3. Derrote o [Despero de Thanatos](http://www.divine-pride.net/database/monster/20797/) que aparece no centro do quarto.
    4. Consiga o [Fragmento de Desespero](http://www.divine-pride.net/database/item/7439/) no [NPC](../Sem%20categoria/NPC.md "NPC") central.
 
-      :   ![ThanaMemo06](../images/a/a1/ThanaMemo06.png)
+      :   ![ThanaMemo06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/ThanaMemo06.png)
    5. Dirija-se ao próximo mapa.
 7. **Memória da Ira**
    1. Coloque as 4 *Pedras Encantadas* nas respectivas estátuas.
 
-      :   ![ThanaMemo07](../images/1/15/ThanaMemo07.png)
+      :   ![ThanaMemo07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/ThanaMemo07.png)
    2. Elimine todos os monstros do local: [Ira de Thanatos](http://www.divine-pride.net/database/monster/20792/), [Horror de Thanatos](http://www.divine-pride.net/database/monster/20793/), [Rancor de Thanatos](http://www.divine-pride.net/database/monster/20794/) e [Lamento de Thanatos](http://www.divine-pride.net/database/monster/20795/)
    3. Obtenha a [Pedra Encantada Preta](http://www.divine-pride.net/database/item/7430/) na Estátua Demoníaca, ao norte do mapa.
    4. No centro, use todos os Fragmentos em cada Selo para abrir o portal central.
@@ -67,7 +67,7 @@
 8. **Memória de Thanatos**
    1. Clique na Memória Selada no centro do mapa para iniciar a batalha!
 
-      :   ![ThanaMemo08](../images/e/e0/ThanaMemo08.png)
+      :   ![ThanaMemo08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/ThanaMemo08.png)
    2. Mecânica da Batalha:
       - **Pilar dos Sentimentos** (pontos em vermelho do minimapa acima)
         - Aleatoriamente, alguns [Pilares](http://www.divine-pride.net/database/monster/20786/) aparecerão nos extremos do mapa.
@@ -93,7 +93,7 @@
         - O antigo [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") Thanatos só está disponível no [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central").
 9. Quando a batalha terminar, fale com Lucille para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![ThanaMemo10](../images/7/72/ThanaMemo10.png)
+   :   ![ThanaMemo10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/ThanaMemo10.png)
 
    - Você pode conseguir Fragmentos de Virtude ou de Pecado, trocáveis na [Torre de Thanatos](../Lugares%20em%20Ragnar%C3%B6k/Torre%20de%20Thanatos.md "Torre de Thanatos").
 

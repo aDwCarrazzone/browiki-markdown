@@ -14,7 +14,7 @@
 
 1. Aceite ajudar o Sábio Varmunt (prontera 156,303).
 
-   :   ![COD 1](../images/d/de/COD_1.png)
+   :   ![COD 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/COD_1.png)
 
    - Para teleportar para o novo mapa, fale novamente com Varmunt.
    - Nessa nova dimensão, converse com Varmunt e selecione a 2ª opção para participar.
@@ -24,7 +24,7 @@
      - Sexta, Sábado e Domingo: *Prontera.*
 2. Existem 4 [Pedras Guardiãs](http://www.divine-pride.net/database/monster/3910/) com pouco [HP](../Sem%20categoria/HP.md "HP") que precisam de restauração.
 
-   :   ![COD 2](../images/7/7d/COD_2.png)
+   :   ![COD 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/COD_2.png)
 
    - Jogadores devem curar as 4 Pedras com [Curar](../Suporte/Curar.md "Curar"), [Curatio](../Suporte/Curatio.md "Curatio") e [Santuário](../Suporte/Santu%C3%A1rio.md "Santuário").
    - A cada 10 segundos, *Entidades Sombrias* aparecerão e devem ser eliminadas: [Gibbet](http://www.divine-pride.net/database/monster/3911/), [Loli Ruri](http://www.divine-pride.net/database/monster/3912/), [Dullahan](http://www.divine-pride.net/database/monster/3911/) e [Serial Killer](http://www.divine-pride.net/database/monster/3911/).
@@ -38,7 +38,7 @@
 
 1. As 10 [Moedas de Estimação](http://www.divine-pride.net/database/item/25376/) podem ser trocadas por itens aleatórios na Máquina Dimensional (prontera 165,304).
 
-   :   ![COD 3](../images/5/59/COD_3.png)
+   :   ![COD 3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/COD_3.png)
 2. Do lado da máquina está Manouro, que realiza as seguintes funções:
    - Reseta a missão diária do evento ao custo de 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/). Uma vez por dia.
    - Troca 30 [Âmago](http://www.divine-pride.net/database/item/25375/) por 1 [Ovo de Freeoni](http://www.divine-pride.net/database/item/9111/).

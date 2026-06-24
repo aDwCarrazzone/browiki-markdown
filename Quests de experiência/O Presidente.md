@@ -17,19 +17,19 @@
 
 1. Encontre o Homem Comum (lighthalzen 179,170)
 
-   :   ![QuestPresidente01](../images/f/f8/QuestPresidente01.png)
+   :   ![QuestPresidente01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/QuestPresidente01.png)
 2. Aproxime-se da parede atrás do [NPC](../Sem%20categoria/NPC.md "NPC"), pisando nas coordenadas (lighthalzen 175,166)
    - Um diálogo deve ativar. Continue ouvindo a conversa até você perceber que aquela voz é familiar.
 3. Mencione que ouviu a conversa para o Homem Comum. Aceite ajudá-lo.
 4. Investigue a Máquina Quebrada (lhz\_dun02 282,278)
 
-   :   ![QuestPresidente02](../images/9/95/QuestPresidente02.png)
+   :   ![QuestPresidente02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/QuestPresidente02.png)
 
    - Você receberá um [Pedaço do Coração de Ymir](http://www.divine-pride.net/database/item/7346/).
 5. Entregue o item ao Homem Comum, que dará um [Cartão de Sócio](http://www.divine-pride.net/database/item/7348/).
 6. Fale com o Rapaz Sinistro (yuno\_fild04 165,245)
 
-   :   ![QuestPresidente03](../images/d/dc/QuestPresidente03.png)
+   :   ![QuestPresidente03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/QuestPresidente03.png)
 
    - Selecione:
      - *Tônico Vermelho*
@@ -37,24 +37,24 @@
    - Converse várias vezes com ele até o diálogo se repetir.
 7. Mostre o Cartão para a Secretária (yuno\_pre 77,68)
 
-   :   ![Secretariapresidente](../images/3/31/Secretariapresidente.png)
+   :   ![Secretariapresidente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Secretariapresidente.png)
 
    - O Presidente só poderá atender entre 11:00~14:00 e 20:00~23:00, horário de Brasília.
 8. Autorizada sua entrada fale mais de uma vez com o Guarda (yuno\_pre 95,71)
 
-   :   ![QuestPresidente05a](../images/b/b5/QuestPresidente05a.png)
+   :   ![QuestPresidente05a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/QuestPresidente05a.png)
 
    - Insista na conversa até um [NPC](../Sem%20categoria/NPC.md "NPC") surgir.
    - Quando isso acontecer, pergunte: "*Quem era aquele cavalheiro...*".
    - Fale mais uma vez com o Guarda para entrar na sala do Presidente.
 9. Fale com o Presidente selecionando todas as opções. Você receberá uma [Pasta de Arquivos](http://www.divine-pride.net/database/item/7342/).
 
-   :   ![QuestPresidente04](../images/d/d7/QuestPresidente04.png)
+   :   ![QuestPresidente04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/QuestPresidente04.png)
 10. Ao sair da sala, você ouvirá uma conversa vinda da janela.
 11. Entregue a [Pasta de Arquivos](http://www.divine-pride.net/database/item/7342/) para a secretária Hes O'Neil (yuno\_pre 69,17).
 12. Localize a Funcionária Kafra (aldeba\_in 155,240)
 
-    :   ![QuestPresidente06](../images/1/14/QuestPresidente06.png)
+    :   ![QuestPresidente06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/QuestPresidente06.png)
 
     - Selecione:
       - *Certo*
@@ -62,7 +62,7 @@
       - *Mostrar o Cartão de Filiação*
 13. Procure pelo Homem Ferido (lhz\_fild02 228,214)
 
-    :   ![QuestPresidente07](../images/9/92/QuestPresidente07.png)
+    :   ![QuestPresidente07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/QuestPresidente07.png)
 
     - Digite:
       - `Corporação Kafra`
@@ -74,13 +74,13 @@
     - Fale com o Presidente mais uma vez antes de prosseguir.
 16. Dirija-se ao norte de [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen"). Para aparecer a Mulher Misteriosa, é preciso andar nas coordenadas (lhz\_fild01 76,214)
 
-    :   ![QuestPresidente08](../images/7/79/QuestPresidente08.png)
+    :   ![QuestPresidente08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/QuestPresidente08.png)
 17. Equipe o [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) e o [Quatro Olhos](http://www.divine-pride.net/database/item/2243/) para ter acesso ao Laboratório Regenschirm através do Guarda (lhz\_in01 35,226)
 
-    :   ![Rebeliao07](../images/c/c5/Rebeliao07.png)
+    :   ![Rebeliao07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Rebeliao07.png)
 18. No laboratório, consiga uma [Autorização para o Arquivo](http://www.divine-pride.net/database/item/7349/) com o Pesquisador (lhz\_in01 285,169)
 
-    :   ![QuestPresidente09](../images/a/aa/QuestPresidente09.png)
+    :   ![QuestPresidente09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/QuestPresidente09.png)
 19. Ande encostando-se na parede perto dos Guardas (lhz\_in01 173,28)
     - Quando ativar o diálogo, selecione:
       - *Se esgueirar agora*
@@ -91,13 +91,13 @@
     - Você terá 3 minutos no lugar.
 20. Clique no Fichário do Arquivo.
 
-    :   ![QuestPresidente010](../images/3/32/QuestPresidente010.png)
+    :   ![QuestPresidente010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/QuestPresidente010.png)
 
     - Digite:
       - `shinokas`
 21. Consiga o [Arquivo do Caso Shinokas](http://www.divine-pride.net/database/item/7344/) na Área 1-5.
 
-    :   ![QuestPresidente011](../images/e/ec/QuestPresidente011.png)
+    :   ![QuestPresidente011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/QuestPresidente011.png)
 
     - Clique na porta para sair.
 22. Devolva a [Autorização para o Arquivo](http://www.divine-pride.net/database/item/7349/) ao Pesquisador.
@@ -109,7 +109,7 @@
 28. Converse com o Presidente.
 29. Volte ao Homem Comum para receber sua recompensa.
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -15,13 +15,13 @@
 
 1. Converse com Giacomo Girolamo (lighthalzen 303,303)
 
-   :   ![Investigando os Rumores01](../images/6/6e/Investigando_os_Rumores01.png)
+   :   ![Investigando os Rumores01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Investigando_os_Rumores01.png)
 2. Ao entrar no portal para o quarto andar do [Laboratório de Somatologia](http://www.divine-pride.net/database/map/lhz_dun04/), um diálogo surgirá (lhz\_dun03 239,78)
 
-   :   ![Investigando os Rumores03](../images/d/d8/Investigando_os_Rumores03.png)
+   :   ![Investigando os Rumores03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Investigando_os_Rumores03.png)
 3. Ative o diálogo descendo as escadas. Prossiga pelo caminho até encontrar Wolfchev.
 
-   :   ![Investigando os Rumores04](../images/4/44/Investigando_os_Rumores04.png)
+   :   ![Investigando os Rumores04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Investigando_os_Rumores04.png)
 
    - Wolfchev fugirá de você algumas vezes, será necessário falar com ele sempre que o encontrar.
    - Na última fuga, algumas [Cobaias Humanas](http://www.divine-pride.net/database/monster/2244/) atacarão.
@@ -29,10 +29,10 @@
 4. Siga ao norte do mapa para ouvir uma mensagem e voltar ao [Laboratório de Somatologia](http://www.divine-pride.net/database/map/lhz_dun04/).
 5. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com o Pesquisador (lhz\_dun04 151,276)
 
-   :   ![Investigando os Rumores07](../images/6/6e/Investigando_os_Rumores07.png)
+   :   ![Investigando os Rumores07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Investigando_os_Rumores07.png)
 6. Acesse o [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") pela Entrada do Laboratório.
 
-   :   ![Investigando os Rumores08](../images/b/bc/Investigando_os_Rumores08.png)
+   :   ![Investigando os Rumores08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Investigando_os_Rumores08.png)
 
    - Sua missão é eliminar os seguintes [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP"):
      - [Algoz Eremes](http://www.divine-pride.net/database/monster/1647/)
@@ -56,7 +56,7 @@
      - 1 [Arma ou Equipamento Biológico](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md#Fabricação "Lighthalzen") aleatório
 8. Você pode falar com o [NPC](../Sem%20categoria/NPC.md "NPC") novamente para repetir a missão de caçada e receber a recompensa por ter eliminado todos os [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

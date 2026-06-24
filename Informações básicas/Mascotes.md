@@ -9,10 +9,10 @@ Bichinhos de estimação oferecem bônus especiais para seus donos se cuidados c
 1. Para capturar uma mascote, dê um clique duplo na isca de domesticação.
 2. Direcione o cursor para o monstro desejado.
 
-   :   ![Petsa](../images/a/a6/Petsa.png)
+   :   ![Petsa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Petsa.png)
 3. Ao clicar no monstro, uma máquina aparecerá, basta dar um único clique em cima dela.
 
-   :   ![Petsb](../images/e/e9/Petsb.png)
+   :   ![Petsb](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Petsb.png)
 
    - Se a opção *"Sucess"* aparecer, você receberá o ovo de estimação.
    - Caso a opção *"Failure"* surgir, você perde o item de domesticação e não recebe o ovo.
@@ -25,7 +25,7 @@ Todos os dados do seu bichinho estarão disponíveis clicando com o botão direi
 
 Apesar de haver um indicador de nível, seu bichinho não sobe de nível nem ganha [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 
-![BarradeLealdade](../images/b/bb/BarradeLealdade.png)
+![BarradeLealdade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/BarradeLealdade.png)
 
 - **Alterar Nome**:
   - Você pode modificar o nome da sua mascote apenas uma vez, apertando o botão *Modificar*.
@@ -67,7 +67,7 @@ Apesar de haver um indicador de nível, seu bichinho não sobe de nível nem gan
   - Abre a janela com os ingredientes necessários para evoluir sua mascote.
   - Apenas bichinhos de estimação com lealdade alta poderão evoluir.
 
-    :   ![JanelaEvoluirPet](../images/1/1c/JanelaEvoluirPet.png)
+    :   ![JanelaEvoluirPet](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/JanelaEvoluirPet.png)
   - A alimentação automática para bichinhos de estimação só está disponível para mascotes evoluídos.
   - Você precisa ativá-la manualmente na janela de informações.
   - Todos os bichinhos de estimação evoluídos comem ![537.png](http://static.divine-pride.net/images/items/item/537.png) [Ração para Bichinho](http://www.divine-pride.net/database/item/537/).

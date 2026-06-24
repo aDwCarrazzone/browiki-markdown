@@ -18,17 +18,17 @@
 
 1. Ao se apresentar para a família Lugenburg, fale com Wolf Lugenburg (prt\_cas\_q 96,186)
 
-   :   ![Wolf Lugenburg](../images/7/70/Wolf_Lugenburg.png)
+   :   ![Wolf Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Wolf_Lugenburg.png)
 2. Nos aposentos de Wigner, procure Isaac Wigner (prt\_cas\_q 94,7)
 
-   :   ![Isaac Wigner](../images/a/a9/Isaac_Wigner.png)
+   :   ![Isaac Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Isaac_Wigner.png)
 
    - Você receberá 1 [Baú de Negócios](http://www.divine-pride.net/database/item/6930/).
 3. Entregue o [Baú de Negócios](http://www.divine-pride.net/database/item/6930/) para Wolf Lugenburg.
    - Digite a senha: `1618`
 4. Em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), procure pelas Crianças (prontera 270,69)
 
-   :   ![Conflito 1](../images/e/ee/Conflito_1.png)
+   :   ![Conflito 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/Conflito_1.png)
 
    - Cada criança pedirá um favor em troca de informações.
      - Caçar 33 [Majoruros](http://www.divine-pride.net/database/monster/1310/).
@@ -37,7 +37,7 @@
 5. Para pegar o [A História de Rune-Midgard](http://www.divine-pride.net/database/item/6926/), responda as perguntas da Bibliotecária Séria (prt\_cas 343,68)
    - Ela pode ser encontrada no primeiro portal do lado direito no **Salão do Banquete**.
 
-   :   ![Conflito 2](../images/b/b7/Conflito_2.png)
+   :   ![Conflito 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Conflito_2.png)
 
    1. **Porque está acontecendo um banquete?** *Lembrança à derrota de Morroc*
    2. **Todas as famílias reais foram ao banquete?** *7 famílias reais foram*
@@ -52,18 +52,18 @@
    - Você receberá 1 [Passaporte para Prontera](http://www.divine-pride.net/database/item/22847/), não use o item agora.
 10. Na fronteira da República, fale com Helmut Lugenburg (yuno\_fild01 242,175)
 
-    :   ![Conflito 3a](../images/d/da/Conflito_3a.png)
+    :   ![Conflito 3a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Conflito_3a.png)
 
     - Depois de finalizar a conversa, você pode usar o [Passaporte para Prontera](http://www.divine-pride.net/database/item/22847/) ou seguir normalmente para [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera").
 11. Fale com Maximilian Lugenburg (prt\_cas\_q 90,187)
 
-    :   ![Max Lugenburg](../images/a/aa/Max_Lugenburg.png)
+    :   ![Max Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Max_Lugenburg.png)
 12. Converse novamente com as Crianças (prontera 267,69)
 13. Retorne a Maximilian Lugenburg (prt\_cas\_q 90,187)
     - Você receberá 10 [Marcas de Honra](http://www.divine-pride.net/database/item/6919/) e 1.000.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 14. Ainda no quarto, converse com Agnes Lugenburg.
 
-    :   ![Agnes Lugenburg](../images/5/54/Agnes_Lugenburg.png)
+    :   ![Agnes Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Agnes_Lugenburg.png)
 
     - Ela pedirá 3 [Pérolas](http://www.divine-pride.net/database/item/722/) e 50 [Plumas](http://www.divine-pride.net/database/item/949/).
     - Ao entregar os itens, você receberá 4 [Marcas de Honra](http://www.divine-pride.net/database/item/6919/) e 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.

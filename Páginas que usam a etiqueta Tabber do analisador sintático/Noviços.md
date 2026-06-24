@@ -56,7 +56,7 @@ Para começar sua jornada em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%
 
 ### Árvore de habilidades
 
-![SkilltreeNoviços](../images/9/97/SkilltreeNovi%C3%A7os.png)
+![SkilltreeNoviços](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/SkilltreeNovi%C3%A7os.png)
 
 ### Velocidade de ataque
 

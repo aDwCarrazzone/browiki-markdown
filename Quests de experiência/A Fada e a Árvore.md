@@ -14,19 +14,19 @@
 
 1. Fale com a Pequena Fada (spl\_fild02 35,223)
 
-   :   ![Encontrocomafada](../images/5/50/Encontrocomafada.png)
+   :   ![Encontrocomafada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Encontrocomafada.png)
 2. Relate ao Capitão do Acampamento (mid\_camp 213,237)
 
-   :   ![Encontrocomocapitao](../images/0/0e/Encontrocomocapitao.png)
+   :   ![Encontrocomocapitao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Encontrocomocapitao.png)
 
    - Você receberá 90.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 3. Converse com o Homem-Árvore (man\_fild03 236,105)
 
-   :   ![Encontrocomaarvore](../images/a/aa/Encontrocomaarvore.png)
+   :   ![Encontrocomaarvore](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Encontrocomaarvore.png)
 4. Relate ao Capitão do Acampamento. (mid\_camp 213,237)
    - Você receberá 90.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

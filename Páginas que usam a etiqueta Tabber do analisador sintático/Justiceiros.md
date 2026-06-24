@@ -45,7 +45,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeJusticeiros](../images/7/78/SkilltreeJusticeiros.png)
+![SkilltreeJusticeiros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/SkilltreeJusticeiros.png)
 
 ## Construção do Personagem
 

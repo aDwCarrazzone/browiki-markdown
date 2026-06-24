@@ -15,20 +15,20 @@
 
 1. Dentro do Conchiolina, aceite ajudar o Arquivista.
 
-   :   ![Arquivisty](../images/4/43/Arquivisty.png)
+   :   ![Arquivisty](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Arquivisty.png)
 2. Procure o Capitão Gamberi.
 
-   :   ![Gamberi](../images/8/83/Gamberi.png)
+   :   ![Gamberi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Gamberi.png)
 3. Retorne ao Arquivista, ele indicará um prédio chamado Clube dos Aventureiros.
 4. Dirija-se até uma casa em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") e converse com o Chefe Peperocino (lasagna 56,186)
 
-   :   ![ClubeAventureiro](../images/5/55/ClubeAventureiro.png)
+   :   ![ClubeAventureiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/ClubeAventureiro.png)
 5. Volte a falar com o Arquivista.
 6. Encontre Mill Enair (lasagna 263,156)
 
-   :   ![Millenair](../images/5/5c/Millenair.png)
+   :   ![Millenair](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Millenair.png)
 7. De volta ao Conchiolina, reporte a situação ao Arquivista.
    - Você receberá 700 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
 8. Agora você pode ler os Diários do Conchiolina.
 
-   :   ![ConchilinaDi](../images/0/07/ConchilinaDi.png)
+   :   ![ConchilinaDi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/ConchilinaDi.png)

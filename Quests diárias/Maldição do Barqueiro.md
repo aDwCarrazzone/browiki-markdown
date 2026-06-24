@@ -15,10 +15,10 @@
 
 1. Dentro do Conchiolina, aceite ajudar o Barqueiro.
 
-   :   ![GatoBarqueiro](../images/d/de/GatoBarqueiro.png)
+   :   ![GatoBarqueiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/GatoBarqueiro.png)
 2. Em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna"), procure pelo Miáugico (lasagna 85,93)
 
-   :   ![Miaugico](../images/5/5d/Miaugico.png)
+   :   ![Miaugico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Miaugico.png)
 3. Retorne ao Barqueiro, que pedirá 5 [Conchas de Basilisco](http://www.divine-pride.net/database/item/25049/) e 20 [Manjericão](http://www.divine-pride.net/database/item/22985/).
    - Você consegue [Conchas de Basilisco](http://www.divine-pride.net/database/item/25049/) eliminando [Basiliscos Guerreiros](http://www.divine-pride.net/database/monster/3503/).
    - Ao entregar os itens, você receberá 1.200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base.

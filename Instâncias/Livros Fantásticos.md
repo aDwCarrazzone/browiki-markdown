@@ -2,7 +2,7 @@
 
 # Livros Fantásticos
 
-![VRbooks](../images/8/82/VRbooks.png)
+![VRbooks](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/VRbooks.png)
 
 Livros Fantásticos são pequenas histórias, na maiora das vezes em formato de [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), onde os jogadores poderão conhecer personagens principais de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online").
 

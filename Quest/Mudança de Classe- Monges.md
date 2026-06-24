@@ -16,13 +16,13 @@
 
 1. Aproxime-se do Monge (prt\_monk 59,247)
 
-   :   ![MdCmg01](../images/3/3a/MdCmg01.png)
+   :   ![MdCmg01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/MdCmg01.png)
 2. Clique no Monge e selecione:
    - Dar as informações.
    - Quero me tornar um de vocês.
 3. Entregue os itens pedidos ao Monge Muhae (monk\_in 99,58)
 
-   :   ![MdCmg02](../images/4/46/MdCmg02.png)
+   :   ![MdCmg02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/MdCmg02.png)
 
 :   :   | Conjunto | Lista de Itens | | |
         | --- | --- | --- | --- |
@@ -36,7 +36,7 @@
 
 :   3. Encontre Douha (prt\_monk 251,255)
 
-    :   ![MdCmg03](../images/b/b4/MdCmg03.png)
+    :   ![MdCmg03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/MdCmg03.png)
 
         - Nesta etapa, você precisa selecionar parágrafo por parágrafo de 1 das 3 possibilidades de frases abaixo.
         - A primeira vez que Douha cita os poemas parece ser um pouco fora da ordem.
@@ -79,7 +79,7 @@
         - Até o último deles
 :   4. Procure por Puhae (prt\_monk 57,179)
 
-    :   ![MdCmg04a](../images/1/1b/MdCmg04a.png)
+    :   ![MdCmg04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/MdCmg04a.png)
 
         - Selecione:
           - "*Monge Douha me disse..*"
@@ -88,11 +88,11 @@
         - Nesta etapa, você deve escolher "*Colher Cogumelos*" ou "*Maratona*". Se não gostar de um, você pode trocar depois.
 :   5. Quem fará o teleporte para a sala de testes é o Assistente (monk\_test 329,61)
 
-    :   ![MdCmg04](../images/9/9b/MdCmg04.png)
+    :   ![MdCmg04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/MdCmg04.png)
 
 1. **Maratona** - Teste de Resistência
 
-   :   ![MdCmg09a](../images/d/de/MdCmg09a.png)
+   :   ![MdCmg09a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/MdCmg09a.png)
 
    - Consiste em correr em torno de 8 a 10 voltas em uma pista, até que o Assistente se dê por satisfeito e decida que já está na hora de acabar.
    - Se cair em uma armadilha, você volta ao ponto de largada.
@@ -100,14 +100,14 @@
 2. **Colher Cogumelos** - Teste de Paciência
    - Consiste em entregar cerca de 30 [Cogumelos Borrachentos](http://www.divine-pride.net/database/item/1070/) ou [Cogumelos Venenosos](http://www.divine-pride.net/database/item/1069/) ao Examinador (job\_monk 225,180)
 
-   :   ![MdCmg09b](../images/6/6f/MdCmg09b.png)
+   :   ![MdCmg09b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/MdCmg09b.png)
 
 :   6. Fale com Taomon (monk\_test 319,139)
 
-    :   ![MdCmg05](../images/a/a9/MdCmg05.png)
+    :   ![MdCmg05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/MdCmg05.png)
 :   7. Sua última etapa é cruzar 1 dos 3 labirintos invisíveis, mas cuidado onde pisa, é possível que apareçam [zumbis](http://www.divine-pride.net/database/monster/1015/) e [múmias](http://www.divine-pride.net/database/monster/1041/).
 
-    :   ![Labirinto da Quest dos Monges](../images/4/4a/Labirinto_da_Quest_dos_Monges.jpg)
+    :   ![Labirinto da Quest dos Monges](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Labirinto_da_Quest_dos_Monges.jpg)
 
     - Coordenadas para chegar no final do labirinto 1: (monk\_test 165,178)
     - Coordenadas para chegar no final do labirinto 2: ?

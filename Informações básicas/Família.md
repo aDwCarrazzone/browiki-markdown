@@ -2,7 +2,7 @@
 
 # Família
 
-![Casamento](../images/a/a2/Casamento.jpg)
+![Casamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Casamento.jpg)
 
 Uma família feliz.
 
@@ -16,7 +16,7 @@ Personagens casados também poderão entrar em [Jawaii](../Lugares%20em%20Ragnar
 
 - Antes de se casar ou adotar, dê uma passadinha no Cartório de Prontera (prt\_in 281,168)
 
-:   ![CartorioProntera](../images/5/5e/CartorioProntera.png)
+:   ![CartorioProntera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/CartorioProntera.png)
 
 - **Emily**: Fornece informações aos personagens adotados.
 - **Itens para Casamento**: Vende os itens necessários para casar.
@@ -43,10 +43,10 @@ Independente da escolha, os requisitos são os mesmos:
 
 1. Reservem a cerimônia com a Assistente de Casamento (prt\_church 97,100) ou com Arcobaleno (lasagna 335,248)
 
-   :   ![Casamentoprt01](../images/0/0b/Casamentoprt01.png) ![Casamentolasa01](../images/5/52/Casamentolasa01.png)
+   :   ![Casamentoprt01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Casamentoprt01.png) ![Casamentolasa01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Casamentolasa01.png)
 2. Para dar início, falem com o Padre (prt\_church 97,100) ou com Peperocino (lasagna 331,277)
 
-   :   ![Casamentoprt02](../images/6/63/Casamentoprt02.png) ![Casamentolasa02](../images/f/f5/Casamentolasa02.png)
+   :   ![Casamentoprt02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Casamentoprt02.png) ![Casamentolasa02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Casamentolasa02.png)
 
    - Ambos deverão digitar corretamente o nome dos seus personagens.
 3. Após os votos de amor, as roupas dos personagens serão alteradas e cada um receberá 1 acessório não identificado.
@@ -66,13 +66,13 @@ Personagens casados com [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20ba
    - Acima do nível de base 51, não é possível mais adotar.
 3. Não esqueça de convidar o filho para o [grupo](Grupo.md "Grupo").
 
-   :   ![Merry03](../images/6/61/Merry03.png)
+   :   ![Merry03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Merry03.png)
 4. Um dos pais deverá clicar com o botão direito sobre o filho para que a opção de adoção apareça.
 
-   :   ![Merry04](../images/b/b5/Merry04.png)
+   :   ![Merry04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Merry04.png)
 5. Se o personagem aceitar o pedido, ele ficará menor, indicando que agora é uma criança.
 
-   :   ![Merry05](../images/c/c6/Merry05.png)
+   :   ![Merry05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Merry05.png)
 6. As habilidades entre pais e filhos serão adicionadas imediatamente na árvore de habilidades.
 
 ### Notas
@@ -106,7 +106,7 @@ Personagens casados com [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20ba
 
 ## Habilidades
 
-[![Amor Verdadeiro](../images/2/2e/Amor_Verdadeiro.gif)](https://browiki.org/wiki/Arquivo%3AAmor_Verdadeiro.gif)
+[![Amor Verdadeiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Amor_Verdadeiro.gif)](https://browiki.org/wiki/Arquivo%3AAmor_Verdadeiro.gif)
 
 Habilidades de casados
 
@@ -138,7 +138,7 @@ Existem 2 métodos de separação:
 1. Pelo Cartório de Prontera, falando com Norton (prt\_in 281,168)
 2. Com o Advogado Sombrio, em [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim") (nif\_in 190,112)
 
-   :   ![AdvogadoSombrio](../images/3/39/AdvogadoSombrio.png)
+   :   ![AdvogadoSombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/AdvogadoSombrio.png)
 
 - Ambos cobrarão 2.500.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
 - Norton dará 4 dias para você repensar o divórcio, após esse período ele desfaz o matrimônio.

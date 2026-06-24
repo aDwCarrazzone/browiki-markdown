@@ -2,7 +2,7 @@
 
 # Umbala
 
-[![Umbala2](../images/5/55/Umbala2.jpg)](https://browiki.org/wiki/Arquivo%3AUmbala2.jpg)
+[![Umbala2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/Umbala2.jpg)](https://browiki.org/wiki/Arquivo%3AUmbala2.jpg)
 
 Cabana na Floresta de Luluka
 

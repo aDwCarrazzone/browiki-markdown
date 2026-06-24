@@ -4,9 +4,9 @@
 
 Você pode personalizar seu personagem com novos penteados, cores de cabelo e de roupa, além de uma roupa alternativa para certas [classes](Classes.md "Classes").
 
-![Styleshop](../images/1/11/Styleshop.png)
+![Styleshop](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Styleshop.png)
 
-Basta dirigir-se para um Estilista, indicado com um ![Map barbea](../images/c/c7/Map_barbea.png) nas cidades de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen"), [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta"), [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno"), [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") ou [Rachel](../Lugares%20em%20Ragnar%C3%B6k/Rachel.md "Rachel").
+Basta dirigir-se para um Estilista, indicado com um ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) nas cidades de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen"), [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta"), [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno"), [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") ou [Rachel](../Lugares%20em%20Ragnar%C3%B6k/Rachel.md "Rachel").
 
 Não há limitação de nível para mudar seu visual, basta falar com um Estilista para abrir a Loja de Estilos.
 
@@ -106,67 +106,67 @@ Não há limitação de nível para mudar seu visual, basta falar com um Estilis
 
 ### Aprendizes e evoluções
 
-![Cor Aprendiz Evoluções](../images/5/5f/Cor_Aprendiz_Evolu%C3%A7%C3%B5es.png)
+![Cor Aprendiz Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Cor_Aprendiz_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Aprendizes_e_evoluções "Discussão:Estilista")**.
 
 ### Espadachins e evoluções
 
-![Cor Espadachins Evoluções](../images/3/3b/Cor_Espadachins_Evolu%C3%A7%C3%B5es.png)
+![Cor Espadachins Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Cor_Espadachins_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Espadachins_e_evoluções "Discussão:Estilista")**.
 
 ### Magos e evoluções
 
-![Cor Magos Evoluções](../images/d/d4/Cor_Magos_Evolu%C3%A7%C3%B5es.png)
+![Cor Magos Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Cor_Magos_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Magos_e_evoluções "Discussão:Estilista")**.
 
 ### Mercadores e evoluções
 
-![Cor Mercadores Evoluções](../images/7/73/Cor_Mercadores_Evolu%C3%A7%C3%B5es.png)
+![Cor Mercadores Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Cor_Mercadores_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Mercadores_e_evoluções "Discussão:Estilista")**.
 
 ### Gatunos e evoluções
 
-![Cor Gatunos Evoluções](../images/d/d0/Cor_Gatunos_Evolu%C3%A7%C3%B5es.png)
+![Cor Gatunos Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Cor_Gatunos_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Gatunos_e_evoluções "Discussão:Estilista")**.
 
 ### Noviços e evoluções
 
-![Cor Noviços Evoluções](../images/f/f6/Cor_Novi%C3%A7os_Evolu%C3%A7%C3%B5es.png)
+![Cor Noviços Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Cor_Novi%C3%A7os_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Noviços_e_evoluções "Discussão:Estilista")**.
 
 ### Arqueiros e evoluções
 
-![Cor Arqueiros Evoluções](../images/a/ac/Cor_Arqueiros_Evolu%C3%A7%C3%B5es.png)
+![Cor Arqueiros Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/Cor_Arqueiros_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Arqueiros_e_evoluções "Discussão:Estilista")**.
 
 ### Taekwons e evoluções
 
-![Cor Taekwons Evoluções](../images/3/3a/Cor_Taekwons_Evolu%C3%A7%C3%B5es.png)
+![Cor Taekwons Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Cor_Taekwons_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Taekwons_e_evoluções "Discussão:Estilista")**.
 
 ### Justiceiros e evoluções
 
-![Cor Justiceiros Evoluções](../images/6/6e/Cor_Justiceiros_Evolu%C3%A7%C3%B5es.png)
+![Cor Justiceiros Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Cor_Justiceiros_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Justiceiros_e_evoluções "Discussão:Estilista")**.
 
 ### Ninjas e evoluções
 
-![Cor Ninjas Evoluções](../images/b/bc/Cor_Ninjas_Evolu%C3%A7%C3%B5es.png)
+![Cor Ninjas Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Cor_Ninjas_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Ninjas_e_evoluções "Discussão:Estilista")**.
 
 ### Invocadores e evoluções
 
-![Cor Invocadores Evoluções](../images/1/1f/Cor_Invocadores_Evolu%C3%A7%C3%B5es.png)
+![Cor Invocadores Evoluções](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Cor_Invocadores_Evolu%C3%A7%C3%B5es.png)
 
 - Ver **[montaria](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista#Invocadores_e_evoluções "Discussão:Estilista")**.
 

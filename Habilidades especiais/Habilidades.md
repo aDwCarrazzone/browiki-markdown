@@ -2,7 +2,7 @@
 
 # Habilidades
 
-![Skillwnd](../images/f/fc/Skillwnd.png)
+![Skillwnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Skillwnd.png)
 
 Árvore de habilidades
 
@@ -22,7 +22,7 @@ As habilidades passivas não podem ser arrastadas para sua *Barra de Atalhos*, a
 2. Algumas habilidades possuem níveis selecionáveis, verifique as setas azuis abaixo da habilidade.
 3. Arraste o ícone de uma habilidade para a barra de atalhos.
 
-   :   ![Skillhotkeywnd](../images/1/17/Skillhotkeywnd.png)
+   :   ![Skillhotkeywnd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Skillhotkeywnd.png)
 4. Para usar o atalho, não esqueça de configurar uma tecla em:
 
    :   Botão ESC > Teclas de Atalho
@@ -57,7 +57,7 @@ As habilidades passivas não podem ser arrastadas para sua *Barra de Atalhos*, a
 
 ## Ícones
 
-![StatusIcons](../images/0/08/StatusIcons.png)
+![StatusIcons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/StatusIcons.png)
 
 Quando for alvo de alguma habilidade que altera o estado normal do personagem, algumas vezes um ícone é exibido na lateral direita da sua tela.
 

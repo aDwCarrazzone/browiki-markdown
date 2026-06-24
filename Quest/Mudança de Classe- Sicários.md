@@ -16,16 +16,16 @@
 
 1. Aceite o pedido de Ahcart, Membro da Guilda (que\_job01 75,96).
 
-   :   ![MdCgx01](../images/0/0b/MdCgx01.png)
+   :   ![MdCgx01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/MdCgx01.png)
 2. Fale com Daora (veins 255,255) selecione "*...*".
 
-   :   ![MdCgx02](../images/9/9c/MdCgx02.png)
+   :   ![MdCgx02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/MdCgx02.png)
 3. Nos fundos, entre no portal e vire à esquerda, fale com Mayshell (job3\_guil01 82,91) selecionando "*Certo...*".
 
-   :   ![MdCgx03](../images/8/81/MdCgx03.png)
+   :   ![MdCgx03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/MdCgx03.png)
 4. Retorne a Daora e selecione "*Me dê 1 copo*".
 
-   :   ![MdCgx02](../images/9/9c/MdCgx02.png)
+   :   ![MdCgx02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/MdCgx02.png)
 
    - Você pode pedir ajuda a Daora para acelerar investigação.
    - Este guia seguirá pelo caminho sem necessidade de ajuda de Daora.
@@ -57,7 +57,7 @@
       - O local de residência não estava claro.
 6. Fale com a Garota (veins 223,179)
 
-   :   ![MdCgx06](../images/6/6c/MdCgx06.png)
+   :   ![MdCgx06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/MdCgx06.png)
 
    - Selecione:
      - Você sabe de alguma coisa?
@@ -69,7 +69,7 @@
 7. Aguarde **1 hora** antes do próximo passo. Não é necessário permanecer conectado.
 8. Usando [Furtividade](../Ativa/Furtividade.md "Furtividade"), aproxime-se de Estillda (veins 341,286)
 
-   :   ![MdCgx07](../images/b/b5/MdCgx07.png)
+   :   ![MdCgx07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/MdCgx07.png)
 
    - Selecione:
      - Fazer um ataque surpresa
@@ -82,14 +82,14 @@
    - Sugere-se que você vá com equipamentos para aumentar esses valores.
 9. Volte a Daora (veins 255,255)
 
-   :   ![MdCgx02](../images/9/9c/MdCgx02.png)
+   :   ![MdCgx02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/MdCgx02.png)
 
    - Selecione:
      - Sim, eu disse.
      - Não, eu só protejo...
 10. Entre no portal da Guilda e vire à direita. Fale com a Estilda.
 
-    :   ![MdCgx08](../images/8/88/MdCgx08.png)
+    :   ![MdCgx08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/MdCgx08.png)
 
     - Escolha:
       - Está tudo bem?
@@ -101,25 +101,25 @@
 11. Aguarde **3 horas**.
 12. Siga para as coordenadas (veins 205,56)
 
-    :   ![MdCgx09](../images/b/bc/MdCgx09.png)
+    :   ![MdCgx09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/MdCgx09.png)
 13. Aproxime-se do Homem de Preto e elimine o [Dandelion](http://www.divine-pride.net/database/monster/2031/).
 
-    :   ![MdCgx10](../images/6/67/MdCgx10.png)
+    :   ![MdCgx10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/MdCgx10.png)
 14. Após a derrota, fale com o Dandelion para receber uma [Chave da Mansão](http://www.divine-pride.net/database/item/6150/) e sair do lugar.
 
-    :   ![MdCgx11](../images/9/90/MdCgx11.png)
+    :   ![MdCgx11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/MdCgx11.png)
 15. Procure por Girke (rachel 115,77)
 
-    :   ![MdCgx12](../images/d/d0/MdCgx12.png)
+    :   ![MdCgx12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/MdCgx12.png)
 16. Conte uma história a Oresa Rava (ra\_in01 175,196)
 
-    :   ![MdCgx13](../images/5/5d/MdCgx13.png)
+    :   ![MdCgx13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/MdCgx13.png)
 17. Entregue a [Chave da Mansão](http://www.divine-pride.net/database/item/6150/) a Mayshell (veins 255,255)
 
-    :   ![MdCgx03](../images/8/81/MdCgx03.png)
+    :   ![MdCgx03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/MdCgx03.png)
 18. Localize a Garota (ve\_fild05 328,308)
 
-    :   ![MdCgx14](../images/b/bf/MdCgx14.png)
+    :   ![MdCgx14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/MdCgx14.png)
 
     - A Garota teleportará você para uma mansão, então prepare-se para a batalha!
     - O tempo limite é de 10 minutos, após isso, você volta pro ponto de retorno.
@@ -128,17 +128,17 @@
     - Recomendamos que use [Furtividade](../Ativa/Furtividade.md "Furtividade"), pois apenas o [Cão de Guarda](http://www.divine-pride.net/database/monster/1866/) enxerga escondidos.
 19. Seu objetivo na mansão é encontrar e eliminar o [Sacerdote](http://www.divine-pride.net/database/monster/2030/).
 
-    :   ![Job3 guil03](../images/4/43/Job3_guil03.png)
+    :   ![Job3 guil03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Job3_guil03.png)
 
     1. Aproxime-se do Arame Farpado e se esprema para entrar.
 
-       :   ![MdCgx15](../images/a/af/MdCgx15.png)
+       :   ![MdCgx15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/MdCgx15.png)
     2. Entre na casa atravessando a porta dos fundos.
     3. Ao chegar perto do Sacerdote, ele atacará você na forma de um [monstro](http://www.divine-pride.net/database/monster/2030/)
     4. Assim que derrotá-lo, encontre Renzak atrás da casa para sair do lugar.
 20. Relate seu progresso a Mayshell (job3\_guil01 16,20)
 
-    :   ![MdCgx03](../images/8/81/MdCgx03.png)
+    :   ![MdCgx03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/MdCgx03.png)
 
     - A nota do seu desempenho será avaliada de acordo com algumas condições:
       - Nota S: Missão concluída no prazo e pediu menos de 2 dicas à Daora.
@@ -148,7 +148,7 @@
     - Se sua nota no teste for acima de C, você recebe 1x [Caixa de Joias](http://www.divine-pride.net/database/item/12106/).
 21. Do outro lado do corredor, fale com Bercasell.
 
-    :   ![MdCgx0151](../images/8/87/MdCgx0151.png)
+    :   ![MdCgx0151](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/87/MdCgx0151.png)
 
     - Ele mudará sua classe para [Sicário](../Sem%20categoria/Sic%C3%A1rio.md "Sicário").
     - Você recebe 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e 1 [Som do Silêncio](http://www.divine-pride.net/database/item/5755/).

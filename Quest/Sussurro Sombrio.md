@@ -17,18 +17,18 @@
 
 1. Reserve a instância com o Cientista Doyeon (prt\_q 250,79)
 
-   :   ![SussurroSombrio 01](../images/c/c1/SussurroSombrio_01.png)
+   :   ![SussurroSombrio 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/SussurroSombrio_01.png)
 2. Clique na Entrada da Fortaleza para iniciar a missão.
 3. Ao entrar na Fortaleza, uma breve conversa com [Jack Wolf](http://www.divine-pride.net/database/monster/3473/) se inicia.
 
-   :   ![SussurroSombrio 02](../images/b/ba/SussurroSombrio_02.png)
+   :   ![SussurroSombrio 02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/SussurroSombrio_02.png)
 
    - Após o diálogo, o monstro atacará seu grupo até ter 10% do [HP](../Sem%20categoria/HP.md "HP") retirado.
    - Em seguida, vários [Zumbis Imortais](http://www.divine-pride.net/database/monster/3476/) serão invocados em intervalos.
    - Nesse momento, existe uma chance de aparecer o [Guardião da Chave](http://www.divine-pride.net/database/monster/3478/).
 4. Prossiga a instância eliminando os monstros e destrancando os portais.
 
-   :   ![SussurroSombrio 03a](../images/8/83/SussurroSombrio_03a.png)
+   :   ![SussurroSombrio 03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/SussurroSombrio_03a.png)
 
    - Destrancar os portais é opcional.
    - Para ativar um portal, será necessário adquririr uma [Chave da Fortaleza](http://www.divine-pride.net/database/item/6960/) com o [Guardião da Chave](http://www.divine-pride.net/database/monster/3478/).
@@ -41,20 +41,20 @@
    - Monstros que aparecem nas escadarias da fortaleza aérea: [Carniçal Imortal](http://www.divine-pride.net/database/monster/3479/), [Dilacerado Imortal](http://www.divine-pride.net/database/monster/3480/) e [Legionário Imortal](http://www.divine-pride.net/database/monster/3477/)
 5. Ao chegar no topo da fortaleza, aproxime-se de [Jack Wolf](http://www.divine-pride.net/database/monster/3473/) para iniciar a batalha.
 
-   :   ![SussurroSombrio 04](../images/c/cd/SussurroSombrio_04.png)
+   :   ![SussurroSombrio 04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/SussurroSombrio_04.png)
 
    - Se o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") possuir 70% ou menos de [HP](../Sem%20categoria/HP.md "HP"), ele invocará vários zumbis a cada 20 segundos.
    - Se o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") possuir 20% ou menos de [HP](../Sem%20categoria/HP.md "HP"), vários pontos do mapa irão conjurar [Terremoto](../Habilidades%20de%20monstros/Terremoto.md "Terremoto") a cada 7 segundos. Esta habilidade não funciona como o terremoto padrão e irá matar seu personagem instantaneamente caso seja atingido.
    - A área do [Terremoto](../Habilidades%20de%20monstros/Terremoto.md "Terremoto") é de 5x5 células.
    - Antes de um [Terremoto](../Habilidades%20de%20monstros/Terremoto.md "Terremoto") surgir, um círculo roxo piscará na área.
 
-   :   :   ![SussurroSombrio 05](../images/8/82/SussurroSombrio_05.gif)
+   :   :   ![SussurroSombrio 05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/SussurroSombrio_05.gif)
 6. Assim que derrotar [Jack Wolf](http://www.divine-pride.net/database/monster/3473/), saia pelo Portal de Fuga.
 
-   :   ![SussurroSombrio 06](../images/0/01/SussurroSombrio_06.png)
+   :   ![SussurroSombrio 06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/SussurroSombrio_06.png)
 7. É possível ignorar o tempo de retorno da instância levando um [Ticket de Acesso](http://www.divine-pride.net/database/item/14505/) para o Cientista Doyeon no [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") (dali02 121,63)
 
-   :   ![SussurroSombrio 07](../images/0/0a/SussurroSombrio_07.png)
+   :   ![SussurroSombrio 07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SussurroSombrio_07.png)
 
    - Ao completar a missão pela primeira vez, você recebe o [Ticket de Acesso](http://www.divine-pride.net/database/item/14505/) do cientista em [Prontera Destruída](http://www.divine-pride.net/database/map/prt_q/).
    - A duração do ticket dado pelo cientista começa a ser contabilizado no momento em que você fala com ele, mesmo que você se desconecte do jogo.

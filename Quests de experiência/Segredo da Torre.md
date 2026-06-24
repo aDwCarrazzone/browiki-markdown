@@ -15,7 +15,7 @@
 
 1. Fale com Burled, o Guia da Entrada (tha\_t02 231,161)
 
-   :   ![Thanatos03a](../images/7/7e/Thanatos03a.png)
+   :   ![Thanatos03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Thanatos03a.png)
 
    - Selecione:
      - Conversar
@@ -24,13 +24,13 @@
    - Você receberá ![7421.png](http://static.divine-pride.net/images/items/item/7421.png) 1 [Chave Vermelha](http://www.divine-pride.net/database/item/7421/)
 2. No 3º andar, equipe qualquer arma de nível 3 ou 4 e investigue no Aparato Rúnico (tha\_t03 66,74)
 
-   :   ![Thanatos04a](../images/7/76/Thanatos04a.png)
+   :   ![Thanatos04a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Thanatos04a.png)
 
    - Selecione *Investigar* e *Concentrar-se*.
    - Você receberá ![7422.png](http://static.divine-pride.net/images/items/item/7422.png) 1 [Chave Amarela](http://www.divine-pride.net/database/item/7422/).
 3. No 4º andar, procure pelo Aparato Rúnico (tha\_t04 199,195).
 
-   :   ![Thanatos05a](../images/8/85/Thanatos05a.png)
+   :   ![Thanatos05a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/Thanatos05a.png)
 
    - Você deve adivinhar uma sequência aleatória de 3 números, de 1 a 9.
    - Esses números não podem ser repetidos e devem estar na ordem correta.
@@ -39,7 +39,7 @@
    - Você receberá ![7423.png](http://static.divine-pride.net/images/items/item/7423.png) 1 [Chave Azul](http://www.divine-pride.net/database/item/7423/).
 4. No 5º andar, localize a Estátua Brilhante (tha\_t05 61,182)
 
-   :   ![Thanatos06a](../images/8/8a/Thanatos06a.png)
+   :   ![Thanatos06a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Thanatos06a.png)
 
    - Haverá um poema escrito na estátua, com números aleatórios.
    - Preste atenção no número mencionado na linha 3.
@@ -47,7 +47,7 @@
    - Você receberá ![7424.png](http://static.divine-pride.net/images/items/item/7424.png) 1 [Chave Verde](http://www.divine-pride.net/database/item/7424/).
 5. No 6º andar, dirijam-se a Estátua Brilhante (tha\_t06 225,227)
 
-   :   ![Thanatos07a](../images/3/32/Thanatos07a.png)
+   :   ![Thanatos07a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Thanatos07a.png)
 
    - Selecione:
      - *Inserir Chaves*
@@ -60,7 +60,7 @@
    - Você receberá ![7425.png](http://static.divine-pride.net/images/items/item/7425.png) 1 [Chave Preta](http://www.divine-pride.net/database/item/7425/).
 6. Siga para a Espada Esplêndida (tha\_t06 202,182)
 
-   :   ![Thanatos08a](../images/6/69/Thanatos08a.png)
+   :   ![Thanatos08a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Thanatos08a.png)
 
    - Selecione:
      - *Aproximar-se*

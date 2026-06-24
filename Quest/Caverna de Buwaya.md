@@ -18,13 +18,13 @@
 
 1. Converse com o Chefe da Guarda (malaya 290,340)
 
-   :   ![Malaya07](../images/4/4c/Malaya07.png)
+   :   ![Malaya07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Malaya07.png)
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Guarda (ma\_fild02 312,317)
 
-   :   ![Cavernadebuwaya01](../images/a/af/Cavernadebuwaya01.png)
+   :   ![Cavernadebuwaya01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Cavernadebuwaya01.png)
 3. Entre no portal para acessar o mapa.
 
-   :   ![Cavernadebuwaya02](../images/d/d8/Cavernadebuwaya02.png)
+   :   ![Cavernadebuwaya02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Cavernadebuwaya02.png)
 4. Seu objetivo é encontrar e eliminar o verdadeiro [Buwaya](http://www.divine-pride.net/database/monster/2319/).
    - Não será uma tarefa fácil, existem [Buwayas](http://www.divine-pride.net/database/monster/2332/) falsos que morrem fácil.
    - O lugar é cheio de [Escravos](http://www.divine-pride.net/database/monster/2330/) e [ovos](http://www.divine-pride.net/database/monster/2329/) que servem para dificultar.
@@ -32,7 +32,7 @@
    - A cada 60 segundos, o [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") todo será enviado para o Baú de Buwaya.
 5. No Baú, fale com a Pessoa Sequestrada para invocar dois [Pontos Fracos](http://www.divine-pride.net/database/monster/2333/).
 
-   :   ![Cavernadebuwaya03](../images/a/a9/Cavernadebuwaya03.png)
+   :   ![Cavernadebuwaya03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Cavernadebuwaya03.png)
 
    - Existem dois [NPCs](../Sem%20categoria/NPC.md "NPC") no baú, uma senhora que ativa os [Pontos Fracos](http://www.divine-pride.net/database/monster/2333/) e um senhor que fornece um bônus de [ATQ](../Sem%20categoria/ATQ.md "ATQ") e [ATQM](../Sem%20categoria/ATQM.md "ATQM") por alguns segundos.
    - Dentro do baú, os personagens sofrerão de [envenenamento](../Sem%20categoria/Envenenamento.md "Envenenamento") e o [HP](../Sem%20categoria/HP.md "HP") será drenado rapidamente.

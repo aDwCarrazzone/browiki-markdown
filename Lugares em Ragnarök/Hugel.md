@@ -2,7 +2,7 @@
 
 # Hugel
 
-[![Hugel city](../images/9/93/Hugel_city.jpg)](https://browiki.org/wiki/Arquivo%3AHugel_city.jpg)
+[![Hugel city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Hugel_city.jpg)](https://browiki.org/wiki/Arquivo%3AHugel_city.jpg)
 
 Hugel, a Vila do Jardim Fantástico
 
@@ -46,7 +46,7 @@ As pesquisas revelaram, no entanto, que o lugar foi habitado por criaturas angel
 | Bingo | Minigame de sorteio (*desativado*) | (hugel 56,208) |
 | Loja de Gemas | Empacota Gemas | (hu\_in01 252,370) |
 
-[![Angrboda art](../images/f/f0/Angrboda_art.png)](https://browiki.org/wiki/Arquivo%3AAngrboda_art.png)
+[![Angrboda art](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Angrboda_art.png)](https://browiki.org/wiki/Arquivo%3AAngrboda_art.png)
 
 Ilha Angrboda, lar do Templo de Odin
 
@@ -77,7 +77,7 @@ Ilha Angrboda, lar do Templo de Odin
 
 1. Encante itens angelicais com Susan Gray, a Teóloga (hu\_in01 97,322).
 
-   :   ![SusanGrey](../images/2/25/SusanGrey.png)
+   :   ![SusanGrey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/SusanGrey.png)
 
    - Cada processo de encanto custa 500.000 zenys e 3 [Sonho Angelical](http://www.divine-pride.net/database/item/25767/)
    - O 3º e 4º slot serão encantados independente do [refino](../Sem%20categoria/Refino.md "Refino") do equipamento.

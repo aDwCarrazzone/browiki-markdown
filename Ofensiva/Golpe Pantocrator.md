@@ -47,9 +47,9 @@ Inimigos agora passam a estar no estado de [*Condenação*] por 5 segundos.
 - O estado de [*Condenação*] não possui nenhum efeito especial.
 - O estado de [*Condenação*] não pode ser removido por [Desencantar](../Ativa/Desencantar.md "Desencantar") ou [Gênese](../Ativa/G%C3%AAnese.md "Gênese").
 - Só pode ser usada se uma dessas auréolas estiver ativa:
-  - [![Auréola do Poder](../images/5/56/Aur%C3%A9ola_do_Poder.png)](../Ativa/Aur%C3%A9ola%20do%20Poder.md "Auréola do Poder") [Auréola do Poder](../Ativa/Aur%C3%A9ola%20do%20Poder.md "Auréola do Poder")
-  - [![Auréola do Juiz](../images/f/f2/Aur%C3%A9ola_do_Juiz.png)](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz") [Auréola do Juiz](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz")
-  - [![Auréola das Chamas](../images/2/25/Aur%C3%A9ola_das_Chamas.png)](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas") [Auréola das Chamas](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas")
+  - [![Auréola do Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Aur%C3%A9ola_do_Poder.png)](../Ativa/Aur%C3%A9ola%20do%20Poder.md "Auréola do Poder") [Auréola do Poder](../Ativa/Aur%C3%A9ola%20do%20Poder.md "Auréola do Poder")
+  - [![Auréola do Juiz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Aur%C3%A9ola_do_Juiz.png)](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz") [Auréola do Juiz](../Ativa/Aur%C3%A9ola%20do%20Juiz.md "Auréola do Juiz")
+  - [![Auréola das Chamas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Aur%C3%A9ola_das_Chamas.png)](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas") [Auréola das Chamas](../Ativa/Aur%C3%A9ola%20das%20Chamas.md "Auréola das Chamas")
 - Se o oponente já estiver com [*Condenação*], a duração do estado será renovada.
 - Armas relacionadas:
   - ![560011.png](http://static.divine-pride.net/images/items/item/560011.png) [Punho Descartado](http://www.divine-pride.net/database/item/560011/)

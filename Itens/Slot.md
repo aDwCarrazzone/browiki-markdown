@@ -6,7 +6,7 @@
 
 No exemplo abaixo, o [item](../Sem%20categoria/Item.md "Item") possui 1 *slot* aberto, pois o espaço está em branco e 3 slots em cinza, indicando que não há possibilidade de inserção de [carta](../Sem%20categoria/Carta.md "Carta"), mas talvez de [encantamentos](../Sem%20categoria/Encantamentos.md "Encantamentos").
 
-[![Link=](../images/f/f1/Item_com_slot.png)](https://browiki.org/wiki/Arquivo%3AItem_com_slot.png "Link=")
+[![Link=](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Item_com_slot.png)](https://browiki.org/wiki/Arquivo%3AItem_com_slot.png "Link=")
 
 Itens com slot recebem a seguinte indicação no nome:
 
@@ -18,13 +18,13 @@ Itens com slot recebem a seguinte indicação no nome:
 
 ## Sloteamento
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para itens sloteados pelo Desentupidor ou Perfurador, veja [JoyCoins](JoyCoins.md "JoyCoins").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para itens sloteados pelo Desentupidor ou Perfurador, veja [JoyCoins](JoyCoins.md "JoyCoins").
 
 "*Sloteamento*" é popularmente conhecido como "*abrir um espaço/slot para carta*".
 
 O processo pode ser feito através dos [NPCs](../Sem%20categoria/NPC.md "NPC") Seiyablem & Leablem, pelo [Desentupidor](JoyCoins.md "JoyCoins").
 
-![Seiyablem](../images/7/7a/Seiyablem.png) ![Leablem](../images/6/67/Leablem.png)
+![Seiyablem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Seiyablem.png) ![Leablem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Leablem.png)
 
 Seiyablem e Leablem adicionam 1 slot na [arma](../Sem%20categoria/Arma.md "Arma") ou [equipamento](../Sem%20categoria/Equipamento.md "Equipamento") que estiver no **inventário** e possuem as seguintes regras:
 

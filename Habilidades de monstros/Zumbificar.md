@@ -16,7 +16,7 @@ Tem 100% de chance de infligir Zumbificação no alvo.
 
 ### Zumbificação
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Glória](../images/f/f5/I_Gl%C3%B3ria.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Glória](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/I_Gl%C3%B3ria.png)
 - Encanta a armadura do personagem com a propriedade [Maldito](../Sem%20categoria/Maldito.md "Maldito") nível 1.
 - [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") e [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") deixam de surtir efeito e causam 1 de dano no alvo.
 - [Curar](../Suporte/Curar.md "Curar") e [Santuário](../Suporte/Santu%C3%A1rio.md "Santuário") não terão efeito no alvo em mapas fora do [PvP](../PvP/PvP.md "PvP").

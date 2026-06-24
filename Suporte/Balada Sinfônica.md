@@ -43,8 +43,8 @@ Aumenta a [DEFM](../Sem%20categoria/DEFM.md "DEFM") e a resistência às proprie
 - O valor não é exibido na janela de [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos").
 - A resistência é cumulativa com bônus semelhantes de equipamentos.
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Ritmo Contagiante](../images/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
-  - [![Serenata ao Luar](../images/3/3f/Serenata_ao_Luar.png)](Serenata%20ao%20Luar.md "Serenata ao Luar") [Serenata ao Luar](Serenata%20ao%20Luar.md "Serenata ao Luar")
+  - [![Ritmo Contagiante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
+  - [![Serenata ao Luar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Serenata_ao_Luar.png)](Serenata%20ao%20Luar.md "Serenata ao Luar") [Serenata ao Luar](Serenata%20ao%20Luar.md "Serenata ao Luar")
 - Equipamentos relacionados:
   - ![5758.png](http://static.divine-pride.net/images/items/item/5758.png) [Súplica do Cisne](http://www.divine-pride.net/database/item/5758/) [[1]](#cite_note-1)
 - Sombrios relacionados:

@@ -27,10 +27,10 @@ Aumenta o dano, a duração e a regeneração de [AP](../Sem%20categoria/AP.md "
 
 ### Armadilhas Avançadas
 
-- [![Armadilha Terrestre](../images/9/9c/Armadilha_Terrestre.png)](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre") [Armadilha Terrestre](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre")
-- [![Armadilha Ardente](../images/9/98/Armadilha_Ardente.png)](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente") [Armadilha Ardente](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente")
-- [![Armadilha Sombria](../images/0/08/Armadilha_Sombria.png)](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria") [Armadilha Sombria](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria")
-- [![Armadilha Zéfira](../images/d/d3/Armadilha_Z%C3%A9fira.png)](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira") [Armadilha Zéfira](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira")
+- [![Armadilha Terrestre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Armadilha_Terrestre.png)](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre") [Armadilha Terrestre](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre")
+- [![Armadilha Ardente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/Armadilha_Ardente.png)](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente") [Armadilha Ardente](../Ofensiva/Armadilha%20Ardente.md "Armadilha Ardente")
+- [![Armadilha Sombria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Armadilha_Sombria.png)](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria") [Armadilha Sombria](../Ofensiva/Armadilha%20Sombria.md "Armadilha Sombria")
+- [![Armadilha Zéfira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Armadilha_Z%C3%A9fira.png)](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira") [Armadilha Zéfira](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira")
 
 ## Notas
 

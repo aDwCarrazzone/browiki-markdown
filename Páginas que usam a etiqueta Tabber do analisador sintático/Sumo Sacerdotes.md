@@ -53,7 +53,7 @@ Sua jornada começa com seu personagem [renascido](../Quests%20de%20ca%C3%A7a/Re
 
 ### Árvore de habilidades
 
-![SkilltreeSumo Sacerdotes](../images/a/a8/SkilltreeSumo_Sacerdotes.png)
+![SkilltreeSumo Sacerdotes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/SkilltreeSumo_Sacerdotes.png)
 
 ## Construção do Personagem
 

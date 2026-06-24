@@ -15,10 +15,10 @@
 
 1. Ofereça ajuda ao Pesquisador de Mora (mora 31,138)
 
-   :   ![MoraPesq01](../images/6/6a/MoraPesq01.png)
+   :   ![MoraPesq01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/MoraPesq01.png)
 2. Dirija-se ao lago no centro de [Mora](../Lugares%20em%20Ragnar%C3%B6k/Mora.md "Mora") e caminhe pela água em volta dos [NPCs](../Sem%20categoria/NPC.md "NPC") *???*.
 
-   :   ![MoraPesq02](../images/0/0d/MoraPesq02.png)
+   :   ![MoraPesq02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/MoraPesq02.png)
 
    - Preste atenção!
      - Continue caminhando pela água até aparecer o seguinte [broadcast](../Sem%20categoria/Broadcast.md "Broadcast"): `Você não pode mais usar o poder misterioso da água do banho`
@@ -29,7 +29,7 @@
      - Se surgir uma caixa para digitação, escreva qualquer coisa, não interfere na missão.
 3. Derrotando a Sombra na batalha, você receberá uma [Bolsa de Ferramentas de Pesquisa](http://www.divine-pride.net/database/item/6385/).
 
-   :   ![MoraPesq03](../images/e/e3/MoraPesq03.png)
+   :   ![MoraPesq03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/MoraPesq03.png)
 
    - Opções de batalha:
      - *Atacar com arma* causa 10 de dano.
@@ -50,7 +50,7 @@
     - Caso a amostra não satisfizer ao [NPC](../Sem%20categoria/NPC.md "NPC"), ele pedirá que você refaça essa etapa. Você ganhará 1 [Moeda de Mora](http://www.divine-pride.net/database/item/6380/) adicional.
 13. Converse com o Pesquisador para sua próxima tarefa: colher 4 [Amostras da Poça para Pesquisa](http://www.divine-pride.net/database/item/6389/) nas Poças d'água. Você receberá 1 [Tubo de Ensaio](http://www.divine-pride.net/database/item/1092/) e a *direção* da poça que ele deseja.
 
-    :   ![MoraPesq04](../images/f/f7/MoraPesq04.png)
+    :   ![MoraPesq04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/MoraPesq04.png)
 
     - Direções:
       - Leste (bif\_fild02 312,285)
@@ -63,7 +63,7 @@
     - Tome cuidado para não selecionar a opção "*Continuar incomodando*" após derrotá-la 30 vezes, pois isso fará a contagem de mortes ser reiniciada e será necessário derrotá-la outras 30 vezes.
 17. Encontre a família da Sombra em uma das 4 Poças d'água.
 
-    :   ![MoraPesq04](../images/f/f7/MoraPesq04.png)
+    :   ![MoraPesq04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/MoraPesq04.png)
 
     - Digite:
       - `Fishee`

@@ -37,7 +37,7 @@ O oponente passa a sofrer o efeito de *Negação Mágica*.
 
 ### Negação Mágica
 
-- **Ícone:** ![I Projeção Maldita](../images/a/af/I_Proje%C3%A7%C3%A3o_Maldita.png)
+- **Ícone:** ![I Projeção Maldita](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/I_Proje%C3%A7%C3%A3o_Maldita.png)
 - Cancela a [Imunidade Mágica](../Passiva/Imunidade%20M%C3%A1gica.md "Imunidade Mágica") do alvo.
 - Não pode ser removida por [Desencantar](../Ativa/Desencantar.md "Desencantar") ou [Gênese](../Ativa/G%C3%AAnese.md "Gênese").
 - A duração do efeito pode ser renovada.

@@ -36,11 +36,11 @@ Também diminui a [conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A
 
 ### Magias Fantasmas
 
-- [![Impacto Espiritual](../images/f/f5/Impacto_Espiritual.png)](../Ofensiva/Impacto%20Espiritual.md "Impacto Espiritual") [Impacto Espiritual](../Ofensiva/Impacto%20Espiritual.md "Impacto Espiritual")
-- [![Ataque Espiritual](../images/1/15/Ataque_Espiritual.png)](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual")
-- [![Espíritos Anciões](../images/4/49/Esp%C3%ADritos_Anci%C3%B5es.png)](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões")
-- [![Vulcão Napalm](../images/0/0c/Vulc%C3%A3o_Napalm.png)](../Ofensiva/Vulc%C3%A3o%20Napalm.md "Vulcão Napalm") [Vulcão Napalm](../Ofensiva/Vulc%C3%A3o%20Napalm.md "Vulcão Napalm")
-- [![Espíritos Ancestrais](../images/e/ef/Esp%C3%ADritos_Ancestrais.png)](../Ofensiva/Esp%C3%ADritos%20Ancestrais.md "Espíritos Ancestrais") [Espíritos Ancestrais](../Ofensiva/Esp%C3%ADritos%20Ancestrais.md "Espíritos Ancestrais")
+- [![Impacto Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Impacto_Espiritual.png)](../Ofensiva/Impacto%20Espiritual.md "Impacto Espiritual") [Impacto Espiritual](../Ofensiva/Impacto%20Espiritual.md "Impacto Espiritual")
+- [![Ataque Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Ataque_Espiritual.png)](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual")
+- [![Espíritos Anciões](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/49/Esp%C3%ADritos_Anci%C3%B5es.png)](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões")
+- [![Vulcão Napalm](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Vulc%C3%A3o_Napalm.png)](../Ofensiva/Vulc%C3%A3o%20Napalm.md "Vulcão Napalm") [Vulcão Napalm](../Ofensiva/Vulc%C3%A3o%20Napalm.md "Vulcão Napalm")
+- [![Espíritos Ancestrais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Esp%C3%ADritos_Ancestrais.png)](../Ofensiva/Esp%C3%ADritos%20Ancestrais.md "Espíritos Ancestrais") [Espíritos Ancestrais](../Ofensiva/Esp%C3%ADritos%20Ancestrais.md "Espíritos Ancestrais")
 
 ## Notas
 

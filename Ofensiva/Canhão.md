@@ -41,7 +41,7 @@ Causa dano físico a distância que ignora a [DEF](../Sem%20categoria/DEF.md "DE
 
 ### Bônus Mecatrônico
 
-- [![Fabricar Canhoneiro](../images/0/08/Fabricar_Canhoneiro.png)](../Ativa/Fabricar%20Canhoneiro.md "Fabricar Canhoneiro") [Fabricar Canhoneiro](../Ativa/Fabricar%20Canhoneiro.md "Fabricar Canhoneiro")
+- [![Fabricar Canhoneiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Fabricar_Canhoneiro.png)](../Ativa/Fabricar%20Canhoneiro.md "Fabricar Canhoneiro") [Fabricar Canhoneiro](../Ativa/Fabricar%20Canhoneiro.md "Fabricar Canhoneiro")
   - Passam a infligir 2 ataques, ao invés de 1.
 
 ## Notas

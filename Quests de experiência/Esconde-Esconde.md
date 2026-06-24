@@ -15,17 +15,17 @@
 
 1. Encontre Torpy (hugel 107,67)
 
-   :   ![Hugel01](../images/f/ff/Hugel01.png)
+   :   ![Hugel01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Hugel01.png)
 2. Localize a Mãe do Torpy (hu\_fild06 190,367)
 
-   :   ![Hugel02](../images/c/c8/Hugel02.png)
+   :   ![Hugel02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/Hugel02.png)
 3. Retorne a Torpy.
 4. Entregue as [Garras de Caranguejo no Vapor](http://www.divine-pride.net/database/item/12051/) ao Barril Suspeito (hugel 100,176)
 
-   :   ![Hugel03](../images/a/ab/Hugel03.png)
+   :   ![Hugel03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Hugel03.png)
 5. O pai da criança surgirá, fale com ele.
 
-   :   ![Hugel04](../images/7/7f/Hugel04.png)
+   :   ![Hugel04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Hugel04.png)
 6. Volte a Torpy.
 7. Converse com a Mãe do Torpy para receber sua premiação.
 8. Fale com Torpy.

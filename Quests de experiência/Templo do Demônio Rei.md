@@ -19,70 +19,70 @@
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.000.000 |
 | **[Itens](../Itens/Itens.md "Itens")** | 22567.png [Prêmios de Esquadrão](http://www.divine-pride.net/database/item/22567/) |
 
-[![DemonGodTemple](../images/5/5b/DemonGodTemple.jpg)](https://browiki.org/wiki/Arquivo%3ADemonGodTemple.jpg)
+[![DemonGodTemple](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/DemonGodTemple.jpg)](https://browiki.org/wiki/Arquivo%3ADemonGodTemple.jpg)
 
 O Templo do Demônio-Rei
 
 1. Procure pelo Comandante Hibba Agip (moro\_vol 108,88)
 
-   :   ![Demongod01](../images/5/5d/Demongod01.png)
+   :   ![Demongod01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Demongod01.png)
 2. Fale com o Ajudante Abidal (moro\_vol 110,90)
 
-   :   ![Demongod02](../images/c/cc/Demongod02.png)
+   :   ![Demongod02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Demongod02.png)
 
    - Este passo é opcional e pode ser refeito a cada 23 horas.
 3. Encontre Hisie (moro\_vol 95,108)
 
-   :   ![Demongod03](../images/b/b4/Demongod03.png)
+   :   ![Demongod03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Demongod03.png)
 
    - Este passo é opcional e pode ser refeito a cada 23 horas.
    - Se deseja fazê-lo, é necessário completar a missão [Pesquisador Avant](Pesquisador%20Avant.md "Pesquisador Avant") primeiro e, em seguida, falar com Avant ao lado de Hisie.
    - Hisie dará a missão para derrotar 3 tipos de Mana encontradas na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 4. Converse com a Guardiã Nidhogg (moro\_cav 45,75)
 
-   :   ![Demongod04](../images/1/15/Demongod04.png)
+   :   ![Demongod04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Demongod04.png)
 5. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") clicando no Broto de Yggdrasil.
 
-   :   ![Demongod05](../images/f/f9/Demongod05.png)
+   :   ![Demongod05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Demongod05.png)
 6. Na entrada do Templo, fale com o Apóstolo Ahat.
 
-   :   ![Demongod06](../images/e/e8/Demongod06.png)
+   :   ![Demongod06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Demongod06.png)
 7. Ao derrotar os apóstolos [Ahat](http://www.divine-pride.net/database/monster/3105/) e [Shenime](http://www.divine-pride.net/database/monster/3106/), o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") receberá a [Alma de Ahat](http://www.divine-pride.net/database/item/6713/) e a [Alma de Shenime](http://www.divine-pride.net/database/item/6714/). Esses itens devem ser colocados nos dois Globos da entrada para abrir o portal.
 
-   :   ![Demongod07](../images/3/31/Demongod07.png)
+   :   ![Demongod07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Demongod07.png)
 8. Fale com a Reencarnação de Morroc.
 
-   :   ![Demongod08](../images/e/ed/Demongod08.png)
+   :   ![Demongod08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Demongod08.png)
 9. Converse com Nidhogg, ela acompanhará você na forma de [assistente](../Sem%20categoria/Assistente.md "Assistente").
 
-   :   ![Demongod09](../images/d/d3/Demongod09.png)
+   :   ![Demongod09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Demongod09.png)
 10. Entre pelo portal da esquerda e elimine a [Brinaranha](http://www.divine-pride.net/database/monster/3091/).
     - Se a [Brinaranha](http://www.divine-pride.net/database/monster/3091/) sentir necessidade, ela reiniciará a luta, transferindo a quantia de [HP](../Sem%20categoria/HP.md "HP") restante para a nova [Brinaranha](http://www.divine-pride.net/database/monster/3091/).
     - É importante pegar os [Cristais Congelados](http://www.divine-pride.net/database/item/22566/) clicando nas Manas Cristalinas.
 
-      :   ![Demongod09ab](../images/8/8a/Demongod09ab.png)
+      :   ![Demongod09ab](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Demongod09ab.png)
 11. Fale com Nidhogg no final do corredor.
 
-    :   ![Demongod010a](../images/7/75/Demongod010a.png)
+    :   ![Demongod010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Demongod010a.png)
 
     - Se esta for sua primeira vez, você receberá 1.000.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e 500.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe.
 12. Reencontre a Reencarnação de Morroc e entre no portal da direita.
 13. Enfrente [Sköl](http://www.divine-pride.net/database/monster/3092/).
     - Quando o anúncio avisar que a lava está fluindo, clique na Lava e use o [Cristal Congelado](http://www.divine-pride.net/database/item/22566/).
 
-      :   ![Demongod011](../images/0/06/Demongod011.png)
+      :   ![Demongod011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Demongod011.png)
     - Se não endurecer a lava a tempo, o [Sköl](http://www.divine-pride.net/database/monster/3092/) ficará regenerando o [HP](../Sem%20categoria/HP.md "HP") continuamente.
     - Cuidado ao andarem pelo mapa, vocês perderão algumas quantias de [HP](../Sem%20categoria/HP.md "HP").
     - Neste mapa também haverá uma chance de receber o [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo") "*Queimadura*", que pode ser curado ao usar 1 [Cristal Congelado](http://www.divine-pride.net/database/item/22566/).
 14. Fale com Nidhogg no final do corredor.
 
-    :   ![Demongod012](../images/e/eb/Demongod012.png)
+    :   ![Demongod012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Demongod012.png)
 
     - Se esta for sua primeira vez, você receberá 1.000.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e 500.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe.
 15. Reencontre Morroc e entre no portal de cima.
 16. Elimine o [Jovem Morroc](http://www.divine-pride.net/database/monster/3096/).
 
-    :   ![Demongod013](../images/4/48/Demongod013.png)
+    :   ![Demongod013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Demongod013.png)
 
     - Durante a batalha, ele invocará dois [Morrocs](http://www.divine-pride.net/database/monster/3098/), um em cada ponta do mapa, e ficará regenerando o próprio [HP](../Sem%20categoria/HP.md "HP") continuamente.
     - Quando isso acontecer, é necessário parar de atacá-lo e derrotar os [Morrocs](http://www.divine-pride.net/database/monster/3098/) o mais depressa possível.
@@ -90,14 +90,14 @@ O Templo do Demônio-Rei
     - Ao derrotar o [Jovem Morroc](http://www.divine-pride.net/database/monster/3096/), ele reaparece na forma de [Deus Morroc](http://www.divine-pride.net/database/monster/3097/).
 17. Fale com Nidhogg para sair do Templo.
 
-    :   ![Demongod013a](../images/b/bd/Demongod013a.png)
+    :   ![Demongod013a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Demongod013a.png)
 18. Retorne ao Comandante Hibba Agip para receber 1 [Prêmio de Esquadrão](http://www.divine-pride.net/database/item/22567/).
     - Se esta for a primeira vez que você está fazendo a missão, você também receberá 1 [Pedaço de Alma do Lorde das Trevas](http://www.divine-pride.net/database/item/6715/).
 19. Se optou por fazer a missão do Ajudante Abidal, retorne ao [NPC](../Sem%20categoria/NPC.md "NPC") para receber 1 [Prêmio de Esquadrão](http://www.divine-pride.net/database/item/22567/).
 20. Se aceitou a missão de Hisie, retorne ao [NPC](../Sem%20categoria/NPC.md "NPC") para receber 1 [Prêmio de Esquadrão](http://www.divine-pride.net/database/item/22567/).
 21. Entregue o [Pedaço de Alma do Lorde das Trevas](http://www.divine-pride.net/database/item/6715/) para a Guardiã Nydhogg (moro\_vol 94,110)
 
-    :   ![Demongod014](../images/e/ed/Demongod014.png)
+    :   ![Demongod014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Demongod014.png)
 
     - A [NPC](../Sem%20categoria/NPC.md "NPC") avisará via [broadcast](../Sem%20categoria/Broadcast.md "Broadcast") a vitória contra o [Deus Morroc](http://www.divine-pride.net/database/monster/3097/) e fornecerá um bônus de 10% de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") para todos do seu [servidor](../Sem%20categoria/Servidor.md "Servidor") por 1 hora.
 

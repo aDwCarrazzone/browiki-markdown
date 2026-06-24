@@ -15,7 +15,7 @@
 
 1. Siga para a favela falando com o Guarda (lighthalzen 266,200)
 
-   :   ![Lhz01](../images/7/77/Lhz01.png)
+   :   ![Lhz01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Lhz01.png)
 
    - Normalmente, o [NPC](../Sem%20categoria/NPC.md "NPC") não permite sua entrada, exceto:
      - Clicar diversas vezes no Guarda até o diálogo mudar.
@@ -23,10 +23,10 @@
      - Ter o [Passe](http://www.divine-pride.net/database/item/7350/), dado como recompensa na missão [Três Amigos](../Quests%20de%20experi%C3%AAncia/Tr%C3%AAs%20Amigos.md "Três Amigos").
 2. Entregue 20 [jellopys](http://www.divine-pride.net/database/item/909/) após insistir a conversa com Espinha (lighthalzen 340,225)
 
-   :   ![Rekn01](../images/e/e2/Rekn01.png)
+   :   ![Rekn01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Rekn01.png)
 3. Espinha te mandará para a Sala Cúbica.
 
-   :   ![Salacubica](../images/a/aa/Salacubica.png)
+   :   ![Salacubica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Salacubica.png)
 
    - Ao chegar **não se mova**, digite `/where` para saber sua coordenada.
    - Compare a coordenada do seu personagem com uma das três abaixo e entre nos portais em sequência:
@@ -37,7 +37,7 @@
    - A próxima etapa envolve interagir com o cenário, preste atenção no diálogo, pois os itens citados não aparecem no inventário.
 4. Nessa nova sala, procure o *Cubo*:
 
-   :   ![Acesso ao Laboratório de Somatologiasala1](../images/b/b5/Acesso_ao_Laborat%C3%B3rio_de_Somatologiasala1.png)
+   :   ![Acesso ao Laboratório de Somatologiasala1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Acesso_ao_Laborat%C3%B3rio_de_Somatologiasala1.png)
 
    1. Monte de Arquivos: Examine os documentos para receber uma *Chave Vermelha*.
    2. Gaveteiro: Digite exatamente `Chave Vermelha` para receber um *Canivete*.
@@ -48,14 +48,14 @@
       - Digite `Bastão Longo` para receber um *Cubo*.
 5. Agora, encontre o *Polígono*:
 
-   :   ![SAcesso ao Laboratório de Somatologiasala2](../images/f/fa/SAcesso_ao_Laborat%C3%B3rio_de_Somatologiasala2.png)
+   :   ![SAcesso ao Laboratório de Somatologiasala2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/SAcesso_ao_Laborat%C3%B3rio_de_Somatologiasala2.png)
 
    1. Taça: Escolha "*Examinar Taça*" para receber uma *Chave Enferrujada*.
    2. Produtos Químicos: Digite `Chave Enferrujada` para ela se tornar uma *Chave Verde*.
    3. Gabinete: Digite `Chave Verde` para receber um *Polígono*.
 6. Por fim, ache o *Oval*:
 
-   :   ![Acesso ao Laboratório de Somatologiasala3](../images/d/de/Acesso_ao_Laborat%C3%B3rio_de_Somatologiasala3.png)
+   :   ![Acesso ao Laboratório de Somatologiasala3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/Acesso_ao_Laborat%C3%B3rio_de_Somatologiasala3.png)
 
    1. Baú: Selecione "*Pegar Machado*". Você receberá um *Machado*.
    2. Barril: Digite `Machado` para encontrar um teclado com 9 dígitos.
@@ -80,14 +80,14 @@
 9. Agora você pode acessar o calabouço por dois lugares:
    - Pelo Canal de Esgoto, na favela (lighthalzen 312,303)
 
-   :   :   ![Rekn02](../images/7/79/Rekn02.png)
+   :   :   ![Rekn02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Rekn02.png)
 
    - No Laboratório Regenschrim, dentro da Corporação Rekenber. Você precisará estar equipando um [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) e [Quatro-Olhos](http://www.divine-pride.net/database/item/2243/) (lhz\_in01 35,226)
      - Eles podem ser comprados no Vendedor de Óculos em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prt\_in 117,79)
 
-   :   :   ![Rekn03](../images/f/fc/Rekn03.png)
+   :   :   ![Rekn03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Rekn03.png)
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

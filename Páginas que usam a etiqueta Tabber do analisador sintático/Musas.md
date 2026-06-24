@@ -53,7 +53,7 @@ Forme uma dupla e libere todo o potencial da sua arte!
 
 ### Árvore de habilidades
 
-![SkilltreeMusasA](../images/d/d2/SkilltreeMusasA.png)
+![SkilltreeMusasA](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/SkilltreeMusasA.png)
 
 ## Construção do Personagem
 

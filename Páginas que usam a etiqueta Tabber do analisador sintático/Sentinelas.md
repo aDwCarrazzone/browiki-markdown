@@ -50,7 +50,7 @@ Mescle seus ataques à distância com sua habilidade de camuflagem para evitar o
 
 ### Árvore de habilidades
 
-![SkilltreeSentinelasA](../images/f/fe/SkilltreeSentinelasA.png)
+![SkilltreeSentinelasA](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/SkilltreeSentinelasA.png)
 
 ## Construção do Personagem
 

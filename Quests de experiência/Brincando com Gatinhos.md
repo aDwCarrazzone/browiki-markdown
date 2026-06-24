@@ -17,15 +17,15 @@
 
 1. Aceite o pedido de Harry (malangdo 165,222)
 
-   :   ![Babycats01](../images/c/cb/Babycats01.png)
+   :   ![Babycats01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Babycats01.png)
 2. Entregue a [Bolinha de Gude](http://www.divine-pride.net/database/item/746/) para Ízis (malangdo 212,202)
 
-   :   ![Babycats02](../images/0/05/Babycats02.png)
+   :   ![Babycats02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Babycats02.png)
 
    - Você receberá 30 [Peixes Enlatados de Malangdo](http://www.divine-pride.net/database/item/12636/) e 1 [Cartão de Aventura A](http://www.divine-pride.net/database/item/6428/).
 3. Clique na Bússola Iniciante (malangdo 21,204)
 
-   :   ![Babycats0dgf](../images/e/ed/Babycats0dgf.png)
+   :   ![Babycats0dgf](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Babycats0dgf.png)
 
    - Antes de iniciar esse passo, é recomendável conhecer o local das bússolas para não perder tempo.
    - Sua missão é percorrer pela ilha encontrando Bússolas. Ao iniciar a corrida, pontos coloridos serão exibidos no mini-mapa e você só terá 3 minutos.
@@ -39,22 +39,22 @@
      - Bússola das Nuvens (malangdo 111,17)
      - Bússola da Chama Vermelha (malangdo 213,89)
 
-   :   ![Brincando com gatinhos004](../images/3/3f/Brincando_com_gatinhos004.png) ![Babycats0a](../images/e/e0/Babycats0a.png)
-   :   ![Babycats03](../images/c/c6/Babycats03.png) ![Babycats0c](../images/b/bb/Babycats0c.png)
-   :   ![Babycats0d](../images/1/12/Babycats0d.png) ![Babycats04](../images/3/39/Babycats04.png)
+   :   ![Brincando com gatinhos004](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Brincando_com_gatinhos004.png) ![Babycats0a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Babycats0a.png)
+   :   ![Babycats03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Babycats03.png) ![Babycats0c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Babycats0c.png)
+   :   ![Babycats0d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Babycats0d.png) ![Babycats04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Babycats04.png)
 4. Retorne a Ízis.
    - Se não conseguir resolver tudo dentro do tempo, tente a corrida novamente.
    - Em caso de sucesso, você receberá o [Cartão de Aventura B](http://www.divine-pride.net/database/item/6429/).
 5. Localize o Detetive (malangdo 173,178)
 
-   :   ![Babycats05](../images/f/fb/Babycats05.png)
+   :   ![Babycats05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Babycats05.png)
 
    - Selecione:
      - *Ízis e Maria Eduarda?*
      - *Apenas Ficar com Eles*
 6. Insira o [Cartão de Aventura B](http://www.divine-pride.net/database/item/6429/) na Máquina Barulhenta (malangdo 174,175)
 
-   :   ![Babycats06](../images/2/2a/Babycats06.png)
+   :   ![Babycats06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Babycats06.png)
 
    - Você deve prestar atenção na sequência de cores. É extremamente recomendável anotá-las.
    - São 4 sequências: de 2 cores; de 4 cores; de 6 cores e de 8 cores.
@@ -73,9 +73,9 @@
    5. ?? (mal\_in02 113,56)
    6. Janela de Ventilação (mal\_in02 138,31)
 
-      :   ![Brincando com gatinhosap](../images/2/2d/Brincando_com_gatinhosap.png) ![Brincando com gatinhosbp](../images/8/8b/Brincando_com_gatinhosbp.png)
-      :   ![Brincando com gatinhoscp](../images/7/7f/Brincando_com_gatinhoscp.png) ![Brincando com gatinhosdp](../images/e/ea/Brincando_com_gatinhosdp.png)
-      :   ![Brincando com gatinhosep](../images/4/47/Brincando_com_gatinhosep.png) ![Brincando com gatinhoshp](../images/6/63/Brincando_com_gatinhoshp.png)
+      :   ![Brincando com gatinhosap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Brincando_com_gatinhosap.png) ![Brincando com gatinhosbp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Brincando_com_gatinhosbp.png)
+      :   ![Brincando com gatinhoscp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Brincando_com_gatinhoscp.png) ![Brincando com gatinhosdp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Brincando_com_gatinhosdp.png)
+      :   ![Brincando com gatinhosep](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Brincando_com_gatinhosep.png) ![Brincando com gatinhoshp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Brincando_com_gatinhoshp.png)
 9. Ao coletar 6 [Pedaços de Pintura](http://www.divine-pride.net/database/item/6430/), fale com o Detetive (malangdo 173,178)
 10. Converse com Ízis (malangdo 212,202)
 11. Entregue a pintura ao Gato Especialista (malangdo 165,222)

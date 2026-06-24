@@ -54,7 +54,7 @@ Melhore seus poderes físicos para que ultrapassem os limites humanos e assim to
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeShurasnew](../images/6/68/SkilltreeShurasnew.png)
+![SkilltreeShurasnew](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/SkilltreeShurasnew.png)
 
 ## Construção do Personagem
 

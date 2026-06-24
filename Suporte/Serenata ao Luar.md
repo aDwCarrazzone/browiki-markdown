@@ -38,8 +38,8 @@ Aumenta o [ATQM](../Sem%20categoria/ATQM.md "ATQM") dos membros do [grupo](../In
 ## Notas
 
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Ritmo Contagiante](../images/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
-  - [![Balada Sinfônica](../images/b/b5/Balada_Sinf%C3%B4nica.png)](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica") [Balada Sinfônica](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica")
+  - [![Ritmo Contagiante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Ritmo_Contagiante.png)](Ritmo%20Contagiante.md "Ritmo Contagiante") [Ritmo Contagiante](Ritmo%20Contagiante.md "Ritmo Contagiante")
+  - [![Balada Sinfônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Balada_Sinf%C3%B4nica.png)](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica") [Balada Sinfônica](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica")
 - Armas relacionadas:
   - ![1990.png](http://static.divine-pride.net/images/items/item/1990.png) [Microfone Floral](http://www.divine-pride.net/database/item/1990/)
 - Sombrios relacionados:

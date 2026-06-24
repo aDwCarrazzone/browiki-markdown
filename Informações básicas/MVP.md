@@ -12,16 +12,16 @@ O campeão receberá um valor de [EXP](../Sem%20categoria/EXP.md "EXP") integral
 
 MVPs também possuem uma lista especial de [itens](../Itens/Itens.md "Itens") adicionados diretamente no inventário do personagem.
 
-![MvP1](../images/6/60/MvP1.png) ![MvPlro](../images/e/ea/MvPlro.png)
+![MvP1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/MvP1.png) ![MvPlro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/MvPlro.png)
 
 ## Informações
 
-- São identificados com uma Caveira Dourada ao lado do nome.![MonstroMVP](../images/5/53/MonstroMVP.png)
+- São identificados com uma Caveira Dourada ao lado do nome.![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png)
 - São livres para todos os personagens, qualquer um poderá atacá-lo sem infringir as regras do jogo.
 - Ao renascer, eles têm um atraso de **0 a 10 minutos** do tempo de renascimento oficial.
 - Todo MVP deixa um túmulo ao morrer, informando data, hora e nome do personagem que o derrotou.
 
-:   ![MvP2](../images/2/26/MvP2.gif)
+:   ![MvP2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/MvP2.gif)
 
 - **Características**:
   - Não podem ser [empurrados](Categoria-Habilidades que empurram.md "Categoria:Habilidades que empurram") ou sofrer [efeitos negativos](Efeitos%20negativos.md "Efeitos negativos").

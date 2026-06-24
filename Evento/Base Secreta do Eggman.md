@@ -19,10 +19,10 @@
 
 1. Dentro da Biblioteca oeste de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), clique em **???** (prt\_in 178,105) e aceite a força desconhecida para gerar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![VRsonic01](../images/4/4e/VRsonic01.png)
+   :   ![VRsonic01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/VRsonic01.png)
 2. Dentro da Base Secreta, fale com Sonic e prossiga.
 
-   :   ![VRsonic02](../images/2/27/VRsonic02.png)
+   :   ![VRsonic02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/VRsonic02.png)
 
    1. A [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") toda é intuitiva, basta seguir os balões de *quest*.
    2. Siga eliminando os monstros que aparecerem: [Selvagem Manipulado](http://www.divine-pride.net/database/monster/22249/), [Angeling Manipulado](http://www.divine-pride.net/database/monster/22250/), [Esporo Manipulado](http://www.divine-pride.net/database/monster/22248/), [Aquecedor Manipulado](http://www.divine-pride.net/database/monster/22251/) e [Megalith Manipulado](http://www.divine-pride.net/database/monster/22247/)
@@ -40,7 +40,7 @@
    - Para conseguir o [Emblema Sonic](http://www.divine-pride.net/database/item/1001549/), você deve comprá-lo na [Loja de JoyCoins](#Promoção_especial).
 3. Após finalizar o [Livro Fantástico](../Sem%20categoria/Livro%20Fant%C3%A1stico.md "Livro Fantástico"), Sonic e sua turma aparecerão na Biblioteca.
 
-   :   ![VRsonic03](../images/2/2c/VRsonic03.png)
+   :   ![VRsonic03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/VRsonic03.png)
 
    - Você poderá repetir a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") clicando no Livro.
    - Ela pode ser repetida após 4 horas da manhã.

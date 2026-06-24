@@ -17,12 +17,12 @@
 
 1. Fale com Mariaju (pay\_arche 44,124) para gerar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância")
 
-   :   ![Cripta01](../images/9/94/Cripta01.png)
+   :   ![Cripta01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Cripta01.png)
 2. Dentro da Cripta, fale novamente com a [NPC](../Sem%20categoria/NPC.md "NPC") e escolha o nível de dificuldade entre 60 a 160.
 3. O mapa invocará [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para você caçar de acordo com o nível de dificuldade escolhido, independente do seu nível de base.
 4. Após um certo número de caçadas, aparece um Baú de Tesouro que derruba *Poções Menores*.
 
-   :   ![Cripta021](../images/8/83/Cripta021.png)
+   :   ![Cripta021](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Cripta021.png)
 
    1. (1@md\_pay 99,172)
    2. (1@md\_pay 235,60)

@@ -17,55 +17,55 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Jiraiya (iz\_ac02 140,139)
 
-   :   ![Aca ninja01](../images/f/f5/Aca_ninja01.png)
+   :   ![Aca ninja01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Aca_ninja01.png)
 
    - Ao selecionar "*Quero praticar um pouco*", você recebe o [Manual do Ninja](http://www.divine-pride.net/database/item/2940/) e 10 [Shuriken de Iniciante](http://www.divine-pride.net/database/item/13295/).
    - Se você tiver alcançado o nível de classe 10, selecione "*Me tornarei Ninja!*" para viajar à [Amatsu](../Lugares%20em%20Ragnar%C3%B6k/Amatsu.md "Amatsu").
    - Esse passo é opcional, mas ajuda a chegar mais rápido na guilda dos arqueiros.
 2. Na Guilda dos Ninjas, atravesse a parede falsa (que\_ng 31,65)
 
-   :   ![Qninja3](../images/4/40/Qninja3.png)
+   :   ![Qninja3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Qninja3.png)
 3. Para atravessar, basta mover o mouse para trás da parede.
 
-   :   ![Qninja4](../images/1/12/Qninja4.png)
+   :   ![Qninja4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Qninja4.png)
 
    - Se você não estiver conseguindo passar, aguarde alguns minutos para que o [NPC](../Sem%20categoria/NPC.md "NPC") do caminho desapareça.
    - No final da escadaria, entre no portal à frente das escadas (não o da lateral)
    - Ao se aproximar das coordenadas, seu personagem ficará atordoado.
 4. Aproxime-se do Homem-Puma (que\_ng 31,65)
 
-   :   ![Qninja5](../images/5/5f/Qninja5.png)
+   :   ![Qninja5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Qninja5.png)
 
    - Seu personagem sofrerá de uma breve [cegueira](../Sem%20categoria/Cegueira.md "Cegueira").
    - Fale novamente com o [NPC](../Sem%20categoria/NPC.md "NPC") para teleportar seu personagem para [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
 5. Em [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch"), aceite ajudar o Homem Suspeito.
 
-   :   ![Qninja7](../images/3/3d/Qninja7.png)
+   :   ![Qninja7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Qninja7.png)
 6. Para sair da torre, fale com Morei.
 
-   :   ![Qninja8](../images/a/a0/Qninja8.png)
+   :   ![Qninja8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Qninja8.png)
 7. Localize o Monte de Terra (ein\_fild08 137,45)
 
-   :   ![Qninja9](../images/0/0c/Qninja9.png)
+   :   ![Qninja9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Qninja9.png)
 
    - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") desse mapa não são agressivos, mas são de nível muito maior que o seu. Não os ataque!
    - Fique insistindo nesta etapa até o diálogo avisar que você conseguiu.
 8. Para chegar no topo da torre de [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch"), pague 10 [zenys](../Sem%20categoria/Zenys.md "Zenys") a Oberu (einbroch 172,229) ou Khemko (einbroch 176,172).
 
-   :   ![Qninja6](../images/3/3f/Qninja6.png)
+   :   ![Qninja6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Qninja6.png)
 9. Retorne ao Homem Suspeito na Torre de [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch") e fale mais de uma vez para voltar a [Amatsu](../Lugares%20em%20Ragnar%C3%B6k/Amatsu.md "Amatsu").
 
-   :   ![Qninja7](../images/3/3d/Qninja7.png)
+   :   ![Qninja7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Qninja7.png)
 10. Converse mais de uma vez com o Homem-Puma (que\_ng 31,65)
 
-    :   ![Qninja5](../images/5/5f/Qninja5.png)
+    :   ![Qninja5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Qninja5.png)
 
     - Responda "*Sim*" para mudar de classe.
     - Mudando de Classe na Guilda, você recebe:
       - ![13010.png](http://static.divine-pride.net/images/items/item/13010.png) 1 [Asura](http://www.divine-pride.net/database/item/13010/)
 11. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
       - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -79,7 +79,7 @@
 
 1. Na Guilda dos Ninjas, converse com Hono (iz\_ng01 25,67)
 
-   :   ![Tu Ninja1](../images/0/09/Tu_Ninja1.png)
+   :   ![Tu Ninja1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Tu_Ninja1.png)
 
    - A sala dele está localizada no portal à esquerda da escadaria da guilda.
    - Selecionando "*Explicações sobre a classe*" e depois escolhendo cada uma das opções, você recebe 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 100 de [EXP](../Sem%20categoria/EXP.md "EXP") base e 80 de classe de cada opção que você selecionar.
@@ -89,7 +89,7 @@
    - As missões podem ser repetidas quantas vezes quiser até o nível de classe 40.
 2. Alguns monstros das missões estão dentro do Quadro Estranho (iz\_ng01 19,73)
 
-   :   ![Tu Ninja2](../images/e/ed/Tu_Ninja2.png)
+   :   ![Tu Ninja2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Tu_Ninja2.png)
 
 :   :   :   | Missão | Objetivo | Recompensa |
             | --- | --- | --- |
@@ -101,7 +101,7 @@
 
 :   :   3. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

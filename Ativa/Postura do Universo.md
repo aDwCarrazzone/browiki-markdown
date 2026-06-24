@@ -30,11 +30,11 @@ A cada nível, aumenta todos os seus [atributos](../Informa%C3%A7%C3%B5es%20b%C3
 
 ### Habilidades Universais
 
-- [![Hipernova](../images/6/67/Hipernova.png)](../Ofensiva/Hipernova.md "Hipernova") [Hipernova](../Ofensiva/Hipernova.md "Hipernova")
-- [![Controle Gravitacional](../images/2/23/Controle_Gravitacional.png)](../Ofensiva/Controle%20Gravitacional.md "Controle Gravitacional") [Controle Gravitacional](../Ofensiva/Controle%20Gravitacional.md "Controle Gravitacional")
-- [![Advento Imperial](../images/f/f7/Advento_Imperial.png)](../Ofensiva/Advento%20Imperial.md "Advento Imperial") [Advento Imperial](../Ofensiva/Advento%20Imperial.md "Advento Imperial")
-- [![Livro da Criação](../images/7/7f/Livro_da_Cria%C3%A7%C3%A3o.png)](../Ofensiva/Livro%20da%20Cria%C3%A7%C3%A3o.md "Livro da Criação") [Livro da Criação](../Ofensiva/Livro%20da%20Cria%C3%A7%C3%A3o.md "Livro da Criação")
-- [![Livro das Dimensões](../images/0/04/Livro_das_Dimens%C3%B5es.png)](Livro%20das%20Dimens%C3%B5es.md "Livro das Dimensões") [Livro das Dimensões](Livro%20das%20Dimens%C3%B5es.md "Livro das Dimensões")
+- [![Hipernova](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Hipernova.png)](../Ofensiva/Hipernova.md "Hipernova") [Hipernova](../Ofensiva/Hipernova.md "Hipernova")
+- [![Controle Gravitacional](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Controle_Gravitacional.png)](../Ofensiva/Controle%20Gravitacional.md "Controle Gravitacional") [Controle Gravitacional](../Ofensiva/Controle%20Gravitacional.md "Controle Gravitacional")
+- [![Advento Imperial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Advento_Imperial.png)](../Ofensiva/Advento%20Imperial.md "Advento Imperial") [Advento Imperial](../Ofensiva/Advento%20Imperial.md "Advento Imperial")
+- [![Livro da Criação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Livro_da_Cria%C3%A7%C3%A3o.png)](../Ofensiva/Livro%20da%20Cria%C3%A7%C3%A3o.md "Livro da Criação") [Livro da Criação](../Ofensiva/Livro%20da%20Cria%C3%A7%C3%A3o.md "Livro da Criação")
+- [![Livro das Dimensões](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Livro_das_Dimens%C3%B5es.png)](Livro%20das%20Dimens%C3%B5es.md "Livro das Dimensões") [Livro das Dimensões](Livro%20das%20Dimens%C3%B5es.md "Livro das Dimensões")
 
 ## Notas
 

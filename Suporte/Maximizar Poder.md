@@ -39,7 +39,7 @@ Quando a duração acabar, sofre de Fadiga por 10 segundos.
 
 ### Fadiga
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Fadiga](../images/d/d8/I_Fadiga.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Fadiga](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/I_Fadiga.png)
 - Duração: 10 segundos
 - Exibe o emoticon `/gt` a cada 2 segundos.
 - [Velocidade de movimento](../Sem%20categoria/Velocidade%20de%20movimento.md "Velocidade de movimento") -25%

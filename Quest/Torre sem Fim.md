@@ -17,10 +17,10 @@
 
 1. Fale mais de uma vez com o Capitão Janssen e doe 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") pela viagem (alberta 214,78)
 
-   :   ![Torresf01](../images/7/70/Torresf01.png)
+   :   ![Torresf01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Torresf01.png)
 2. Ao chegar na [ilha Misty](http://www.divine-pride.net/database/map/e_tower/), entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Pedra de Proteção.
 
-   :   ![Torresf02a](../images/0/0f/Torresf02a.png)
+   :   ![Torresf02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Torresf02a.png)
 3. Seu objetivo é subir a torre eliminando todos os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") por andar.
    - A cada 5 andares, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") enfrentará alguns [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
    - A cada 25 andares, você recebe 1 [Cinza da Escuridão](http://www.divine-pride.net/database/item/6000/).
@@ -32,14 +32,14 @@
      - [Salto](../Ativa/Salto.md "Salto"), [Mordida Feroz](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz") e [Máscara da Tolice](../Ativa/M%C3%A1scara%20da%20Tolice.md "Máscara da Tolice")
 4. No topo da torre, após derrotar [Entweihen Crothen](http://www.divine-pride.net/database/monster/1957/), clique no Cristal Lúcido.
 
-   :   ![Torresf02b](../images/d/db/Torresf02b.png)
+   :   ![Torresf02b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Torresf02b.png)
 
    - Se esta for a sua primeira vez na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), ela termina aqui.
    - Da segunda vez em diante, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") seguirá para uma área dimensional.
    - Na área, derrote os lacaios e [Naght Sieger](http://www.divine-pride.net/database/monster/1956/).
 5. Assim que eliminar [Naght Sieger](http://www.divine-pride.net/database/monster/1956/), a Alma Desolada aparecerá.
 
-   :   ![Torresf02c](../images/f/f4/Torresf02c.png)
+   :   ![Torresf02c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Torresf02c.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") termina a instância e te teleporta de volta para [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta").
    - A Alma Desolada fabrica 1 [Terror Violeta](http://www.divine-pride.net/database/item/1185/) se você trouxer:
@@ -47,7 +47,7 @@
      - ![13413.png](http://static.divine-pride.net/images/items/item/13413.png) 1 [Lâmina Gêmea Vermelha](http://www.divine-pride.net/database/item/13413/)
 6. É possível usar as [Cinzas da Escuridão](http://www.divine-pride.net/database/item/6000/) para pular os andares, basta clicar no Braseiro Imortal na entrada do primeiro andar.
 
-   :   ![Torresf03](../images/4/4b/Torresf03.png)
+   :   ![Torresf03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Torresf03.png)
 
    - A quantidade de [Cinzas da Escuridão](http://www.divine-pride.net/database/item/6000/) determina o número de andares pulados:
      - Direto para o 26º andar: 1 [Cinza da Escuridão](http://www.divine-pride.net/database/item/6000/)

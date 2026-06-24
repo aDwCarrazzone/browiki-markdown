@@ -2,7 +2,7 @@
 
 # Culinária
 
-![Culinaria](../images/7/7c/Culinaria.gif)
+![Culinaria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Culinaria.gif)
 
 Em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online"), qualquer classe pode criar seus próprios pratos de comida, fornecendo bônus especiais nos [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") temporariamente, além de recuperar uma pequena quantidade de [HP](../Sem%20categoria/HP.md "HP").
 

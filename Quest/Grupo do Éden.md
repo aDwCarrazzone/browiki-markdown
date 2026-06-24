@@ -13,16 +13,16 @@
 
 1. Para acessar o local do Grupo, encontre a Oficial do Éden, que fica em qualquer cidade.
 
-   :   ![Valhalla1](../images/9/97/Valhalla1.png)
+   :   ![Valhalla1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Valhalla1.png)
 2. Lá dentro, inscreva-se com a Secretária Lenore para receber 1 [Emblema do Éden](http://www.divine-pride.net/database/item/22508/).
 
-   :   ![Valhalla2](../images/f/f9/Valhalla2.png)
+   :   ![Valhalla2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Valhalla2.png)
 3. Você já pode fazer as missões diárias nas Placas ou **adquirir [Equipamentos do Éden](Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden")**.
 
-   :   ![Valhalla8](../images/8/83/Valhalla8.png)
+   :   ![Valhalla8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Valhalla8.png)
 4. Nesse mesmo lugar, você também pode se afiliar ao [Sindicato das Cidades](../Quests%20de%20experi%C3%AAncia/Sindicato%20das%20Cidades.md "Sindicato das Cidades").
 
-   :   ![Sindicato1](../images/2/28/Sindicato1.png)
+   :   ![Sindicato1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Sindicato1.png)
 
 ## Missões por nível
 

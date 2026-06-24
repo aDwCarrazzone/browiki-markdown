@@ -25,8 +25,8 @@ Invoca um Carrasco das Sombras, criando uma cópia fiel à sua imagem.
 
 Enquanto estiver vivo, aumenta o dano das seguintes habilidades:
 
-- [![Impacto Brutal](../images/7/74/Impacto_Brutal.png)](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal") [Impacto Brutal](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal")
-- [![Talho Eterno](../images/e/ef/Talho_Eterno.png)](../Ofensiva/Talho%20Eterno.md "Talho Eterno") [Talho Eterno](../Ofensiva/Talho%20Eterno.md "Talho Eterno")
+- [![Impacto Brutal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Impacto_Brutal.png)](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal") [Impacto Brutal](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal")
+- [![Talho Eterno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Talho_Eterno.png)](../Ofensiva/Talho%20Eterno.md "Talho Eterno") [Talho Eterno](../Ofensiva/Talho%20Eterno.md "Talho Eterno")
 
 | Nv. | Duração |
 | --- | --- |

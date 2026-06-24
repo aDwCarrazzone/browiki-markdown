@@ -37,7 +37,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeCavaleiros](../images/9/96/SkilltreeCavaleiros.png)
+![SkilltreeCavaleiros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/SkilltreeCavaleiros.png)
 
 ## Construção do Personagem
 

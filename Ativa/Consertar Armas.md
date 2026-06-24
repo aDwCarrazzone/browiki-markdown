@@ -34,7 +34,7 @@ Conserta uma [arma](../Sem%20categoria/Arma.md "Arma") ou [equipamento](../Sem%2
 - Não recupera [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") perdidos em processos de [refinamento](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento").
 - Itens quebrados exibem nome vermelho na descrição:
 
-  :   ![EquipamentoQuebrado](../images/9/92/EquipamentoQuebrado.png)
+  :   ![EquipamentoQuebrado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/EquipamentoQuebrado.png)
 - Consumíveis relacionados:
   - ![14587.png](http://static.divine-pride.net/images/items/item/14587.png) [Perg. de Reparar Arma](http://www.divine-pride.net/database/item/14587/)
 

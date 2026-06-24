@@ -12,7 +12,7 @@ Níveis de base afetam a EXP ganha e a taxa de DROP dos [monstros](Monstros.md "
 
 ### Nível de Base
 
-![Niveldebase](../images/3/36/Niveldebase.gif)
+![Niveldebase](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Niveldebase.gif)
 
 É a medida principal de crescimento de um personagem, é aumentando o nível de base que você ganhará pontos para investir em [atributos](Atributos.md "Atributos").
 
@@ -30,7 +30,7 @@ Além disso, aumentar o nível de base libera o uso de [equipamentos](../Sem%20c
 
 ### Nível de Classe
 
-![Niveldeclasse](../images/a/ab/Niveldeclasse.gif)
+![Niveldeclasse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Niveldeclasse.gif)
 
 É o responsável pelas [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades") de um personagem e também possibilita a mudança de [classe](../Sem%20categoria/Classe.md "Classe").
 
@@ -90,7 +90,7 @@ Essa penalidade não é válida para [MVPs](MVP.md "MVP").
 
 Abaixo está o bônus de experiência de acordo com seu nível e do [monstro](../Sem%20categoria/Monstro.md "Monstro")
 
-![Nifeleim](../images/c/ca/Nifeleim.jpg)
+![Nifeleim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Nifeleim.jpg)
 
 | Diferença de nível | Experiência |
 | --- | --- |

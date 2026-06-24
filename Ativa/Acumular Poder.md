@@ -42,10 +42,10 @@ Após a amplificação, todos os pontos são consumidos.
 
 ### Habilidades Perfurantes
 
-- [![Perfurar](../images/5/57/Perfurar.png)](../Ofensiva/Perfurar.md "Perfurar") [Perfurar](../Ofensiva/Perfurar.md "Perfurar")
-- [![Perfurar em Espiral](../images/0/0b/Perfurar_em_Espiral.png)](../Ofensiva/Perfurar%20em%20Espiral.md "Perfurar em Espiral") [Perfurar em Espiral](../Ofensiva/Perfurar%20em%20Espiral.md "Perfurar em Espiral")
-- [![Lança das Mil Pontas](../images/f/f9/Lan%C3%A7a_das_Mil_Pontas.png)](../Ofensiva/Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas") [Lança das Mil Pontas](../Ofensiva/Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas")
-- [![Cólera Esmagadora](../images/0/08/C%C3%B3lera_Esmagadora.png)](../Ofensiva/C%C3%B3lera%20Esmagadora.md "Cólera Esmagadora") [Cólera Esmagadora](../Ofensiva/C%C3%B3lera%20Esmagadora.md "Cólera Esmagadora")
+- [![Perfurar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Perfurar.png)](../Ofensiva/Perfurar.md "Perfurar") [Perfurar](../Ofensiva/Perfurar.md "Perfurar")
+- [![Perfurar em Espiral](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Perfurar_em_Espiral.png)](../Ofensiva/Perfurar%20em%20Espiral.md "Perfurar em Espiral") [Perfurar em Espiral](../Ofensiva/Perfurar%20em%20Espiral.md "Perfurar em Espiral")
+- [![Lança das Mil Pontas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Lan%C3%A7a_das_Mil_Pontas.png)](../Ofensiva/Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas") [Lança das Mil Pontas](../Ofensiva/Lan%C3%A7a%20das%20Mil%20Pontas.md "Lança das Mil Pontas")
+- [![Cólera Esmagadora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/C%C3%B3lera_Esmagadora.png)](../Ofensiva/C%C3%B3lera%20Esmagadora.md "Cólera Esmagadora") [Cólera Esmagadora](../Ofensiva/C%C3%B3lera%20Esmagadora.md "Cólera Esmagadora")
 
 ## Notas
 

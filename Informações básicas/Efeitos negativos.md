@@ -2,7 +2,7 @@
 
 # Efeitos negativos
 
-[![CDSuporte](../images/b/b5/CDSuporte.jpg)](https://browiki.org/wiki/Arquivo%3ACDSuporte.jpg)
+[![CDSuporte](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/CDSuporte.jpg)](https://browiki.org/wiki/Arquivo%3ACDSuporte.jpg)
 
 Em algum momento, durante uma batalha, seu personagem pode receber ou infligir efeitos que serão decisivos para a vitória ou a derrota.
 
@@ -16,7 +16,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Alucinação Alucinação
 
-![EN Alucinação new](../images/e/e7/EN_Alucina%C3%A7%C3%A3o_new.png)
+![EN Alucinação new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/EN_Alucina%C3%A7%C3%A3o_new.png)
 
 - A tela do jogo fica invertida.
 - Números aleatórios de dano aparecem quando o usuário sofrer ataques, mas não são verdadeiros. Outros personagens poderão ver esses números.
@@ -36,7 +36,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Ardência Ardência
 
-![EN Ardência](../images/2/2a/EN_Ard%C3%AAncia.png)
+![EN Ardência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/EN_Ard%C3%AAncia.png)
 
 - Altera a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da armadura para [Fogo](../Sem%20categoria/Fogo.md "Fogo") 1.
 - A cada 3 segundos, drena 15% do [HP](../Sem%20categoria/HP.md "HP") máx. até restar 1 ponto.
@@ -56,7 +56,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Atordoamento Atordoamento
 
-![EN Atordoamento](../images/9/95/EN_Atordoamento.png)
+![EN Atordoamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/EN_Atordoamento.png)
 
 - [Esquiva](../Sem%20categoria/Esquiva.md "Esquiva") -100%.
 - Impossibilidade de se mover, atacar, pegar e consumir itens, usar habilidades, sentar e desconectar do jogo.
@@ -78,7 +78,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Azar Azar
 
-![EN Azar](../images/5/58/EN_Azar.png)
+![EN Azar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/EN_Azar.png)
 
 - Reduz a [Precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") para zero.
 - Tem 25% de chance de falhar ao conjurar [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades").
@@ -98,7 +98,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Caos Caos
 
-![EN Confusão](../images/3/35/EN_Confus%C3%A3o.png)
+![EN Confusão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Confus%C3%A3o.png)
 
 - Ao se locomover, vai para direções indesejadas.
 
@@ -118,7 +118,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## Cegueira
 
-![EN Cegueira](../images/a/a1/EN_Cegueira.png)
+![EN Cegueira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/EN_Cegueira.png)
 
 - [Precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") e a [Esquiva](../Sem%20categoria/Esquiva.md "Esquiva") -25%.
 - Reduz o campo de visão do personagem.
@@ -141,7 +141,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## Coma
 
-![EN Coma](../images/9/9e/EN_Coma.png)
+![EN Coma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/EN_Coma.png)
 
 - Reduz o [HP](../Sem%20categoria/HP.md "HP") para 1.
 - Reduz o [SP](../Sem%20categoria/SP.md "SP") para 0.
@@ -163,7 +163,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Concretamento Concretação
 
-![EN Concretamento](../images/b/b9/EN_Concretamento.png)
+![EN Concretamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/EN_Concretamento.png)
 
 - Reduz a [DEFM](../Sem%20categoria/DEFM.md "DEFM") para zero.
 - Altera a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da armadura para [Terra](../Sem%20categoria/Terra.md "Terra") 1.
@@ -185,7 +185,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Congelamento Congelamento
 
-![EN Congelamento](../images/d/d8/EN_Congelamento.png)
+![EN Congelamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/EN_Congelamento.png)
 
 - [Esquiva](../Sem%20categoria/Esquiva.md "Esquiva") -100%.
 - [DEF](../Sem%20categoria/DEF.md "DEF") -50%.
@@ -213,7 +213,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Cristalização Cristalização
 
-![EN Cristalização](../images/7/7f/EN_Cristaliza%C3%A7%C3%A3o.png)
+![EN Cristalização](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/EN_Cristaliza%C3%A7%C3%A3o.png)
 
 - Drena 2% do [HP](../Sem%20categoria/HP.md "HP") e 1% do [SP](../Sem%20categoria/SP.md "SP") a cada segundo.
 - Impossibilita atacar, mover, usar itens e habilidades.
@@ -239,7 +239,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Atormento Eletrificação
 
-![EN Atormento](../images/b/bc/EN_Atormento.png)
+![EN Atormento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/EN_Atormento.png)
 
 - Altera a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da armadura para [Vento](../Sem%20categoria/Vento.md "Vento") 1.
 - Impossibilidade de se mover, atacar, pegar e consumir itens, usar habilidades, sentar e desconectar do jogo.
@@ -261,7 +261,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Envenenamento Envenenamento
 
-![EN Envenenamento](../images/3/34/EN_Envenenamento.png)
+![EN Envenenamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/EN_Envenenamento.png)
 
 - [DEF](../Sem%20categoria/DEF.md "DEF") -25%.
 - Perde 1,5% do [HP](../Sem%20categoria/HP.md "HP") máx. a cada 2 segundos.
@@ -291,7 +291,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Envenenamento Mortal Envenenamento Mortal
 
-[![EN Envenenamento Mortal](../images/a/aa/EN_Envenenamento_Mortal.png)](https://browiki.org/wiki/Arquivo%3AEN_Envenenamento_Mortal.png)
+[![EN Envenenamento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/EN_Envenenamento_Mortal.png)](https://browiki.org/wiki/Arquivo%3AEN_Envenenamento_Mortal.png)
 
 - Em [monstros](Monstros.md "Monstros"):
   - [HP](../Sem%20categoria/HP.md "HP") máx. -15%.
@@ -316,7 +316,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Escuridão Escuridão
 
-![EN Escuridão](../images/a/a7/EN_Escurid%C3%A3o.png)
+![EN Escuridão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/EN_Escurid%C3%A3o.png)
 
 - Reduz o campo de visão do personagem.
 - Reduz a [Precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") e a [Esquiva perfeita](../Sem%20categoria/Esquiva%20perfeita.md "Esquiva perfeita") para zero.
@@ -335,7 +335,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Esfriamento Esfriamento
 
-![EN Esfriamento](../images/3/35/EN_Esfriamento.png)
+![EN Esfriamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Esfriamento.png)
 
 - [DEF](../Sem%20categoria/DEF.md "DEF") e [DEFM](../Sem%20categoria/DEFM.md "DEFM") -25%.
 - Altera a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da armadura para [Água](../Sem%20categoria/%C3%81gua.md "Água") 1.
@@ -355,7 +355,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Hipotermia Hipotermia
 
-![EN Hipotermia](../images/2/2d/EN_Hipotermia.png)
+![EN Hipotermia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/EN_Hipotermia.png)
 
 - [DEF](../Sem%20categoria/DEF.md "DEF") -10%.
 - [Movimento](../Sem%20categoria/Movimento.md "Movimento") -50%.
@@ -383,7 +383,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Incêndio Incêndio
 
-![EN Incêndio](../images/1/1a/EN_Inc%C3%AAndio.png)
+![EN Incêndio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/EN_Inc%C3%AAndio.png)
 
 - [DEFM](../Sem%20categoria/DEFM.md "DEFM") -25%.
 - Causa um dano fixo irredutível a cada 3 segundos.
@@ -412,7 +412,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Intoxicação Intoxicação
 
-![EN Intoxicação](../images/0/0c/EN_Intoxica%C3%A7%C3%A3o.png)
+![EN Intoxicação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/EN_Intoxica%C3%A7%C3%A3o.png)
 
 - Reduz a [DEF](../Sem%20categoria/DEF.md "DEF") para zero.
 - Recebe 25% a mais de dano da propriedade [Veneno](../Sem%20categoria/Veneno.md "Veneno").
@@ -434,7 +434,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Letargia Letargia
 
-![EN Letargia](../images/5/51/EN_Letargia.png)
+![EN Letargia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/EN_Letargia.png)
 
 - Reduz a velocidade de movimento.
 - Reduz o [CRIT](../Sem%20categoria/CRIT.md "CRIT") a zero.
@@ -455,7 +455,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Maldição Maldição
 
-![EN Maldição](../images/c/c7/EN_Maldi%C3%A7%C3%A3o.png)
+![EN Maldição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/EN_Maldi%C3%A7%C3%A3o.png)
 
 - [ATQ](../Sem%20categoria/ATQ.md "ATQ") -25%.
 - Reduz todos os pontos de [SOR](../Sem%20categoria/SOR.md "SOR") a zero.
@@ -483,7 +483,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Medo Medo
 
-![EN Medo](../images/4/43/EN_Medo.png)
+![EN Medo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/EN_Medo.png)
 
 - [Precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") e [Esquiva](../Sem%20categoria/Esquiva.md "Esquiva") -20%.
 - Impossibilidade de locomoção por um curto período de tempo.
@@ -504,7 +504,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Petrificação Petrificação
 
-![EN Petrificação new](../images/4/41/EN_Petrifica%C3%A7%C3%A3o_new.png)
+![EN Petrificação new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/EN_Petrifica%C3%A7%C3%A3o_new.png)
 
 - Possui 2 estágios:
   - Fase 1: é possível se locomover e usar itens, mas não poderá atacar ou usar [Habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades").
@@ -540,7 +540,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Mudez Quietude
 
-![EN Mudez](../images/5/5a/EN_Mudez.png)
+![EN Mudez](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/EN_Mudez.png)
 
 - [Velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") -50.
 - Impossibilita o uso de qualquer habilidade.
@@ -560,7 +560,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Sangramento Sangramento
 
-![EN Sangramento](../images/3/38/EN_Sangramento.png)
+![EN Sangramento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/EN_Sangramento.png)
 
 - Drena o [HP](../Sem%20categoria/HP.md "HP") rapidamente, podendo matar seu personagem.
 - Regeneração natural de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") -100%.
@@ -582,7 +582,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## Sedução
 
-![EN Sedução](../images/c/cf/EN_Sedu%C3%A7%C3%A3o.png)
+![EN Sedução](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/EN_Sedu%C3%A7%C3%A3o.png)
 
 **Descrição**
 
@@ -607,7 +607,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Silêncio Silêncio
 
-![EN Silêncio](../images/3/35/EN_Sil%C3%AAncio.png)
+![EN Silêncio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Sil%C3%AAncio.png)
 
 - Impossibilita o uso de qualquer [habilidade](../Sem%20categoria/Habilidade.md "Habilidade").
 - Exibe o emoticon `/...` em cima da cabeça do personagem.
@@ -628,7 +628,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Sono Sono
 
-![EN Sono](../images/7/77/EN_Sono.png)
+![EN Sono](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/EN_Sono.png)
 
 - Impossibilidade de se mover, atacar, pegar e usar itens, sentar e forçar desconexão.
 - Se um inimigo atacar você, a chance do ataque ser um [crítico](../Sem%20categoria/Cr%C3%ADtico.md "Crítico") é dobrada.
@@ -654,7 +654,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Sono Profundo Sono Profundo
 
-![EN Sono Profundo](../images/b/bd/EN_Sono_Profundo.png)
+![EN Sono Profundo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/EN_Sono_Profundo.png)
 
 - Impossibilita a conversa pelo chat.
 - A cada segundo, 2% do [HP](../Sem%20categoria/HP.md "HP") e do [SP](../Sem%20categoria/SP.md "SP") são recuperados.
@@ -679,7 +679,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 ## I Tristeza Tristeza
 
-![EN Tristeza](../images/0/01/EN_Tristeza.png)
+![EN Tristeza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/EN_Tristeza.png)
 
 - Triplica o consumo de [SP](../Sem%20categoria/SP.md "SP") das habilidades.
 - Drena 1% de [SP](../Sem%20categoria/SP.md "SP") a cada 3 segundos.

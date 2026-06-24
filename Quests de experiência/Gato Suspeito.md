@@ -16,7 +16,7 @@
 
 1. No [Modo Pesadelo](../Sem%20categoria/Modo%20Pesadelo.md "Modo Pesadelo") da Pirâmide, converse com o Gato Suspeito (moc\_prydn1 94,98)
 
-   :   ![GatoSuspeito2](../images/7/72/GatoSuspeito2.png)
+   :   ![GatoSuspeito2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/GatoSuspeito2.png)
 2. O [NPC](../Sem%20categoria/NPC.md "NPC") dará 2 missões diferentes, podendo ser escolhida separadamente:
    - Selecione *Eliminar Verit* para caçar 20 [Verits do Pesadelo](http://www.divine-pride.net/database/monster/2355/)
    - Selecione *Eliminar Múmias* para caçar 20 [Múmias Anciãs do Pesadelo](http://www.divine-pride.net/database/monster/2360/)

@@ -2,7 +2,7 @@
 
 # Lasagna
 
-[![Lasagna](../images/a/ae/Lasagna.jpg)](https://browiki.org/wiki/Arquivo%3ALasagna.jpg)
+[![Lasagna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Lasagna.jpg)](https://browiki.org/wiki/Arquivo%3ALasagna.jpg)
 
 Lasagna, a vila dos Doram.
 
@@ -49,7 +49,7 @@ Agora que uma rota segura até [Rune-Midgard](../Sem%20categoria/Rune-Midgard.md
 | Adestrador | Vende itens de [Mascotes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Mascotes.md "Mascotes") | (lasagna 179,176) |
 | Carnello | [Emancipação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Fam%C3%ADlia.md#Emancipação "Família") | (lasagna 100,200) |
 
-[![Ninhododragao](../images/7/79/Ninhododragao.jpg)](https://browiki.org/wiki/Arquivo%3ANinhododragao.jpg)
+[![Ninhododragao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Ninhododragao.jpg)](https://browiki.org/wiki/Arquivo%3ANinhododragao.jpg)
 
 O Ninho do Dragão
 
@@ -73,7 +73,7 @@ O Ninho do Dragão
 
 A **Família Chara** é especializada em coletar [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos"), criar [acessórios](../Sem%20categoria/Acess%C3%B3rios.md "Acessórios") e aprimorar Amuletos exclusivos para os [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores").
 
-![Oschara](../images/4/44/Oschara.png)
+![Oschara](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Oschara.png)
 
 ### Troca
 

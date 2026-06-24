@@ -2,7 +2,7 @@
 
 # Lago do Abismo
 
-[![AbyssLake](../images/4/4b/AbyssLake.jpg)](https://browiki.org/wiki/Arquivo%3AAbyssLake.jpg)
+[![AbyssLake](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/AbyssLake.jpg)](https://browiki.org/wiki/Arquivo%3AAbyssLake.jpg)
 
 O Lago do Abismo
 
@@ -24,7 +24,7 @@ A resposta está no centro do lugar: Há uma lenda entre os arruaceiros que diz 
 
 1. Para chegar ao centro do lago, encontre a Coluna (hu\_fild05 168,302)
 
-   :   ![Hugel001](../images/0/0c/Hugel001.png)
+   :   ![Hugel001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Hugel001.png)
 
    - Insira os seguintes itens:
      - ![1035.png](http://static.divine-pride.net/images/items/item/1035.png) 1 [Canino de Dragão](http://www.divine-pride.net/database/item/1035/)
@@ -35,16 +35,16 @@ A resposta está no centro do lugar: Há uma lenda entre os arruaceiros que diz 
    - Você pode [teleportar](../Ativa/Teleporte.md "Teleporte") para o centro, mas precisará entregar os itens para a coluna se deseja entrar no subterrâneo.
 3. Para sair da ilha central, clique na Coluna (hu\_fild05 171,211)
 
-   :   ![Hugel002](../images/3/37/Hugel002.png)
+   :   ![Hugel002](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Hugel002.png)
 4. Para acessar as profundezas, desça pela Corda (abyss\_03 91,110)
 
-   :   ![Abyss4](../images/2/2e/Abyss4.png)
+   :   ![Abyss4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Abyss4.png)
 
 ## Equipamentos Dracônicos
 
 1. Crie equipamentos dracônicos com Rúbia (hu\_in01 95,322)
 
-   :   ![SusanGrey](../images/2/25/SusanGrey.png)
+   :   ![SusanGrey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/SusanGrey.png)
 2. Cerúlio está ao lado de Rúbia e fornece 2 opções de troca de itens por [combinadores](../Itens/Combina%C3%A7%C3%A3o.md "Combinação") que fortalecem esses equipamentos.
 
 - Os equipamentos recebem 2 ou 3 [Bônus Aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios") de uma só vez e podem ser resetados quantas vezes você quiser.

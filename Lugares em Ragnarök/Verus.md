@@ -2,7 +2,7 @@
 
 # Verus
 
-[![Artwork Verus](../images/d/d3/Artwork_Verus.jpg)](https://browiki.org/wiki/Arquivo%3AArtwork_Verus.jpg)
+[![Artwork Verus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Artwork_Verus.jpg)](https://browiki.org/wiki/Arquivo%3AArtwork_Verus.jpg)
 
 Centro de Verus
 
@@ -42,7 +42,7 @@ Verus agora se transformou no maior sítio arqueológico da [República de Schwa
 | Sue Winterguard | Adiciona 1 [Slot](../Itens/Slot.md "Slot") nas armaduras refinadas no +9 ao custo de 300 [Componentes de Charleston](http://www.divine-pride.net/database/item/6752/):  - 15343.png [Peça de FOR Suplementar](http://www.divine-pride.net/database/item/15343/) [1] - 15344.png [Autopeça - Carburador](http://www.divine-pride.net/database/item/15344/) [1] | (verus04 75,114) |
 | Ingrata M | Troca 10 [Componentes de Charleston](http://www.divine-pride.net/database/item/6752/) pelos itens abaixo:  - 20732.png [Peça de VIT Suplementar](http://www.divine-pride.net/database/item/20732/) - 2995.png [Peça de DES Suplementar](http://www.divine-pride.net/database/item/2995/) - 22043.png [Peça de AGI Suplementar](http://www.divine-pride.net/database/item/22043/) - 2996.png [Autopeça - Exaustor](http://www.divine-pride.net/database/item/2996/) - 20733.png [Autopeça - Motor](http://www.divine-pride.net/database/item/20733/) - 22044.png [Autopeça - Acelerador](http://www.divine-pride.net/database/item/22044/)   Troca 15 [Componentes de Charleston](http://www.divine-pride.net/database/item/6752/) pelos itens abaixo:   - 23706.png [Componente Corporal](http://www.divine-pride.net/database/item/23706/) - 23707.png [Componente Certeiro](http://www.divine-pride.net/database/item/23707/) | (verus04 69,108) |
 
-[![Artwork Bunker](../images/a/a3/Artwork_Bunker.jpg)](https://browiki.org/wiki/Arquivo%3AArtwork_Bunker.jpg)
+[![Artwork Bunker](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Artwork_Bunker.jpg)](https://browiki.org/wiki/Arquivo%3AArtwork_Bunker.jpg)
 
 Interior do Abrigo Subterrâneo
 

@@ -16,7 +16,7 @@
 
 1. Para iniciar a missão, você deve fazer parte do Clã da Maça Dourada (prt\_in 37,114)
 
-   :   ![BejaminAire](../images/f/f7/BejaminAire.png)
+   :   ![BejaminAire](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/BejaminAire.png)
 2. Fale com o Líder do Clã Maça Dourada (prontera 226,355)
 3. Encontre a Garota Desajeitada (morocc\_in 72,167)
 4. Volte a falar com o Líder do Clã Maça Dourada (prontera 226,355)

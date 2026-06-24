@@ -21,7 +21,7 @@ Algumas missões exigem nível mínimo para serem iniciadas.
 
 - Você pode chegar na [Mansão de Varmunt](../Lugares%20em%20Ragnar%C3%B6k/Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt") através do Mago Nillem (pub\_cat 85,105).
 
-:   ![MagoNillemBala](../images/5/56/MagoNillemBala.png)
+:   ![MagoNillemBala](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/MagoNillemBala.png)
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |

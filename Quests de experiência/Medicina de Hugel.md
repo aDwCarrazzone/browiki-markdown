@@ -15,14 +15,14 @@
 
 1. Converse com Allen Schuwell (hu\_in01 387,245)
 
-   :   ![Humedci01](../images/2/2b/Humedci01.png)
+   :   ![Humedci01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Humedci01.png)
 2. Encontrem Postel Schuwell (hu\_fild06 34,123)
 
-   :   ![Humedci02](../images/3/3d/Humedci02.png)
+   :   ![Humedci02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Humedci02.png)
 3. Reencontre Allen Schuwell e entregue a [Poção Branca](http://www.divine-pride.net/database/item/504/). Continue conversando com o [NPC](../Sem%20categoria/NPC.md "NPC").
 4. Quando for pedido, aproxime-se da Gaveta de Cima (hu\_in 372,254)
 
-   :   ![Humedci03](../images/7/78/Humedci03.png)
+   :   ![Humedci03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Humedci03.png)
 5. Ande próximo a Allen Schuwell, ele perguntará sobre o remédio.
 6. Retorne a caminhar nas coordenadas da Gaveta de Cima para ler algo sobre [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen") ou sobre um livro que Allen guarda.
    - Você deve repetir esse procedimento (ir até a Gaveta e voltar ao Allen) até conseguir o remédio.

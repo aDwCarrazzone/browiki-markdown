@@ -12,13 +12,13 @@ Cada partida custa 500 [zenys](../Sem%20categoria/Zenys.md "Zenys") e o time ven
 
 - Para acessar o coliseu, pague 500 [zenys](../Sem%20categoria/Zenys.md "Zenys") para o Emissário Poring (prt\_fild08 159,371)
 
-  :   ![EmissarioPoring](../images/f/fc/EmissarioPoring.png)
+  :   ![EmissarioPoring](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/EmissarioPoring.png)
 
 ## Mecânica
 
 1. Entre na sala de chat do Poring Recruta para entrar na arena. A taxa de admissão é de 500 [zenys](../Sem%20categoria/Zenys.md "Zenys").
 
-   :   ![PoringRecruta](../images/5/55/PoringRecruta.png)
+   :   ![PoringRecruta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/PoringRecruta.png)
 
    - Os 10 personagens serão teleportados para uma área onde devem escolher seus times: Angeling ou Deviling.
 2. O líder do time terá 1 minuto para registrar o [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") com o Doppelganger.
@@ -41,13 +41,13 @@ Cada partida custa 500 [zenys](../Sem%20categoria/Zenys.md "Zenys") e o time ven
 6. Na nova sala, derrote o último Angeling/Deviling para receber suas [Moedas Poring](http://www.divine-pride.net/database/item/7539/).
 7. Para sair do coliseu, basta falar com Deviruchi.
 
-   :   ![DevilPoring](../images/5/56/DevilPoring.png)
+   :   ![DevilPoring](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/DevilPoring.png)
 
 ### Recompensas
 
 - Você pode trocar suas moedas com o Poring Vendedor no coliseu.
 
-  :   ![PoringVendedor](../images/1/14/PoringVendedor.png)
+  :   ![PoringVendedor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/PoringVendedor.png)
 
 :   :   | Item | Moedas |
         | --- | --- |

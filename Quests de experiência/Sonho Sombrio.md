@@ -18,14 +18,14 @@
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Runane e Mingmin (dali02 111,95)
 
-   :   ![ShadowDream01](../images/6/63/ShadowDream01.png)
+   :   ![ShadowDream01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/ShadowDream01.png)
 2. Dentro do lugar, fale com Runane para iniciar a história. A [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") consiste em 13 salas cheias de Peres: [Allegros](http://www.divine-pride.net/database/monster/3069/), [Sonatas](http://www.divine-pride.net/database/monster/3070/), [Adagios](http://www.divine-pride.net/database/monster/3071/) e [Minuetos](http://www.divine-pride.net/database/monster/3072/).
 3. Prossiga nas salas. O líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve andar ao redor dos cogumelos para invocar os Peres.
 
-   :   ![ShadowDream02](../images/d/da/ShadowDream02.png)
+   :   ![ShadowDream02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/ShadowDream02.png)
 4. Nas salas 5 e 10, fale com o Pere para invocar um [Sustenido](http://www.divine-pride.net/database/monster/3108/) ou um [Bemol](http://www.divine-pride.net/database/monster/3109/).
 
-   :   ![ShadowDream03](../images/3/3d/ShadowDream03.png)
+   :   ![ShadowDream03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/ShadowDream03.png)
 5. Na última sala, prepare-se para enfrentar o [Grand Pere](http://www.divine-pride.net/database/monster/3073/)
    - Elimine rapidamente os [Cogumelos Azuis](http://www.divine-pride.net/database/monster/3073/) para evitar que o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") seja curado.
    - Cuidado com a [Neblina de Veneno](../Habilidades%20de%20monstros/Neblina%20de%20Veneno.md "Neblina de Veneno") que é invocada ao redor do monstro.
@@ -43,7 +43,7 @@
    - Igu também funde os Pingentes do Caos e Harmonia em um ![2992.png](http://static.divine-pride.net/images/items/item/2992.png) [Pingente do Redemoinho](http://www.divine-pride.net/database/item/2992/)
 7. Fale com Novo Oz para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") e receber sua recompensa: [EXP](../Sem%20categoria/EXP.md "EXP") de base 1.500.000 e 500.000 de classe.
 
-   :   ![ShadowDream04](../images/2/2b/ShadowDream04.png)
+   :   ![ShadowDream04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/ShadowDream04.png)
 
 ## Bônus aleatórios
 

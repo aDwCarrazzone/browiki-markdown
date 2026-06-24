@@ -16,7 +16,7 @@
 
 1. Em [Brasilis](../Lugares%20em%20Ragnar%C3%B6k/Brasilis.md "Brasilis"), fale com o Gerente de Eventos (brasilis 246,323)
 
-   :   ![Carnaval 01](../images/b/b3/Carnaval_01.png)
+   :   ![Carnaval 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Carnaval_01.png)
 2. Dirija-se aos Montes de Areia, cada [NPC](../Sem%20categoria/NPC.md "NPC") pedirá um tipo de item.
    1. Monte de Areia (brasilis 295,87)
       - ![12008.png](http://static.divine-pride.net/images/items/item/12008.png) 10 [Aljava de Fogo](http://www.divine-pride.net/database/item/12008/)
@@ -50,7 +50,7 @@
 
 1. Fale com a Rainha da Bateria (brasilis 140,151)
 
-   :   ![Carnaval 02](../images/a/ab/Carnaval_02.png)
+   :   ![Carnaval 02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Carnaval_02.png)
 2. Você pode comprar um calçado com ela, e trocá-lo por uma versão mais forte.
    - Para a troca, você precisará deixar o item refinado no +10 por conta própria.
    - Ao trocar, você perderá [cartas](../Itens/Cartas.md "Cartas") e [refinos](../Sem%20categoria/Refinos.md "Refinos"). O calçado novo virá no +0.
@@ -64,7 +64,7 @@
 
 1. Fale com o Folclorista (brasilis 191,219)
 
-   :   ![Carnaval 03](../images/f/f9/Carnaval_03.png)
+   :   ![Carnaval 03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Carnaval_03.png)
 2. Uma vez por dia, você receberá 1 missão de caçada.
 3. Ao completá-la, sua recompensa dependerá de ter o [Passe de Carnaval](http://www.divine-pride.net/database/item/1002641/) no inventário.
 4. **Atenção!**
@@ -92,7 +92,7 @@
 
 - Resgate recompensas na Máquina Carnavalesca (brasilis 237,324)
 
-  :   ![Carnaval 04](../images/c/ce/Carnaval_04.png)
+  :   ![Carnaval 04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Carnaval_04.png)
 - Você pode trocar 1 [Ticket Carnavalesco](http://www.divine-pride.net/database/item/7550/) por um prêmio aleatório.
 - Ou transformar seu Visual Carnavalesco em Equipamentos Carnavalescos.
 

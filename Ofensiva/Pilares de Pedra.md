@@ -45,7 +45,7 @@ Quanto maior o nível, mais pilares poderão ser erguidos.
 
 ### Potencialização
 
-- Essa habilidade pode atingir seu clímax a cada nível de [![Potencializar Magia](../images/4/49/Potencializar_Magia.png)](../Suporte/Potencializar%20Magia.md "Potencializar Magia") [Potencializar Magia](../Suporte/Potencializar%20Magia.md "Potencializar Magia").
+- Essa habilidade pode atingir seu clímax a cada nível de [![Potencializar Magia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/49/Potencializar_Magia.png)](../Suporte/Potencializar%20Magia.md "Potencializar Magia") [Potencializar Magia](../Suporte/Potencializar%20Magia.md "Potencializar Magia").
 - Seu solo mágico muda de cor conforme o nível usado.
 
 |  |  |

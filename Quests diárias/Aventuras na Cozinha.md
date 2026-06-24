@@ -16,12 +16,12 @@
 
 1. Encontre o Mestre dos Molhos (prt\_cas 319,211)
 
-   :   ![EmergeCu 03](../images/3/3d/EmergeCu_03.png)
+   :   ![EmergeCu 03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/EmergeCu_03.png)
 
    - Seu objetivo é conseguir fazer o molho com as indicações dadas no diálogo.
    - Após o diálogo citar o ingrediente, basta seguir até o [NPC](../Sem%20categoria/NPC.md "NPC") relacionado.
 
-     :   ![EmergeCu 03a](../images/c/cd/EmergeCu_03a.png)
+     :   ![EmergeCu 03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/EmergeCu_03a.png)
 
      - **Manteira** (losango): Sabor suave
      - **Gelatina de Poring** (triângulo): Sabor texturizado
@@ -43,13 +43,13 @@
 
 1. Fale com a Chef Mestra (prt\_cas 308,200)
 
-   :   ![EmergeCu 02](../images/d/d5/EmergeCu_02.png)
+   :   ![EmergeCu 02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/EmergeCu_02.png)
 2. Caminhe ao redor das coordenadas (prt\_cas 314,199)
 
-   :   ![EmergeCu 04](../images/3/38/EmergeCu_04.png)
+   :   ![EmergeCu 04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/EmergeCu_04.png)
 3. Após montar o prato, siga para o Grifo Grelhado (prt\_cas 361,124)
 
-   :   ![EmergeCu 05](../images/a/a1/EmergeCu_05.png)
+   :   ![EmergeCu 05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/EmergeCu_05.png)
 
    - Você receberá sua recompensa.
 
@@ -67,7 +67,7 @@
 
 1. Fale com o Lavador de Louças (prt\_cas 302,204)
 
-   :   ![EmergeCu 08](../images/8/81/EmergeCu_08.png)
+   :   ![EmergeCu 08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/EmergeCu_08.png)
 2. Colete 15 [Pratos Luxuosos](http://www.divine-pride.net/database/item/6935/) eliminando os [Pratos Luxuosos](http://www.divine-pride.net/database/monster/3455/) na Sala de Jantar (prt\_cas 370,170).
 3. Retorne ao Lavador de Louças para receber sua recompensa.
 

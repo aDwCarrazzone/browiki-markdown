@@ -52,7 +52,7 @@ Domine truques e furtividade para escapar de qualquer enrascada.
 
 ### Árvore de habilidades
 
-![SkilltreeRenegados](../images/d/d9/SkilltreeRenegados.png)
+![SkilltreeRenegados](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/SkilltreeRenegados.png)
 
 ## Construção do Personagem
 

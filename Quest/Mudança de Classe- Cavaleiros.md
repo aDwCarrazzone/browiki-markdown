@@ -16,10 +16,10 @@
 
 1. Inicie sua jornada se alistando com o Chefe dos Cavaleiros. (prt\_in 88,101)
 
-   :   ![Mudança de Classe- Cavaleiro01](../images/1/17/Mudan%C3%A7a_de_Classe-_Cavaleiro01.png)
+   :   ![Mudança de Classe- Cavaleiro01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Mudan%C3%A7a_de_Classe-_Cavaleiro01.png)
 2. Traga os itens pedidos pelo Cavaleiro Dedicado (prt\_in 75,107). Se seu nível de classe for 50, não há necessidade de entrega.
 
-   :   ![Mudança de Classe- Cavaleiro02](../images/7/73/Mudan%C3%A7a_de_Classe-_Cavaleiro02.png)
+   :   ![Mudança de Classe- Cavaleiro02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Mudan%C3%A7a_de_Classe-_Cavaleiro02.png)
 
    - Preste atenção ao diálogo, pois existem duas possibilidades:
      - Possibilidade 1:
@@ -38,7 +38,7 @@
        - ![946.png](http://static.divine-pride.net/images/items/item/946.png) 5 [Casco de Caramujo](http://www.divine-pride.net/database/item/946/)
 3. Responda corretamente as 8 perguntas do Cavaleiro Honroso. (prt\_in 71,91)
 
-   :   ![Mudança de Classe- Cavaleiro03](../images/d/d4/Mudan%C3%A7a_de_Classe-_Cavaleiro03.png)
+   :   ![Mudança de Classe- Cavaleiro03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Mudan%C3%A7a_de_Classe-_Cavaleiro03.png)
 
 :   :   | Perguntas | Respostas |
         | --- | --- |
@@ -53,7 +53,7 @@
 
 :   4. Inicie o teste prático com o Cavaleiro das Lutas (prt\_in 79,94). Seu objetivo é derrotar todos os monstros em 3 minutos.
 
-    :   ![Mudança de Classe- Cavaleiro04](../images/2/28/Mudan%C3%A7a_de_Classe-_Cavaleiro04.png)
+    :   ![Mudança de Classe- Cavaleiro04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Mudan%C3%A7a_de_Classe-_Cavaleiro04.png)
 
     - São 3 salas de teste:
       - Sala Terra: 2 [Andres](http://www.divine-pride.net/database/monster/1114/), 2 [Pieres](http://www.divine-pride.net/database/monster/1114/), 2 [Deniros](http://www.divine-pride.net/database/monster/1114/), 2 [Argos](http://www.divine-pride.net/database/monster/1114/)
@@ -62,7 +62,7 @@
 :   5. Confirme o sucesso do seu teste com o Cavaleiro das Lutas (prt\_in 79,94)
 :   6. Dirija-se até a Cavaleira Educada (prt\_in 69,107) para responder 10 questões, devendo acertar pelo menos 8. Nesse teste, existem **2 opções** de respostas certas.
 
-    :   ![Mudança de Classe- Cavaleiro07](../images/c/c0/Mudan%C3%A7a_de_Classe-_Cavaleiro07.png)
+    :   ![Mudança de Classe- Cavaleiro07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Mudan%C3%A7a_de_Classe-_Cavaleiro07.png)
 
 :   :   | Perguntas | Respostas (1 ou 2) |
         | --- | --- |
@@ -86,13 +86,13 @@
 
 :   7. Inicie um teste de paciência com o Cavaleiro Devotado (prt\_in 70,99)
 
-    :   ![Mudança de Classe- Cavaleiro08](../images/2/20/Mudan%C3%A7a_de_Classe-_Cavaleiro08.png)
+    :   ![Mudança de Classe- Cavaleiro08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Mudan%C3%A7a_de_Classe-_Cavaleiro08.png)
 
     1. Seu objetivo é permanecer em uma sala por 4 minutos **sem** atacar os monstros.
     2. Passado o tempo, confirme o resultado com o Cavaleiro Devotado (prt\_in 70,99)
 :   8. Responda um questionário com o Cavaleiro Modesto (prt\_in 87,92).
 
-    :   ![Mudança de Classe- Cavaleiro011](../images/5/59/Mudan%C3%A7a_de_Classe-_Cavaleiro011.png)
+    :   ![Mudança de Classe- Cavaleiro011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Mudan%C3%A7a_de_Classe-_Cavaleiro011.png)
 
 :   :   | Perguntas | Respostas |
         | --- | --- |
@@ -103,7 +103,7 @@
 
 :   9. Retorne ao Chefe dos Cavaleiros (prt\_in 88,101) para mudar sua classe e receber 7 [Poções do Despertar](http://www.divine-pride.net/database/item/656/).
 
-    :   ![Mudança de Classe- Cavaleiro01](../images/1/17/Mudan%C3%A7a_de_Classe-_Cavaleiro01.png)
+    :   ![Mudança de Classe- Cavaleiro01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Mudan%C3%A7a_de_Classe-_Cavaleiro01.png)
 
 | *A Justiça em Ação* | | |
 | --- | --- | --- |

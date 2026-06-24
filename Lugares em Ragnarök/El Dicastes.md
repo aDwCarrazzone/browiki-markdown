@@ -2,7 +2,7 @@
 
 # El Dicastes
 
-[![Artwork ElDicastes](../images/b/b7/Artwork_ElDicastes.png)](https://browiki.org/wiki/Arquivo%3AArtwork_ElDicastes.png)
+[![Artwork ElDicastes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Artwork_ElDicastes.png)](https://browiki.org/wiki/Arquivo%3AArtwork_ElDicastes.png)
 
 El Dicastes, a Capital de Jötunheimr
 
@@ -22,7 +22,7 @@ A [Agência Pata de Gato](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.
 | Map lupa | Guia |
 | Map lantern | Bar El Borracho | (dicastes01 136,106) |
 
-[![Artwork Diel](../images/2/2c/Artwork_Diel.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Diel.png)
+[![Artwork Diel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Artwork_Diel.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Diel.png)
 
 Diel, o castelo dos ministros
 

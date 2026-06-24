@@ -2,7 +2,7 @@
 
 # Ragnarök Online
 
-![Queststotais](../images/a/ae/Queststotais.jpg)
+![Queststotais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Queststotais.jpg)
 
 Ragnarök Online é desenvolvido pela empresa sul-coreana Gravity Corporation e inspirado na mitologia nórdica e nas histórias em quadrinhos escrita por Lee Myung-Jin.
 
@@ -17,7 +17,7 @@ Por ser um mundo aberto, Ragnarök Online te dá a liberdade para definir seus o
 - Disputas com outros personagens através da [Guerra do Emperium](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium") ou pelo [PvP](../PvP/PvP.md "PvP").
 - Mundos inteiros a serem explorados, conhecendo cidades, completando [missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") e enfrentando os poderosos [monstros chefes](MVP.md "MVP").
 
-:   [![JogueGratis](../images/1/12/JogueGratis.png)](https://member.gnjoylatam.com/pt/join?redirectUrl=https%3A%2F%2Fro.gnjoylatam.com%2Fprereservation)
+:   [![JogueGratis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/JogueGratis.png)](https://member.gnjoylatam.com/pt/join?redirectUrl=https%3A%2F%2Fro.gnjoylatam.com%2Fprereservation)
 
 ### Comece a jogar!
 
@@ -53,7 +53,7 @@ Não há nenhuma diferença entre os servidores, todos possuem as mesmas configu
 - Nem todos os mapas possuem canais, apenas os mais populares, como a Vila dos Orcs e a Cavena de Payon, por exemplo.
 - Para acessar um canal, clique no [NPC](../Sem%20categoria/NPC.md "NPC") de Canal.
 
-:   :   ![PortalDosCanais](../images/2/22/PortalDosCanais.png)
+:   :   ![PortalDosCanais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/PortalDosCanais.png)
 
 - Para saber que canal você está, digite `/where`, se o nome do mapa terminar com A, B ou C, você não está no mapa original.
   - Exemplo: `pay_dun00` é o mapa original e `pay_dun00a` é o mapa do canal A.
@@ -69,11 +69,11 @@ Não há nenhuma diferença entre os servidores, todos possuem as mesmas configu
   - Efeito da ![23203.png](http://static.divine-pride.net/images/items/item/23203.png) [Poção Menor de Mana](http://www.divine-pride.net/database/item/23203/)
   - A Kafra dos Biscoitos fica localizada no [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). (moc\_para01 41,21)
 
-:   :   :   ![KafraBiscoiteira](../images/e/e4/KafraBiscoiteira.png)
+:   :   :   ![KafraBiscoiteira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/KafraBiscoiteira.png)
 
 ## A História
 
-![ROLATAMpromo](../images/b/b7/ROLATAMpromo.jpg)
+![ROLATAMpromo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/ROLATAMpromo.jpg)
 
 A palavra *Ragnarök* é profetizada como o "destino final dos deuses", esse evento estaria se aproximando cada vez mais, onde a "era dos humanos" se iniciaria.
 

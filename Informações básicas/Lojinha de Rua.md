@@ -8,7 +8,7 @@ Conhecida como *Loja Offline*, as Lojinhas de Rua podem ser adquiridas através 
 
 Enquanto a lojinha de rua estiver ativa, seu personagem pode seguir livremente, podendo desconectar, relogar, sair do jogo e estudar, trocar de personagens e etc.
 
-![Lojinha Rua](../images/6/6d/Lojinha_Rua.gif)
+![Lojinha Rua](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Lojinha_Rua.gif)
 
 ## Informações
 

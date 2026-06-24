@@ -13,7 +13,7 @@ Game Masters são funcionários contratados pela *GnJoy LATAM* para trabalhar em
 
 Por ser uma autoridade em [Ragnarök](../Sem%20categoria/Ragnar%C3%B6k.md "Ragnarök"), os Game Masters possuem roupa própria e a sigla **[GM]** antes do nome.
 
-![GameMaster](../images/d/d6/GameMaster.png)
+![GameMaster](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/GameMaster.png)
 
 - Todas as mensagens públicas e o próprio nome dos Game Masters são exibidas em amarelo claro.
 - Um Game Master nunca pedirá [itens](../Itens/Itens.md "Itens") ou [zenys](../Sem%20categoria/Zenys.md "Zenys") ou detalhes da sua conta, como e-mail, senha, nome de usuário.

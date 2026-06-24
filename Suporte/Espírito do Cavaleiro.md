@@ -34,7 +34,7 @@ Concede efeitos positivos temporariamente a um [Cavaleiro](../Sem%20categoria/Ca
 ### Efeitos
 
 - Se tiver aprendido [Rapidez com Duas Mãos](Rapidez%20com%20Duas%20M%C3%A3os.md "Rapidez com Duas Mãos") nv. 10:
-- Habilita [![Rapidez com Uma Mão](../images/3/37/Rapidez_com_Uma_M%C3%A3o.png)](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão") [Rapidez com Uma Mão](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão").
+- Habilita [![Rapidez com Uma Mão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Rapidez_com_Uma_M%C3%A3o.png)](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão") [Rapidez com Uma Mão](Rapidez%20com%20Uma%20M%C3%A3o.md "Rapidez com Uma Mão").
 
 ## Notas
 

@@ -16,10 +16,10 @@ Impede que personagens possam reviver.
 
 Habilidades que não podem ser usadas:
 
-- [![Ressuscitar](../images/3/34/Ressuscitar.png)](../Suporte/Ressuscitar.md "Ressuscitar") [Ressuscitar](../Suporte/Ressuscitar.md "Ressuscitar")
-- [![Martírio](../images/b/b3/Mart%C3%ADrio.png)](../Suporte/Mart%C3%ADrio.md "Martírio") [Martírio](../Suporte/Mart%C3%ADrio.md "Martírio")
-- [![Réquiem de Orfeu](../images/b/bf/R%C3%A9quiem_de_Orfeu.png)](../Suporte/R%C3%A9quiem%20de%20Orfeu.md "Réquiem de Orfeu") [Réquiem de Orfeu](../Suporte/R%C3%A9quiem%20de%20Orfeu.md "Réquiem de Orfeu")
-- [![Epiclesis](../images/d/dc/Epiclesis.png)](../Suporte/Epiclesis.md "Epiclesis") [Epiclesis](../Suporte/Epiclesis.md "Epiclesis")
+- [![Ressuscitar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Ressuscitar.png)](../Suporte/Ressuscitar.md "Ressuscitar") [Ressuscitar](../Suporte/Ressuscitar.md "Ressuscitar")
+- [![Martírio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Mart%C3%ADrio.png)](../Suporte/Mart%C3%ADrio.md "Martírio") [Martírio](../Suporte/Mart%C3%ADrio.md "Martírio")
+- [![Réquiem de Orfeu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/R%C3%A9quiem_de_Orfeu.png)](../Suporte/R%C3%A9quiem%20de%20Orfeu.md "Réquiem de Orfeu") [Réquiem de Orfeu](../Suporte/R%C3%A9quiem%20de%20Orfeu.md "Réquiem de Orfeu")
+- [![Epiclesis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Epiclesis.png)](../Suporte/Epiclesis.md "Epiclesis") [Epiclesis](../Suporte/Epiclesis.md "Epiclesis")
 
 ## Notas
 

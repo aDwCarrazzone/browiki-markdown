@@ -15,25 +15,25 @@
 | **Chefe** | Monster CelineKimi [Celine Kimi](http://www.divine-pride.net/database/monster/2996/) |
 | **Recompensa** | 7642.png [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
 
-[![FabricaHorror1](../images/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
+[![FabricaHorror1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
 
 Mapa-Chave da Fábrica. Clique para ampliar.
 
 1. Ouça a história de Catherine Jet Johnson (xmas 237,303)
 
-   :   ![ToyHorror01](../images/a/a5/ToyHorror01.png)
+   :   ![ToyHorror01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/ToyHorror01.png)
 2. Acesse a fábrica pelo Teleportador da Fábrica.
 
-   :   ![ToyHorror02](../images/2/23/ToyHorror02.png)
+   :   ![ToyHorror02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/ToyHorror02.png)
 3. Esta instância é divida em 4 fases. Confira o Mapa-Chave ao lado para detalhes.
 
    :   **Fase 1**
 4. Fale com Catherine. Você pode optar por ouvir a história ou não.
 
-   :   ![ToyHorror03](../images/e/e5/ToyHorror03.png)
+   :   ![ToyHorror03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/ToyHorror03.png)
 5. Assim que aparecer, clique na Caixa de Uniformes ao lado da [NPC](../Sem%20categoria/NPC.md "NPC") para se transformar em um Cookie.
 
-   :   ![ToyHorror04](../images/d/da/ToyHorror04.png)
+   :   ![ToyHorror04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/ToyHorror04.png)
 
    - Informações:
      - Todos do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverão se disfarçar de Cookie, caso contrário, mais [Soldadinhos Corrompidos](http://www.divine-pride.net/database/monster/2990/) serão invocados no decorrer da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
@@ -42,19 +42,19 @@ Mapa-Chave da Fábrica. Clique para ampliar.
      - Nesta fase, aparecerão [Presente das Trevas](http://www.divine-pride.net/database/monster/2991/) e [Cookie Aterrorizante](http://www.divine-pride.net/database/monster/2989/)
 6. Após eliminar 40 monstros, mantenha-se na forma de Cookie para falar com o Operário Cookie.
 
-   :   ![ToyHorror05](../images/6/6f/ToyHorror05.png)
+   :   ![ToyHorror05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/ToyHorror05.png)
 7. Clique na Caixa de Uniformes ao lado para se transformar em um Presente.
 
-   :   ![ToyHorror06](../images/d/de/ToyHorror06.png)
+   :   ![ToyHorror06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/ToyHorror06.png)
 8. Entre no portal atrás do Cookie e siga reto pela esteira para a Fase 2.
 
    :   **Fase 2**
 9. Fale com Catherine. Você pode optar por ouvir as táticas dela ou não.
 
-   :   ![ToyHorror06a](../images/3/32/ToyHorror06a.png)
+   :   ![ToyHorror06a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/ToyHorror06a.png)
 10. Clique na Caixa de Uniformes para transformar-se em Cookie novamente.
 
-    :   ![ToyHorror07](../images/5/5b/ToyHorror07.png)
+    :   ![ToyHorror07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/ToyHorror07.png)
 
     - Informações:
       - Desta vez, o tempo do disfarce é de 5 minutos.
@@ -62,13 +62,13 @@ Mapa-Chave da Fábrica. Clique para ampliar.
       - Somente os [Poltergeist Sangrentos](http://www.divine-pride.net/database/monster/2993/) e os [Ursinhos Abomináveis](http://www.divine-pride.net/database/monster/2995/) atacarão você, mesmo com o disfarce.
 11. Agora, percorra pela área atrás de 10 Operários.
 
-    :   ![ToyHorror08](../images/b/b1/ToyHorror08.png)
+    :   ![ToyHorror08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/ToyHorror08.png)
 12. Terminada a busca, retorne ao portal e siga subindo pelas esteiras para a próxima etapa.
 
     :   **Fase 3**
 13. Inicie a conversa com o Papai Noel Capturado.
 
-    :   ![ToyHorror09](../images/e/e8/ToyHorror09.png)
+    :   ![ToyHorror09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/ToyHorror09.png)
 14. Após o diálogo, dirija-se ao portal da esquerda.
     - Informações:
       - Seu objetivo é encontrar e derrotar [Antonio](http://www.divine-pride.net/database/monster/2988/).
@@ -78,7 +78,7 @@ Mapa-Chave da Fábrica. Clique para ampliar.
     :   **Fase 4**
 16. Aproxime-se das [NPCs](../Sem%20categoria/NPCs.md "NPCs") para começar a história.
 
-    :   ![ToyHorror11](../images/3/3d/ToyHorror11.png)
+    :   ![ToyHorror11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/ToyHorror11.png)
 17. Assim que a conversa terminar, [Celine Kimi](http://www.divine-pride.net/database/monster/2996/) atacará seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo"), preste atenção nas dicas:
     - A [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") virá acompanhada de seu [Espectro](http://www.divine-pride.net/database/monster/2997/), ambas deverão ser atacadas simultaneamente.
     - Se houver uma diferença de 30% no [HP](../Sem%20categoria/HP.md "HP") de uma das Celines, elas irão regenerar essa quantidade para manter a mesma quantia de [HP](../Sem%20categoria/HP.md "HP").
@@ -87,10 +87,10 @@ Mapa-Chave da Fábrica. Clique para ampliar.
 18. Ao derrotar [Celine Kimi](http://www.divine-pride.net/database/monster/2996/), saia pelo portal sul da esteira.
 19. Na sala de tesouros, aproxime-se de Catherine para concluir o enredo.
 
-    :   ![ToyHorror10](../images/f/f1/ToyHorror10.png)
+    :   ![ToyHorror10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/ToyHorror10.png)
 20. Clique nos Pacotes de Presente. Todos os prêmios serão derrubados no chão.
 
-    :   ![ToyHorror12](../images/5/53/ToyHorror12.png)
+    :   ![ToyHorror12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/ToyHorror12.png)
 
     - Itens aleatórios derrubados (Bônus de drop não afetam os baús)
       - ![7642.png](http://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
@@ -111,7 +111,7 @@ Mapa-Chave da Fábrica. Clique para ampliar.
       - ![7230.png](http://static.divine-pride.net/images/items/item/7230.png) [Platina em Barra](http://www.divine-pride.net/database/item/7230/)
 21. Para sair da instância, clique no Portão.
 
-    :   ![ToyHorror13](../images/f/fe/ToyHorror13.png)
+    :   ![ToyHorror13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/ToyHorror13.png)
 
     - Você pode trocar as [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) por [Itens natalinos](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md#Itens_Natalinos "Lutie").
 

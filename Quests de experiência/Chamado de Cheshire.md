@@ -17,17 +17,17 @@
 
 1. Ajude o Ajudante Secreto (dic\_in01 294,276)
 
-   :   ![Doha012](../images/f/f1/Doha012.png)
+   :   ![Doha012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/Doha012.png)
 2. Colete 10 itens de cada tipo nos [NPCs](../Sem%20categoria/NPC.md "NPC") perto da fenda dimensional nos [campos de El Dicastes](http://www.divine-pride.net/database/map/dic_fils02/).
 
-   :   ![Doha07](../images/3/3b/Doha07.png)
+   :   ![Doha07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Doha07.png)
 
    - Pilha de Rochas: ![6307.png](http://static.divine-pride.net/images/items/item/6307.png) [Estranha Pedra Mágica](http://www.divine-pride.net/database/item/6307/)
    - Pilha de Sujeira: ![6306.png](http://static.divine-pride.net/images/items/item/6306.png) [Sangue Pisado](http://www.divine-pride.net/database/item/6306/)
    - Solo Dividido: ![6305.png](http://static.divine-pride.net/images/items/item/6305.png) [Pedaço de Pele Congelada](http://www.divine-pride.net/database/item/6305/)
 3. Entregue os itens ao Ajudante Secreto para receber sua recompensa.
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

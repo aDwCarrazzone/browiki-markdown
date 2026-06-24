@@ -2,7 +2,7 @@
 
 # Lutie
 
-[![Cida cala mapa lutie](../images/f/f6/Cida_cala_mapa_lutie.jpg)](https://browiki.org/wiki/Arquivo%3ACida_cala_mapa_lutie.jpg)
+[![Cida cala mapa lutie](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Cida_cala_mapa_lutie.jpg)](https://browiki.org/wiki/Arquivo%3ACida_cala_mapa_lutie.jpg)
 
 Lutie, A Cidade da Neve
 

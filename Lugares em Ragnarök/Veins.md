@@ -2,7 +2,7 @@
 
 # Veins
 
-[![Veins city](../images/6/66/Veins_city.jpg)](https://browiki.org/wiki/Arquivo%3AVeins_city.jpg)
+[![Veins city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Veins_city.jpg)](https://browiki.org/wiki/Arquivo%3AVeins_city.jpg)
 
 Veins, a vila do desfiladeiro
 
@@ -30,7 +30,7 @@ Veins parece ter sido inspirada na [Capadócia](https://pt.wikipedia.org/wiki/Ca
 
 ## Mapa
 
-[![Vulcao](../images/5/51/Vulcao.jpg)](https://browiki.org/wiki/Arquivo%3AVulcao.jpg)
+[![Vulcao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Vulcao.jpg)](https://browiki.org/wiki/Arquivo%3AVulcao.jpg)
 
 A Base Militar no Vulcão de Thor
 

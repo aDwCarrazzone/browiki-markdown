@@ -50,7 +50,7 @@ O céu é o limite.
 
 ### Árvore de habilidades
 
-![SkilltreeMestres Estelares](../images/2/23/SkilltreeMestres_Estelares.png)
+![SkilltreeMestres Estelares](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/SkilltreeMestres_Estelares.png)
 
 ## Construção do Personagem
 

@@ -2,7 +2,7 @@
 
 # Malangdo
 
-[![MalangdoIsland](../images/a/a1/MalangdoIsland.png)](https://browiki.org/wiki/Arquivo%3AMalangdoIsland.png)
+[![MalangdoIsland](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/MalangdoIsland.png)](https://browiki.org/wiki/Arquivo%3AMalangdoIsland.png)
 
 Malangdo, a Ilha da Pata de Gato
 
@@ -52,7 +52,7 @@ Tudo o que falta agora é atrair o "turismo aventureiro" para recuperarem seus l
 | Vendedora Elemental | Vende Fragmentos Elementais | (malangdo 214,163) |
 | Loja de Gemas | Empacota Gemas | (malangdo 233,160) |
 
-[![MalangdoStarCoral](../images/0/06/MalangdoStarCoral.jpg)](https://browiki.org/wiki/Arquivo%3AMalangdoStarCoral.jpg)
+[![MalangdoStarCoral](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/MalangdoStarCoral.jpg)](https://browiki.org/wiki/Arquivo%3AMalangdoStarCoral.jpg)
 
 O centro do Coral Estrelado
 

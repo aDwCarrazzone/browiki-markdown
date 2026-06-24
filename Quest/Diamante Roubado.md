@@ -16,34 +16,34 @@
 
 1. Ajude Ibrahim (moc\_ruins 152,147)
 
-   :   ![EdA05](../images/d/d1/EdA05.png)
+   :   ![EdA05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/EdA05.png)
 2. Pergunte sobre o diamante à Jhonnita (alberta 102,80)
 
-   :   ![Jhonnita](../images/f/f3/Jhonnita.png)
+   :   ![Jhonnita](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Jhonnita.png)
 3. Pegue a [Pérola](http://www.divine-pride.net/database/item/722/) de Kimeunbang (payon 69,65)
 
-   :   ![Kimeunbang](../images/5/52/Kimeunbang.png)
+   :   ![Kimeunbang](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Kimeunbang.png)
 4. Fale com Leblo (geffen 128,153)
 
-   :   ![Leblo](../images/7/76/Leblo.png)
+   :   ![Leblo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Leblo.png)
 5. Aproxime-se de Wola (payon\_in03 167,149)
 
-   :   ![Ruína5](../images/b/be/Ru%C3%ADna5.png)
+   :   ![Ruína5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Ru%C3%ADna5.png)
 6. Reencontre Leblo.
 7. Pague 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") ao Investigador (in\_rogue 366,46)
 
-   :   ![Investigador1](../images/3/3b/Investigador1.png)
+   :   ![Investigador1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Investigador1.png)
 8. Encontre outro Investigador (cmd\_in02 94,208)
 
-   :   ![Ruína8](../images/c/c5/Ru%C3%ADna8.png)
+   :   ![Ruína8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Ru%C3%ADna8.png)
 9. Procure por um Pequeno Cofre (cmd\_in02 70,188)
 
-   :   ![Ruína9](../images/8/81/Ru%C3%ADna9.png)
+   :   ![Ruína9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Ru%C3%ADna9.png)
 10. Pressione o Interruptor (cmd\_in02 70,196)
 
-    :   ![Ruína10](../images/4/4f/Ru%C3%ADna10.png)
+    :   ![Ruína10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Ru%C3%ADna10.png)
 11. Deverá aparecer outro Interruptor (cmd\_in02 77,188)
 
-    :   ![Ruína11](../images/6/62/Ru%C3%ADna11.png)
+    :   ![Ruína11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Ru%C3%ADna11.png)
 12. Volte ao Pequeno Cofre e obtenha o [Diamante da Ruína](http://www.divine-pride.net/database/item/7723/).
 13. Entregue o item a Ibrahim para receber sua recompensa.

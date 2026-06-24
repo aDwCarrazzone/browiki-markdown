@@ -17,10 +17,10 @@
 
 1. Aceite o pedido do Instrutor Igrid (moro\_vol 111,87)
 
-   :   ![Firebasin01](../images/b/bb/Firebasin01.png)
+   :   ![Firebasin01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Firebasin01.png)
 2. Fale com Avant (moro\_vol 98,107)
 
-   :   ![Firebasin02](../images/6/6c/Firebasin02.png)
+   :   ![Firebasin02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Firebasin02.png)
 
    - Este passo é *opcional*, mas se deseja fazê-lo, é necessário completar a missão [Pesquisador Avant](Pesquisador%20Avant.md "Pesquisador Avant") primeiro.
 3. Elimine [Lamento da Inveja](http://www.divine-pride.net/database/monster/3039/), [Lamento da Gula](http://www.divine-pride.net/database/monster/3040/) e [Lamento da Ira](http://www.divine-pride.net/database/monster/3041/).

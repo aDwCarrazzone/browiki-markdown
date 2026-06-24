@@ -17,14 +17,14 @@
 
 1. Aproxime-se para Oscar aparecer (glast\_01 241,290) e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![EddaGH01](../images/a/ab/EddaGH01.png)
+   :   ![EddaGH01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/EddaGH01.png)
 2. Basta seguir o caminho falando com os [NPCs](../Sem%20categoria/NPC.md "NPC").
 
-   :   ![EddaGH02](../images/d/d7/EddaGH02.png)
+   :   ![EddaGH02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/EddaGH02.png)
 3. Mantenha sempre o [assistente](../Sem%20categoria/Assistente.md "Assistente") Rei Schmidt ativo para as [Khalitzburgs](http://www.divine-pride.net/database/monster/20388/) não atacarem você. Você deve se aproximar das *Sobreviventes* para ativar o diálogo.
 4. No corredor final, selecione "*Vou seguir você.*" para ver o restante da história e ganhar [EXP](../Sem%20categoria/EXP.md "EXP").
 
-   :   ![EddaGH03](../images/6/6d/EddaGH03.png)
+   :   ![EddaGH03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/EddaGH03.png)
 5. De volta à [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md "Glastheim"), converse com Oscar para finalizar.
 6. Essa instância só é feita uma única vez, e dá acesso à:
    - [Ruína de Glastheim](../Quest/Ru%C3%ADna%20de%20Glastheim.md "Ruína de Glastheim") (Modo Normal)

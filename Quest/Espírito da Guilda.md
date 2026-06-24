@@ -30,10 +30,10 @@ Esta [quest](../Sem%20categoria/Quest.md "Quest") é exclusiva para [clãs](../S
 
 1. Inicie a quest conversando com Hermod, no Feudo das Valquírias. Você receberá um [Espírito da Guilda](http://www.divine-pride.net/database/item/7234/).
 
-   :   ![Clanquest01](../images/1/15/Clanquest01.png)
+   :   ![Clanquest01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/15/Clanquest01.png)
 2. Agora, chame seus amigos do [clã](../PvP/Cl%C3%A3.md "Clã") para o próximo passo: completar as tarefas de Atila, do Feudo das Valquírias.
 
-   :   ![Clanquest02](../images/a/a7/Clanquest02.png)
+   :   ![Clanquest02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Clanquest02.png)
 
    - Sempre que você completar uma missão da [NPC](../Sem%20categoria/NPC.md "NPC"), ela lhe dará um *Espírito* para ser entregue para um amigo de outra classe. Segue a ordem e as tarefas:
      - Entregue o [Espírito da Guilda](http://www.divine-pride.net/database/item/7234/) a um [Cavaleiro](../Sem%20categoria/Cavaleiro.md "Cavaleiro"), que deve coletar um conjunto de itens para a [NPC](../Sem%20categoria/NPC.md "NPC").
@@ -44,7 +44,7 @@ Esta [quest](../Sem%20categoria/Quest.md "Quest") é exclusiva para [clãs](../S
 3. O líder do [clã](../PvP/Cl%C3%A3.md "Clã") precisa esperar 100 minutos para voltar a falar com Hermod e receber um [Espírito da Confiança](http://www.divine-pride.net/database/item/7240/).
 4. Complete as tarefas de Cecil, do Feudo das Valquírias, na ordem abaixo:
 
-   :   ![Clanquest03](../images/c/cd/Clanquest03.png)
+   :   ![Clanquest03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Clanquest03.png)
 
    - Entregue o [Espírito da Confiança](http://www.divine-pride.net/database/item/7240/) a um [Sábio](../Sem%20categoria/S%C3%A1bio.md "Sábio"), que deve ficar conversando com a [NPC](../Sem%20categoria/NPC.md "NPC").
    - Entregue o [Espírito da União](http://www.divine-pride.net/database/item/7241/) a um [Bardo](../Sem%20categoria/Bardo.md "Bardo") ou [Odalisca](../Sem%20categoria/Odalisca.md "Odalisca"), que deve coletar um conjunto de itens para a [NPC](../Sem%20categoria/NPC.md "NPC").
@@ -54,7 +54,7 @@ Esta [quest](../Sem%20categoria/Quest.md "Quest") é exclusiva para [clãs](../S
 5. O líder do [clã](../PvP/Cl%C3%A3.md "Clã") precisa aguardar outros 100 minutos para voltar a falar com Hermod e receber um [Espírito da Paz](http://www.divine-pride.net/database/item/7246/).
 6. Complete as tarefas de Diligo, do Feudo das Valquírias, na ordem abaixo:
 
-   :   ![Clanquest04](../images/a/a9/Clanquest04.png)
+   :   ![Clanquest04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Clanquest04.png)
 
    - Entregue o [Espírito da Paz](http://www.divine-pride.net/database/item/7246/) a um [Arruaceiro](../Sem%20categoria/Arruaceiro.md "Arruaceiro"), que deve criar um grupo com 6 a 10 pessoas online.
    - Entregue o [Espírito da Determinação](http://www.divine-pride.net/database/item/7247/) a um [Sacerdote](../Sem%20categoria/Sacerdote.md "Sacerdote"), que deve evoluir 1 nível de base.

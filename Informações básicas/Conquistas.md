@@ -12,7 +12,7 @@ As conquistas que dão [itens](../Itens/Itens.md "Itens") são enviadas ao perso
 
 Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q](Comandos.md "Comandos")), clicando na aba *Título*.
 
-![Titulos Cnq](../images/e/e2/Titulos_Cnq.png)
+![Titulos Cnq](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Titulos_Cnq.png)
 
 ## Lista de Conquistas
 
@@ -318,7 +318,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 
 #### Mascotes
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para saber mais sobre bichinhos de estimação, veja [Mascotes](Mascotes.md "Mascotes").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para saber mais sobre bichinhos de estimação, veja [Mascotes](Mascotes.md "Mascotes").
 
 A cada bichinho de estimação capturado, você poderá estar mais um passo adiante de desbloquear as conquistas principais de domesticar vários tipos de monstro.
 

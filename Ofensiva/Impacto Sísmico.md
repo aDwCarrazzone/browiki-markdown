@@ -38,7 +38,7 @@ Alvos atingidos ficarão *impactados* por 5 segundos.
 - Alvos atingidos brilham na cor rosa.
 - Não funciona contra outros personagens, apenas [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") normais, chefes e [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese"), [Desencantar](../Ativa/Desencantar.md "Desencantar") ou ao morrer.
-- Recebem mais dano de [![Explosão Espiritual](../images/e/e6/Explos%C3%A3o_Espiritual.png)](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual").
+- Recebem mais dano de [![Explosão Espiritual](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Explos%C3%A3o_Espiritual.png)](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual") [Explosão Espiritual](Explos%C3%A3o%20Espiritual.md "Explosão Espiritual").
 
 ### Fórmula
 

@@ -17,26 +17,26 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") gritando com o Portão Enigmático (nyd\_dun02 98,199)
 
-   :   ![PortaoEnig](../images/f/f0/PortaoEnig.png)
+   :   ![PortaoEnig](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/PortaoEnig.png)
 2. Fale com Yggdrasiliad no centro do mapa.
 
-   :   ![Yggdrasiliad](../images/7/71/Yggdrasiliad.png)
+   :   ![Yggdrasiliad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Yggdrasiliad.png)
 
    - Selecione:
      - O que isso significa?
      - Não há nada que eu possa fazer?
 3. Elimine 12 [Guardiões de Nidhogg](http://www.divine-pride.net/database/monster/2020/) que aparecem no mapa.
 
-   :   ![1Nyd](../images/8/80/1Nyd.png)
+   :   ![1Nyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/1Nyd.png)
 4. Vá para o próximo andar entrando no portal ao norte.
 
-   :   ![0Nyd](../images/c/c0/0Nyd.png)
+   :   ![0Nyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/0Nyd.png)
 5. Nessa fase, passe pelo labirinto e pise na área quadriculada colorida para se teleportar.
 
-   :   ![2Nyd](../images/5/50/2Nyd.png)
+   :   ![2Nyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/2Nyd.png)
 6. Dirija-se ao centro do mapa para enfrentar a [Sombra de Nidhogg](http://www.divine-pride.net/database/monster/2022/).
 
-   :   ![3Nyd](../images/0/03/3Nyd.png)
+   :   ![3Nyd](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/3Nyd.png)
 
    - A cada 3 minutos, seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") será enviado para 1 dos 4 cantos do mapa.
    - Cada canto causará um [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo") que dura 30 segundos, independente da imunidade ou resistência do personagem.
@@ -47,7 +47,7 @@
    - Seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") só poderá sair do lugar se eliminar os [Rynchos](http://www.divine-pride.net/database/monster/2020/) e [Phyllas](http://www.divine-pride.net/database/monster/2021/).
 7. Assim que derrotar a [Sombra de Nidhogg](http://www.divine-pride.net/database/monster/2022/), fale com Yggdrasiliad no centro do mapa.
 
-   :   ![Ygradis](../images/1/1f/Ygradis.png)
+   :   ![Ygradis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Ygradis.png)
 
 | *[Instâncias](Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

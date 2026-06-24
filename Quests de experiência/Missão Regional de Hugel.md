@@ -17,11 +17,11 @@
 
 1. Fale com Nahadan (hugel 69,121)
 
-   :   ![HugelRegional01](../images/2/23/HugelRegional01.png)
+   :   ![HugelRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/HugelRegional01.png)
 2. Elimine 30 [Ferus Escarlates](http://www.divine-pride.net/database/monster/1714/), mas não retorne à [NPC](../Sem%20categoria/NPC.md "NPC") em [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel").
 3. No [Lago do Abismo](http://www.divine-pride.net/database/map/hu_fild05/), fale com Nahadan (hu\_fild05 185,36)
 
-   :   ![HugelRegional02](../images/4/47/HugelRegional02.png)
+   :   ![HugelRegional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/HugelRegional02.png)
 4. Retorne a Nahadan em [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel") (hugel 69,121)
    - Agora você pode iniciar as missões diárias. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
    - Se esta for a sua primeira vez fazendo as diárias com a [NPC](../Sem%20categoria/NPC.md "NPC"), você receberá o dobro de [EXP](../Sem%20categoria/EXP.md "EXP").
@@ -43,7 +43,7 @@
 
 1. Fale com o Pescador Raimundo (hugel 100,149)
 
-   :   ![HugelRegional03](../images/9/95/HugelRegional03.png)
+   :   ![HugelRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/HugelRegional03.png)
 2. Elimine 10 [Moluscos](http://www.divine-pride.net/database/monster/1074/) e traga 5 [Carnes de Ostra](http://www.divine-pride.net/database/item/966/).
    - Você receberá 8.400 de [EXP](../Sem%20categoria/EXP.md "EXP") base, 8.380 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe e 1 [Sopa de Ostra](http://www.divine-pride.net/database/item/12053/).
    - Se esta for a sua primeira vez, você receberá o dobro de [EXP](../Sem%20categoria/EXP.md "EXP").

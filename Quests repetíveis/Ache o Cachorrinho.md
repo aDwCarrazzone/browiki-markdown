@@ -13,10 +13,10 @@
 
 1. Ajude Angelo (brasilis 297,306)
 
-   :   ![Ache o cachorrinho01](../images/a/ad/Ache_o_cachorrinho01.png)
+   :   ![Ache o cachorrinho01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Ache_o_cachorrinho01.png)
 2. Encontre 3 cachorrinhos espalhados pela selva. Se um cachorrinho não estiver na localização marcada no mapa, procure outro ponto.
 
-   :   ![Ache o cachorrinho02](../images/f/f4/Ache_o_cachorrinho02.png)
+   :   ![Ache o cachorrinho02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Ache_o_cachorrinho02.png)
 
    - Localizações:
      - (bra\_fild01 98,96)

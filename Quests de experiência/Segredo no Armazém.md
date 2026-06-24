@@ -16,17 +16,17 @@
 
 1. Dentro do Armazém Tártaro, fale com Sibila (ba\_2whs01 150,51).
 
-   :   ![Tartaronodente01](../images/7/7a/Tartaronodente01.png)
+   :   ![Tartaronodente01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Tartaronodente01.png)
 2. Elimine 5 [Ômega Quebrada](http://www.divine-pride.net/database/monster/20641/) e retorne para Sibila.
    - Você recebe 3 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
 3. Dirija-se ao Portão (ba\_2whs01 276,290).
 
-   :   ![Tartaronodente02](../images/7/7b/Tartaronodente02.png)
+   :   ![Tartaronodente02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Tartaronodente02.png)
 4. Volte a falar com Sibila (ba\_2whs01 150,51)
    - Você recebe 3 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
 5. Sibila marcará 3 locais para você encontrar as chaves.
 
-   :   ![Tartaronodente04](../images/7/7a/Tartaronodente04.png)
+   :   ![Tartaronodente04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Tartaronodente04.png)
 
    1. Globo Terrestre (ba\_2whs01 110,218)
    2. Câmara Frigorífica (ba\_2whs01 14,282)
@@ -35,10 +35,10 @@
    - Agora você tem acesso ao [Tártaro (2)](http://www.divine-pride.net/database/map/ba_2whs02/).
 7. Encontre uma Cabeça (ba\_2whs02 37,312)
 
-   :   ![Tartaronodente05](../images/1/18/Tartaronodente05.png)
+   :   ![Tartaronodente05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Tartaronodente05.png)
 8. Você tem 5 minutos para localizar partes de um corpo. Há 1/3 de chance de conseguir uma ![1000101.png](http://static.divine-pride.net/images/items/item/1000101.png) [Peça de Autômato](http://www.divine-pride.net/database/item/1000101/).
 
-   :   ![Tartaronodente06](../images/8/84/Tartaronodente06.png)
+   :   ![Tartaronodente06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Tartaronodente06.png)
 
    1. Corpo (ba\_2whs02 31,50)
    2. Braços (ba\_2whs02 129,82)

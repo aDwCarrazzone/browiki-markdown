@@ -16,7 +16,7 @@
 
 1. Fale com Tzerero (aldeba\_in 223,167)
 
-   :   ![Tzerero](../images/1/19/Tzerero.png)
+   :   ![Tzerero](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Tzerero.png)
 2. Entregue 30 [Mucos Pegajosos](http://www.divine-pride.net/database/item/938/) e [Resinas](http://www.divine-pride.net/database/item/907/) a ele para mudar de classe.
    - Selecione a opção "*Hã?*" para garantir que você não perca os [itens](../Itens/Itens.md "Itens").
    - Você receberá 1 [Roupa de Baixo](http://www.divine-pride.net/database/item/2339/).
@@ -38,10 +38,10 @@
 
 1. Converse com Essrei (aldeba\_in 222,167)
 
-   :   [![Essrei](../images/a/af/Essrei.png)](https://browiki.org/wiki/Arquivo%3AEssrei.png)
+   :   [![Essrei](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Essrei.png)](https://browiki.org/wiki/Arquivo%3AEssrei.png)
 2. Encontre o Aprendiz Pescador (beach\_dun2 119,92)
 
-   :   [![Aprendiz pescador](../images/f/f9/Aprendiz_pescador.png)](https://browiki.org/wiki/Arquivo%3AAprendiz_pescador.png)
+   :   [![Aprendiz pescador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Aprendiz_pescador.png)](https://browiki.org/wiki/Arquivo%3AAprendiz_pescador.png)
 
    - Seu objetivo é eliminar os monstros pedidos pelo [NPC](../Sem%20categoria/NPC.md "NPC"):
      - 1.000 [Porings](http://www.divine-pride.net/database/monster/1002/) ou
@@ -52,7 +52,7 @@
    - Após uma breve conversa, aguarde alguns minutos e fale novamente com ele até ele citar o irmão, que está no aeroplano de [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude").
 4. No [aeroplano](../Sem%20categoria/Aeroplano.md "Aeroplano") de voos domésticos, doe qualquer uma das 3 quantias de [zenys](../Sem%20categoria/Zenys.md "Zenys") a Nudor (airplane 33,47).
 
-   :   [![Nudor](../images/0/02/Nudor.png)](https://browiki.org/wiki/Arquivo%3ANudor.png)
+   :   [![Nudor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Nudor.png)](https://browiki.org/wiki/Arquivo%3ANudor.png)
 5. Retorne ao Aprendiz Pescador (beach\_dun2 119,92) para mudar de classe.
 6. Fale mais uma vez com o Aprendiz Pescador, você deverá receber equipamentos de acordo com a quantia doada.
 

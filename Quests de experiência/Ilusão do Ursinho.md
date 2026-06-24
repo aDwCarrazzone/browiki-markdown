@@ -15,7 +15,7 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 25271.png 5 [Pedra Ilusional](http://www.divine-pride.net/database/item/25271/) |
 
 - Mecânica do mapa:
-  - Para invocar um [Ursinho Brilhante](http://www.divine-pride.net/database/monster/20260/)![MonstroMVP](../images/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros no [Templo de Nazarian](http://www.divine-pride.net/database/map/ein_d02_i/).
+  - Para invocar um [Ursinho Brilhante](http://www.divine-pride.net/database/monster/20260/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros no [Templo de Nazarian](http://www.divine-pride.net/database/map/ein_d02_i/).
     - 2.500 [Ursinho Branco](http://www.divine-pride.net/database/monster/20258/),
     - 2.500 [Ursinho Verde](http://www.divine-pride.net/database/monster/20257/),
     - 2.500 [Ursinho Vermelho](http://www.divine-pride.net/database/monster/20255/),
@@ -27,21 +27,21 @@
 
 1. Encontre o Jovem Doente (einbroch 149,242)
 
-   :   ![TeddybearIL01](../images/3/3c/TeddybearIL01.png)
+   :   ![TeddybearIL01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/TeddybearIL01.png)
 2. Dirija-se para a Mina de Einbech e converse com os Ursinhos na Fila (ein\_dun01 198,79) seguindo o balão de missões.
 
-   :   ![TeddybearIL02](../images/e/ec/TeddybearIL02.png)
+   :   ![TeddybearIL02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/TeddybearIL02.png)
 
    - Converse com o penúltilmo ursinho da fila e depois, com o primeiro da fila.
    - Em seguida, clique na Entrada para acessar a caverna.
 3. Fale com Steven (ein\_d02\_i 170,193)
 
-   :   ![TeddybearIL03](../images/5/5e/TeddybearIL03.png)
+   :   ![TeddybearIL03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/TeddybearIL03.png)
 4. Retorne a [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch") para conversar com o Jovem Doente (einbroch 149,242)
 5. Volte a Steven (ein\_d02\_i 170,193)
 6. Aproxime-se do ponto suspeito (ein\_d02\_i 132,233) para ativar uma cinemática.
 
-   :   ![TeddybearIL04](../images/2/2b/TeddybearIL04.png)
+   :   ![TeddybearIL04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/TeddybearIL04.png)
 
    - Elimine 10 de cada cor de Ursinho.
 7. Retorne a Steven (ein\_d02\_i 170,193) para receber sua recompensa.

@@ -15,17 +15,17 @@
 
 1. Ajude o Aldeão (payon 192,109)
 
-   :   ![RegionalPayon01](../images/7/72/RegionalPayon01.png)
+   :   ![RegionalPayon01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/RegionalPayon01.png)
 2. Clique no Poço e selecione as opções até Leno aparecer.
    - Você receberá 2.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
 3. Na Vila dos Arqueiros, fale com o Guarda (pay\_arche 41,133)
 
-   :   ![RegionalPayon02](../images/3/34/RegionalPayon02.png)
+   :   ![RegionalPayon02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/RegionalPayon02.png)
 
    - Você receberá 500 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
 4. Dentro da Caverna de Payon, aproxime-se de Leno (pay\_dun00 155,174)
 
-   :   ![RegionalPayon03](../images/4/4b/RegionalPayon03.png)
+   :   ![RegionalPayon03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/RegionalPayon03.png)
 
    - Você deve derrotar 5 [Zumbis](http://www.divine-pride.net/database/monster/1015/) para continuar.
    - Fale com Leno após derrotar os monstros.
@@ -35,13 +35,13 @@
    - Agora você já poderá iniciar as missões diárias dos Guardas da Caverna de Payon. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 6. Se seu nível base for 50 ou mais, fale com o Monge Andarilho (pay\_dun02 134,123)
 
-   :   ![RegionalPayon04](../images/b/b9/RegionalPayon04.png)
+   :   ![RegionalPayon04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/RegionalPayon04.png)
 7. Ele mandará você para [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") para falar com o Aldeão (payon 192,109)
    - O Aldeão dará a você 10 [Licor de Lotus](http://www.divine-pride.net/database/item/25078/).
    - Próximo do Aldeão, um Pesquisador dará uma missão de caça à Sohee, mas é opcional.
 8. Com o [Licor de Lotus](http://www.divine-pride.net/database/item/25078/) no inventário, clique nos Espíritos Malignos no Vilarejo Abandonado até conseguir 10 [Último Suspiro](http://www.divine-pride.net/database/item/25079/).
 
-   :   ![RegionalPayon05](../images/3/3d/RegionalPayon05.png)
+   :   ![RegionalPayon05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/RegionalPayon05.png)
 
    - Há um tempo de conjuração que pode ser interrompido se você receber um ataque.
    - O Espírito retorna após 30 segundos.
@@ -51,11 +51,11 @@
    - Agora você já poderá iniciar as missões diárias do Monge. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 10. Aceite caçar raposas clicando no Aviso (pay\_dun03 121,62)
 
-    :   ![RegionalPayon06](../images/9/90/RegionalPayon06.png)
+    :   ![RegionalPayon06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/RegionalPayon06.png)
 11. Elimine 10 [Nove-Caudas](http://www.divine-pride.net/database/monster/1180/), que deixarão cair direto no seu inventário uma [Miçanga de Raposa](http://www.divine-pride.net/database/item/25080/).
 12. Após coletar 10 [Miçanga de Raposa](http://www.divine-pride.net/database/item/25080/), informe o resultado para o Ancião da Vila (pay\_arche 139,33)
 
-    :   ![RegionalPayon07](../images/b/b4/RegionalPayon07.png)
+    :   ![RegionalPayon07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/RegionalPayon07.png)
 
     - Você receberá 80.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 60.000 de classe.
 

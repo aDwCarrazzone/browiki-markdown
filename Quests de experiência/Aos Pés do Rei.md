@@ -20,32 +20,32 @@
 
 1. Em [Verus](../Lugares%20em%20Ragnar%C3%B6k/Verus.md "Verus"), inicie a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com Dr. Magnatum (verus04 79,114)
 
-   :   ![KingHeel01](../images/c/c8/KingHeel01.png)
+   :   ![KingHeel01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/KingHeel01.png)
 2. Dentro do lugar, fale com Leviatã Ingrata.
 
-   :   ![KingHeel02](../images/d/d6/KingHeel02.png)
+   :   ![KingHeel02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/KingHeel02.png)
 3. Elimine os monstros e colete as [Cartas Douradas](http://www.divine-pride.net/database/item/25627/) que caírem do chão.
    - Em seguida, fale novamente com Leviatã Ingrata para repetir a invocação.
    - Monstros são: [Mecha v1.6](http://www.divine-pride.net/database/monster/3127/), [Mecha v2.0](http://www.divine-pride.net/database/monster/3126/) e [Roboring](http://www.divine-pride.net/database/monster/3125/).
 4. Na segunda vez, um portal aparecerá, fale com Leviatã Ingrata. Ela pedirá que você elimine as Máquinas Beta.
 
-   :   ![KingHeel03](../images/8/89/KingHeel03.png)
+   :   ![KingHeel03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/KingHeel03.png)
 
    - Máquinas Beta estão indicadas nos pontos vermelhos da imagem acima.
    - Ao lado das duas [NPCs](../Sem%20categoria/NPC.md "NPC"), há um Aviso para iniciar a missão de caçada dos [Roborings](http://www.divine-pride.net/database/monster/3125/).
    - A premiação da caçada só é entregue no final da instância.
 5. Após eliminar as Máquinas, dirija-se para a Sala de Síntese e fale com Ziz Ingrata.
 
-   :   ![KingHeel04](../images/d/d1/KingHeel04.png)
+   :   ![KingHeel04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/KingHeel04.png)
 
    - Elimine as levas de monstros.
    - Quando terminar, vá para as escadarias atrás da Ziz Ingrata.
 6. Seu objetivo é elimninar [Transistores](http://www.divine-pride.net/database/monster/3127/) em cada canto do mapa, atravessando os portais.
 
-   :   ![KingHeel05](../images/6/66/KingHeel05.png)
+   :   ![KingHeel05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/KingHeel05.png)
 7. Após eliminar o último Beta, dirija-se ao norte e fale com Leviatã Ingrata para invocar o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 
-   :   ![KingHeel06](../images/e/e7/KingHeel06.png)
+   :   ![KingHeel06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/KingHeel06.png)
 8. Prepare-se para enfrentar [Charleston 03](http://www.divine-pride.net/database/monster/3124/):
    - Se levar a [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") para fora da área, ela resetará a posição e voltará com o [HP](../Sem%20categoria/HP.md "HP") cheio.
    - Cuidado com as Bombas, elas usam [Explodir](../Habilidades%20de%20monstros/Explodir.md "Explodir").

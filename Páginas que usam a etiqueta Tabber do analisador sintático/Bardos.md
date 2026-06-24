@@ -42,7 +42,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeBardos](../images/c/c9/SkilltreeBardos.png)
+![SkilltreeBardos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/SkilltreeBardos.png)
 
 ## Construção do Personagem
 

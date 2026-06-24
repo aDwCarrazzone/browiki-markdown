@@ -25,8 +25,8 @@ Reduz sua [DEF](../Sem%20categoria/DEF.md "DEF") por equipamentos.
 
 Nesse estado, é possível usar:
 
-- [![Golpe do Destino](../images/e/ef/Golpe_do_Destino.png)](../Ofensiva/Golpe%20do%20Destino.md "Golpe do Destino") [Golpe do Destino](../Ofensiva/Golpe%20do%20Destino.md "Golpe do Destino")
-- [![Arremessar Escudo](../images/4/43/Arremessar_Escudo.png)](../Ofensiva/Arremessar%20Escudo.md "Arremessar Escudo") [Arremessar Escudo](../Ofensiva/Arremessar%20Escudo.md "Arremessar Escudo")
+- [![Golpe do Destino](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Golpe_do_Destino.png)](../Ofensiva/Golpe%20do%20Destino.md "Golpe do Destino") [Golpe do Destino](../Ofensiva/Golpe%20do%20Destino.md "Golpe do Destino")
+- [![Arremessar Escudo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Arremessar_Escudo.png)](../Ofensiva/Arremessar%20Escudo.md "Arremessar Escudo") [Arremessar Escudo](../Ofensiva/Arremessar%20Escudo.md "Arremessar Escudo")
 
 Pode ser desativada ao usar novamente.
 

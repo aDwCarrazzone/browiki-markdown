@@ -32,7 +32,7 @@ Enquanto estiver ativo, fornece bônus independente do nível de [Domínio Eleme
 ### Bônus
 
 - Dano mágico de propriedade [Fogo](../Sem%20categoria/Fogo.md "Fogo") +10%.
-- Aumenta o dano base de [![Conflagração](../images/f/f6/Conflagra%C3%A7%C3%A3o.png)](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração") [Conflagração](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração")
+- Aumenta o dano base de [![Conflagração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Conflagra%C3%A7%C3%A3o.png)](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração") [Conflagração](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração")
 
 ### Status do Elemental
 

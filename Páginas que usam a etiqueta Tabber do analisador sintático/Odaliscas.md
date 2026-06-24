@@ -40,7 +40,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeOdaliscas](../images/9/98/SkilltreeOdaliscas.png)
+![SkilltreeOdaliscas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/SkilltreeOdaliscas.png)
 
 ## Construção do Personagem
 

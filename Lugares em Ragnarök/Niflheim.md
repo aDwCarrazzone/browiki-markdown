@@ -2,7 +2,7 @@
 
 # Niflheim
 
-[![Niflheim2](../images/8/80/Niflheim2.jpg)](https://browiki.org/wiki/Arquivo%3ANiflheim2.jpg)
+[![Niflheim2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Niflheim2.jpg)](https://browiki.org/wiki/Arquivo%3ANiflheim2.jpg)
 
 Niflheim, o reino dos mortos
 
@@ -48,7 +48,7 @@ Cuidado! Apesar de ser uma cidade, você perderá [EXP](../Sem%20categoria/EXP.m
 
 ## Quests & Calabouços
 
-[![Niflheim3](../images/c/c3/Niflheim3.jpg)](https://browiki.org/wiki/Arquivo%3ANiflheim3.jpg)
+[![Niflheim3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Niflheim3.jpg)](https://browiki.org/wiki/Arquivo%3ANiflheim3.jpg)
 
 O Teatro colapsado de Niflheim.
 

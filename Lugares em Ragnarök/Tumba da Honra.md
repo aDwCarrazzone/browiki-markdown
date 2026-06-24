@@ -2,7 +2,7 @@
 
 # Tumba da Honra
 
-[![TumbadaHonra](../images/5/50/TumbadaHonra.jpg)](https://browiki.org/wiki/Arquivo%3ATumbadaHonra.jpg)
+[![TumbadaHonra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/TumbadaHonra.jpg)](https://browiki.org/wiki/Arquivo%3ATumbadaHonra.jpg)
 
 O Laboratório de Somatologia
 
@@ -31,13 +31,13 @@ O *[Modo Pesadelo](../Sem%20categoria/Modo%20Pesadelo.md "Modo Pesadelo")* do Bi
 
 1. **Ohno Tohiro** (lighthalzen 321,218)
 
-   :   ![Bio5a](../images/f/f9/Bio5a.png)
+   :   ![Bio5a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Bio5a.png)
 
    - Acessa por 100.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") *ou* 10 [Tabelas de Pesquisa](http://www.divine-pride.net/database/item/7347/).
    - O personagem é enviado para um canto do mapa, longe dos [NPCs](../Sem%20categoria/NPC.md "NPC").
 2. **Lunar** (lighthalzen 320,204)
 
-   :   ![Bio5b](../images/8/8a/Bio5b.png)
+   :   ![Bio5b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Bio5b.png)
 
    - Acessa por 150.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") *e* 20 [Fragmento Sentimental](http://www.divine-pride.net/database/item/22687/).
    - O personagem é enviado para o topo do mapa, onde ficam os [NPCs](../Sem%20categoria/NPC.md "NPC").
@@ -75,13 +75,13 @@ Todos os monstros da Tumba da Honra são do tipo [Chefe](../Sem%20categoria/Chef
 
 Existe uma leve diferença entre um monstro comum, uma cobaia e o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 
-- [![Monstro comum.](../images/f/f2/Biolab5c.png)](https://browiki.org/wiki/Arquivo%3ABiolab5c.png "Monstro comum.")
+- [![Monstro comum.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Biolab5c.png)](https://browiki.org/wiki/Arquivo%3ABiolab5c.png "Monstro comum.")
 
   Monstro comum.
-- [![Cobaias possuem aura branca.](../images/2/23/Biolab5d.png)](https://browiki.org/wiki/Arquivo%3ABiolab5d.png "Cobaias possuem aura branca.")
+- [![Cobaias possuem aura branca.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Biolab5d.png)](https://browiki.org/wiki/Arquivo%3ABiolab5d.png "Cobaias possuem aura branca.")
 
   Cobaias possuem aura branca.
-- [![MVPs possuem faísca azul.](../images/7/74/Biolab5e.png)](https://browiki.org/wiki/Arquivo%3ABiolab5e.png "MVPs possuem faísca azul.")
+- [![MVPs possuem faísca azul.](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Biolab5e.png)](https://browiki.org/wiki/Arquivo%3ABiolab5e.png "MVPs possuem faísca azul.")
 
   [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") possuem faísca azul.
 
@@ -89,7 +89,7 @@ Se você estiver vendo um deles com faíscas vermelhas, o monstro está usando a
 
 ## NPCs
 
-![Biolab5f](../images/f/f4/Biolab5f.png)
+![Biolab5f](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Biolab5f.png)
 
 - Os principais [NPCs](../Sem%20categoria/NPC.md "NPC") ficam no topo do mapa, mais próximo das coordenadas (lhz\_dun\_n 139,263)
 

@@ -16,20 +16,20 @@
 
 1. Dirija-se para a Guilda dos Ninjas (que\_ng 29,152)
 
-   :   ![Qninja3](../images/4/40/Qninja3.png)
+   :   ![Qninja3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Qninja3.png)
 2. Na casa, atravesse a parede falsa.
 
-   :   ![Qninja4](../images/1/12/Qninja4.png)
+   :   ![Qninja4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Qninja4.png)
 
    - Se der certo, você ouvirá uma conversa.
    - Há momentos em que seu personagem sempre será teleportado para longe do local, isso acontece por conta de outros jogadores terem ativado a missão.
    - Quando isso ocorrer, você deve aguardar o [NPC](../Sem%20categoria/NPC.md "NPC") *sombra* sumir ou tentar contornar usando [Corte das Sombras](../Ofensiva/Corte%20das%20Sombras.md "Corte das Sombras") para pular uma célula mais distante dele.
 3. Toque no desenho da Parede com Pintura (que\_ng 21,76) para teleportar.
 
-   :   ![Qkageboro1](../images/7/74/Qkageboro1.png)
+   :   ![Qkageboro1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Qkageboro1.png)
 4. Fale com Kage Gion.
 
-   :   ![Qkageboro3](../images/8/83/Qkageboro3.png)
+   :   ![Qkageboro3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Qkageboro3.png)
 
    - Responda:
      - Eu sou um Ninja
@@ -42,7 +42,7 @@
    :   :   **Teste de Conhecimento**
 6. Responda as 10 perguntas de Cougar, devendo acertar 9, no mínimo, para passar.
 
-   :   ![Qkageboro2](../images/2/27/Qkageboro2.png)
+   :   ![Qkageboro2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Qkageboro2.png)
 
    - As perguntas são muitas e aleatórias, recomendamos que você utilize *CTRL + F* para encontrá-las abaixo.
    - Caso alguma pergunta não esteja de acordo com a que está no jogo, pedimos que você corrija nesse guia.
@@ -102,7 +102,7 @@
 :   :   :   **Teste de Sobrevivência**
 :   7. Esse teste funciona como um tabuleiro de jogos, onde cada casa possui um [NPC](../Sem%20categoria/NPC.md "NPC") chamado *Visor*.
 
-    :   :   ![Qkageboro4](../images/2/25/Qkageboro4.png)
+    :   :   ![Qkageboro4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Qkageboro4.png)
 :   8. Aproxime-se do primeiro visor para iniciar o teste.
 
     :   - Você começará com 100 *P*ontos de *V*ida (PV).
@@ -126,10 +126,10 @@
 :   :   :   **Teste de Perícia**
 :   9. Fale com Red Leopard Joe para aprender a forjar.
 
-    :   :   ![Qkageboro6](../images/8/8c/Qkageboro6.png)
+    :   :   ![Qkageboro6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/Qkageboro6.png)
 :   10. Clique em um dos Forjadores. Escolha as opções de minerais para derreter.
 
-    :   :   ![Qkageboro7](../images/5/51/Qkageboro7.png)
+    :   :   ![Qkageboro7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Qkageboro7.png)
 
         - Não há necessidade de ter todos os itens listados abaixo, apenas uma boa quantidade de um deles ou um pouco de cada. A quantidade pode variar:
           - ![1002.png](http://static.divine-pride.net/images/items/item/1002.png) 5 [Minérios de Ferro](http://www.divine-pride.net/database/item/1002/)
@@ -148,18 +148,18 @@
         - Se deu tudo certo, você receberá 1 [Adaga Ninja](http://www.divine-pride.net/database/item/13074/) ou 1 [Huuma Ninja](http://www.divine-pride.net/database/item/13312/).
         - Se estiver sem materiais, clique na Cômoda para voltar para [Amatsu](../Lugares%20em%20Ragnar%C3%B6k/Amatsu.md "Amatsu").
 
-        :   ![Qkageboro8](../images/9/99/Qkageboro8.png)
+        :   ![Qkageboro8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Qkageboro8.png)
 :   12. Fale com Red Leopard Joe para a próxima etapa.
 :   13. Equipe a arma forjada e clique em um dos Refinadores.
 
-    :   :   ![Qkageboro8a](../images/7/75/Qkageboro8a.png)
+    :   :   ![Qkageboro8a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Qkageboro8a.png)
 
         - Seu objetivo é refinar a arma criada até o +7.
         - Não há necessidade de trazer minérios de [refinamento](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") e em casos de falha, o refino reduz em 1.
 :   14. Mostre a arma +7 para Red Leopart Joe aprovar seu teste e enviar você de volta a Kage Gion.
 :   15. Kage Gion dará o último teste: encontrar e eliminar o *Segredo **de** Família* numa pequena sala.
 
-    :   :   ![Qkageboro10](../images/6/61/Qkageboro10.png)
+    :   :   ![Qkageboro10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Qkageboro10.png)
 
         - No lugar, existem vários [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") com nomes parecidos, se eliminar o errado, o teste reinicia.
         - Cuidado para não confundir com o [monstro](../Sem%20categoria/Monstro.md "Monstro") Segredo **da** Família.

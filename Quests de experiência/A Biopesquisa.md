@@ -15,16 +15,16 @@
 
 1. Converse com Morriphen (ein\_in01 16,36)
 
-   :   ![Biopesquisador01](../images/b/bc/Biopesquisador01.png)
+   :   ![Biopesquisador01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Biopesquisador01.png)
 2. Encontre Siria (hu\_in01 326,307)
 
-   :   ![Biopesquisador02](../images/8/82/Biopesquisador02.png)
+   :   ![Biopesquisador02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Biopesquisador02.png)
 3. Entregue os itens para Dono (lighthalzen 88,79)
 
-   :   ![Biopesquisador03](../images/0/06/Biopesquisador03.png)
+   :   ![Biopesquisador03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Biopesquisador03.png)
 4. Fale com Makkie (lhz\_in03 193,28)
 
-   :   ![Biopesquisador04](../images/a/a2/Biopesquisador04.png)
+   :   ![Biopesquisador04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Biopesquisador04.png)
 5. Retorne a Dono.
 6. Receba [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de Morriphen.
 7. Volte a Siria.

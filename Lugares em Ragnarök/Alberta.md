@@ -2,7 +2,7 @@
 
 # Alberta
 
-[![Alberta city2](../images/4/40/Alberta_city2.jpg)](https://browiki.org/wiki/Arquivo%3AAlberta_city2.jpg)
+[![Alberta city2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Alberta_city2.jpg)](https://browiki.org/wiki/Arquivo%3AAlberta_city2.jpg)
 
 A Cidade Portuária de Alberta.
 
@@ -54,7 +54,7 @@ Dotada de um visual à beira-mar, Alberta foi inspirada na cidade de [Santorini]
 | Auxiliar de Cozinha | [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") | (alberta 167,135) |
 | Mercador Doram | Vende [itens](../Itens/Itens.md "Itens") de [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | (alberta 111,159) |
 
-[![TurtleIsland](../images/4/4a/TurtleIsland.png)](https://browiki.org/wiki/Arquivo%3ATurtleIsland.png)
+[![TurtleIsland](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/TurtleIsland.png)](https://browiki.org/wiki/Arquivo%3ATurtleIsland.png)
 
 A ilha da Tartaruga
 

@@ -16,10 +16,10 @@
 
 1. Sua jornada começa com o Mestre Ferreiro na Guilda dos Ferreiros (ein\_in01 18,24)
 
-   :   ![Clchbs01](../images/a/ae/Clchbs01.png)
+   :   ![Clchbs01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Clchbs01.png)
 2. Responda o questionário do Mestre Ferreiro (ein\_in01 201,27)
 
-   :   ![Qferreiro1](../images/f/f4/Qferreiro1.png)
+   :   ![Qferreiro1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Qferreiro1.png)
 
    - É preciso acertar 9 perguntas para passar no teste.
    - Fale novamente com o Mestre Ferreiro após o questionário e ele lhe dará uma nova missão.
@@ -54,7 +54,7 @@
 
     - Possibilidade 1: Bismarc (hugel 168,183)
 
-    :   ![Clchbs04](../images/2/23/Clchbs04.png)
+    :   ![Clchbs04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/Clchbs04.png)
 
         - ![998.png](http://static.divine-pride.net/images/items/item/998.png) 8 [Ferro](http://www.divine-pride.net/database/item/998/)
         - ![511.png](http://static.divine-pride.net/images/items/item/511.png) 20 [Erva Verde](http://www.divine-pride.net/database/item/511/)
@@ -63,7 +63,7 @@
 
     - Possibilidade 2: Talpiz (payon 214,79)
 
-    :   ![Clchbs05](../images/1/1e/Clchbs05.png)
+    :   ![Clchbs05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Clchbs05.png)
 
         - ![1002.png](http://static.divine-pride.net/images/items/item/1002.png) 8 [Minério de Ferro](http://www.divine-pride.net/database/item/1002/)
         - ![2212.png](http://static.divine-pride.net/images/items/item/2212.png) 1 [Tapa-Olho](http://www.divine-pride.net/database/item/2212/)
@@ -72,7 +72,7 @@
 
     - Possibilidade 3: Baisulist (geffen 46,164)
 
-    :   ![Clchbs06](../images/9/92/Clchbs06.png)
+    :   ![Clchbs06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/Clchbs06.png)
 
         - ![999.png](http://static.divine-pride.net/images/items/item/999.png) 2 [Aço](http://www.divine-pride.net/database/item/999/)
         - ![930.png](http://static.divine-pride.net/images/items/item/930.png) 1 [Bandagem Estragada](http://www.divine-pride.net/database/item/930/)
@@ -81,7 +81,7 @@
 
     - Possibilidade 4: Wickebine (morocc 27,112)
 
-    :   ![Clchbs08](../images/7/75/Clchbs08.png)
+    :   ![Clchbs08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Clchbs08.png)
 
         - ![1001.png](http://static.divine-pride.net/images/items/item/1001.png) 2 [Poeira Estelar](http://www.divine-pride.net/database/item/1001/)
         - ![932.png](http://static.divine-pride.net/images/items/item/932.png) 1 [Osso](http://www.divine-pride.net/database/item/932/)
@@ -90,7 +90,7 @@
 
     - Possibilidade 5: Krongast (lighthalzen 209,80)
 
-    :   ![Clchbs07](../images/1/11/Clchbs07.png)
+    :   ![Clchbs07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Clchbs07.png)
 
         - ![1003.png](http://static.divine-pride.net/images/items/item/1003.png) 2 [Carvão](http://www.divine-pride.net/database/item/1003/)
         - ![961.png](http://static.divine-pride.net/images/items/item/961.png) 2 [Concha](http://www.divine-pride.net/database/item/961/)
@@ -100,7 +100,7 @@
 :   5. Retorne ao Mestre da Guilda.
 :   6. Responda o questionário da Mestre Ferreira (ein\_in01 24,41)
 
-    :   ![Clchbs09](../images/4/44/Clchbs09.png)
+    :   ![Clchbs09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Clchbs09.png)
 
     - É necessário acertar 4 perguntas para passar no teste.
 

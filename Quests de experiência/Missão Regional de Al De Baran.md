@@ -18,26 +18,26 @@
 
 1. Aceite ajudar a Senhora de Idade (aldebaran 114,180). Você recebe 1 [Trouxa de Comida](http://www.divine-pride.net/database/item/12111/).
 
-   :   ![AdbRegional01](../images/5/5f/AdbRegional01.png)
+   :   ![AdbRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/AdbRegional01.png)
 2. Entregue o item para o Guarda da Fronteira (yuno\_fild01 196,154)
 
-   :   ![AdbRegional02](../images/3/38/AdbRegional02.png)
+   :   ![AdbRegional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/AdbRegional02.png)
 
    - Se você perder a Trouxa, deverá pagar 15.000z para a Senhora de Idade.
    - Você receberá 15.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 10.000 de classe.
 3. Converse com o Capitão César (yuno\_fild01 193,158)
 
-   :   ![AdbRegional03](../images/f/f6/AdbRegional03.png)
+   :   ![AdbRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/AdbRegional03.png)
 
    - Você já poderá iniciar as missões diárias. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
    - Ao saber que você iniciou uma missão com o César, a Aluna da Academia (yuno\_fild01 189,154) ao lado dele também tem um pedido de caça.
    - Quando completar a missão de caçada do Capitão, você receberá 19.760 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 15.150 de classe.
 4. Para entregar a missão da Aluna da Academia, dirija-se ao Campus de Kiel Hyre (yuno\_fild08 179,200)
 
-   :   ![AdbRegional04](../images/1/1c/AdbRegional04.png)
+   :   ![AdbRegional04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/AdbRegional04.png)
 5. Assim que entregar a missão, fale com o Ambulante (yuno\_fild08 172,198)
 
-   :   ![AdbRegional05](../images/6/61/AdbRegional05.png)
+   :   ![AdbRegional05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/AdbRegional05.png)
 
    - Entregue 10 [Pele de Bode](http://www.divine-pride.net/database/item/7107/) e 10 [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) para o [NPC](../Sem%20categoria/NPC.md "NPC").
    - Você receberá 25.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 15.000 de classe da missão da Aluna da Academia.
@@ -62,10 +62,10 @@
 
 1. Fale com Lígia (yuno\_fild08 86,195) e entre no portal ao lado dela.
 
-   :   ![AdbRegional06](../images/3/34/AdbRegional06.png)
+   :   ![AdbRegional06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/AdbRegional06.png)
 2. Encontre Kauan (kh\_dun01 35,196)
 
-   :   ![AdbRegional07](../images/2/24/AdbRegional07.png)
+   :   ![AdbRegional07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/AdbRegional07.png)
 
    - Ele pede que você elimine 3 [Aliot](http://www.divine-pride.net/database/monster/1736/) e traga 1 [Peça Queimada](http://www.divine-pride.net/database/item/7512/)
    - Você receberá 154.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 100.000 de classe.

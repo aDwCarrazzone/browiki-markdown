@@ -15,13 +15,13 @@
 
 1. Dirija-se para a Guilda dos Mercenários e fale com o Mercenário (in\_moc\_16 19,33)
 
-   :   ![MdCsin01](../images/8/85/MdCsin01.png)
+   :   ![MdCsin01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/MdCsin01.png)
 2. Seu teste começa ao se aproximar do Funcionário da Guilda, que se moverá para um outro ponto. Ande até ele para se inscrever.
 
-   :   ![MdCsin02](../images/6/63/MdCsin02.png)
+   :   ![MdCsin02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/MdCsin02.png)
 3. Na nova sala, siga em frente até um diálogo começar a fazer perguntas. Você deve acertar 9, no mínimo, para passar.
 
-   :   ![MdCsin03](../images/c/cd/MdCsin03.png)
+   :   ![MdCsin03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/MdCsin03.png)
 
 :   :   |  |  |
         | --- | --- |
@@ -61,7 +61,7 @@
 
 :   4. Após o questionário, siga em frente até ouvir uma conversa. Para iniciar o teste, basta clicar no chat e aguardar sua vez.
 
-    :   ![MdCsin04](../images/2/29/MdCsin04.png)
+    :   ![MdCsin04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/MdCsin04.png)
 
         - Seu objetivo será eliminar 6 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") de nome *Vítima* em 3 minutos.
         - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") são 3 Porings, 1 Lunático, 1 Poporing e 1 Drops
@@ -70,10 +70,10 @@
           - Atacar um monstro que não tenha o nome *Vítima*.
 :   5. Em caso de sucesso, a próxima etapa é chegar perto de Dante (in\_moc\_16 89,98) sem matar os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que surgem no caminho. O ideal é abusar da sua [esquiva](../Sem%20categoria/Esquiva.md "Esquiva") e usar [esconderijo](../Ativa/Esconderijo.md "Esconderijo") quando puder.
 
-    :   ![MdCsin07](../images/c/ca/MdCsin07.png)
+    :   ![MdCsin07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/MdCsin07.png)
 :   6. A última etapa consiste em aproximar-se do Líder da Guilda (in\_moc\_16 149,80)
 
-    :   ![MdCsin06](../images/b/b8/MdCsin06.png)
+    :   ![MdCsin06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/MdCsin06.png)
 
         - Aproxime-se do Líder e responda às perguntas, suas escolhas não influenciam na missão. Você receberá 1 [Colar do Oblívio](http://www.divine-pride.net/database/item/1008/).
         - Se seu [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md "Nível de classe") estiver entre 40 a 48 quando começou a missão, você receberá 1 arma aleatória.
@@ -90,7 +90,7 @@
         - Se seu personagem for desconectado do servidor ou você cancelar a conversa com o Líder, será necessário caminhar ao redor dele novamente para continuar o diálogo.
 :   7. Entregue o [Colar do Oblívio](http://www.divine-pride.net/database/item/1008/) ao Mercenário (in\_moc\_16 19,33) para mudar de classe.
 
-    :   ![MdCsin01](../images/8/85/MdCsin01.png)
+    :   ![MdCsin01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/MdCsin01.png)
 
 | *A Luz das Trevas* | |
 | --- | --- |

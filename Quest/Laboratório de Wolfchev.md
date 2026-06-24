@@ -18,18 +18,18 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Pesquisador (lhz\_dun04 151,276)
 
-   :   ![Investigando os Rumores07](../images/6/6e/Investigando_os_Rumores07.png)
+   :   ![Investigando os Rumores07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Investigando_os_Rumores07.png)
 2. Acesse o mapa pela Entrada do Laboratório.
 
-   :   ![Investigando os Rumores08](../images/b/bc/Investigando_os_Rumores08.png)
+   :   ![Investigando os Rumores08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Investigando_os_Rumores08.png)
 3. **Laboratório 1**:
    1. Nesta fase, derrote todas as [Cobaias Famintas](http://www.divine-pride.net/database/monster/2243/).
    2. Leia as Folhas do Manual.
 
-      :   ![LabWolfchev01](../images/d/d1/LabWolfchev01.png)
+      :   ![LabWolfchev01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/LabWolfchev01.png)
    3. Gire a Válvula conforme recomendação.
 
-      :   ![LabWolfchev02](../images/2/29/LabWolfchev02.png)
+      :   ![LabWolfchev02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/LabWolfchev02.png)
 
       - As Folhas do Manual indicarão quais as direções que você deve girar as **2** Válvulas.
       - Se errar, é necessário ler as Folhas do Manual novamente para resetar as direções.

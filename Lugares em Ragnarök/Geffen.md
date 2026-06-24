@@ -2,7 +2,7 @@
 
 # Geffen
 
-[![Geffen city](../images/a/a9/Geffen_city.jpg)](https://browiki.org/wiki/Arquivo%3AGeffen_city.jpg)
+[![Geffen city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Geffen_city.jpg)](https://browiki.org/wiki/Arquivo%3AGeffen_city.jpg)
 
 Geffen, a cidade da magia
 
@@ -59,7 +59,7 @@ Reza a lenda que o impacto do martelo contra o solo foi tão forte que as cordil
 
 ## Quests & Calabouços
 
-[![Geffenia gld](../images/0/06/Geffenia_gld.jpg)](https://browiki.org/wiki/Arquivo%3AGeffenia_gld.jpg)
+[![Geffenia gld](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Geffenia_gld.jpg)](https://browiki.org/wiki/Arquivo%3AGeffenia_gld.jpg)
 
 Geffenia, a cidade perdida
 

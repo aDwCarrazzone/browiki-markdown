@@ -16,10 +16,10 @@
    - É preciso que o castelo tenha 30 de Economia.
 2. O Ferreiro Cano fica na sala do emperium do castelo Sofia, no Kafragarten.
 
-   :   ![Guerreiras1](../images/a/a9/Guerreiras1.png)
+   :   ![Guerreiras1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Guerreiras1.png)
 3. O Ferreiro Kai fica na sala do emperium do castelo Gaebolg, no Feudo de Gloria.
 
-   :   ![Guerreiras2](../images/8/8a/Guerreiras2.png)
+   :   ![Guerreiras2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Guerreiras2.png)
 4. A missão começa com 7 garotas invadindo o castelo, todos os personagens serão mandados para fora do castelo.
 5. Seu objetivo é chegar na sala do emperium antes nas Guerreiras dentro de 1 hora, do contrário, a missão fracassa.
    1. A primeira guerreira é [Aira](http://www.divine-pride.net/database/monster/2443/), que vem acompanhada de seus guarda-costas:

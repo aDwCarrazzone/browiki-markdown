@@ -2,7 +2,7 @@
 
 # Dewata
 
-[![Dewata worldmap](../images/d/da/Dewata_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ADewata_worldmap.jpg)
+[![Dewata worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Dewata_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ADewata_worldmap.jpg)
 
 Ilha Paradisíaca, Dewata
 
@@ -20,7 +20,7 @@ A vila de Dewata abriga as mais diversas pousadas e dormitórios, perfeitos para
 
 ## Mapa
 
-![Dewata imagem](../images/2/25/Dewata_imagem.jpg)
+![Dewata imagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Dewata_imagem.jpg)
 
 |  |  |  |
 | --- | --- | --- |

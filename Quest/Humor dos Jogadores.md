@@ -14,10 +14,10 @@
 
 1. Fale com o Diretor dos Jogos (mal\_in01 31,210)
 
-   :   ![Catgamer01](../images/a/a5/Catgamer01.png)
+   :   ![Catgamer01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Catgamer01.png)
 2. Insista em conversar com o Gato Estranho (malangdo 127,111).
 
-   :   ![Catgamer02](../images/4/4f/Catgamer02.png)
+   :   ![Catgamer02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Catgamer02.png)
 
    - Clique no [NPC](../Sem%20categoria/NPC.md "NPC") diversas vezes até você conseguir dar continuidade na missão.
 3. Volte ao Diretor e conte a verdade (mal\_in01 31,210)
@@ -25,16 +25,16 @@
 4. Encontre 4 [NPCs](../Sem%20categoria/NPC.md "NPC") escondidos em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"). Cada 1 só aparece se os outros 3 estiverem desaparecidos, ou seja, se um [NPC](../Sem%20categoria/NPC.md "NPC") não estiver no local indicado, procure pelos outros 3 até ter falado com todos.
    1. Diga que você é um Redador de Revista para Eryu (malangdo 161,197)
 
-      :   ![Catgamer03](../images/4/4b/Catgamer03.png)
+      :   ![Catgamer03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Catgamer03.png)
    2. Dê notícias de investimentos a Eff (malangdo 181,119)
 
-      :   ![Catgamer05](../images/f/f8/Catgamer05.png)
+      :   ![Catgamer05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/Catgamer05.png)
    3. Fale sobre a 'Latas para Gatinhos' para Ketchup (malangdo 244,144)
 
-      :   ![Catgamer06](../images/7/7d/Catgamer06.png)
+      :   ![Catgamer06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/Catgamer06.png)
    4. Mencione a empresa 'Enlatados Bum' para Stew (malangdo 230,197)
 
-      :   ![Catgamer04](../images/c/ca/Catgamer04.png)
+      :   ![Catgamer04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Catgamer04.png)
 
       - Se Stew não estiver aparecendo, visite outros gatos.
 5. Volte ao Diretor (mal\_in01 31,210)

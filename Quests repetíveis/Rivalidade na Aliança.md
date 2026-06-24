@@ -18,23 +18,23 @@
 
 1. Aproxime-se do Oficial de Pesquisa (mid\_campin 376,120)
 
-   :   ![Rivalidade na Aliança01](../images/5/5e/Rivalidade_na_Alian%C3%A7a01.png)
+   :   ![Rivalidade na Aliança01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Rivalidade_na_Alian%C3%A7a01.png)
 2. Pegue o [Convite para Reunião](http://www.divine-pride.net/database/item/6036/) com Ryosen (mid\_camp 165,245)
 
-   :   ![Rivalidade na Aliança02](../images/2/2a/Rivalidade_na_Alian%C3%A7a02.png)
+   :   ![Rivalidade na Aliança02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Rivalidade_na_Alian%C3%A7a02.png)
 3. Fale várias vezes até conseguir a assinatura de Hue (mid\_camp 247,255)
 
-   :   ![Rivalidade na Aliança03](../images/c/c8/Rivalidade_na_Alian%C3%A7a03.png)
+   :   ![Rivalidade na Aliança03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/Rivalidade_na_Alian%C3%A7a03.png)
 4. Colha a assinatura de Hansenne (mid\_camp 222,218)
 
-   :   ![Rivalidade na Aliança04](../images/f/fa/Rivalidade_na_Alian%C3%A7a04.png)
+   :   ![Rivalidade na Aliança04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Rivalidade_na_Alian%C3%A7a04.png)
 5. Retorne a Ryosen. (mid\_camp 165,245)
 6. Volte ao Oficial de Pesquisa.
 7. Fale com Ryosen novamente. (mid\_camp 165,245)
 8. Localize Hansenne. (mid\_camp 222,218)
 9. Clique no Cardume e fique pescando até conseguir o [Arquivo Estragado](http://www.divine-pride.net/database/item/6037/) (mid\_camp 69,144)
 
-   :   ![Rivalidade na Aliança05](../images/0/02/Rivalidade_na_Alian%C3%A7a05.png)
+   :   ![Rivalidade na Aliança05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Rivalidade_na_Alian%C3%A7a05.png)
 10. Volte a Hansenne. (mid\_camp 222,218)
 11. Entregue os itens pedidos para Hue lhe dar um [Arquivo Limpo](http://www.divine-pride.net/database/item/6038/). (mid\_camp 247,255)
 12. Entregue o [Arquivo Limpo](http://www.divine-pride.net/database/item/6038/) para Ryosen. (mid\_camp 165,245)

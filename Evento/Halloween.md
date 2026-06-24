@@ -17,19 +17,19 @@
 
 1. Fale com Hurirong em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") ou [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc") (prontera 162,98)
 
-   :   ![Halloween01](../images/5/50/Halloween01.png)
+   :   ![Halloween01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Halloween01.png)
 2. Ao continuar ouvindo a conversa, seu personagem será teleportado para [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim").
    - Tome cuidado com esse mapa, ele possui monstros de nível 90 ou mais.
    - Os monstros do evento estão espalhados nos mapas de campo e calabouço.
 3. Ao chegar na cidade, ouça a conversa dos Ludes (niflheim 177,242)
 
-   :   ![Halloween02](../images/2/2e/Halloween02.png)
+   :   ![Halloween02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Halloween02.png)
 4. Fale com Jakk (niflheim 187,190)
 
-   :   ![Halloween03a](../images/9/95/Halloween03a.png)
+   :   ![Halloween03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/Halloween03a.png)
 5. Retorne aos Ludes falando com Hururong (niflheim 180,242)
 
-   :   ![Halloween02a](../images/6/6c/Halloween02a.png)
+   :   ![Halloween02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Halloween02a.png)
 6. Elimine 10 [Jakks Fugitivos](http://www.divine-pride.net/database/monster/1926/) e colete os itens abaixo para Hororong (niflheim 177,241)
    - ![25421.png](http://static.divine-pride.net/images/items/item/25421.png) 10 [Decoração de Abóbora](http://www.divine-pride.net/database/item/25421/)
    - ![25422.png](http://static.divine-pride.net/images/items/item/25422.png) 20 [Ramo Branco Fino](http://www.divine-pride.net/database/item/25422/)
@@ -45,7 +45,7 @@
 
 1. Traga ![25422.png](http://static.divine-pride.net/images/items/item/25422.png) 1 [Ramo Branco Fino](http://www.divine-pride.net/database/item/25422/) para Jakk (niflheim 172,244)
 
-   :   ![Halloween03](../images/8/8a/Halloween03.png)
+   :   ![Halloween03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Halloween03.png)
 2. Agora você deve encontrar pistas do gato de Jakk conversando com os seguintes [NPCs](../Sem%20categoria/NPC.md "NPC"):
    1. Harorong (niflheim 169,241)
    2. Nibble (niflheim 43,147)
@@ -56,7 +56,7 @@
    3. Negociante Trêmulo (alberta 45,239)
 4. Converse com o Gato Branco (alberta 198,50)
 
-   :   ![Halloween09a](../images/f/f0/Halloween09a.png)
+   :   ![Halloween09a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Halloween09a.png)
 5. Clique no Monte de Areia atrás do Gato para conseguir ![25245.png](http://static.divine-pride.net/images/items/item/25245.png) 1 [Pequena Pilha de Ossos](http://www.divine-pride.net/database/item/25245/).
 6. Em [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim"), entregue a [Pequena Pilha de Ossos](http://www.divine-pride.net/database/item/25245/) ao Jakk (niflheim 172,244)
    - Você recebe:
@@ -66,11 +66,11 @@
 7. Fale mais uma vez com Jakk (niflheim 172,244)
 8. Encontre o Zumbichano (niflheim 146,199)
 
-   :   ![Halloween010](../images/0/08/Halloween010.png)
+   :   ![Halloween010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Halloween010.png)
 9. Retorne ao Jakk (niflheim 172,244)
 10. Procure pela Cova do Zumbichano (nif\_fild02 137,228)
 
-    :   ![Halloween011](../images/1/1b/Halloween011.png)
+    :   ![Halloween011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Halloween011.png)
 11. Você deve coletar ![25401.png](http://static.divine-pride.net/images/items/item/25401.png) 5 [Pelugens Negras](http://www.divine-pride.net/database/item/25401/) adquiridos ao eliminar os monstros nos arredores de [Niflheim](http://www.divine-pride.net/database/map/niflheim/).
 12. Assim que trouxer as 5 Pelugens Negras para a Cova, volte para o Jakk (niflheim 172,244).
 13. Em seguida, converse com o Zumbichano (niflheim 146,199)
@@ -94,7 +94,7 @@
 
 1. Converse com Herorong (niflheim 183,249)
 
-   :   ![Halloween013](../images/6/60/Halloween013.png)
+   :   ![Halloween013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Halloween013.png)
 2. Investigue o paradeiro do Jakk Estranhíssimo conversando com os seguintes [NPCs](../Sem%20categoria/NPC.md "NPC"):
    1. Jakk perto dos Ludes (niflheim 187,248)
    2. Jakk na entrada (niflheim 24,155)
@@ -103,7 +103,7 @@
       Você recebe ![12347.png](http://static.divine-pride.net/images/items/item/12347.png) 1 [Geleia de Avelã](http://www.divine-pride.net/database/item/12347/).
 3. Encontre o Jakk Estranhíssimo (niflheim 223,266)
 
-   :   ![Halloween014](../images/7/75/Halloween014.png)
+   :   ![Halloween014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Halloween014.png)
 
    - Elimine 20 [Alhoring](http://www.divine-pride.net/database/monster/20695/) para o Jakk Estranho.
 4. Retorne a Herorong (niflheim 183,249)
@@ -138,7 +138,7 @@
 
 ## Premiação
 
-:   ![Halloween019](../images/8/81/Halloween019.png)
+:   ![Halloween019](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Halloween019.png)
 
 - As [Moedas de Halloween](http://www.divine-pride.net/database/item/6658/) podem ser trocadas com o Gerente de Prêmios (niflheim 197,228)
 - 5 [Moedas de Halloween](http://www.divine-pride.net/database/item/6658/) garantem 1 prêmio aleatório abaixo.

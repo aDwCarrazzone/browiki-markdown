@@ -15,22 +15,22 @@
 
 1. Leia o Aviso de Procura (prontera 150,326)
 
-   :   ![GangueZ1](../images/8/8b/GangueZ1.png)
+   :   ![GangueZ1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/GangueZ1.png)
 2. Ao lado, fale com o Chefe da Polícia (prontera 148,326)
 
-   :   ![GangueZ2](../images/c/c4/GangueZ2.png)
+   :   ![GangueZ2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/GangueZ2.png)
 3. Com 5 [Vinhos de Frutas de Morroc](http://www.divine-pride.net/database/item/12049/), pergunte sobre a Gangue Z para Valdes (prt\_in 168,18)
 
-   :   ![GangueZ3](../images/2/23/GangueZ3.png)
+   :   ![GangueZ3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/GangueZ3.png)
 4. Pergunte sobre a Gangue Z para Marybell (in\_rogue 359,116)
 
-   :   ![GangueZ4](../images/a/a2/GangueZ4.png)
+   :   ![GangueZ4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/GangueZ4.png)
 
    - Digite:
      - `O alvorecer está por vir`
 5. Desafie Moonho Ahn (payon 244,62)
 
-   :   ![GangueZ5](../images/9/9e/GangueZ5.png)
+   :   ![GangueZ5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/GangueZ5.png)
 
    - Cada partida custa 500 [zenys](../Sem%20categoria/Zenys.md "Zenys").
    - Seu objetivo é adivinhar as moedas digitando `Par` ou  `ímpar`
@@ -40,10 +40,10 @@
    - Selecione todas as opções.
 7. Você deverá encontrar o Homem Suspeito em uma dos dois locais possíveis. Se ele não estiver em um ponto, ele poderá estar no outro.
 
-   :   ![GangueZ6](../images/4/42/GangueZ6.png)
+   :   ![GangueZ6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/GangueZ6.png)
 
        :   (moc\_ruins 90,67)
-   :   ![GangueZ7](../images/4/4d/GangueZ7.png)
+   :   ![GangueZ7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/GangueZ7.png)
 
        :   (moc\_ruins 75,171)
 
@@ -51,11 +51,11 @@
 8. Volte a Marybell.
 9. Entregue os itens a Gooho Ahan (payon 192,176)
 
-   :   ![GangueZ8](../images/9/99/GangueZ8.png)
+   :   ![GangueZ8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/GangueZ8.png)
 10. Reencontre Marybell.
 11. Ande ao redor da Tábua Estranha (moc\_fild17 209,234)
 
-    :   ![GangueZ9](../images/e/ef/GangueZ9.png)
+    :   ![GangueZ9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/GangueZ9.png)
 
     - Digite:
       - `Ssoom gadrean G anueg Z`
@@ -64,7 +64,7 @@
 12. Dentro do esconderijo, caminhe derrotando [Esqueletos Prisioneiros](http://www.divine-pride.net/database/monster/1196/) e [Soldados Atiradores](http://www.divine-pride.net/database/monster/1403/) até que os membros da Gangue Z sejam revelados.
 13. Fale com qualquer um dos membros da Gangue Z.
 
-    :   ![GangueZ10](../images/4/48/GangueZ10.png)
+    :   ![GangueZ10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/GangueZ10.png)
 
     - Você receberá uma [Esquecida Arte Secreta](http://www.divine-pride.net/database/item/7724/).
 14. Retorne ao Chefe da Polícia para receber sua recompensa.

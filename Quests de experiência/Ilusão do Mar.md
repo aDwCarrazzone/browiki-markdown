@@ -17,13 +17,13 @@
 
 - Mecânica do mapa:
   - São 2 mapas, onde o último só pode ser acessado por personagens de nível base 180 ou mais.
-  - Para invocar uma [Bruxa do Mar](http://www.divine-pride.net/database/monster/20843/)![MonstroMVP](../images/5/53/MonstroMVP.png) no [Túnel Abismal](http://www.divine-pride.net/database/map/iz_d04_i/), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros:
+  - Para invocar uma [Bruxa do Mar](http://www.divine-pride.net/database/monster/20843/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png) no [Túnel Abismal](http://www.divine-pride.net/database/map/iz_d04_i/), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros:
     - 2.500 [Sropho Abismal](http://www.divine-pride.net/database/monster/20801/),
     - 2.500 [Obeaune Abismal](http://www.divine-pride.net/database/monster/20802/),
     - 2.500 [Deviace Abismal](http://www.divine-pride.net/database/monster/20803/),
     - 2.500 [Marse Abismal](http://www.divine-pride.net/database/monster/20804/) e
     - 2.500 [Tritão Abismal](http://www.divine-pride.net/database/monster/20805/).
-  - Para invocar um [Kraken Abismal](http://www.divine-pride.net/database/monster/20811/)![MonstroMVP](../images/5/53/MonstroMVP.png) no [Templo Abismal](http://www.divine-pride.net/database/map/iz_d05_i/), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros:
+  - Para invocar um [Kraken Abismal](http://www.divine-pride.net/database/monster/20811/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png) no [Templo Abismal](http://www.divine-pride.net/database/map/iz_d05_i/), todos os jogadores do servidor precisam eliminar as seguintes quantidades de monstros:
     - 2.500 [Sedora Abismal](http://www.divine-pride.net/database/monster/20806/),
     - 2.500 [Peixe Abismal](http://www.divine-pride.net/database/monster/20807/),
     - 2.500 [Strouf Abismal](http://www.divine-pride.net/database/monster/20808/),
@@ -35,16 +35,16 @@
 
 1. Em [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude"), aceite ajudar Gael e seus amigos (izlude 132,49). Você receberá uma [Vara de Pescaria](http://www.divine-pride.net/database/item/25898/).
 
-   :   ![Underwater01](../images/6/63/Underwater01.png)
+   :   ![Underwater01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Underwater01.png)
 2. Na biblioteca de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), encontre Jeremias (prt\_elib 57,18).
 
-   :   ![Underwater02 new](../images/5/56/Underwater02_new.png)
+   :   ![Underwater02 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Underwater02_new.png)
 3. Volte a falar com Gael (izlude 132,49). Você receberá uma [Essência Abismal](http://www.divine-pride.net/database/item/25899/).
 4. Retorne a Jeremias (prt\_elib 57,18).
 5. De volta a [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude"), aproxime-se de Gael para que Jeremias apareça (izlude 132,54).
 6. Você aparece na [Ilusão Submarina](http://www.divine-pride.net/database/map/iz_d04_i/). Fale com Jeremias (iz\_d04\_i 127,228).
 
-   :   ![Underwater04](../images/1/1c/Underwater04.png)
+   :   ![Underwater04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/Underwater04.png)
 
    1. Elimine 10 [Sropho Abismal](http://www.divine-pride.net/database/monster/20801/), 10 [Deviace Abismal](http://www.divine-pride.net/database/monster/20803/) e 10 [Marse Abismal](http://www.divine-pride.net/database/monster/20804/).
    2. Retorne a Jeremias. Você ganha 2 [Pedras Ilusionais](http://www.divine-pride.net/database/item/25271/) e [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base 4.441.860 e 3.109.300 de classe.

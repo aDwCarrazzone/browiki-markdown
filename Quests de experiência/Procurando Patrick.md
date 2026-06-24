@@ -16,10 +16,10 @@
 
 1. Aceite ajudar Kaya Toss (sp\_cor 136,146)
 
-   :   ![KayaCOR](../images/a/ac/KayaCOR.png)
+   :   ![KayaCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/KayaCOR.png)
 2. Converse com os Trabalhadores do distrito:
 
-   :   ![Paka00](../images/2/22/Paka00.png)
+   :   ![Paka00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Paka00.png)
 
    1. Trabalhadora, ao lado de Kaya (sp\_cor 132,144)
    2. Pesquisadora (sp\_cor 224,77)
@@ -28,18 +28,18 @@
    4. Trabalhador (sp\_cor 70,263)
 3. Vá para [Rudus](http://www.divine-pride.net/database/map/sp_rudus/) falando com o Guarda da Rebelião (ein\_fild05 156,288)
 
-   :   ![Ilusion02](../images/6/64/Ilusion02.png)
+   :   ![Ilusion02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/Ilusion02.png)
 4. Clique no Traço Suspeito (sp\_rudus 228,350)
 
-   :   ![Paka01](../images/3/30/Paka01.png)
+   :   ![Paka01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Paka01.png)
 5. Encontre a Pessoa Abandonada (sp\_rudus 15,280)
 
-   :   ![Paka02](../images/8/89/Paka02.png)
+   :   ![Paka02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Paka02.png)
 
    - Você receberá 300.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
 6. Agora você deve investigar os Traços Suspeitos marcados no mini-mapa.
 
-   :   ![Paka03](../images/d/d4/Paka03.png)
+   :   ![Paka03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Paka03.png)
 
    - Cada traço dá uma chance de conseguir um [Bracelete de Identificação](http://www.divine-pride.net/database/item/25666/), se não conseguir em um, tente em outro.
    - As opções de escolha não alteram em nada no progresso da missão.

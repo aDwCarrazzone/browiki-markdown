@@ -34,7 +34,7 @@ Concede efeitos positivos temporariamente a um [Caçador](../Sem%20categoria/Ca%
 ### Efeitos
 
 - Se possuir [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") nv. 10:
-  - Habilita [![Ataque da Fera](../images/1/14/Ataque_da_Fera.png)](../Ofensiva/Ataque%20da%20Fera.md "Ataque da Fera") [Ataque da Fera](../Ofensiva/Ataque%20da%20Fera.md "Ataque da Fera").
+  - Habilita [![Ataque da Fera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/Ataque_da_Fera.png)](../Ofensiva/Ataque%20da%20Fera.md "Ataque da Fera") [Ataque da Fera](../Ofensiva/Ataque%20da%20Fera.md "Ataque da Fera").
 - Cada ponto de [FOR](../Sem%20categoria/FOR.md "FOR") aumenta o [ATQ](../Sem%20categoria/ATQ.md "ATQ") de [Flagelo das Feras](../Passiva/Flagelo%20das%20Feras.md "Flagelo das Feras") em 1.
 
 ## Notas

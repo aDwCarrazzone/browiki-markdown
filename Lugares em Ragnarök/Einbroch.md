@@ -2,7 +2,7 @@
 
 # Einbroch
 
-[![Einbroch](../images/a/a1/Einbroch.jpg)](https://browiki.org/wiki/Arquivo%3AEinbroch.jpg)
+[![Einbroch](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Einbroch.jpg)](https://browiki.org/wiki/Arquivo%3AEinbroch.jpg)
 
 Einbroch, a Cidade de Aço
 
@@ -56,7 +56,7 @@ Para completar ainda mais o cenário, uma grande revolta conhecida como Rebeliã
 | Ansuriya | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | (pub\_cat 94,43) |
 | Gervena | [Além do Limite](../Quests%20de%20experi%C3%AAncia/Al%C3%A9m%20do%20Limite.md "Além do Limite") | (pub\_cat 89,32) |
 
-[![Artwork Rudus](../images/b/b1/Artwork_Rudus.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Rudus.png)
+[![Artwork Rudus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Artwork_Rudus.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Rudus.png)
 
 Rudus, o depósito de rejeitos
 

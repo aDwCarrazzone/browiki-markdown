@@ -16,7 +16,7 @@
 
 1. Inicie o evento falando com Chocolai (prontera 163,98), que pede uma missão depois da outra:
 
-   :   ![Chocomania01 new](../images/1/16/Chocomania01_new.png)
+   :   ![Chocomania01 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Chocomania01_new.png)
 2. Elimine 10 [Quindings](http://www.divine-pride.net/database/monster/3790/) e receba 20 [Chocoeda](http://www.divine-pride.net/database/item/25290/) e 1 *doce aleatório* de Chocolai.
    - *Doce aleatório*: Crepe Doce, Parfait de Frutas, Macaroons, Bolo Mont Blanc ou Cupcake de Morango
 3. Em seguida, traga 20 [Grãos de Cacau Roubados](http://www.divine-pride.net/database/item/25292/) e receba 30 [Chocoeda](http://www.divine-pride.net/database/item/25290/) e 1 *doce aleatório* de Chocolai.

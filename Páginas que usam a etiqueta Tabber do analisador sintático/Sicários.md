@@ -50,7 +50,7 @@ Domine ataques especiais capazes de atingir todos ao seu redor ou inimigos mais 
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeSicários new](../images/8/8f/SkilltreeSic%C3%A1rios_new.png)
+![SkilltreeSicários new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/SkilltreeSic%C3%A1rios_new.png)
 
 ## Construção do Personagem
 

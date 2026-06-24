@@ -34,7 +34,7 @@ Enquanto estiver invocada, garante efeitos adicionais.
 
 ### Efeitos adicionais
 
-- [![Esporo Explosivo](../images/1/1d/Esporo_Explosivo.png)](../Ofensiva/Esporo%20Explosivo.md "Esporo Explosivo") [Esporo Explosivo](../Ofensiva/Esporo%20Explosivo.md "Esporo Explosivo"):
+- [![Esporo Explosivo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1d/Esporo_Explosivo.png)](../Ofensiva/Esporo%20Explosivo.md "Esporo Explosivo") [Esporo Explosivo](../Ofensiva/Esporo%20Explosivo.md "Esporo Explosivo"):
   - Multiplicador de dano base aumenta de 200 para 500.
 
 ## A Fada

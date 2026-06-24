@@ -17,7 +17,7 @@
 
 1. Converse com o Mestre-Ferreiro Gatti (dew\_fild01 127,240)
 
-   :   ![A Arma Tradicional01](../images/1/10/A_Arma_Tradicional01.png)
+   :   ![A Arma Tradicional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/A_Arma_Tradicional01.png)
 
    - Selecione:
      - *Não, não sou*

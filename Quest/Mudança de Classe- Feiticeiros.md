@@ -16,7 +16,7 @@
 
 1. Encontre Merito (gef\_tower 102,34)
 
-   :   ![MdCsorc01](../images/4/42/MdCsorc01.png)
+   :   ![MdCsorc01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/MdCsorc01.png)
 
    - Ele só falará com você se tiver distribuído todos os pontos de habilidade.
    - Selecione:
@@ -29,7 +29,7 @@
      - Vou fazer o teste
 2. Com os itens no inventário, fale com Karacas (gef\_tower 113,161)
 
-   :   ![MdCsorc02](../images/7/7c/MdCsorc02.png)
+   :   ![MdCsorc02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/MdCsorc02.png)
 
    - 3 [Frescor do Vento](http://www.divine-pride.net/database/item/992/)
    - 3 [Cristal Azul](http://www.divine-pride.net/database/item/991/)
@@ -46,26 +46,26 @@
 
    1. Espírito Detector do Fogo (thor\_v01 64,252)
 
-      :   ![MdCsorc03](../images/b/b9/MdCsorc03.png)
+      :   ![MdCsorc03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/MdCsorc03.png)
 
       - Consome 3 [Sangue Escarlate](http://www.divine-pride.net/database/item/990/) por tentativa.
       - Fornece [Reagente Puro](http://www.divine-pride.net/database/item/6276/) ou [Reagente Preto](http://www.divine-pride.net/database/item/6278/)
       - É considerado o espírito mais difícil e é desnecessário vir até ele.
    2. Espírito Detector da Água (ice\_dun01 274,274)
 
-      :   ![MdCsorc04](../images/1/12/MdCsorc04.png)
+      :   ![MdCsorc04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/MdCsorc04.png)
 
       - Consome 3 [Cristal Azul](http://www.divine-pride.net/database/item/991/) por tentativa
       - Fornece [Reagente Puro](http://www.divine-pride.net/database/item/6276/) ou [Reagente Preto](http://www.divine-pride.net/database/item/6278/)
    3. Espírito Detector do Vento (gon\_dun02 195,190)
 
-      :   ![MdCsorc05](../images/b/bd/MdCsorc05.png)
+      :   ![MdCsorc05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/MdCsorc05.png)
 
       - Consome 3 [Frescor do Vento](http://www.divine-pride.net/database/item/992/) por tentativa
       - Fornece [Reagente Preto](http://www.divine-pride.net/database/item/6278/) ou [Reagente Vermelho](http://www.divine-pride.net/database/item/6277/)
    4. Espírito Detector da Terra (mjo\_dun03 200,141)
 
-      :   ![MdCsorc06](../images/4/42/MdCsorc06.png)
+      :   ![MdCsorc06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/MdCsorc06.png)
 
       - Consome 3 [Vida Verdejante](http://www.divine-pride.net/database/item/993/) por tentativa
       - Fornece [Reagente Vermelho](http://www.divine-pride.net/database/item/6277/) ou [Reagente Puro](http://www.divine-pride.net/database/item/6276/)

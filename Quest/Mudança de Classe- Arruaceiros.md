@@ -17,10 +17,10 @@
 
 1. Dirija-se para a guilda dos [arruaceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arruaceiros.md "Arruaceiros") em [Pharos](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md "Pharos") e desça as escadas (in\_rogue 377,32)
 
-   :   ![MdCrogue01](../images/5/5c/MdCrogue01.png)
+   :   ![MdCrogue01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/MdCrogue01.png)
 2. Inscreva-se com a Arruaceira da Guilda (in\_rogue 367,120) e responda corretamente 8 de 10 perguntas para passar no teste.
 
-   :   ![MdCrogue02](../images/6/64/MdCrogue02.png)
+   :   ![MdCrogue02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/MdCrogue02.png)
 
 | Perguntas possíveis 1 | Respostas |
 | --- | --- |
@@ -59,7 +59,7 @@
 
 :   3. Pague 10.000 zeny e entregue 1 dos conjuntos de itens abaixo para Smithrato (in\_rogue 375,23)
 
-    :   ![MdCrogue03](../images/2/2f/MdCrogue03.png)
+    :   ![MdCrogue03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/MdCrogue03.png)
 
 :   :   | Aleatório entre | |
         | --- | --- |
@@ -80,7 +80,7 @@
 
         :   5. Fale com o [NPC](../Sem%20categoria/NPC.md "NPC") dentro da residência. Sua missão é atravessar um labirinto cheio de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
 
-            :   ![MdCrogue08](../images/1/1c/MdCrogue08.png)
+            :   ![MdCrogue08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/MdCrogue08.png)
 
             - Preste atenção nas dicas:
               - Marcados no mapa como um diabinho, são os monstros invocados ao caminhar ao redor.

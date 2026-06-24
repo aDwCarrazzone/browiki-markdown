@@ -26,7 +26,7 @@ Aumenta a [DEF](../Sem%20categoria/DEF.md "DEF") e o limite de Superaquecimento.
 
 ### Superaquecimento
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Superaquecimento](../images/3/34/I_Superaquecimento.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Superaquecimento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/I_Superaquecimento.png)
 - Enquanto pilotar um M.E.C.H.A., cada dano recebido equivale a 1 ponto e cada dano de propriedade [fogo](../Sem%20categoria/Fogo.md "Fogo") fornece +3 pontos.
 - O superaquecimento inicia ao atingir 150 pontos ou o limite definido por *Reforçar Estrutura*.
 - Durante esse estado, 1% de [HP](../Sem%20categoria/HP.md "HP") será drenado a cada segundo.

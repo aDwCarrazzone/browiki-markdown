@@ -27,11 +27,11 @@ Enquanto o contrato estiver ativo, consome 1 de [SP](../Sem%20categoria/SP.md "S
 
 Durante o contrato, os seguintes efeitos serão aplicados:
 
-- Ativa [![Ataque Duplo](../images/1/12/Ataque_Duplo.png)](../Passiva/Ataque%20Duplo.md "Ataque Duplo") [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo")
-- Dano de [![Kunai Explosiva](../images/e/ea/Kunai_Explosiva.png)](../Ofensiva/Kunai%20Explosiva.md "Kunai Explosiva") [Kunai Explosiva](../Ofensiva/Kunai%20Explosiva.md "Kunai Explosiva") +20%.
-- Dano de [![Turbilhão de Kunais](../images/7/76/Turbilh%C3%A3o_de_Kunais.png)](../Ofensiva/Turbilh%C3%A3o%20de%20Kunais.md "Turbilhão de Kunais") [Turbilhão de Kunais](../Ofensiva/Turbilh%C3%A3o%20de%20Kunais.md "Turbilhão de Kunais") +20%.
-- Dano de [![Impacto Cruzado](../images/e/e2/Impacto_Cruzado.png)](../Ofensiva/Impacto%20Cruzado.md "Impacto Cruzado") [Impacto Cruzado](../Ofensiva/Impacto%20Cruzado.md "Impacto Cruzado") +20%.
-- Dano de [![Turbilhão de Pétalas](../images/a/a7/Turbilh%C3%A3o_de_P%C3%A9talas.png)](../Ofensiva/Turbilh%C3%A3o%20de%20P%C3%A9talas.md "Turbilhão de Pétalas") [Turbilhão de Pétalas](../Ofensiva/Turbilh%C3%A3o%20de%20P%C3%A9talas.md "Turbilhão de Pétalas") +20%.
+- Ativa [![Ataque Duplo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Ataque_Duplo.png)](../Passiva/Ataque%20Duplo.md "Ataque Duplo") [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo")
+- Dano de [![Kunai Explosiva](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Kunai_Explosiva.png)](../Ofensiva/Kunai%20Explosiva.md "Kunai Explosiva") [Kunai Explosiva](../Ofensiva/Kunai%20Explosiva.md "Kunai Explosiva") +20%.
+- Dano de [![Turbilhão de Kunais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Turbilh%C3%A3o_de_Kunais.png)](../Ofensiva/Turbilh%C3%A3o%20de%20Kunais.md "Turbilhão de Kunais") [Turbilhão de Kunais](../Ofensiva/Turbilh%C3%A3o%20de%20Kunais.md "Turbilhão de Kunais") +20%.
+- Dano de [![Impacto Cruzado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Impacto_Cruzado.png)](../Ofensiva/Impacto%20Cruzado.md "Impacto Cruzado") [Impacto Cruzado](../Ofensiva/Impacto%20Cruzado.md "Impacto Cruzado") +20%.
+- Dano de [![Turbilhão de Pétalas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Turbilh%C3%A3o_de_P%C3%A9talas.png)](../Ofensiva/Turbilh%C3%A3o%20de%20P%C3%A9talas.md "Turbilhão de Pétalas") [Turbilhão de Pétalas](../Ofensiva/Turbilh%C3%A3o%20de%20P%C3%A9talas.md "Turbilhão de Pétalas") +20%.
 
 | Nv. | Duração | [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- | --- |

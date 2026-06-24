@@ -21,7 +21,7 @@
 | **Pré-requisitos** | |
 | [Luar Sinistro](Luar%20Sinistro.md "Luar Sinistro") [Luar Sinistro](Luar%20Sinistro.md "Luar Sinistro") Nv. 3 | |
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para a Caverna Ilusional, veja [Ilusão da Lua](../Quests%20de%20experi%C3%AAncia/Ilus%C3%A3o%20da%20Lua.md "Ilusão da Lua").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para a Caverna Ilusional, veja [Ilusão da Lua](../Quests%20de%20experi%C3%AAncia/Ilus%C3%A3o%20da%20Lua.md "Ilusão da Lua").
 
 Usa a ilusão da lua para alterar aleatoriamente os valores de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP").
 

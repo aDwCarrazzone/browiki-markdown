@@ -14,22 +14,22 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Alice (iz\_ac02 156,169)
 
-   :   ![Aca Alcolyte01](../images/3/3b/Aca_Alcolyte01.png)
+   :   ![Aca Alcolyte01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Aca_Alcolyte01.png)
 
    - Ao lado, a Religiosa lhe dará um [Manual do Noviço](http://www.divine-pride.net/database/item/2821/).
    - Esse passo é opcional, mas ajuda a chegar mais rápido na Guilda dos Noviços.
    - Você pode optar por mudar de classe diretamente na Academia, mas é recomendável mudar de classe na Guilda.
 2. Na Catedral de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"), fale com o Padre Necrus (prt\_church 184,41)
 
-   :   ![Aca Alcolyte02](../images/c/c9/Aca_Alcolyte02.png)
+   :   ![Aca Alcolyte02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Aca_Alcolyte02.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
      - ![1545.png](http://static.divine-pride.net/images/items/item/1545.png) 1 [Maça de Iniciante](http://www.divine-pride.net/database/item/1545/)
-     - Aprende [![Luz Divina](../images/9/97/Luz_Divina.png)](../Ofensiva/Luz%20Divina.md "Luz Divina") [Luz Divina](../Ofensiva/Luz%20Divina.md "Luz Divina")
+     - Aprende [![Luz Divina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Luz_Divina.png)](../Ofensiva/Luz%20Divina.md "Luz Divina") [Luz Divina](../Ofensiva/Luz%20Divina.md "Luz Divina")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -43,7 +43,7 @@
 
 1. Fale com Alice (prt\_church 186,36)
 
-   :   ![Tu Alcolyte01](../images/d/df/Tu_Alcolyte01.png)
+   :   ![Tu Alcolyte01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/df/Tu_Alcolyte01.png)
 
    - Selecione a opção "*Missões*".
    - As missões não podem ser repetidas.
@@ -59,7 +59,7 @@
 
 :   :   2. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

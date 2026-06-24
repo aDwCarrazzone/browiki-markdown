@@ -15,7 +15,7 @@
 
 1. Converse mais de uma vez com o Vovô Tartaruga (alberta\_in 23,104)
 
-   :   ![O Segredo das Chaves01](../images/6/63/O_Segredo_das_Chaves01.png)
+   :   ![O Segredo das Chaves01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/O_Segredo_das_Chaves01.png)
 
    - Selecione:
      - *hã...e quanto a ilha das tartarugas?*
@@ -23,18 +23,18 @@
      - *Você sabe o caminho até a Ilha das Tartarugas?*
 2. Leia a Carta (alberta\_in 18,102)
 
-   :   ![O Segredo das Chaves02](../images/d/d8/O_Segredo_das_Chaves02.png)
+   :   ![O Segredo das Chaves02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/O_Segredo_das_Chaves02.png)
 3. Pergunte sobre a ilha ao Pesquisador (alberta 246,114)
 
-   :   ![O Segredo das Chaves03](../images/2/26/O_Segredo_das_Chaves03.png)
+   :   ![O Segredo das Chaves03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/O_Segredo_das_Chaves03.png)
 4. Leia o Diário de Bordo (alberta 248,93)
 
-   :   ![O Segredo das Chaves04](../images/8/85/O_Segredo_das_Chaves04.png)
+   :   ![O Segredo das Chaves04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/O_Segredo_das_Chaves04.png)
 
    - É importante ler o diário para saber qual tipo de chave é mencionada.
 5. Fale com o Barqueiro (alberta 244,118)
 
-   :   ![O Segredo das Chaves05](../images/7/7d/O_Segredo_das_Chaves05.png)
+   :   ![O Segredo das Chaves05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/O_Segredo_das_Chaves05.png)
 
    - Após perguntar sobre a ilha e como chegar nela, ele viajará com você por 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
 6. Dirija-se para as coordenadas de acordo com a chave citada no diário.
@@ -43,7 +43,7 @@
 
    1. Localize a Lápide de Caveira (tur\_dun01 160,80)
 
-      :   ![O Segredo das Chaves06](../images/9/95/O_Segredo_das_Chaves06.png)
+      :   ![O Segredo das Chaves06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/O_Segredo_das_Chaves06.png)
 
       - Você receberá um dos prêmios aleatórios abaixo:
         - 5 [Bananas](http://www.divine-pride.net/database/item/513/)
@@ -54,13 +54,13 @@
 
    1. Encontre as Raízes Estranhas (tur\_dun02 133,250)
 
-      :   ![O Segredo das Chaves07](../images/b/bb/O_Segredo_das_Chaves07.png)
+      :   ![O Segredo das Chaves07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/O_Segredo_das_Chaves07.png)
    2. Localize a Pilha de Cristais (tur\_dun02 47,125)
 
-      :   ![O Segredo das Chaves09](../images/6/65/O_Segredo_das_Chaves09.png)
+      :   ![O Segredo das Chaves09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/O_Segredo_das_Chaves09.png)
    3. Procure o Pilar da Tartaruga (tur\_dun02 47,156)
 
-      :   ![O Segredo das Chaves08](../images/d/d5/O_Segredo_das_Chaves08.png)
+      :   ![O Segredo das Chaves08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/O_Segredo_das_Chaves08.png)
 
       - Você receberá um dos prêmios aleatórios abaixo:
         - 1 [Sangue de Animal](http://www.divine-pride.net/database/item/702/)
@@ -73,16 +73,16 @@
 
    1. Encontre a Pedra de Tartaruga (tur\_dun01 203,153)
 
-      :   ![O Segredo das Chaves010](../images/3/36/O_Segredo_das_Chaves010.png)
+      :   ![O Segredo das Chaves010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/O_Segredo_das_Chaves010.png)
    2. Procure pela Pedra de Tartaruga (tur\_dun02 76,248)
 
-      :   ![O Segredo das Chaves011](../images/3/35/O_Segredo_das_Chaves011.png)
+      :   ![O Segredo das Chaves011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/O_Segredo_das_Chaves011.png)
    3. Localize outra Pedra de Tartaruga (tur\_dun03 118,231)
 
-      :   ![O Segredo das Chaves012](../images/3/34/O_Segredo_das_Chaves012.png)
+      :   ![O Segredo das Chaves012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/O_Segredo_das_Chaves012.png)
    4. Ache mais uma Pedra de Tartaruga (tur\_dun04 110,175)
 
-      :   ![O Segredo das Chaves013](../images/b/b8/O_Segredo_das_Chaves013.png)
+      :   ![O Segredo das Chaves013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/O_Segredo_das_Chaves013.png)
 
       - Você receberá um dos prêmios aleatórios abaixo:
         - 1 [Galho Seco](http://www.divine-pride.net/database/item/604/)

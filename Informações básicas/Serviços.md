@@ -2,7 +2,7 @@
 
 # Serviços
 
-![Kafra](../images/e/e9/Kafra.png)
+![Kafra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Kafra.png)
 
 Em [Ragnarök](../Sem%20categoria/Ragnar%C3%B6k.md "Ragnarök"), existem NPCs essenciais para sua aventura.
 
@@ -39,7 +39,7 @@ Os NPCs mais importantes terão uma indicação acima deles e também no [mini-m
 
 ## Corporação Kafra
 
-![Kafras](../images/1/1e/Kafras.jpg)
+![Kafras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Kafras.jpg)
 
 É a mais conhecida organização de serviços, as [NPCs](../Sem%20categoria/NPC.md "NPC") são padronizadas com uniforme de fácil identificação e estão espalhadas por toda [Midgard](../Sem%20categoria/Midgard.md "Midgard").
 

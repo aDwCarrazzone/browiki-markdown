@@ -16,17 +16,17 @@
 
 1. No bar de [Veins](../Lugares%20em%20Ragnar%C3%B6k/Veins.md "Veins"), fale com o Verme Asqueroso (ve\_in 241,128)
 
-   :   ![MdCSu01](../images/7/74/MdCSu01.png)
+   :   ![MdCSu01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/MdCSu01.png)
 2. Saia do bar e dirija-se até a Lutadora, descendo as escadas (veins 127,238)
 
-   :   ![MdCSu02](../images/b/b7/MdCSu02.png)
+   :   ![MdCSu02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/MdCSu02.png)
 
    - Responda:
      - Mas eu ainda quero saber mais.
 3. Elimine 100 [Lobos do Deserto](http://www.divine-pride.net/database/monster/1106/) e volte a falar com a Lutadora.
 4. Inicie o teste prático com o Colega (yuno\_fild07 254,176)
 
-   :   ![MdCSu03](../images/3/3a/MdCSu03.png)
+   :   ![MdCSu03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/MdCSu03.png)
 
    - Seu personagem será teleportado para uma sala de espera, clique no chat e aguarde sua vez.
 5. O teste prático consiste em ficar 5 minutos numa sala repleta de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
@@ -36,7 +36,7 @@
    - Passado no teste, fale com o Colega no centro da sala para teleportar.
 6. Converse com o Mestre para mudar sua classe e receber 1 [Disciplina de Espírito](http://www.divine-pride.net/database/item/5754/) e 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/).
 
-   :   ![MdCSu07](../images/5/5a/MdCSu07.png)
+   :   ![MdCSu07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/MdCSu07.png)
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.
 

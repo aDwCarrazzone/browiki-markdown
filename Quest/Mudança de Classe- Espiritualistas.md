@@ -15,22 +15,22 @@
 
 1. Entregue os itens ao Garoto (morocc\_in 174,30)
 
-   :   ![MdCSL1](../images/d/de/MdCSL1.png)
+   :   ![MdCSL1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/MdCSL1.png)
 
    - Informações de como conseguir os materiais estão no link de cada item.
    - Seu personagem será teleportado para o [seu coração](http://www.divine-pride.net/database/map/job_soul/).
 2. Fale com o Espírito do Monge.
 
-   :   ![MdCSL3](../images/6/66/MdCSL3.png)
+   :   ![MdCSL3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/MdCSL3.png)
 3. Converse com o Espírito da Alquimista.
 
-   :   ![MdCSL2](../images/7/7e/MdCSL2.png)
+   :   ![MdCSL2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/MdCSL2.png)
 4. Fale com o Espírito do Sábio.
 
-   :   ![MdCSL4](../images/8/84/MdCSL4.png)
+   :   ![MdCSL4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/MdCSL4.png)
 5. Converse com Maia para mudar de classe.
 
-   :   ![MdCSL5](../images/a/a0/MdCSL5.png)
+   :   ![MdCSL5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/MdCSL5.png)
 
 | *O Poder Interior* | | |
 | --- | --- | --- |

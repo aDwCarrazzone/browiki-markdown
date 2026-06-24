@@ -15,13 +15,13 @@
 
 1. Aproxime-se de Moohuyn (payon 215,102)
 
-   :   ![QMTK1](../images/0/07/QMTK1.png)
+   :   ![QMTK1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/QMTK1.png)
 2. Entregue as 4 pedras elementais para o Mestre Andarilho (comodo 172,230). O mestre enviará você para um lugar especial.
 
-   :   ![QMTK2](../images/b/ba/QMTK2.png)
+   :   ![QMTK2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/QMTK2.png)
 3. Fale com Daru na sala do Sol, que fará 3 simples perguntas.
 
-   :   ![QMTK3](../images/5/5b/QMTK3.png)
+   :   ![QMTK3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/QMTK3.png)
 
    - Responda:
      - O Sol
@@ -30,7 +30,7 @@
    - Daru mandará você para a sala da Lua.
 4. Responda às perguntas de Beeryu.
 
-   :   ![QMTK4](../images/4/40/QMTK4.png)
+   :   ![QMTK4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/QMTK4.png)
 
    - Selecione:
      - Lua Azul
@@ -39,7 +39,7 @@
    - Beeryu mandará você para a sala das estrelas.
 5. Entregue os itens estelares a Cheehee.
 
-   :   ![QMTK5](../images/2/29/QMTK5.png)
+   :   ![QMTK5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/QMTK5.png)
 
    - Caso tenha se esquecido, ela te envia para fora da sala e aí, basta falar com o Mestre Andarilho novamente.
    - Selecione:

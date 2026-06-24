@@ -15,16 +15,16 @@
 
 1. Fale com 1 das 4 crianças (brasilis 183,245)
 
-   :   ![A Loira do Banheiro01](../images/b/b1/A_Loira_do_Banheiro01.png)
+   :   ![A Loira do Banheiro01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/A_Loira_do_Banheiro01.png)
 2. Para entrar no banheiro, entregue o [Coco](http://www.divine-pride.net/database/item/11515/) ao Curador (bra\_in01 9,181)
 
-   :   ![A Loira do Banheiro02](../images/b/b0/A_Loira_do_Banheiro02.png)
+   :   ![A Loira do Banheiro02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/A_Loira_do_Banheiro02.png)
 
    - O [Coco](http://www.divine-pride.net/database/item/11515/) é comprado no Feirante (brasilis 221,128)
    - Nesta parte da quest, sempre que você quiser entrar no banheiro, será necessário dar outro [Coco](http://www.divine-pride.net/database/item/11515/) ao Curador.
 3. No banheiro, clique nos [NPCs](../Sem%20categoria/NPC.md "NPC") em ordem:
 
-   :   ![Brasilisbanheiro](../images/b/bf/Brasilisbanheiro.png)
+   :   ![Brasilisbanheiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Brasilisbanheiro.png)
 
    1. **Porta:** Selecione *"Mexer"* e escreva a frase abaixo:
       - `Mamãe, a porta não abre!`
@@ -50,13 +50,13 @@
    - Se for maior, o fantasma de expulsa do banheiro e você terá que repetir desde o passo *2.*
 4. No cano de esgoto, siga reto e clique no *Vácuo Aberto*.
 
-   :   ![A Loira do Banheiro04](../images/b/b6/A_Loira_do_Banheiro04.png)
+   :   ![A Loira do Banheiro04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/A_Loira_do_Banheiro04.png)
 5. Para entrar no calabouço, existem duas formas:
    - Seguir aos campos de Brasilis e clicar no Cano (bra\_fild01 323,136)
 
-   :   ![A Loira do Banheiro05](../images/e/e1/A_Loira_do_Banheiro05.png)
+   :   ![A Loira do Banheiro05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/A_Loira_do_Banheiro05.png)
 
    - Ou você pode voltar ao banheiro, clicar no Vaso Sanitário e escolher "*Tirar a água*".
    - Para sair do calabouço, clique no Cano (bra\_dun01 87,46)
 
-   :   ![A Loira do Banheiro06](../images/a/a6/A_Loira_do_Banheiro06.png)
+   :   ![A Loira do Banheiro06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/A_Loira_do_Banheiro06.png)

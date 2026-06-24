@@ -51,7 +51,7 @@ Sua jornada começa com seu personagem [renascido](../Quests%20de%20ca%C3%A7a/Re
 
 ### Árvore de habilidades
 
-![SkilltreeCiganas](../images/5/5e/SkilltreeCiganas.png)
+![SkilltreeCiganas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/SkilltreeCiganas.png)
 
 ## Construção do Personagem
 

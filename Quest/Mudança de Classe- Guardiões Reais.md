@@ -14,13 +14,13 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 5757.png 1 [Ordem do Protetor](http://www.divine-pride.net/database/item/5757/) [1]  2795.png 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) |
 | **Recompensa** | Muda a classe para [Guardião Real](../Sem%20categoria/Guardi%C3%A3o%20Real.md "Guardião Real") |
 
-[![MapaChave GuildaTemplarios](../images/6/69/MapaChave_GuildaTemplarios.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_GuildaTemplarios.png)
+[![MapaChave GuildaTemplarios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/MapaChave_GuildaTemplarios.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_GuildaTemplarios.png)
 
 Mapa-chave. Clique para ampliar.
 
 1. **Saia da montaria** e siga para o Palácio de Prontera. Insista em conversar com o Senhor (prt\_cas 172,275)
 
-   :   ![RG test](../images/b/b4/RG_test.png)
+   :   ![RG test](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/RG_test.png)
 
    - Utilize o mapa **ao lado** para se localizar.
    - Selecione as opções várias vezes, até aparecer "*Quer saber mais.*":
@@ -31,14 +31,14 @@ Mapa-chave. Clique para ampliar.
      - Que interessante. Posso ir lá?
 2. Aproxime-se das coordenadas (gl\_church 156,96)
 
-   :   ![Qguardare2](../images/b/b8/Qguardare2.png)
+   :   ![Qguardare2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Qguardare2.png)
 3. Seu mini-mapa exibirá as coordenadas dos Traços Delicados, dirija-se a qualquer um deles até conseguir um [Trajes do Santo](http://www.divine-pride.net/database/item/6274/)
 
-   :   ![Qguardare3](../images/6/6d/Qguardare3.png)
+   :   ![Qguardare3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Qguardare3.png)
 4. Retorne ao Palácio e volte a falar com o Senhor (prt\_cas 172,275). Você receberá 1 [Escudo do Rei](http://www.divine-pride.net/database/item/6275/).
 5. Encontre o Pensamento de Schmidtz (glast\_01 240,367)
 
-   :   ![Qguardare4](../images/f/f0/Qguardare4.png)
+   :   ![Qguardare4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Qguardare4.png)
 
    - Ele mudará sua classe e você receberá 1 [Ordem do Protetor](http://www.divine-pride.net/database/item/5757/) [1] e 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/).
 6. Retorne ao Senhor no castelo, que não se lembrará de mais nada.

@@ -45,7 +45,7 @@ Durante o período do evento, você poderá solicitar uma Caixa Evolutiva para r
 - Você pode encantar os visuais recebidos com Pedras Visuais de Classe à sua escolha.
 - Fale com o Aives San Laurein em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo") (malangdo 152,133)
 
-  :   ![YvesSaintLauren](../images/b/bc/YvesSaintLauren.png)
+  :   ![YvesSaintLauren](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/YvesSaintLauren.png)
 
 | Posição | Preço |
 | --- | --- |
@@ -94,7 +94,7 @@ Durante o período do evento, você poderá solicitar uma Caixa Evolutiva para r
 
 - Troque seus cupons com Zento (prontera 166,300).
 
-  :   ![ZentoBooster](../images/d/de/ZentoBooster.png)
+  :   ![ZentoBooster](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/ZentoBooster.png)
 
 | Preço | Equipamento |
 | --- | --- |
@@ -168,7 +168,7 @@ Durante o período do evento, você poderá solicitar uma Caixa Evolutiva para r
 
 - Esses equipamentos podem ser encantados normalmente na RS26-1 (sp\_cor 98,136)
 
-  :   ![RS26Booster](../images/a/a8/RS26Booster.png)
+  :   ![RS26Booster](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/RS26Booster.png)
 
 | Módulo | Custo |
 | --- | --- |
@@ -182,7 +182,7 @@ Durante o período do evento, você poderá solicitar uma Caixa Evolutiva para r
 
 - Para reiniciar seus [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") e [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades"), fale com Rezy Tah Dorah (prontera 168,300)
 
-  :   ![ZentoBooster](../images/d/de/ZentoBooster.png)
+  :   ![ZentoBooster](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/ZentoBooster.png)
 - Personagens criados neste evento podem resetar quantas vezes quiser.
 - Cada reset aumentará o valor do procedimento.
 

@@ -17,7 +17,7 @@
 
 1. Sua jornada começa com o Funcionário Acadêmico (yuno\_in03 154,35)
 
-   :   ![Clschsabio01](../images/6/6c/Clschsabio01.png)
+   :   ![Clschsabio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Clschsabio01.png)
 
    - Você deverá pagar uma taxa de inscrição, podendo ser escolhida dentre as opções abaixo:
      - Pagar 70.000 [zenys](../Sem%20categoria/Zenys.md "Zenys")
@@ -26,7 +26,7 @@
      - Se você for *nível 50 de classe*, não precisa pagar a inscrição.
 2. Responda o questionário feito pelo Examinador Teórico (yuno\_in03 105,177)
 
-   :   ![Clschsabio02](../images/b/bf/Clschsabio02.png)
+   :   ![Clschsabio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Clschsabio02.png)
 
    - São 20 perguntas, valendo 5 pontos cada.
    - Você precisa, no mínimo, ter 80 pontos para passar nessa etapa.
@@ -100,7 +100,7 @@
 
 :   3. Inicie o teste de batalha com o pelo Examinador Prático (yuno\_in03 169,180)
 
-    :   ![Clschsabio03](../images/3/34/Clschsabio03.png)
+    :   ![Clschsabio03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Clschsabio03.png)
 
     - Seu objetivo é derrotar todos os monstros em 3 minutos nas 3 salas. Os monstros são:
       - [ChonChons](http://www.divine-pride.net/database/monster/1183/) e [Fabres](http://www.divine-pride.net/database/monster/1184/) agressivos.
@@ -110,7 +110,7 @@
 
     :   1. **Possibilidade 1:** Professor de Biologia (Ruthy Celsus) (yuno\_in03 32,102). Entregue os itens pedidos por ele, de maneira aleatória.
 
-           :   ![Clschsabio04](../images/f/f4/Clschsabio04.png)
+           :   ![Clschsabio04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Clschsabio04.png)
 
 :   :   | Conjunto 1: Peixes | Conjunto 2: Peixes | Conjunto 3: Peixes |
         | --- | --- | --- |
@@ -124,7 +124,7 @@
 
 :   :   1. **Possibilidade 2:** Professor de História (Sapien Lylees) (yuno\_in03 62,176). O [NPC](../Sem%20categoria/NPC.md "NPC") pedirá algo relacionado a Árvore Yggdrasil, traga apenas **1** da lista abaixo:
 
-           :   ![Clschsabio05](../images/d/d0/Clschsabio05.png)
+           :   ![Clschsabio05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Clschsabio05.png)
 
            - ![608.png](http://static.divine-pride.net/images/items/item/608.png) 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)
            - ![607.png](http://static.divine-pride.net/images/items/item/607.png) 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/)
@@ -132,7 +132,7 @@
 
 :   :   1. **Possibilidade 3:** Encontre o Professor de Física (Evecy Georgy) (yuno\_in03 244,31). Traga os seguintes itens a ele:
 
-           :   ![Clschsabio07](../images/f/f9/Clschsabio07.png)
+           :   ![Clschsabio07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Clschsabio07.png)
 
            - ![7049.png](http://static.divine-pride.net/images/items/item/7049.png) 30 [Pedras](http://www.divine-pride.net/database/item/7049/)
            - ![523.png](http://static.divine-pride.net/images/items/item/523.png) 1 [Água Benta](http://www.divine-pride.net/database/item/523/)
@@ -178,7 +178,7 @@
 
 :   7. Assim que seu Professor entregar a tese, fale com o Presidente da Academia (yuno\_in02 38,61) no Castelo dos Sábios para receber ![1550.png](http://static.divine-pride.net/images/items/item/1550.png) 1 [Livro](http://www.divine-pride.net/database/item/1550/) e mudar de classe.
 
-    :   ![Clschsabio06](../images/3/37/Clschsabio06.png)
+    :   ![Clschsabio06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Clschsabio06.png)
 
 | *O Poder dos Elementos* | | |
 | --- | --- | --- |

@@ -33,13 +33,13 @@
 
 1. Você começa sua jornada dentro do Navio Naufragado. Use o mouse para entrar no Portal (o círculo azul).
 
-   :   ![Atravessar](../images/a/ab/Atravessar.png)
+   :   ![Atravessar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Atravessar.png)
 2. Clique com o mouse no [NPC](../Sem%20categoria/NPC.md "NPC") deitado no chão, ele se chama "Passageiro Ferido". Clique mais uma vez para iniciar o diálogo. Use *Enter* para prosseguir com os diálogos.
 
-   :   ![TutorialNewbie01](../images/7/78/TutorialNewbie01.png)
+   :   ![TutorialNewbie01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/TutorialNewbie01.png)
 3. Saia do Navio seguindo as setas e entre pelo portal. Do lado de fora, fale com o Capitão Chobber.
 
-   :   ![TutorialNewbie02a](../images/a/a8/TutorialNewbie02a.png)
+   :   ![TutorialNewbie02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/TutorialNewbie02a.png)
 
    - Você pode selecionar qualquer opção.
    - Você receberá uma missão para coletar ![6008.png](http://static.divine-pride.net/images/items/item/6008.png) 2 [Madeiras de Reparos](http://www.divine-pride.net/database/item/6008/).
@@ -48,29 +48,29 @@
    - *Dica:* Fale Novamente com o Capitão Chobber para receber alguns Bônus.
 4. Ali ao lado, converse com Rumin. Você pode selecionar qualquer opção.
 
-   :   ![TutorialNewbie03](../images/e/e1/TutorialNewbie03.png)
+   :   ![TutorialNewbie03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/TutorialNewbie03.png)
 5. Consiga as [Madeiras de Reparos](http://www.divine-pride.net/database/item/6008/) matando os [Alvos de Prática](http://www.divine-pride.net/database/monster/2401/). Entregue as Madeiras para o Marinheiro.
 
-   :   ![TutorialNewbie05](../images/4/42/TutorialNewbie05.png)
+   :   ![TutorialNewbie05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/TutorialNewbie05.png)
 
    - Você ganha 5 [Lupa de Iniciante](http://www.divine-pride.net/database/item/12325/).
    - Você recebe 100 [EXP](../Sem%20categoria/EXP.md "EXP") de base de classe.
 6. Entre no portal do barco para seguir à [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude").
 
-   :   ![TutorialNewbie06](../images/a/a4/TutorialNewbie06.png)
+   :   ![TutorialNewbie06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/TutorialNewbie06.png)
 7. Na cidade, fale com o Capitão Chobber (izlude 198,213).
 
-   :   ![TutorialNewbie06a](../images/6/6f/TutorialNewbie06a.png)
+   :   ![TutorialNewbie06a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/TutorialNewbie06a.png)
 8. Subindo as escadas, fale com Leno, o ingênuo (izlude 180,213)
 
-   :   ![LenoIngeno](../images/2/21/LenoIngeno.png)
+   :   ![LenoIngeno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/LenoIngeno.png)
 
    - Você ganha 5 [Suco de Banana](http://www.divine-pride.net/database/item/532/).
    - Você recebe 500 [EXP](../Sem%20categoria/EXP.md "EXP") de base.
    - Você recebe 50 [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 9. Converse com Bartolomeu (izlude 122,207)
 
-   :   ![TutorialNewbie08](../images/2/26/TutorialNewbie08.png)
+   :   ![TutorialNewbie08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/TutorialNewbie08.png)
 
    - Você receberá 1 [Suco de Maçã](http://www.divine-pride.net/database/item/531/) para usar.
    - Abra seu inventário pelo comando `ALT + E` e dê um clique duplo em cima do suco.
@@ -80,7 +80,7 @@
 10. *Sombra Obscura, Guia da Cidade e Leoni fazem parte de uma mini missão que está [explicada abaixo](#Academia_Criatura).*
 11. Entre na Academia Criatura e fale com Sprakki (iz\_ac01 102,44)
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Você recebe 500 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 20 de classe e os seguintes itens:
       - [Traje do Aprendiz](http://www.divine-pride.net/database/item/2352/)
@@ -92,13 +92,13 @@
       - [Chapéu de Calouro](http://www.divine-pride.net/database/item/18730/)
     - Fale com Sprakki mais uma vez e ela pede que você procure pela Funcionária Kafra (izlude 128,147)
 
-    :   ![TutorialNewbie010kafra](../images/7/76/TutorialNewbie010kafra.png)
+    :   ![TutorialNewbie010kafra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/TutorialNewbie010kafra.png)
 
     - Você recebe 800 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 45 de classe.
     - Você recebe ![1091.png](http://static.divine-pride.net/images/items/item/1091.png) 1 [Caixa de Entrega](http://www.divine-pride.net/database/item/1091/) para levá-la a Maurice.
 12. Entre na Loja de Ferramentas e fale com Maurice (izlude\_in 69,116)
 
-    :   ![TutorialNewbie010maurice](../images/f/f2/TutorialNewbie010maurice.png)
+    :   ![TutorialNewbie010maurice](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/TutorialNewbie010maurice.png)
 
     - Você recebe 800 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 50 de classe e os seguintes itens:
       - 30 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/)
@@ -106,13 +106,13 @@
       - 5 [Asa de Borboleta de Iniciante](http://www.divine-pride.net/database/item/12324/)
 13. Saia da cidade e fale com Ur (prt\_fild08 320,230)
 
-    :   ![CriaturaAcademy15ur](../images/9/93/CriaturaAcademy15ur.png)
+    :   ![CriaturaAcademy15ur](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/CriaturaAcademy15ur.png)
 
     - Você recebe 600 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 40 de classe.
-    - Você aprende a habilidade [![Primeiros Socorros](../images/a/a4/Primeiros_Socorros.png)](../Suporte/Primeiros%20Socorros.md "Primeiros Socorros") [Primeiros Socorros](../Suporte/Primeiros%20Socorros.md "Primeiros Socorros")
+    - Você aprende a habilidade [![Primeiros Socorros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/Primeiros_Socorros.png)](../Suporte/Primeiros%20Socorros.md "Primeiros Socorros") [Primeiros Socorros](../Suporte/Primeiros%20Socorros.md "Primeiros Socorros")
 14. Converse com a Criança (prt\_fild08 225,230)
 
-    :   ![CriaturaAcademy15criaca](../images/7/73/CriaturaAcademy15criaca.png)
+    :   ![CriaturaAcademy15criaca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/CriaturaAcademy15criaca.png)
 
     - Elimine 2 [Lunáticos](http://www.divine-pride.net/database/monster/1063/) e colete ![705.png](http://static.divine-pride.net/images/items/item/705.png) 1 [Trevo](http://www.divine-pride.net/database/item/705/) para a Criança.
     - Você recebe 2.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 1.000 de classe.
@@ -121,12 +121,12 @@
       - 5 [Maçã Dura](http://www.divine-pride.net/database/item/12846/)
 15. Volte a falar com Ur (prt\_fild08 320,230)
 
-    :   ![CriaturaAcademy15ur](../images/9/93/CriaturaAcademy15ur.png)
+    :   ![CriaturaAcademy15ur](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/CriaturaAcademy15ur.png)
 
     - Você recebe 1.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base.
 16. Entre na Loja de Ferramentas e fale com Maurice (izlude\_in 69,116)
 
-    :   ![TutorialNewbie010maurice](../images/f/f2/TutorialNewbie010maurice.png)
+    :   ![TutorialNewbie010maurice](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/TutorialNewbie010maurice.png)
 
     - Você recebe 2.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e os seguintes itens:
       - 30 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/)
@@ -136,7 +136,7 @@
       - 1 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/)
 17. Na Academia Criatura, fale com o Curandeiro (iz\_ac01 60,43)
 
-    :   ![TutorialNewbie011](../images/f/fc/TutorialNewbie011.png)
+    :   ![TutorialNewbie011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/TutorialNewbie011.png)
 
     - Você recebe 2.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e os seguintes itens:
       - 30 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/)

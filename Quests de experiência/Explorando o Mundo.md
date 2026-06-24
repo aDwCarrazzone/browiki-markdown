@@ -18,15 +18,15 @@
 
 1. Entre na Academia Criatura e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 2. Encontre Leno (prt\_fild08 182,359)
 
-   :   ![FeverUpdate01](../images/a/a9/FeverUpdate01.png)
+   :   ![FeverUpdate01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/FeverUpdate01.png)
 
    - Você recebe 1.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
 3. Coloque um pôster nas Paredes de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera").
 
-   :   ![FeverUpdate02](../images/5/58/FeverUpdate02.png)
+   :   ![FeverUpdate02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/FeverUpdate02.png)
 
    1. (prontera 168,305)
    2. (prontera 177,294)
@@ -34,14 +34,14 @@
 4. Seu personagem será teleportado para a prisão. Fale com Leno.
 5. Após uma breve conversa, você voltará para [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera"). Fale com a Noviça Roam (prt\_church 107,99)
 
-   :   ![FeverUpdate04](../images/7/77/FeverUpdate04.png)
+   :   ![FeverUpdate04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/FeverUpdate04.png)
 
    - Ela pede que você elimine 5 [Fabres](http://www.divine-pride.net/database/monster/1007/) e 5 [Lunáticos](http://www.divine-pride.net/database/monster/1063/).
    - Ela também menciona as crianças Paulinho e Aninha, da missão regional de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
    - Ao retornar, você recebe 4.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 1.000 de classe.
 6. A Noviça Roam quer que você encontre 3 crianças nas seguintes localidades:
 
-   :   ![FeverUpdate05](../images/4/48/FeverUpdate05.png)
+   :   ![FeverUpdate05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/FeverUpdate05.png)
 
    1. (prontera 168,305)
    2. (prontera 177,294)
@@ -52,49 +52,49 @@
    - Selecione qualquer opção.
 8. Encontre Leno ao lado de uma Marca de Poeira (prt\_fild05 335,225)
 
-   :   ![FeverUpdate06](../images/c/cd/FeverUpdate06.png)
+   :   ![FeverUpdate06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/FeverUpdate06.png)
 
    - Você recebe 1.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500 de classe.
    - Fale com ele mais uma vez para ativa a [navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação").
 9. Clique no Arbusto Mexido (prt\_fild07 279,334)
 
-   :   ![FeverUpdate07](../images/2/24/FeverUpdate07.png)
+   :   ![FeverUpdate07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/FeverUpdate07.png)
 
    - Leno aparece para pedir a caçada de 5 [Rocker](http://www.divine-pride.net/database/monster/1052/).
    - Você recebe 4.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base de 1.000 de classe pela caçada.
 10. Procure pelo Soldado de Prontera (prt\_fild08 160,150)
 
-    :   ![FeverUpdate08](../images/8/82/FeverUpdate08.png)
+    :   ![FeverUpdate08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/FeverUpdate08.png)
 
     - Você recebe 4.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 1.000 de classe.
     - Fale com Leno, que aparece ao lado do Soldado.
 11. Entre na Academia Criatura e fale com Sprakki (iz\_ac01 102,44)
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Você recebe 3.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
 12. Fale com a Funcionária Kafra (izlude 128,147)
 
-    :   ![TutorialNewbie010kafra](../images/7/76/TutorialNewbie010kafra.png)
+    :   ![TutorialNewbie010kafra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/TutorialNewbie010kafra.png)
 13. Você irá para [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") e poderá começar a [Missão Regional de Payon](Miss%C3%A3o%20Regional%20de%20Payon.md "Missão Regional de Payon").
 14. Se estiver no nível de base 20, fale com a Oficial do Éden em [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon").
 
-    :   ![FeverUpdate09](../images/9/99/FeverUpdate09.png)
+    :   ![FeverUpdate09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/FeverUpdate09.png)
 
     - Você recebe 500 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500 de classe.
 15. Entre na Academia Criatura e fale com Sprakki (iz\_ac01 102,44)
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Converse com Meric, nas mesas (iz\_ac01 116,57)
 16. Vá para [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta") falar com Bedrova (alberta 175,138)
 
-    :   ![FeverUpdate10](../images/8/85/FeverUpdate10.png)
+    :   ![FeverUpdate10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/FeverUpdate10.png)
 
     - Você recebe 1.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500 de classe.
 17. Clique no Naufrágio Misterioso (alb2trea 101,69)
 
-    :   ![FeverUpdate11](../images/6/6f/FeverUpdate11.png)
+    :   ![FeverUpdate11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/FeverUpdate11.png)
 
     1. Prepare-se para entrar em uma [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância")!
     2. Fale com Leno para reservar e entre no mapa quando a sua vez chegar.
@@ -104,28 +104,28 @@
     6. Entre no portal descendo as escadas. Elimine todos os monstros.
     7. Vá pelo portal à direita, elimine os monstros e fale com Breno.
 
-       :   ![FeverUpdate13](../images/4/46/FeverUpdate13.png)
+       :   ![FeverUpdate13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/FeverUpdate13.png)
     8. Breno invocará monstros, elimine-os para Meric aparecer.
        - Você recebe 10.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
        - Você ganha 1 [Anel de Flor Encantado](http://www.divine-pride.net/database/item/28514/).
 18. Fale com a Noviça Roam (prt\_church 107,99)
 
-    :   ![FeverUpdate04](../images/7/77/FeverUpdate04.png)
+    :   ![FeverUpdate04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/FeverUpdate04.png)
 
     - Ela adicionará 1 [encantamento](../Itens/Encantamento.md "Encantamento") de sua escolha no [Anel de Flor Encantado](http://www.divine-pride.net/database/item/28514/).
     - Os encantos são [FOR](../Sem%20categoria/FOR.md "FOR"), [AGI](../Sem%20categoria/AGI.md "AGI"), [VIT](../Sem%20categoria/VIT.md "VIT"), [INT](../Sem%20categoria/INT.md "INT"), [DES](../Sem%20categoria/DES.md "DES") ou [SOR](../Sem%20categoria/SOR.md "SOR") +2.
 19. A partir do nível 30 de base, converse com a Oficial do Éden em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prontera 104,121) para saber mais sobre a [Vila dos Porings](../Quest/Vila%20dos%20Porings.md "Vila dos Porings").
 
-    :   ![Eden-prontera](../images/7/7e/Eden-prontera.png)
+    :   ![Eden-prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Eden-prontera.png)
 20. Inicie a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com a Emily (prt\_fild05 145,235) e conclua a [Vila dos Porings](../Quest/Vila%20dos%20Porings.md "Vila dos Porings").
 
-    :   ![Poringvilla01a](../images/e/e5/Poringvilla01a.png)
+    :   ![Poringvilla01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Poringvilla01a.png)
 21. Ao finalizar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), fale novamente com a Oficial do Éden em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prontera 104,121).
 
-    :   ![Eden-prontera](../images/7/7e/Eden-prontera.png)
+    :   ![Eden-prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Eden-prontera.png)
 22. Retorne a Sprakki (iz\_ac01 102,44) para finalizar o relatório da missão.
 
-    :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Você recebe 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
     - Você ganha ![23040.png](http://static.divine-pride.net/images/items/item/23040.png) 1 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/).

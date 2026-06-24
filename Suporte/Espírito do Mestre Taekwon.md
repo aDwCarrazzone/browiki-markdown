@@ -33,7 +33,7 @@ Concede efeitos positivos temporariamente a um [Mestre Taekwon](../Sem%20categor
 
 ### Efeitos
 
-- Habilita [![União Solar, Lunar e Estelar](../images/c/c7/Uni%C3%A3o_Solar%2C_Lunar_e_Estelar.png)](../Ativa/Uni%C3%A3o%20Solar%2C%20Lunar%20e%20Estelar.md "União Solar, Lunar e Estelar") [União Solar, Lunar e Estelar](../Ativa/Uni%C3%A3o%20Solar%2C%20Lunar%20e%20Estelar.md "União Solar, Lunar e Estelar").
+- Habilita [![União Solar, Lunar e Estelar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Uni%C3%A3o_Solar%2C_Lunar_e_Estelar.png)](../Ativa/Uni%C3%A3o%20Solar%2C%20Lunar%20e%20Estelar.md "União Solar, Lunar e Estelar") [União Solar, Lunar e Estelar](../Ativa/Uni%C3%A3o%20Solar%2C%20Lunar%20e%20Estelar.md "União Solar, Lunar e Estelar").
 
 ## Notas
 

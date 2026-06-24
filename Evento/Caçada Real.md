@@ -14,27 +14,27 @@
 
 1. Encontre o Oficial da Realeza espalhado nas principais cidades (prontera 162,76).
 
-   :   ![RoyalHunt01](../images/9/98/RoyalHunt01.png)
+   :   ![RoyalHunt01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/RoyalHunt01.png)
 
    - Na sua primeira vez, ele teleportará você para os [Arredores de Prontera](http://www.divine-pride.net/database/map/prt_fild01/).
    - Se desejar retornar aos arredores, você poderá ir andando ou usar a [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/).
 2. Aceite a missão da Comandante Nadezda (prt\_fild01 98,171)
 
-   :   ![RoyalHunt02](../images/6/60/RoyalHunt02.png)
+   :   ![RoyalHunt02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/RoyalHunt02.png)
 
    - Sua missão é eliminar 30 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") da raça [Bruto](../Sem%20categoria/Bruto.md "Bruto") de qualquer nível.
    - No mapa [prt\_fild01](http://www.divine-pride.net/database/map/prt_fild01/) existem [Encouraçado Agitado](http://www.divine-pride.net/database/monster/20070/), [Koko Silvestre](http://www.divine-pride.net/database/monster/20072/) e [Pé Grande Furioso](http://www.divine-pride.net/database/monster/20071/) que são exclusivos desse mapa e contam para a missão.
    - Você receberá 10 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/) após retornar com a Comandante.
 3. Nadezda recomendará que você fale com o Tenente Lofinche.
 
-   :   ![RoyalHunt03](../images/1/18/RoyalHunt03.png)
+   :   ![RoyalHunt03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/RoyalHunt03.png)
 
    - Seu objetivo é eliminar 30 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") da raça [Bruto](../Sem%20categoria/Bruto.md "Bruto") e 30 da raça [Inseto](../Sem%20categoria/Inseto.md "Inseto"), mas só serão contados aqueles de nível 50 ou maior.
    - Os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que estão no mapa já são o suficiente para completar a missão.
    - Você receberá 10 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/) após retornar ao Tenente.
 4. Lofinche recomendará que você fale com a General Jang.
 
-   :   ![RoyalHunt04](../images/1/1c/RoyalHunt04.png)
+   :   ![RoyalHunt04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/RoyalHunt04.png)
 
    - Ela pedirá que você elimine 30 [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") da raça [Peixe](../Sem%20categoria/Peixe.md "Peixe") e 30 da raça [Dragão](../Sem%20categoria/Drag%C3%A3o.md "Dragão") que sejam de nível 50 ou maior.
    - Completando a missão você receberá dela 10 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/) e o Visual desse ano.
@@ -57,7 +57,7 @@
 
 - Para acessar o campo de caça, você precisa ter completado as missões da Nadezda e clicar no Teleportador atrás da Comandante.
 
-  :   ![RoyalHunt05](../images/a/a2/RoyalHunt05.png)
+  :   ![RoyalHunt05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/RoyalHunt05.png)
 - O campo de caça existe para coletar a ![1000235.png](http://static.divine-pride.net/images/items/item/1000235.png) [Insígnia de Caça](http://www.divine-pride.net/database/item/1000235/)
 - Você poderá levar 1 [Insígnia de Caça](http://www.divine-pride.net/database/item/1000235/) para a General Jang convertê-las em 3 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/).
 - Essa é uma forma de conseguir [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/) mais rápido enquanto aguarda o reset das missões diárias.
@@ -118,7 +118,7 @@
 
 - Se conseguir juntar 100 Autógrafos de um membro da Família Real, troque-os por 1 Carta especial com cada membro. (prt\_fild01 82,197)
 
-  :   ![RoyalHunt06](../images/e/ef/RoyalHunt06.png)
+  :   ![RoyalHunt06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/RoyalHunt06.png)
 
 | Casa | Autógrafo | | Carta Especial |
 | --- | --- | --- | --- |

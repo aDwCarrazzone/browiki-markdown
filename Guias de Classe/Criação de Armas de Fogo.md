@@ -4,7 +4,7 @@
 
 As [armas](../Sem%20categoria/Armas.md "Armas") para [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") e evoluções podem ser fabricadas por [NPCs](../Sem%20categoria/NPC.md "NPC") na Guilda dos Justiceiros em [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch").
 
-Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map mascote](../images/0/08/Map_mascote.png)
+Esses [NPCs](../Sem%20categoria/NPC.md "NPC") estarão indicados no topo com um ![Map mascote](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Map_mascote.png)
 
 Também é possível comprar [munições](../Sem%20categoria/Muni%C3%A7%C3%B5es.md "Munições") para a classe e opções de armas para [Insurgentes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Insurgentes.md "Insurgentes") em [NPCs](../Sem%20categoria/NPC.md "NPC") encontrados nas lojas de armas das principais cidades.
 

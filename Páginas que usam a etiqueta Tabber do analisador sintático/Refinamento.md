@@ -2,7 +2,7 @@
 
 # Refinamento
 
-![HugoHollgrehenn](../images/7/7c/HugoHollgrehenn.jpg)
+![HugoHollgrehenn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/HugoHollgrehenn.jpg)
 
 Refinar significa adicionar mais poder em [armas](../Sem%20categoria/Armas.md "Armas") e [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos").
 
@@ -13,10 +13,10 @@ Os [itens](../Itens/Itens.md "Itens") refinados possuem uma indicação do núme
 
 ## Como refinar
 
-1. Vá para uma Refinaria e fale com o [NPC](../Sem%20categoria/NPC.md "NPC") ![Map bigorna](../images/5/5e/Map_bigorna.png)
+1. Vá para uma Refinaria e fale com o [NPC](../Sem%20categoria/NPC.md "NPC") ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png)
 2. A interface de refino será aberta, basta arrastar o item até a janela e selecionar os materiais.
 
-   :   ![JanelaRefino01](../images/3/32/JanelaRefino01.png)
+   :   ![JanelaRefino01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/JanelaRefino01.png)
 
 Preste atenção!
 

@@ -25,8 +25,8 @@ Alinha os centros de energia, aumentando a [DEF](../Sem%20categoria/DEF.md "DEF"
 
 Aumenta em 30% o dano das seguintes habilidades:
 
-- [![Portões do Inferno](../images/1/1a/Port%C3%B5es_do_Inferno.png)](../Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno") [Portões do Inferno](../Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno")
-- [![Garra de Tigre](../images/e/e2/Garra_de_Tigre.png)](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre")
+- [![Portões do Inferno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Port%C3%B5es_do_Inferno.png)](../Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno") [Portões do Inferno](../Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno")
+- [![Garra de Tigre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Garra_de_Tigre.png)](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](../Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre")
 
 | Nv. | [HP](../Sem%20categoria/HP.md "HP") máx. | Regen. | [DEF](../Sem%20categoria/DEF.md "DEF") | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- | --- | --- |

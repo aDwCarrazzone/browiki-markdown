@@ -67,9 +67,9 @@ Só pode ser usado em mapas de [PvP](../PvP/PvP.md "PvP") e [Guerra do Emperium]
   - Não podem ser removidos por [Desencantar](Desencantar.md "Desencantar"), mas por [Gênese](G%C3%AAnese.md "Gênese") e [Improviso](Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Clamor de Batalha](../images/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
-  - [![Cântico da Iluminação](../images/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
-  - [![Prelúdio do Ragnarök](../images/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
+  - [![Clamor de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
+  - [![Cântico da Iluminação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
+  - [![Prelúdio do Ragnarök](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

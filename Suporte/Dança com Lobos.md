@@ -41,9 +41,9 @@ Também há uma redução na [conjuração fixa](../Sem%20categoria/Conjura%C3%A
 
 ### Habilidades afetadas
 
-- [![Investida de Worg](../images/c/c4/Investida_de_Worg.png)](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg") [Investida de Worg](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg")
-- [![Mordida Feroz](../images/f/f8/Mordida_Feroz.png)](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz") [Mordida Feroz](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz")
-- [![Assalto de Worg](../images/5/54/Assalto_de_Worg.png)](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg") [Assalto de Worg](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg")
+- [![Investida de Worg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Investida_de_Worg.png)](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg") [Investida de Worg](../Ofensiva/Investida%20de%20Worg.md "Investida de Worg")
+- [![Mordida Feroz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/Mordida_Feroz.png)](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz") [Mordida Feroz](../Ofensiva/Mordida%20Feroz.md "Mordida Feroz")
+- [![Assalto de Worg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Assalto_de_Worg.png)](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg") [Assalto de Worg](../Ofensiva/Assalto%20de%20Worg.md "Assalto de Worg")
 
 ## Notas
 
@@ -61,9 +61,9 @@ Também há uma redução na [conjuração fixa](../Sem%20categoria/Conjura%C3%A
   - Não podem ser removidos por [Desencantar](../Ativa/Desencantar.md "Desencantar"), mas por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Improviso](../Ativa/Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Canção de Alfheim](../images/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
-  - [![Murmúrio Perene](../images/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
-  - [![Orvalho de Idun](../images/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
+  - [![Canção de Alfheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
+  - [![Murmúrio Perene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
+  - [![Orvalho de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

@@ -68,7 +68,7 @@ Para se tornar uma Transclasse, será necessário completar a missão de **[Rena
 - Cada personagem possui uma missão para mudar de classe, algumas mais longas que outras.
 - Há uma opção para pular essas [quests](../Quest/Quests.md "Quests"), encontrando-se com a [NPC](../Sem%20categoria/NPC.md "NPC") *Sussurro da Valquíria*.
 
-  :   ![SussurrodaValk](../images/8/8a/SussurrodaValk.png)
+  :   ![SussurrodaValk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/SussurrodaValk.png)
 - A mudança paga funcionará mesmo se você estiver na metade da sua missão de Mudança de Classe.
 - Você não receberá as recompensas da missão
 - Você precisa ser *Classe Transcendental* para mudar para a 3ª Classe.

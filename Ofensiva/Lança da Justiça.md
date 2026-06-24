@@ -47,11 +47,11 @@ Por manejar uma lança tão poderosa, o usuário ativa a [*Cicatriz da Justiça*
 
 ### Cicatriz da Justiça
 
-- **Ícone:** ![I Lança da Justiça](../images/9/98/I_Lan%C3%A7a_da_Justi%C3%A7a.png)
+- **Ícone:** ![I Lança da Justiça](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/I_Lan%C3%A7a_da_Justi%C3%A7a.png)
 - **Duração:** 300 segundos
 - Aumenta o dano das seguintes habilidades:
-  - [![Disparo Perfurante](../images/0/07/Disparo_Perfurante.png)](Disparo%20Perfurante.md "Disparo Perfurante") [Disparo Perfurante](Disparo%20Perfurante.md "Disparo Perfurante")
-  - [![Toque do Oblívio](../images/3/37/Toque_do_Obl%C3%ADvio.png)](Toque%20do%20Obl%C3%ADvio.md "Toque do Oblívio") [Toque do Oblívio](Toque%20do%20Obl%C3%ADvio.md "Toque do Oblívio")
+  - [![Disparo Perfurante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Disparo_Perfurante.png)](Disparo%20Perfurante.md "Disparo Perfurante") [Disparo Perfurante](Disparo%20Perfurante.md "Disparo Perfurante")
+  - [![Toque do Oblívio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Toque_do_Obl%C3%ADvio.png)](Toque%20do%20Obl%C3%ADvio.md "Toque do Oblívio") [Toque do Oblívio](Toque%20do%20Obl%C3%ADvio.md "Toque do Oblívio")
 - É cancelado por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").
 
 ### Fórmula

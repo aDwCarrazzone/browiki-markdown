@@ -18,16 +18,16 @@
 2. Cada entrega garante 100.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base e de classe.
 3. ![25180.png](http://static.divine-pride.net/images/items/item/25180.png) [Antigas Alianças](http://www.divine-pride.net/database/item/25180/) e ![25185.png](http://static.divine-pride.net/images/items/item/25185.png) [Colar com Medalhão](http://www.divine-pride.net/database/item/25185/) deverão ser entregues falando mais de uma vez com o Cavaleiro Windsor (prt\_in 177,26)
 
-   :   ![YSF01a](../images/d/da/YSF01a.png)
+   :   ![YSF01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/YSF01a.png)
 4. ![25181.png](http://static.divine-pride.net/images/items/item/25181.png) [Rosário de Madeira](http://www.divine-pride.net/database/item/25181/) deve ser entregue para a Irmã Magaleta (prt\_monk 93,254)
 
-   :   ![YSF01b](../images/5/53/YSF01b.png)
+   :   ![YSF01b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/YSF01b.png)
 5. ![25184.png](http://static.divine-pride.net/images/items/item/25184.png) [Materiais de Costura](http://www.divine-pride.net/database/item/25184/) deverão ser entregues para a Caçadora Sherine (payon\_in03 194,39)
 
-   :   ![YSF01c](../images/a/a7/YSF01c.png)
+   :   ![YSF01c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/YSF01c.png)
 6. ![25182.png](http://static.divine-pride.net/images/items/item/25182.png) [Adaga de Assassino](http://www.divine-pride.net/database/item/25182/) deve ser entregue para Marovitz Guile (que\_job01 89,91)
 
-   :   ![YSF01d](../images/d/d3/YSF01d.png)
+   :   ![YSF01d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/YSF01d.png)
 7. ![25183.png](http://static.divine-pride.net/images/items/item/25183.png) [Dedal de Arco](http://www.divine-pride.net/database/item/25183/) deve ser entregue para o Ferreiro (yuno\_in01 163,31)
 
-   :   ![YSF01e](../images/0/0e/YSF01e.png)
+   :   ![YSF01e](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/YSF01e.png)

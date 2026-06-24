@@ -15,44 +15,44 @@
 
 1. Sua jornada começa perguntando "*Onde fica o Bosque Meteoro?*" para o Cara bem-vestido (payon 171,171)
 
-   :   ![ClassChangeSE01](../images/3/31/ClassChangeSE01.png)
+   :   ![ClassChangeSE01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/ClassChangeSE01.png)
 2. Siga para o Monte Mjolnir e fale com o Guardião do Monte (mjolnir\_03 236,185)
 
-   :   ![ClassChangeSE02](../images/d/d6/ClassChangeSE02.png)
+   :   ![ClassChangeSE02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/ClassChangeSE02.png)
 3. Converse com a Aluna de Choshi (star\_frst 88,36)
 
-   :   ![ClassChangeSE03](../images/e/ed/ClassChangeSE03.png)
+   :   ![ClassChangeSE03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/ClassChangeSE03.png)
 
    - Selecione "*Quero me tornar um Mestre Estelar*".
    - Dirija-se para a Casa de Chá, entrando no portal indicado pela navegação.
 4. Na casa de chá, fale com a Aluna de Choshi até seu personagem sair do prédio.
 
-   :   ![ClassChangeSE03a](../images/0/0f/ClassChangeSE03a.png)
+   :   ![ClassChangeSE03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/ClassChangeSE03a.png)
 5. Converse com Lunomoto, e em seguida, fale com Lansis ao lado dele.
 
-   :   ![ClassChangeSE04](../images/2/2d/ClassChangeSE04.png)
+   :   ![ClassChangeSE04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/ClassChangeSE04.png)
 6. Fale com Lansis (star\_frst 129,86)
 
-   :   ![ClassChangeSE05](../images/0/04/ClassChangeSE05.png)
+   :   ![ClassChangeSE05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/ClassChangeSE05.png)
 7. Inicie a conversa com Cosmos (star\_frst 157,39)
 
-   :   ![ClassChangeSE06](../images/3/39/ClassChangeSE06.png)
+   :   ![ClassChangeSE06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/ClassChangeSE06.png)
 
    - Ele dará uma missão de eliminar 10 [Minerais](http://www.divine-pride.net/database/monster/1614/).
    - Retorne ao Cosmos quando completar. Em seguida, ele pedirá que você fale com Aurora.
 8. Entre no dormitório de Aurora (star\_in 98,67)
 
-   :   ![ClassChangeSE07](../images/a/ae/ClassChangeSE07.png)
+   :   ![ClassChangeSE07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/ClassChangeSE07.png)
 
    - Aurora quer que você elimine 50 [Nove Caudas](http://www.divine-pride.net/database/monster/1180/).
    - Quando completar a missão, você pode seguir direto para Lunomoto.
 9. Fale com Lunomoto (star\_in 146,48)
 
-   :   ![ClassChangeSE08](../images/3/35/ClassChangeSE08.png)
+   :   ![ClassChangeSE08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/ClassChangeSE08.png)
 10. Reencontre Cosmos (star\_frst 157,39)
 11. Ouça a conversa na entrada do dormitório de Aurora (star\_in 98,67)
 
-    :   ![ClassChangeSE09](../images/f/f1/ClassChangeSE09.png)
+    :   ![ClassChangeSE09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/ClassChangeSE09.png)
 12. Saia do Bosque Meteoro e fale com o Guardião do Monte (mjolnir\_03 236,185)
     - Selecione: *Você é o Grão-Mestre Choshi?*"
     - Seu personagem retornará ao Dojang do Bosque Meteoro.

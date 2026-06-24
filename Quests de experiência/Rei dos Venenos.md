@@ -17,16 +17,16 @@
 
 1. Demonstre interesse na história do Bibliotecário (lou\_in02 253,45)
 
-   :   ![Rei dos Venenos01](../images/9/9e/Rei_dos_Venenos01.png)
+   :   ![Rei dos Venenos01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/Rei_dos_Venenos01.png)
 2. Com 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) no inventário, fale com o Rei dos Venenos (lou\_in02 123,39)
 
-   :   ![Rei dos Venenos02](../images/3/34/Rei_dos_Venenos02.png)
+   :   ![Rei dos Venenos02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Rei_dos_Venenos02.png)
 
    - Selecione "*Lamente*".
 3. Seu objetivo é traduzir o poema selecionando as opções no diálogo. Se as opções não aparecerem, continue *lamentando* até surgirem novas.
    - Com as novas opções, escolha "*Pergunte sobre o poema*" e selecione as opções de acordo com o parágrafo.
 
-   :   ![Rei dos Venenos03](../images/2/2d/Rei_dos_Venenos03.png)
+   :   ![Rei dos Venenos03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Rei_dos_Venenos03.png)
 
    - No 1ª parágrafo:
      - Banco → Flecha → JuMaGanSan → Olhar → Não. É o luar. → Olhando do banco o luar.
@@ -49,7 +49,7 @@
    - *...Sinto muito.*
 6. Converse com a Mulher Jovem (lou\_fild01 225,348)
 
-   :   ![Rei dos Venenos107](../images/d/dc/Rei_dos_Venenos107.png)
+   :   ![Rei dos Venenos107](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Rei_dos_Venenos107.png)
 
    - Selecione:
      - *Não!*
@@ -70,14 +70,14 @@
    - *Conte a ele a razão*
 9. Pegue 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) e 1 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) e entre no Palácio pela passagem secreta (louyang 217,278)
 
-   :   ![Rei dos Venenos100](../images/8/8a/Rei_dos_Venenos100.png)
+   :   ![Rei dos Venenos100](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Rei_dos_Venenos100.png)
 10. Ande com cuidado para que o Guarda não note sua presença e ponha veneno na Garrafa de Rum (lou\_in01 107,163)
 
-    :   ![Rei dos Venenos105](../images/a/a3/Rei_dos_Venenos105.png)
+    :   ![Rei dos Venenos105](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Rei_dos_Venenos105.png)
 11. Retorne ao Rei dos Venenos.
 12. Fale com o Governador (lou\_in01 99,158)
 
-    :   ![Rei dos Venenos106](../images/7/78/Rei_dos_Venenos106.png)
+    :   ![Rei dos Venenos106](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Rei_dos_Venenos106.png)
 13. Retorne ao Rei dos Venenos.
 14. Encontre o Bibliotecário para ganhar 5 [Garrafas de Veneno](http://www.divine-pride.net/database/item/678/), 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) e [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência"), que varia de acordo com seu nível:
 

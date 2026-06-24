@@ -16,7 +16,7 @@
 | **Recompensa** | Libera o acesso a [Ilusão da Lua](http://www.divine-pride.net/database/map/pay_d03_i/) |
 
 - **Mecânica do mapa**:
-  - Para invocar uma [Ilusão do Luar](http://www.divine-pride.net/database/monster/3758/)![MonstroMVP](../images/5/53/MonstroMVP.png), todos do servidor precisam eliminar 999 [Raposas Raivosas](http://www.divine-pride.net/database/monster/3759/).
+  - Para invocar uma [Ilusão do Luar](http://www.divine-pride.net/database/monster/3758/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), todos do servidor precisam eliminar 999 [Raposas Raivosas](http://www.divine-pride.net/database/monster/3759/).
   - Para invocar um [Veritas](http://www.divine-pride.net/database/monster/3764/), todos do servidor precisam eliminar 12 [Aventureiros](http://www.divine-pride.net/database/monster/3765/).
   - Esses monstros aparecerão bem próximo do último monstro da contagem ser morto.
   - Após a morte do chefe invocado, a contagem é reiniciada.
@@ -25,20 +25,20 @@
 
 1. Fale com a Anciã Sanyul (payon 164,229)
 
-   :   ![MonlightIllusion01](../images/d/de/MonlightIllusion01.png)
+   :   ![MonlightIllusion01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/MonlightIllusion01.png)
 2. Na Vila dos Arqueiros, converse com o Jovem (pay\_arche 48,137)
 
-   :   ![MonlightIllusion02](../images/d/da/MonlightIllusion02.png)
+   :   ![MonlightIllusion02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/MonlightIllusion02.png)
 3. Dentro do Palacete de [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon"), fale mais de uma vez com Muyeon (payon\_in03 33,95)
 
-   :   ![MonlightIllusion03](../images/c/c6/MonlightIllusion03.png)
+   :   ![MonlightIllusion03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/MonlightIllusion03.png)
 
    - A primeira conversa será por meio de balões de diálogo.
    - A segunda e a terceira será feita por diálogo normal de [NPC](../Sem%20categoria/NPC.md "NPC").
    - Após as conversas, seu personagem será teleportado para a [Caverna de Payon](http://www.divine-pride.net/database/map/pay_dun03/).
 4. Clique na Energia Oscilante (pay\_dun03 140,46)
 
-   :   ![MonlightIllusion04](../images/b/bb/MonlightIllusion04.png)
+   :   ![MonlightIllusion04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/MonlightIllusion04.png)
 
    - Selecione "*Vou investigar*"
    - Após a conversa, selecione "*Entrar*".
@@ -46,7 +46,7 @@
    - Você desbloqueou as missões diárias.
 5. Fale com Arthur (pay\_d03\_i 149,45) para eliminar um [Veritas](http://www.divine-pride.net/database/monster/3764/).
 
-   :   ![MonlightIllusion05](../images/f/f8/MonlightIllusion05.png)
+   :   ![MonlightIllusion05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/MonlightIllusion05.png)
 
    - Você receberá 1 [Pedra Ilusional](http://www.divine-pride.net/database/item/25271/) pela tarefa.
 6. Retorne para Muyeon para receber 5 [Pedra Ilusional](http://www.divine-pride.net/database/item/25271/) e 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de Base e de Classe.

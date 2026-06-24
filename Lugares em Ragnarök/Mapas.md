@@ -8,13 +8,13 @@ O mundo dos humanos, como Midgard é conhecida, é apenas 1 dos 9 mundos existen
 
 Para não se perder, use a [navegação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Navega%C3%A7%C3%A3o.md "Navegação"), o mapa-múndi e o mini-mapa na sua tela lateral superior.
 
-- [![Mapa-múndi](../images/e/e3/Wold_map_real.jpg)](https://browiki.org/wiki/Arquivo%3AWold_map_real.jpg "Mapa-múndi")
+- [![Mapa-múndi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Wold_map_real.jpg)](https://browiki.org/wiki/Arquivo%3AWold_map_real.jpg "Mapa-múndi")
 
   Mapa-múndi
-- [![Norte de Midgard](../images/5/53/Midgard_North.jpg)](https://browiki.org/wiki/Arquivo%3AMidgard_North.jpg "Norte de Midgard")
+- [![Norte de Midgard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Midgard_North.jpg)](https://browiki.org/wiki/Arquivo%3AMidgard_North.jpg "Norte de Midgard")
 
   Norte de Midgard
-- [![Issgard](../images/3/37/Issgard.jpg)](https://browiki.org/wiki/Arquivo%3AIssgard.jpg "Issgard")
+- [![Issgard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/Issgard.jpg)](https://browiki.org/wiki/Arquivo%3AIssgard.jpg "Issgard")
 
   Issgard
 

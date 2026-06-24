@@ -18,13 +18,13 @@
 
 1. Converse com a Garota (morocc 156,70)
 
-   :   ![MdCRR01](../images/9/90/MdCRR01.png)
+   :   ![MdCRR01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/MdCRR01.png)
 2. Dirija-se ao Homem Assustador (in\_rogue 379,101)
 
-   :   ![MdCRR02](../images/9/93/MdCRR02.png)
+   :   ![MdCRR02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/MdCRR02.png)
 3. Fale com o Gerente (s\_atelier 65,123)
 
-   :   ![MdCRR03](../images/3/36/MdCRR03.png)
+   :   ![MdCRR03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/MdCRR03.png)
 
    - Selecione as opções e digite o texto.
      - Mostrar o código decifrado
@@ -32,7 +32,7 @@
      - Eu vou tentar!
 4. Na Ilha das Tartarugas, procure pela Chama Azul (tur\_dun03 38,209)
 
-   :   ![MdCRR03a](../images/4/45/MdCRR03a.png)
+   :   ![MdCRR03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/MdCRR03a.png)
 
    - Digite:
 
@@ -42,7 +42,7 @@
    - Volte para a Chama Azul, que teleportará você.
 5. Clique no [NPC](../Sem%20categoria/NPC.md "NPC") e selecione "*Tocar no meio*".
 
-   :   ![MdCRR04](../images/9/90/MdCRR04.png)
+   :   ![MdCRR04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/MdCRR04.png)
 
    - Preste atenção na chave que aparece no diálogo, pois você precisará digitar um código de acordo com o número da chave.
    - Existem 8 possibilidades:
@@ -59,20 +59,20 @@
 6. Retorne ao Gerente em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera").
 7. Dirija-se ao Gerente (s\_atelier 168,65)
 
-   :   ![MdCRR05](../images/9/91/MdCRR05.png)
+   :   ![MdCRR05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/MdCRR05.png)
 
    - Selecione:
      - Graham me mandou aqui
      - Acho que entendi
 8. Na Caverna de Gelo, encontre a Chama Vermelha (ice\_dun02 206,223)
 
-   :   ![MdCRR05a](../images/7/71/MdCRR05a.png)
+   :   ![MdCRR05a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/MdCRR05a.png)
 
    - Elimine a [Sombra da Ilusão](http://www.divine-pride.net/database/monster/2077/) que se encontra no mapa.
    - Volte para a Chama Vermelha, que teleportará você.
 9. Clique no [NPC](../Sem%20categoria/NPC.md "NPC") e preste bastante atenção nas informações exibidas, pois existem 3 tipos de palavras que deverão ser convertidas em números.
 
-   :   ![MdCRR07](../images/7/72/MdCRR07.png)
+   :   ![MdCRR07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/MdCRR07.png)
 
    - Selecione:
      - Colocar a resposta que você adivinhou
@@ -84,7 +84,7 @@
 10. Volte ao Gerente do Ateliê de [Rachel](../Lugares%20em%20Ragnar%C3%B6k/Rachel.md "Rachel") e selecione "*Encontrei a chave*".
 11. Encontre o Gerente (s\_atelier 167,129)
 
-    :   ![MdCRR02a](../images/7/71/MdCRR02a.png)
+    :   ![MdCRR02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/MdCRR02a.png)
 
     - Digite:
 
@@ -93,13 +93,13 @@
     - Fale novamente com o Gerente
 12. Em [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim"), localize a Chama Vermelha (niflheim 230,276)
 
-    :   ![MdCRR02b](../images/7/72/MdCRR02b.png)
+    :   ![MdCRR02b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/MdCRR02b.png)
 
     - Elimine a [Sombra do Prazer](http://www.divine-pride.net/database/monster/2078/) que se encontra no mapa.
     - Volte para a Chama Vermelha, que teleportará você.
 13. Na sala, clique no [NPC](../Sem%20categoria/NPC.md "NPC") ????.
 
-    :   ![MdCRR08](../images/9/9d/MdCRR08.png)
+    :   ![MdCRR08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/MdCRR08.png)
 
     - Digite:
       - `virar e sacudir`
@@ -111,22 +111,22 @@
 14. Retorne ao Gerente do Ateliê de [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno").
 15. Encontre o Gerente (s\_atelier 25,75)
 
-    :   ![MdCRR010](../images/8/80/MdCRR010.png)
+    :   ![MdCRR010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/MdCRR010.png)
 16. Acesse a [Torre de Thanatos](../Lugares%20em%20Ragnar%C3%B6k/Torre%20de%20Thanatos.md "Torre de Thanatos") pelo Gerente da Torre (hu\_fild01 140,163)
 
-    :   ![GerentedaTorre](../images/b/b9/GerentedaTorre.png)
+    :   ![GerentedaTorre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/GerentedaTorre.png)
 17. Entre no portal (tha\_t01 149,227)
 
-    :   ![MdCRR010a](../images/1/1f/MdCRR010a.png)
+    :   ![MdCRR010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/MdCRR010a.png)
 18. Clique no [NPC](../Sem%20categoria/NPC.md "NPC") ???? e use todas as chaves que coletou.
 
-    :   ![MdCRR09](../images/5/5c/MdCRR09.png)
+    :   ![MdCRR09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/MdCRR09.png)
 
     - Você receberá um [Pincel Mágico](http://www.divine-pride.net/database/item/6269/).
 19. Jogue o pincel para o Gerente do Ateliê de [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen").
 20. Converse com Dumk (s\_atelier 70,66)
 
-    :   ![MdCRR011](../images/4/48/MdCRR011.png)
+    :   ![MdCRR011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/MdCRR011.png)
 
     - Selecione:
       - Mostrar o pincel a ele

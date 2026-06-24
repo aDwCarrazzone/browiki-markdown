@@ -18,27 +18,27 @@
 1. Você pode chegar nesse mapa através do Mago Nillem (pub\_cat 85,105).
 2. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Julian (ein\_fild04 281,333)
 
-   :   ![Julian](../images/7/77/Julian.png)
+   :   ![Julian](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Julian.png)
 3. Assim que a entrada estiver liberada, fale com o Comandante da Tropa.
 
-   :   ![OperaçãoMilitar03](../images/9/93/Opera%C3%A7%C3%A3oMilitar03.png)
+   :   ![OperaçãoMilitar03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Opera%C3%A7%C3%A3oMilitar03.png)
 4. Dentro da Base, suba um pouco para falar com Julian.
 
-   :   ![BaseMilitar01](../images/c/c2/BaseMilitar01.png)
+   :   ![BaseMilitar01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/BaseMilitar01.png)
 5. Elimine 20 [Caça-Coração](http://www.divine-pride.net/database/monster/3627/), os [Caça-Coração Gigante](http://www.divine-pride.net/database/monster/3626/) não contabilizam.
 6. Passe pela barreira de cordas e fale com Julian.
 
-   :   ![BaseMilitar03](../images/4/4b/BaseMilitar03.png)
+   :   ![BaseMilitar03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/BaseMilitar03.png)
 7. Elimine 25 [Caça-Coração](http://www.divine-pride.net/database/monster/3627/), os [Caça-Coração Gigante](http://www.divine-pride.net/database/monster/3626/) não contabilizam.
 8. Clique na Pilha de Pólvora para pegar algumas [Pólvoras Velhas](http://www.divine-pride.net/database/item/25154/).
 
-   :   ![BaseMilitar02](../images/b/bf/BaseMilitar02.png)
+   :   ![BaseMilitar02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/BaseMilitar02.png)
 9. Julian estará ao lado, e perto dele, aperte o botão da máquina SWT\_8309.
 
-   :   ![BaseMilitar05](../images/4/43/BaseMilitar05.png)
+   :   ![BaseMilitar05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/BaseMilitar05.png)
 10. Agora você deverá tomar cuidado nessa parte, preste atenção!
 
-    :   ![BaseMilitar06](../images/e/e2/BaseMilitar06.png)
+    :   ![BaseMilitar06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/BaseMilitar06.png)
 
     1. Uma série de robôs atiradores ficarão espalhados pelo mapa em forma de labirinto.
     2. A forma do labirinto é aleatória, a imagem é apenas um exemplo deles.
@@ -46,15 +46,15 @@
     4. Porém, no meio do labirinto ainda terá outros [Caça-Coração](http://www.divine-pride.net/database/monster/3627/) espalhados que você tem que eliminar.
 11. Passando pelo labirinto, nem precisa falar com Julian, entre direto no portal.
 
-    :   ![BaseMilitar07](../images/9/94/BaseMilitar07.png)
+    :   ![BaseMilitar07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/BaseMilitar07.png)
 12. Aproxime-se de Julian e depois clique nele para iniciar a última fase do treinamento: derrotar a [Malícia](http://www.divine-pride.net/database/monster/3628/).
 
-    :   ![BaseMilitar08](../images/7/77/BaseMilitar08.png)
+    :   ![BaseMilitar08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/BaseMilitar08.png)
 
     - Cuidado na hora da luta, existem atiradores ao redor da [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 13. Finalizando a batalha, converse com os [NPCs](../Sem%20categoria/NPC.md "NPC") e suba as escadas para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-    :   ![BaseMilitar09](../images/0/0b/BaseMilitar09.png)
+    :   ![BaseMilitar09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/BaseMilitar09.png)
 
 | *[Instâncias](Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

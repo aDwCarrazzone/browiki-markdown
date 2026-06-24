@@ -4,23 +4,23 @@
 
 1. Converse com o Guarda Continental (prontera 164,304)
 
-   :   ![RSM01](../images/5/54/RSM01.png)
+   :   ![RSM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/RSM01.png)
 2. Aliste-se com o Guarda Continental (morocc 176,103)
 
-   :   ![RSM02](../images/7/7f/RSM02.png)
+   :   ![RSM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/RSM02.png)
 3. Insista na conversa com o Chefe Balrog (morocc 159,113)
 
-   :   ![RSM03](../images/c/c4/RSM03.png)
+   :   ![RSM03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/RSM03.png)
 
    - Entregue os itens para receber um [Papel da Guarda Continental](http://www.divine-pride.net/database/item/7826/).
 4. Peça acesso ao campo de investigação ao Guarda Continental (moc\_fild20 37,174)
 
-   :   ![RSM04](../images/e/e5/RSM04.png)
+   :   ![RSM04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/RSM04.png)
 
    - Você precisa estar em um [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") com uma pessoa online.
 5. Invoque o [Imperador Morroc](http://www.divine-pride.net/database/monster/1916/) clicando na Aglomeração Maligna (moc\_fild21 178,239)
 
-   :   ![RSM05](../images/4/48/RSM05.png)
+   :   ![RSM05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/RSM05.png)
 
    - Notas:
      - Não há necessidade de derrotar o [Imperador Morroc](http://www.divine-pride.net/database/monster/1916/), basta estar no mapa após a batalha.

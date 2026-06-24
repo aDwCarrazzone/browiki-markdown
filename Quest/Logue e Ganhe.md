@@ -2,7 +2,7 @@
 
 # Logue e Ganhe
 
-![LoginDiario](../images/7/7d/LoginDiario.png)
+![LoginDiario](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/LoginDiario.png)
 
 *Logue e Ganhe* é um evento de premiação por login na conta.
 

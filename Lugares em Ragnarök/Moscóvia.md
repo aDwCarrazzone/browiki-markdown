@@ -2,7 +2,7 @@
 
 # Moscóvia
 
-[![Moscóvia worldmap](../images/e/e8/Mosc%C3%B3via_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AMosc%C3%B3via_worldmap.jpg)
+[![Moscóvia worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Mosc%C3%B3via_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AMosc%C3%B3via_worldmap.jpg)
 
 Moscóvia, a vila encantada
 

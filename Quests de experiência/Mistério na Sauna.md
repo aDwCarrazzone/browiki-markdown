@@ -16,29 +16,29 @@
 
 1. Dentro da [mansão de Varmunt](../Lugares%20em%20Ragnar%C3%B6k/Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt"), fale com Esfriga (ba\_in01 384,38).
 
-   :   ![Mistério na Sauna01](../images/9/9c/Mist%C3%A9rio_na_Sauna01.png)
+   :   ![Mistério na Sauna01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Mist%C3%A9rio_na_Sauna01.png)
 2. Entre na Sauna Meditatio e fale com Esfriga (ba\_bath 165,43).
 
-   :   ![Mistério na Sauna02](../images/f/fe/Mist%C3%A9rio_na_Sauna02.png)
+   :   ![Mistério na Sauna02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Mist%C3%A9rio_na_Sauna02.png)
 3. Na sala da caldeira, fale com Caldira (ba\_bath 286,68).
 
-   :   ![Mistério na Sauna03](../images/1/1d/Mist%C3%A9rio_na_Sauna03.png)
+   :   ![Mistério na Sauna03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1d/Mist%C3%A9rio_na_Sauna03.png)
 
    - Você receberá 7 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) e 103.133 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
 4. Saindo da sala da caldeira, aparecerá Lukie (ba\_bath 270,94)
 
-   :   ![Mistério na Sauna04](../images/d/de/Mist%C3%A9rio_na_Sauna04.png)
+   :   ![Mistério na Sauna04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/Mist%C3%A9rio_na_Sauna04.png)
 5. Retorne para Esfriga, na entrada da Sauna (ba\_bath 165,43).
 
-   :   ![Mistério na Sauna02](../images/f/fe/Mist%C3%A9rio_na_Sauna02.png)
+   :   ![Mistério na Sauna02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Mist%C3%A9rio_na_Sauna02.png)
 6. Dirija-se ao vestiário para aparecer Lukie (ba\_bath 203,58).
 
-   :   ![Mistério na Sauna05](../images/b/ba/Mist%C3%A9rio_na_Sauna05.png)
+   :   ![Mistério na Sauna05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Mist%C3%A9rio_na_Sauna05.png)
 
    - Você receberá 7 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) e 154.700 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
 7. Com 4 [Armadilhas Congeladoras](http://www.divine-pride.net/database/item/1000103/) dadas por Lukie, dirija-se aos seguintes pontos, em ordem:
 
-   :   ![Mistério na Sauna06](../images/9/96/Mist%C3%A9rio_na_Sauna06.png)
+   :   ![Mistério na Sauna06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Mist%C3%A9rio_na_Sauna06.png)
 
    1. (ba\_bath 55,55)
    2. (ba\_bath 306,121)
@@ -46,7 +46,7 @@
    4. (ba\_bath 155,305)
 8. Assim que instalar todas, um Rebelde aparecerá pedindo que vá para a Fonte (ba\_bath 286,298)
 
-   :   ![Mistério na Sauna07](../images/1/16/Mist%C3%A9rio_na_Sauna07.png)
+   :   ![Mistério na Sauna07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Mist%C3%A9rio_na_Sauna07.png)
 9. Continue conversando para finalizar a história.
    - Você receberá 16 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) e 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
    - Você liberou acesso às missões diárias.

@@ -2,7 +2,7 @@
 
 # Abadia de Santa Capitolina
 
-[![Prontera city6](../images/e/ef/Prontera_city6.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_city6.jpg)
+[![Prontera city6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Prontera_city6.jpg)](https://browiki.org/wiki/Arquivo%3AProntera_city6.jpg)
 
 A Abadia fica à leste de Prontera
 

@@ -17,15 +17,15 @@
 
 1. Dentro da Torre de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen"), fale com Mariaju (gef\_tower 56,170) para criar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![MonarcaLich01](../images/8/8b/MonarcaLich01.png)
+   :   ![MonarcaLich01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/MonarcaLich01.png)
 2. Dentro do mapa, fale novamente com a [NPC](../Sem%20categoria/NPC.md "NPC") e escolha o nível de dificuldade entre 100 e 160.
 3. O mapa invocará [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") para você caçar de acordo com o nível de dificuldade escolhido.
 4. Localize o Estranho (1@md\_gef 183,222) e selecione "Vasculhar" para conseguir algumas [Pedras Brutas](http://www.divine-pride.net/database/item/25235/).
 
-   :   ![MonarcaLich02](../images/5/56/MonarcaLich02.png)
+   :   ![MonarcaLich02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/MonarcaLich02.png)
 5. Após um certo número de caçadas, um Baú de Tesouro aparecerá, ele derruba algumas [Pedras Brutas](http://www.divine-pride.net/database/item/25235/).
 
-   :   ![MonarcaLich03](../images/e/e2/MonarcaLich03.png)
+   :   ![MonarcaLich03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/MonarcaLich03.png)
 
    1. (1@md\_gef 212,212)
    2. (1@md\_gef 190,56)
@@ -33,7 +33,7 @@
    4. (1@md\_gef 44,211)
 6. Depois de 30 minutos dentro da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), o [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") poderá tentar invocar o [Monarca Lich](http://www.divine-pride.net/database/monster/3658/) clicando na Escultura Estranha (1@md\_gef 199,73).
 
-   :   ![MonarcaLich04](../images/6/66/MonarcaLich04.png)
+   :   ![MonarcaLich04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/MonarcaLich04.png)
 7. A chance de sucesso ao invocá-lo é de 20% e se falhar, haverá 5 minutos de recarga para uma nova tentativa. Cada tentativa consome 10 [Pedras Brutas](http://www.divine-pride.net/database/item/25235/).
 8. A [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") não termina na morte do [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP"), apenas quando o tempo acabar.
 9. É possível enfrentar o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") apenas uma vez por instância, mesmo possuindo pedras brutas suficientes para invocar mais de uma vez.

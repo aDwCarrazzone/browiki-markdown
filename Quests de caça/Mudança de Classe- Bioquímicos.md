@@ -16,13 +16,13 @@
 
 1. Fale com o Membro Alquimista (alde\_alche 35,186)
 
-   :   ![MdCBio01](../images/5/56/MdCBio01.png)
+   :   ![MdCBio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/MdCBio01.png)
 2. Em [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen"), encontre com Devries (job3\_gen01 25,58). Selecione: *Eu também sou de Rune-Midgard*
 
-   :   ![MdCBio02](../images/4/48/MdCBio02.png)
+   :   ![MdCBio02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/MdCBio02.png)
 3. Suba a rampa para o segundo andar e vá para cima, há uma Caixa de Entrega (job3\_gen01 83,72).
 
-   :   ![MdCBio03](../images/3/34/MdCBio03.png)
+   :   ![MdCBio03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/MdCBio03.png)
 
    - Selecione:
      - *Abra a Caixa*
@@ -30,29 +30,29 @@
 4. Retorne a Devries e fale que deseja ser um [Bioquímico](../Sem%20categoria/Bioqu%C3%ADmico.md "Bioquímico"). Continue a conversa até receber a missão de mudança de classe.
 5. No mesmo andar, clique na estante e leia o Guia de Plantas (job3\_gen01 12,56). Selecione: *Plantas*
 
-   :   ![MdCBio04](../images/6/60/MdCBio04.png)
+   :   ![MdCBio04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/MdCBio04.png)
 6. Colete amostras das plantas abaixo, em ordem:
    1. Planta de Bigibigi
 
-      :   ![MdCBio05a](../images/c/c6/MdCBio05a.png)
+      :   ![MdCBio05a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/MdCBio05a.png)
    2. Árvore de Muka
 
-      :   ![MdCBio05b](../images/2/24/MdCBio05b.png)
+      :   ![MdCBio05b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/MdCBio05b.png)
    3. Vinha Bogi
 
-      :   ![MdCBio05c](../images/9/92/MdCBio05c.png)
+      :   ![MdCBio05c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/MdCBio05c.png)
    4. Aolatura
 
-      :   ![MdCBio05d](../images/b/b8/MdCBio05d.png)
+      :   ![MdCBio05d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/MdCBio05d.png)
    5. Congra
 
-      :   ![MdCBio05e](../images/6/63/MdCBio05e.png)
+      :   ![MdCBio05e](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/MdCBio05e.png)
    6. Grama Grudenta
 
-      :   ![MdCBio05f](../images/e/e7/MdCBio05f.png)
+      :   ![MdCBio05f](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/MdCBio05f.png)
 7. Dirija-se para a Mesa de Testes (job3\_gen01 7,50)
 
-   :   ![MdCBio06](../images/3/34/MdCBio06.png)
+   :   ![MdCBio06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/MdCBio06.png)
 
    - Selecione (cuidado, a ordem é aleatória):
      - Conduzir experimento
@@ -66,22 +66,22 @@
 8. Entregue a [Semente](http://www.divine-pride.net/database/item/6273/) para Devries, se o [NPC](../Sem%20categoria/NPC.md "NPC") não gostar da semente, repita o procedimento.
 9. Localize Demi Calberine (job3\_gen01 91,48)
 
-   :   ![MdCBio07](../images/c/c3/MdCBio07.png)
+   :   ![MdCBio07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/MdCBio07.png)
 10. Procure por peças de carrinho nas Coisas Esparramadas.
 
-    :   ![MdCBio071](../images/b/bd/MdCBio071.png) ![MdCBio072](../images/2/26/MdCBio072.png)
-    :   ![MdCBio074](../images/5/53/MdCBio074.png) ![MdCBio073](../images/f/fd/MdCBio073.png)
+    :   ![MdCBio071](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/MdCBio071.png) ![MdCBio072](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/MdCBio072.png)
+    :   ![MdCBio074](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MdCBio074.png) ![MdCBio073](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/MdCBio073.png)
 11. Entregue as 10 peças de carrinho para Demi Calberine enviar você ao teste prático.
 12. Derrote 100 [Esporos Venenosos](http://www.divine-pride.net/database/monster/3729/) nesta pequena sala.
 
-    :   ![MdCBio08](../images/8/86/MdCBio08.png)
+    :   ![MdCBio08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/MdCBio08.png)
 
     - Recomendamos que você use [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau").
     - Estes [Esporos Venenosos](http://www.divine-pride.net/database/monster/3729/) são diferentes dos [Esporos Venenosos](http://www.divine-pride.net/database/monster/1077/) normais, portanto, matá-los em outros mapas não contará para a missão.
     - Caso tenha morrido, basta voltar para o cercado clicando no Aviso (job3\_gen01 18,39)
     - Para sair do cercado, basta clicar no Aviso.
 
-      :   ![MdCBio09](../images/7/73/MdCBio09.png)
+      :   ![MdCBio09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/MdCBio09.png)
 13. **Retire seu carrinho** e reencontre Devries para mudar de classe e receber 1 [Anel de Maçã Verde](http://www.divine-pride.net/database/item/2795/) e 1 [Toque de Midas](http://www.divine-pride.net/database/item/5752/).
 
 - Ao chegar no nível 100, pegue sua *[Caixa Inicial](../Sem%20categoria/Conquista.md "Conquista")* para ajudar na sua nova jornada.

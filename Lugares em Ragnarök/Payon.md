@@ -2,7 +2,7 @@
 
 # Payon
 
-[![Payon city2](../images/0/0e/Payon_city2.jpg)](https://browiki.org/wiki/Arquivo%3APayon_city2.jpg)
+[![Payon city2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Payon_city2.jpg)](https://browiki.org/wiki/Arquivo%3APayon_city2.jpg)
 
 Payon, a cidade das montanhas
 

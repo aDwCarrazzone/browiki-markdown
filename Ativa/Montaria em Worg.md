@@ -30,11 +30,11 @@ Aumenta a [velocidade de movimento](../Sem%20categoria/Velocidade%20de%20movimen
 
 - Enquanto montado, não é possível atacar normalmente, apenas pegar itens, instalar armadilhas e usar habilidades do Worg.
 - É possível instalar as seguintes armadilhas enquanto montado:
-  - [![Armadilha Energizada](../images/f/ff/Armadilha_Energizada.png)](Armadilha%20Energizada.md "Armadilha Energizada") [Armadilha Energizada](Armadilha%20Energizada.md "Armadilha Energizada")
-  - [![Armadilha Ocre](../images/6/6a/Armadilha_Ocre.png)](Armadilha%20Ocre.md "Armadilha Ocre") [Armadilha Ocre](Armadilha%20Ocre.md "Armadilha Ocre")
-  - [![Armadilha Cobalto](../images/d/d3/Armadilha_Cobalto.png)](Armadilha%20Cobalto.md "Armadilha Cobalto") [Armadilha Cobalto](Armadilha%20Cobalto.md "Armadilha Cobalto")
-  - [![Armadilha Escarlate](../images/7/72/Armadilha_Escarlate.png)](Armadilha%20Escarlate.md "Armadilha Escarlate") [Armadilha Escarlate](Armadilha%20Escarlate.md "Armadilha Escarlate")
-  - [![Armadilha Esmeralda](../images/b/bc/Armadilha_Esmeralda.png)](Armadilha%20Esmeralda.md "Armadilha Esmeralda") [Armadilha Esmeralda](Armadilha%20Esmeralda.md "Armadilha Esmeralda")
+  - [![Armadilha Energizada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Armadilha_Energizada.png)](Armadilha%20Energizada.md "Armadilha Energizada") [Armadilha Energizada](Armadilha%20Energizada.md "Armadilha Energizada")
+  - [![Armadilha Ocre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Armadilha_Ocre.png)](Armadilha%20Ocre.md "Armadilha Ocre") [Armadilha Ocre](Armadilha%20Ocre.md "Armadilha Ocre")
+  - [![Armadilha Cobalto](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Armadilha_Cobalto.png)](Armadilha%20Cobalto.md "Armadilha Cobalto") [Armadilha Cobalto](Armadilha%20Cobalto.md "Armadilha Cobalto")
+  - [![Armadilha Escarlate](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/Armadilha_Escarlate.png)](Armadilha%20Escarlate.md "Armadilha Escarlate") [Armadilha Escarlate](Armadilha%20Escarlate.md "Armadilha Escarlate")
+  - [![Armadilha Esmeralda](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Armadilha_Esmeralda.png)](Armadilha%20Esmeralda.md "Armadilha Esmeralda") [Armadilha Esmeralda](Armadilha%20Esmeralda.md "Armadilha Esmeralda")
 
 | *O Tiro Certeiro da Natureza* | |
 | --- | --- |

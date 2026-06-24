@@ -11,7 +11,7 @@
 | **Exclusiva:** | Sim |
 | **Duração:** | [5 + (Nv. da habilidade × 5)] segundos |
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para a habilidade dos Noviços, veja [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para a habilidade dos Noviços, veja [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade").
 
 Aumenta o [movimento](../Sem%20categoria/Movimento.md "Movimento") e a [esquiva](../Sem%20categoria/Esquiva.md "Esquiva") em 100%.
 

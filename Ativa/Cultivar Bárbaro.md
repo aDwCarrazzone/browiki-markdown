@@ -34,10 +34,10 @@ Enquanto estiver invocado, garante efeitos adicionais.
 
 ### Efeitos adicionais
 
-- [![Canhão de Prótons](../images/6/6d/Canh%C3%A3o_de_Pr%C3%B3tons.png)](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons") [Canhão de Prótons](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons"):
+- [![Canhão de Prótons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Canh%C3%A3o_de_Pr%C3%B3tons.png)](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons") [Canhão de Prótons](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons"):
   - Reduz a animação do ataque.
   - Passa a infligir 2 ataques, ao invés de 1.
-- [![Tornado de Carrinho](../images/2/20/Tornado_de_Carrinho.png)](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho") [Tornado de Carrinho](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho"):
+- [![Tornado de Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Tornado_de_Carrinho.png)](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho") [Tornado de Carrinho](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho"):
   - Multiplicador de dano base aumenta de 200 para 400.
 
 ## O Bárbaro

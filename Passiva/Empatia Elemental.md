@@ -30,10 +30,10 @@ Aumenta o [ATQ](../Sem%20categoria/ATQ.md "ATQ"), [ATQM](../Sem%20categoria/ATQM
 ## Notas
 
 - Habilidades de Invocar Espíritos Elementais:
-  - [![Invocar Agni](../images/5/50/Invocar_Agni.png)](../Ativa/Invocar%20Agni.md "Invocar Agni") [Invocar Agni](../Ativa/Invocar%20Agni.md "Invocar Agni")
-  - [![Invocar Chandra](../images/b/b0/Invocar_Chandra.png)](../Ativa/Invocar%20Chandra.md "Invocar Chandra") [Invocar Chandra](../Ativa/Invocar%20Chandra.md "Invocar Chandra")
-  - [![Invocar Vayu](../images/4/46/Invocar_Vayu.png)](../Ativa/Invocar%20Vayu.md "Invocar Vayu") [Invocar Vayu](../Ativa/Invocar%20Vayu.md "Invocar Vayu")
-  - [![Invocar Varuna](../images/1/1b/Invocar_Varuna.png)](../Ativa/Invocar%20Varuna.md "Invocar Varuna") [Invocar Varuna](../Ativa/Invocar%20Varuna.md "Invocar Varuna")
+  - [![Invocar Agni](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Invocar_Agni.png)](../Ativa/Invocar%20Agni.md "Invocar Agni") [Invocar Agni](../Ativa/Invocar%20Agni.md "Invocar Agni")
+  - [![Invocar Chandra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Invocar_Chandra.png)](../Ativa/Invocar%20Chandra.md "Invocar Chandra") [Invocar Chandra](../Ativa/Invocar%20Chandra.md "Invocar Chandra")
+  - [![Invocar Vayu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Invocar_Vayu.png)](../Ativa/Invocar%20Vayu.md "Invocar Vayu") [Invocar Vayu](../Ativa/Invocar%20Vayu.md "Invocar Vayu")
+  - [![Invocar Varuna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Invocar_Varuna.png)](../Ativa/Invocar%20Varuna.md "Invocar Varuna") [Invocar Varuna](../Ativa/Invocar%20Varuna.md "Invocar Varuna")
 
 | *O Poder dos Elementos* | | |
 | --- | --- | --- |

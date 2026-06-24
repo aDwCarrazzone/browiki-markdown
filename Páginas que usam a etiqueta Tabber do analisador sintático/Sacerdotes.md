@@ -43,7 +43,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeSacerdotes](../images/8/82/SkilltreeSacerdotes.png)
+![SkilltreeSacerdotes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/SkilltreeSacerdotes.png)
 
 ## Construção do Personagem
 

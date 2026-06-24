@@ -15,10 +15,10 @@
 
 1. Fale com Enrico Schumacher (yuno\_fild08 172,194)
 
-   :   ![EinbrochRegional01](../images/f/f9/EinbrochRegional01.png)
+   :   ![EinbrochRegional01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/EinbrochRegional01.png)
 2. Encontre Fred Schumacher (ein\_fild06 163,173)
 
-   :   ![EinbrochRegional02](../images/d/d6/EinbrochRegional02.png)
+   :   ![EinbrochRegional02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/EinbrochRegional02.png)
 
    - Você receberá 30.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
    - Você já poderá iniciar as missões diárias de caçada. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
@@ -26,20 +26,20 @@
    - Você receberá 40.920 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 38.220 de classe.
 4. Converse com o Guarda Aiden (einbech 156,200)
 
-   :   ![EinbrochRegional03](../images/8/87/EinbrochRegional03.png)
+   :   ![EinbrochRegional03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/87/EinbrochRegional03.png)
 
    - Durante a conversa, um residente deve aparecer, continue conversando com o Guarda.
    - Se seu nível for 85 ou mais, você já poderá iniciar as missões diárias de caçada. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
    - Fale novamente com o Guarda e selecione "*Sobre Einbroch*".
 5. Procure pelo Guarda Aisen (einbroch 220,254)
 
-   :   ![EinbrochRegional04](../images/c/c0/EinbrochRegional04.png)
+   :   ![EinbrochRegional04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/EinbrochRegional04.png)
 
    - Você já poderá iniciar as missões diárias de caçada. Essas [quests](../Quest/Quests.md "Quests") também estão disponíveis nas placas do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
    - Fale novamente com o Guarda e selecione "*Apenas conversar*" e "*Sobre Lighthalzen*".
 6. Aisen pede que você encontre o Guarda Carlos (airport 133,42)
 
-   :   ![EinbrochRegional05](../images/8/81/EinbrochRegional05.png)
+   :   ![EinbrochRegional05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/EinbrochRegional05.png)
 
    - Você receberá 10.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
 

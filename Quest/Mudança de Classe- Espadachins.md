@@ -14,7 +14,7 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Sam (iz\_ac02 62,51)
 
-   :   ![Aca Archer01](../images/4/41/Aca_Archer01.png)
+   :   ![Aca Archer01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Aca_Archer01.png)
 
    - Sam lhe dará um [Manual do Espadachim](http://www.divine-pride.net/database/item/2819/).
    - Você pode devolver o Manual falando com o Assistente Niels.
@@ -22,17 +22,17 @@
    - Você pode optar por mudar de classe diretamente na Academia, mas é recomendável mudar de classe na Guilda.
 2. Na Guilda dos Espadachins e fale com o Mestre Espadachim (izlude\_in 74,172)
 
-   :   ![Espadachins2Q new](../images/e/e3/Espadachins2Q_new.png)
+   :   ![Espadachins2Q new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Espadachins2Q_new.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
      - ![13415.png](http://static.divine-pride.net/images/items/item/13415.png) 1 [Alfanje de Iniciante](http://www.divine-pride.net/database/item/13415/)
-     - Aprende [![Ataque Fatal](../images/6/62/Ataque_Fatal.png)](../Passiva/Ataque%20Fatal.md "Ataque Fatal") [Ataque Fatal](../Passiva/Ataque%20Fatal.md "Ataque Fatal")
-     - Aprende [![Instinto de Sobrevivência](../images/0/0b/Instinto_de_Sobreviv%C3%AAncia.png)](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência") [Instinto de Sobrevivência](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência")
-     - Aprende [![Recuperar HP em Movimento](../images/7/70/Recuperar_HP_em_Movimento.png)](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento") [Recuperar HP em Movimento](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento")
+     - Aprende [![Ataque Fatal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Ataque_Fatal.png)](../Passiva/Ataque%20Fatal.md "Ataque Fatal") [Ataque Fatal](../Passiva/Ataque%20Fatal.md "Ataque Fatal")
+     - Aprende [![Instinto de Sobrevivência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Instinto_de_Sobreviv%C3%AAncia.png)](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência") [Instinto de Sobrevivência](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência")
+     - Aprende [![Recuperar HP em Movimento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Recuperar_HP_em_Movimento.png)](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento") [Recuperar HP em Movimento](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -46,7 +46,7 @@
 
 1. Converse com Luna (izlude\_in 70,168)
 
-   :   ![Aca Sword03](../images/1/19/Aca_Sword03.png)
+   :   ![Aca Sword03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Aca_Sword03.png)
 
    - Selecione "*Mais informações*".
    - Você receberá 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/), 200 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 160 de classe.
@@ -61,7 +61,7 @@
    - Missão concluída, Luna sugere que você participe do **[Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden")**.
 6. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-   :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+   :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
    - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
    - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

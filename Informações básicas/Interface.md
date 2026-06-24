@@ -2,7 +2,7 @@
 
 # Interface
 
-![Interface new2](../images/4/46/Interface_new2.png)
+![Interface new2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Interface_new2.png)
 
 | A interface do jogo | |
 | --- | --- |
@@ -39,13 +39,13 @@ O mouse será seu principal aliado, junto com o teclado.
 
 ## Chat
 
-![Mensagempública](../images/6/60/Mensagemp%C3%BAblica.png)
+![Mensagempública](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Mensagemp%C3%BAblica.png)
 
-- Para interagir com outros personagens, utilize a janela de chat apertando ENTER para desbloquear (![Chat Cadeado](../images/e/ed/Chat_Cadeado.png)) a caixa de texto e ENTER mais uma vez para enviar a mensagem.
+- Para interagir com outros personagens, utilize a janela de chat apertando ENTER para desbloquear (![Chat Cadeado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Chat_Cadeado.png)) a caixa de texto e ENTER mais uma vez para enviar a mensagem.
 - Ao enviar uma mensagem, você pode optar por torná-la pública, somente para o [grupo](Grupo.md "Grupo") ou somente para o [clã](../PvP/Cl%C3%A3.md "Clã") clicando na bolinha azul.
 - Acima do chat estão botões para criar, remover e configurar uma aba de chat. É possível criar um máximo de 10 abas.
 - Para renomear uma aba, clique duas vezes no nome da aba. Caso você tenha muitas abas ativas, a quantidade de caracteres para renomeá-las será menor.
-- Cada aba pode ser configurada apertando no botão ![Chat Setup](../images/c/c5/Chat_Setup.png).
+- Cada aba pode ser configurada apertando no botão ![Chat Setup](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Chat_Setup.png).
 - Você pode ligar ou desligar as seguintes opções na janela de chat:
 
 | Exemplos |

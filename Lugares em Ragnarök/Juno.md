@@ -2,7 +2,7 @@
 
 # Juno
 
-[![Artwork Juno](../images/d/d3/Artwork_Juno.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Juno.png)
+[![Artwork Juno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Artwork_Juno.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Juno.png)
 
 Juno, capital da República de Schwartzwald.
 

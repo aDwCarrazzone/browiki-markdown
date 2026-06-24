@@ -13,7 +13,7 @@
 | Premiação | |
 | **[Itens](../Itens/Itens.md "Itens")** | 31736.png [(Visual) Peruca de Pipoca](http://www.divine-pride.net/database/item/31736/) |
 
-![FestaDaPipoca5](../images/2/22/FestaDaPipoca5.png)
+![FestaDaPipoca5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/FestaDaPipoca5.png)
 
 Mapa da instância
 
@@ -26,7 +26,7 @@ Mapa da instância
    - [Piroclastos](http://www.divine-pride.net/database/item/25341/) são derrubados do [Imp Morno](http://www.divine-pride.net/database/monster/3820/) e [Estrondo Morno](http://www.divine-pride.net/database/monster/3821/) espalhados em todos os mapas de campo e caverna.
 2. Encontre Kerlin (comodo 262,126).
 
-   :   ![FestaDaPipoca1](../images/2/29/FestaDaPipoca1.png)
+   :   ![FestaDaPipoca1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/FestaDaPipoca1.png)
 
    - Traga para ela 30 [Piroclasto](http://www.divine-pride.net/database/item/25341/).
    - Assim que entregar, você recebe 5 [Pipoca](http://www.divine-pride.net/database/item/11611/).
@@ -60,7 +60,7 @@ Mapa da instância
 
 1. Para conseguir Pipocas, fale com o Pipoqueiro (comodo 170,196). Ele oferece 2 opções para criar pipocas.
 
-   :   ![FestaDaPipoca7](../images/9/92/FestaDaPipoca7.png)
+   :   ![FestaDaPipoca7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/FestaDaPipoca7.png)
 
 :   :   :   | Ingredientes | Item |
             | --- | --- |

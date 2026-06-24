@@ -32,7 +32,7 @@ Para adquirir os equipamentos de honra:
 
 ## Bônus aleatórios
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para saber mais, veja [Bônus Aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para saber mais, veja [Bônus Aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios").
 
 - Equipamentos Ilustre e Grácil podem receber [bônus aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") de acordo com o combinador comprado.
 - Não há perda da carta ou do refino ao combinar.

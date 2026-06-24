@@ -2,7 +2,7 @@
 
 # Kunlun
 
-[![Kunlun worldmap](../images/7/72/Kunlun_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AKunlun_worldmap.jpg)
+[![Kunlun worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/Kunlun_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AKunlun_worldmap.jpg)
 
 Kunlun, a ilha dos Eremitas
 
@@ -20,7 +20,7 @@ Isso porque, nos campos abaixo da cidade, os moradores de Kunlun criaram réplic
 
 ## Mapa
 
-![Kunlun imagem](../images/e/ec/Kunlun_imagem.jpg)
+![Kunlun imagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/Kunlun_imagem.jpg)
 
 A ilha que flutua nos céus
 

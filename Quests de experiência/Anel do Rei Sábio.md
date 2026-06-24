@@ -16,10 +16,10 @@
 
 1. Encontre o Engenheiro Mecânico (mid\_camp 197,236)
 
-   :   ![AnelWise01](../images/5/56/AnelWise01.png)
+   :   ![AnelWise01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/AnelWise01.png)
 2. Fale com o Linguista de Arunafeltz (mid\_campin 168,82)
 
-   :   ![AnelWise02](../images/3/33/AnelWise02.png)
+   :   ![AnelWise02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/AnelWise02.png)
 
    - Digite, linha por linha, o dialogo deles:
      - Fada:
@@ -33,18 +33,18 @@
    - Depois disso, fale com ele novamente e escolha a opção "Fale com ele." e "Pergunte o que está acontecendo."
 3. Procure o Mago de Rune-Midgard (mid\_camp 147,256)
 
-   :   ![AnelWise03](../images/c/c8/AnelWise03.png)
+   :   ![AnelWise03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/AnelWise03.png)
 
    - Fale com o [NPC](../Sem%20categoria/NPC.md "NPC") novamente e selecione: "*E se eu for buscá-las?*"
 4. Clique na Joia Enterrada (spl\_fild02 26,218)
 
-   :   ![AnelWise04](../images/7/71/AnelWise04.png)
+   :   ![AnelWise04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/AnelWise04.png)
 
    - Você receberá uma [Joia Vermelha](http://www.divine-pride.net/database/item/7575/).
    - Se aparecerem [Besouros-Ladrões](http://www.divine-pride.net/database/monster/1051/), mate-os para que o [NPC](../Sem%20categoria/NPC.md "NPC") reapareça.
 5. Consiga a [Joia Azul](http://www.divine-pride.net/database/item/7576/) clicando na Joia Enterrada (man\_fild03 227,109)
 
-   :   ![AnelWise05](../images/9/94/AnelWise05.png)
+   :   ![AnelWise05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/AnelWise05.png)
 6. Retorne ao Mago de Rune-Midgard (mid\_camp 147,256)
 7. Volte ao Linguista de Arunafeltz (mid\_campin 168,82)
 8. Reencontre o Engenheiro Mecânico (mid\_camp 197,236)
@@ -56,7 +56,7 @@
 12. Volte a falar com o Engenheiro para entregar a joia. (mid\_camp 197,236)
 13. Após 1 hora, fale novamente com o Engenheiro Mecânico para receber sua recompensa. (mid\_camp 197,236)
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

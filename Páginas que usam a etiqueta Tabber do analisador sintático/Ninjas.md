@@ -44,7 +44,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeNinjas](../images/4/42/SkilltreeNinjas.png)
+![SkilltreeNinjas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/SkilltreeNinjas.png)
 
 ## Construção do Personagem
 

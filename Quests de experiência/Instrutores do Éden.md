@@ -19,10 +19,10 @@ As missões dadas pelos Instrutores do Éden são voltadas para iniciantes e con
 
 1. Aceite o desafio da Instrutora, no segundo andar do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 
-   :   ![MestredoEden1](../images/9/92/MestredoEden1.png)
+   :   ![MestredoEden1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/MestredoEden1.png)
 2. Responda às perguntas dos [NPCs](../Sem%20categoria/NPC.md "NPC") próximos a ela na seguinte ordem:
 
-   :   ![MestredoEden2](../images/1/1e/MestredoEden2.png)
+   :   ![MestredoEden2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/MestredoEden2.png)
 
    1. Mestre de Batalha
    2. Mestre de Grupo
@@ -46,7 +46,7 @@ As missões dadas pelos Instrutores do Éden são voltadas para iniciantes e con
 
 1. Aceite o desafio do Instrutor, no segundo andar do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
 
-   :   ![InstrutorEden1](../images/6/61/InstrutorEden1.png)
+   :   ![InstrutorEden1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/InstrutorEden1.png)
 2. Compre um pergaminho de [assistente](../Sem%20categoria/Assistente.md "Assistente"), a guilda mais próxima está em (prontera 41,337)
 3. Use o pergaminho e retorne ao Instrutor, que pedirá que você confira sua janela de missões, sem seguida, digite:
 

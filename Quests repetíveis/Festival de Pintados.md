@@ -20,7 +20,7 @@
 
 1. Faça sua doação ao Ajudante do Festival (ma\_fild01 179,260)
 
-   :   ![Pintados1](../images/c/c8/Pintados1.png)
+   :   ![Pintados1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/Pintados1.png)
 
    - O festival começa quando a doação atingir o número de itens requeridos:
      - 1.000 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/)
@@ -29,7 +29,7 @@
    - Ao fazer sua doação, o Ajudante só recolhe até o 50 [itens](../Itens/Itens.md "Itens") por vez.
 2. Quando o Festival de Pintados começar, fale com o Tatuador (ma\_fild01 172,223)
 
-   :   ![Pintados2](../images/4/4d/Pintados2.png)
+   :   ![Pintados2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/Pintados2.png)
 
    - Você precisa ficar sempre selecionando a opção "**...**", caso contrário, perderá os rancores.
    - O Tatuador fará 1 [acessório](../Sem%20categoria/Acess%C3%B3rio.md "Acessório") de acordo com os itens que você trouxer:

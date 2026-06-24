@@ -14,7 +14,7 @@
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Salim Hamid (iz\_ac02 50,169)
 
-   :   ![Aca Merchant01](../images/7/7e/Aca_Merchant01.png)
+   :   ![Aca Merchant01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Aca_Merchant01.png)
 
    - Se você tiver alcançado o nível de classe 10, fale com Salim. Selecione "*Sim*" para seguir a [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta").
    - Caso contrário, matricule-se no curso dele. Ele pede que você junte 100 [zenys](../Sem%20categoria/Zenys.md "Zenys").
@@ -22,7 +22,7 @@
    - Converse com Salim Hamid até pedir que você fale com o Mordomo Aidinn.
 2. Converse com o Mordomo Aidinn.
 
-   :   ![Aca Merchant02](../images/2/29/Aca_Merchant02.png)
+   :   ![Aca Merchant02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Aca_Merchant02.png)
 
    - Após a explicação da classe, você recebe 1 [Caixa Velha de Equipamento](http://www.divine-pride.net/database/item/12847/).
 3. Volte a falar com Salim Hamid até ele pedir que você fale com a Máquina Quebrada. (Ignore a máquina)
@@ -32,17 +32,17 @@
    - Você pode optar por mudar de classe diretamente na Academia, mas é recomendável mudar de classe na Guilda.
 4. Na Guilda dos Mercadores e converse com o Mercador da Guilda (alberta\_in 56,43)
 
-   :   ![QMercador1](../images/e/e4/QMercador1.png)
+   :   ![QMercador1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/QMercador1.png)
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
      - ![1381.png](http://static.divine-pride.net/images/items/item/1381.png) 1 [Machado de Batalha](http://www.divine-pride.net/database/item/1381/)
-     - Aprende [![Grito de Guerra](../images/0/05/Grito_de_Guerra.png)](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra")
-     - Aprende [![Personalizar Carrinho](../images/8/82/Personalizar_Carrinho.png)](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho")
-     - Aprende [![Cavalo-de-Pau](../images/b/b6/Cavalo-de-Pau.png)](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau")
+     - Aprende [![Grito de Guerra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Grito_de_Guerra.png)](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra")
+     - Aprende [![Personalizar Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Personalizar_Carrinho.png)](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho")
+     - Aprende [![Cavalo-de-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Cavalo-de-Pau.png)](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau")
 5. Após a mudança, fale com o Mercador novamente para voltar a Izlude, siga para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
-   :   ![TutorialNewbie010a](../images/f/fd/TutorialNewbie010a.png)
+   :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
@@ -56,13 +56,13 @@
 
 1. Diga que sabe de tudo para Salim Hamid (alberta\_in 75,48)
 
-   :   ![TU Merchant02](../images/6/65/TU_Merchant02.png)
+   :   ![TU Merchant02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/TU_Merchant02.png)
 
    - Responda corretamente as perguntas sobre atributos para ganhar 10 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
    - Fale com Hamid novamente, que explica sobre habilidades, você recebe 15 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
 2. Converse com o Mordomo (alberta\_in 69,51)
 
-   :   ![TU Merchant03](../images/9/9c/TU_Merchant03.png)
+   :   ![TU Merchant03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/TU_Merchant03.png)
 
    - Apenas para [mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") entre os níveis de base 10 a 21.
    - As missões podem ser refeitas assim que completadas.
@@ -77,7 +77,7 @@
 
 :   :   3. Você pode se livrar dos seus equipamentos de [aprendiz](../Sem%20categoria/Aprendiz.md "Aprendiz") trocando na Máquina de Vendas.
 
-        :   ![CriaturaAcademy011](../images/a/a2/CriaturaAcademy011.png)
+        :   ![CriaturaAcademy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/CriaturaAcademy011.png)
 
     - 1 Equipamento do Aprendiz rende 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/).
     - A máquina troca 4 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/) por uma das opções abaixo:

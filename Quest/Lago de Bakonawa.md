@@ -17,7 +17,7 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com Taho (ma\_scene01 174,179)
 
-   :   ![Malaya41](../images/3/32/Malaya41.png)
+   :   ![Malaya41](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Malaya41.png)
 
    - Selecione:
      - *Por favor, faça uma corda*
@@ -27,7 +27,7 @@
    - Vocês terão 10 minutos. Sempre que você falhar, recomece falando com Taho novamente.
 3. Quando o [Bakonawa](http://www.divine-pride.net/database/monster/2320/) se esconder na água, destrua os [Caldeirões](http://www.divine-pride.net/database/monster/2328/) e os [Gongos](http://www.divine-pride.net/database/monster/2328/).
 
-   :   ![Lago de Bakonawa](../images/d/d7/Lago_de_Bakonawa.png)
+   :   ![Lago de Bakonawa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Lago_de_Bakonawa.png)
 
    - Cada monstro tem 200 de [HP](../Sem%20categoria/HP.md "HP") e só recebem 1 de dano.
    - Você terá 5 minutos para completar esta tarefa.

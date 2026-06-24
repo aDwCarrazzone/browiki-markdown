@@ -14,12 +14,12 @@
 
 1. Fale com o Bardo Errante (verus03 129,22)
 
-   :   ![VerusBard](../images/7/72/VerusBard.png)
+   :   ![VerusBard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/VerusBard.png)
 2. Confira a [quest](../Sem%20categoria/Quest.md "Quest") na sua [janela de missões](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Comandos.md "Comandos"). Se você a tiver completado, basta falar com ele mais uma vez.
    - Ao retornar ao Bardo, você receberá um tempo de 23 horas para falar com o Bardo novamente.
    - Após ter falado com ele sobre todas as 6 missões que você completou, você receberá 5 [Manuais de Campo](http://www.divine-pride.net/database/item/12263/).
 
-![Saga1](../images/a/a6/Saga1.png)
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

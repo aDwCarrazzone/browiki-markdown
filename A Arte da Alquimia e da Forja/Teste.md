@@ -44,7 +44,7 @@ Tem 10% de chance de infligir [atordoamento](../Sem%20categoria/Atordoamento.md 
 
 ### Bônus Mecatrônico
 
-- [![Fabricar Soldado](../images/6/6c/Fabricar_Soldado.png)](../Ativa/Fabricar%20Soldado.md "Fabricar Soldado") [Fabricar Soldado](../Ativa/Fabricar%20Soldado.md "Fabricar Soldado"):
+- [![Fabricar Soldado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Fabricar_Soldado.png)](../Ativa/Fabricar%20Soldado.md "Fabricar Soldado") [Fabricar Soldado](../Ativa/Fabricar%20Soldado.md "Fabricar Soldado"):
   - Aumenta o dano causado.
   - Passa a infligir 2 ataques, ao invés de 1.
 

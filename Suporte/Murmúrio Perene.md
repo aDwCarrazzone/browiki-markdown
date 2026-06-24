@@ -54,9 +54,9 @@ Todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Gr
   - Não podem ser removidos por [Desencantar](../Ativa/Desencantar.md "Desencantar"), mas por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Improviso](../Ativa/Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Canção de Alfheim](../images/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
-  - [![Dança com Lobos](../images/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
-  - [![Orvalho de Idun](../images/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
+  - [![Canção de Alfheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
+  - [![Dança com Lobos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
+  - [![Orvalho de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

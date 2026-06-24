@@ -2,7 +2,7 @@
 
 # Aldeia do Lobo Cinzento
 
-[![Graywolfvil](../images/6/6f/Graywolfvil.png)](https://browiki.org/wiki/Arquivo%3AGraywolfvil.png)
+[![Graywolfvil](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Graywolfvil.png)](https://browiki.org/wiki/Arquivo%3AGraywolfvil.png)
 
 Aldeia Indígena dos Lobos Cinzentos
 

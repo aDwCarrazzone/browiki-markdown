@@ -20,15 +20,15 @@
 
 1. Leia o sinal em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") ou nas principais cidades (prontera 147,305)
 
-   :   ![Sinal01](../images/4/46/Sinal01.png)
+   :   ![Sinal01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Sinal01.png)
 2. Ofereça ajuda ao Arqueólogo (prt\_in 227,45)
 
-   :   ![Sinal02](../images/b/b0/Sinal02.png)
+   :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 3. **(ATENÇÃO)** Converse com Airan, o Arruaceiro (morocc\_in 115,154)
    - Quando falar com este [NPC](../Sem%20categoria/NPC.md "NPC"), **não tenha os itens que ele vai pedir**, caso contrário ele pegará tudo e os pedirá novamente.
    - Recomenda-se deixar tudo guardado num carrinho ou no armazém e entregar um tipo de item de cada vez.
 
-   :   ![Sinal03](../images/6/68/Sinal03.png)
+   :   ![Sinal03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Sinal03.png)
 
    - Selecione:
      - *Eu sou [seu nome].*
@@ -40,7 +40,7 @@
      - 10 [Corais](http://www.divine-pride.net/database/item/7013/)
 4. Fale com o Jovem (morocc\_in 114,162)
 
-   :   ![Sinal04](../images/1/16/Sinal04.png)
+   :   ![Sinal04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/Sinal04.png)
 
    - Responda às perguntas:
      - *Procurar por água potável.*
@@ -50,10 +50,10 @@
      - *O que mais? Salvo o mundo.*
 5. Fale novamente com Airan, o Arruaceiro (morocc\_in 115,154) para receber 1 [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 
-   :   ![Sinal03](../images/6/68/Sinal03.png)
+   :   ![Sinal03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Sinal03.png)
 6. Procure por Daewoon (payon\_in03 11,31)
 
-   :   ![Sinal05](../images/5/58/Sinal05.png)
+   :   ![Sinal05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/Sinal05.png)
 
    - Selecione:
      - *Mais ou menos...?*
@@ -67,7 +67,7 @@
    - Receba outro [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 7. Entre 17 e 22 horas, converse com Sir Jore (aldeba\_in 155,101)
 
-   :   ![Sinal06](../images/e/e8/Sinal06.png)
+   :   ![Sinal06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Sinal06.png)
 
    - Traga os itens pedidos:
      - 10 [Tubos de Ensaio](http://www.divine-pride.net/database/item/1092/)
@@ -75,14 +75,14 @@
      - 10 [Ervas Verdes](http://www.divine-pride.net/database/item/511/)
 8. No labirinto da floresta, aproxime-se de Pleur (prt\_maze02 57,151)
 
-   :   ![Sinal06o](../images/b/b1/Sinal06o.png)
+   :   ![Sinal06o](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Sinal06o.png)
 
    - A [NPC](../Sem%20categoria/NPC.md "NPC") te mandará para um corredor, mas há uma chance de isso não acontecer.
    - Nesse caso, basta encontrar Pleur de novo.
    - Atenção para o [Bafomé](http://www.divine-pride.net/database/monster/1039/) que habita o labirinto.
 9. No final do corredor, fale com Gordon (prt\_maze02 14,183)
 
-   :   ![Sinal08](../images/c/cb/Sinal08.png)
+   :   ![Sinal08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Sinal08.png)
 
    - Selecione "*Rugir!*".
    - O [NPC](../Sem%20categoria/NPC.md "NPC") invocará [Floras](http://www.divine-pride.net/database/monster/1118/) e [Esferas Marinhas](http://www.divine-pride.net/database/monster/1142/), derrote-as e fale com Gordon novamente.
@@ -92,7 +92,7 @@
     - Receba 1 [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 11. Vá até Jesqurienne (geffen\_in 59,74)
 
-    :   ![Sinal09](../images/3/30/Sinal09.png)
+    :   ![Sinal09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Sinal09.png)
 
     - Escolha:
       - *Nunca ouvi falar de você.*
@@ -129,7 +129,7 @@
 13. Se acertar mais questões que Jesqurienne, fale com ela e digite o nome do seu personagem para receber outro [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 14. Entre 18 e 23 horas, converse com o Cara Estranho (cmd\_in02 86,50)
 
-    :   ![Sinal11](../images/f/f5/Sinal11.png)
+    :   ![Sinal11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal11.png)
 
     - Diga que está a serviço de Metz e pague 30.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") a ele.
     - Agora você deve entregar uma variedade de *itens artísticos* ao [NPC](../Sem%20categoria/NPC.md "NPC"). Cada item vale uma quantidade de pontos e você deve somar **11 pontos** com itens **diferentes**.
@@ -153,11 +153,11 @@
       - Valem 7 pontos:
         - ![751.png](http://static.divine-pride.net/images/items/item/751.png) 1 [Boneco de Osíris](http://www.divine-pride.net/database/item/751/)
         - ![750.png](http://static.divine-pride.net/images/items/item/750.png) 1 [Boneco de Bafomé](http://www.divine-pride.net/database/item/750/)
-15. O Cara Estranho (cmd\_in02 86,50) te enviará para uma sala com a Examinadora (cmd\_in01 33,25) ![Ddr](../images/7/71/Ddr.jpg)
+15. O Cara Estranho (cmd\_in02 86,50) te enviará para uma sala com a Examinadora (cmd\_in01 33,25) ![Ddr](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Ddr.jpg)
 
     Direções no teste de dança
 
-    :   ![Sinal11](../images/f/f5/Sinal11.png)
+    :   ![Sinal11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal11.png)
 
     - Nesse passo seu objetivo é dançar! Você receberá direções de onde pisar, preste atenção, pois se demorar na manobra, você falha na missão!
     - Se guiar pelos anúncios será bem complicado, o ideal é ir vendo onde aparece a fumaça no palco. Se ela aparecer, corra até ela para ativar um efeito.
@@ -177,32 +177,32 @@
     - Ao passar no teste, fale com a Examinadora novamente.
 16. Retorne ao Cara Estranho (cmd\_in02 86,50) para receber um [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 
-    :   ![Sinal11](../images/f/f5/Sinal11.png)
+    :   ![Sinal11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal11.png)
 17. Insista na conversa com o Mercador Abastado (alberta\_in 125,101)
 
-    :   ![Sinal12](../images/f/f5/Sinal12.png)
+    :   ![Sinal12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal12.png)
 18. Procure pelo Homem Estranho (alberta\_in 114,178)
 
-    :   ![Sinal13](../images/8/89/Sinal13.png)
+    :   ![Sinal13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Sinal13.png)
 
     - Você receberá 1 [Pedra](http://www.divine-pride.net/database/item/7049/) com seu nome.
 19. Entregue a pedra ao Cavaleiro (yuno 330,100)
 
-    :   ![Sinal14](../images/8/8d/Sinal14.png)
+    :   ![Sinal14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Sinal14.png)
 
     - Você receberá 1 [Receita](http://www.divine-pride.net/database/item/7181/).
 20. Volte ao Mercador Abastado. (alberta\_in 125,101)
 
-    :   ![Sinal12](../images/f/f5/Sinal12.png)
+    :   ![Sinal12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal12.png)
 21. Pergunte sobre outras tarefas ao Homem Estranho. (alberta\_in 114,178)
 
-    :   ![Sinal13](../images/8/89/Sinal13.png)
+    :   ![Sinal13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Sinal13.png)
 22. Fale mais de uma vez com a Empregada (alberta\_in 154,171)
 
-    :   ![Sinal15](../images/8/84/Sinal15.png)
+    :   ![Sinal15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Sinal15.png)
 23. Cite a [Vigorgra](http://www.divine-pride.net/database/item/7044/) para o Alquimista (alde\_alche 169,162)
 
-    :   ![Sinal10](../images/3/36/Sinal10.png)
+    :   ![Sinal10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Sinal10.png)
 
     - Entregue os itens ao [NPC](../Sem%20categoria/NPC.md "NPC"):
       - 10 [Geleia Real](http://www.divine-pride.net/database/item/526/)
@@ -214,33 +214,33 @@
       - 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys")
 24. Com o [Vigorgra](http://www.divine-pride.net/database/item/7044/) em mãos, retorne a Empregada (alberta\_in 154,171)
 
-    :   ![Sinal15](../images/8/84/Sinal15.png)
+    :   ![Sinal15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Sinal15.png)
 25. Entregue o [Vigorgra](http://www.divine-pride.net/database/item/7044/) e a [Carta da Irmã](http://www.divine-pride.net/database/item/7183/) para o Soldado (prt\_cas 87,214)
 
-    :   ![Sinal16 n](../images/f/fe/Sinal16_n.png)
+    :   ![Sinal16 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Sinal16_n.png)
 26. Volte a Empregada (alberta\_in 154,171) e receba 3 [Panaceias](http://www.divine-pride.net/database/item/525/)
 
-    :   ![Sinal15](../images/8/84/Sinal15.png)
+    :   ![Sinal15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Sinal15.png)
 27. Reencontre o Homem Estranho (alberta\_in 114,178)
 
-    :   ![Sinal13](../images/8/89/Sinal13.png)
+    :   ![Sinal13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Sinal13.png)
 28. Fale com o Mercador Abastado (alberta\_in 125,101) para receber um [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 
-    :   ![Sinal12](../images/f/f5/Sinal12.png)
+    :   ![Sinal12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Sinal12.png)
 29. Volte ao Arqueólogo (prt\_in 227,45), que te dará o 7º [Fragmento de Luz Estelar](http://www.divine-pride.net/database/item/7177/).
 
-    :   ![Sinal02](../images/b/b0/Sinal02.png)
+    :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 
     - Fale mais uma vez com o Arqueólogo (prt\_in 227,45) até ele citar *Engel Howard*.
 30. Fale com a Mulher Solitária (geffen\_in 159,48)
 
-    :   ![Sinal17](../images/0/0e/Sinal17.png)
+    :   ![Sinal17](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Sinal17.png)
 
     - Digite:
       - `Engel Howards`
 31. Dirija-se a Menina Fofinha (geffen\_in 171,42)
 
-    :   ![Sinal18](../images/0/08/Sinal18.png)
+    :   ![Sinal18](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Sinal18.png)
 
     - Selecione as opções:
       - *Aprendizes?*
@@ -248,66 +248,66 @@
       - *....*
 32. Entregue a [Mensagem Rabiscada](http://www.divine-pride.net/database/item/7276/) para o Homem Espirituoso (mjo\_dun02 88,295)
 
-    :   ![Sinal19](../images/c/cf/Sinal19.png)
+    :   ![Sinal19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Sinal19.png)
 
     - O [NPC](../Sem%20categoria/NPC.md "NPC") pedirá 5 [Mini-fornalha](http://www.divine-pride.net/database/item/612/), 2 [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/) e 1 [Bigorna](http://www.divine-pride.net/database/item/986/)
     - A [Mini-fornalha](http://www.divine-pride.net/database/item/612/), o [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/) e a [Bigorna](http://www.divine-pride.net/database/item/986/) podem ser comprados no NPC Christopher na Refinaria de Geffen (geffen\_in 106,177)
 33. Enquanto o [NPC](../Sem%20categoria/NPC.md "NPC") produz a [Gema de Luz Estelar](http://www.divine-pride.net/database/item/7178/), entregue a [Carta à Esposa](http://www.divine-pride.net/database/item/7278/) para a Mulher Solitária (geffen\_in 159,48), em [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen").
 
-    :   ![Sinal17](../images/0/0e/Sinal17.png)
+    :   ![Sinal17](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/Sinal17.png)
 34. Fale com a Menina Fofinha (geffen\_in 171,42) para receber 10 [Balas](http://www.divine-pride.net/database/item/529/).
 
-    :   ![Sinal18](../images/0/08/Sinal18.png)
+    :   ![Sinal18](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Sinal18.png)
 35. Retorne ao Homem Espirituoso (mjo\_dun02 88,295) para ganhar a [Gema de Luz Estelar](http://www.divine-pride.net/database/item/7178/), em caso de sucesso.
 
-    :   ![Sinal19](../images/c/cf/Sinal19.png)
+    :   ![Sinal19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Sinal19.png)
 36. Volte ao Arqueólogo (prt\_in 227,45)
 
-    :   ![Sinal02](../images/b/b0/Sinal02.png)
+    :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 37. No topo da Torre de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen"), encontre o Homem Irritado (gef\_tower 118,36)
 
-    :   ![Sinal20](../images/c/c5/Sinal20.png)
+    :   ![Sinal20](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Sinal20.png)
 
     - Digite: `Sobbing Starlight` (Luz Estelar Soluçante)
 38. Tenha uma [Máscara Feliz](http://www.divine-pride.net/database/item/2278/) no seu inventário e fale com a Nativa (umbala 163,256)
 
-    :   ![Sinal21](../images/d/d7/Sinal21.png)
+    :   ![Sinal21](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Sinal21.png)
 
     - Se a Nativa não falar que quer sua [Máscara Feliz](http://www.divine-pride.net/database/item/2278/) significa que você não completou a missão [Língua de Umbala](../Quest/L%C3%ADngua%20de%20Umbala.md "Língua de Umbala").
 39. Fale com o Rapaz Meticuloso (um\_in 152,125)
 
-    :   ![Sinal22](../images/4/42/Sinal22.png)
+    :   ![Sinal22](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Sinal22.png)
 
     - Selecione: *Quero que dê uma olhada nisso*.
     - Entregue 10 [Páginas Deterioradas](http://www.divine-pride.net/database/item/1097/).
     - Você deve receber o [Registro de Língua Antiga](http://www.divine-pride.net/database/item/7275/).
 40. Retorne ao Arqueólogo (prt\_in 227,45) e escolha todas as opções de resposta (prt\_in 227,45)
 
-    :   ![Sinal02](../images/b/b0/Sinal02.png)
+    :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 41. Com um [Óculos](http://www.divine-pride.net/database/item/2203/) no inventário, peça uma interpretação do documento para o Velho Melindroso (alberta 165,83)
 
-    :   ![Sinal23](../images/1/1f/Sinal23.png)
+    :   ![Sinal23](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Sinal23.png)
 
     - O [Óculos](http://www.divine-pride.net/database/item/2203/) pode ser comprado na Comerciante de Armaduras de Alberta.
     - Você precisa ficar clicando no [NPC](../Sem%20categoria/NPC.md "NPC") loucamente até receber [Língua Antiga Traduzida](http://www.divine-pride.net/database/item/7274/).
 42. Com 4 [Resinas](http://www.divine-pride.net/database/item/907/), 12 [Corações de Pedra](http://www.divine-pride.net/database/item/953/) e 365 [Corais](http://www.divine-pride.net/database/item/7013/), siga ao Mirante de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") (gef\_fild07 182,241)
 
-    :   ![Sinalmirante](../images/0/03/Sinalmirante.png)
+    :   ![Sinalmirante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/Sinalmirante.png)
 43. Assim que se teleportar, fale com a Valquíria (himinn 48,85)
 
-    :   [![Guia de Renascimento10](../images/5/59/Guia_de_Renascimento10.png)](https://browiki.org/wiki/Arquivo%3AGuia_de_Renascimento10.png)
+    :   [![Guia de Renascimento10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Guia_de_Renascimento10.png)](https://browiki.org/wiki/Arquivo%3AGuia_de_Renascimento10.png)
 
     - Você receberá 35.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
     - Você retornará para [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") após o diálogo.
 44. Retorne ao Arqueólogo (prt\_in 227,45)
 
-    :   ![Sinal02](../images/b/b0/Sinal02.png)
+    :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 
 ## Parte 2
 
 1. Visite a Dama Agradável (niflheim 313,70)
 
-   :   ![Sinal24](../images/c/c9/Sinal24.png)
+   :   ![Sinal24](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Sinal24.png)
 
    - Selecione:
      - *Claro, continue.*
@@ -329,10 +329,10 @@
 
 1. Reencontre a Bruxa Kirkena, ande perto do piano para ir ao seu encontro. Pergunte como conseguir o [Símbolo dos Nove Reinos](http://www.divine-pride.net/database/item/7305/).
 
-   :   [![Piano08](../images/f/f0/Piano08.png)](https://browiki.org/wiki/Arquivo%3APiano08.png)
+   :   [![Piano08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Piano08.png)](https://browiki.org/wiki/Arquivo%3APiano08.png)
 2. De volta à Dama Agradável, continue dialogando.
 
-   :   ![Sinal24](../images/c/c9/Sinal24.png)
+   :   ![Sinal24](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Sinal24.png)
 
    - Selecione:
      - *Quero falar sobre a Rainha dos Mortos...*
@@ -343,11 +343,11 @@
      - *Não se preocupe, isso não vai acontecer*.
 3. Siga de volta ao Mirante de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") (gef\_fild07 182,241), aproximando do NPC para ser teletransportado, para assim falar com a Valquíria (himinn 48,85).
 
-   :   ![Sinalmirante](../images/0/03/Sinalmirante.png)
+   :   ![Sinalmirante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/Sinalmirante.png)
 4. **ATENÇÃO** Fale com Laichin (niflheim 102,54)
    - **Atente-se** a este [NPC](../Sem%20categoria/NPC.md "NPC"), pois ele falará sobre horas e ponteiros, quando isto ocorrer, tire uma [screenshot](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Comandos.md "Comandos") para não se complicar no próximo passo.
 
-   :   ![Sinal28](../images/c/c2/Sinal28.png)
+   :   ![Sinal28](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Sinal28.png)
 
    - Pague 40.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") pela pista da alma de Angrboda.
    - Selecione:
@@ -356,7 +356,7 @@
    - Converse com esse [NPC](../Sem%20categoria/NPC.md "NPC") até ele repetir o mesmo diálogo sobre usar uma arma poderosa.
 5. Dirija-se para a [caverna mais profunda de Glastheim](http://www.divine-pride.net/database/map/gl_dun02/). Traga uma arma de nível 4 no seu inventário. Por ser uma missão antiga, apenas algumas armas serão reconhecidas pelo [NPC](../Sem%20categoria/NPC.md "NPC"). Por favor, confira a [lista de armas disponíveis](https://browiki.org/wiki/Discuss%C3%A3o%3AO_Sinal "Discussão:O Sinal").
 
-   :   ![SinalGHnovo](../images/3/3b/SinalGHnovo.png)
+   :   ![SinalGHnovo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/SinalGHnovo.png)
 
    - Compare as frases de ponteiro com os números do mapa, é aleatória para cada personagem.
    - Cada ponteiro representa um ponto no mapa. **Você deverá ir na ordem que o diálogo pede**, não na ordem dos pontos.
@@ -379,14 +379,14 @@
    - Após pegar o fragmento, siga para as demais coordenadas. Ao pegar os 4 fragmentos, eles se unirão e você terá os [Sussurros Espirituais](http://www.divine-pride.net/database/item/7307/).
 6. Leve os [Sussurros Espirituais](http://www.divine-pride.net/database/item/7307/) para o Homem Deprimido, ele teleportará você para a sala da Rainha dos Mortos.
 
-   :   ![Sinal27](../images/2/2e/Sinal27.png)
+   :   ![Sinal27](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Sinal27.png)
 7. Receba o [Símbolo dos Nove Reinos](http://www.divine-pride.net/database/item/7305/) da Rainha dos Mortos (que\_sign01 46,226)
 
-   :   ![Rainhadosmortosa](../images/f/f3/Rainhadosmortosa.png)
+   :   ![Rainhadosmortosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Rainhadosmortosa.png)
 
    - A partir deste passo, seu personagem pode criar uma [Água Amaldiçoada](http://www.divine-pride.net/database/item/12020/) com uma [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) clicando na Fonte (que\_sign01 45,58)
 
-   :   :   ![Fontenifflheima](../images/b/b4/Fontenifflheima.png)
+   :   :   ![Fontenifflheima](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Fontenifflheima.png)
 
 |  |
 | --- |
@@ -402,37 +402,37 @@
 
 1. Se você tiver o [Anel de Ouro de Serin](http://www.divine-pride.net/database/item/2642/) adquirido na [parte 2](#Parte_2) selecionando "**Claro, por que não?**", fale com a Dama Agradável (niflheim 313,70). Se não houver, pule para a etapa 4.
 
-   :   ![Sinal24](../images/c/c9/Sinal24.png)
+   :   ![Sinal24](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Sinal24.png)
 
    - Entregue o anel para ela, você receberá 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base.
 2. Fale com o Homem Deprimido para teleportar até a mansão da Rainha dos Mortos (niflheim 146,241)
 
-   :   ![Sinal27](../images/2/2e/Sinal27.png)
+   :   ![Sinal27](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Sinal27.png)
 3. Converse com a Rainha dos Mortos (que\_sign01 46,226)
 
-   :   ![Rainhadosmortosa](../images/f/f3/Rainhadosmortosa.png)
+   :   ![Rainhadosmortosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Rainhadosmortosa.png)
 4. De volta ao Mirante de [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen") (gef\_fild07 182,241), a Valquíria (himinn 48,85) agradecerá com [O Sinal](http://www.divine-pride.net/database/item/2644/)
 
-   :   [![Guia de Renascimento10](../images/5/59/Guia_de_Renascimento10.png)](https://browiki.org/wiki/Arquivo%3AGuia_de_Renascimento10.png)
+   :   [![Guia de Renascimento10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Guia_de_Renascimento10.png)](https://browiki.org/wiki/Arquivo%3AGuia_de_Renascimento10.png)
 5. Retorne ao Arqueólogo (prt\_in 227,45) e entregue o acessório, volte após 2 horas. Confira o [Horário de entrega e retirada dos itens](https://browiki.org/wiki/Discuss%C3%A3o%3AO_Sinal "Discussão:O Sinal").
 
-   :   ![Sinal02](../images/b/b0/Sinal02.png)
+   :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 6. Leve o acessório ao Homem Espirituoso (mjo\_dun02 88,295) e aguarde de 3 à 4 horas. Confira o [Horário de entrega e retirada dos itens](https://browiki.org/wiki/Discuss%C3%A3o%3AO_Sinal "Discussão:O Sinal").
 
-   :   ![Sinal19](../images/c/cf/Sinal19.png)
+   :   ![Sinal19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Sinal19.png)
 
    - Atente-se ao entregar o [Sinal](http://www.divine-pride.net/database/item/2644/) aos dois [NPCs](../Sem%20categoria/NPC.md "NPC"), você deverá cumprir o tempo estabelecido, caso ultrapasse esse horário, você somente poderá reaver o item no dia seguinte e no mesmo horário de entrega
 7. Retorne ao Arqueólogo (prt\_in 227,45) com o acessório em mãos.
 
-   :   ![Sinal02](../images/b/b0/Sinal02.png)
+   :   ![Sinal02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Sinal02.png)
 
    - Você receberá 2.000.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") base
 8. Encontre o Homem Deprimido em [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim") e peça para falar com a Rainha dos Mortos (niflheim 146,241).
 
-   :   ![Sinal27](../images/2/2e/Sinal27.png)
+   :   ![Sinal27](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Sinal27.png)
 9. Fale com a Rainha dos Mortos (que\_sign01 46,226).
 
-   :   ![Rainhadosmortosa](../images/f/f3/Rainhadosmortosa.png)
+   :   ![Rainhadosmortosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/Rainhadosmortosa.png)
 
    - Selecione:
      - *Luz Estelar Soluçante*
@@ -440,7 +440,7 @@
    - Você receberá o [Lamento de Lúcifer](http://www.divine-pride.net/database/item/7025/).
 10. Agora você tem acesso a Geffenia, basta lançar o [Lamento de Lúcifer](http://www.divine-pride.net/database/item/7025/) na Fonte (geffen 119,48)
 
-    :   ![Sinal30](../images/6/6e/Sinal30.png)
+    :   ![Sinal30](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Sinal30.png)
 
     - O [Lamento de Lúcifer](http://www.divine-pride.net/database/item/7025/) não é consumido e poderá abrir o portal quantas vezes desejar.
     - O portal ficará aberto por alguns segundos e todos que estiverem por perto poderão entrar.

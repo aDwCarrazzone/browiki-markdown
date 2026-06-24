@@ -43,8 +43,8 @@ Todos os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Gr
 - Bônus de [DEF](../Sem%20categoria/DEF.md "DEF") apenas atua na defesa dada pelos equipamentos.
 - O bônus não é exibido na janela de atributos.
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Harmonizar](../images/9/9b/Harmonizar.png)](../Ativa/Harmonizar.md "Harmonizar") [Harmonizar](../Ativa/Harmonizar.md "Harmonizar")
-  - [![Sinfonia dos Ventos](../images/5/52/Sinfonia_dos_Ventos.png)](Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos") [Sinfonia dos Ventos](Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos")
+  - [![Harmonizar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Harmonizar.png)](../Ativa/Harmonizar.md "Harmonizar") [Harmonizar](../Ativa/Harmonizar.md "Harmonizar")
+  - [![Sinfonia dos Ventos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Sinfonia_dos_Ventos.png)](Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos") [Sinfonia dos Ventos](Sinfonia%20dos%20Ventos.md "Sinfonia dos Ventos")
 - Equipamentos relacionados:
   - ![5751.png](http://static.divine-pride.net/images/items/item/5751.png) [Inspiração do Artista](http://www.divine-pride.net/database/item/5751/) [[1]](#cite_note-1)
 - Sombrios relacionados:

@@ -15,18 +15,18 @@
 
 1. Ajude o Velho com Dores (ve\_fild02 337,314)
 
-   :   ![Tremulo01new](../images/c/cc/Tremulo01new.png)
+   :   ![Tremulo01new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Tremulo01new.png)
 2. Encontre o Idoso Estranho (ve\_in 169,309)
 
-   :   ![Tremulo02](../images/5/5e/Tremulo02.png)
+   :   ![Tremulo02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Tremulo02.png)
 
    - Selecione a opção "*...*"
    - Continue conversando e entregue os itens pedidos.
 3. Retorne ao Velho com Dores.
 4. Converse com o Gerente da Fábrica (ve\_in02 37,27)
 
-   :   ![Tremulo03](../images/7/74/Tremulo03.png)
+   :   ![Tremulo03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Tremulo03.png)
 5. Localize o Empregado (ve\_in02 54,49)
 
-   :   ![Tremulo04](../images/3/39/Tremulo04.png)
+   :   ![Tremulo04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Tremulo04.png)
 6. Volte ao Velho com Dores para receber sua recompensa.

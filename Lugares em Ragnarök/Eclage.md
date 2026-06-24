@@ -2,7 +2,7 @@
 
 # Eclage
 
-[![Eclageplaza](../images/f/fd/Eclageplaza.jpg)](https://browiki.org/wiki/Arquivo%3AEclageplaza.jpg)
+[![Eclageplaza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Eclageplaza.jpg)](https://browiki.org/wiki/Arquivo%3AEclageplaza.jpg)
 
 O Plaza de Eclage
 
@@ -41,7 +41,7 @@ Tal feito foi revertido por dois Esplêndidos do alto escalão, que nunca chegar
 
 ## Quests & Calabouços
 
-[![Eclage2 city](../images/d/d6/Eclage2_city.jpg)](https://browiki.org/wiki/Arquivo%3AEclage2_city.jpg)
+[![Eclage2 city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Eclage2_city.jpg)](https://browiki.org/wiki/Arquivo%3AEclage2_city.jpg)
 
 Campos Floridos de Eclage
 

@@ -54,9 +54,9 @@ Instantaneamente restaura o [SP](../Sem%20categoria/SP.md "SP") máximo e aument
   - Não podem ser removidos por [Desencantar](../Ativa/Desencantar.md "Desencantar"), mas por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Improviso](../Ativa/Improviso.md "Improviso").
 
 - Não pode estar ativa simultaneamente com os seguintes corais:
-  - [![Dança com Lobos](../images/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
-  - [![Murmúrio Perene](../images/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
-  - [![Orvalho de Idun](../images/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
+  - [![Dança com Lobos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Dan%C3%A7a_com_Lobos.png)](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
+  - [![Murmúrio Perene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Murm%C3%BArio_Perene.png)](Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](Murm%C3%BArio%20Perene.md "Murmúrio Perene")
+  - [![Orvalho de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Orvalho_de_Idun.png)](Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](Orvalho%20de%20Idun.md "Orvalho de Idun")
 
 | *O Tiro Certeiro da Natureza* | | |
 | --- | --- | --- |

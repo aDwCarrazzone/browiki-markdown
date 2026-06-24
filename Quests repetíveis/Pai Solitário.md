@@ -14,11 +14,11 @@
 
 1. Encontre Bill Thayer (aldebaran 178,239)
 
-   :   ![WA4S01](../images/4/40/WA4S01.png)
+   :   ![WA4S01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/WA4S01.png)
 2. Dirija-se para [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim"). Você deve escolher 1 dos 4 [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo. Cada um forja um tipo específico de Arma 4S, então saiba qual [NPC](../Sem%20categoria/NPC.md "NPC") dará a arma que você deseja.
 
-   :   ![WA4S02](../images/1/1a/WA4S02.png) ![WA4S03](../images/6/6e/WA4S03.png)
-   :   ![WA4S04](../images/b/b0/WA4S04.png) ![WA4S05](../images/6/6c/WA4S05.png)
+   :   ![WA4S02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/WA4S02.png) ![WA4S03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/WA4S03.png)
+   :   ![WA4S04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/WA4S04.png) ![WA4S05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/WA4S05.png)
 3. Retorne ao Bill Thayer, que pedirá alguns materiais.
 4. Volte ao [NPC](../Sem%20categoria/NPC.md "NPC") em [Niflheim](../Lugares%20em%20Ragnar%C3%B6k/Niflheim.md "Niflheim") e digite o texto de acordo com sua escolha:
 

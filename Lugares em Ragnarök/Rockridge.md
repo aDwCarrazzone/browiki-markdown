@@ -2,7 +2,7 @@
 
 # Rockridge
 
-[![Rockridge worldmap](../images/e/e3/Rockridge_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ARockridge_worldmap.jpg)
+[![Rockridge worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Rockridge_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3ARockridge_worldmap.jpg)
 
 Rockridge, a vila do Velho Oeste
 

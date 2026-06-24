@@ -49,7 +49,7 @@ Apesar da personalidade mais obscura, ainda tem poderes de suporte para seus ali
 
 ### Árvore de habilidades
 
-![SkilltreeCeifadores de Almas](../images/0/0f/SkilltreeCeifadores_de_Almas.png)
+![SkilltreeCeifadores de Almas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SkilltreeCeifadores_de_Almas.png)
 
 ## Construção do Personagem
 

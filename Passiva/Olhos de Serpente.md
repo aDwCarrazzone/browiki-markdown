@@ -17,12 +17,12 @@ Melhora a [precisão](Precisão (atributo).md "Precisão (atributo)") e o [alcan
 
 O alcance aumenta também para as seguintes habilidades:
 
-- [![Mina do Justiceiro](../images/a/ab/Mina_do_Justiceiro.png)](../Ofensiva/Mina%20do%20Justiceiro.md "Mina do Justiceiro") [Mina do Justiceiro](../Ofensiva/Mina%20do%20Justiceiro.md "Mina do Justiceiro")
-- [![Ataque Total](../images/7/75/Ataque_Total.png)](../Ofensiva/Ataque%20Total.md "Ataque Total") [Ataque Total](../Ofensiva/Ataque%20Total.md "Ataque Total")
-- [![Ferir Alvo](../images/4/4f/Ferir_Alvo.png)](../Ofensiva/Ferir%20Alvo.md "Ferir Alvo") [Ferir Alvo](../Ofensiva/Ferir%20Alvo.md "Ferir Alvo")
-- [![Rastrear o Alvo](../images/3/3d/Rastrear_o_Alvo.png)](../Ofensiva/Rastrear%20o%20Alvo.md "Rastrear o Alvo") [Rastrear o Alvo](../Ofensiva/Rastrear%20o%20Alvo.md "Rastrear o Alvo")
-- [![Rajada Certeira](../images/8/81/Rajada_Certeira.png)](../Ofensiva/Rajada%20Certeira.md "Rajada Certeira") [Rajada Certeira](../Ofensiva/Rajada%20Certeira.md "Rajada Certeira")
-- [![Disparo Espalhado](../images/c/cc/Disparo_Espalhado.png)](../Ofensiva/Disparo%20Espalhado.md "Disparo Espalhado") [Disparo Espalhado](../Ofensiva/Disparo%20Espalhado.md "Disparo Espalhado")
+- [![Mina do Justiceiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Mina_do_Justiceiro.png)](../Ofensiva/Mina%20do%20Justiceiro.md "Mina do Justiceiro") [Mina do Justiceiro](../Ofensiva/Mina%20do%20Justiceiro.md "Mina do Justiceiro")
+- [![Ataque Total](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Ataque_Total.png)](../Ofensiva/Ataque%20Total.md "Ataque Total") [Ataque Total](../Ofensiva/Ataque%20Total.md "Ataque Total")
+- [![Ferir Alvo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Ferir_Alvo.png)](../Ofensiva/Ferir%20Alvo.md "Ferir Alvo") [Ferir Alvo](../Ofensiva/Ferir%20Alvo.md "Ferir Alvo")
+- [![Rastrear o Alvo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Rastrear_o_Alvo.png)](../Ofensiva/Rastrear%20o%20Alvo.md "Rastrear o Alvo") [Rastrear o Alvo](../Ofensiva/Rastrear%20o%20Alvo.md "Rastrear o Alvo")
+- [![Rajada Certeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Rajada_Certeira.png)](../Ofensiva/Rajada%20Certeira.md "Rajada Certeira") [Rajada Certeira](../Ofensiva/Rajada%20Certeira.md "Rajada Certeira")
+- [![Disparo Espalhado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Disparo_Espalhado.png)](../Ofensiva/Disparo%20Espalhado.md "Disparo Espalhado") [Disparo Espalhado](../Ofensiva/Disparo%20Espalhado.md "Disparo Espalhado")
 
 | Nv. | [Precisão](Precisão (atributo).md "Precisão (atributo)") | [Alcance](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md#Alcance "Atributos") |
 | --- | --- | --- |

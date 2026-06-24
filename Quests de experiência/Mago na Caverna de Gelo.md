@@ -16,22 +16,22 @@
 
 1. Ajude a Devota Ustialla (rachel 157,183)
 
-   :   ![MdCG01](../images/d/dc/MdCG01.png)
+   :   ![MdCG01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/MdCG01.png)
 
    - Você recebe um [Colar de Cinzas](http://www.divine-pride.net/database/item/7572/).
 2. Encontre o Homem no Gelo (ice\_dun02 120,105)
 
-   :   ![Homem no Gelo](../images/1/13/Homem_no_Gelo.png)
+   :   ![Homem no Gelo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Homem_no_Gelo.png)
 3. Entregue os itens para Hamion (rachel 264,98)
 
-   :   ![MdCG03](../images/0/00/MdCG03.png)
+   :   ![MdCG03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/MdCG03.png)
 
    - Você recebe um [Martelo do Vento](http://www.divine-pride.net/database/item/7569/).
 4. Retorne ao Homem no Gelo, que dará 4 [Pós Glaciais](http://www.divine-pride.net/database/item/7574/) e 1 [Colar Brilhante](http://www.divine-pride.net/database/item/7573/)
 5. Devolva o [Colar Brilhante](http://www.divine-pride.net/database/item/7573/) para a Devota Ustialla, que agradecerá com [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 6. Localize 4 Chamas Ardentes na [Caverna de Gelo](http://www.divine-pride.net/database/map/ice_dun03/) (ice\_dun03 127,172)
 
-   :   ![Chamas](../images/6/6f/Chamas.png)
+   :   ![Chamas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Chamas.png)
 
    - Consumindo o [Pó Glacial](http://www.divine-pride.net/database/item/7574/) em cada uma delas, você invocará [Ktullanux](http://www.divine-pride.net/database/monster/1779/).
    - Após derrotá-lo o portal para o último andar da [Caverna de Gelo](http://www.divine-pride.net/database/map/ice_dun04/) ficará aberto por alguns segundos.

@@ -16,34 +16,34 @@
 
 1. Fale com o Rei Jun Kardui até ele falar sobre a Torre de Bifröst (ecl\_in03 41,90)
 
-   :   ![Rumores sobre o Rei10](../images/1/1a/Rumores_sobre_o_Rei10.png)
+   :   ![Rumores sobre o Rei10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Rumores_sobre_o_Rei10.png)
 2. No último andar da Torre de Bifröst está Hisie (ecl\_tdun04 32,35)
 
-   :   ![Rumores sobre o Rei9](../images/5/5e/Rumores_sobre_o_Rei9.png)
+   :   ![Rumores sobre o Rei9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Rumores_sobre_o_Rei9.png)
 
    - Aguarde 5 minutos para falar com ele novamente.
 3. Converse com a Chefe do Gabinete (ecl\_in03 245,93)
 
-   :   ![Rumores sobre o Rei2](../images/c/cd/Rumores_sobre_o_Rei2.png)
+   :   ![Rumores sobre o Rei2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Rumores_sobre_o_Rei2.png)
 
    - Traga 10 [Bolas de Poeira](http://www.divine-pride.net/database/item/6561/) e 10 [Trevos Marca Páginas](http://www.divine-pride.net/database/item/6560/).
    - Receba 150.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e classe.
 4. Pergunte sobre Shenime ao Guarda de Eclage (ecl\_in01 82,70)
 
-   :   ![Rumores sobre o Rei3](../images/c/c6/Rumores_sobre_o_Rei3.png)
+   :   ![Rumores sobre o Rei3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Rumores_sobre_o_Rei3.png)
 5. Conte a Hisie suas descobertas.
 6. Aproxime-se das coordenadas (eclage 281,290)
 
-   :   ![Rumores sobre o Rei11](../images/4/46/Rumores_sobre_o_Rei11.png)
+   :   ![Rumores sobre o Rei11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Rumores_sobre_o_Rei11.png)
 7. Traga 10 [Bolas de Poeira](http://www.divine-pride.net/database/item/6561/) e 10 [Trevos Marca Páginas](http://www.divine-pride.net/database/item/6560/) e dirija-se ao Yai Comum (eclage 304,234)
 
-   :   ![Rumores sobre o Rei12](../images/0/0d/Rumores_sobre_o_Rei12.png)
+   :   ![Rumores sobre o Rei12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/Rumores_sobre_o_Rei12.png)
 
    - Selecione qualquer opção.
 8. Relate ao Rei Jun Kardui suas descobertas.
 9. Entre no Yai Comum. Você terá 5 minutos para examinar a mesa.
 
-   :   ![Rumores sobre o Rei21](../images/b/b6/Rumores_sobre_o_Rei21.png)
+   :   ![Rumores sobre o Rei21](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Rumores_sobre_o_Rei21.png)
 
    - Selecione:
      - *Olhar o livro na prateleira*
@@ -56,7 +56,7 @@
    - Você receberá a [Pesquisa de Avant](http://www.divine-pride.net/database/item/6541/).
 10. O Pesquisador aparecerá com 5 [Criações de Avant](http://www.divine-pride.net/database/monster/1198/).
 
-    :   ![Rumores sobre o Rei00](../images/7/78/Rumores_sobre_o_Rei00.png)
+    :   ![Rumores sobre o Rei00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Rumores_sobre_o_Rei00.png)
 
     - Nesta etapa, você pode optar por:
       - Deixe Hisie tomar conta disso (*Seu personagem foge do mapa*)
@@ -72,7 +72,7 @@
     - Selecione: *sobre a Chefe do Gabinete*
 13. Fale com a Chefe do Gabinete.
 
-    :   ![Rumores sobre o Rei2](../images/c/cd/Rumores_sobre_o_Rei2.png)
+    :   ![Rumores sobre o Rei2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Rumores_sobre_o_Rei2.png)
 
     - Selecione:
       - *O que você queria que ele pesquisasse?*
@@ -83,12 +83,12 @@
     - Selecione: *Perguntar à Kardui antes*
 16. Avise o Rei Jun Kardui sobre a Chefe do Gabinete.
 
-    :   ![Rumores sobre o Rei10](../images/1/1a/Rumores_sobre_o_Rei10.png)
+    :   ![Rumores sobre o Rei10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Rumores_sobre_o_Rei10.png)
 17. Retorne com a Chefe do Gabinete
     - Selecione: *Segurar a mão*.
 18. Nesse novo mapa, crie um [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com a Chefe do Gabinete.
 
-    :   ![Rumores sobre o Rei12y](../images/a/a2/Rumores_sobre_o_Rei12y.png)
+    :   ![Rumores sobre o Rei12y](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Rumores_sobre_o_Rei12y.png)
 19. Clique na Entrada Proibida ao lado de Shenime para acessar, você tem 20 minutos para completá-la.
     1. Circule o centro do mapa até uma mensagem aparecer.
     2. Derrote as [Criaturas Suspeitas](http://www.divine-pride.net/database/monster/2375/).
@@ -96,16 +96,16 @@
     4. Derrote os [Subordinados](http://www.divine-pride.net/database/monster/2376/).
     5. Fale com Shenime, selecione qualquer opção.
 
-       :   ![Rumores sobre o Rei14](../images/2/21/Rumores_sobre_o_Rei14.png)
+       :   ![Rumores sobre o Rei14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/Rumores_sobre_o_Rei14.png)
     6. Na prisão, converse com Avant. Selecione qualquer opção.
 
-       :   ![Rumores sobre o Rei14a](../images/7/7e/Rumores_sobre_o_Rei14a.png)
+       :   ![Rumores sobre o Rei14a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Rumores_sobre_o_Rei14a.png)
     7. Na clínica, fale com Hisie para finalizar a instância.
 
-       :   ![Rumores sobre o Rei14b](../images/9/91/Rumores_sobre_o_Rei14b.png)
+       :   ![Rumores sobre o Rei14b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Rumores_sobre_o_Rei14b.png)
 20. Reencontre o Rei Jun Kardui.
 21. Procure por um Esplêndido Morto (bif\_fild02 311,91)
 
-    :   ![Rumores sobre o Rei16](../images/f/f2/Rumores_sobre_o_Rei16.png)
+    :   ![Rumores sobre o Rei16](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Rumores_sobre_o_Rei16.png)
 22. Finalize a missão com o Rei Jun Kardui.
     - Você recebe 500.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base, 400.000 de classe e uma [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") nível 1.

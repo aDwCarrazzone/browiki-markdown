@@ -47,8 +47,8 @@ Eles também terão a [conjuração fixa](../Sem%20categoria/Conjura%C3%A7%C3%A3
 - A [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") é cumulativa com itens e efeitos similares.
 - Pode ser cancelada por [Pântano dos Mortos](../Ativa/P%C3%A2ntano%20dos%20Mortos.md "Pântano dos Mortos"), [Diminuir Agilidade](Diminuir%20Agilidade.md "Diminuir Agilidade") e [Não me Abandones](N%C3%A3o%20me%20Abandones.md "Não me Abandones").
 - Não pode estar ativa simultaneamente com as seguintes habilidades:
-  - [![Balada Sinfônica](../images/b/b5/Balada_Sinf%C3%B4nica.png)](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica") [Balada Sinfônica](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica")
-  - [![Serenata ao Luar](../images/3/3f/Serenata_ao_Luar.png)](Serenata%20ao%20Luar.md "Serenata ao Luar") [Serenata ao Luar](Serenata%20ao%20Luar.md "Serenata ao Luar")
+  - [![Balada Sinfônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/Balada_Sinf%C3%B4nica.png)](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica") [Balada Sinfônica](Balada%20Sinf%C3%B4nica.md "Balada Sinfônica")
+  - [![Serenata ao Luar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Serenata_ao_Luar.png)](Serenata%20ao%20Luar.md "Serenata ao Luar") [Serenata ao Luar](Serenata%20ao%20Luar.md "Serenata ao Luar")
 - Armas relacionadas:
   - ![1984.png](http://static.divine-pride.net/images/items/item/1984.png) [Chicote de Raiz](http://www.divine-pride.net/database/item/1984/)
 - Equipamentos relacionados:

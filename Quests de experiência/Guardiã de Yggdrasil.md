@@ -19,50 +19,50 @@
 
 1. Dirija-se ao calabouço da [Grande Ferida](http://www.divine-pride.net/database/map/nyd_dun01/) (spl\_fild01 373,108)
 
-   :   ![Duastirib07](../images/4/4a/Duastirib07.png)
+   :   ![Duastirib07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Duastirib07.png)
 2. No segundo andar do calabouço, siga em frente e ative o Dispositivo Estranho (nyd\_dun02 139,272)
 
-   :   ![DispositivoEstranho](../images/9/9e/DispositivoEstranho.png)
+   :   ![DispositivoEstranho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/DispositivoEstranho.png)
 
    - Para chegar ao outro lado, o dispositivo cria uma ponte de luzes por 1 minuto.
 
-     :   ![LuzesQuest](../images/e/e8/LuzesQuest.png)
+     :   ![LuzesQuest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/LuzesQuest.png)
    - A cada luz que você pisa, novas luzes aparecerão.
    - Se pisar fora das luzes, você retorna ao primeiro calabouço.
 3. Clique no Portão Enigmático (nyd\_dun02 98,199)
 
-   :   ![PortaoEnig](../images/f/f0/PortaoEnig.png)
+   :   ![PortaoEnig](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/PortaoEnig.png)
 4. Mencione o portão para Hibba Agip (mid\_campin 91,121)
 
-   :   ![Relatorio01](../images/3/36/Relatorio01.png)
+   :   ![Relatorio01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Relatorio01.png)
 5. Peça ajuda ao Historiador Magnifier (mid\_camp 271,298)
 
-   :   ![Historiadormagnifier](../images/6/61/Historiadormagnifier.png)
+   :   ![Historiadormagnifier](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Historiadormagnifier.png)
 6. Ajude a Assistente Naomi (prt\_in 171,93)
 
-   :   ![Assistentenaomi](../images/c/ce/Assistentenaomi.png)
+   :   ![Assistentenaomi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Assistentenaomi.png)
 7. Após ler todos os livros, volte ao Historiador Magnifier. Você pode escolher entre *Esplêndidos* ou *Manuks*.
    - **Investigar Esplêndidos:**
    1. Fale com o Soldado Resmungão (splendide 198,178)
 
-      :   ![SoldadoRes](../images/b/b7/SoldadoRes.png)
+      :   ![SoldadoRes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/SoldadoRes.png)
    2. Ameace a Líder Lebiordirr (spl\_in01 109,59)
 
-      :   ![Lebiord](../images/d/d4/Lebiord.png)
+      :   ![Lebiord](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Lebiord.png)
    - **Investigar Manuks:**
    1. Converse mais de uma vez com a Prisioneira de Esplendor (man\_in01 291,61)
 
-      :   ![SplPrison](../images/1/18/SplPrison.png)
+      :   ![SplPrison](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/SplPrison.png)
    2. Peça mais detalhes a Neat Etorr (man\_in01 311,57)
 
-      :   ![Etorr](../images/c/cf/Etorr.png)
+      :   ![Etorr](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Etorr.png)
 8. Relate suas descobertas ao Historiador Magnifier
 9. Fale com Hibba Agip. Você pode escolher entre *Esplêndidos* ou *Manuks*.
    - **Investigar Esplêndidos:**
    1. Ameace a Líder Lebiordirr (spl\_in01 109,59)
    2. Consiga a senha com Aide Arioss (spl\_in01 104,56)
 
-      :   ![Aide](../images/b/ba/Aide.png)
+      :   ![Aide](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Aide.png)
    - **Investigar Manuks:**
    1. Fale com Neat Etorr (man\_in01 311,57)
    2. Converse mais de uma vez com a Prisioneira de Esplendor (man\_in01 291,61)
@@ -75,7 +75,7 @@
     1. Fale com Neat Etorr (man\_in01 311,57)
     2. Pegue sua recompensa com a Prisioneira de Esplendor (man\_in01 291,61)
 
-![Saga3](../images/7/77/Saga3.png)
+![Saga3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Saga3.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

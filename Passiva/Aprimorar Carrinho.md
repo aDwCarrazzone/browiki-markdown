@@ -30,9 +30,9 @@ Aumenta a [precisão](../Desambigua%C3%A7%C3%A3o/Precis%C3%A3o.md "Precisão") a
 ## Notas
 
 - Habilidades de carrinho:
-  - [![Cavalo-de-Pau](../images/b/b6/Cavalo-de-Pau.png)](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau")
-  - [![Tornado de Carrinho](../images/2/20/Tornado_de_Carrinho.png)](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho") [Tornado de Carrinho](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho")
-  - [![Canhão de Prótons](../images/6/6d/Canh%C3%A3o_de_Pr%C3%B3tons.png)](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons") [Canhão de Prótons](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons")
+  - [![Cavalo-de-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Cavalo-de-Pau.png)](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau")
+  - [![Tornado de Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Tornado_de_Carrinho.png)](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho") [Tornado de Carrinho](../Ofensiva/Tornado%20de%20Carrinho.md "Tornado de Carrinho")
+  - [![Canhão de Prótons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Canh%C3%A3o_de_Pr%C3%B3tons.png)](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons") [Canhão de Prótons](../Ofensiva/Canh%C3%A3o%20de%20Pr%C3%B3tons.md "Canhão de Prótons")
 
 | *A Arte da Alquimia e da Forja* | | |
 | --- | --- | --- |

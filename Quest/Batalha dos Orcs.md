@@ -14,16 +14,16 @@
 | Premiação | |
 | **Chefe** | Monster OrcHerói [Orc Falso](http://www.divine-pride.net/database/monster/3901/) |
 
-[![CaveSubOrc](../images/8/84/CaveSubOrc.png)](https://browiki.org/wiki/Arquivo%3ACaveSubOrc.png)
+[![CaveSubOrc](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/CaveSubOrc.png)](https://browiki.org/wiki/Arquivo%3ACaveSubOrc.png)
 
 Mapa-Chave da Batalha. Clique para ampliar.
 
 1. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com a Cientista (gef\_fild10 231,203)
 
-   :   ![Orcsinst01 NEW](../images/3/33/Orcsinst01_NEW.png)
+   :   ![Orcsinst01 NEW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Orcsinst01_NEW.png)
 2. Inicie a história aproximando-se de Gulok.
 
-   :   ![Orcsinst02 NEW](../images/f/f6/Orcsinst02_NEW.png)
+   :   ![Orcsinst02 NEW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Orcsinst02_NEW.png)
 3. O líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") se transformará em um Orc Herói, enquanto homens serão Guerreiros Orc e mulheres, Senhoras Orc.
 4. A caverna consiste em 4 seções:
    - Seu objetivo é ir matando [Orc Esqueleto Putrefato](http://www.divine-pride.net/database/monster/3897/) e [Orc Zumbi Putrefato](http://www.divine-pride.net/database/monster/3898/) avançando para a próxima seção.
@@ -53,10 +53,10 @@ Mapa-Chave da Batalha. Clique para ampliar.
      - Nível 11: [ATQ](../Sem%20categoria/ATQ.md "ATQ") +2.014, [DES](../Sem%20categoria/DES.md "DES") +111, [AGI](../Sem%20categoria/AGI.md "AGI") +121 e [VIT](../Sem%20categoria/VIT.md "VIT") +191.
 6. Para ajudar, personagens de nível base 99 ou menor poderão abrir as Caixas de Suprimento. Cada caixa regenera 10% de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP").
 
-   :   ![Orcsinst03 NEW](../images/a/a3/Orcsinst03_NEW.png)
+   :   ![Orcsinst03 NEW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Orcsinst03_NEW.png)
 7. Após eliminar o [Orc Falso](http://www.divine-pride.net/database/monster/3901/), fale com Gulok.
 
-   :   ![Orcsinst04 NEW](../images/d/d8/Orcsinst04_NEW.png)
+   :   ![Orcsinst04 NEW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Orcsinst04_NEW.png)
 
    - Se esta for a sua primeira vez, você receberá o [Anel dos Orcs](http://www.divine-pride.net/database/item/28522/).
    - Você poderá repetir a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") no dia seguinte.
@@ -65,7 +65,7 @@ Mapa-Chave da Batalha. Clique para ampliar.
 
 1. Fale com o Homem Suspeito (gef\_fild10 227,197)
 
-   :   ![Orcsinst05 NEW](../images/1/19/Orcsinst05_NEW.png)
+   :   ![Orcsinst05 NEW](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Orcsinst05_NEW.png)
 
    - O [Anel dos Orcs](http://www.divine-pride.net/database/item/28522/) recebe 2 encantos, 1 de cada vez.
    - Você pode escolher a categoria do encanto, mas não o encanto específico.

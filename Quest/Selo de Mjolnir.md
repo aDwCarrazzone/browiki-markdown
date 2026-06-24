@@ -15,10 +15,10 @@
 
 1. Aceite o pedido de Tialfi (prontera 124,297)
 
-   :   ![Selo de Mjolnir01](../images/d/d3/Selo_de_Mjolnir01.png)
+   :   ![Selo de Mjolnir01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Selo_de_Mjolnir01.png)
 2. Fale com Roskva (prt\_fild01 196,47)
 
-   :   ![Selo de Mjolnir02](../images/1/1f/Selo_de_Mjolnir02.png)
+   :   ![Selo de Mjolnir02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Selo_de_Mjolnir02.png)
 3. A [NPC](../Sem%20categoria/NPC.md "NPC") dirá a ordem necessária para visitar os anões, mas tenha em mente:
    - A ordem dos anões é aleatória para cada personagem.
    - A ordem dos anões neste guia é leste-norte. Se sua ordem for norte-leste, basta começar pelo passo 7 e terminar no passo 4.
@@ -26,13 +26,13 @@
    - Todos os anões gostam de ser tratados com educação, sempre selecione a opção mais formal possível, como "*Com licença, senhor.*".
 4. Anão do Leste (mjolnir\_11 149,247)
 
-   :   ![Selo de Mjolnir05](../images/c/cf/Selo_de_Mjolnir05.png)
+   :   ![Selo de Mjolnir05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Selo_de_Mjolnir05.png)
 
    - Sempre concorde com o que ele diz, dizendo "Sim, senhor". Não esqueça de levar um [Martelo de Ferreiro](http://www.divine-pride.net/database/item/1005/) no inventário.
    - Existe um Bug na quarta resposta do diálogo onde você deverá escolher a opção "Hein?" ao invés de "Sim, senhor!".
 5. Anão do Sul (mjolnir\_09 209,341)
 
-   :   ![Selo de Mjolnir04](../images/c/c0/Selo_de_Mjolnir04.png)
+   :   ![Selo de Mjolnir04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Selo_de_Mjolnir04.png)
 
    - Desafia você para uma briga, aceite-a educadamente. É necessário derrotá-lo para continuar.
    - Dicas:
@@ -40,14 +40,14 @@
      - Este é o método mais rápido para derrotá-lo, caso o contra-ataque não funcione, cancele a conversa e tente novamente.
 6. Anão do Oeste (mjolnir\_01 35,136)
 
-   :   ![Selo de Mjolnir03](../images/d/d9/Selo_de_Mjolnir03.png)
+   :   ![Selo de Mjolnir03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Selo_de_Mjolnir03.png)
 
    - Traga m [Oridecon](http://www.divine-pride.net/database/item/984/) e equipe uma arma de nível 4 com o [refinamento](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") maior ou igual a +4.
    - O [NPC](../Sem%20categoria/NPC.md "NPC") tentará refinar a arma, haverá chances de perda total do item, portanto tome cuidado ao trazer armas que você utiliza frequentemente.
    - Independente do resultado, você pode prosseguir para o próximo passo.
 7. Anão do Norte (mjolnir\_12 18,18)
 
-   :   ![Selo de Mjolnir06](../images/3/32/Selo_de_Mjolnir06.png)
+   :   ![Selo de Mjolnir06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Selo_de_Mjolnir06.png)
 
    - Traga [Poções Vermelhas](http://www.divine-pride.net/database/item/501/) para responder as perguntas.
    - Existem dois tipos de respostas, observe pelas opções do diálogo qual é a correta:

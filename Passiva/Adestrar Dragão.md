@@ -23,8 +23,8 @@ Aumentar o nível da habilidade recupera a [velocidade de ataque](../Sem%20categ
 
 Também aumenta o dano do dragão nas seguintes habilidades:
 
-- [![Sopro do Dragão](../images/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
-- [![Bafo do Dragão](../images/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
+- [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
+- [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
 
 | Nv. | [Peso](../Sem%20categoria/Peso.md "Peso") | [Velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | Dano do Dragão |
 | --- | --- | --- | --- |

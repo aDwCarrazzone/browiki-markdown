@@ -17,20 +17,20 @@
 
 1. Encontre Nemma (ra\_temple 116,173)
 
-   :   ![Rasan01](../images/8/86/Rasan01.png)
+   :   ![Rasan01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Rasan01.png)
 2. Converse algumas vezes com a Criança (rachel 242,37)
 
-   :   ![Rasan02](../images/5/59/Rasan02.png)
+   :   ![Rasan02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Rasan02.png)
 
    - Selecione:
      - *Sim, eu gosto muito*
      - *O que é?*
 3. Entre pela janela aproximando-se das coordenadas (ra\_temple 67,209)
 
-   :   ![Rasan03](../images/1/18/Rasan03.png)
+   :   ![Rasan03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Rasan03.png)
 4. Explore o Santuário.
 
-   :   ![Santuário de Rachelmapa1](../images/9/9a/Santu%C3%A1rio_de_Rachelmapa1.png)
+   :   ![Santuário de Rachelmapa1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Santu%C3%A1rio_de_Rachelmapa1.png)
 
    - Siga o caminho indicado no mapa, em ordem numérica, cada ponto indica uma mensagem de diálogo que você deve ativar.
    - Ao chegar nos pontos **5** e **6**, selecione:
@@ -40,10 +40,10 @@
    - Saia pelo portal ao sul do ponto **7**, selecionando "*Empurrar o Portão*".
 5. Fale com Nemma novamente (ra\_temple 116,173) Agora você terá acesso ao Santuário pela porta da frente.
 
-   :   ![Rasan01](../images/8/86/Rasan01.png)
+   :   ![Rasan01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Rasan01.png)
 6. Converse com Panno (ra\_temin 170,43)
 
-   :   ![Panno](../images/f/fb/Panno.png)
+   :   ![Panno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Panno.png)
 
    - Selecione:
      - *Ei, foi você que abriu o portão?*
@@ -51,25 +51,25 @@
      - *Explique-se!*
    - Converse mais de uma vez com Panno.
 
-   :   ![Panno](../images/f/fb/Panno.png)
+   :   ![Panno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Panno.png)
 7. Entregue 20 [Fogos de Artifício](http://www.divine-pride.net/database/item/12018/) para Nemma.
 
-   :   ![Rasan01](../images/8/86/Rasan01.png)
+   :   ![Rasan01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Rasan01.png)
 
    - Você pode comprá-los em uma loja no sul de [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel") (hugel 92,104).
    - Após entregar os itens, você receberá 50.000 pontos de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 8. Localize o Sumo Sacerdote Zhed (ra\_temin 276,159)
 
-   :   ![Zhed](../images/a/ad/Zhed.png)
+   :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
    - Se o diálogo de Zhed for "*Que Freya abençoe você.*", significa que você não completou a missão [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida").
    - Continue conversando com Zhed até ele pedir que você conheça a Papisa.
 9. Com 40 [Corações Glaciais](http://www.divine-pride.net/database/item/7561/) no inventário, siga para os Jardins Sagrados (ra\_temin 134,131)
 
-   :   ![EntradaPapisa](../images/2/2d/EntradaPapisa.png)
+   :   ![EntradaPapisa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/EntradaPapisa.png)
 10. Siga em frente até encontrar a Papisa.
 
-    :   ![Papisa](../images/f/f7/Papisa.png)
+    :   ![Papisa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Papisa.png)
 
     - Digite qualquer coisa, não interfere na missão.
     - Selecione:
@@ -77,44 +77,44 @@
       - *É m-mesmo?*
 11. Converse mais de uma vez com o Sumo Sacerdote Zhed (ra\_temin 276,159)
 
-    :   ![Zhed](../images/a/ad/Zhed.png)
+    :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
     - Selecione:
       - *Tudo Bem*
     - Ative o diálogo nas coordenadas (ra\_temin 288,155)
 
-      :   ![Questsantu01](../images/c/c4/Questsantu01.png)
+      :   ![Questsantu01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Questsantu01.png)
     - Pergunte sobre Bekento ao Sumo Sacerdote Zhed (ra\_temin 276,159). Converse mais algumas vezes com ele.
 
-    :   ![Zhed](../images/a/ad/Zhed.png)
+    :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
     - Aproxime-se das coordenadas (ra\_temin 272,143)
 
-      :   ![Questsantu02](../images/f/fc/Questsantu02.png)
+      :   ![Questsantu02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Questsantu02.png)
     - Quando aparecer uma mensagem, selecione:
       - *Apanhar*
 12. Vá para a entrada do calabouço do Santuário, onde seu personagem viu a escada e as manchas de sangue (ra\_temin 28,318)
 
-    :   ![Questsantu03](../images/8/8a/Questsantu03.png)
+    :   ![Questsantu03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Questsantu03.png)
 
     - Selecione:
       - Usar chave pequena
 13. Siga reto até o portal sul (ra\_san01 139,13)
 
-    :   ![Questsantu04](../images/7/7c/Questsantu04.png)
+    :   ![Questsantu04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Questsantu04.png)
 14. Neste mapa, basta seguir em linha reta e ouvir os diálogos até seu personagem ser enviado de volta para [Rachel](../Lugares%20em%20Ragnar%C3%B6k/Rachel.md "Rachel").
 
-    :   ![Questsantu05](../images/d/d6/Questsantu05.png)
+    :   ![Questsantu05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Questsantu05.png)
 15. Retorne a Zhed (ra\_temin 276,159)
 
-    :   ![Zhed](../images/a/ad/Zhed.png)
+    :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
     - Responda:
       - *Aconteceu alguma coisa?*
     - Você receberá 90.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência")
     - O acesso ao [Santuário](http://www.divine-pride.net/database/map/ra_san01/) está liberado.
 
-![Saga2](../images/f/f4/Saga2.png)
+![Saga2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Saga2.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

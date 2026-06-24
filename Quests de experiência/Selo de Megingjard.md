@@ -15,7 +15,7 @@
 
 1. Fale mais de uma vez com Rebarev Doug (prt\_cas 178,243)
 
-   :   ![Selo de Megingjard01 n](../images/c/c3/Selo_de_Megingjard01_n.png)
+   :   ![Selo de Megingjard01 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Selo_de_Megingjard01_n.png)
 
    - Selecione as opções:
      - O que é?
@@ -25,7 +25,7 @@
      - Ao selecionar a opção acima, não fale com Rebarev Doug novamente.
 2. Com um [Lampião](http://www.divine-pride.net/database/item/1041/) e uma [Lupa](http://www.divine-pride.net/database/item/611/) em mãos, vá ao Bibliotecário (prontera 120,266)
 
-   :   ![Selo de Megingjard02](../images/f/fc/Selo_de_Megingjard02.png)
+   :   ![Selo de Megingjard02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Selo_de_Megingjard02.png)
 
    - Selecione as opções:
      - Que tipo de arquivo você está procurando?
@@ -36,7 +36,7 @@
      - Quero ler uns documentos.
 3. Fique clicando nas prateleiras até encontrar a informação sobre a 3a companhia.
 
-   :   ![Selo de Megingjard03](../images/2/29/Selo_de_Megingjard03.png)
+   :   ![Selo de Megingjard03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Selo_de_Megingjard03.png)
 4. Entregue os itens abaixo ao Bibliotecário. Você deve continuar falando com ele até ele fazer a cópia.
    - ![7111.png](http://static.divine-pride.net/images/items/item/7111.png) 2 [Pedaços de Papel](http://www.divine-pride.net/database/item/7111/)
    - ![7151.png](http://static.divine-pride.net/images/items/item/7151.png) 1 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/)
@@ -50,18 +50,18 @@
    - Termine o diálogo selecionando a opção [*Conversar*]
 6. Dirija-se ao Templário (geffen\_in 109,161)
 
-   :   ![Selo de Megingjard04](../images/8/8c/Selo_de_Megingjard04.png)
+   :   ![Selo de Megingjard04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/Selo_de_Megingjard04.png)
 
    - Selecione todas as opções até o *fragmento desconhecido* ser mencionado. Fale com ele várias vezes até repetir o mesmo diálogo.
 7. Siga para a estalagem de [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc") e procure pela Funcionária (morocc\_in 146,179)
 
-   :   ![Selo de Megingjard05](../images/8/86/Selo_de_Megingjard05.png)
+   :   ![Selo de Megingjard05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Selo_de_Megingjard05.png)
 
    - Digite `Cuaque Donon` e selecione qualquer opção até ela citar Aragham.
    - Existe uma chance desta [NPC](../Sem%20categoria/NPC.md "NPC") te matar, caso isso aconteça, simplesmente volte e fale com ela novamente.
 8. Traga um [Boneco de Poring](http://www.divine-pride.net/database/item/741/) e encontre o Homem Suspeito (in\_rogue 243,61)
 
-   :   ![Selo de Megingjard106](../images/e/e5/Selo_de_Megingjard106.png)
+   :   ![Selo de Megingjard106](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Selo_de_Megingjard106.png)
 
    - Entre na casa selecionando: Aragham nunca colecionou itens de aprimoramento
    - Preste atenção neste passo, é importante:
@@ -71,27 +71,27 @@
      - Se não prestar atenção e errar nessa hora, terá de repetir desde o passo 7.
      - Tome cuidado, pois a opção [*Ouvi-lo tranquilamente*] pode aparecer na segunda ou na terceira opção do diálogo.
 
-   :   :   ![Selo de Megingjard10a2](../images/c/c5/Selo_de_Megingjard10a2.png)
+   :   :   ![Selo de Megingjard10a2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Selo_de_Megingjard10a2.png)
 9. Encontre um Templário (alberta 196,146)
 
-   :   ![Selo de Megingjard07](../images/2/2d/Selo_de_Megingjard07.png)
+   :   ![Selo de Megingjard07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Selo_de_Megingjard07.png)
 
    - Selecione a terceira e depois a primeira opção, até citar que ele está mascando ervas verdes.
 10. Com uma [erva verde](http://www.divine-pride.net/database/item/511/) no inventário, pergunte sobre as memórias da Lady (aldebaran 66,213)
 
-    :   ![Selo de Megingjard08](../images/f/f7/Selo_de_Megingjard08.png)
+    :   ![Selo de Megingjard08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Selo_de_Megingjard08.png)
 11. No Bar dos Solteiros em [Jawaii](../Lugares%20em%20Ragnar%C3%B6k/Jawaii.md "Jawaii"), converse com Nineball (jawaii\_in 44,110)
 
-    :   ![Selo de Megingjard09](../images/e/e7/Selo_de_Megingjard09.png)
+    :   ![Selo de Megingjard09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/Selo_de_Megingjard09.png)
 
     - Fale com ele até surgir uma mensagem com um texto em azul.
     - Personagens [casados](../Sem%20categoria/Casamento.md "Casamento") podem acessar [Jawaii](../Lugares%20em%20Ragnar%C3%B6k/Jawaii.md "Jawaii") pelo porto de [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude") ou [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna").
     - Para os personagens solteiros chegarem em [Jawaii](../Lugares%20em%20Ragnar%C3%B6k/Jawaii.md "Jawaii"), deverão beber com um Cliente chamado João Só (prt\_in 173,13)
 
-    :   :   ![Selo de Megingjard09b](../images/6/68/Selo_de_Megingjard09b.png)
+    :   :   ![Selo de Megingjard09b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Selo_de_Megingjard09b.png)
 12. Com 7 unidades de [álcool](http://www.divine-pride.net/database/item/970/), vá até o Cassino de [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo") e fale com o Homem (cmd\_in02 190,94)
 
-    :   ![Selo de Megingjard11](../images/a/a7/Selo_de_Megingjard11.png)
+    :   ![Selo de Megingjard11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Selo_de_Megingjard11.png)
 
     - Selecione:
       - Sobre Rebarev Doug
@@ -101,11 +101,11 @@
 13. Volte à Prontera para falar com Rebarev Doug, selecionando a opção [*Essa não é a hora para certas perguntas*].
 14. Selecione todas as opções na conversa com Egnigem (niflheim 109,254)
 
-    :   ![Selo de Megingjard13](../images/f/fa/Selo_de_Megingjard13.png)
+    :   ![Selo de Megingjard13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Selo_de_Megingjard13.png)
 15. Retorne a Rebarev Doug.
 16. Encontre o Templário (prt\_cas 252,101)
 
-    :   ![Selo de Megingjard12 n](../images/5/5f/Selo_de_Megingjard12_n.png)
+    :   ![Selo de Megingjard12 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Selo_de_Megingjard12_n.png)
 17. Volte a falar com Egnigem para receber sua recompensa em [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
 18. Fale pela última vez com a Lady de [Al De Baran](../Lugares%20em%20Ragnar%C3%B6k/Al%20De%20Baran.md "Al De Baran"). Você ganhará 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) e a mesma quantidade de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") concedida por Egnigem:
 

@@ -15,16 +15,16 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 1953.png 1 [Cordame](http://www.divine-pride.net/database/item/1953/) [3] ou  1950.png 1 [Cordel](http://www.divine-pride.net/database/item/1950/) [3] |
 | **Recompensa** | Muda a classe para [Odalisca](../Sem%20categoria/Odalisca.md "Odalisca") |
 
-![MdCoda010](../images/b/bc/MdCoda010.png)
+![MdCoda010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/MdCoda010.png)
 
 Mapa-Chave
 
 1. Em [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo"), fale com Bor Roben (comodo 193,151) e selecione *Ir para a sala de teste*.
 
-   :   ![MdCoda01](../images/2/23/MdCoda01.png)
+   :   ![MdCoda01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/MdCoda01.png)
 2. À esquerda do palco, fale com Ale (job\_duncer 43,93). Ela cobra 10.000 zenys pela inscrição e os seguintes itens (aleatoriamente):
 
-   :   ![MdCoda02](../images/9/9b/MdCoda02.png)
+   :   ![MdCoda02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/MdCoda02.png)
 
    - **Possibilidade 1:**
      - ![938.png](http://static.divine-pride.net/images/items/item/938.png) 20 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
@@ -42,7 +42,7 @@ Mapa-Chave
      - ![2401.png](http://static.divine-pride.net/images/items/item/2401.png) 1 [Sandálias](http://www.divine-pride.net/database/item/2401/) [0]
 3. À direita do palco, fale com Borwaju (job\_duncer 95,93) e responda o questionário. Passar nesta etapa requer acertar 8 questões, no mínimo.
 
-   :   ![MdCoda05](../images/1/19/MdCoda05.png)
+   :   ![MdCoda05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/MdCoda05.png)
 
 | Questionário I | |
 | --- | --- |
@@ -84,10 +84,10 @@ Mapa-Chave
 
 :   4. Após o resultado, fale novamente com Borwaju para iniciar o teste prático. Você será teleportada para a lateral do palco. Siga até o final do corredor, subindo a rampa e clique no chat da Sala de Espera (job\_duncer 32,154)
 
-    :   ![MdCoda03](../images/d/d6/MdCoda03.png)
+    :   ![MdCoda03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/MdCoda03.png)
 :   5. Quando for sua vez, você será direcionada ao palco para dançar! Veja as instruções abaixo:
 
-    :   ![MdCoda04](../images/6/67/MdCoda04.png)
+    :   ![MdCoda04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/MdCoda04.png)
 
 - No palco, existem 5 quadrados onde você deve pisar.
 - O teste consiste em obedecer as direções pedidas via [broadcast](../Sem%20categoria/Broadcast.md "Broadcast").

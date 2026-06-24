@@ -15,19 +15,19 @@
 
 1. Aceite o pedido do Mural de Procurados (mid\_camp 192,238)
 
-   :   ![PedidoLin01](../images/7/7a/PedidoLin01.png)
+   :   ![PedidoLin01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/PedidoLin01.png)
 2. No segundo andar do calabouço, siga em frente e ative o Dispositivo Estranho (nyd\_dun02 139,274)
 
-   :   ![DispositivoEstranho](../images/9/9e/DispositivoEstranho.png)
+   :   ![DispositivoEstranho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/DispositivoEstranho.png)
 
    - Para chegar ao outro lado, o dispositivo cria uma ponte de luzes por 1 minuto.
 
-     :   ![LuzesQuest](../images/e/e8/LuzesQuest.png)
+     :   ![LuzesQuest](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/LuzesQuest.png)
    - A cada luz que você pisa, novas luzes aparecerão.
    - Se pisar fora das luzes, você retorna ao primeiro calabouço.
 3. Aproxime-se do Forasteiro.
 
-   :   ![Forasteiro](../images/a/aa/Forasteiro.png)
+   :   ![Forasteiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Forasteiro.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") pode estar em duas localizações diferentes:
      - (nyd\_dun02 144,102)
@@ -36,4 +36,4 @@
    - Você precisa eliminá-lo para prosseguir com a missão.
 4. Pergunte sobre os criminosos para Pinedel (mid\_camp 146,305)
 
-   :   ![Pinedel](../images/9/9d/Pinedel.png)
+   :   ![Pinedel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Pinedel.png)

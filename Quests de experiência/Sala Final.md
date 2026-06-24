@@ -19,34 +19,34 @@
 
 1. Fale com Verity (verus01 123,181)
 
-   :   ![Verity](../images/1/1a/Verity.png)
+   :   ![Verity](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Verity.png)
 
    - Selecione a opção de usar o [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/) para teleportar direto para a entrada da Sala Final.
    - Se você tiver perdido seu [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/), deverá refazer a missão [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") a partir do passo **20**, falando com Alp.
 2. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com Mark.
 
-   :   ![Marklroom](../images/1/1e/Marklroom.png)
+   :   ![Marklroom](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1e/Marklroom.png)
 3. Fale com Verity para iniciar a história.
 
-   :   ![Veritylroom1](../images/4/4a/Veritylroom1.png)
+   :   ![Veritylroom1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Veritylroom1.png)
 
    - Siga em direção ao portal e elimine os 30 [GC109](http://www.divine-pride.net/database/monster/3251/) e [DR815](http://www.divine-pride.net/database/monster/3252/).
    - Após o aviso, destrua a [Mensagem do Sistema](http://www.divine-pride.net/database/monster/3253/).
 4. Fale com Tamarin.
 
-   :   ![Tamalroom1](../images/8/89/Tamalroom1.png)
+   :   ![Tamalroom1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Tamalroom1.png)
 
    - Dirija-se ao portal para mover para a próxima zona.
    - Nessa área, existem armadilhas espalhadas no chão, sempre que alguém encostar nelas, invocará 3 [GC109](http://www.divine-pride.net/database/monster/3251/) e [DR815](http://www.divine-pride.net/database/monster/3252/) no caminho mais adiante.
 5. Fale com Verity para seguir para a última sala.
 
-   :   ![Veritylroom2](../images/8/85/Veritylroom2.png)
+   :   ![Veritylroom2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/Veritylroom2.png)
 
    - Elimine [T\_W\_O](http://www.divine-pride.net/database/monster/3254/).
    - Fale com Verity para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 6. Reporte a situação para Fruit (verus01 151,173)
 
-   :   ![Fruit](../images/a/a0/Fruit.png)
+   :   ![Fruit](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Fruit.png)
 
    - Você receberá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base, 1 [Peça Intacta](http://www.divine-pride.net/database/item/6827/) e outro [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/).
    - Fruit troca 17 [Peças Intactas](http://www.divine-pride.net/database/item/6827/) pelos seguintes equipamentos:

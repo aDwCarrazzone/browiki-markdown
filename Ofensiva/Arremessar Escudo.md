@@ -39,12 +39,12 @@ Quando o escudo retorna, ativa o estado de [*Escudo Reforçado*]
 
 ### Escudo Reforçado
 
-- **Ícone:** ![I Arremessar Escudo](../images/9/9d/I_Arremessar_Escudo.png)
+- **Ícone:** ![I Arremessar Escudo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/I_Arremessar_Escudo.png)
 - **Duração:** 10 segundos
 - Aumenta o dano base das seguintes habilidades:
-  - [![Choque Rápido](../images/f/ff/Choque_R%C3%A1pido.png)](Choque%20R%C3%A1pido.md "Choque Rápido") [Choque Rápido](Choque%20R%C3%A1pido.md "Choque Rápido")
-  - [![Aegis Inferi](../images/7/7c/Aegis_Inferi.png)](Aegis%20Inferi.md "Aegis Inferi") [Aegis Inferi](Aegis%20Inferi.md "Aegis Inferi")
-  - [![Escudo Compressor](../images/6/67/Escudo_Compressor.png)](Escudo%20Compressor.md "Escudo Compressor") [Escudo Compressor](Escudo%20Compressor.md "Escudo Compressor")
+  - [![Choque Rápido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Choque_R%C3%A1pido.png)](Choque%20R%C3%A1pido.md "Choque Rápido") [Choque Rápido](Choque%20R%C3%A1pido.md "Choque Rápido")
+  - [![Aegis Inferi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Aegis_Inferi.png)](Aegis%20Inferi.md "Aegis Inferi") [Aegis Inferi](Aegis%20Inferi.md "Aegis Inferi")
+  - [![Escudo Compressor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Escudo_Compressor.png)](Escudo%20Compressor.md "Escudo Compressor") [Escudo Compressor](Escudo%20Compressor.md "Escudo Compressor")
 - A duração é reiniciada se a Arremessar Escudo for usada novamente.
 - Estado é cancelado por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").
 

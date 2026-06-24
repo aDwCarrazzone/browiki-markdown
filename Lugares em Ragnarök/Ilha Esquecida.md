@@ -2,7 +2,7 @@
 
 # Ilha Esquecida
 
-[![Nameless artwork](../images/0/0c/Nameless_artwork.png)](https://browiki.org/wiki/Arquivo%3ANameless_artwork.png)
+[![Nameless artwork](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Nameless_artwork.png)](https://browiki.org/wiki/Arquivo%3ANameless_artwork.png)
 
 Ilha Esquecida durante o dia
 
@@ -22,7 +22,7 @@ Sem suspeitar de nada, decidiram ficar ali até o anoitecer... um engano terrive
 
 ## Mapa
 
-![Ilha Esquecida map new](../images/2/24/Ilha_Esquecida_map_new.png)
+![Ilha Esquecida map new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Ilha_Esquecida_map_new.png)
 
 ## Quests & Calabouços
 

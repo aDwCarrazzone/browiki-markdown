@@ -43,7 +43,7 @@ Ao atingirem o [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeTaekwons](../images/9/94/SkilltreeTaekwons.png)
+![SkilltreeTaekwons](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/SkilltreeTaekwons.png)
 
 ## Construção do Personagem
 

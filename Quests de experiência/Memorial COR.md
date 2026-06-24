@@ -20,11 +20,11 @@
 
 1. Reserve a instância com o Insurgente (sp\_cor 113,130)
 
-   :   ![MemorialCOR01](../images/5/5f/MemorialCOR01.png)
+   :   ![MemorialCOR01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/MemorialCOR01.png)
 2. Dentro da instância, converse com Elena Bolkova, que indicará 4 pontos no mapa que você deve seguir.
 3. Vá em todos os pontos, clique nas caixas e elimine os monstros invocados.
 
-   :   ![MemorialCOR02](../images/3/3f/MemorialCOR02.png)
+   :   ![MemorialCOR02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/MemorialCOR02.png)
 
    - Caixas de Madeira invocam:
      - [Caça-Coração](http://www.divine-pride.net/database/monster/20355/)
@@ -39,7 +39,7 @@
 4. Aproximar-se das Biobaterias faz com que elas se explodam, aparecendo um feixe de luz que permite receber [*Todos os atributos +20*] por 30 segundos.
 5. Uma vez que todas as caixas foram removidas, dirija-se para o centro do mapa e fale com Elyumina.
 
-   :   ![MemorialCOR03](../images/5/55/MemorialCOR03.png)
+   :   ![MemorialCOR03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/MemorialCOR03.png)
 
    - Ela deverá abrir o portal para a área das barracas, onde fica [EL-A17T](http://www.divine-pride.net/database/monster/20340/).
    - Entre no portal e enfrente o [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").

@@ -13,10 +13,10 @@
 
 1. Encontre Guyeonbo (lou\_fild01 195,177)
 
-   :   ![A Montanha do Grito01](../images/a/ad/A_Montanha_do_Grito01.png)
+   :   ![A Montanha do Grito01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/A_Montanha_do_Grito01.png)
 2. No restaurante da cidade, clique na Panela (lou\_in02 49,185)
 
-   :   ![A Montanha do Grito02](../images/b/be/A_Montanha_do_Grito02.png)
+   :   ![A Montanha do Grito02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/A_Montanha_do_Grito02.png)
 
    - Tente sair de lá sem que outros empregados notem você.
    - Se falhar, repita o procedimento até conseguir sair com a panela.

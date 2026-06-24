@@ -54,7 +54,7 @@ Além disso, possuem habilidades auxiliares que permitem instalar e consertar ar
 
 ### Árvore de habilidades
 
-![SkilltreeMecânicos](../images/0/09/SkilltreeMec%C3%A2nicos.png)
+![SkilltreeMecânicos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/SkilltreeMec%C3%A2nicos.png)
 
 ## Construção do Personagem
 

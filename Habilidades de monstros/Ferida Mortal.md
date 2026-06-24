@@ -29,7 +29,7 @@ Desfere um golpe em área que inflige *Ferimento Crítico* por 30 segundos.
 
 ### Ferimento Crítico
 
-- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Ferimento Mortal](../images/5/5f/I_Ferimento_Mortal.png)
+- [Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"): ![I Ferimento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/I_Ferimento_Mortal.png)
 - Reduz a Cura recebida por [itens](../Itens/Itens.md "Itens") e habilidades como [Curar](../Suporte/Curar.md "Curar") e [Santuário](../Suporte/Santu%C3%A1rio.md "Santuário").
 - Não afeta efeitos recuperam [HP](../Sem%20categoria/HP.md "HP") em % como [Renovatio](../Suporte/Renovatio.md "Renovatio") e [carta Mosca Caçadora](http://www.divine-pride.net/database/item/4115/).
 - Itens que aumentam Cura Recebida reduzem o impacto do efeito.

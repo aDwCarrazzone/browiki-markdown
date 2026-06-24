@@ -23,9 +23,9 @@ Transfere o dano das Lanças para o punho temporariamente.
 
 Enquanto estiver ativa, todo ataque físico normal causará dano mágico de acordo com a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da lança interrompida:
 
-- [![Lanças de Fogo](../images/4/48/Lan%C3%A7as_de_Fogo.png)](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo")
-- [![Lanças de Gelo](../images/c/ca/Lan%C3%A7as_de_Gelo.png)](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo")
-- [![Relâmpago](../images/2/27/Rel%C3%A2mpago.png)](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago")
+- [![Lanças de Fogo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Lan%C3%A7as_de_Fogo.png)](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo")
+- [![Lanças de Gelo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Lan%C3%A7as_de_Gelo.png)](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo")
+- [![Relâmpago](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Rel%C3%A2mpago.png)](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago")
 
 Cada ataque consome 20 de [SP](../Sem%20categoria/SP.md "SP").
 

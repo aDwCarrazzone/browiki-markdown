@@ -14,14 +14,14 @@
 
 1. Fale com o Editor (amatsu 223,236)
 
-   :   ![A Lenda de Momotaro01](../images/f/f6/A_Lenda_de_Momotaro01.png)
+   :   ![A Lenda de Momotaro01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/A_Lenda_de_Momotaro01.png)
 2. Você estará numa sala de espera onde há um Assistente. Clique no [chat](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Comandos.md "Comandos") e aguarde sua vez.
 
-   :   ![Amatsu momotaro2](../images/6/6c/Amatsu_momotaro2.png)
+   :   ![Amatsu momotaro2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Amatsu_momotaro2.png)
 3. Após ouvir a história, você tem 6 minutos para derrotar todos os [Dokebis](http://www.divine-pride.net/database/monster/1110/).
 4. No final do teste, o Treinador aparece e te dará a opção de enfrentar [Am Muts](http://www.divine-pride.net/database/monster/1301/).
 
-   :   ![Amatsu momotaro4](../images/4/4c/Amatsu_momotaro4.png)
+   :   ![Amatsu momotaro4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Amatsu_momotaro4.png)
 
    - O tempo ainda é contando os 6 minutos.
    - O prêmio não é cumulativo, caso derrote Dokebis e os Am Muts, você receberá somente o prêmio por derrotar os Am Muts.

@@ -18,36 +18,36 @@
 
 1. Localize o Guarda (malaya 305,281)
 
-   :   ![Malaya01](../images/f/f9/Malaya01.png)
+   :   ![Malaya01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Malaya01.png)
 2. Converse com 1 dos 3 Aldeões (malaya 278,288)
 
-   :   ![Malaya02](../images/1/11/Malaya02.png)
+   :   ![Malaya02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Malaya02.png)
 3. Cutuque o ombro de Totoy (ma\_in01 47,101)
 
-   :   ![Malaya03](../images/d/d6/Malaya03.png)
+   :   ![Malaya03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Malaya03.png)
 4. Clique na gaveta (ma\_in01 44,104)
 
-   :   ![Malaya04](../images/9/97/Malaya04.png)
+   :   ![Malaya04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Malaya04.png)
 5. Entregue a [Poção Verde](http://www.divine-pride.net/database/item/506/) a Totoy e continue conversando, você pode selecionar qualquer opção.
 6. Procure pelo Mestre de Caça (malaya 290,152)
 
-   :   ![Malaya05](../images/a/a5/Malaya05.png)
+   :   ![Malaya05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Malaya05.png)
 7. Colete 10 [Amostras Coletadas](http://www.divine-pride.net/database/item/6519/) dos Rastros Desconhecidos (ma\_fild02 155,235)
 
-   :   ![Malaya06](../images/e/e2/Malaya06.png)
+   :   ![Malaya06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Malaya06.png)
 
    - Existem 7 Rastros Desconhecidos e reaparecem após 30 segundos.
 8. Fale com o Mestre de Caça até surgir um monte de areia ao lado.
 9. Clique no monte de areia até descobrir que o monstro visto por Totoy é um Buwaya.
 
-   :   ![Segredos na Floresta06](../images/0/00/Segredos_na_Floresta06.png)
+   :   ![Segredos na Floresta06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Segredos_na_Floresta06.png)
 10. Fale com o Mestre de Caça novamente
 11. Converse com o Chefe da Guarda (malaya 290,340)
 
-    :   ![Malaya07](../images/4/4c/Malaya07.png)
+    :   ![Malaya07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Malaya07.png)
 12. Aproxime-se das coordenadas (ma\_fild02 308,243)
 
-    :   ![Segredos na Floresta08](../images/b/b6/Segredos_na_Floresta08.png)
+    :   ![Segredos na Floresta08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Segredos_na_Floresta08.png)
 
     - Quando o cachorro aparecer, clique nele.
 13. Converse com Totoy até receber 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/).

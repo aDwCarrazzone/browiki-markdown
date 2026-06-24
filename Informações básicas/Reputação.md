@@ -2,13 +2,13 @@
 
 # Reputação
 
-![Reputa](../images/e/ea/Reputa.png)
+![Reputa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Reputa.png)
 
 Seus pontos de reputação
 
 Durante suas aventuras em [Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online") é normal que seus feitos sejam reconhecidos por diversas pessoas.
 
-Para acessar a janela de reputação, clique no ícone das estrelinhas ![Bt repute](../images/2/2c/Bt_repute.png)
+Para acessar a janela de reputação, clique no ícone das estrelinhas ![Bt repute](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Bt_repute.png)
 
 A sua reputação em um povoado pode lhe render benefícios se você auxiliar os habitantes em suas tarefas.
 
@@ -23,7 +23,7 @@ Porém, algumas tribos rivais podem não ficar felizes se souberem que você est
 
 1. Converse com o Líder da Tribo dos Orcs (in\_orcs01 106,177)
 
-   :   ![ReputaOrc](../images/6/62/ReputaOrc.png)
+   :   ![ReputaOrc](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/ReputaOrc.png)
 2. Para aumentar sua reputação na vila, você pode fazer as seguintes tarefas:
    - Entregar 1x [Carta Goblin](http://www.divine-pride.net/database/item/4060/) ⮕ **+50** pontos para os Orcs
    - Completar [Goblins Ferozes](../Quest/Grupo%20do%20%C3%89den.md#Nível_40_a_69 "Grupo do Éden") ⮕ **+10** pontos para os Orcs / **-5** para os Goblins
@@ -43,7 +43,7 @@ Porém, algumas tribos rivais podem não ficar felizes se souberem que você est
 
 1. Converse com o Líder da Tribo dos Goblins (gef\_fild11 247,253)
 
-   :   ![ReputaGoblin](../images/8/82/ReputaGoblin.png)
+   :   ![ReputaGoblin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/ReputaGoblin.png)
 2. Para aumentar sua reputação na vila, você pode fazer as seguintes tarefas:
    - Entregar 1x [Carta Guerreiro Orc](http://www.divine-pride.net/database/item/4066/) ⮕ **+50** pontos para os Goblins
    - Entregar 100x [Amulero Orc](http://www.divine-pride.net/database/item/931/) (1 vez por dia) ⮕ **+30** pontos para os Goblins

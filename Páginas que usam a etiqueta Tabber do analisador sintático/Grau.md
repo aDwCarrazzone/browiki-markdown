@@ -2,7 +2,7 @@
 
 # Grau
 
-![GradeSystem](../images/7/78/GradeSystem.png)
+![GradeSystem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/GradeSystem.png)
 
 Um item com Grau
 
@@ -33,10 +33,10 @@ A letra do Grau é exibida na frente do nome do item: `[B] Adaga`
 
 ## Como funciona
 
-1. Vá para uma refinaria e fale com o [NPC](../Sem%20categoria/NPC.md "NPC") com indicação ![GradingNPC](../images/8/83/GradingNPC.png)
+1. Vá para uma refinaria e fale com o [NPC](../Sem%20categoria/NPC.md "NPC") com indicação ![GradingNPC](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/GradingNPC.png)
 2. A interface de Grau será aberta, basta arrastar o item até a janela e selecionar os materiais.
 
-   :   ![GradingUI](../images/a/a0/GradingUI.png)
+   :   ![GradingUI](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/GradingUI.png)
 
 Preste atenção!
 
@@ -78,7 +78,7 @@ Atualmente, para subir um grau, seus itens devem estar no **+11**, no mínimo.
 
 ### Materiais
 
-Para conseguir os materiais, você pode falar com os [NPCs](../Sem%20categoria/NPC.md "NPC") ![GradingNPC](../images/8/83/GradingNPC.png).
+Para conseguir os materiais, você pode falar com os [NPCs](../Sem%20categoria/NPC.md "NPC") ![GradingNPC](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/GradingNPC.png).
 
 | Item | Zeny | Materiais | | |
 | --- | --- | --- | --- | --- |

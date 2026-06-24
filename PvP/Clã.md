@@ -2,9 +2,9 @@
 
 # Clã
 
-![Disambig grey](../images/b/b2/Disambig_grey.png) **Nota:** Para clãs que não podem participar da Guerra do Emperium, veja [Clãs Reais](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Cl%C3%A3s%20Reais.md "Clãs Reais").
+![Disambig grey](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Disambig_grey.png) **Nota:** Para clãs que não podem participar da Guerra do Emperium, veja [Clãs Reais](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Cl%C3%A3s%20Reais.md "Clãs Reais").
 
-![Ragnarök Online](../images/3/32/Ragnar%C3%B6k_Online.jpg)
+![Ragnarök Online](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Ragnar%C3%B6k_Online.jpg)
 
 Clã é um grupo de personagens que se reúnem para diversas finalidades, principalmente para batalhar na [Guerra do Emperium](Guerra%20do%20Emperium.md "Guerra do Emperium").
 
@@ -22,7 +22,7 @@ Qualquer personagem pode ser líder de um clã, basta seguir os procedimentos ab
 2. Como **Convidar membros para o clã**:
    - Clique com o botão direito do mouse sobre um personagem e selecione a opção "*Convidar para o clã*"
 
-   :   ![Clas1 new](../images/6/69/Clas1_new.png)
+   :   ![Clas1 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Clas1_new.png)
 
    - Você também pode usar o comando `/guildinvite "nome do personagem"`
    - Se o personagem já estiver em um clã, você pode solicitar uma aliança ou estabelecer o clã dele como inimigo.
@@ -36,7 +36,7 @@ Qualquer personagem pode ser líder de um clã, basta seguir os procedimentos ab
    - Selecione *ok* na janela de confirmação.
    - A liderança de um clã só pode ser alterada 1 vez por dia.
 
-   :   ![Clas1 new2](../images/4/48/Clas1_new2.png)
+   :   ![Clas1 new2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Clas1_new2.png)
 5. Existe a mudança automática de líder de clã.
    - Se o líder do clã não logar por 90 dias, um novo líder será escolhido automaticamente.
    - A prioridade da escolha será de quem mais fez doação de [EXP](../Sem%20categoria/EXP.md "EXP").
@@ -47,7 +47,7 @@ Use a interface do clã para administrá-lo.
 
 1. Se você for o líder, na aba "Cargos", é possível definir títulos para seus membros.
 
-   :   ![Clas2 new](../images/0/0b/Clas2_new.png)
+   :   ![Clas2 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Clas2_new.png)
 2. Por exemplo, o líder pode escrever o título de "Recrudador" e depois, na aba de "Membros", escolher os personagens que terão esse cargo.
 3. O líder do clã decide:
    - **Punir**: Quem pode expulsar membros
@@ -74,7 +74,7 @@ Como colocar:
    - Não confunda Emblem com \_tmpEmblem, são pastas diferentes.
 3. Entre no jogo, abra a janela do clã e clique no botão *Editar*. Selecione o nome do emblema que deseja inserir.
 
-   :   ![Cla7 new](../images/0/07/Cla7_new.png)
+   :   ![Cla7 new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Cla7_new.png)
 4. Se necessário, relogue no jogo para exibir o emblema.
    - Você precisa ser líder do clã para mudar o emblema!
 
@@ -94,7 +94,7 @@ As habilidades não-passivas podem ser colocadas na barra de atalhos rápidos.
 
 ### Árvore de Habilidades
 
-![SkilltreeClã new](../images/f/f9/SkilltreeCl%C3%A3_new.png)
+![SkilltreeClã new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/SkilltreeCl%C3%A3_new.png)
 
 ### Tabela de Experiência
 

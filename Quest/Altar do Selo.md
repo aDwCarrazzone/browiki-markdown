@@ -14,35 +14,35 @@
 | Premiação | |
 | **Chefe** | Monster Bafomé [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) |
 
-[![Altar00](../images/5/52/Altar00.png)](https://browiki.org/wiki/Arquivo%3AAltar00.png)
+[![Altar00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Altar00.png)](https://browiki.org/wiki/Arquivo%3AAltar00.png)
 
 Mapa-Chave: Catacumbas
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Frei Patrick (monk\_test 309,145)
 
-   :   ![Altar01](../images/6/65/Altar01.png)
+   :   ![Altar01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Altar01.png)
 2. Toque no Túmulo do Bafomé para entrar.
 
-   :   ![Altar02](../images/5/53/Altar02.png)
+   :   ![Altar02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Altar02.png)
 3. Encontre o Túmulo do Herói (1@cata 141,221)
 
-   :   ![Altar03](../images/b/b2/Altar03.png)
+   :   ![Altar03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Altar03.png)
 
    - Selecione:
      - Quem é você?
      - Esperou por mim?
 4. Procure por um [Pingente do Espírito](http://www.divine-pride.net/database/item/6003/) pelos Túmulos espalhados pelo mapa. A chance de conseguir o pingente é aleatória.
 
-   :   ![Altar04](../images/d/df/Altar04.png)
+   :   ![Altar04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/df/Altar04.png)
 5. Entregue o [Pingente do Espírito](http://www.divine-pride.net/database/item/6003/) ao Túmulo do Herói.
 6. Localize a Alma do Herói (1@cata 176,119)
 
-   :   ![Altar05](../images/8/88/Altar05.png)
+   :   ![Altar05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Altar05.png)
 
    - Selecione todas as opções na ordem correta.
 7. Agora, o líder do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve adquirir 10 [Essências de Fogo](http://www.divine-pride.net/database/item/6001/) nas Tochas espalhadas pelo mapa.
 
-   :   ![Altar06](../images/a/a3/Altar06.png)
+   :   ![Altar06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Altar06.png)
 8. O líder e os membros do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") devem conseguir 1 [Medalhão do Apóstolo](http://www.divine-pride.net/database/item/6002/) para cada um.
    - Os medalhões são derrubados por [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") chamados "*Apóstolos de Bafomé*".
    - O [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") terá 1 hora para completar esta etapa. (Começando assim que o líder escolher a opção "*Estou pronto*".)
@@ -50,10 +50,10 @@ Mapa-Chave: Catacumbas
 9. Leve os itens para a Alma do Herói abrir o portal do segundo andar.
 10. Liberte o [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) clicando no Altar Principal (2@cata 79,65)
 
-    :   ![Altar08](../images/0/0f/Altar08.png)
+    :   ![Altar08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Altar08.png)
 11. Derrotar o [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) não é uma tarefa fácil, ele não sofre danos físicos e mágicos integralmente.
 
-    :   ![Altar09](../images/f/fd/Altar09.png)
+    :   ![Altar09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Altar09.png)
 
     - Para enfraquecê-lo, o Herói anunciará 1 das 5 Formações Mágicas espalhadas pelo 2º andar, cada uma é identificada por um horário:
       - Selo 2 horas (Direita/Cima/[Spot](../Sem%20categoria/Spot.md "Spot") 9)
@@ -70,7 +70,7 @@ Mapa-Chave: Catacumbas
     - É possível que o [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) recupere completamente o [HP](../Sem%20categoria/HP.md "HP") caso não receba dano por um longo tempo.
 12. Após derrotá-lo, fale com a Alma do Herói para sair da instância.
 
-    :   ![Altar010](../images/8/88/Altar010.png)
+    :   ![Altar010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Altar010.png)
 13. Se você possuir o [Boneco de Bafomé Maldito](http://www.divine-pride.net/database/item/6004/) fale com o Frei Patrick.
     - O [NPC](../Sem%20categoria/NPC.md "NPC") recomendará que você fale com Rust Blackhand.
 14. Fale com Rust Blackhand (prt\_monk 261,91)

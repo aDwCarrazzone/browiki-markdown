@@ -15,13 +15,13 @@
 | **Chefe** | Monster EspadachimAnonima [Espadachim Anônima](http://www.divine-pride.net/database/monster/20536/) |
 | **[Itens](../Itens/Itens.md "Itens")** | --- **Modo Batalha** ---  25786.png 3 [Arquivos de Biopesquisa](http://www.divine-pride.net/database/item/25786/)  25787.png 5 [Fragmento de Experimento](http://www.divine-pride.net/database/item/25787/) --- **Modo Expedição** ---  25787.png 2 [Fragmento de Experimento](http://www.divine-pride.net/database/item/25787/) |
 
-[![Eddabiolab00](../images/f/fa/Eddabiolab00.png)](https://browiki.org/wiki/Arquivo%3AEddabiolab00.png)
+[![Eddabiolab00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Eddabiolab00.png)](https://browiki.org/wiki/Arquivo%3AEddabiolab00.png)
 
 Mapa-chave do Biolaboratório
 
 1. Ao norte de [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno"), converse com Sierra (yuno 216,345) mais de uma vez para reservar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![Eddabiolab01](../images/e/e7/Eddabiolab01.png)
+   :   ![Eddabiolab01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/Eddabiolab01.png)
 2. Preste atenção nas informações sobre a mecânica da Edda:
    - Você deve selecionar 1 dos 2 modos antes de reservar.
    - **Modo Batalha**: Dá mais recompensas, mas precisa enfrentar maior número de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros").
@@ -67,7 +67,7 @@ Mapa-chave do Biolaboratório
     - **Modo Batalha**: Após eliminar os [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros"), fale com Sierra para ir ao Necrotério.
 11. Necrotério
 
-    :   ![Eddabiolab02a](../images/b/b7/Eddabiolab02a.png)
+    :   ![Eddabiolab02a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Eddabiolab02a.png)
 
     - Fale com Sierra no corredor e dirija-se ao norte.
     - AGUARDE todos os membros do seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") chegarem na área principal, caso contrário, ficarão presos do lado de fora.

@@ -14,7 +14,7 @@
 
 1. Converse com Lavanda (geffen 88,35) em [Geffen](../Lugares%20em%20Ragnar%C3%B6k/Geffen.md "Geffen").
 
-   :   ![Lavanda](../images/d/d4/Lavanda.png)
+   :   ![Lavanda](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Lavanda.png)
 
    - Traga para ela 10 [Melões Amarelos](http://www.divine-pride.net/database/item/11610/).
    - Eles são derrubados dos [Melorings](http://www.divine-pride.net/database/monster/3817/) espalhados em todos os mapas de campo e caverna.
@@ -22,7 +22,7 @@
 2. Converse com Lavanda novamente para receber 1 [Caixa Geladinha](http://www.divine-pride.net/database/item/25319/)
 3. Dirija-se a [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel") e entregue a caixa para Lírio (hugel 218,230).
 
-   :   ![Lirio](../images/e/e2/Lirio.png)
+   :   ![Lirio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Lirio.png)
 
    - Você ganha:
      - 5 [Pão de Melão](http://www.divine-pride.net/database/item/23723/)
@@ -53,10 +53,10 @@
 
 1. Para participar do concurso, fale com Papoula (geffen 142,40) portando ![25320.png](http://static.divine-pride.net/images/items/item/25320.png) 1 [Melão Suspeito](http://www.divine-pride.net/database/item/25320/)
 
-   :   ![Papoula](../images/3/3a/Papoula.png)
+   :   ![Papoula](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Papoula.png)
 2. Para conseguir 1 [Melão Suspeito](http://www.divine-pride.net/database/item/23321/), troque 10 [Melões Amarelos](http://www.divine-pride.net/database/item/11610/) com Mirabilis (geffen 149,68)
 
-   :   ![Mirabilis](../images/7/7d/Mirabilis.png)
+   :   ![Mirabilis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/Mirabilis.png)
 3. A [NPC](../Sem%20categoria/NPC.md "NPC") analisará o seu Melão e dará uma quantidade de [Meloeda](http://www.divine-pride.net/database/item/25655/) de acordo com o tamanho, decidido aleatoriamente pela [NPC](../Sem%20categoria/NPC.md "NPC").
 
 :   :   | Tamanho | Prêmio |

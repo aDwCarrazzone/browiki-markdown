@@ -25,9 +25,9 @@ Manifesta o poder dos ventos pelo seu corpo.
 
 Enquanto estiver ativo, garante:
 
-- Ativa o nível 5 de [![Ilimitar](../images/2/26/Ilimitar.png)](Ilimitar.md "Ilimitar") [Ilimitar](Ilimitar.md "Ilimitar")
-- Dano de [![Tiro Crescente](../images/8/8f/Tiro_Crescente.png)](../Ofensiva/Tiro%20Crescente.md "Tiro Crescente") [Tiro Crescente](../Ofensiva/Tiro%20Crescente.md "Tiro Crescente") +20%.
-- Permite que [![Vendaval de Flechas](../images/1/13/Vendaval_de_Flechas.png)](../Ofensiva/Vendaval%20de%20Flechas.md "Vendaval de Flechas") [Vendaval de Flechas](../Ofensiva/Vendaval%20de%20Flechas.md "Vendaval de Flechas") cause danos críticos.
+- Ativa o nível 5 de [![Ilimitar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/Ilimitar.png)](Ilimitar.md "Ilimitar") [Ilimitar](Ilimitar.md "Ilimitar")
+- Dano de [![Tiro Crescente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Tiro_Crescente.png)](../Ofensiva/Tiro%20Crescente.md "Tiro Crescente") [Tiro Crescente](../Ofensiva/Tiro%20Crescente.md "Tiro Crescente") +20%.
+- Permite que [![Vendaval de Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Vendaval_de_Flechas.png)](../Ofensiva/Vendaval%20de%20Flechas.md "Vendaval de Flechas") [Vendaval de Flechas](../Ofensiva/Vendaval%20de%20Flechas.md "Vendaval de Flechas") cause danos críticos.
 - Ao usar [Vendaval de Flechas](../Ofensiva/Vendaval%20de%20Flechas.md "Vendaval de Flechas") ou [Tiro Crescente](../Ofensiva/Tiro%20Crescente.md "Tiro Crescente"):
   - Aumenta o dano físico contra as raças [Bruto](../Sem%20categoria/Bruto.md "Bruto") e [Peixe](../Sem%20categoria/Peixe.md "Peixe").
 

@@ -14,7 +14,7 @@
 
 1. Fale com Po (prontera 158,224)
 
-   :   ![KungFuPo](../images/d/d4/KungFuPo.png)
+   :   ![KungFuPo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/KungFuPo.png)
 2. Após uma breve conversa, você poderá realizar as missões diárias e ganhar [Moedas Kung Fu Panda](http://www.divine-pride.net/database/item/1001886/).
 3. Fale com Zhen ao lado para abrir a loja de recompensas.
 

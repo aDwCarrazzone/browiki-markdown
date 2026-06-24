@@ -49,7 +49,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeSábios](../images/d/d7/SkilltreeS%C3%A1bios.png)
+![SkilltreeSábios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/SkilltreeS%C3%A1bios.png)
 
 ## Construção do Personagem
 

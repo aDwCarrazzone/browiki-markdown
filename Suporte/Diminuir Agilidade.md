@@ -48,10 +48,10 @@ A duração da habilidade é diferente entre [monstros](../Informa%C3%A7%C3%B5es
 - A duração é influenciada pela [INT](../Sem%20categoria/INT.md "INT") e [AGI](../Sem%20categoria/AGI.md "AGI") do alvo, não podendo ser menor que 1 segundo.
 - Não funciona contra [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") Chefes.
 - Pode ser cancelada por:
-  - [![Pó de Yggdrasil](../images/f/f4/P%C3%B3_de_Yggdrasil.png)](P%C3%B3%20de%20Yggdrasil.md "Pó de Yggdrasil") [Pó de Yggdrasil](P%C3%B3%20de%20Yggdrasil.md "Pó de Yggdrasil")
-  - [![Aumentar Agilidade](../images/d/d9/Aumentar_Agilidade.png)](Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](Aumentar%20Agilidade.md "Aumentar Agilidade")
-  - [![Propulsão do Carrinho](../images/4/43/Propuls%C3%A3o_do_Carrinho.png)](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho") [Propulsão do Carrinho](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho")
-  - [![Impulso no Carrinho](../images/5/52/Impulso_no_Carrinho.png)](Impulso%20no%20Carrinho.md "Impulso no Carrinho") [Impulso no Carrinho](Impulso%20no%20Carrinho.md "Impulso no Carrinho")
+  - [![Pó de Yggdrasil](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/P%C3%B3_de_Yggdrasil.png)](P%C3%B3%20de%20Yggdrasil.md "Pó de Yggdrasil") [Pó de Yggdrasil](P%C3%B3%20de%20Yggdrasil.md "Pó de Yggdrasil")
+  - [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](Aumentar%20Agilidade.md "Aumentar Agilidade")
+  - [![Propulsão do Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Propuls%C3%A3o_do_Carrinho.png)](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho") [Propulsão do Carrinho](Propuls%C3%A3o%20do%20Carrinho.md "Propulsão do Carrinho")
+  - [![Impulso no Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Impulso_no_Carrinho.png)](Impulso%20no%20Carrinho.md "Impulso no Carrinho") [Impulso no Carrinho](Impulso%20no%20Carrinho.md "Impulso no Carrinho")
 - Armas relacionadas:
   - ![1176.png](http://static.divine-pride.net/images/items/item/1176.png) [Dilaceradora](http://www.divine-pride.net/database/item/1176/)
   - ![13195.png](http://static.divine-pride.net/images/items/item/13195.png) [Rifle de Atraso](http://www.divine-pride.net/database/item/13195/)

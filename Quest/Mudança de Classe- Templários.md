@@ -14,13 +14,13 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 504.png 6 a 12 [Poções Brancas](http://www.divine-pride.net/database/item/504/) |
 | **Recompensa** | Muda a classe para [Templário](../Sem%20categoria/Templ%C3%A1rio.md "Templário") |
 
-[![MapaChave GuildaTemplarios](../images/6/69/MapaChave_GuildaTemplarios.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_GuildaTemplarios.png)
+[![MapaChave GuildaTemplarios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/MapaChave_GuildaTemplarios.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_GuildaTemplarios.png)
 
 Mapa-chave. Clique para ampliar.
 
 1. Com um [Rosário](http://www.divine-pride.net/database/item/2608/) equipado, fale com o Líder dos Templários (prt\_cas 251,75)
 
-   :   ![Templa0](../images/f/f9/Templa0.png)
+   :   ![Templa0](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Templa0.png)
 
    - Utilize o mapa **ao lado** para se localizar.
    - O Líder pedirá uma lista de itens, que pode ser 1 das 3 opções abaixo.
@@ -42,14 +42,14 @@ Mapa-chave. Clique para ampliar.
        - ![901.png](http://static.divine-pride.net/images/items/item/901.png) 10 [Trança](http://www.divine-pride.net/database/item/901/)
 2. Com um [Rosário](http://www.divine-pride.net/database/item/2608/) equipado, inicie o teste com Murnak Mijoul (prt\_cas 238,94)
 
-   :   ![Templa1](../images/7/7f/Templa1.png)
+   :   ![Templa1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/Templa1.png)
 
    - O objetivo é atravessar um corredor cheio de monstros agressivos, mas você **não deve** atacá-los.
    - Leve alguns itens de recuperação de [HP](../Sem%20categoria/HP.md "HP"), de movimento (como a [Bala de Guaraná](http://www.divine-pride.net/database/item/12414/)) e use [Vigor](../Suporte/Vigor.md "Vigor").
 3. Reporte o resultado para Murnak.
 4. Com um [Rosário](http://www.divine-pride.net/database/item/2608/) equipado, responda as perguntas da Templária Gabriela Valentine (prt\_church 95,127)
 
-   :   ![NPC Crusader](../images/3/3d/NPC_Crusader.png)
+   :   ![NPC Crusader](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/NPC_Crusader.png)
 
 :   :   | Questionário 1 | Respostas |
         | --- | --- |
@@ -88,7 +88,7 @@ Mapa-chave. Clique para ampliar.
 
 :   5. Com um [Rosário](http://www.divine-pride.net/database/item/2608/) equipado, traga 1 [Água Benta](http://www.divine-pride.net/database/item/523/) a Bliant Piyord (prt\_cas 261,101)
 
-    :   ![Templa2](../images/9/91/Templa2.png)
+    :   ![Templa2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Templa2.png)
 
         - Seu objetivo no teste de batalha é derrotar [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em 4 minutos.
         - Se falhar no teste, você precisa trazer mais 1 [Água Benta](http://www.divine-pride.net/database/item/523/).

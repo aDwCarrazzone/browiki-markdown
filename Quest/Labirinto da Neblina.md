@@ -17,40 +17,40 @@
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Soldado Esplêndido (bif\_fild01 158,340)
 
-   :   ![Labirinto da Neblina01](../images/d/dc/Labirinto_da_Neblina01.png)
+   :   ![Labirinto da Neblina01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Labirinto_da_Neblina01.png)
 2. Acesse o mapa pelo Túnel (bif\_fild01 161,355)
 
-   :   ![Labirinto da Neblina02](../images/4/4e/Labirinto_da_Neblina02.png)
+   :   ![Labirinto da Neblina02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Labirinto_da_Neblina02.png)
    :   *Diferente de outras [instâncias](Inst%C3%A2ncias.md "Instâncias"), o usuário poderá entrar novamente se sair do mapa.*
 3. Seu objetivo é derrotar um Jardineiro e cortar sua Árvore para seguir adiante.
 4. Tom
 
-   :   [![Labirinto da Neblina03](../images/4/4e/Labirinto_da_Neblina03.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina03.png)
+   :   [![Labirinto da Neblina03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Labirinto_da_Neblina03.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina03.png)
 
    - O 1º jardineiro é [Tom](http://www.divine-pride.net/database/monster/2136/). Derrote-o e corte a Árvore de Tom para seguir à ilha #6.
    - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Tuar (Tual) (1@mist 118, 43), ilha #2.
    - [Guardiã Perdida](../Quests%20de%20experi%C3%AAncia/Guardi%C3%A3%20Perdida.md "Guardiã Perdida"): Jovem Misterioso (1@mist 183, 304).
 5. Tomba
 
-   :   [![Labirinto da Neblina04](../images/9/98/Labirinto_da_Neblina04.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina04.png)
+   :   [![Labirinto da Neblina04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/Labirinto_da_Neblina04.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina04.png)
 
    - O 2º jardineiro é [Tomba](http://www.divine-pride.net/database/monster/2136/). Derrote-o e corte a Árvore de Tomba para seguir à ilha #11.
    - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Tsaihokin (Chaihokin) (1@mist 170, 54), ilha #6.
    - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Tazar (1@mist 132, 100), ilha #8.
 6. Remi
 
-   :   [![Labirinto da Neblina05](../images/9/91/Labirinto_da_Neblina05.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina05.png)
+   :   [![Labirinto da Neblina05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Labirinto_da_Neblina05.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina05.png)
 
    - O 3º jardineiro é [Remi](http://www.divine-pride.net/database/monster/2137/). Derrote-o e corte a Árvore de Remi para seguir à ilha #17.
    - Nas ilhas #11 e #12 é possível coletar [Sementes Misteriosas](http://www.divine-pride.net/database/item/12561/).
 7. Rem
 
-   :   [![Labirinto da Neblina06](../images/c/cb/Labirinto_da_Neblina06.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina06.png)
+   :   [![Labirinto da Neblina06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Labirinto_da_Neblina06.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina06.png)
 
    - O 4º jardineiro é [Rem](http://www.divine-pride.net/database/monster/2136/). Derrote-o e corte a Árvore de Rem para seguir à ilha #21.
 8. Ron
 
-   :   [![Labirinto da Neblina06x](../images/1/18/Labirinto_da_Neblina06x.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina06x.png)
+   :   [![Labirinto da Neblina06x](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Labirinto_da_Neblina06x.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina06x.png)
 
    - O 5º jardineiro é [Ron](http://www.divine-pride.net/database/monster/2134/). Derrote-o e corte a Árvore de Ron para seguir à ilha #33.
    - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Naizar (Niger) (1@mist 102, 242), ilha #30.
@@ -58,12 +58,12 @@
    - Tome cuidado na ilha #27, um portal te leva de volta para a ilha #11.
 9. Rover
 
-   :   [![Labirinto da Neblina07](../images/a/a0/Labirinto_da_Neblina07.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina07.png)
+   :   [![Labirinto da Neblina07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Labirinto_da_Neblina07.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina07.png)
 
    - O 6º jardineiro é [Rover](http://www.divine-pride.net/database/monster/2134/), o Exibido. Derrote-o e corte a Árvore de Rover para seguir à ilha #38.
 10. Mona
 
-    :   [![Labirinto da Neblina08](../images/9/90/Labirinto_da_Neblina08.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina08.png)
+    :   [![Labirinto da Neblina08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Labirinto_da_Neblina08.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina08.png)
 
     - A 7º jardineira é [Mona](http://www.divine-pride.net/database/monster/2133/), a Catadora de Sementes. Derrote-a e corte a Árvore de Mona para seguir à ilha #47.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Meshir (Messil) (1@mist 145, 245), ilha #42.
@@ -71,7 +71,7 @@
     - Na ilha #38 é possível coletar [Sementes Misteriosas](http://www.divine-pride.net/database/item/12561/).
 11. Namon
 
-    :   [![Labirinto da Neblina09](../images/c/c6/Labirinto_da_Neblina09.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina09.png)
+    :   [![Labirinto da Neblina09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/Labirinto_da_Neblina09.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina09.png)
 
     - O 8º jardineiro é [Namon](http://www.divine-pride.net/database/monster/2134/), o Corajoso. Entretanto, você deve seguir para a ilha #51, sem atravessar a Árvore de Namon ainda.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Noirit (1@mist 196, 276), ilha #49.
@@ -80,7 +80,7 @@
     - Caso tenha entrado na Árvore de Namon por engano, você deve seguir até a ilha #65 e então voltar para a ilha #29.
 12. Aracnídeo e Neo
 
-    :   [![Labirinto da Neblina10](../images/7/7c/Labirinto_da_Neblina10.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina10.png)
+    :   [![Labirinto da Neblina10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Labirinto_da_Neblina10.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina10.png)
 
     - O 9º jardineiro é [Neo](http://www.divine-pride.net/database/monster/2137/), o Infeliz, seguido por [Aracnídeo](http://www.divine-pride.net/database/monster/2132/). Derrote-os e corte suas respectivas Árvores. Entretanto, você deve entrar pela Árvore de Neo, para seguir à ilha #51 e depois até a #40.
     - Tome cuidado com a Árvore de Aracnídeo, ela leva você de volta para a ilha #29.
@@ -90,7 +90,7 @@
     - Corte a Árvore de Namon para seguir à ilha #56.
 14. Tito
 
-    :   [![Labirinto da Neblina11](../images/0/06/Labirinto_da_Neblina11.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina11.png)
+    :   [![Labirinto da Neblina11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Labirinto_da_Neblina11.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina11.png)
 
     - O 11º jardineiro é [Tito](http://www.divine-pride.net/database/monster/2133/), o Trabalhador. Derrote-o e corte a Árvore de Tito para seguir à ilha #65.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Kunmoon (1@mist 284, 84), ilha #63.
@@ -101,7 +101,7 @@
     - Na ilha #56 é possível coletar [Sementes Misteriosas](http://www.divine-pride.net/database/item/12561/).
 15. Pumba
 
-    :   [![Labirinto da Neblina12](../images/9/9a/Labirinto_da_Neblina12.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina12.png)
+    :   [![Labirinto da Neblina12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Labirinto_da_Neblina12.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina12.png)
 
     - O 12º jardineiro é [Pumba](http://www.divine-pride.net/database/monster/2134/), o Diligente. Derrote-o e corte a Árvore de Pumba para seguir à ilha #69.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Pajama Sin (1@mist 304, 327), ilha #67.
@@ -112,14 +112,14 @@
       - Neste caso, você deve voltar para a ilha #56 para falar com Loki e a Moça Desmaiada (1@mist 181, 303). Utilize o portal para a ilha #29.
 16. Tete
 
-    :   [![Labirinto da Neblina13](../images/5/56/Labirinto_da_Neblina13.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina13.png)
+    :   [![Labirinto da Neblina13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Labirinto_da_Neblina13.png)](https://browiki.org/wiki/Arquivo%3ALabirinto_da_Neblina13.png)
 
     - O 13º jardineiro é [Tete](http://www.divine-pride.net/database/monster/2136/), o Descuidado. Derrote-o e corte a Árvore de Tete para voltar à ilha #69.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Mendel (1@mist 334, 287), ilha #74.
     - [Guia das Almas](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md#Guia_das_Almas "Aventuras na Vila"): Restos de Milebit (1@mist 330, 177), ilha #75.
 17. Jardim de Todos
 
-    :   ![Labirinto da Neblina14](../images/8/8a/Labirinto_da_Neblina14.png)
+    :   ![Labirinto da Neblina14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Labirinto_da_Neblina14.png)
 
     - Siga para a ilha #78 e derrote novamente todos os 13 jardineiros.
     - Retorne para a ilha #69 cortando a Árvore de Tete.

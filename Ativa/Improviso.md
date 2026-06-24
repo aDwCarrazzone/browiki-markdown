@@ -32,14 +32,14 @@ Tem chance de retirar efeitos de Coral atuantes sobre o personagem selecionado.
 
 ### Corais removidos
 
-- [![Orvalho de Idun](../images/0/0a/Orvalho_de_Idun.png)](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun")
-- [![Canção de Alfheim](../images/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
-- [![Clamor de Batalha](../images/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
-- [![Cântico da Iluminação](../images/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
-- [![Prelúdio do Ragnarök](../images/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
-- [![Embalos de Sábado a Noite](../images/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
-- [![Murmúrio Perene](../images/a/a3/Murm%C3%BArio_Perene.png)](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene")
-- [![Dança com Lobos](../images/e/e9/Dan%C3%A7a_com_Lobos.png)](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
+- [![Orvalho de Idun](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/Orvalho_de_Idun.png)](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun") [Orvalho de Idun](../Suporte/Orvalho%20de%20Idun.md "Orvalho de Idun")
+- [![Canção de Alfheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/Can%C3%A7%C3%A3o_de_Alfheim.png)](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim") [Canção de Alfheim](../Suporte/Can%C3%A7%C3%A3o%20de%20Alfheim.md "Canção de Alfheim")
+- [![Clamor de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Clamor_de_Batalha.png)](Clamor%20de%20Batalha.md "Clamor de Batalha") [Clamor de Batalha](Clamor%20de%20Batalha.md "Clamor de Batalha")
+- [![Cântico da Iluminação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/C%C3%A2ntico_da_Ilumina%C3%A7%C3%A3o.png)](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação") [Cântico da Iluminação](C%C3%A2ntico%20da%20Ilumina%C3%A7%C3%A3o.md "Cântico da Iluminação")
+- [![Prelúdio do Ragnarök](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Prel%C3%BAdio_do_Ragnar%C3%B6k.png)](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök") [Prelúdio do Ragnarök](Prel%C3%BAdio%20do%20Ragnar%C3%B6k.md "Prelúdio do Ragnarök")
+- [![Embalos de Sábado a Noite](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Embalos_de_S%C3%A1bado_a_Noite.png)](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite") [Embalos de Sábado a Noite](Embalos%20de%20S%C3%A1bado%20a%20Noite.md "Embalos de Sábado a Noite")
+- [![Murmúrio Perene](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Murm%C3%BArio_Perene.png)](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene") [Murmúrio Perene](../Suporte/Murm%C3%BArio%20Perene.md "Murmúrio Perene")
+- [![Dança com Lobos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Dan%C3%A7a_com_Lobos.png)](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos") [Dança com Lobos](../Suporte/Dan%C3%A7a%20com%20Lobos.md "Dança com Lobos")
 
 ## Notas
 

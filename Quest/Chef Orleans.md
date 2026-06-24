@@ -13,16 +13,16 @@
 | **[Itens](../Itens/Itens.md "Itens")** | 7472.png 1 [Livro de Culinária Nível 1](http://www.divine-pride.net/database/item/7472/)  12125.png 10 [Kit de Culinária Portátil](http://www.divine-pride.net/database/item/12125/)  12126.png 10 [Kit de Culinária Caseiro](http://www.divine-pride.net/database/item/12126/)  555.png 1 [Bolinho de Arroz](http://www.divine-pride.net/database/item/555/)  12111.png 1 [Comida nv. 1 aleatória](http://www.divine-pride.net/database/item/12111/) |
 | **Recompensa** | Aprende [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") |
 
-[![MapaChave EmergenciaCulinaria](../images/e/e1/MapaChave_EmergenciaCulinaria.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_EmergenciaCulinaria.png)
+[![MapaChave EmergenciaCulinaria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/MapaChave_EmergenciaCulinaria.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_EmergenciaCulinaria.png)
 
 Mapa-chave. Clique para ampliar.
 
 1. Encontre Madeleine Chu (prt\_cas 329,206)
 
-   :   ![Cozinha01 n](../images/5/5e/Cozinha01_n.png)
+   :   ![Cozinha01 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Cozinha01_n.png)
 2. Fale com Charles Orleans (prt\_cas 324,200)
 
-   :   ![Cozinha02 n](../images/3/3f/Cozinha02_n.png)
+   :   ![Cozinha02 n](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Cozinha02_n.png)
 
    - Ele pede que você traga 1 dos 6 conjuntos de itens listados abaixo. Preste atenção em qual conjunto ele deseja, pois os ingredientes não serão repetidos.
    - **Conjunto 1**:
@@ -55,7 +55,7 @@ Mapa-chave. Clique para ampliar.
    - Os ingredientes dos pratos encontram-se nos conjuntos acima.
 5. Pegue 1 [Bolinho de Arroz](http://www.divine-pride.net/database/item/555/) com o Servo (payon 209,127)
 
-   :   ![Cozinha03](../images/3/3e/Cozinha03.png)
+   :   ![Cozinha03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/Cozinha03.png)
 6. Receba 10 [Kits de Culinária Caseira](http://www.divine-pride.net/database/item/12126/) de Madeleine Chu.
 7. Agora você pode trocar Livros de Receita com Charles Orleans, basta trazer um Livro no inventário e trocá-lo por outro de nível 1 ao 5.
    - Não é possível trocar livros de outros personagens, o [NPC](../Sem%20categoria/NPC.md "NPC") sabe qual livro doou para você.

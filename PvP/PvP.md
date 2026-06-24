@@ -2,7 +2,7 @@
 
 # PvP
 
-![PvPbatalha](../images/1/18/PvPbatalha.jpg)
+![PvPbatalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/PvPbatalha.jpg)
 
 PvP é a abreviação de *Player versus Player*, um ambiente destinado a duelos entre personagens, [grupos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e [clãs](../Sem%20categoria/Cl%C3%A3s.md "Clãs").
 
@@ -16,7 +16,7 @@ PvP é a abreviação de *Player versus Player*, um ambiente destinado a duelos 
 
 - Para entrar no PvP, fale com o Porteiro do PvP, localizado nas principais cidades.
 
-  :   ![PorteirodoPvP](../images/1/1c/PorteirodoPvP.png)
+  :   ![PorteirodoPvP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/PorteirodoPvP.png)
 
   - (prt\_in 56,140)
   - (geffen\_in 67,63)
@@ -26,7 +26,7 @@ PvP é a abreviação de *Player versus Player*, um ambiente destinado a duelos 
 - É necessário ter o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "Nível de base") maior ou igual a 31 e pagar uma taxa de 500 [zenys](../Sem%20categoria/Zenys.md "Zenys").
 - Na sala de espera, fale com o Recepcionista e selecione o mapa que deseja entrar.
 
-  :   ![NarradordoPvP](../images/0/02/NarradordoPvP.png)
+  :   ![NarradordoPvP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/NarradordoPvP.png)
 - Seu ranking aparece no canto inferior direito da tela, sobre o total de pessoas no local.
 - Você não perde pontos de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") ao morrer em um mapa de PvP.
 - Antes de entrar numa sala de PvP, o [NPC](../Sem%20categoria/NPC.md "NPC") perguntará a modalidade do combate.

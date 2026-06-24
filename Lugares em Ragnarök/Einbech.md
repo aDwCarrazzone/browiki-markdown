@@ -2,7 +2,7 @@
 
 # Einbech
 
-[![Einbech artwork](../images/c/c4/Einbech_artwork.png)](https://browiki.org/wiki/Arquivo%3AEinbech_artwork.png)
+[![Einbech artwork](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Einbech_artwork.png)](https://browiki.org/wiki/Arquivo%3AEinbech_artwork.png)
 
 Fábricas emitindo fumaça.
 
@@ -44,7 +44,7 @@ Assim nasceu Einbech, a cidade que toma conta de extrair todos os minerais neces
 
 ## Quests & Calabouços
 
-[![CORsecurity art](../images/b/b8/CORsecurity_art.png)](https://browiki.org/wiki/Arquivo%3ACORsecurity_art.png)
+[![CORsecurity art](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/CORsecurity_art.png)](https://browiki.org/wiki/Arquivo%3ACORsecurity_art.png)
 
 O Distrito COR.
 
@@ -77,7 +77,7 @@ O Distrito COR.
 
 - Converse com Elmen, o Mestre de Obras (einbech 149,257) que oferecerá 3 opções.
 
-  :   ![Elmenobra](../images/6/6e/Elmenobra.png)
+  :   ![Elmenobra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Elmenobra.png)
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

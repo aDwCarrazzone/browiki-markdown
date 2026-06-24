@@ -2,7 +2,7 @@
 
 # Espaço Dimensional
 
-[![Fenda Dimensional](../images/d/d9/Fenda_Dimensional.jpg)](https://browiki.org/wiki/Arquivo%3AFenda_Dimensional.jpg)
+[![Fenda Dimensional](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Fenda_Dimensional.jpg)](https://browiki.org/wiki/Arquivo%3AFenda_Dimensional.jpg)
 
 Fissura Dimensional
 

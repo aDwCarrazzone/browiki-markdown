@@ -52,7 +52,7 @@ Para começar sua jornada em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%
 
 - Clique na **imagem** da habilidade para ler a descrição detalhada.
 
-![SkilltreeMagos](../images/4/41/SkilltreeMagos.png)
+![SkilltreeMagos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/SkilltreeMagos.png)
 
 ### Velocidade de ataque
 

@@ -18,10 +18,10 @@
 
 1. Converse com o Prisioneiro 243AD265 (prt\_prison 243,259)
 
-   :   ![Drake Preso](../images/6/66/Drake_Preso.png)
+   :   ![Drake Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Drake_Preso.png)
 2. Localize o Vulto espalhado no mapa.
 
-   :   ![Drake Preso 1](../images/0/05/Drake_Preso_1.png)
+   :   ![Drake Preso 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Drake_Preso_1.png)
 
    - Fale com a Forma Escura até receber a [Carta do Prisioneiro](http://www.divine-pride.net/database/item/6925/).
    - Se a Forma Escura não estiver na localização, tente em outro ponto.
@@ -49,7 +49,7 @@
 
 1. Converse com o Prisioneiro 267BD184 (prt\_prison 268,188)
 
-   :   ![Dracula Preso](../images/6/64/Dracula_Preso.png)
+   :   ![Dracula Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/Dracula_Preso.png)
 2. Colete 20 [Olho de Sangue](http://www.divine-pride.net/database/item/6924/).
    - Esse item é adquirido ao eliminar [Observador](http://www.divine-pride.net/database/monster/3444/).
 3. Retorne ao Prisioneiro para receber a sua recompensa.
@@ -70,10 +70,10 @@
 
 1. Converse com a Prisioneira 265CM154 (prt\_prison 260,153)
 
-   :   ![Flor Preso](../images/c/ce/Flor_Preso.png)
+   :   ![Flor Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Flor_Preso.png)
 2. Seu objetivo é remover as Pilhas de Lixo espalhadas pelo mapa.
 
-   :   ![Flor Preso 1](../images/5/53/Flor_Preso_1.png)
+   :   ![Flor Preso 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Flor_Preso_1.png)
 
    - Haverá uma chance para limpar corretamente, fique limpando as pilhas até o diálogo pedir que você retorne para a Prisoneira.
 3. Volte a falar com a Prisioneira para receber a sua recompensa.
@@ -94,10 +94,10 @@
 
 1. Converse com o Prisioneiro 95EB72 (prt\_prison 101,71)
 
-   :   ![Bafome Preso](../images/8/81/Bafome_Preso.png)
+   :   ![Bafome Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Bafome_Preso.png)
 2. Colete 1 [Luz Flamejante](http://www.divine-pride.net/database/item/6923/) das Torchas espalhadas pelo mapa.
 
-   :   ![Bafome Preso 1](../images/3/3c/Bafome_Preso_1.png)
+   :   ![Bafome Preso 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Bafome_Preso_1.png)
 3. Retorne ao Prisioneiro para receber a sua recompensa.
 
 ## Umidade em Excesso
@@ -116,7 +116,7 @@
 
 1. Converse com a Prisioneira 117GD188 (prt\_prison 111,187)
 
-   :   ![Abelha Preso](../images/a/a7/Abelha_Preso.png)
+   :   ![Abelha Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Abelha_Preso.png)
 2. Colete 20 [Desumidificador](http://www.divine-pride.net/database/item/6921/).
    - Esse item é adquirido ao eliminar [Lobo de Gelo](http://www.divine-pride.net/database/monster/3442/).
 3. Retorne a Prisioneira para receber a sua recompensa.
@@ -137,7 +137,7 @@
 
 1. Converse com o Prisioneiro 103GD214 (prt\_prison 98,215)
 
-   :   ![Senhor Preso](../images/f/fa/Senhor_Preso.png)
+   :   ![Senhor Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Senhor_Preso.png)
 2. Para acalmá-lo, entregue qualquer tipo de flor.
    - Haverá uma chance da flor entregue não funcionar, ela será consumida e você terá que encontrar outra.
 3. As flores aceitas são:
@@ -172,7 +172,7 @@
 
 1. Converse com o Prisioneiro 55HK115 (prt\_prison 54,118)
 
-   :   ![Cavaleiro Preso](../images/c/c8/Cavaleiro_Preso.png)
+   :   ![Cavaleiro Preso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/Cavaleiro_Preso.png)
 2. Colete 20 [Lixa](http://www.divine-pride.net/database/item/6922/).
    - Esse item é adquirido ao eliminar [Tappy](http://www.divine-pride.net/database/monster/3443/).
 3. Retorne ao Prisioneiro para receber a sua recompensa.

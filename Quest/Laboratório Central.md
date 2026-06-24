@@ -17,19 +17,19 @@
 
 1. Fale com o Pesquisador (verus01 149,155)
 
-   :   ![PesquiCiviliza](../images/3/37/PesquiCiviliza.png)
+   :   ![PesquiCiviliza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/PesquiCiviliza.png)
 2. Entre na fila da instância clicando no Transportador.
 
-   :   ![VerusTranspo](../images/7/74/VerusTranspo.png)
+   :   ![VerusTranspo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/VerusTranspo.png)
 3. Fale com o Cientista para iniciar a história.
 
-   :   ![Centralab1](../images/5/5a/Centralab1.png)
+   :   ![Centralab1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/Centralab1.png)
 4. Pegue o **código do dia** com o Pesquisador Sênior.
 
-   :   ![Centralab2](../images/2/21/Centralab2.png)
+   :   ![Centralab2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/Centralab2.png)
 5. Atrás do Cientista, haverão 8 Interruptores onde o líder deverá ligar ou desligá-los.
 
-   :   ![Centralab3](../images/e/ea/Centralab3.png)
+   :   ![Centralab3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ea/Centralab3.png)
 
    - Seu objetivo é ligar os interruptores certos para combinar com o **código do dia**.
    - O **código do dia** é aleatório para cada ida na [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
@@ -45,10 +45,10 @@
    - Por exemplo, se o código do dia for **80**, basta ligar os interruptores 2 e 4, pois `64 + 16 = 80`
 6. Com o código correto, clique no Interruptor Geral.
 
-   :   ![Centralab4](../images/2/27/Centralab4.png)
+   :   ![Centralab4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Centralab4.png)
 7. Dirija-se para o centro do Laboratório e se aproxime dos cientistas para iniciar a história.
 
-   :   ![Centralab5](../images/b/bd/Centralab5.png)
+   :   ![Centralab5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Centralab5.png)
 
    - Durante a progressão da história, haverão 3 chances de sair um [monstro](../Sem%20categoria/Monstro.md "Monstro") aleatório.
    - Ao eliminar o terceiro monstro, a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") termina e você poderá sair pelo portal do lado oposto ao qual você entrou.

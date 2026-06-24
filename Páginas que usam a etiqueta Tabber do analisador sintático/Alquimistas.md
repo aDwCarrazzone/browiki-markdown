@@ -45,7 +45,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeAlquimistas](../images/c/ce/SkilltreeAlquimistas.png)
+![SkilltreeAlquimistas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/SkilltreeAlquimistas.png)
 
 ## Construção do Personagem
 

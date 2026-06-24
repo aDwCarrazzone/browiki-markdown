@@ -34,7 +34,7 @@ Ao atacar, cria uma chance de infligir o estado de [*Profanação*] no alvo.
 
 ### Profanação
 
-- **Ícone:** ![I Profanar Arma](../images/1/1a/I_Profanar_Arma.png)
+- **Ícone:** ![I Profanar Arma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/I_Profanar_Arma.png)
 - **Duração:** 15 segundos.
 - **Efeito:** Resistência a dano físico corpo a corpo -3%.
 - Sempre que o alvo receber o estado de Profanação, o efeito acumula.

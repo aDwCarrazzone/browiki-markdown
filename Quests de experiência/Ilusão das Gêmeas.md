@@ -16,7 +16,7 @@
 | **Recompensa** | Libera o acesso ao [Jardim da Percepção](http://www.divine-pride.net/database/map/ant_d02_i/) |
 
 - Mecânica do mapa:
-  - Para invocar uma [Maya Silente](http://www.divine-pride.net/database/monster/21395/)![MonstroMVP](../images/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar:
+  - Para invocar uma [Maya Silente](http://www.divine-pride.net/database/monster/21395/)![MonstroMVP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/MonstroMVP.png), todos os jogadores do servidor precisam eliminar:
     - 2.500 [Andre Diligente](http://www.divine-pride.net/database/monster/21386/),
     - 2.500 [Deniro Diligente](http://www.divine-pride.net/database/monster/21389/),
     - 2.500 [Piere Diligente](http://www.divine-pride.net/database/monster/21390/),
@@ -28,10 +28,10 @@
 
 1. Converse mais de uma vez com Mirko (anthell02 177,190) e selecione "*Sim*" para teleportar-se ao [Jardim da Percepção](http://www.divine-pride.net/database/map/ant_d02_i/).
 
-   :   ![Twins01](../images/c/cb/Twins01.png)
+   :   ![Twins01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Twins01.png)
 2. Encontre a Sentinela Briashen (ant\_d02\_i 44,258) e escolha qualquer opção.
 
-   :   ![Twins02](../images/4/44/Twins02.png)
+   :   ![Twins02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Twins02.png)
 3. Volte a falar com Mirko (anthell02 177,190)
 4. Retorne a Briashen (ant\_d02\_i 44,258)
 5. Agora, procure por Kharis seguindo os pontos indicados no mapa.
@@ -42,7 +42,7 @@
    - Fale com Mirko novamente para voltar ao calabouço.
 7. Encontre Briashen (ant\_d02\_i 130,73) para descobrir quem é sua gêmea.
 
-   :   ![Twins03](../images/6/6d/Twins03.png)
+   :   ![Twins03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Twins03.png)
 8. Sua personagem volta para Mirko (anthell02 177,190)
    - Você receberá ![25271.png](http://static.divine-pride.net/images/items/item/25271.png) 5 [Pedra Ilusional](http://www.divine-pride.net/database/item/25271/)
    - Você ganha 5% de [EXP](../Sem%20categoria/EXP.md "EXP") base e 2.000.000 de classe.

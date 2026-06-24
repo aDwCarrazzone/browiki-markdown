@@ -18,17 +18,17 @@
 
 1. No quarto dos Gaebolg, fale com o Guarda Costas da Rainha, Jared (prt\_cas\_q 85,127)
 
-   :   ![FamiliaReal 1](../images/d/d1/FamiliaReal_1.png)
+   :   ![FamiliaReal 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/FamiliaReal_1.png)
 2. Dirija-se ao salão do banquete e encontre Scarlet Jaha (prt\_cas 73,244)
 
-   :   ![FamiliaReal 2](../images/9/97/FamiliaReal_2.png)
+   :   ![FamiliaReal 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/FamiliaReal_2.png)
 3. Converse com Lidion Gaebolg, próximo a Scarlet.
 
-   :   ![FamiliaReal 3](../images/b/b9/FamiliaReal_3.png)
+   :   ![FamiliaReal 3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/FamiliaReal_3.png)
 4. Retorne a Scarlet Jaha, que pedirá pistas para encontrar o Príncipe Ernest Gaebolg.
 5. Seu objetivo é caminhar nas coordenadas para ativar diálogos.
 
-   :   ![FamiliaReal 4](../images/7/7a/FamiliaReal_4.png)
+   :   ![FamiliaReal 4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/FamiliaReal_4.png)
 
    - Localizações:
      - (prt\_cas 77,258)
@@ -43,7 +43,7 @@
 
 ## Os Nerius
 
-![Nerius](../images/1/10/Nerius.png)
+![Nerius](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Nerius.png)
 
 Sem missões.
 
@@ -64,21 +64,21 @@ Sem missões.
 
 1. No quarto dos Walther, aceite ajudar Isenhonor Walther (prt\_cas\_q 13,185)
 
-   :   ![Isenhonor](../images/7/7b/Isenhonor.png)
+   :   ![Isenhonor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Isenhonor.png)
 2. Encontre o Mordomo dos Walthers (alberta 48,30)
 
-   :   ![FamiliaReal 5](../images/f/f1/FamiliaReal_5.png)
+   :   ![FamiliaReal 5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/FamiliaReal_5.png)
 3. Fale com o Cavaleiro Guardião (alberta 187,147)
 
-   :   ![FamiliaReal 6](../images/c/c6/FamiliaReal_6.png)
+   :   ![FamiliaReal 6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c6/FamiliaReal_6.png)
 4. Dirija-se ao Palácio de Prontera e siga até a prisão para falar com Pé Grande (prt\_pri00 55,119)
 
-   :   ![FamiliaReal 7](../images/d/d5/FamiliaReal_7.png)
+   :   ![FamiliaReal 7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/FamiliaReal_7.png)
 
    - Entregue para o [NPC](../Sem%20categoria/NPC.md "NPC") 1 [Salada Verde](http://www.divine-pride.net/database/item/12065/) e 3 [Pão de Carne Picante](http://www.divine-pride.net/database/item/12055/)
 5. Em [Veins](../Lugares%20em%20Ragnar%C3%B6k/Veins.md "Veins"), localize K (veins 156,160)
 
-   :   ![FamiliaReal 8](../images/b/b5/FamiliaReal_8.png)
+   :   ![FamiliaReal 8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/FamiliaReal_8.png)
 
    - Você receberá 1 [Carta com Selo](http://www.divine-pride.net/database/item/6929/).
 6. Entregue o item a Isenhonor Walther para receber a sua recompensa.
@@ -103,7 +103,7 @@ Sem missões.
 
 1. No quarto dos Lugenburg, fale com Agnes (prt\_cas\_q 96,184)
 
-   :   ![Agnes Lugenburg](../images/5/54/Agnes_Lugenburg.png)
+   :   ![Agnes Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Agnes_Lugenburg.png)
 2. Agnes pedirá itens aleatoriamente de acordo com o diálogo, então preste atenção.
 3. Entregue os itens pedidos para receber a sua recompensa.
    - Você pode usar as Marcas de Honra para [trocar por itens](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md#Marcas_de_Honra "Prontera")
@@ -119,7 +119,7 @@ Sem missões.
 
 ## Os Heine
 
-![Heine](../images/6/63/Heine.png)
+![Heine](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Heine.png)
 
 Sem missões.
 
@@ -141,7 +141,7 @@ Sem missões.
 
 1. No quarto dos Richards, fale com o Mordomo (prt\_cas\_q 80,80)
 
-   :   ![Mordomo Richard](../images/e/e4/Mordomo_Richard.png)
+   :   ![Mordomo Richard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Mordomo_Richard.png)
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") disponibiliza uma lista para matar 50 monstros de uma determinada raça.
    - A contagem de monstros mortos é feita por raça, ou seja, não importa *qual o monstro* que você caçar, mas a sua *raça*.
@@ -170,15 +170,15 @@ Sem missões.
 
 1. No quarto dos Wigner, converse com Jurgen Wigner (prt\_cas\_q 94,9)
 
-   :   ![Jurgen Wigner](../images/9/91/Jurgen_Wigner.png)
+   :   ![Jurgen Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Jurgen_Wigner.png)
 2. Colete 15 [Pedras do Mar](http://www.divine-pride.net/database/item/6927/) caçando [Medusas](http://www.divine-pride.net/database/monster/1148/).
 3. Entregue 15 [Pedras do Mar](http://www.divine-pride.net/database/item/6927/) e 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) para a Empregada (prt\_cas 322,216).
 
-   :   ![Valor S1](../images/2/27/Valor_S1.png)
+   :   ![Valor S1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Valor_S1.png)
 4. Retorne a Jurgen Wigner para receber sua recompensa.
    - Você pode usar as Marcas de Honra para [trocar por itens](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md#Marcas_de_Honra "Prontera")
 
-![SagaEpisodios](../images/0/0a/SagaEpisodios.png)
+![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
 | Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

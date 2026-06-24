@@ -18,7 +18,7 @@
 
 1. Aproxime-se para Oscar aparecer (glast\_01 241,290) e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 
-   :   ![EddaGH01](../images/a/ab/EddaGH01.png)
+   :   ![EddaGH01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/EddaGH01.png)
 2. Você passará por 4 cômodos eliminando monstros para avançar ao próximo quarto.
    1. Cozinha:
       - [Servente Maldita](http://www.divine-pride.net/database/monster/20392/).
@@ -32,7 +32,7 @@
    - Sempre que limpar uma área, seu personagem será teleportado para a próxima.
 3. No salão principal, fale com Oscar para que o [Schmidt Corrompido](http://www.divine-pride.net/database/monster/20387/) apareça.
 
-   :   ![EddaGH05](../images/9/94/EddaGH05.png)
+   :   ![EddaGH05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/EddaGH05.png)
 4. O salão tem algumas mecânicas durante a batalha.
    1. **Siga-me!**
       - O [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") se moverá em uma das 4 direções do mapa, obrigando atacantes corpo a corpo a pararem de atacar e se moverem.

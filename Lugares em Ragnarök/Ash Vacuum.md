@@ -2,7 +2,7 @@
 
 # Ash Vacuum
 
-[![Ashvacuum city](../images/c/c9/Ashvacuum_city.jpg)](https://browiki.org/wiki/Arquivo%3AAshvacuum_city.jpg)
+[![Ashvacuum city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Ashvacuum_city.jpg)](https://browiki.org/wiki/Arquivo%3AAshvacuum_city.jpg)
 
 Outra Dimensão
 
@@ -47,7 +47,7 @@ Esplêndidos vieram de sua terra natal, Álfheim, atravessando Bifröst, a ponte
 
 ## Quests & Calabouços
 
-[![Acampamento](../images/d/d4/Acampamento.jpg)](https://browiki.org/wiki/Arquivo%3AAcampamento.jpg)
+[![Acampamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Acampamento.jpg)](https://browiki.org/wiki/Arquivo%3AAcampamento.jpg)
 
 Acampamento da Expedição da Aliança
 

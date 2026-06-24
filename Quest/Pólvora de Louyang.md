@@ -14,7 +14,7 @@
 
 1. Crie um [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e fale com a Pessoa Escondida (lou\_in02 77,37)
 
-   :   ![Pólvora de Louyang01](../images/f/f2/P%C3%B3lvora_de_Louyang01.png)
+   :   ![Pólvora de Louyang01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/P%C3%B3lvora_de_Louyang01.png)
 2. A próxima etapa requer adicionar 8 pessoas em seu grupo, para isso dar certo, faça o seguinte:
    - Convide uma pessoa para seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo");
    - O novo membro do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve conversar com o [NPC](../Sem%20categoria/NPC.md "NPC");
@@ -25,7 +25,7 @@
    - Nenhum membro do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deverá ter esses itens em seu inventário, do contrário a missão estará comprometida.
 4. Dirija-se ao Palácio e procure pelo Produtor de Pólvora (lou\_in01 43,147)
 
-   :   ![Pólvora de Louyang02](../images/6/63/P%C3%B3lvora_de_Louyang02.png)
+   :   ![Pólvora de Louyang02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/P%C3%B3lvora_de_Louyang02.png)
 5. O dono do [carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") deverá entregar 1 [Monte de Lama](http://www.divine-pride.net/database/item/7004/), 1 [Madeira Queimada](http://www.divine-pride.net/database/item/7068/) e 1 [Pedra Pome](http://www.divine-pride.net/database/item/7096/) para cada membro de seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
 6. Cada membro do [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") deve falar com o Produtor de Pólvora para fabricar uma [Pólvora](http://www.divine-pride.net/database/item/7204/).
    - Novamente, guarde todas as [Pólvoras](http://www.divine-pride.net/database/item/7204/) no [carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") e saiam do Palácio.

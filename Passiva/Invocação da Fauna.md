@@ -24,10 +24,10 @@ Aumenta o dano das habilidades de Fauna de acordo com a porcentagem de [HP](../S
 
 ### Habilidades afetadas
 
-- [![Chilique de Picky](../images/7/71/Chilique_de_Picky.png)](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky")
-- [![Ferida de Tarou](../images/e/e5/Ferida_de_Tarou.png)](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou")
-- [![Cometas Lunáticos](../images/9/9c/Cometas_Lun%C3%A1ticos.png)](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos")
-- [![Ataque Selvagem](../images/5/57/Ataque_Selvagem.png)](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem")
+- [![Chilique de Picky](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Chilique_de_Picky.png)](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky")
+- [![Ferida de Tarou](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Ferida_de_Tarou.png)](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou")
+- [![Cometas Lunáticos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Cometas_Lun%C3%A1ticos.png)](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos")
+- [![Ataque Selvagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Ataque_Selvagem.png)](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem")
 
 | *O Poder da Natureza* | | | |
 | --- | --- | --- | --- |

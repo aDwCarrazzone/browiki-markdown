@@ -14,10 +14,10 @@
 
 1. Com 1 [Tanque Velho](http://www.divine-pride.net/database/item/6962/) no inventário, fale com MARS\_01 (verus04 164,219)
 
-   :   ![MARS](../images/e/eb/MARS.png)
+   :   ![MARS](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/MARS.png)
 2. Agora você pode falar com PLUTO\_09 (verus04 165,217)
 
-   :   ![PLUTO](../images/a/a7/PLUTO.png)
+   :   ![PLUTO](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/PLUTO.png)
 
    - Entregue 5 [Tanques Velhos](http://www.divine-pride.net/database/item/6962/) e 10 [Blocos de Sucata](http://www.divine-pride.net/database/item/6961/) para conseguir o equipamento Excelion de sua escolha:
      - ![15128.png](http://static.divine-pride.net/images/items/item/15128.png) [Colete Excelion](http://www.divine-pride.net/database/item/15128/)

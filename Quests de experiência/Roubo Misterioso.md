@@ -15,13 +15,13 @@
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 750.000 |
 | **[Itens](../Itens/Itens.md "Itens")** | 6081.png 2 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/)  607.png 2 [Frutos de Yggdrasil](http://www.divine-pride.net/database/item/607/)  608.png 2 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  645.png 2 [Poções da Concentração](http://www.divine-pride.net/database/item/645/)  6558.png 20 [Pilhas de Avelãs](http://www.divine-pride.net/database/item/6558/) |
 
-[![Roubo Misterioso02](../images/4/42/Roubo_Misterioso02.png)](https://browiki.org/wiki/Arquivo%3ARoubo_Misterioso02.png)
+[![Roubo Misterioso02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Roubo_Misterioso02.png)](https://browiki.org/wiki/Arquivo%3ARoubo_Misterioso02.png)
 
 Mapa-Chave: Yai
 
 1. Aproxime-se da Entrada da Casa (eclage 156,54)
 
-   :   ![Roubo Misterioso01](../images/f/fb/Roubo_Misterioso01.png)
+   :   ![Roubo Misterioso01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Roubo_Misterioso01.png)
 2. No Yai, ofereça ajuda para Luen, a filha.
 3. Fale com Dames, o pai.
 4. Converse com Rosa, a mãe.
@@ -36,14 +36,14 @@ Mapa-Chave: Yai
 7. Reencontre Luen, a filha.
 8. Pegue 1 [Poção da Concentração](http://www.divine-pride.net/database/item/645/) com Cruyan (eclage 164,102)
 
-   :   ![Roubo Misterioso03](../images/0/06/Roubo_Misterioso03.png)
+   :   ![Roubo Misterioso03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Roubo_Misterioso03.png)
 9. Derrote 30 [Petals](http://www.divine-pride.net/database/monster/2364/) e 5 [Menblatt](http://www.divine-pride.net/database/monster/2363/).
 10. Interrogue Balumin (ecl\_fild01 98,299)
 
-    :   ![Roubo Misterioso04](../images/e/ed/Roubo_Misterioso04.png)
+    :   ![Roubo Misterioso04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Roubo_Misterioso04.png)
 11. Após pagar 10.000 [zenys](../Sem%20categoria/Zenys.md "Zenys"), diga que é tudo uma fraude para o Mercador Errante (eclage 222,131)
 
-    :   ![Roubo Misterioso05](../images/4/4e/Roubo_Misterioso05.png)
+    :   ![Roubo Misterioso05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Roubo_Misterioso05.png)
 12. Volte a Luen, a filha.
     - Selecione:
       - *Descobri quem era o ladrão.*

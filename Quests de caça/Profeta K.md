@@ -14,7 +14,7 @@
 
 1. Todo mês, você pode receber um desafio do Profeta K (prontera 163,155)
 
-   :   ![ProfetaKlatam](../images/4/4f/ProfetaKlatam.png)
+   :   ![ProfetaKlatam](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/ProfetaKlatam.png)
 
    - Você deverá coletar 100 e mais 100 Fragmentos de Alma do Signo do mês.
    - Para coletar esses fragmentos, você precisa caçar o monstro mencionado.

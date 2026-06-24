@@ -36,7 +36,7 @@ Se o M.E.C.H.A. receber danos físicos ou mágicos, poderá sofrer de *Superaque
 
 ### Superaquecimento
 
-- Ícone: ![I Superaquecimento](../images/3/34/I_Superaquecimento.png)
+- Ícone: ![I Superaquecimento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/I_Superaquecimento.png)
 - Enquanto pilotar um M.E.C.H.A., cada dano recebido equivale a 1 ponto e cada dano de propriedade [fogo](../Sem%20categoria/Fogo.md "Fogo") fornece +3 pontos.
 - O superaquecimento inicia ao atingir 150 pontos ou o limite definido por [Reforçar Estrutura](Refor%C3%A7ar%20Estrutura.md "Reforçar Estrutura").
 - Durante esse estado, 1% de [HP](../Sem%20categoria/HP.md "HP") será drenado a cada segundo, mas não causa morte instantânea.

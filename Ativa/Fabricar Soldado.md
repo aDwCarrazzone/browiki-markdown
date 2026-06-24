@@ -34,7 +34,7 @@ Enquanto estiver invocado, garante efeitos adicionais.
 
 ### Efeitos adicionais
 
-- [![Brandir Machado](../images/3/30/Brandir_Machado.png)](../Ofensiva/Brandir%20Machado.md "Brandir Machado") [Brandir Machado](../Ofensiva/Brandir%20Machado.md "Brandir Machado"):
+- [![Brandir Machado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Brandir_Machado.png)](../Ofensiva/Brandir%20Machado.md "Brandir Machado") [Brandir Machado](../Ofensiva/Brandir%20Machado.md "Brandir Machado"):
   - Aumenta o dano causado.
   - Passa a infligir 2 ataques, ao invés de 1.
 

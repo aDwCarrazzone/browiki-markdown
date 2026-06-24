@@ -15,16 +15,16 @@
 
 1. Pergunte sobre o Vulcão de Thor para o Sumo Sacerdote Zhed (ra\_temin 276,159)
 
-   :   ![Zhed](../images/a/ad/Zhed.png)
+   :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
    - Digite:
      - `Varmunt`
 2. Pergunte sobre Karlum para a Adepta (ra\_temin 40,124)
 
-   :   ![BvT01](../images/6/60/BvT01.png)
+   :   ![BvT01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/BvT01.png)
 3. Fale com o Soldado Karlum (ra\_temin 87,133)
 
-   :   ![BvT01a](../images/d/d3/BvT01a.png)
+   :   ![BvT01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/BvT01a.png)
 
    - Selecione::
      - *Pensar em uma distração.*
@@ -32,50 +32,50 @@
      - `Lamir`
 4. Destrua o Vaso de Flores (ra\_temin 114,139)
 
-   :   ![BvT02](../images/5/52/BvT02.png)
+   :   ![BvT02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/BvT02.png)
 5. No quarto, procure pela [Pasta de Arquivos](http://www.divine-pride.net/database/item/7342/) nas gavetas (ra\_temin 84,114)
 
-   :   ![BvT03](../images/d/dc/BvT03.png)
+   :   ![BvT03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/BvT03.png)
 6. Clique na escada para escapar.
 
-   :   ![BvT04](../images/b/b0/BvT04.png)
+   :   ![BvT04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/BvT04.png)
 7. Mostre a [Pasta de Arquivos](http://www.divine-pride.net/database/item/7342/) para Zhed. (ra\_temin 276,159)
 
-   :   ![Zhed](../images/a/ad/Zhed.png)
+   :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 8. Ative um diálogo no segundo andar da Loja de Armas (ve\_in 282,223)
 
-   :   ![BvT05](../images/f/f5/BvT05.png)
+   :   ![BvT05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/BvT05.png)
 9. Consiga uma [Nota do Geólogo](http://www.divine-pride.net/database/item/7705/) com o Homem (ve\_in 233,116)
 
-   :   ![BvT06](../images/6/6c/BvT06.png)
+   :   ![BvT06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/BvT06.png)
 10. Retorne para a Loja de Armas e procure pelo [Termômetro quebrado](http://www.divine-pride.net/database/item/7704/) no Armário (ve\_in 278,229)
 
-    :   ![BvT017](../images/4/4a/BvT017.png)
+    :   ![BvT017](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/BvT017.png)
 11. Clique na Estante apenas para ler o diálogo (ve\_in 279,213)
 
-    :   ![BvT08](../images/b/b1/BvT08.png)
+    :   ![BvT08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/BvT08.png)
 12. Faça a aferição de temperatura do vulcão nas Superfície Quentes.
     - (thor\_v01 40,231)
 
-      :   ![Superficiequente1](../images/3/3f/Superficiequente1.png)
+      :   ![Superficiequente1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Superficiequente1.png)
     - (thor\_v02 165,39)
 
-      :   ![Superficiequente2](../images/a/a4/Superficiequente2.png)
+      :   ![Superficiequente2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a4/Superficiequente2.png)
     - (thor\_v02 166,99)
 
-      :   ![Superficiequente3](../images/9/9d/Superficiequente3.png)
+      :   ![Superficiequente3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Superficiequente3.png)
 13. Entre na base através do Soldado (que\_thor 136,65)
 
-    :   ![BvT09](../images/2/23/BvT09.png)
+    :   ![BvT09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/23/BvT09.png)
 14. Procure Sahedi (thor\_camp 249,104)
 
-    :   ![BvT010](../images/f/fe/BvT010.png)
+    :   ![BvT010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/BvT010.png)
 15. Ative o diálogo nas coordenadas (thor\_camp 194,220)
 
-    :   ![BvT011](../images/8/82/BvT011.png)
+    :   ![BvT011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/BvT011.png)
 16. Você estará frente a frente com o Coronel Vito. (thor\_camp 159,74)
 
-    :   ![BvT012](../images/a/a8/BvT012.png)
+    :   ![BvT012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/BvT012.png)
 
     - Converse com o [NPC](../Sem%20categoria/NPC.md "NPC") diversas vezes.
     - Quando pedido, responda *Freya*.
@@ -91,31 +91,31 @@
 
 1. Inspecione o Painel de Controle (thor\_camp 111,167)
 
-   :   ![BvT013](../images/6/66/BvT013.png)
+   :   ![BvT013](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/BvT013.png)
 2. Retorne ao Coronel Vito (thor\_camp 159,74)
 
-   :   ![BvT012](../images/a/a8/BvT012.png)
+   :   ![BvT012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/BvT012.png)
 3. Dê 10 golpes no Boneco. Se passar desse número, ele pede que você ataque o boneco novamente.
 
-   :   ![BvT014](../images/5/5d/BvT014.png)
+   :   ![BvT014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/BvT014.png)
 4. Fale com o Coronel Vito (thor\_camp 159,74)
 
-   :   ![BvT012](../images/a/a8/BvT012.png)
+   :   ![BvT012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/BvT012.png)
 5. Investigue as coordenadas (thor\_camp 173,131)
 
-   :   ![BvT015](../images/d/dd/BvT015.png)
+   :   ![BvT015](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/BvT015.png)
 6. Faça o mesmo no ponto (thor\_camp 154,310)
 
-   :   ![BvT016](../images/6/6e/BvT016.png)
+   :   ![BvT016](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/BvT016.png)
 7. Relate a Sahedi a situação, selecionando a opção "Sim". (thor\_camp 249,104)
 
-   :   ![BvT010](../images/f/fe/BvT010.png)
+   :   ![BvT010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/BvT010.png)
 8. Entregue o item ao Homem no bar (ve\_in 233,116)
 
-   :   ![BvT06](../images/6/6c/BvT06.png)
+   :   ![BvT06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/BvT06.png)
 9. Receba sua recompensa vasculhando a Estante (ve\_in 279,213)
 
-   :   ![BvT08](../images/b/b1/BvT08.png)
+   :   ![BvT08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/BvT08.png)
 
    - Você receberá um dos itens abaixo de forma aleatória e parte da recompensa em [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência"):
      - 5 [Caixas Risonhas](http://www.divine-pride.net/database/item/12027/)
@@ -125,9 +125,9 @@
      - 1 [Aljave Aleatório](http://www.divine-pride.net/database/item/12104/)
 10. Volte ao Sumo Sacerdote Zhed para receber o restante da [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") (ra\_temin 276,159)
 
-    :   ![Zhed](../images/a/ad/Zhed.png)
+    :   ![Zhed](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Zhed.png)
 
-![Saga2](../images/f/f4/Saga2.png)
+![Saga2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Saga2.png)
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

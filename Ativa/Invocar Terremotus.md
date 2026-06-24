@@ -32,7 +32,7 @@ Enquanto estiver ativo, fornece bônus independente do nível de [Domínio Eleme
 ### Bônus
 
 - Dano mágico de propriedade [Terra](../Sem%20categoria/Terra.md "Terra") +10%.
-- Aumenta o dano base de [![Tremor de Terra](../images/8/8b/Tremor_de_Terra.png)](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra") [Tremor de Terra](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra")
+- Aumenta o dano base de [![Tremor de Terra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Tremor_de_Terra.png)](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra") [Tremor de Terra](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra")
 
 ### Status do Elemental
 

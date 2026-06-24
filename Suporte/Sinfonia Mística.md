@@ -28,9 +28,9 @@ Entra em estado de [*Sinfonia Mística*].
 
 Enquanto estiver ativa:
 
-- Dano de [![Atirar Rosas](../images/b/be/Atirar_Rosas.png)](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") +100%.
-- Dano de [![Arranjo Musical](../images/a/a8/Arranjo_Musical.png)](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") [Arranjo Musical](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") +100%.
-- Dano de [![Disparo Rítmico](../images/a/aa/Disparo_R%C3%ADtmico.png)](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") +100%.
+- Dano de [![Atirar Rosas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Atirar_Rosas.png)](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") [Atirar Rosas](../Ofensiva/Atirar%20Rosas.md "Atirar Rosas") +100%.
+- Dano de [![Arranjo Musical](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Arranjo_Musical.png)](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") [Arranjo Musical](../Ofensiva/Arranjo%20Musical.md "Arranjo Musical") +100%.
+- Dano de [![Disparo Rítmico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Disparo_R%C3%ADtmico.png)](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") [Disparo Rítmico](../Ofensiva/Disparo%20R%C3%ADtmico.md "Disparo Rítmico") +100%.
 - Dano físico e mágico contra a raça [Peixe](../Sem%20categoria/Peixe.md "Peixe") +50%.
 - Dano físico e mágico contra a raça [Humanoide](../Sem%20categoria/Humanoide.md "Humanoide") +50%.
 

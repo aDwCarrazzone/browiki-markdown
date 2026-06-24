@@ -2,7 +2,7 @@
 
 # Navegação
 
-![Navegacao new](../images/1/10/Navegacao_new.gif)
+![Navegacao new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Navegacao_new.gif)
 
 O sistema de navegação fornece indicações na sua tela a fim de te guiar pelo melhor caminho para encontrar [mapas](../Lugares%20em%20Ragnar%C3%B6k/Mapas.md "Mapas"), [NPCs](../Sem%20categoria/NPC.md "NPC"), [monstros](Monstros.md "Monstros") e coordenadas específicas.
 
@@ -28,7 +28,7 @@ Além da Janela de Navegação, o sistema conta com um mini-mapa que pode ser am
 - Você pode selecionar o Mundo no canto superior esquerdo, entre: Midgard, Norte de Midgard, Ash Vacuum, Espaço Dimensional, Ilha-Nação 1 e 2 e Pasta.
 - O Mapa-múndi é clicável, podendo selecionar um mapa para exibir as informações de monstros e rotas.
 
-  :   ![Mapaclickable](../images/5/5e/Mapaclickable.png)
+  :   ![Mapaclickable](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Mapaclickable.png)
 
 ### Passaporte
 
@@ -48,7 +48,7 @@ Além da Janela de Navegação, o sistema conta com um mini-mapa que pode ser am
 - Você pode dar zoom no mini-mapa, ampliá-lo para uma versão maior ou acessar o mapa-múndi.
 - O mapa ampliado permite adicionar anotações, como localização de [NPCs](../Sem%20categoria/NPC.md "NPC").
 
-  :   ![Naviminimap](../images/3/34/Naviminimap.png)
+  :   ![Naviminimap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Naviminimap.png)
 
 ## Arquivos de navegação
 
@@ -58,11 +58,11 @@ Esse sistema é muito útil para evitar ficar copiando e colando as coordenadas 
 
 1. Crie uma pasta chamada `NavigationData` no diretório onde seu jogo está instalado.
 
-   :   ![Navidata 1](../images/a/a0/Navidata_1.png)
-2. Coloque o arquivo de texto com as coordenadas desejadas dentro dessa pasta ![Navipasta](../images/8/8a/Navipasta.png)
+   :   ![Navidata 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Navidata_1.png)
+2. Coloque o arquivo de texto com as coordenadas desejadas dentro dessa pasta ![Navipasta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Navipasta.png)
 3. Abra o jogo, clique no ícone de pasta.
 
-   :   ![Navidata 2](../images/1/1b/Navidata_2.png)
+   :   ![Navidata 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Navidata_2.png)
 4. Aparecerá uma lista de [NPCs](../Sem%20categoria/NPC.md "NPC") e suas coordenadas já prontas para navegação.
 5. Clique em um dos [NPCs](../Sem%20categoria/NPC.md "NPC") para ativar.
 

@@ -13,13 +13,13 @@
 | Premiação | |
 | **Recompensa** | Libera a [Lojinha de Rua](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Lojinha%20de%20Rua.md "Lojinha de Rua") |
 
-![Alberta city](../images/c/cf/Alberta_city.jpg)
+![Alberta city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Alberta_city.jpg)
 
 Para usar uma [Lojinha de Rua](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Lojinha%20de%20Rua.md "Lojinha de Rua"), você deverá participar da União de Gestão de Lojas.
 
 1. Fale com Masha (alberta\_in 20,19)
 
-   :   ![MashaRH](../images/8/82/MashaRH.png)
+   :   ![MashaRH](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/MashaRH.png)
 
    - Esta [NPC](../Sem%20categoria/NPC.md "NPC") dará duas opções:
      - Realizar 1 missão a cada 7 dias ou
@@ -28,7 +28,7 @@ Para usar uma [Lojinha de Rua](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Lojinha%2
 
 1. Você também pode falar com Ridwan do RH (alberta\_in 20,21)
 
-   :   ![RidwanRH](../images/9/97/RidwanRH.png)
+   :   ![RidwanRH](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/RidwanRH.png)
 
    - Por 3 Passes de 1 dia, o [NPC](../Sem%20categoria/NPC.md "NPC") dará 1 Passe de 3 dias.
 

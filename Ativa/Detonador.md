@@ -21,13 +21,13 @@ Ativa o efeito de todas as armadilhas instaladas pelo usuário na área.
 
 ### Armadilhas
 
-- [![Armadilha Incendiária](../images/3/3b/Armadilha_Incendi%C3%A1ria.png)](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária") [Armadilha Incendiária](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária")
-- [![Armadilha Glacial](../images/c/c1/Armadilha_Glacial.png)](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial") [Armadilha Glacial](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial")
-- [![Bomba Relógio](../images/6/65/Bomba_Rel%C3%B3gio.png)](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio") [Bomba Relógio](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio")
-- [![Armadilha Explosiva](../images/5/5c/Armadilha_Explosiva.png)](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva") [Armadilha Explosiva](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva")
-- [![Armadilha Sonífera](../images/a/a8/Armadilha_Son%C3%ADfera.png)](Armadilha%20Son%C3%ADfera.md "Armadilha Sonífera") [Armadilha Sonífera](Armadilha%20Son%C3%ADfera.md "Armadilha Sonífera")
-- [![Instalar Mina](../images/6/66/Instalar_Mina.png)](../Ofensiva/Instalar%20Mina.md "Instalar Mina") [Instalar Mina](../Ofensiva/Instalar%20Mina.md "Instalar Mina")
-- [![Mensagem Secreta](../images/2/2b/Mensagem_Secreta.png)](Mensagem%20Secreta.md "Mensagem Secreta") [Mensagem Secreta](Mensagem%20Secreta.md "Mensagem Secreta")
+- [![Armadilha Incendiária](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Armadilha_Incendi%C3%A1ria.png)](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária") [Armadilha Incendiária](../Ofensiva/Armadilha%20Incendi%C3%A1ria.md "Armadilha Incendiária")
+- [![Armadilha Glacial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/Armadilha_Glacial.png)](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial") [Armadilha Glacial](../Ofensiva/Armadilha%20Glacial.md "Armadilha Glacial")
+- [![Bomba Relógio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Bomba_Rel%C3%B3gio.png)](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio") [Bomba Relógio](../Ofensiva/Bomba%20Rel%C3%B3gio.md "Bomba Relógio")
+- [![Armadilha Explosiva](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Armadilha_Explosiva.png)](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva") [Armadilha Explosiva](../Ofensiva/Armadilha%20Explosiva.md "Armadilha Explosiva")
+- [![Armadilha Sonífera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Armadilha_Son%C3%ADfera.png)](Armadilha%20Son%C3%ADfera.md "Armadilha Sonífera") [Armadilha Sonífera](Armadilha%20Son%C3%ADfera.md "Armadilha Sonífera")
+- [![Instalar Mina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Instalar_Mina.png)](../Ofensiva/Instalar%20Mina.md "Instalar Mina") [Instalar Mina](../Ofensiva/Instalar%20Mina.md "Instalar Mina")
+- [![Mensagem Secreta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Mensagem_Secreta.png)](Mensagem%20Secreta.md "Mensagem Secreta") [Mensagem Secreta](Mensagem%20Secreta.md "Mensagem Secreta")
 
 ## Notas
 

@@ -19,7 +19,7 @@
 
 Por 15 minutos, concede [ATQ](../Sem%20categoria/ATQ.md "ATQ") +70 e aumenta a [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque").
 
-Altera a propriedade de [Água](../Sem%20categoria/%C3%81gua.md "Água") para [Fantasma](../Sem%20categoria/Fantasma.md "Fantasma") em [![Bafo do Dragão](../images/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão").
+Altera a propriedade de [Água](../Sem%20categoria/%C3%81gua.md "Água") para [Fantasma](../Sem%20categoria/Fantasma.md "Fantasma") em [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão").
 
 ### Fórmula
 

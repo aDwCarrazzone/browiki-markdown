@@ -19,7 +19,14 @@ from urllib.parse import quote
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 FLAT = os.path.join(ROOT, "_flat")
-BROWIKI_IMG = "https://browiki.org/images/"
+# Imagens servidas pelo CDN jsDelivr a partir do repo browiki-images (content-type correto;
+# o browiki serve como octet-stream e nao renderiza inline). Raiz do repo = a/ ab/ ...
+IMG_CDN = "https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/"
+
+
+def img_url(rest: str) -> str:
+    """rest = caminho apos 'images/' (ex.: 'a/ab/Foo.png') -> URL no CDN."""
+    return IMG_CDN + quote(rest, safe="/")
 
 _ILLEGAL = re.compile(r'[<>:"\\|?*\x00-\x1f]')
 _RESERVED = re.compile(r'^(CON|PRN|AUX|NUL|COM[1-9]|LPT[1-9])$', re.I)
@@ -119,10 +126,8 @@ def rewrite_for_tree(rec, linkmap, lowermap):
     src_dir = posixpath.dirname(rec["org"])
     body = rec["body"]
 
-    def img(m):
-        rel = posixpath.relpath("images/" + m.group(1), src_dir or ".")
-        return "](" + quote(rel, safe="/") + ")"
-    body = re.sub(r'\]\(images/([^)\s]+)\)', img, body)
+    body = re.sub(r'\]\(images/([^)\s]+)\)',
+                  lambda m: "](" + img_url(m.group(1)) + ")", body)
 
     def link(m):
         target, frag = m.group(1), m.group(2) or ""
@@ -140,7 +145,8 @@ def rewrite_for_tree(rec, linkmap, lowermap):
 
 
 def to_wiki_body(body: str, meta: dict) -> str:
-    body = body.replace("](images/", "](" + BROWIKI_IMG)
+    body = re.sub(r'\]\(images/([^)\s]+)\)',
+                  lambda m: "](" + img_url(m.group(1)) + ")", body)
     def repl(m):
         return "](" + m.group(1).replace(" ", "-") + (m.group(2) or "") + ")"
     body = re.sub(r'\]\((?!https?:|/)([^)#]+?)\.md(#[^)\s]*)?(?:\s+"[^"]*")?\)', repl, body)

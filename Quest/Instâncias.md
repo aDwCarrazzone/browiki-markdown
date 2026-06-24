@@ -2,7 +2,7 @@
 
 # Instâncias
 
-![GMTMD](../images/9/9b/GMTMD.jpg)
+![GMTMD](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/GMTMD.jpg)
 
 Instâncias são mapas exclusivos para seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo").
 
@@ -12,7 +12,7 @@ Basta falar com o [NPC](../Sem%20categoria/NPC.md "NPC") de entrada e aguardar e
 
 Assim que a instância abrir, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") novamente para entrar.
 
-![JaneladeInstancia](../images/3/3b/JaneladeInstancia.png)
+![JaneladeInstancia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/JaneladeInstancia.png)
 
 ### Informações
 

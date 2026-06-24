@@ -15,15 +15,15 @@
 
 1. Converse o Chefe (gon\_in 18,90)
 
-   :   ![A Espada do Chefe de Sa Yum Moon0a](../images/b/b6/A_Espada_do_Chefe_de_Sa_Yum_Moon0a.png)
+   :   ![A Espada do Chefe de Sa Yum Moon0a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/A_Espada_do_Chefe_de_Sa_Yum_Moon0a.png)
 2. Fale com a Anfitriã (gon\_in 152,35)
 
-   :   ![A Espada do Chefe de Sa Yum Moon0b](../images/e/e0/A_Espada_do_Chefe_de_Sa_Yum_Moon0b.png)
+   :   ![A Espada do Chefe de Sa Yum Moon0b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/A_Espada_do_Chefe_de_Sa_Yum_Moon0b.png)
 3. Retorne ao Chefe, pergunte o que foi roubado e diga que você vai ajudá-lo.
 4. Volte a falar com a Anfitriã.
 5. Dê 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) ao Homem de Ressaca (gon\_in 165,16)
 
-   :   ![A Espada do Chefe de Sa Yum Moon0c](../images/d/d7/A_Espada_do_Chefe_de_Sa_Yum_Moon0c.png)
+   :   ![A Espada do Chefe de Sa Yum Moon0c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/A_Espada_do_Chefe_de_Sa_Yum_Moon0c.png)
 
    - Selecione:
      - *Fale-me sobre o ladrão...*
@@ -32,10 +32,10 @@
 6. Volte ao chefe para receber 3 [Poções Brancas](http://www.divine-pride.net/database/item/504/).
 7. Localize um Cadáver (gon\_dun03 61,220)
 
-   :   ![A Espada do Chefe de Sa Yum Moon0d](../images/c/cb/A_Espada_do_Chefe_de_Sa_Yum_Moon0d.png)
+   :   ![A Espada do Chefe de Sa Yum Moon0d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/A_Espada_do_Chefe_de_Sa_Yum_Moon0d.png)
 8. Agora você precisa se aproximar dos [NPCs](../Sem%20categoria/NPC.md "NPC") espalhados no calabouço de [Kunlun](../Lugares%20em%20Ragnar%C3%B6k/Kunlun.md "Kunlun"). Você só poderá se aproximar deles quando a localização deles piscarem para você.
 
-   :   ![A Espada do Chefe de Sa Yum Moon01](../images/a/a5/A_Espada_do_Chefe_de_Sa_Yum_Moon01.png)![A Espada do Chefe de Sa Yum Moon02](../images/1/12/A_Espada_do_Chefe_de_Sa_Yum_Moon02.png)![A Espada do Chefe de Sa Yum Moon03](../images/8/8e/A_Espada_do_Chefe_de_Sa_Yum_Moon03.png)
+   :   ![A Espada do Chefe de Sa Yum Moon01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/A_Espada_do_Chefe_de_Sa_Yum_Moon01.png)![A Espada do Chefe de Sa Yum Moon02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/A_Espada_do_Chefe_de_Sa_Yum_Moon02.png)![A Espada do Chefe de Sa Yum Moon03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/A_Espada_do_Chefe_de_Sa_Yum_Moon03.png)
 
    - **Este passo encontra-se bugado.**
    - As coordenadas são:
@@ -45,13 +45,13 @@
 9. Quando o diálogo citar que você reuniu 3 pedaços de espada, retorne ao chefe para ganhar 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/).
 10. Fale com um Estranho (gonryun 100,238)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0e](../images/3/3c/A_Espada_do_Chefe_de_Sa_Yum_Moon0e.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0e](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/A_Espada_do_Chefe_de_Sa_Yum_Moon0e.png)
 11. Fale com uma Garota (geffen\_in 106,106)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0f](../images/4/44/A_Espada_do_Chefe_de_Sa_Yum_Moon0f.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0f](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/A_Espada_do_Chefe_de_Sa_Yum_Moon0f.png)
 12. Converse com o Ferreiro (geffen\_in 71,112)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0j](../images/2/25/A_Espada_do_Chefe_de_Sa_Yum_Moon0j.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0j](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/A_Espada_do_Chefe_de_Sa_Yum_Moon0j.png)
 
     - Tenha paciência, um dia ele fala com você. Ele pode te colocar pra fora várias vezes, seja paciente e volte.
     - Selecione as opções:
@@ -65,13 +65,13 @@
       - *Sim, claro*
 13. Encontre um Jovem (prontera 277,86)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0g](../images/1/19/A_Espada_do_Chefe_de_Sa_Yum_Moon0g.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0g](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/A_Espada_do_Chefe_de_Sa_Yum_Moon0g.png)
 14. Fale com a Garota Agitada (yuno 208,164)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0h](../images/9/96/A_Espada_do_Chefe_de_Sa_Yum_Moon0h.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0h](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/A_Espada_do_Chefe_de_Sa_Yum_Moon0h.png)
 15. Localize a Doutora (yuno\_in01 99,101)
 
-    :   ![A Espada do Chefe de Sa Yum Moon0i](../images/3/32/A_Espada_do_Chefe_de_Sa_Yum_Moon0i.png)
+    :   ![A Espada do Chefe de Sa Yum Moon0i](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/A_Espada_do_Chefe_de_Sa_Yum_Moon0i.png)
 
     - Ela te colocará para fora da casa diversas vezes, tenha paciência.
     - Você precisará flertar 5 vezes com ela. Cada vez que interagir com a [NPC](../Sem%20categoria/NPC.md "NPC"), ela abrirá mais uma opção de conversa, até que você consiga falar o diálogo completo.

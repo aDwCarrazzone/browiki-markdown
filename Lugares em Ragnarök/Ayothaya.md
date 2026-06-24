@@ -2,7 +2,7 @@
 
 # Ayothaya
 
-[![Ayothaya worldmap](../images/9/99/Ayothaya_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AAyothaya_worldmap.jpg)
+[![Ayothaya worldmap](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Ayothaya_worldmap.jpg)](https://browiki.org/wiki/Arquivo%3AAyothaya_worldmap.jpg)
 
 Ayothaya, terra dos ancestrais
 
@@ -18,7 +18,7 @@ Os primeiros aventureiros em Ayothaya foram atraídos pelo ouro e pelas esmerald
 
 ## Mapa
 
-![Ayothaya imagem](../images/a/a9/Ayothaya_imagem.jpg)
+![Ayothaya imagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Ayothaya_imagem.jpg)
 
 |  |  |  |
 | --- | --- | --- |

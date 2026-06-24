@@ -24,9 +24,9 @@ Consome 1 moeda para marcar um alvo e exibi-lo no seu mini mapa por 50 segundos.
 
 Alvos marcados terão [Esquiva](../Sem%20categoria/Esquiva.md "Esquiva") -10 e serão afetados pelas habilidades:
 
-- [![Saque Rápido](../images/b/be/Saque_R%C3%A1pido.png)](../Ofensiva/Saque%20R%C3%A1pido.md "Saque Rápido") [Saque Rápido](../Ofensiva/Saque%20R%C3%A1pido.md "Saque Rápido")
-- [![Lançar Míssil](../images/e/ee/Lan%C3%A7ar_M%C3%ADssil.png)](../Ofensiva/Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil") [Lançar Míssil](../Ofensiva/Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil")
-- [![Execução](../images/d/d3/Execu%C3%A7%C3%A3o.png)](../Ofensiva/Execu%C3%A7%C3%A3o.md "Execução") [Execução](../Ofensiva/Execu%C3%A7%C3%A3o.md "Execução")
+- [![Saque Rápido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Saque_R%C3%A1pido.png)](../Ofensiva/Saque%20R%C3%A1pido.md "Saque Rápido") [Saque Rápido](../Ofensiva/Saque%20R%C3%A1pido.md "Saque Rápido")
+- [![Lançar Míssil](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/Lan%C3%A7ar_M%C3%ADssil.png)](../Ofensiva/Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil") [Lançar Míssil](../Ofensiva/Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil")
+- [![Execução](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/Execu%C3%A7%C3%A3o.png)](../Ofensiva/Execu%C3%A7%C3%A3o.md "Execução") [Execução](../Ofensiva/Execu%C3%A7%C3%A3o.md "Execução")
 
 Apenas 3 marcações poderão ficar ativas simultaneamente.
 

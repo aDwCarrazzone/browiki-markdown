@@ -22,13 +22,13 @@ A apresentação repetida também regenera 50% mais de [AP](../Sem%20categoria/A
 
 ### Apresentações afetadas
 
-- [![Recital de Geffenia](../images/0/0c/Recital_de_Geffenia.png)](Recital%20de%20Geffenia.md "Recital de Geffenia") [Recital de Geffenia](Recital%20de%20Geffenia.md "Recital de Geffenia")
-- [![Serenata de Jawaii](../images/1/1f/Serenata_de_Jawaii.png)](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii") [Serenata de Jawaii](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii")
-- [![Caprichos de Loki](../images/8/8e/Caprichos_de_Loki.png)](Caprichos%20de%20Loki.md "Caprichos de Loki") [Caprichos de Loki](Caprichos%20de%20Loki.md "Caprichos de Loki")
-- [![Rapsódia do Minerador](../images/0/0d/Raps%C3%B3dia_do_Minerador.png)](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador") [Rapsódia do Minerador](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador")
-- [![Interlúdio](../images/d/d4/Interl%C3%BAdio.png)](../Suporte/Interl%C3%BAdio.md "Interlúdio") [Interlúdio](../Suporte/Interl%C3%BAdio.md "Interlúdio")
-- [![Marcha de Prontera](../images/8/86/Marcha_de_Prontera.png)](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera") [Marcha de Prontera](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera")
-- [![Réquiem de Niflheim](../images/1/1c/R%C3%A9quiem_de_Niflheim.png)](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim") [Réquiem de Niflheim](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim")
+- [![Recital de Geffenia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Recital_de_Geffenia.png)](Recital%20de%20Geffenia.md "Recital de Geffenia") [Recital de Geffenia](Recital%20de%20Geffenia.md "Recital de Geffenia")
+- [![Serenata de Jawaii](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Serenata_de_Jawaii.png)](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii") [Serenata de Jawaii](../Suporte/Serenata%20de%20Jawaii.md "Serenata de Jawaii")
+- [![Caprichos de Loki](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/Caprichos_de_Loki.png)](Caprichos%20de%20Loki.md "Caprichos de Loki") [Caprichos de Loki](Caprichos%20de%20Loki.md "Caprichos de Loki")
+- [![Rapsódia do Minerador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/Raps%C3%B3dia_do_Minerador.png)](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador") [Rapsódia do Minerador](Raps%C3%B3dia%20do%20Minerador.md "Rapsódia do Minerador")
+- [![Interlúdio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d4/Interl%C3%BAdio.png)](../Suporte/Interl%C3%BAdio.md "Interlúdio") [Interlúdio](../Suporte/Interl%C3%BAdio.md "Interlúdio")
+- [![Marcha de Prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Marcha_de_Prontera.png)](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera") [Marcha de Prontera](../Suporte/Marcha%20de%20Prontera.md "Marcha de Prontera")
+- [![Réquiem de Niflheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/R%C3%A9quiem_de_Niflheim.png)](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim") [Réquiem de Niflheim](R%C3%A9quiem%20de%20Niflheim.md "Réquiem de Niflheim")
 
 ## Notas
 

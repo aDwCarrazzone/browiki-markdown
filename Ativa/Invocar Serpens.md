@@ -39,7 +39,7 @@ Enquanto estiver ativo, fornece bônus independente do nível de [Domínio Eleme
 ### Bônus
 
 - Dano mágico de propriedade [Veneno](../Sem%20categoria/Veneno.md "Veneno") +10%.
-- Aumenta o dano base de [![Poço Venenoso](../images/f/f9/Po%C3%A7o_Venenoso.png)](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso") [Poço Venenoso](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso")
+- Aumenta o dano base de [![Poço Venenoso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Po%C3%A7o_Venenoso.png)](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso") [Poço Venenoso](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso")
 
 ### Status do Elemental
 

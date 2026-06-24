@@ -61,26 +61,26 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 1. Você deve equipar um [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) e um [Quatro-Olhos](http://www.divine-pride.net/database/item/2243/) comprados em [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prt\_in 117,79)
 2. Entre no Laboratório Regenschrim pelo Guarda (lhz\_in01 35,225)
 
-   :   ![Rebeliao07](../images/c/c5/Rebeliao07.png)
+   :   ![Rebeliao07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Rebeliao07.png)
 3. Procure por Kellasus e repita a conversa até não conseguir uma resposta diferente (lhz\_in01 223,140)
 
-   :   ![Novas Habilidades- Alquimistas03](../images/a/aa/Novas_Habilidades-_Alquimistas03.png)
+   :   ![Novas Habilidades- Alquimistas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Novas_Habilidades-_Alquimistas03.png)
 4. Localize Skrajjad (lhz\_in01 224,122)
 
-   :   ![Novas Habilidades- Alquimistas04](../images/4/4c/Novas_Habilidades-_Alquimistas04.png)
+   :   ![Novas Habilidades- Alquimistas04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Novas_Habilidades-_Alquimistas04.png)
 5. Encontre Keshibien (lhz\_in01 204,137)
 
-   :   ![Novas Habilidades- Alquimistas05](../images/6/68/Novas_Habilidades-_Alquimistas05.png)
+   :   ![Novas Habilidades- Alquimistas05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Novas_Habilidades-_Alquimistas05.png)
 6. Fale com Broncher (lhz\_in02 278,274)
 
-   :   ![Novas Habilidades- Alquimistas06](../images/5/54/Novas_Habilidades-_Alquimistas06.png)
+   :   ![Novas Habilidades- Alquimistas06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Novas_Habilidades-_Alquimistas06.png)
 7. Retorne a Kellasus e responda:
    - `Vaporizar`
    - `Embrião`
    - `Ressurreição de Homunculus`
 8. Converse com Koring (lhz\_in03 106,33)
 
-   :   ![Novas Habilidades- Alquimistas07a](../images/c/cb/Novas_Habilidades-_Alquimistas07a.png)
+   :   ![Novas Habilidades- Alquimistas07a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Novas_Habilidades-_Alquimistas07a.png)
 9. Volte a Kellasus e insista até aprender a habilidade.
 
 ### Homunculus S
@@ -98,16 +98,16 @@ Ao completar a missão, a nova habilidade aparecerá na sua árvore de habilidad
 1. Para iniciar a [quest](../Sem%20categoria/Quest.md "Quest"), é necessário ter um [Homunculus](../Homunculus/Homunculus.md "Homunculus") no nível 99 ou mais, na segunda forma.
 2. Fale com Viorel em [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen") (job3\_gen01 12,44)
 
-   :   ![Novas Habilidades- Alquimistas07](../images/c/c4/Novas_Habilidades-_Alquimistas07.png)
+   :   ![Novas Habilidades- Alquimistas07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Novas_Habilidades-_Alquimistas07.png)
 3. Aceite o experimento de Viorel.
 
-   :   ![Novas Habilidades- Alquimistas08](../images/e/e2/Novas_Habilidades-_Alquimistas08.png)
+   :   ![Novas Habilidades- Alquimistas08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Novas_Habilidades-_Alquimistas08.png)
 4. No novo cômodo, fale com Jaina.
 
-   :   ![Novas Habilidades- Alquimistas09](../images/8/80/Novas_Habilidades-_Alquimistas09.png)
+   :   ![Novas Habilidades- Alquimistas09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Novas_Habilidades-_Alquimistas09.png)
 5. Clique na placa de anotações.
 
-   :   ![Novas Habilidades- Alquimistas010](../images/3/3f/Novas_Habilidades-_Alquimistas010.png)
+   :   ![Novas Habilidades- Alquimistas010](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Novas_Habilidades-_Alquimistas010.png)
 6. Aceite o experimento de Jaina, recebendo 1 [Embrião Estranho](http://www.divine-pride.net/database/item/6415/).
 7. Retorne a Viorel, aceite pagar 50.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") para escolher o [Homunculus S](../Sem%20categoria/Homunculus%20S.md "Homunculus S") desejado.
    - Caso não tenha esse dinheiro, Viorel te dará um [Homunculus S](../Sem%20categoria/Homunculus%20S.md "Homunculus S") aleatório.

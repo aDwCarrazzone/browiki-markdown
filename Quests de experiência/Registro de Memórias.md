@@ -15,34 +15,34 @@
 
 1. Selecione a opção "*Conversar*" com Ian Atnad (verus04 144,193)
 
-   :   ![IanAtnad](../images/4/44/IanAtnad.png)
+   :   ![IanAtnad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/IanAtnad.png)
 2. Dirija-se ao [Instituto WISH de Pesquisa](http://www.divine-pride.net/database/map/verus02/) e colete 1 [Registro de Memórias do Instituto](http://www.divine-pride.net/database/item/6757/) dos Papéis Espalhados.
 
-   :   ![Papeis Espalhados](../images/9/92/Papeis_Espalhados.png)
+   :   ![Papeis Espalhados](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/Papeis_Espalhados.png)
 3. Retorne a Ian Atnad.
 4. Fale com a Capitã Arquien no segundo andar do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") (moc\_para01 133,170).
 
-   :   ![Arquien](../images/a/a8/Arquien.png)
+   :   ![Arquien](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Arquien.png)
 
    - Digite:
      - `Reprodutor de Registro`
    - Converse mais uma vez com a Capitã Arquien
 5. Colete mais 5 [Registros de Memórias do Instituto](http://www.divine-pride.net/database/item/6757/) e traga-os para a Capitã Arquien (verus04 170,148)
 
-   :   ![NileAtnad](../images/1/1f/NileAtnad.png)
+   :   ![NileAtnad](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/NileAtnad.png)
 6. Clique no Reprodutor ao lado da Capitã.
 
-   :   ![Reprodutor](../images/b/b6/Reprodutor.png)
+   :   ![Reprodutor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Reprodutor.png)
 
    - Ouça o conteúdo do registro e fale com a Capitã Arquien em seguida.
    - Você receberá 750.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 7. Conte a Ian Atnad sobre os registros.
 8. Dirija-se ao [Laboratório OPTATIO de Experimentos](http://www.divine-pride.net/database/map/verus01/) e acesse o abrigo falando com Verity (verus01 123,181)
 
-   :   ![Verity](../images/1/1a/Verity.png)
+   :   ![Verity](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Verity.png)
 9. Colete 5 [Registros de Memórias do Abrigo](http://www.divine-pride.net/database/item/6824/) clicando nos [NPCs](../Sem%20categoria/NPC.md "NPC") espalhados no mapa.
 
-   :   ![NPCsabrigo1](../images/b/b3/NPCsabrigo1.png)
+   :   ![NPCsabrigo1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/NPCsabrigo1.png)
 10. Volte a falar com a Capitã Arquien em [Verus](../Lugares%20em%20Ragnar%C3%B6k/Verus.md "Verus").
     - Clique no Reprodutor ao lado dela para ouvir o registro.
     - Você receberá 1 [Registro do 1º Dia](http://www.divine-pride.net/database/item/22691/). NÃO utilize este item.
@@ -58,14 +58,14 @@
     - No 5º dia, selecione a opção "*Conversar*" com a Capitã Arquien e, em seguida, fale com Ian Atnad para que o Secretário Chefe da Corporação Rekenber apareça.
 12. Dirija-se até a Sede da Corporação Rekenber e fale com o Guarda da Rekenber (lhz\_in01 276,234)
 
-    :   ![GuardinhaRK](../images/8/8f/GuardinhaRK.png)
+    :   ![GuardinhaRK](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/GuardinhaRK.png)
 13. Converse com todos os presentes na reunião para terminar a história.
 
-    :   ![PresidenteRekenber](../images/7/72/PresidenteRekenber.png)
+    :   ![PresidenteRekenber](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/PresidenteRekenber.png)
 
     - Você receberá 4.500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 3.000.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 
-![Saga4](../images/8/84/Saga4.png)
+![Saga4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Saga4.png)
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |

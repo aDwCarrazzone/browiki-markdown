@@ -2,7 +2,7 @@
 
 # Pharos
 
-[![FarolPharos](../images/b/b2/FarolPharos.png)](https://browiki.org/wiki/Arquivo%3AFarolPharos.png)
+[![FarolPharos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/FarolPharos.png)](https://browiki.org/wiki/Arquivo%3AFarolPharos.png)
 
 Farol de Pharos
 

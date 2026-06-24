@@ -14,10 +14,10 @@
 
 1. Em [Ash Vacuum](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum"), fale com Kidd (mid\_camp 199,311)
 
-   :   ![CCM2](../images/6/63/CCM2.png)
+   :   ![CCM2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/CCM2.png)
 2. Encontre Echinacea, a Líder do Grupo (mid\_campin 68,185)
 
-   :   ![CCM1](../images/3/3a/CCM1.png)
+   :   ![CCM1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/CCM1.png)
 3. Em [Eclage](../Lugares%20em%20Ragnar%C3%B6k/Eclage.md "Eclage"), aproxime-se das coordenadas (eclage 284,286). Seu personagem será levado para dentro de um Yai. Fale com Rayan Moore.
 
-   :   ![CCM66](../images/5/57/CCM66.png)
+   :   ![CCM66](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/CCM66.png)

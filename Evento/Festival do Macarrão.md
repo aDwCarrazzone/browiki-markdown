@@ -16,13 +16,13 @@
 
 1. O festival se passa em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"). Você pode usar o teleporte único do Anunciante espalhado nas principais cidades, como [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prontera 110,75).
 
-   :   ![Noodlefes 01](../images/9/9d/Noodlefes_01.png)
+   :   ![Noodlefes 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Noodlefes_01.png)
 2. Inscreva-se com o Recepcionista do Festival (malangdo 140,165) para ganhar 1 [Leque do Festival](http://www.divine-pride.net/database/item/25367/).
 
-   :   ![Noodlefes 02laro](../images/a/ab/Noodlefes_02laro.png)
+   :   ![Noodlefes 02laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Noodlefes_02laro.png)
 3. Fale com o Gerente do Festival (malangdo 81,201).
 
-   :   ![Noodlefes 03laro](../images/0/09/Noodlefes_03laro.png)
+   :   ![Noodlefes 03laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Noodlefes_03laro.png)
 
    - A partir daqui, o acesso à [caverna do mar de lasagna](http://www.divine-pride.net/database/map/lasa_sea/) está liberado.
    - É nesse mapa que você conseguirá todos os itens pedidos do evento.
@@ -36,18 +36,18 @@
 
 1. Fale com o Nike (malangdo 168,219)
 
-   :   ![Noodlefes 05laro](../images/b/be/Noodlefes_05laro.png)
+   :   ![Noodlefes 05laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Noodlefes_05laro.png)
 2. Converse com Chipol (malangdo 138,140)
 
-   :   ![Noodlefes 06laro](../images/0/01/Noodlefes_06laro.png)
+   :   ![Noodlefes 06laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Noodlefes_06laro.png)
 3. Encontre um Pescador (malangdo 209,110)
 
-   :   ![Noodlefes 07laro](../images/b/bc/Noodlefes_07laro.png)
+   :   ![Noodlefes 07laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Noodlefes_07laro.png)
 4. Retorne a Nike (malangdo 168,219)
 5. Siga para o mar de Lasagna falando com o Gerente do Festival (malangdo 81,201)
 6. Na entrada da caverna fale com Nike
 
-   :   ![Noodlefes 08laro](../images/f/f7/Noodlefes_08laro.png)
+   :   ![Noodlefes 08laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Noodlefes_08laro.png)
 
    - Ele pede que você traga os seguintes itens:
      - ![1023.png](http://static.divine-pride.net/images/items/item/1023.png) 1 [Cauda de Peixe](http://www.divine-pride.net/database/item/1023/)
@@ -57,7 +57,7 @@
 7. Em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"), entregue os itens para Nike (malangdo 168,219)
 8. Após o diálogo, converse com Po (malangdo 199,150)
 
-   :   ![Noodlefes 09laro](../images/4/42/Noodlefes_09laro.png)
+   :   ![Noodlefes 09laro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Noodlefes_09laro.png)
 9. Retorne a Nike (malangdo 168,219)
    - Você receberá 5 [Moeda Ravioli](http://www.divine-pride.net/database/item/25366/), 1 [**Prêmio aleatório**](#Prêmio_aleatório) e 1 ![19466.png](http://static.divine-pride.net/images/items/item/19466.png) [(Visual) Presilha de Recife](http://www.divine-pride.net/database/item/19466/).
 

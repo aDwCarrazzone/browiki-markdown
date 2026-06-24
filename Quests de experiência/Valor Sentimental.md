@@ -19,16 +19,16 @@
 
 1. No quarto dos Wigner, fale com Katrin Wigner (prt\_cas\_q 97,6)
 
-   :   ![K Wigner](../images/6/6b/K_Wigner.png)
+   :   ![K Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/K_Wigner.png)
 2. Dirija-se até a Cozinha Real para falar com a Empregada (prt\_cas 322,216)
 
-   :   ![Valor S1](../images/2/27/Valor_S1.png)
+   :   ![Valor S1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Valor_S1.png)
 
    - Ao aceitar ajudá-la, você receberá 3 [Esponja de Poring](http://www.divine-pride.net/database/item/6928/).
    - Seu objetivo é limpar 3 áreas da cozinha, cada área pede um item diferente.
 3. Você precisa andar pela cozinha para ativar os diálogos.
 
-   :   ![Valor S1b](../images/c/c5/Valor_S1b.png)
+   :   ![Valor S1b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Valor_S1b.png)
 
    - Há uma chance de não dar certo, nesse caso nada acontece e os itens não são utilizados, basta continuar esfregando.
    1. **Parede Mofada** (losango): (prt\_cas 339,212)
@@ -43,12 +43,12 @@
 4. Reporte a limpeza para a Empregada.
 5. Procure pelo Entregador de Móveis (prontera 68,68)
 
-   :   ![Valor S2](../images/5/5b/Valor_S2.png)
+   :   ![Valor S2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Valor_S2.png)
 
    - Entregue 3 [Medalhões de Carne](http://www.divine-pride.net/database/item/6254/) para o [NPC](../Sem%20categoria/NPC.md "NPC").
 6. Converse com Jurgen Wigner, no Palácio (prt\_cas\_q 97,6)
 
-   :   ![Jurgen Wigner](../images/9/91/Jurgen_Wigner.png)
+   :   ![Jurgen Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Jurgen_Wigner.png)
 
    - Após o diálogo, você deverá coletar 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) e 10 [Pedra do Mar](http://www.divine-pride.net/database/item/6927/).
    - As [Pedras do Mar](http://www.divine-pride.net/database/item/6927/) aparecem diretamente no inventário do usuário ao eliminar [Medusas](http://www.divine-pride.net/database/monster/1148/).

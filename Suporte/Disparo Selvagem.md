@@ -25,7 +25,7 @@ Ao realizar ataques físicos a distância, chance de disparar flechas adicionais
 
 Quando isso acontecer, haverá uma chance de atingir o alvo mais vezes, limitado pelo nível da habilidade.
 
-Nesse estado, aumenta o dano de [![Disparo Certeiro](../images/b/bc/Disparo_Certeiro.png)](../Ofensiva/Disparo%20Certeiro.md "Disparo Certeiro") [Disparo Certeiro](../Ofensiva/Disparo%20Certeiro.md "Disparo Certeiro") e [![Tempestade de Flechas](../images/d/db/Tempestade_de_Flechas.png)](../Ofensiva/Tempestade%20de%20Flechas.md "Tempestade de Flechas") [Tempestade de Flechas](../Ofensiva/Tempestade%20de%20Flechas.md "Tempestade de Flechas").
+Nesse estado, aumenta o dano de [![Disparo Certeiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Disparo_Certeiro.png)](../Ofensiva/Disparo%20Certeiro.md "Disparo Certeiro") [Disparo Certeiro](../Ofensiva/Disparo%20Certeiro.md "Disparo Certeiro") e [![Tempestade de Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Tempestade_de_Flechas.png)](../Ofensiva/Tempestade%20de%20Flechas.md "Tempestade de Flechas") [Tempestade de Flechas](../Ofensiva/Tempestade%20de%20Flechas.md "Tempestade de Flechas").
 
 | Nv. | Chance | | Limite | Duração | [SP](../Sem%20categoria/SP.md "SP") |
 | --- | --- | --- | --- | --- | --- |

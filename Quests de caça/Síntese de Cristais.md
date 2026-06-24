@@ -14,7 +14,7 @@
 
 1. Fale com Reno (moc\_para01 41,169)
 
-   :   ![Síntese de Cristais01](../images/0/0e/S%C3%ADntese_de_Cristais01.png)
+   :   ![Síntese de Cristais01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0e/S%C3%ADntese_de_Cristais01.png)
 2. Ele realiza um aprimoramento nos [chapéus](../Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md "Fabricação de Chapéus") e [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos").
 3. Para aprimorar, será necessário adquirir Cristais de Energia.
 4. Para conseguir os Cristais de Energia, Reno fornece 4 opções.

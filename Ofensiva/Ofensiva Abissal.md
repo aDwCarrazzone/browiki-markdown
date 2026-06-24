@@ -35,7 +35,7 @@ Ativa o estado de [*Ameaça*] por alguns segundos.
 
 ### Ameaça
 
-- **Ícone:** ![I Ofensiva Abissal](../images/f/f1/I_Ofensiva_Abissal.png)
+- **Ícone:** ![I Ofensiva Abissal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f1/I_Ofensiva_Abissal.png)
 - **Efeito:** Aumenta o dano base de [Ofensiva Fatal](Ofensiva%20Fatal.md "Ofensiva Fatal")
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") e [Desencantar](../Ativa/Desencantar.md "Desencantar").
 

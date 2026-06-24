@@ -17,13 +17,13 @@
 
 1. Fale com a Botânica Carmen (brasilis 203,285)
 
-   :   ![Vitória-Régia01](../images/7/7d/Vit%C3%B3ria-R%C3%A9gia01.png)
+   :   ![Vitória-Régia01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/Vit%C3%B3ria-R%C3%A9gia01.png)
 2. Converse com a Anciã Jurema (bra\_in01 142,26)
 
-   :   ![Vitória-Régia02](../images/0/05/Vit%C3%B3ria-R%C3%A9gia02.png)
+   :   ![Vitória-Régia02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Vit%C3%B3ria-R%C3%A9gia02.png)
 3. Localize uma Menina (brasilis 271,145)
 
-   :   ![Vitória-Régia03](../images/8/84/Vit%C3%B3ria-R%C3%A9gia03.png)
+   :   ![Vitória-Régia03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Vit%C3%B3ria-R%C3%A9gia03.png)
 
    - Selecione:
      - *Qual é o problema?*
@@ -31,10 +31,10 @@
      - *Ajudar Jacira*.
 4. Com 10 [Bananas](http://www.divine-pride.net/database/item/513/) no inventário, interrogue o Ermitão (bra\_dun02 67,204)
 
-   :   ![Vitória-Régia04](../images/8/8a/Vit%C3%B3ria-R%C3%A9gia04.png)
+   :   ![Vitória-Régia04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Vit%C3%B3ria-R%C3%A9gia04.png)
 5. Tente colher a flor de Vitória-Régia ao lado do [NPC](../Sem%20categoria/NPC.md "NPC"), mas o Ermitão te impedirá.
 
-   :   ![Vitória-Régia05](../images/9/99/Vit%C3%B3ria-R%C3%A9gia05.png)
+   :   ![Vitória-Régia05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Vit%C3%B3ria-R%C3%A9gia05.png)
 6. Continue conversando com o Ermitão até ele citar o suco de uma fruta.
 7. Reencontre a Menina.
 8. Entregue os 5 [Cocos](http://www.divine-pride.net/database/item/11515/) para o Ermitão.

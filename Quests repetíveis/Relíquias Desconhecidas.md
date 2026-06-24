@@ -15,13 +15,13 @@
 
 1. Em [Diel](../Lugares%20em%20Ragnar%C3%B6k/El%20Dicastes.md "El Dicastes"), clique no Elevador e selecione "*Sala de Arquivo*".
 
-   :   ![Relíquias Desconhecidas03](../images/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
+   :   ![Relíquias Desconhecidas03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Rel%C3%ADquias_Desconhecidas03.png)
 2. Aceite ajudar Papyrus (dic\_in01 40,193)
 
-   :   ![Relíquias Desconhecidas01](../images/f/fe/Rel%C3%ADquias_Desconhecidas01.png)
+   :   ![Relíquias Desconhecidas01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Rel%C3%ADquias_Desconhecidas01.png)
 3. Pegue as missões com os Arquivos de Documentos, na mesma sala.
 
-   :   ![Relíquias Desconhecidas02](../images/4/40/Rel%C3%ADquias_Desconhecidas02.png)
+   :   ![Relíquias Desconhecidas02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Rel%C3%ADquias_Desconhecidas02.png)
 
    - Você pode pegar quantas missões puder.
    - Há uma chance de impedir que você pegue novas missões por 6 horas.

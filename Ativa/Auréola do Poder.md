@@ -26,7 +26,7 @@ Entra em estado de [*Auréola do Poder*].
 
 Enquanto estiver ativa, as seguintes habilidades não consomem Esferas Espirituais:
 
-- [![Ruína](../images/0/00/Ru%C3%ADna.png)](../Ofensiva/Ru%C3%ADna.md "Ruína") [Ruína](../Ofensiva/Ru%C3%ADna.md "Ruína")
+- [![Ruína](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Ru%C3%ADna.png)](../Ofensiva/Ru%C3%ADna.md "Ruína") [Ruína](../Ofensiva/Ru%C3%ADna.md "Ruína")
 
 | Nv. | Duração | Recarga |
 | --- | --- | --- |

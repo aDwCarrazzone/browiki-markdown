@@ -2,7 +2,7 @@
 
 # Itens
 
-![Inventário2](../images/0/0f/Invent%C3%A1rio2.png)
+![Inventário2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Invent%C3%A1rio2.png)
 
 Itens são quaisquer objetos que ocupam espaço no inventário, tais como equipamentos e [cartas](Cartas.md "Cartas").
 
@@ -16,21 +16,21 @@ Sua janela de inventário pode ser acessada pelo [comando](../Sem%20categoria/Co
 
 Seu inventário separa os itens em 4 abas diferentes:
 
-- ![InventárioConsumiveis](../images/e/e6/Invent%C3%A1rioConsumiveis.png) Consumíveis.
-- ![InventárioEquipamentos](../images/b/b3/Invent%C3%A1rioEquipamentos.png) Equipamentos e itens de [Mascotes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Mascotes.md "Mascotes").
-- ![InventárioOutros](../images/6/68/Invent%C3%A1rioOutros.png) Qualquer outra coisa.
-- ![InventárioFavoritos](../images/b/b1/Invent%C3%A1rioFavoritos.png) Itens que você marcou como favorito.
+- ![InventárioConsumiveis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Invent%C3%A1rioConsumiveis.png) Consumíveis.
+- ![InventárioEquipamentos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Invent%C3%A1rioEquipamentos.png) Equipamentos e itens de [Mascotes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Mascotes.md "Mascotes").
+- ![InventárioOutros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Invent%C3%A1rioOutros.png) Qualquer outra coisa.
+- ![InventárioFavoritos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Invent%C3%A1rioFavoritos.png) Itens que você marcou como favorito.
 
 Para favoritar um item, você pode:
 
-- Arrastá-lo para a aba ![InventárioFavoritos](../images/b/b1/Invent%C3%A1rioFavoritos.png) ou
+- Arrastá-lo para a aba ![InventárioFavoritos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Invent%C3%A1rioFavoritos.png) ou
 - Segurar Shift e dar um clique direito no item.
 
 Lembre-se:
 
 - Itens favoritos podem ser bloqueados para não aparecerem na janela de venda de [NPCs](../Sem%20categoria/NPC.md "NPC").
 - Isso evitará com que você venda erroneamente um item valioso.
-- Na aba de favoritos, basta apertar o botão ![Btn blocktrade](../images/3/32/Btn_blocktrade.png) para bloquear.
+- Na aba de favoritos, basta apertar o botão ![Btn blocktrade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Btn_blocktrade.png) para bloquear.
 
 O seu inventário possui um limite máximo de 100 itens a serem carregados, podendo aumentar essa quantidade.
 
@@ -54,7 +54,7 @@ Os equipamentos comuns podem se acessados pelo comando `Alt + Q`.
 
 Os equipamentos sombrios equipam na aba [Especial] da janela, acessada pelo comando `Alt + X`.
 
-![JaneladeEquipamentos1](../images/6/61/JaneladeEquipamentos1.png) ![EquipSombra](../images/a/a2/EquipSombra.png)
+![JaneladeEquipamentos1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/JaneladeEquipamentos1.png) ![EquipSombra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/EquipSombra.png)
 
 | Nº. | Equip. Comum | Equip. Sombrio | Descrição |
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Os equipamentos sombrios equipam na aba [Especial] da janela, acessada pelo coma
 
 ### Visuais
 
-![Mochilamochi](../images/4/47/Mochilamochi.gif)
+![Mochilamochi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Mochilamochi.gif)
 
 São itens que se sobrepõem aos equipamentos para cabeça ou capas.
 
@@ -83,13 +83,13 @@ Visuais podem receber [encantamentos](../Sem%20categoria/Encantamentos.md "Encan
 
 Você pode configurar um conjunto de equipamentos para trocar rapidamente através da Autotroca.
 
-![Autotroca](../images/a/a3/Autotroca.png)
+![Autotroca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Autotroca.png)
 
 Para começar, clique no botão [Autotroca] na janela de Equipamentos `Alt + Q`.
 
 Basta arrastar o equipamento desejado para a janela rosa para registrá-lo no sistema.
 
-- Equipamentos registrados exibirão um símbolo vermelho. ![SetasAutoTroca](../images/4/43/SetasAutoTroca.png)
+- Equipamentos registrados exibirão um símbolo vermelho. ![SetasAutoTroca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/SetasAutoTroca.png)
 - Existe um tempo de 10 segundos entre uma autotroca e outra.
 - A Autotroca funciona com equipamentos, visuais e sombrios.
 - Muda apenas equipamentos configurados, se não houverem equipamentos registrados, seu personagem continuará com o equipamento anterior.
@@ -97,13 +97,13 @@ Basta arrastar o equipamento desejado para a janela rosa para registrá-lo no si
 
 ### Itens quebrados
 
-![EquipamentoQuebrado](../images/9/92/EquipamentoQuebrado.png)
+![EquipamentoQuebrado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/92/EquipamentoQuebrado.png)
 
 Armas e armaduras podem ser quebrados durante uma batalha, não podendo serem reequipados até o conserto.
 
 Um equipamento ou arma quebrados ficarão no inventário com o nome em vermelho escuro.
 
-Esses equipamentos poderão ser recuperados pela habilidade [Consertar Armas](../Ativa/Consertar%20Armas.md "Consertar Armas") ou pelos [NPCs](../Sem%20categoria/NPC.md "NPC") Reparadores dentro de refinarias das cidades, indicados com o ícone ![Perícia em Armamento](../images/d/d1/Per%C3%ADcia_em_Armamento.png)
+Esses equipamentos poderão ser recuperados pela habilidade [Consertar Armas](../Ativa/Consertar%20Armas.md "Consertar Armas") ou pelos [NPCs](../Sem%20categoria/NPC.md "NPC") Reparadores dentro de refinarias das cidades, indicados com o ícone ![Perícia em Armamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/Per%C3%ADcia_em_Armamento.png)
 
 Cada item quebrado custa 5.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") para reparar.
 
@@ -149,10 +149,10 @@ As armas são influenciadas pelo [tamanho](../Sem%20categoria/Tamanho.md "Tamanh
 - Para equipar uma munição, basta arrastar o item para a janela de equipamentos do personagem.
 - Flechas e Projéteis só equipam no personagem se ele estiver equipado com a arma necessária para usá-los.
 - Desequipar a arma fará com que a Flecha ou o Projétil sejam desequipados também.
-- Todas as munições são vendidas próximas das Lojas de Armas (![Map faca](../images/6/60/Map_faca.png)), assim como suas Aljavas, Pacotes, Carregadores e Emakimonos.
+- Todas as munições são vendidas próximas das Lojas de Armas (![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png)), assim como suas Aljavas, Pacotes, Carregadores e Emakimonos.
 - A compra de munições não é afetada pelas habilidades [Desconto](../Passiva/Desconto.md "Desconto") e [Extorquir](../Passiva/Extorquir.md "Extorquir").
 - A [Faca Envenenada](http://www.divine-pride.net/database/item/1771/) pode ser encontrada em qualquer Loja de Ferramentas.
-- Munições exibem um ícone lateral quando equipado: ![I Munição](../images/9/91/I_Muni%C3%A7%C3%A3o.png)
+- Munições exibem um ícone lateral quando equipado: ![I Munição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/I_Muni%C3%A7%C3%A3o.png)
 
 | Munição | Armas necessárias |
 | --- | --- |

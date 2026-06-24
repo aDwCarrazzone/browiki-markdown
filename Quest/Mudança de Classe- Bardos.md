@@ -16,7 +16,7 @@
 
 1. Sua jornada começa em Comodo, com o Bardo Andarilho (comodo 211,155)
 
-   :   ![Job bard01a](../images/8/8a/Job_bard01a.png)
+   :   ![Job bard01a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Job_bard01a.png)
 2. Selecione:
    - Cante-me uma canção, por favor.
    - Estava muito bom.
@@ -34,27 +34,27 @@
 3. Vá para [Lutie](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md "Lutie") falando com o Papai Noel (aldebaran 168,168)
 4. Converse com a Garota do Natal (xmas\_in 165,173)
 
-   :   ![Job bard03](../images/f/f5/Job_bard03.png)
+   :   ![Job bard03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Job_bard03.png)
 5. Selecione 'O que é um boneco de Neve?' (xmas 134,112)
 
-   :   ![Job bard04](../images/9/93/Job_bard04.png)
+   :   ![Job bard04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Job_bard04.png)
 6. Dirija-se ao Rapaz do Natal (xmas 117,303)
 
-   :   ![Job bard05](../images/c/c1/Job_bard05.png)
+   :   ![Job bard05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c1/Job_bard05.png)
 7. Leve o [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) e a [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) pro Tio Peludo (xmas 176,236)
 
-   :   ![Job bard06](../images/3/36/Job_bard06.png)
+   :   ![Job bard06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Job_bard06.png)
 8. Visite a Senhora Generosa (xmas\_in 27,102)
 
-   :   ![Job bard07](../images/d/db/Job_bard07.png)
+   :   ![Job bard07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Job_bard07.png)
 9. Retorne ao Boneco de Neve e selecione a opção em azul.
 10. Volte a Senhora Generosa.
 11. Encontre o Palhaço do Natal e pergunte sobre o boneco de neve. (xmas 146,136)
 
-    :   ![Job bard08](../images/9/9b/Job_bard08.png)
+    :   ![Job bard08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Job_bard08.png)
 12. Fale com as crianças. (xmas 207,168) Comece pelo menino, depois a menina e o menino novamente.
 
-    :   ![Job bard09](../images/8/88/Job_bard09.png)
+    :   ![Job bard09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Job_bard09.png)
 13. Reencontre o Boneco de Neve e selecione a opção em azul para receber um presente aleatório:
     - 5 [Bala](http://www.divine-pride.net/database/item/529/) ou
     - 10 [Bala](http://www.divine-pride.net/database/item/529/) ou

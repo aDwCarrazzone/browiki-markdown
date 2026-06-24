@@ -18,7 +18,7 @@
 
 1. Pague 50.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") da inscrição com a Alquimista Sênior (alde\_alche 27,185)
 
-   :   ![Qalch1](../images/0/07/Qalch1.png)
+   :   ![Qalch1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Qalch1.png)
 
    - A [NPC](../Sem%20categoria/NPC.md "NPC") poderá solicitar um ou mais dos itens abaixo:
      - ![657.png](http://static.divine-pride.net/images/items/item/657.png) 7 [Poção da Fúria Selvagem](http://www.divine-pride.net/database/item/657/)
@@ -29,7 +29,7 @@
      - ![1006.png](http://static.divine-pride.net/images/items/item/1006.png) 1 [Grimório Antigo](http://www.divine-pride.net/database/item/1006/)
 2. No subsolo da guilda, responda as perguntas do Alquimista Misterioso Rasputin (alde\_alche 175,107)
 
-   :   ![Qalch2](../images/a/ac/Qalch2.png)
+   :   ![Qalch2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/Qalch2.png)
 
    - Se seu personagem for [nível de classe](../Sem%20categoria/N%C3%ADvel%20de%20classe.md "Nível de classe") 50, não é necessário passar por essa etapa.
    - É preciso acertar 80% das perguntas, no mínimo, para passar.
@@ -73,7 +73,7 @@
 
 :   3. Fale com o Pesquisador Darcya e ouça a explicação sobre criar poções (alde\_alche 89,64)
 
-    :   ![Qalch3](../images/5/51/Qalch3.png)
+    :   ![Qalch3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Qalch3.png)
 
         - Se você trouxer 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/) para o [NPC](../Sem%20categoria/NPC.md "NPC"), escolha as seguintes opções:
           - Busco aprender técnicas de pesquisa.
@@ -95,14 +95,14 @@
         6. Despeje na garrafa.
 :   4. Encontre o Pesquisador Experiente (alde\_alche 48,77). Para essa missão, é necessário ter completado o passo **4** da [Criação de Tinturas](../Sem%20categoria/Tinturas.md "Tinturas").
 
-    :   ![Qalch4](../images/e/e9/Qalch4.png)
+    :   ![Qalch4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Qalch4.png)
 :   5. Retorne ao Pesquisador Experiente e responda ao questionário:
 
     :   1. Qual dessas substâncias não é necessária para fabricar Antígeno? *Karvodailnirol*
         2. Qual dessas substâncias não é necessária para fabricar Mistura? *Detrimindexta*
 :   6. Fale com Pesquisador Chefe (alde\_alche 49,104). Seu objetivo é desembaralhar as palavras e selecionar a opção correta.
 
-    :   ![Qalch5](../images/1/18/Qalch5.png)
+    :   ![Qalch5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Qalch5.png)
 
 :   :   | Possibilidade 1 | |
         | --- | --- |
@@ -133,11 +133,11 @@
     - 3 [Minérios de Oridecon](http://www.divine-pride.net/database/item/756/)
 :   8. Entregue os itens do Pesquisador Chefe e mais 5 [Carvões](http://www.divine-pride.net/database/item/1003/), 5 [Mini Fornalhas](http://www.divine-pride.net/database/item/612/) e 2.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") para os irmãos Bhaine e Bhagine (yuno\_in01 100,153). Você receberá um minério aleatório como recompensa.
 
-    :   ![Qalch7](../images/d/d6/Qalch7.png)
+    :   ![Qalch7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Qalch7.png)
 :   9. Reporte ao Pesquisador Chefe. (alde\_alche 145,19)
 :   10. Dirija-se ao segundo andar da Guilda dos Alquimistas e fale com o Alquimista Chefe (alde\_alche 101,184)
 
-    :   ![Qalch6](../images/a/ae/Qalch6.png)
+    :   ![Qalch6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ae/Qalch6.png)
 
         - Você receberá um manual de criação aleatório, entre os volumes 1 a 7 e mudar a classe para [Alquimista](../Sem%20categoria/Alquimista.md "Alquimista").
         - Se você começou a missão entre os níveis de classe 40 a 49, você recebe 1 Manual de Criação aleatório.

@@ -2,7 +2,7 @@
 
 # Rachel
 
-[![Rael city](../images/9/9c/Rael_city.jpg)](https://browiki.org/wiki/Arquivo%3ARael_city.jpg)
+[![Rael city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Rael_city.jpg)](https://browiki.org/wiki/Arquivo%3ARael_city.jpg)
 
 Capital de Arunafeltz, Rachel
 
@@ -54,7 +54,7 @@ Enquanto uma facção aceita e respeitava a religião dos estrangeiros, os mais 
 | Vendedora Elemental | Vende Fragmentos Elementais | (ra\_in01 256,273) |
 | Auxiliar de Cozinha | [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") | (rachel 87,75) |
 
-[![Sessrumnir](../images/e/ec/Sessrumnir.png)](https://browiki.org/wiki/Arquivo%3ASessrumnir.png)
+[![Sessrumnir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/Sessrumnir.png)](https://browiki.org/wiki/Arquivo%3ASessrumnir.png)
 
 Sessrumnir, o Santuário
 

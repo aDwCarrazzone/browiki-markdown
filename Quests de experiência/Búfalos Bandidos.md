@@ -18,28 +18,28 @@
 
 1. Fale com Karem Pucci (alberta 240,104)
 
-   :   ![Rockridge01](../images/4/42/Rockridge01.png)
+   :   ![Rockridge01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Rockridge01.png)
 2. Em [Rockridge](../Lugares%20em%20Ragnar%C3%B6k/Rockridge.md "Rockridge"), encontre Costello (harboro1 80,218)
 
-   :   ![Rockridge02](../images/0/04/Rockridge02.png)
+   :   ![Rockridge02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Rockridge02.png)
 3. No escritório do Xerife, converse com Wyatt Warp (harboro1 241,218)
 
-   :   ![Rockridge03](../images/9/93/Rockridge03.png)
+   :   ![Rockridge03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Rockridge03.png)
 4. Volte a falar com Costello (harboro1 80,218)
 5. Retorne a Wyatt Warp (har\_in01 20,30)
 6. Clique no Trem (rockrdg1 157,306)
 
-   :   ![Rockridge04](../images/5/5f/Rockridge04.png)
+   :   ![Rockridge04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Rockridge04.png)
 
    - Dois búfalos devem aparecer.
    - Converse com eles dizendo que é o Prefeito da cidade.
    - Ainda no local, fale com Wyatt Warp.
 7. Volte ao escritório do xerife e converse com Ivoka Skudi (har\_in01 14,24)
 
-   :   ![Rockridge05](../images/0/03/Rockridge05.png)
+   :   ![Rockridge05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/Rockridge05.png)
 8. Após uma breve discussão, desça as escadas e fale com Johnny James (har\_in01 90,23)
 
-   :   ![Rockridge06](../images/5/59/Rockridge06.png)
+   :   ![Rockridge06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Rockridge06.png)
 9. Fale com Ivoka Skudi ali mesmo e depois, fale com ele subindo as escadas.
 10. Retorne a Wyatt Warp (har\_in01 20,30)
 11. Encontre Shawn McCurdy nas seguintes localizações:
@@ -48,7 +48,7 @@
     3. Dentro da Mina, onde você deve caçar [Minérios Roxos](http://www.divine-pride.net/database/monster/3742/) para conseguir 1 [Minério Púrpura](http://www.divine-pride.net/database/item/25247/)
 12. Aproxime-se da Rocha (rockrdg2 279,312)
 
-    :   ![Rockridge07](../images/8/8a/Rockridge07.png)
+    :   ![Rockridge07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Rockridge07.png)
 
     - Selecione "*toc toc toc*".
     - Albert Ford aparece um pouco mais longe e dará um [Crina de Búfalo](http://www.divine-pride.net/database/item/25249/) após a conversa.
@@ -59,7 +59,7 @@
     3. Retorne a Wyatt Warp (har\_in01 20,30)
 14. Volte a falar com Shawn McCurdy (rockrdg2 347,216)
 
-    :   ![Rockridge08](../images/4/4d/Rockridge08.png)
+    :   ![Rockridge08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4d/Rockridge08.png)
 
     1. Dentro da Mina, fale com ele novamente.
     2. Clique no Elevador (rockmi2 97,119)

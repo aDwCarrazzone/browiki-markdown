@@ -14,12 +14,12 @@
 
 1. Inscreva-se no Festival com Yulata (yuno 175,162) em [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno").
 
-   :   ![EVYulata](../images/6/67/EVYulata.png)
+   :   ![EVYulata](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/EVYulata.png)
 
    - A partir daqui, você pode participar das gincanas do evento.
 2. O teleporte rápido para [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno") pode ser feito por Ostara e Eostre.
 
-   :   ![Ostara](../images/d/d0/Ostara.png)
+   :   ![Ostara](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Ostara.png)
 
    - O teleporte custa 1 [Trevo da Felicidade](http://www.divine-pride.net/database/item/25295/)
    - Eles estão espalhados algumas cidades e no [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden").
@@ -40,7 +40,7 @@
 
 - Troque os [Bilhetes de Trevo](http://www.divine-pride.net/database/item/25294/) por prêmios aleatórios na Máquina do Festival (yuno 176,152)
 
-  :   ![EVHappyEgg](../images/a/a1/EVHappyEgg.png)
+  :   ![EVHappyEgg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/EVHappyEgg.png)
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -18,10 +18,10 @@
 
 1. Pergunte sobre os bichinhos para Criador de Mascote  (mid\_camp 146,305)
 
-   :   ![Pinedel](../images/9/9d/Pinedel.png)
+   :   ![Pinedel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Pinedel.png)
 2. Colete 10 [Ovos de Dragão](http://www.divine-pride.net/database/item/6093/) clicando nos Ovos de Draco espalhados na [Grande Ferida](http://www.divine-pride.net/database/map/nyd_dun01/).
 
-   :   ![Pinedelobo](../images/9/96/Pinedelobo.png)
+   :   ![Pinedelobo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Pinedelobo.png)
 
    - Ao coletar um Ovo, o [NPC](../Sem%20categoria/NPC.md "NPC") desaparece e reaparece após 7 minutos.
    - No segundo calabouço da [Grande Ferida](http://www.divine-pride.net/database/map/nyd_dun02/), existe um ninho de ovos que se regenera a cada 2 minutos.
@@ -53,7 +53,7 @@
 
 1. Ajude o Criador de Esplendor (spl\_in01 97,313)
 
-   :   ![Artesao01](../images/2/20/Artesao01.png)
+   :   ![Artesao01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Artesao01.png)
 2. Entregue os itens ao Criador para receber sua recompensa.
    - As [Lágrimas Cristalizadas](http://www.divine-pride.net/database/item/6075/) ficam presas ao personagem.
 
@@ -73,13 +73,13 @@
 1. Você não precisa ter a missão [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio"), basta ter o anel.
 2. Fale com a Laphine Superior  (spl\_in01 30,323)
 
-   :   ![Perfume01](../images/1/14/Perfume01.png)
+   :   ![Perfume01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/Perfume01.png)
 3. Dentro de um Yai, pegue uma [Semente](http://www.divine-pride.net/database/item/7193/) com a Laphine Médio  (spl\_in02 139,65)
 
-   :   ![Perfume02](../images/5/5f/Perfume02.png)
+   :   ![Perfume02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Perfume02.png)
 4. Receba 1 [Flor de Alfheim](http://www.divine-pride.net/database/item/6079/) de qualquer um dos 6 Purificadores espalhados na cidade.
 
-   :   ![Perfume03](../images/4/4a/Perfume03.png)
+   :   ![Perfume03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Perfume03.png)
 
    - (splendide 160,265)
    - (splendide 262,262)
@@ -90,7 +90,7 @@
 5. Retorne para a Cientista e insista na conversa até receber 5 [Espíritos de Alfheim](http://www.divine-pride.net/database/item/6082/).
 6. Use os [Espíritos de Alfheim](http://www.divine-pride.net/database/item/6082/) em 5 dos Soldados Exaustos espalhados na cidade. Existem 7 deles e reaparecem a cada 1 minuto.
 
-   :   ![Perfume04](../images/2/2e/Perfume04.png)
+   :   ![Perfume04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Perfume04.png)
 
    - (splendide 196,153)
    - (splendide 124,212)
@@ -117,7 +117,7 @@
 
 1. Fale com o Cientista (man\_in01 372,220)
 
-   :   ![CientistaMan1](../images/5/5b/CientistaMan1.png)
+   :   ![CientistaMan1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/CientistaMan1.png)
 
    - Selecione:
      - *Uma doença crônica?*
@@ -131,7 +131,7 @@
 3. As pedras estão localizadas nos seguintes lugares:
    1. Lago do Abismo: 5 [Minerais Brutos](http://www.divine-pride.net/database/item/6077/)
 
-      :   ![CientistaMan2](../images/b/b0/CientistaMan2.png)
+      :   ![CientistaMan2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/CientistaMan2.png)
 
       - (hu\_fild05 251,343)
       - (hu\_fild05 137,322)
@@ -139,7 +139,7 @@
       - (hu\_fild05 66,98)
    2. Vulcão de Thor: 5 [Minerais Brutos](http://www.divine-pride.net/database/item/6077/)
 
-      :   ![CientistaMan3](../images/c/ca/CientistaMan3.png)
+      :   ![CientistaMan3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/CientistaMan3.png)
 
       - (ve\_fild03 284,266)
       - (ve\_fild03 255,225)
@@ -147,7 +147,7 @@
       - (ve\_fild03 156,134)
    3. Monte Mjolnir: 10 [Minerais Brutos](http://www.divine-pride.net/database/item/6077/)
 
-      :   ![CientistaMan4](../images/f/f3/CientistaMan4.png)
+      :   ![CientistaMan4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/CientistaMan4.png)
 
       - (mjolnir\_01 33,308)
       - (mjolnir\_01 216,35)
@@ -175,10 +175,10 @@
 
 1. Pegue o [Caderno de Bazett](http://www.divine-pride.net/database/item/6074/) com Bazett (mid\_camp 284,198)
 
-   :   ![Bazet01](../images/3/34/Bazet01.png)
+   :   ![Bazet01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Bazet01.png)
 2. Entregue 30 [Chifres de Leão da Montanha](http://www.divine-pride.net/database/item/6032/) ao Operário (manuk 194,135)
 
-   :   ![Bazet02](../images/e/ed/Bazet02.png)
+   :   ![Bazet02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/Bazet02.png)
 3. Relate o ocorrido a Bazett para receber sua premiação.
 
 ## Mineral Misterioso
@@ -199,7 +199,7 @@
 
 1. Ajude o Engenheiro de Manuk (man\_in01 378,276)
 
-   :   ![Minermis01](../images/7/78/Minermis01.png)
+   :   ![Minermis01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Minermis01.png)
 2. Entregue os 20 [Bradiuns Purificados](http://www.divine-pride.net/database/item/6090/) ao Engenheiro para receber sua recompensa.
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |

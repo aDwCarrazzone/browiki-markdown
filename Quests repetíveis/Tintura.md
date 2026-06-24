@@ -14,16 +14,16 @@
 
 1. Com os itens no inventário, fale com Louitz (alberta\_in 132,55)
 
-   :   ![Tintura0a](../images/f/fd/Tintura0a.png)
+   :   ![Tintura0a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Tintura0a.png)
 
    - Selecione:
      - *Sobre aquelas soluções...*
 2. Pergunte sobre Molgenstein a Dupon (geffen 181,114)
 
-   :   ![Tintura0b](../images/4/46/Tintura0b.png)
+   :   ![Tintura0b](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Tintura0b.png)
 3. Converse mais de uma vez com Molgenstein (geffen\_in 141,140)
 
-   :   ![Tintura0c](../images/a/a3/Tintura0c.png)
+   :   ![Tintura0c](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Tintura0c.png)
 4. Quando Molgenstein perguntar entre [Antígeno](http://www.divine-pride.net/database/item/973/) ou [Mistura](http://www.divine-pride.net/database/item/974/), selecione o produto que você deseja:
    - Para fazer [Antígeno](http://www.divine-pride.net/database/item/973/), é necessário:
      - 1 [Álcool](http://www.divine-pride.net/database/item/970/)
@@ -41,7 +41,7 @@
    - Se você estiver almejando se tornar um [Alquimista](../Sem%20categoria/Alquimista.md "Alquimista"), é criando o [Antígeno](http://www.divine-pride.net/database/item/973/) e a [Mistura](http://www.divine-pride.net/database/item/974/) que já libera a missão de classe.
 5. Para fazer as tinturas, fale com Dullihan (morocc\_in 146,99)
 
-   :   ![Tintura0d](../images/c/ce/Tintura0d.png)
+   :   ![Tintura0d](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Tintura0d.png)
 
 | Tintura | Materiais | [Zeny](../Sem%20categoria/Zeny.md "Zeny") | Tintura | Materiais | [Zeny](../Sem%20categoria/Zeny.md "Zeny") |
 | --- | --- | --- | --- | --- | --- |

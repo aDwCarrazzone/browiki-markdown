@@ -43,7 +43,7 @@ Ao atingirem o [nível de base](../Sem%20categoria/N%C3%ADvel%20de%20base.md "N�
 
 ### Árvore de habilidades
 
-![SkilltreeBruxos](../images/f/f0/SkilltreeBruxos.png)
+![SkilltreeBruxos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/SkilltreeBruxos.png)
 
 ## Construção do Personagem
 

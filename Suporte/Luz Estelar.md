@@ -20,7 +20,7 @@
 
 Usa o poder da luz das Estrelas.
 
-Aumenta temporariamente o dano de [![Chuva Estelar](../images/6/60/Chuva_Estelar.png)](../Ativa/Chuva%20Estelar.md "Chuva Estelar") [Chuva Estelar](../Ativa/Chuva%20Estelar.md "Chuva Estelar").
+Aumenta temporariamente o dano de [![Chuva Estelar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Chuva_Estelar.png)](../Ativa/Chuva%20Estelar.md "Chuva Estelar") [Chuva Estelar](../Ativa/Chuva%20Estelar.md "Chuva Estelar").
 
 | Nv. | Dano | Duração |
 | --- | --- | --- |

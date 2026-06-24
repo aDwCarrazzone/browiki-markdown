@@ -17,10 +17,10 @@
 
 1. Em [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri"), fale com Arinoa Yurhik.
 
-   :   ![YurhikArinoa](../images/f/f9/YurhikArinoa.png)
+   :   ![YurhikArinoa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/YurhikArinoa.png)
 2. Seu irmão, Arivero Yuhrik aparecerá. Ele pede que você retorne a ele após as 4 horas da manhã.
 
-   :   ![YurhikArivero](../images/5/5b/YurhikArivero.png)
+   :   ![YurhikArivero](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/YurhikArivero.png)
 3. Clique em Arinoa Yurhik para que Arivero Yuhrik apareça.
    - O [NPC](../Sem%20categoria/NPC.md "NPC") só falará com você se clicar em Arinoa, então use Arinoa sempre como referência para falar com ele.
    - Selecione:
@@ -28,23 +28,23 @@
      - A Tocha Apagada
 4. Dirija-se para [Einbech](../Lugares%20em%20Ragnar%C3%B6k/Einbech.md "Einbech") com 1 [Coração Flamejante](http://www.divine-pride.net/database/item/994/) e 3 [Gelo Místico](http://www.divine-pride.net/database/item/995/) e fale com Arivero (einbech 211,212)
 
-   :   ![TaticTF01](../images/1/19/TaticTF01.png)
+   :   ![TaticTF01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/TaticTF01.png)
 5. Retorne para [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri") e fale com Arivero através da Arinoa.
    - Selecione *Vento Bruto*.
 6. Dirija-se para [Lighthalzen](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md "Lighthalzen") com 1 [Gelo Místico](http://www.divine-pride.net/database/item/995/) e 3 [Vento Bruto](http://www.divine-pride.net/database/item/996/) e fale com Arivero (lighthalzen 134,233)
 
-   :   ![TaticTF02](../images/9/9b/TaticTF02.png)
+   :   ![TaticTF02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/TaticTF02.png)
 7. Retorne para [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri") e fale com Arivero através da Arinoa.
    - Selecione *Perguntar a ele*.
    - Dê 1 [Fragmento Estelar](http://www.divine-pride.net/database/item/1000/) para Arivero.
 8. Dirija-se para [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno") com 3 [Natureza Grandiosa](http://www.divine-pride.net/database/item/997/) e fale com Arivero (yuno 206,224)
 
-   :   ![TaticTF03](../images/5/50/TaticTF03.png)
+   :   ![TaticTF03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/TaticTF03.png)
 9. Dirija-se para [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch") com 1 [Natureza Grandiosa](http://www.divine-pride.net/database/item/997/) e 3 [Coração Flamejante](http://www.divine-pride.net/database/item/994/) e fale com Arivero (einbroch 262,42)
 
-   :   ![TaticTF04](../images/2/29/TaticTF04.png)
+   :   ![TaticTF04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/TaticTF04.png)
 10. Retorne para Arinoa Yurhik em [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri") pela última vez.
 11. Fale com Rupert, o Líder dos Insurgentes para entender o que foi que aconteceu.
 
-    :   ![Rupert](../images/f/fc/Rupert.png)
+    :   ![Rupert](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Rupert.png)
 12. Você receberá 1.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base, 4.000.000 de classe e 10 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).

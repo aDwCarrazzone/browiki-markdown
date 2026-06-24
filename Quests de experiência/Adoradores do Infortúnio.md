@@ -17,11 +17,11 @@
 
 1. Fale com o Comandante da Base (moro\_vol 131,103)
 
-   :   ![Doom01](../images/2/24/Doom01.png)
+   :   ![Doom01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Doom01.png)
 2. Entregue 15 [Plumas Flamejantes](http://www.divine-pride.net/database/item/6691/) ao Comandante da Base.
 3. Fale mais de uma vez com o Batedor (moro\_vol 234,301)
 
-   :   ![Doom02](../images/c/c2/Doom02.png)
+   :   ![Doom02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Doom02.png)
 
    - Seu objetivo é coletar 20 [Memorandos da Patrulha](http://www.divine-pride.net/database/item/6692/) que vão direto pro inventário ao eliminar [Arenosos de Fogo](http://www.divine-pride.net/database/monster/3021/).
    - Cuidado ao se aproximar do Batedor, há chances de acontecer um ataque de [Arenosos de Fogo](http://www.divine-pride.net/database/monster/3021/) e você perder entre 1 a 4 [Memorandos](http://www.divine-pride.net/database/item/6692/).
@@ -29,13 +29,13 @@
 5. A pedido do Comandante da Base, derrote 20 [Frilldoras de Fogo](http://www.divine-pride.net/database/monster/3022/) e 20 [Arenosos de Fogo](http://www.divine-pride.net/database/monster/3021/). Você receberá 100.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe.
 6. Fale com o Bispo dos Adoradores (moro\_vol 91,197) e selecione: *Volte!*.
 
-   :   ![Doom03](../images/7/7d/Doom03.png)
+   :   ![Doom03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7d/Doom03.png)
 7. Traga 40 [Pedras Abençoadas](http://www.divine-pride.net/database/item/6693/) ao Bispo dos Adoradores e atire-as contra os Fiéis até implorarem para que você pare.
 
-   :   ![Doom05](../images/2/2a/Doom05.png)
+   :   ![Doom05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Doom05.png)
 8. Colete 30 [Sangues de Monstro](http://www.divine-pride.net/database/item/6694/) para o Bispo dos Adoradores.
 9. Entregue 30 [Dentes de Golem](http://www.divine-pride.net/database/item/6695/) e 30 [Brasões Flamejantes](http://www.divine-pride.net/database/item/6696/) para o Adorador Fervoroso (moro\_vol 91,197)
 
-   :   ![Doom04](../images/8/8a/Doom04.png)
+   :   ![Doom04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Doom04.png)
 10. Reencontre o Bispo dos Adoradores.
     - Você receberá 2.100.000 de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base.

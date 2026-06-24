@@ -47,7 +47,7 @@ Durante o estado de *Avanço*, o usuário causa mais dano físico corpo a corpo 
 
 ### Sismo
 
-- **Ícone:** ![I Avanço Sísmico2](../images/a/ac/I_Avan%C3%A7o_S%C3%ADsmico2.png)
+- **Ícone:** ![I Avanço Sísmico2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/I_Avan%C3%A7o_S%C3%ADsmico2.png)
 - **Duração:** 30 segundos.
 - **Efeito:** Resistência a dano físico a distância e corpo a corpo -50%.
 - Pode ser removido por [Gênese](../Ativa/G%C3%AAnese.md "Gênese") ou [Desencantar](../Ativa/Desencantar.md "Desencantar").

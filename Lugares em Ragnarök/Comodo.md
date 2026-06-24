@@ -2,7 +2,7 @@
 
 # Comodo
 
-[![Comodo city](../images/f/ff/Comodo_city.jpg)](https://browiki.org/wiki/Arquivo%3AComodo_city.jpg)
+[![Comodo city](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Comodo_city.jpg)](https://browiki.org/wiki/Arquivo%3AComodo_city.jpg)
 
 Caverna Litorânea de Comodo
 

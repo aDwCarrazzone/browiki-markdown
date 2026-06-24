@@ -2,7 +2,7 @@
 
 # Guerra do Emperium
 
-![Fotogde00](../images/1/19/Fotogde00.jpg)
+![Fotogde00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Fotogde00.jpg)
 
 A Guerra do Emperium é um evento de 3 edições com [GvG](PvP.md "PvP") ativado durante um período de 2 horas, o objetivo é destruir o *Emperium* de um castelo.
 
@@ -97,7 +97,7 @@ Habilidades desabilitadas dentro dos castelos:
 
     Elas podem ser trocadas nas Máquinas Miau Miau GX, localizadas em qualquer feudo.
 
-    ![Guerra do Emperium001](../images/7/73/Guerra_do_Emperium001.png)
+    ![Guerra do Emperium001](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Guerra_do_Emperium001.png)
 
     | Item | 6615.png [Moeda](http://www.divine-pride.net/database/item/6615/) |
     | --- | --- |
