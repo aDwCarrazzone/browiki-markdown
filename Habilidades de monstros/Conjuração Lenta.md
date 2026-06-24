@@ -4,13 +4,13 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Conjuração Lenta** | |
-| Conjuração Lenta | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Conjuração Lenta** | |
+| ![Conjuração Lenta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/Conjura%C3%A7%C3%A3o_Lenta.gif) | |
 | **ID:** | NPC\_SLOWCAST (672) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
 | **Duração:** | 30 segundos |
-| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | I Conjuração Lenta |
+| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | ![I Conjuração Lenta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/I_Conjura%C3%A7%C3%A3o_Lenta.png) |
 
 Aumenta a [conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20vari%C3%A1vel.md "Conjuração variável") dos alvos afetados por 30 segundos.
 
@@ -29,8 +29,8 @@ Aumenta a [conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20var
 - É possível ter imunidade ao efeito se o usuário conseguir alcançar 100% de redução da [conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20vari%C3%A1vel.md "Conjuração variável").
 - [Itens](../Itens/Itens.md "Itens") que reduzem a [conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20vari%C3%A1vel.md "Conjuração variável") de uma [habilidade](../Sem%20categoria/Habilidade.md "Habilidade") específica são afetados.
 - Itens relacionados:
-  - ![480812.png](http://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
-  - ![13028.png](http://static.divine-pride.net/images/items/item/13028.png) [Lâmina Dentada](http://www.divine-pride.net/database/item/13028/)
+  - ![480812.png](https://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
+  - ![13028.png](https://static.divine-pride.net/images/items/item/13028.png) [Lâmina Dentada](http://www.divine-pride.net/database/item/13028/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

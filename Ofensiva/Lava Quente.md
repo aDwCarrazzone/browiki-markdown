@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Lava Quente Lava Quente** | |
+| **![Lava Quente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Lava_Quente.png) Lava Quente** | |
 | [Arquivo:Lava Quente.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Lava_Quente.gif "Arquivo:Lava Quente.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

@@ -6,7 +6,7 @@
 
 |  |  |
 | --- | --- |
-| Disambig | *Você seguiu para um artigo com mais de um significado, esta página ajudará você a ser mais específico.* |
+| ![Disambig](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Disambig.png) | *Você seguiu para um artigo com mais de um significado, esta página ajudará você a ser mais específico.* |
 
 ---
 

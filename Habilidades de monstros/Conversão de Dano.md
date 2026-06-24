@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Conversão de Dano** | |
-| Conversão de Dano | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Conversão de Dano** | |
+| ![Conversão de Dano](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Convers%C3%A3o_de_Dano.gif) | |
 | **ID:** | NPC\_DAMAGE\_HEAL (753) |
 | **Níveis:** | 3 |
 | **Exclusiva:** | Sim |

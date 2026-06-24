@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Estado Traumático Estado Traumático** | |
-| Estado Traumático | |
+| **![Estado Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Estado_Traum%C3%A1tico.png) Estado Traumático** | |
+| ![Estado Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Estado_Traum%C3%A1tico.gif) | |
 | **Eternal Quick Combo** | |
 | **ID** | MH\_EQC (8038) |
 | **Tipo** | Ofensiva |

@@ -2,13 +2,13 @@
 
 # Noivo de Euslan
 
-| NQ ico Noivo de Euslan | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Noivo de Euslan | |
 | --- | --- |
 | Uma mulher doente está preocupada com seu noivo que saiu em busca de um remédio para ela. Será que ele é capaz de arriscar a própria vida para conseguir uma cura? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7511.png 5 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) 5 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 60.000 |

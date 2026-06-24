@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Garras Afiadas Garras Afiadas** | |
+| **![Garras Afiadas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Garras_Afiadas.png) Garras Afiadas** | |
 | [Arquivo:Garras Afiadas.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Garras_Afiadas.gif "Arquivo:Garras Afiadas.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

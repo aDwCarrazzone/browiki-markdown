@@ -2,18 +2,18 @@
 
 # Prisioneiro Suspeito
 
-| NQ ico Prisioneiro Suspeito | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Prisioneiro Suspeito | |
 | --- | --- |
 | Os Esplêndidos responsáveis por construir a Yggdrasil e restaurar Bifröst nunca tiveram a oportunidade de ver o resultado de seus feitos. Não seria emocionante se eles pudessem ver o atual estado da Yggdrasil? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 120 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12046.png 1 [Chá de Ervas com Uvas](http://www.divine-pride.net/database/item/12046/)  12636.png 10 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/)  717.png 2 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)  715.png 2 [Gemas Amarelas](http://www.divine-pride.net/database/item/715/)  716.png 2 [Gemas Vermelhas](http://www.divine-pride.net/database/item/716/)  7798.png 1 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12046.png](https://static.divine-pride.net/images/items/item/12046.png) 1 [Chá de Ervas com Uvas](http://www.divine-pride.net/database/item/12046/)  ![12636.png](https://static.divine-pride.net/images/items/item/12636.png) 10 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/)  ![717.png](https://static.divine-pride.net/images/items/item/717.png) 2 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)  ![715.png](https://static.divine-pride.net/images/items/item/715.png) 2 [Gemas Amarelas](http://www.divine-pride.net/database/item/715/)  ![716.png](https://static.divine-pride.net/images/items/item/716.png) 2 [Gemas Vermelhas](http://www.divine-pride.net/database/item/716/)  ![7798.png](https://static.divine-pride.net/images/items/item/7798.png) 1 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/) |
 | **Quests anteriores** | [Rumores do Rei](Rumores%20do%20Rei.md "Rumores do Rei") [Fadas Travessas](Fadas%20Travessas.md "Fadas Travessas") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.060.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 2915.png 1 [Colar de Etran](http://www.divine-pride.net/database/item/2915/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2915.png](https://static.divine-pride.net/images/items/item/2915.png) 1 [Colar de Etran](http://www.divine-pride.net/database/item/2915/) |
 | **Recompensa** | Encanta o [Colar de Etran](http://www.divine-pride.net/database/item/2915/) |
 
 1. Acesse a prisão pelo Guarda de Eclage (ecl\_in02 98,32)
@@ -94,7 +94,7 @@
 
 | Tipo | Slot 1 | Slot 2 |
 | --- | --- | --- |
-| Físico | 4818.png [Pedra de Crítico 1](http://www.divine-pride.net/database/item/4818/) | 4766.png [ATQ +2%](http://www.divine-pride.net/database/item/4766/) |
-| Mágico | 4813.png [Pedra de Encantamento 3](http://www.divine-pride.net/database/item/4813/) | 4760.png [ATQM +1%](http://www.divine-pride.net/database/item/4760/) |
-| Ataque à Distancia | 4818.png [Pedra de Crítico 1](http://www.divine-pride.net/database/item/4818/) | 4832.png [Pedra da Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) |
-| Recuperação | 4805.png [Fator de Cura 1](http://www.divine-pride.net/database/item/4805/) | 4805.png [Fator de Cura 1](http://www.divine-pride.net/database/item/4805/) |
+| Físico | ![4818.png](https://static.divine-pride.net/images/items/item/4818.png) [Pedra de Crítico 1](http://www.divine-pride.net/database/item/4818/) | ![4766.png](https://static.divine-pride.net/images/items/item/4766.png) [ATQ +2%](http://www.divine-pride.net/database/item/4766/) |
+| Mágico | ![4813.png](https://static.divine-pride.net/images/items/item/4813.png) [Pedra de Encantamento 3](http://www.divine-pride.net/database/item/4813/) | ![4760.png](https://static.divine-pride.net/images/items/item/4760.png) [ATQM +1%](http://www.divine-pride.net/database/item/4760/) |
+| Ataque à Distancia | ![4818.png](https://static.divine-pride.net/images/items/item/4818.png) [Pedra de Crítico 1](http://www.divine-pride.net/database/item/4818/) | ![4832.png](https://static.divine-pride.net/images/items/item/4832.png) [Pedra da Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) |
+| Recuperação | ![4805.png](https://static.divine-pride.net/images/items/item/4805.png) [Fator de Cura 1](http://www.divine-pride.net/database/item/4805/) | ![4805.png](https://static.divine-pride.net/images/items/item/4805.png) [Fator de Cura 1](http://www.divine-pride.net/database/item/4805/) |

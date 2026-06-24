@@ -2,7 +2,7 @@
 
 # Doce de Guaraná
 
-| NQ ico Doce de Guaraná | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Doce de Guaraná | |
 | --- | --- |
 | Uma estranha fruta com formato de olho pode ser o ingrediente necessário para uma Doceira fazer uma das melhores guloseimas da cidade! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 70.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12414.png 1 [Bala de Guaraná](http://www.divine-pride.net/database/item/12414/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12414.png](https://static.divine-pride.net/images/items/item/12414.png) 1 [Bala de Guaraná](http://www.divine-pride.net/database/item/12414/) |
 
 1. Fale com a Doceira (brasilis 187,162)
 

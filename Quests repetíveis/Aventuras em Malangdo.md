@@ -4,7 +4,7 @@
 
 ## Coleta de Frutas
 
-| DQ ico Aventuras em Malangdo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malangdo | |
 | --- | --- |
 | Colete frutas espalhadas por toda a ilha dos gatos! | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Reunião Regular dos Gatos](../Quest/Reuni%C3%A3o%20Regular%20dos%20Gatos.md "Reunião Regular dos Gatos") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
 
 1. Encontre Rican (mal\_in01 114,169)
 
@@ -37,7 +37,7 @@
 
 ## Reparando a Rachadura
 
-| DQ ico Aventuras em Malangdo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malangdo | |
 | --- | --- |
 | Determinadas áreas da ilha estão precisando serem tampadas para que aventureiros distraídos não caiam no recife de coral! | |
 | Requisitos mínimos | |
@@ -45,7 +45,7 @@
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Reunião Regular dos Gatos](../Quest/Reuni%C3%A3o%20Regular%20dos%20Gatos.md "Reunião Regular dos Gatos") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 4 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 4 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
 
 1. Ajude a Geologista Mali (mal\_in02 179,57)
 
@@ -64,18 +64,18 @@
 
 ## Chef Nyas
 
-| DQ ico Aventuras em Malangdo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malangdo | |
 | --- | --- |
 | Ajude o chefe de cozinha do Navio Navi a manter o estoque de comidas! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 19979.png 1 [Comida aleatória](http://www.divine-pride.net/database/item/19979/)  577.png 10 [Sacola de Grãos](http://www.divine-pride.net/database/item/577/)  7454.png 1 [Molho Saboroso](http://www.divine-pride.net/database/item/7454/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![19979.png](https://static.divine-pride.net/images/items/item/19979.png) 1 [Comida aleatória](http://www.divine-pride.net/database/item/19979/)  ![577.png](https://static.divine-pride.net/images/items/item/577.png) 10 [Sacola de Grãos](http://www.divine-pride.net/database/item/577/)  ![7454.png](https://static.divine-pride.net/images/items/item/7454.png) 1 [Molho Saboroso](http://www.divine-pride.net/database/item/7454/) |
 | **Quests anteriores** | [Ache os Biscoitos](Ache%20os%20Biscoitos.md "Ache os Biscoitos") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 50.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 80.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
 
 1. Fale sobre entrega de comida com o Chef Nyas (mal\_in02 187,58)
 
@@ -100,7 +100,7 @@
 
 ## Gatos em Perigo
 
-| DQ ico Aventuras em Malangdo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malangdo | |
 | --- | --- |
 | Colete frutas espalhadas por toda a ilha dos gatos! | |
 | Requisitos mínimos | |
@@ -109,7 +109,7 @@
 | **Caça** | 20 [Erumas Vermelhos](http://www.divine-pride.net/database/monster/2197/) |
 | **Quests anteriores** | [Gatos em Perigo](../Quests%20de%20ca%C3%A7a/Gatos%20em%20Perigo.md "Gatos em Perigo") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
 
 1. Anime o Líder da Patrulha (malangdo 125,146)
 
@@ -123,16 +123,16 @@
 
 ## Doce Estelar
 
-| DQ ico Aventuras em Malangdo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malangdo | |
 | --- | --- |
 | Traga alimentos para uma criatura que mantém a ilha na superfície! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 12624.png 30 [Geleias Deliciosas](http://www.divine-pride.net/database/item/12624/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12624.png](https://static.divine-pride.net/images/items/item/12624.png) 30 [Geleias Deliciosas](http://www.divine-pride.net/database/item/12624/) |
 | **Quests anteriores** | [Reunião Regular dos Gatos](../Quest/Reuni%C3%A3o%20Regular%20dos%20Gatos.md "Reunião Regular dos Gatos") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/) |
 
 1. Fale com Bolacha (mal\_dun01 136,122)
 
@@ -141,6 +141,6 @@
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |
 | --- | --- |
-| Principais | [Aventuras na Mansão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
+| Principais | [Aventuras na Aldeia](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Aldeia.md "Aventuras na Aldeia")18 · [Aventuras na Mansão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
 | Episódios | [Aventuras na Cozinha](../Quests%20di%C3%A1rias/Aventuras%20na%20Cozinha.md "Aventuras na Cozinha") · [Aventuras em Eclage](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Eclage.md "Aventuras em Eclage") · [Aventuras na Prisão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Pris%C3%A3o.md "Aventuras na Prisão") · [Aventuras em Verus](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Verus.md "Aventuras em Verus") · [Aventuras no Novo Mundo](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Novo%20Mundo.md "Aventuras no Novo Mundo") · [Departamento de Exploradores](../Quests%20de%20experi%C3%AAncia/Departamento%20de%20Exploradores.md "Departamento de Exploradores") |
 | Outros | [Aventuras em Rockridge](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Rockridge.md "Aventuras em Rockridge") · [Aventuras em Lasagna](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Lasagna.md "Aventuras em Lasagna") · [Aventuras na Vila Mora](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md "Aventuras na Vila") · [Aventuras em Malaya](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Malaya.md "Aventuras em Malaya") · Aventuras em Malangdo |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Falar** | |
-| Falar | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Falar** | |
+| ![Falar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Falar.gif) | |
 | **ID:** | NPC\_TALK (682) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

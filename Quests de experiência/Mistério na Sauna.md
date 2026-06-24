@@ -2,16 +2,16 @@
 
 # Mistério na Sauna
 
-| NQ ico Mistério na Sauna | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Mistério na Sauna | |
 | --- | --- |
-| MeditatioBath | |
+| ![MeditatioBath](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/MeditatioBath.jpg) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Normal |
 | **Quests anteriores** | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 515.667 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 | **Recompensa** | Libera o acesso a [Sauna Meditatio](http://www.divine-pride.net/database/map/ba_bath/) e [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão"). |
 
 1. Dentro da [mansão de Varmunt](../Lugares%20em%20Ragnar%C3%B6k/Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt"), fale com Esfriga (ba\_in01 384,38).
@@ -53,24 +53,24 @@
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Entre Água Quente e Fria | Caldira  (ba\_bath 286,68) | - Eliminar 10 [Empregada Quebrada (Balde)](http://www.divine-pride.net/database/monster/20634/) - Eliminar 10 [Empregada Quebrada (Cano)](http://www.divine-pride.net/database/monster/20633/) - Coletar 1000231.png 5 [Peça de Autômata Quebrada](http://www.divine-pride.net/database/item/1000231/) Aparecem direto no inventário ao derrotar as Empregadas (30% de chance). | - 1000103.png 2 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 100148.png 2 [Sais de Banho B](http://www.divine-pride.net/database/item/100148/) - 695.812 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 487.084 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Peixe de Água Fervida | Vahida  (ba\_bath 288,68) | - Eliminar 15 [Marc Escaldado](http://www.divine-pride.net/database/monster/20644/) - Eliminar 15 [Carpa Escaldada](http://www.divine-pride.net/database/monster/20646/) | - 1000103.png 2 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 722.940 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 506.070 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Entre Água Quente e Fria | Caldira  (ba\_bath 286,68) | - Eliminar 10 [Empregada Quebrada (Balde)](http://www.divine-pride.net/database/monster/20634/) - Eliminar 10 [Empregada Quebrada (Cano)](http://www.divine-pride.net/database/monster/20633/) - Coletar ![1000231.png](https://static.divine-pride.net/images/items/item/1000231.png) 5 [Peça de Autômata Quebrada](http://www.divine-pride.net/database/item/1000231/) Aparecem direto no inventário ao derrotar as Empregadas (30% de chance). | - ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 2 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - ![100148.png](https://static.divine-pride.net/images/items/item/100148.png) 2 [Sais de Banho B](http://www.divine-pride.net/database/item/100148/) - 695.812 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 487.084 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Peixe de Água Fervida | Vahida  (ba\_bath 288,68) | - Eliminar 15 [Marc Escaldado](http://www.divine-pride.net/database/monster/20644/) - Eliminar 15 [Carpa Escaldada](http://www.divine-pride.net/database/monster/20646/) | - ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 2 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 722.940 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 506.070 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
 
 ## Mecânica da Sauna
 
 1. **Treino da Princesa Azure**
    - 1 hora após a abertura do servidor, a [Princesa Azure](http://www.divine-pride.net/database/monster/20647/) aparece.
    - Elimine-a e dirija-se para a Criatura Aquática (ba\_bath 286,298).
-   - Você e outros jogadores poderão receber efeito do ![100150.png](http://static.divine-pride.net/images/items/item/100150.png) [Aromatizante](http://www.divine-pride.net/database/item/100150/).
+   - Você e outros jogadores poderão receber efeito do ![100150.png](https://static.divine-pride.net/images/items/item/100150.png) [Aromatizante](http://www.divine-pride.net/database/item/100150/).
 2. **Fechado para Limpeza**
    - Quando todos os jogadores do servidor eliminarem 500 monstros, a Sauna fechará para a limpeza.
    - Por 10 minutos, aparecem Lodos, [Gerente da Sauna (Vassoura)](http://www.divine-pride.net/database/monster/20635/) e [Gerente da Sauna (Mangueira)](http://www.divine-pride.net/database/monster/20636/)
    - O objetivo de todos do mapa é limpar o máximo de Lodos possíveis dentro desse período.
    - Quando o tempo acabar, os Lodos e as Gerentes desaparecerão.
    - Fale com Esfriga (ba\_bath 165,43) para receber uma premiação de acordo com os Lodos removidos:
-     - De 0 a 10: efeito do ![100147.png](http://static.divine-pride.net/images/items/item/100147.png) [Sais de Banho A](http://www.divine-pride.net/database/item/100147/)
-     - De 11 a 20: efeito do ![100148.png](http://static.divine-pride.net/images/items/item/100148.png) [Sais de Banho B](http://www.divine-pride.net/database/item/100148/)
-     - De 21 ou mais: efeito do ![100149.png](http://static.divine-pride.net/images/items/item/100149.png) [Sais de Banho C](http://www.divine-pride.net/database/item/100149/)
+     - De 0 a 10: efeito do ![100147.png](https://static.divine-pride.net/images/items/item/100147.png) [Sais de Banho A](http://www.divine-pride.net/database/item/100147/)
+     - De 11 a 20: efeito do ![100148.png](https://static.divine-pride.net/images/items/item/100148.png) [Sais de Banho B](http://www.divine-pride.net/database/item/100148/)
+     - De 21 ou mais: efeito do ![100149.png](https://static.divine-pride.net/images/items/item/100149.png) [Sais de Banho C](http://www.divine-pride.net/database/item/100149/)
    - Assim que o evento terminar, haverá 1 hora para reiniciar a contagem de monstros.
 3. Possível localização dos lodos:
 

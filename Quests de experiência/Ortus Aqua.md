@@ -2,20 +2,20 @@
 
 # Ortus Aqua
 
-| SC ico Ortus Aqua | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Ortus Aqua | |
 | --- | --- |
-| WaterGarden | |
+| ![WaterGarden](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/WaterGarden.jpg) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 (normal) 180 (difícil) |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Salvando Elyumina](Salvando%20Elyumina.md "Salvando Elyumina") |
 | Premiação | |
-| **Chefe** | Monster PapiliaV [Papilia Violeta](http://www.divine-pride.net/database/monster/20667/) (normal) Monster PapiliaR [Papilia Rubra](http://www.divine-pride.net/database/monster/20668/) (difícil) |
+| **Chefe** | ![Monster PapiliaV](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Monster_PapiliaV.png) [Papilia Violeta](http://www.divine-pride.net/database/monster/20667/) (normal) ![Monster PapiliaR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Monster_PapiliaR.png) [Papilia Rubra](http://www.divine-pride.net/database/monster/20668/) (difícil) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 
 1. Fale com Seiyu (ba\_in01 237,47)
 
@@ -68,7 +68,7 @@
    1. Converse com a Jardineira na entrada.
    2. Seu grupo será teleportado aleatoriamente para 4 pontos do labirinto.
    3. Para passar de fase, elimine as Papilas nos [spots](../Sem%20categoria/Spot.md "Spot") 7 e 1.
-   4. No caminho, uma Jardineira entregará ![1000099.png](http://static.divine-pride.net/images/items/item/1000099.png) 1 [Biscoito da Jardineira](http://www.divine-pride.net/database/item/1000099/).
+   4. No caminho, uma Jardineira entregará ![1000099.png](https://static.divine-pride.net/images/items/item/1000099.png) 1 [Biscoito da Jardineira](http://www.divine-pride.net/database/item/1000099/).
       - Monstros do modo normal: [Papila Vermelha](http://www.divine-pride.net/database/monster/20671/) e [Papila Azul](http://www.divine-pride.net/database/monster/20674/).
       - Monstros do modo difícil: [Papila Escarlate](http://www.divine-pride.net/database/monster/20672/) e [Papila Anil](http://www.divine-pride.net/database/monster/20675/).
 7. **O Gazebo**
@@ -90,9 +90,9 @@
 
 | Missão | Objetivo | Recompensa |
 | --- | --- | --- |
-| DQ ico Caçar Papilia Violeta | Eliminar 1 [Papilia Violeta](http://www.divine-pride.net/database/monster/20667/) | - 1000103.png 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 800.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 500.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Caçar Papilia Rubra | Eliminar 1 [Papilia Rubra](http://www.divine-pride.net/database/monster/20668/) | - 1000103.png 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 8.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 4.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Encontrar Jardineiras | Coletar 1000099.png 1 [Biscoito da Jardineira](http://www.divine-pride.net/database/item/1000099/) | - 1000103.png 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 800.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 500.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçar Papilia Violeta | Eliminar 1 [Papilia Violeta](http://www.divine-pride.net/database/monster/20667/) | - ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 800.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 500.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçar Papilia Rubra | Eliminar 1 [Papilia Rubra](http://www.divine-pride.net/database/monster/20668/) | - ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 8.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 4.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Encontrar Jardineiras | Coletar ![1000099.png](https://static.divine-pride.net/images/items/item/1000099.png) 1 [Biscoito da Jardineira](http://www.divine-pride.net/database/item/1000099/) | - ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) - 800.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 500.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
 
 | *[Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

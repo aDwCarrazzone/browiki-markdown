@@ -2,13 +2,13 @@
 
 # Alimentação Saudável
 
-| DQ ico Alimentação Saudável | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Alimentação Saudável | |
 | --- | --- |
 | Uma mãe preocupada está precisando de ajuda dos aventureiros para melhorar os hábitos alimentares do filho. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 517.png 1 [Carne](http://www.divine-pride.net/database/item/517/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![517.png](https://static.divine-pride.net/images/items/item/517.png) 1 [Carne](http://www.divine-pride.net/database/item/517/) |
 | Premiação | |
 | **Recompensa** | Cria sucos |
 
@@ -31,7 +31,7 @@
 
 :   :   |  |  |  |  |  |  |  |  |
         | --- | --- | --- | --- | --- | --- | --- | --- |
-        | |  |  | | --- | --- | | 531.png | [Suco de Maçã](http://www.divine-pride.net/database/item/531/) | | |  |  | | --- | --- | | 512.png | 1 [Maçã](http://www.divine-pride.net/database/item/512/) |  |  |  | | --- | --- | | 713.png | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
-        | |  |  | | --- | --- | | 532.png | [Suco de Banana](http://www.divine-pride.net/database/item/532/) | | |  |  | | --- | --- | | 513.png | 1 [Banana](http://www.divine-pride.net/database/item/513/) |  |  |  | | --- | --- | | 713.png | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
-        | |  |  | | --- | --- | | 534.png | [Suco de Cenoura](http://www.divine-pride.net/database/item/534/) | | |  |  | | --- | --- | | 515.png | 1 [Cenoura](http://www.divine-pride.net/database/item/515/) |  |  |  | | --- | --- | | 713.png | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
-        | |  |  | | --- | --- | | 533.png | [Suco de Uva](http://www.divine-pride.net/database/item/533/) | | |  |  | | --- | --- | | 514.png | 1 [Uva](http://www.divine-pride.net/database/item/514/) |  |  |  | | --- | --- | | 713.png | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
+        | |  |  | | --- | --- | | ![531.png](https://static.divine-pride.net/images/items/item/531.png) | [Suco de Maçã](http://www.divine-pride.net/database/item/531/) | | |  |  | | --- | --- | | ![512.png](https://static.divine-pride.net/images/items/item/512.png) | 1 [Maçã](http://www.divine-pride.net/database/item/512/) |  |  |  | | --- | --- | | ![713.png](https://static.divine-pride.net/images/items/item/713.png) | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
+        | |  |  | | --- | --- | | ![532.png](https://static.divine-pride.net/images/items/item/532.png) | [Suco de Banana](http://www.divine-pride.net/database/item/532/) | | |  |  | | --- | --- | | ![513.png](https://static.divine-pride.net/images/items/item/513.png) | 1 [Banana](http://www.divine-pride.net/database/item/513/) |  |  |  | | --- | --- | | ![713.png](https://static.divine-pride.net/images/items/item/713.png) | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
+        | |  |  | | --- | --- | | ![534.png](https://static.divine-pride.net/images/items/item/534.png) | [Suco de Cenoura](http://www.divine-pride.net/database/item/534/) | | |  |  | | --- | --- | | ![515.png](https://static.divine-pride.net/images/items/item/515.png) | 1 [Cenoura](http://www.divine-pride.net/database/item/515/) |  |  |  | | --- | --- | | ![713.png](https://static.divine-pride.net/images/items/item/713.png) | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |
+        | |  |  | | --- | --- | | ![533.png](https://static.divine-pride.net/images/items/item/533.png) | [Suco de Uva](http://www.divine-pride.net/database/item/533/) | | |  |  | | --- | --- | | ![514.png](https://static.divine-pride.net/images/items/item/514.png) | 1 [Uva](http://www.divine-pride.net/database/item/514/) |  |  |  | | --- | --- | | ![713.png](https://static.divine-pride.net/images/items/item/713.png) | 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/) | |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Comando de Batalha Comando de Batalha** | |
-| Comando de Batalha | |
+| **![Comando de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Comando_de_Batalha.png) Comando de Batalha** | |
+| ![Comando de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Comando_de_Batalha.gif) | |
 | **Battle Command** | |
 | **ID** | GD\_BATTLEORDER (10010) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Área** | 31x31 células |
 | **Pré-requisitos** | |
-| [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 2 [Autorização Oficial](../Passiva/Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](../Passiva/Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
+| [![Expandir Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Expandir_Cl%C3%A3.png)](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 2 [![Autorização Oficial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Autoriza%C3%A7%C3%A3o_Oficial.png)](../Passiva/Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](../Passiva/Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
 
 Fornece [FOR](../Sem%20categoria/FOR.md "FOR"), [INT](../Sem%20categoria/INT.md "INT") e [DES](../Sem%20categoria/DES.md "DES") +5 para todos os membros e aliados do [clã](../PvP/Cl%C3%A3.md "Clã") ao redor.
 

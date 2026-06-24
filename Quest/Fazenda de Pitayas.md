@@ -2,19 +2,19 @@
 
 # Fazenda de Pitayas
 
-| SC ico Fazenda de Pitayas | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Fazenda de Pitayas | |
 | --- | --- |
-| Pitayafarm | |
+| ![Pitayafarm](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/Pitayafarm.jpg) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Legado do Sábio](../Quests%20de%20experi%C3%AAncia/Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
 | Premiação | |
-| **Chefe** | Monster PitayaBoss [Árvore de Pitaya](http://www.divine-pride.net/database/monster/20659/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **Chefe** | ![Monster PitayaBoss](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/Monster_PitayaBoss.png) [Árvore de Pitaya](http://www.divine-pride.net/database/monster/20659/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 4 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 
 1. Fale com Luynan (ba\_maison 311,206)
 

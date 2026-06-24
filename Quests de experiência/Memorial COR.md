@@ -2,21 +2,21 @@
 
 # Memorial COR
 
-| SC ico Memorial COR | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Memorial COR | |
 | --- | --- |
 | Elyumina se considera a maior engenheira do continente. Ela quer testar a eficiência das suas criações robóticas usando você como cobaia. Acha que tens o que precisa para esmagares essas latas? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 110 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Ilusión](Ilusi%C3%B3n.md "Ilusión") |
 | Premiação | |
-| **Chefe** | Monster EL-A17T [EL-A17T](http://www.divine-pride.net/database/monster/20340/) |
+| **Chefe** | ![Monster EL-A17T](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Monster_EL-A17T.png) [EL-A17T](http://www.divine-pride.net/database/monster/20340/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 5% |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 300.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25668.png 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) ou 25723.png 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) 25669.png 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) ou ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) |
 
 1. Reserve a instância com o Insurgente (sp\_cor 113,130)
 
@@ -48,8 +48,8 @@
    - Evite aproximar-se dos Venenos Químicos.
 6. Após derrotar [EL-A17T](http://www.divine-pride.net/database/monster/20340/), fale com Elena para receber sua recompensa e sair da instância.
    - O item recebido é aleatório entre:
-   1. ![25668.png](http://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
-   2. ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25669.png](http://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
+   1. ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
+   2. ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
    - Esses itens podem ser trocados pelos [Equipamentos Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión").
 
 | *[Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |

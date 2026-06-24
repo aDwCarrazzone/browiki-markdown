@@ -2,18 +2,18 @@
 
 # Fadas Travessas
 
-| NQ ico Fadas Travessas | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Fadas Travessas | |
 | --- | --- |
 | Esplêndidos podem ficar entediados com muita facilidade... e isso é sinal de muitas pegadinhas entre as fadas! Participe de uma dessas brincadeiras que podem ser de muito mau gosto! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 120 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 511.png 11 [Ervas Verdes](http://www.divine-pride.net/database/item/511/)  6558.png 10 [Pilhas de Avelãs](http://www.divine-pride.net/database/item/6558/)  1097.png 10 [Páginas Deterioradas](http://www.divine-pride.net/database/item/1097/)  7001.png 10 [Pó de Bolor](http://www.divine-pride.net/database/item/7001/)  905.png 1 [Caule](http://www.divine-pride.net/database/item/905/)  1016.png 2 [Caudas de Rato](http://www.divine-pride.net/database/item/1016/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![511.png](https://static.divine-pride.net/images/items/item/511.png) 11 [Ervas Verdes](http://www.divine-pride.net/database/item/511/)  ![6558.png](https://static.divine-pride.net/images/items/item/6558.png) 10 [Pilhas de Avelãs](http://www.divine-pride.net/database/item/6558/)  ![1097.png](https://static.divine-pride.net/images/items/item/1097.png) 10 [Páginas Deterioradas](http://www.divine-pride.net/database/item/1097/)  ![7001.png](https://static.divine-pride.net/images/items/item/7001.png) 10 [Pó de Bolor](http://www.divine-pride.net/database/item/7001/)  ![905.png](https://static.divine-pride.net/images/items/item/905.png) 1 [Caule](http://www.divine-pride.net/database/item/905/)  ![1016.png](https://static.divine-pride.net/images/items/item/1016.png) 2 [Caudas de Rato](http://www.divine-pride.net/database/item/1016/) |
 | **Caça** | 20 [Menblatts](http://www.divine-pride.net/database/monster/2363/) |
 | **Quests anteriores** | [Rumores do Rei](Rumores%20do%20Rei.md "Rumores do Rei") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.250.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12812.png 1 [Gardênia](http://www.divine-pride.net/database/item/12812/)  12813.png 1 [Peônia](http://www.divine-pride.net/database/item/12813/)  12814.png 1 [Erva-Mate](http://www.divine-pride.net/database/item/12814/)  12815.png 1 [Pó de Yggdrasil](http://www.divine-pride.net/database/item/12815/)  6081.png 2 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12812.png](https://static.divine-pride.net/images/items/item/12812.png) 1 [Gardênia](http://www.divine-pride.net/database/item/12812/)  ![12813.png](https://static.divine-pride.net/images/items/item/12813.png) 1 [Peônia](http://www.divine-pride.net/database/item/12813/)  ![12814.png](https://static.divine-pride.net/images/items/item/12814.png) 1 [Erva-Mate](http://www.divine-pride.net/database/item/12814/)  ![12815.png](https://static.divine-pride.net/images/items/item/12815.png) 1 [Pó de Yggdrasil](http://www.divine-pride.net/database/item/12815/)  ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 2 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
 
 1. Ajude Bourbon (ecl\_in03 175,69)
 

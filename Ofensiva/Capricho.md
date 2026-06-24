@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Capricho Capricho** | |
-| Capricho | |
+| **![Capricho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Capricho.png) Capricho** | |
+| ![Capricho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Capricho.gif) | |
 | **Caprice** | |
 | **ID** | HVAN\_CAPRICE (8013) |
 | **Tipo** | Ofensiva |

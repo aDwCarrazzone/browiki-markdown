@@ -2,7 +2,7 @@
 
 # Monastério Maldito
 
-| EP ico Monastério Maldito | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Monastério Maldito | |
 | --- | --- |
 | O desaparecimento do Rei Tristan Gaebolg III pode estar relacionado a sua última viagem para uma ilha sem nome. | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | **Quests anteriores** | [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12052.png 4 [Frutos do Mar Sortidos](http://www.divine-pride.net/database/item/12052/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12052.png](https://static.divine-pride.net/images/items/item/12052.png) 4 [Frutos do Mar Sortidos](http://www.divine-pride.net/database/item/12052/) |
 | **Recompensa** | Acesso a [Ilha Esquecida](http://www.divine-pride.net/database/map/nameless_n/) |
 
 1. Pegue o Aeroplano internacional via [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude"), [Juno](../Lugares%20em%20Ragnar%C3%B6k/Juno.md "Juno") ou [Rachel](../Lugares%20em%20Ragnar%C3%B6k/Rachel.md "Rachel").
@@ -102,6 +102,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | SetaVermelha | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | SetaVermelha | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | SetaVermelha | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | Monastério Maldito | | |
-| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | SetaVermelha |
+| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Monastério Maldito | | |
+| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

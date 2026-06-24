@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Noviços
 
-| JQ ico Mudança de Classe: Noviços | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Noviços | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 10 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1545.png 1 [Maça de Iniciante](http://www.divine-pride.net/database/item/1545/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1545.png](https://static.divine-pride.net/images/items/item/1545.png) 1 [Maça de Iniciante](http://www.divine-pride.net/database/item/1545/) |
 | **Recompensa** | Muda a classe para [Noviço](../Sem%20categoria/Novi%C3%A7o.md "Noviço") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Alice (iz\_ac02 156,169)
@@ -25,7 +25,7 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![1545.png](http://static.divine-pride.net/images/items/item/1545.png) 1 [Maça de Iniciante](http://www.divine-pride.net/database/item/1545/)
+     - ![1545.png](https://static.divine-pride.net/images/items/item/1545.png) 1 [Maça de Iniciante](http://www.divine-pride.net/database/item/1545/)
      - Aprende [![Luz Divina](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Luz_Divina.png)](../Ofensiva/Luz%20Divina.md "Luz Divina") [Luz Divina](../Ofensiva/Luz%20Divina.md "Luz Divina")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
@@ -33,10 +33,10 @@
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 4. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -73,5 +73,5 @@
 
 | *O Poder Divino* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Noviçospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") | [Noviços](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") | | [Angelus](../Suporte/Angelus.md "Angelus") · [Aqua Benedicta](../Ativa/Aqua%20Benedicta.md "Aqua Benedicta") · [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") · [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") · [Curar](../Suporte/Curar.md "Curar") · [Diminuir Agilidade](../Suporte/Diminuir%20Agilidade.md "Diminuir Agilidade") · [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") · [Flagelo do Mal](../Passiva/Flagelo%20do%20Mal.md "Flagelo do Mal") · [Luz Divina](../Ofensiva/Luz%20Divina.md "Luz Divina") · [Medicar](../Suporte/Medicar.md "Medicar") · [Portal](../Ativa/Portal.md "Portal") · [Proteção Divina](../Passiva/Prote%C3%A7%C3%A3o%20Divina.md "Proteção Divina") · [Revelação](../Ofensiva/Revela%C3%A7%C3%A3o.md "Revelação") · [Signum Crucis](../Suporte/Signum%20Crucis.md "Signum Crucis") · [Teleporte](../Ativa/Teleporte.md "Teleporte") |
+| |  |  | | --- | --- | | [![Noviçospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Novi%C3%A7ospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") | [Noviços](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") | | [Angelus](../Suporte/Angelus.md "Angelus") · [Aqua Benedicta](../Ativa/Aqua%20Benedicta.md "Aqua Benedicta") · [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") · [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") · [Curar](../Suporte/Curar.md "Curar") · [Diminuir Agilidade](../Suporte/Diminuir%20Agilidade.md "Diminuir Agilidade") · [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") · [Flagelo do Mal](../Passiva/Flagelo%20do%20Mal.md "Flagelo do Mal") · [Luz Divina](../Ofensiva/Luz%20Divina.md "Luz Divina") · [Medicar](../Suporte/Medicar.md "Medicar") · [Portal](../Ativa/Portal.md "Portal") · [Proteção Divina](../Passiva/Prote%C3%A7%C3%A3o%20Divina.md "Proteção Divina") · [Revelação](../Ofensiva/Revela%C3%A7%C3%A3o.md "Revelação") · [Signum Crucis](../Suporte/Signum%20Crucis.md "Signum Crucis") · [Teleporte](../Ativa/Teleporte.md "Teleporte") |
 | Evoluções | [Sacerdotes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Sacerdotes.md "Sacerdotes") · [Monges](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Monges.md "Monges") |

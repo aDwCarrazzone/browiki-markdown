@@ -2,13 +2,13 @@
 
 # Centro de Juperos
 
-| DQ ico Centro de Juperos | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Centro de Juperos | |
 | --- | --- |
 | A descida para um laboratório secreto pode desvendar os mistérios de uma antiga civilização perdida ou de um cientista louco por robôs de batalha. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 7356.png 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7356/)  7357.png 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7357/)  7358.png 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7358/)  7359.png 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7359/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7356.png](https://static.divine-pride.net/images/items/item/7356.png) 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7356/)  ![7357.png](https://static.divine-pride.net/images/items/item/7357.png) 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7357/)  ![7358.png](https://static.divine-pride.net/images/items/item/7358.png) 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7358/)  ![7359.png](https://static.divine-pride.net/images/items/item/7359.png) 1 [Pedaço de Crista](http://www.divine-pride.net/database/item/7359/) |
 | Premiação | |
 | **Recompensa** | Acesso ao [Centro de Juperos](http://www.divine-pride.net/database/map/jupe_core/) |
 

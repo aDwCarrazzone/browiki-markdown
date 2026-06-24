@@ -2,7 +2,7 @@
 
 # Missão Regional de Payon
 
-| NQ ico Missão Regional de Payon | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Payon | |
 | --- | --- |
 | Alguns aldeões de [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") costumam armazenar suas bebidas em poços artesanais de água bem gelada, mantendo a temperatura dos seus produtos bem fria. Saber essa informação pode te ajudar a limpar os Espíritos Malignos de um vilarejo abandonado. Antes de [Payon](../Lugares%20em%20Ragnar%C3%B6k/Payon.md "Payon") existir, existia um vilarejo que foi soterrado devido a um acidente misterioso. Rumores dizem que os estrangeiros discriminavam esses aldeões por cultuarem as 4 Bestas Divinas.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |

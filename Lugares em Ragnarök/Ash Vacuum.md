@@ -30,12 +30,12 @@ Esplêndidos vieram de sua terra natal, Álfheim, atravessando Bifröst, a ponte
 
 |  |  |  |
 | --- | --- | --- |
-| Ash Vacuum map novo | | |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (mid\_camp 62,125) |
-| Map azul | Quartel-General | (mid\_camp 215,246) |
-| Map lantern | [Espaço Dimensional](Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") | (mid\_camp 210,292) |
-| Map dun01 | Campo dos Esplêndidos | (mid\_camp 13,143) |
-| Map dun02 | Campo dos Manuks | (mid\_camp 336,171) |
+| ![Ash Vacuum map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/30/Ash_Vacuum_map_novo.png) | | |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (mid\_camp 62,125) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Quartel-General | (mid\_camp 215,246) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Espaço Dimensional](Espa%C3%A7o%20Dimensional.md "Espaço Dimensional") | (mid\_camp 210,292) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | Campo dos Esplêndidos | (mid\_camp 13,143) |
+| ![Map dun02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Map_dun02.png) | Campo dos Manuks | (mid\_camp 336,171) |
 
 |  |  |  |
 | --- | --- | --- |

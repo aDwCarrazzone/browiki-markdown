@@ -2,18 +2,18 @@
 
 # Maldição de Glastheim
 
-| SC ico Maldição de Glastheim | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Maldição de Glastheim | |
 | --- | --- |
 | Conheça a história por trás da ruína da antiga capital do reino de Rune-Midgard e conheça Himmelmez, uma das valquírias mais poderosas de Midgard. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster OrigemMaldição [Origem da Maldição](http://www.divine-pride.net/database/monster/2475/) Monster Amdarais [Amdarais](http://www.divine-pride.net/database/monster/2476/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 6607.png [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) 6608.png [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) |
+| **Chefe** | ![Monster OrigemMaldição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/Monster_OrigemMaldi%C3%A7%C3%A3o.png) [Origem da Maldição](http://www.divine-pride.net/database/monster/2475/) ![Monster Amdarais](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Monster_Amdarais.png) [Amdarais](http://www.divine-pride.net/database/monster/2476/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6607.png](https://static.divine-pride.net/images/items/item/6607.png) [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) |
 
 [![MapaOGHa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
 
@@ -124,26 +124,26 @@ Mapa-Chave da instância
     :   ![OGH014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/OGH014.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelas estátuas: (Itens que aumentam a taxa de drop não afetam estas estátuas.)
-      - ![720.png](http://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/)
-      - ![719.png](http://static.divine-pride.net/images/items/item/719.png) [Ametista](http://www.divine-pride.net/database/item/719/)
-      - ![721.png](http://static.divine-pride.net/images/items/item/721.png) [Esmeralda](http://www.divine-pride.net/database/item/721/)
-      - ![722.png](http://static.divine-pride.net/images/items/item/722.png) [Pérola](http://www.divine-pride.net/database/item/722/)
-      - ![725.png](http://static.divine-pride.net/images/items/item/725.png) [Peridoto](http://www.divine-pride.net/database/item/725/)
-      - ![726.png](http://static.divine-pride.net/images/items/item/726.png) [Safira](http://www.divine-pride.net/database/item/726/)
-      - ![727.png](http://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
-      - ![7230.png](http://static.divine-pride.net/images/items/item/7230.png) [Platina em Barra](http://www.divine-pride.net/database/item/7230/)
-      - ![7228.png](http://static.divine-pride.net/images/items/item/7228.png) [Ouro em Barra](http://www.divine-pride.net/database/item/7228/)
-      - ![7229.png](http://static.divine-pride.net/images/items/item/7229.png) [Prata em Barra](http://www.divine-pride.net/database/item/7229/)
-      - ![13440.png](http://static.divine-pride.net/images/items/item/13440.png) [Espada Cerimonial](http://www.divine-pride.net/database/item/13440/)
-      - ![21007.png](http://static.divine-pride.net/images/items/item/21007.png) [Espada Pesada](http://www.divine-pride.net/database/item/21007/)
-      - ![2022.png](http://static.divine-pride.net/images/items/item/2022.png) [Cajado de Geffen](http://www.divine-pride.net/database/item/2022/)
-      - ![13086.png](http://static.divine-pride.net/images/items/item/13086.png) [Adaga Folheada a Ouro](http://www.divine-pride.net/database/item/13086/)
-      - ![15066.png](http://static.divine-pride.net/images/items/item/15066.png) [Armadura Filigranada](http://www.divine-pride.net/database/item/15066/)
-      - ![2949.png](http://static.divine-pride.net/images/items/item/2949.png) [Bracelete do Ourives](http://www.divine-pride.net/database/item/2949/)
-      - ![6611.png](http://static.divine-pride.net/images/items/item/6611.png) [Chave Enfeitada](http://www.divine-pride.net/database/item/6611/)
-      - ![6612.png](http://static.divine-pride.net/images/items/item/6612.png) [Cesta de Moedas de Ouro](http://www.divine-pride.net/database/item/6612/)
-      - ![6613.png](http://static.divine-pride.net/images/items/item/6613.png) [Broche Pomposo](http://www.divine-pride.net/database/item/6613/)
-      - ![6608.png](http://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) (100% de chance)
+      - ![720.png](https://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/)
+      - ![719.png](https://static.divine-pride.net/images/items/item/719.png) [Ametista](http://www.divine-pride.net/database/item/719/)
+      - ![721.png](https://static.divine-pride.net/images/items/item/721.png) [Esmeralda](http://www.divine-pride.net/database/item/721/)
+      - ![722.png](https://static.divine-pride.net/images/items/item/722.png) [Pérola](http://www.divine-pride.net/database/item/722/)
+      - ![725.png](https://static.divine-pride.net/images/items/item/725.png) [Peridoto](http://www.divine-pride.net/database/item/725/)
+      - ![726.png](https://static.divine-pride.net/images/items/item/726.png) [Safira](http://www.divine-pride.net/database/item/726/)
+      - ![727.png](https://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
+      - ![7230.png](https://static.divine-pride.net/images/items/item/7230.png) [Platina em Barra](http://www.divine-pride.net/database/item/7230/)
+      - ![7228.png](https://static.divine-pride.net/images/items/item/7228.png) [Ouro em Barra](http://www.divine-pride.net/database/item/7228/)
+      - ![7229.png](https://static.divine-pride.net/images/items/item/7229.png) [Prata em Barra](http://www.divine-pride.net/database/item/7229/)
+      - ![13440.png](https://static.divine-pride.net/images/items/item/13440.png) [Espada Cerimonial](http://www.divine-pride.net/database/item/13440/)
+      - ![21007.png](https://static.divine-pride.net/images/items/item/21007.png) [Espada Pesada](http://www.divine-pride.net/database/item/21007/)
+      - ![2022.png](https://static.divine-pride.net/images/items/item/2022.png) [Cajado de Geffen](http://www.divine-pride.net/database/item/2022/)
+      - ![13086.png](https://static.divine-pride.net/images/items/item/13086.png) [Adaga Folheada a Ouro](http://www.divine-pride.net/database/item/13086/)
+      - ![15066.png](https://static.divine-pride.net/images/items/item/15066.png) [Armadura Filigranada](http://www.divine-pride.net/database/item/15066/)
+      - ![2949.png](https://static.divine-pride.net/images/items/item/2949.png) [Bracelete do Ourives](http://www.divine-pride.net/database/item/2949/)
+      - ![6611.png](https://static.divine-pride.net/images/items/item/6611.png) [Chave Enfeitada](http://www.divine-pride.net/database/item/6611/)
+      - ![6612.png](https://static.divine-pride.net/images/items/item/6612.png) [Cesta de Moedas de Ouro](http://www.divine-pride.net/database/item/6612/)
+      - ![6613.png](https://static.divine-pride.net/images/items/item/6613.png) [Broche Pomposo](http://www.divine-pride.net/database/item/6613/)
+      - ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) (100% de chance)
 20. Retorne a Hugin para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
     - Você pode usar os [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) e as [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) nos auxiliares de Hugin em [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim").
 

@@ -2,16 +2,16 @@
 
 # Explorando Juperos
 
-| DQ ico Explorando Juperos | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Explorando Juperos | |
 | --- | --- |
 | Uma grande historiadora de Juperos precisa de ajuda para investigar as ruínas de uma civilização antiga. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 7352.png [Prato Verde](http://www.divine-pride.net/database/item/7352/)  7353.png [Prato Vermelho](http://www.divine-pride.net/database/item/7353/)  7354.png [Prato Amarelo](http://www.divine-pride.net/database/item/7354/)  7355.png [Prato Azul](http://www.divine-pride.net/database/item/7355/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7352.png](https://static.divine-pride.net/images/items/item/7352.png) [Prato Verde](http://www.divine-pride.net/database/item/7352/)  ![7353.png](https://static.divine-pride.net/images/items/item/7353.png) [Prato Vermelho](http://www.divine-pride.net/database/item/7353/)  ![7354.png](https://static.divine-pride.net/images/items/item/7354.png) [Prato Amarelo](http://www.divine-pride.net/database/item/7354/)  ![7355.png](https://static.divine-pride.net/images/items/item/7355.png) [Prato Azul](http://www.divine-pride.net/database/item/7355/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 10.000 por prato. |
-| **[Itens](../Itens/Itens.md "Itens")** | 644.png [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![644.png](https://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
 
 1. Fale com a Professora (yuno\_in04 190,125)
 

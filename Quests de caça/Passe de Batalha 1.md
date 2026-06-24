@@ -2,16 +2,16 @@
 
 # Passe de Batalha 1
 
-| EV ico Passe de Batalha 1 | |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Passe de Batalha 1 | |
 | --- | --- |
-| CrituraAcademy | |
+| ![CrituraAcademy](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/87/CrituraAcademy.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
 | **Tipo** | Evento |
-| **[Itens](../Itens/Itens.md "Itens")** | 810.png 1 [Convite do Passe de Batalha](http://www.divine-pride.net/database/item/810/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![810.png](https://static.divine-pride.net/images/items/item/810.png) 1 [Convite do Passe de Batalha](http://www.divine-pride.net/database/item/810/) |
 | **Caça** | Ver tabela |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1002636.png [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
 
 1. Na aba [Notícias] do RODEX, receba o [Convite do Passe de Batalha](http://www.divine-pride.net/database/item/810/).
 2. Leve o item para Ascundaiga (prontera 164,302)
@@ -29,13 +29,13 @@
 
 | Missão | Objetivo | EXP de Batalha |
 | --- | --- | --- |
-| DQ ico Diária | Eliminar 50 [Orc Zombie](http://www.divine-pride.net/database/monster/1153/) | 3 |
-| DQ ico Diária | Eliminar 100 [Aliot](http://www.divine-pride.net/database/monster/1736/) [Aliza](http://www.divine-pride.net/database/monster/1737/) [Alicel](http://www.divine-pride.net/database/monster/1735/) | 3 |
-| DQ ico Diária | Coletar 6608.png 10 [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) | 4 |
-| DQ ico Diária | Coletar 1043.png 50 [Garra de Orc](http://www.divine-pride.net/database/item/1043/) | 4 |
-| EV ico Semanal | Eliminar 5 [Fofinhos](http://www.divine-pride.net/database/monster/3621/) | 20 |
-| EV ico Semanal | Subir 1 nível de base | 15 |
-| NQ ico Integral | Alcance o nível base 185+ | 150 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Diária | Eliminar 50 [Orc Zombie](http://www.divine-pride.net/database/monster/1153/) | 3 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Diária | Eliminar 100 [Aliot](http://www.divine-pride.net/database/monster/1736/) [Aliza](http://www.divine-pride.net/database/monster/1737/) [Alicel](http://www.divine-pride.net/database/monster/1735/) | 3 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Diária | Coletar ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) 10 [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) | 4 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Diária | Coletar ![1043.png](https://static.divine-pride.net/images/items/item/1043.png) 50 [Garra de Orc](http://www.divine-pride.net/database/item/1043/) | 4 |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Semanal | Eliminar 5 [Fofinhos](http://www.divine-pride.net/database/monster/3621/) | 20 |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Semanal | Subir 1 nível de base | 15 |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Integral | Alcance o nível base 185+ | 150 |
 
 ## Encantamento Ilusión
 
@@ -50,19 +50,19 @@
 
 | **N-** Normal | | | | | |
 | --- | --- | --- | --- | --- | --- |
-| Módulo | Encanto | Descrição (+9) | 460004.png [Escudo Ilusión A](http://www.divine-pride.net/database/item/460004/) | 460014.png [Escudo Ilusión B](http://www.divine-pride.net/database/item/460014/) | Preço do Módulo |
-| |  |  | | --- | --- | | 25670.png | [Módulo de N-DEF](http://www.divine-pride.net/database/item/25670/) | | [N-DEF](http://www.divine-pride.net/database/item/29527/) | [DEF](../Sem%20categoria/DEF.md "DEF") +45. | x3 | x3 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25671.png | [Módulo de N-DEFM](http://www.divine-pride.net/database/item/25671/) | | [N-DEFM](http://www.divine-pride.net/database/item/29528/) | [DEFM](../Sem%20categoria/DEFM.md "DEFM") +8. | x3 | x3 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| Módulo | Encanto | Descrição (+9) | ![460004.png](https://static.divine-pride.net/images/items/item/460004.png) [Escudo Ilusión A](http://www.divine-pride.net/database/item/460004/) | ![460014.png](https://static.divine-pride.net/images/items/item/460014.png) [Escudo Ilusión B](http://www.divine-pride.net/database/item/460014/) | Preço do Módulo |
+| |  |  | | --- | --- | | ![25670.png](https://static.divine-pride.net/images/items/item/25670.png) | [Módulo de N-DEF](http://www.divine-pride.net/database/item/25670/) | | [N-DEF](http://www.divine-pride.net/database/item/29527/) | [DEF](../Sem%20categoria/DEF.md "DEF") +45. | x3 | x3 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25671.png](https://static.divine-pride.net/images/items/item/25671.png) | [Módulo de N-DEFM](http://www.divine-pride.net/database/item/25671/) | | [N-DEFM](http://www.divine-pride.net/database/item/29528/) | [DEFM](../Sem%20categoria/DEFM.md "DEFM") +8. | x3 | x3 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
 | **S-** Singular | | | | | |
-| |  |  | | --- | --- | | 25684.png | [Módulo de S-HPMax](http://www.divine-pride.net/database/item/25684/) | | [S-HPMax](http://www.divine-pride.net/database/item/29531/) | [HP](../Sem%20categoria/HP.md "HP") máx. +5%. [HP](../Sem%20categoria/HP.md "HP") máx. +1.250. | x2 | x2 | 1002636.png 75 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25685.png | [Módulo de S-SPMax](http://www.divine-pride.net/database/item/25685/) | | [S-SPMax](http://www.divine-pride.net/database/item/29530/) | [SP](../Sem%20categoria/SP.md "SP") máx. +5%. [SP](../Sem%20categoria/SP.md "SP") máx. +250. | x2 | x2 | 1002636.png 75 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25686.png | [Módulo de S-Cura](http://www.divine-pride.net/database/item/25686/) | | [S-Cura](http://www.divine-pride.net/database/item/29533/) | Efetividade de cura +15%. | x2 | x2 | 1002636.png 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25687.png | [Módulo de S-ATQ](http://www.divine-pride.net/database/item/25687/) | | [S-ATQ](http://www.divine-pride.net/database/item/29534/) | [ATQ](../Sem%20categoria/ATQ.md "ATQ") da arma +5%. [ATQ](../Sem%20categoria/ATQ.md "ATQ") +50. | x1 | x1 | 1002636.png 150 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25688.png | [Módulo de S-ATQM](http://www.divine-pride.net/database/item/25688/) | | [S-ATQM](http://www.divine-pride.net/database/item/29535/) | Dano mágico +5%. [ATQM](../Sem%20categoria/ATQM.md "ATQM") +50. | x1 | x1 | 1002636.png 150 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25689.png | [Módulo de S-Tiro](http://www.divine-pride.net/database/item/25689/) | | [S-Tiro](http://www.divine-pride.net/database/item/29536/) | Dano físico a distância +7%. | x1 | x1 | 1002636.png 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25690.png | [Módulo de S-Rapidez](http://www.divine-pride.net/database/item/25690/) | | [S-Rapidez](http://www.divine-pride.net/database/item/29537/) | [Velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") +1 e +6%. | x1 | x1 | 1002636.png 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25691.png | [Módulo de S-Magia](http://www.divine-pride.net/database/item/25691/) | | [S-Magia](http://www.divine-pride.net/database/item/29538/) | [Conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20vari%C3%A1vel.md "Conjuração variável") -11%. | x1 | x1 | 1002636.png 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| |  |  | | --- | --- | | 25692.png | [Módulo de S-CRIT](http://www.divine-pride.net/database/item/25692/) | | [S-CRIT](http://www.divine-pride.net/database/item/29539/) | [CRIT](../Sem%20categoria/CRIT.md "CRIT") +10. Dano crítico +10%. | x1 | x1 | 1002636.png 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25684.png](https://static.divine-pride.net/images/items/item/25684.png) | [Módulo de S-HPMax](http://www.divine-pride.net/database/item/25684/) | | [S-HPMax](http://www.divine-pride.net/database/item/29531/) | [HP](../Sem%20categoria/HP.md "HP") máx. +5%. [HP](../Sem%20categoria/HP.md "HP") máx. +1.250. | x2 | x2 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 75 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25685.png](https://static.divine-pride.net/images/items/item/25685.png) | [Módulo de S-SPMax](http://www.divine-pride.net/database/item/25685/) | | [S-SPMax](http://www.divine-pride.net/database/item/29530/) | [SP](../Sem%20categoria/SP.md "SP") máx. +5%. [SP](../Sem%20categoria/SP.md "SP") máx. +250. | x2 | x2 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 75 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25686.png](https://static.divine-pride.net/images/items/item/25686.png) | [Módulo de S-Cura](http://www.divine-pride.net/database/item/25686/) | | [S-Cura](http://www.divine-pride.net/database/item/29533/) | Efetividade de cura +15%. | x2 | x2 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25687.png](https://static.divine-pride.net/images/items/item/25687.png) | [Módulo de S-ATQ](http://www.divine-pride.net/database/item/25687/) | | [S-ATQ](http://www.divine-pride.net/database/item/29534/) | [ATQ](../Sem%20categoria/ATQ.md "ATQ") da arma +5%. [ATQ](../Sem%20categoria/ATQ.md "ATQ") +50. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 150 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25688.png](https://static.divine-pride.net/images/items/item/25688.png) | [Módulo de S-ATQM](http://www.divine-pride.net/database/item/25688/) | | [S-ATQM](http://www.divine-pride.net/database/item/29535/) | Dano mágico +5%. [ATQM](../Sem%20categoria/ATQM.md "ATQM") +50. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 150 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25689.png](https://static.divine-pride.net/images/items/item/25689.png) | [Módulo de S-Tiro](http://www.divine-pride.net/database/item/25689/) | | [S-Tiro](http://www.divine-pride.net/database/item/29536/) | Dano físico a distância +7%. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25690.png](https://static.divine-pride.net/images/items/item/25690.png) | [Módulo de S-Rapidez](http://www.divine-pride.net/database/item/25690/) | | [S-Rapidez](http://www.divine-pride.net/database/item/29537/) | [Velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") +1 e +6%. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25691.png](https://static.divine-pride.net/images/items/item/25691.png) | [Módulo de S-Magia](http://www.divine-pride.net/database/item/25691/) | | [S-Magia](http://www.divine-pride.net/database/item/29538/) | [Conjuração variável](../Sem%20categoria/Conjura%C3%A7%C3%A3o%20vari%C3%A1vel.md "Conjuração variável") -11%. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| |  |  | | --- | --- | | ![25692.png](https://static.divine-pride.net/images/items/item/25692.png) | [Módulo de S-CRIT](http://www.divine-pride.net/database/item/25692/) | | [S-CRIT](http://www.divine-pride.net/database/item/29539/) | [CRIT](../Sem%20categoria/CRIT.md "CRIT") +10. Dano crítico +10%. | x1 | x1 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 200 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
 
 ## Recompensas
 
@@ -70,120 +70,120 @@
 
 | Nível | Básico | Premium |
 | --- | --- | --- |
-| 1 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) | 23898.png 15 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 23012.png 5 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) | 23012.png 15 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 12516.png 15 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) | 12516.png 25 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 12515.png 15 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) | 12515.png 25 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | 23899.png 10 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) | 104699.png 30 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 25464.png 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 106246.png 1 [Escudos Ilusión Selecionáveis](http://www.divine-pride.net/database/item/106246/) | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 23216.png 1 [VIP (10 dias)](http://www.divine-pride.net/database/item/23216/) |
-| 1002636.png 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 2 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 3 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
-| 4 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 5 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 6 | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
-| 7 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 8 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 9 | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
-| 10 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 11 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 12 | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
-| 13 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 14 |  | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 15 | 23899.png 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 16 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 17 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 18 | 104699.png 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
-| 19 |  | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 20 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 21 | 25464.png 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
-| 22 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 23 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 24 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
-| 25 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 26 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 27 | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
-| 28 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 29 |  | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 30 | 31674.png 1 [(Visual) Boina de Jitterbug](http://www.divine-pride.net/database/item/31674/) | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 31 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 32 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 33 | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
-| 34 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 35 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 36 | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
-| 37 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 38 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 39 | 23899.png 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
-| 40 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 41 |  | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 42 | 104699.png 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
-| 43 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 44 |  | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 45 | 25464.png 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 46 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 47 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 48 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
-| 49 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 50 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 51 | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
-| 52 |  | 12499.png 1 [(BP) Neuralizador](http://www.divine-pride.net/database/item/12499/) |
-| 53 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 54 | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
-| 55 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 56 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 57 | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
-| 58 |  | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 59 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 60 |  | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 61 |  | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 62 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 63 | 23899.png 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
-| 64 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 65 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 66 | 104699.png 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
-| 67 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 68 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 69 | 25464.png 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
-| 70 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 71 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 72 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
-| 73 | 20487.png 1 [(Visual) Valsa da Primavera](http://www.divine-pride.net/database/item/20487/) | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 74 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 75 | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 76 |  | 19871.png 1 [(Visual) Ritmo do Momento](http://www.divine-pride.net/database/item/19871/) |
-| 77 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 78 | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
-| 79 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 80 |  | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 81 | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
-| 82 |  | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 83 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 84 | 23899.png 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
-| 85 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 86 |  | 23899.png 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
-| 87 | 104699.png 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
-| 88 |  | 104699.png 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
-| 89 |  | 25464.png 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
-| 90 |  | 1002636.png 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 91 |  | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
-| 92 |  | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
-| 93 | 25464.png 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
-| 94 |  | 12516.png 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
-| 95 | 1002636.png 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 96 | 23898.png 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
-| 97 |  | 12515.png 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
-| 98 |  | 101238.png 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
-| 99 | 23012.png 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
-| 100 | 1002636.png 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | 1002636.png 250 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 480168.png 1 [(Visual) Asas Musicais](http://www.divine-pride.net/database/item/480168/) |
-| 130 |  | 1002636.png 250 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
-| 160 |  | 20602.png 1 [(Visual) Voo dos Jotun](http://www.divine-pride.net/database/item/20602/) |
-| 200 |  | 101696.png 1 [Caixa de Baixo Refino](http://www.divine-pride.net/database/item/101696/) |
+| 1 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 15 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 5 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 15 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 15 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 25 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 15 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 25 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 10 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 30 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| ![106246.png](https://static.divine-pride.net/images/items/item/106246.png) 1 [Escudos Ilusión Selecionáveis](http://www.divine-pride.net/database/item/106246/) | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| ![23216.png](https://static.divine-pride.net/images/items/item/23216.png) 1 [VIP (10 dias)](http://www.divine-pride.net/database/item/23216/) |
+| ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 2 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 3 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
+| 4 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 5 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 6 | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
+| 7 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 8 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 9 | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
+| 10 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 11 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 12 | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
+| 13 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 14 |  | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 15 | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 16 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 17 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 18 | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
+| 19 |  | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| 20 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 21 | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
+| 22 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 23 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 24 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
+| 25 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 26 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 27 | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
+| 28 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 29 |  | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 30 | ![31674.png](https://static.divine-pride.net/images/items/item/31674.png) 1 [(Visual) Boina de Jitterbug](http://www.divine-pride.net/database/item/31674/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 31 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 32 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 33 | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
+| 34 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 35 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 36 | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
+| 37 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 38 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 39 | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
+| 40 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 41 |  | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| 42 | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
+| 43 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 44 |  | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 45 | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 46 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 47 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 48 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
+| 49 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 50 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 51 | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
+| 52 |  | ![12499.png](https://static.divine-pride.net/images/items/item/12499.png) 1 [(BP) Neuralizador](http://www.divine-pride.net/database/item/12499/) |
+| 53 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 54 | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
+| 55 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 56 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 57 | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
+| 58 |  | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 59 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 60 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 61 |  | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| 62 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 63 | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
+| 64 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 65 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 66 | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
+| 67 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 68 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 69 | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
+| 70 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 71 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 72 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
+| 73 | ![20487.png](https://static.divine-pride.net/images/items/item/20487.png) 1 [(Visual) Valsa da Primavera](http://www.divine-pride.net/database/item/20487/) | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 74 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 75 | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 76 |  | ![19871.png](https://static.divine-pride.net/images/items/item/19871.png) 1 [(Visual) Ritmo do Momento](http://www.divine-pride.net/database/item/19871/) |
+| 77 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 78 | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |  |
+| 79 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 80 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 81 | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |  |
+| 82 |  | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| 83 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 84 | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 3 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |  |
+| 85 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 86 |  | ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 5 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) |
+| 87 | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 10 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |  |
+| 88 |  | ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 15 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) |
+| 89 |  | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 15 [Passaporte](http://www.divine-pride.net/database/item/25464/) |
+| 90 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 27 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 91 |  | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |
+| 92 |  | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |
+| 93 | ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 10 [Passaporte](http://www.divine-pride.net/database/item/25464/) |  |
+| 94 |  | ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 10 [(Evento) Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) |
+| 95 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 25 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 26 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 96 | ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 5 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) |  |
+| 97 |  | ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 10 [(Evento) Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) |
+| 98 |  | ![101238.png](https://static.divine-pride.net/images/items/item/101238.png) 1 [(Evento) Manual Kafra (7 dias)](http://www.divine-pride.net/database/item/101238/) |
+| 99 | ![23012.png](https://static.divine-pride.net/images/items/item/23012.png) 3 [(Evento) Poção Menor de Mana](http://www.divine-pride.net/database/item/23012/) |  |
+| 100 | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 100 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 250 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| ![480168.png](https://static.divine-pride.net/images/items/item/480168.png) 1 [(Visual) Asas Musicais](http://www.divine-pride.net/database/item/480168/) |
+| 130 |  | ![1002636.png](https://static.divine-pride.net/images/items/item/1002636.png) 250 [Chip Dourado](http://www.divine-pride.net/database/item/1002636/) |
+| 160 |  | ![20602.png](https://static.divine-pride.net/images/items/item/20602.png) 1 [(Visual) Voo dos Jotun](http://www.divine-pride.net/database/item/20602/) |
+| 200 |  | ![101696.png](https://static.divine-pride.net/images/items/item/101696.png) 1 [Caixa de Baixo Refino](http://www.divine-pride.net/database/item/101696/) |
 
 ### Notas
 

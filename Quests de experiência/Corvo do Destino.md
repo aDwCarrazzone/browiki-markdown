@@ -2,7 +2,7 @@
 
 # Corvo do Destino
 
-| NQ ico Corvo do Destino | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Corvo do Destino | |
 | --- | --- |
 | Um fã da literatura busca o autor de um dos seus livros preferidos enquanto você descobre que as histórias escritas não eram ficções! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 90.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 
 1. Ajude o Homem com Livro (moc\_ruins 136,69)
 

@@ -2,7 +2,7 @@
 
 # Emergência Culinária
 
-| NQ ico Emergência Culinária | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Emergência Culinária | |
 | --- | --- |
 | Dar conta de fazer a comida para vários convidados pode causar muita confusão. Ajude a equipe nas tarefas culinárias e aprenda a cozinhar sob pressão. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 700.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera a missão [Aventuras na Cozinha](../Quests%20di%C3%A1rias/Aventuras%20na%20Cozinha.md "Aventuras na Cozinha") |
 
 [![MapaChave EmergenciaCulinaria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/MapaChave_EmergenciaCulinaria.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_EmergenciaCulinaria.png)

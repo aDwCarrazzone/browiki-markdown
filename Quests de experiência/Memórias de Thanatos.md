@@ -2,17 +2,17 @@
 
 # Memórias de Thanatos
 
-| SC ico Memórias de Thanatos | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Memórias de Thanatos | |
 | --- | --- |
 | Durante 10 dias e 10 noites, Thanatos lutou contra Satã Morroc e o selou no deserto. Entretanto, seus sentimentos foram fragmentados e criaram vida, causando dor e sofrimento aos aventureiros que ousam explorar o local. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 180 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster BrokenThana [Fragmento de Thanatos](http://www.divine-pride.net/database/monster/20785/) |
+| **Chefe** | ![Monster BrokenThana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Monster_BrokenThana.png) [Fragmento de Thanatos](http://www.divine-pride.net/database/monster/20785/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2% (Com base no nv. 180) |
 
 1. Na escadaria do 6º andar indo para o 7º da [Torre de Thanatos](../Lugares%20em%20Ragnar%C3%B6k/Torre%20de%20Thanatos.md "Torre de Thanatos"), fale com Rumin (thana\_step 154,367)

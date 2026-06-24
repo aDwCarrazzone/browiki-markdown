@@ -2,7 +2,7 @@
 
 # Gêmeos Levedev
 
-| NQ ico Gêmeos Levedev | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Gêmeos Levedev | |
 | --- | --- |
 | Dentre as crianças mais levadas da Rebelião estão os gêmeos Levedev... e serem os piores do bando faz com que eles se sintam deprimidos... | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 10 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 10 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 | **Recompensa** | Libera as missões diárias. |
 
 1. Em [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri"), converse com Elena Bolkova.
@@ -55,7 +55,7 @@
 
 | Missão | Objetivo | Recompensa |
 | --- | --- | --- |
-| DQ ico Gêmeos: Culinária | - Entregar [Bolachas Caseiras](http://www.divine-pride.net/database/item/25161/):   - Milo River (rebel\_in 108,27)   - Elena Bolkova (rebel\_in 70,77)   - Ericsson Adler (rebel\_in 91,66)   - Rachel Smith (rebel\_in 88,51)   - Mason Bender (rebel\_in 19,48) | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
-| DQ ico Gêmeos: Livro Infantil | 1. Atente-se ao nome do livro mencionado por Jana. 2. Existem 3 nomes possíveis:    - Enjoado de Tanto Girar    - Rebelião, a história da liberdade    - Horizonte de Nifflheim 3. Fale com a Bibliotecária (prt\_in 165,89) 4. Receba dela o [Livro Alugado](http://www.divine-pride.net/database/item/25160/). 5. Entregue o livro à Jana Levedev. | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
-| DQ ico Gêmeos: Mineradores | - Eliminar 30 [Mineiros](http://www.divine-pride.net/database/monster/1616/). - Coletar 6244.png 1 [Mistura de Pólvora](http://www.divine-pride.net/database/item/6244/) | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
-| DQ ico Gêmeos: Ar Poluído | - Eliminar 20 [Nuvem Venenosa](http://www.divine-pride.net/database/monster/1621/) - Eliminar 20 [Nuvem Tóxica](http://www.divine-pride.net/database/monster/1620/) - Coletar 6213.png 1 [Pó Explosivo](http://www.divine-pride.net/database/item/6213/). | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gêmeos: Culinária | - Entregar [Bolachas Caseiras](http://www.divine-pride.net/database/item/25161/):   - Milo River (rebel\_in 108,27)   - Elena Bolkova (rebel\_in 70,77)   - Ericsson Adler (rebel\_in 91,66)   - Rachel Smith (rebel\_in 88,51)   - Mason Bender (rebel\_in 19,48) | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gêmeos: Livro Infantil | 1. Atente-se ao nome do livro mencionado por Jana. 2. Existem 3 nomes possíveis:    - Enjoado de Tanto Girar    - Rebelião, a história da liberdade    - Horizonte de Nifflheim 3. Fale com a Bibliotecária (prt\_in 165,89) 4. Receba dela o [Livro Alugado](http://www.divine-pride.net/database/item/25160/). 5. Entregue o livro à Jana Levedev. | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gêmeos: Mineradores | - Eliminar 30 [Mineiros](http://www.divine-pride.net/database/monster/1616/). - Coletar ![6244.png](https://static.divine-pride.net/images/items/item/6244.png) 1 [Mistura de Pólvora](http://www.divine-pride.net/database/item/6244/) | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gêmeos: Ar Poluído | - Eliminar 20 [Nuvem Venenosa](http://www.divine-pride.net/database/monster/1621/) - Eliminar 20 [Nuvem Tóxica](http://www.divine-pride.net/database/monster/1620/) - Coletar ![6213.png](https://static.divine-pride.net/images/items/item/6213.png) 1 [Pó Explosivo](http://www.divine-pride.net/database/item/6213/). | - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |

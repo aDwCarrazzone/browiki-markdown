@@ -2,7 +2,7 @@
 
 # Eliminando Riscos
 
-| DQ ico Eliminando Riscos | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Eliminando Riscos | |
 | --- | --- |
 | Os lamentos de Satã Morroc ainda rondam a área do Círculo de Fogo! Derrote-os e colete os restos de energia roubados da Esfera de Eclage! | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Repetível |
 | **Caça** | 1 [Lamento da Inveja](http://www.divine-pride.net/database/monster/3039/) 1 [Lamento da Gula](http://www.divine-pride.net/database/monster/3040/)  1 [Lamento da Ira](http://www.divine-pride.net/database/monster/3041/) |
 | **Quests anteriores** | [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.350.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.150.000 |

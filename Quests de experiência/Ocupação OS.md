@@ -2,7 +2,7 @@
 
 # Ocupação OS
 
-| NQ ico Ocupação OS | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Ocupação OS | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 110 |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.080.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25723.png 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) 25668.png 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) |
 | **Recompensa** | Libera a instância [Missão OS](Miss%C3%A3o%20OS.md "Missão OS") |
 
 1. No Distrito COR, fale com Est (sp\_cor 164,56) para gerar a instância.
@@ -34,6 +34,6 @@
    :   ![EstOS1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/EstOS1.png)
 
    - Você receberá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 180.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe parcelado em 6 vezes.
-   - Você ganha ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25668.png](http://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
+   - Você ganha ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
 7. Fale com Est para finalizar a instância.
    - Você liberou a instância [Missão OS](Miss%C3%A3o%20OS.md "Missão OS").

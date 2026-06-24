@@ -2,19 +2,19 @@
 
 # Glastheim Sombria
 
-| SC ico Glastheim Sombria | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Glastheim Sombria | |
 | --- | --- |
 | Nessa versão mais difícil, conheça a história por trás da ruína da antiga capital do reino de Rune-Midgard e conheça Himmelmez, uma das valquírias mais poderosas de Midgard. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 160 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta em 3 dias às 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta em 3 dias às 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Maldição de Glastheim](Maldi%C3%A7%C3%A3o%20de%20Glastheim.md "Maldição de Glastheim") |
 | Premiação | |
-| **Chefe** | Monster OrigemEscuridão [Origem da Escuridão](http://www.divine-pride.net/database/monster/3151/) Monster AmdaraisSombrio [Amdarais Sombrio](http://www.divine-pride.net/database/monster/3150/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 6607.png [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) 6608.png [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) 6755.png [Manas Sombrias](http://www.divine-pride.net/database/item/6755/) |
+| **Chefe** | ![Monster OrigemEscuridão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Monster_OrigemEscurid%C3%A3o.png) [Origem da Escuridão](http://www.divine-pride.net/database/monster/3151/) ![Monster AmdaraisSombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Monster_AmdaraisSombrio.png) [Amdarais Sombrio](http://www.divine-pride.net/database/monster/3150/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6607.png](https://static.divine-pride.net/images/items/item/6607.png) [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/) ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) ![6755.png](https://static.divine-pride.net/images/items/item/6755.png) [Manas Sombrias](http://www.divine-pride.net/database/item/6755/) |
 
 [![MapaOGHa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
 
@@ -128,15 +128,15 @@ Mapa-Chave da instância
     :   ![OGH014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/OGH014.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelas estátuas: (Itens que aumentam a taxa de drop não afetam estas estátuas.)
-      - ![720.png](http://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/)
-      - ![719.png](http://static.divine-pride.net/images/items/item/719.png) [Ametista](http://www.divine-pride.net/database/item/719/)
-      - ![721.png](http://static.divine-pride.net/images/items/item/721.png) [Esmeralda](http://www.divine-pride.net/database/item/721/)
-      - ![722.png](http://static.divine-pride.net/images/items/item/722.png) [Pérola](http://www.divine-pride.net/database/item/722/)
-      - ![725.png](http://static.divine-pride.net/images/items/item/725.png) [Peridoto](http://www.divine-pride.net/database/item/725/)
-      - ![726.png](http://static.divine-pride.net/images/items/item/726.png) [Safira](http://www.divine-pride.net/database/item/726/)
-      - ![727.png](http://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
-      - ![6608.png](http://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) (90% de chance)
-      - ![6755.png](http://static.divine-pride.net/images/items/item/6755.png) [Mana Sombria](http://www.divine-pride.net/database/item/6755/) (10% de chance)
+      - ![720.png](https://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/)
+      - ![719.png](https://static.divine-pride.net/images/items/item/719.png) [Ametista](http://www.divine-pride.net/database/item/719/)
+      - ![721.png](https://static.divine-pride.net/images/items/item/721.png) [Esmeralda](http://www.divine-pride.net/database/item/721/)
+      - ![722.png](https://static.divine-pride.net/images/items/item/722.png) [Pérola](http://www.divine-pride.net/database/item/722/)
+      - ![725.png](https://static.divine-pride.net/images/items/item/725.png) [Peridoto](http://www.divine-pride.net/database/item/725/)
+      - ![726.png](https://static.divine-pride.net/images/items/item/726.png) [Safira](http://www.divine-pride.net/database/item/726/)
+      - ![727.png](https://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
+      - ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) (90% de chance)
+      - ![6755.png](https://static.divine-pride.net/images/items/item/6755.png) [Mana Sombria](http://www.divine-pride.net/database/item/6755/) (10% de chance)
 20. Retorne a Hugin para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
     - Você pode encantar as Botas Temporais com [slot](../Itens/Slot.md "Slot") de carta nos auxiliares de Hugin em [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim").
 

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Maximizar Poder Maximizar Poder** | |
-| Maximizar Poder | |
+| **![Maximizar Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Maximizar_Poder.png) Maximizar Poder** | |
+| ![Maximizar Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Maximizar_Poder.gif) | |
 | **Full Throttle / Velocidad Máxima** | |
 | **ID** | ALL\_FULL\_THROTTLE (5014) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **Pós-conjuração** | 0,5 segundos |
 | **Recarga** | 50 minutos |
 | **Duração** | [5 + (Nv. da hab.e × 5)] segundos |
-| **Ícone** | I Maximizar Poder |
+| **Ícone** | ![I Maximizar Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/I_Maximizar_Poder.png) |
 | **Pré-requisitos** | |
 | - [Classe 3](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") | |
 

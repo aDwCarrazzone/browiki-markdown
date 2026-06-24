@@ -2,13 +2,13 @@
 
 # Bardo Esquecido
 
-| NQ ico Bardo Esquecido | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Bardo Esquecido | |
 | --- | --- |
 | Um bardo andarilho não se lembra de um verso de uma das suas músicas. Caberá a você ajudá-lo a lembrar como era a canção original! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 611.png 1 [Lupa](http://www.divine-pride.net/database/item/611/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![611.png](https://static.divine-pride.net/images/items/item/611.png) 1 [Lupa](http://www.divine-pride.net/database/item/611/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
 

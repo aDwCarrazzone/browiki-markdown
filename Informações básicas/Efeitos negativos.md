@@ -14,7 +14,7 @@ Existem alguns efeitos negativos são exclusivos de [habilidades](../Habilidades
 
 Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#Ferimento_Crítico "Ferida Mortal"), [Superaquecimento](../Passiva/Licen%C3%A7a%20de%20Pilotagem.md#Superaquecimento "Licença de Pilotagem"), [Conjuração Lenta](../Habilidades%20de%20monstros/Conjura%C3%A7%C3%A3o%20Lenta.md "Conjuração Lenta") e [Zumbificação](../Habilidades%20de%20monstros/Zumbificar.md "Zumbificar").
 
-## I Alucinação Alucinação
+## ![I Alucinação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/I_Alucina%C3%A7%C3%A3o.png) Alucinação
 
 ![EN Alucinação new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/EN_Alucina%C3%A7%C3%A3o_new.png)
 
@@ -34,7 +34,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Alucinógeno](../Ativa/Alucin%C3%B3geno.md "Alucinógeno")
 - [Piscadela](../Ativa/Piscadela.md "Piscadela")
 
-## I Ardência Ardência
+## ![I Ardência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/I_Ard%C3%AAncia.png) Ardência
 
 ![EN Ardência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/EN_Ard%C3%AAncia.png)
 
@@ -54,7 +54,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 - [Conflagração](../Ofensiva/Conflagra%C3%A7%C3%A3o.md "Conflagração")
 
-## I Atordoamento Atordoamento
+## ![I Atordoamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/I_Atordoamento.png) Atordoamento
 
 ![EN Atordoamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/EN_Atordoamento.png)
 
@@ -76,7 +76,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 | --- | --- | --- | --- |
 | - [Ataque Atordoante](../Habilidades%20de%20monstros/Ataque%20Atordoante.md "Ataque Atordoante") - [Atordoamento Titânico](../Habilidades%20de%20monstros/Atordoamento%20Tit%C3%A2nico.md "Atordoamento Titânico") - [Armadilha Atordoante](../Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante") - [Terror Draconiano](../Habilidades%20de%20monstros/Terror%20Draconiano.md "Terror Draconiano") - [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") - [Brandir Machado](../Ofensiva/Brandir%20Machado.md "Brandir Machado") - [Ataque Surpresa](../Ofensiva/Ataque%20Surpresa.md "Ataque Surpresa") - [Choque do Carrinho](../Ofensiva/Choque%20do%20Carrinho.md "Choque do Carrinho") | - [Lanças dos Aesir](../Ofensiva/Lan%C3%A7as%20dos%20Aesir.md "Lanças dos Aesir") - [Erupção de Magma](../Ofensiva/Erup%C3%A7%C3%A3o%20de%20Magma.md "Erupção de Magma") - [Chuva de Meteoros](../Ofensiva/Chuva%20de%20Meteoros.md "Chuva de Meteoros") - [Escândalo](../Ativa/Esc%C3%A2ndalo.md "Escândalo") - [Impacto Preciso](../Ofensiva/Impacto%20Preciso.md "Impacto Preciso") - [Lâminas Destruidoras](../Ofensiva/L%C3%A2minas%20Destruidoras.md "Lâminas Destruidoras") - [Impacto Meteoro](../Ofensiva/Impacto%20Meteoro.md "Impacto Meteoro") | - [Submissão](../Ativa/Submiss%C3%A3o.md "Submissão") - [Patada Voadora](../Ofensiva/Patada%20Voadora.md "Patada Voadora") - [Punho do Dragão](../Ofensiva/Punho%20do%20Drag%C3%A3o.md "Punho do Dragão") - [Punhos Intensos](../Ofensiva/Punhos%20Intensos.md "Punhos Intensos") - [Punição Divina](../Ofensiva/Puni%C3%A7%C3%A3o%20Divina.md "Punição Divina") - [Chute Rasteiro](../Ofensiva/Chute%20Rasteiro.md "Chute Rasteiro") - [Tetra Vortex](../Ofensiva/Tetra%20Vortex.md "Tetra Vortex") | - [Tiro Bombinha](../Ativa/Tiro%20Bombinha.md "Tiro Bombinha") - [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") - [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") - [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Atordoa&function=&find=Busca). |
 
-## I Azar Azar
+## ![I Azar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/I_Azar.png) Azar
 
 ![EN Azar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/EN_Azar.png)
 
@@ -96,7 +96,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Caprichos de Loki](../Ativa/Caprichos%20de%20Loki.md "Caprichos de Loki")
 - [Grito do Inferno](../Ativa/Cultivar%20%C3%81rvore%20Infernal.md#habilidades "Cultivar Árvore Infernal")
 
-## I Caos Caos
+## ![I Caos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/I_Caos.png) Caos
 
 ![EN Confusão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Confus%C3%A3o.png)
 
@@ -161,7 +161,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Destino nas Cartas](../Ativa/Destino%20nas%20Cartas.md "Destino nas Cartas")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Coma&function=&find=Busca).
 
-## I Concretamento Concretação
+## ![I Concretamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/I_Concretamento.png) Concretação
 
 ![EN Concretamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/EN_Concretamento.png)
 
@@ -183,7 +183,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Tremor de Terra](../Ofensiva/Tremor%20de%20Terra.md "Tremor de Terra")
 - [Armadilha Terrestre](../Ofensiva/Armadilha%20Terrestre.md "Armadilha Terrestre")
 
-## I Congelamento Congelamento
+## ![I Congelamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/I_Congelamento.png) Congelamento
 
 ![EN Congelamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/EN_Congelamento.png)
 
@@ -211,7 +211,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 | --- | --- |
 | - [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") - [Nevasca](../Ofensiva/Nevasca.md "Nevasca") - [Congelar](../Ofensiva/Congelar.md "Congelar") - [Grande Floco de Neve](../Ofensiva/Grande%20Floco%20de%20Neve.md "Grande Floco de Neve") - [Beijo do Inverno](../Habilidades%20de%20monstros/Beijo%20do%20Inverno.md "Beijo do Inverno") - [Piada Infame](../Ativa/Piada%20Infame.md "Piada Infame") | - [Armadilha Congelante](../Ofensiva/Armadilha%20Congelante.md "Armadilha Congelante") - [Intimidar](../Ativa/Intimidar.md "Intimidar") - [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual") - [Destino nas Cartas](../Ativa/Destino%20nas%20Cartas.md "Destino nas Cartas") - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Congelamento&function=&find=Busca). |
 
-## I Cristalização Cristalização
+## ![I Cristalização](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/I_Cristaliza%C3%A7%C3%A3o.png) Cristalização
 
 ![EN Cristalização](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/EN_Cristaliza%C3%A7%C3%A3o.png)
 
@@ -237,7 +237,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Cristaliza%C3%A7%C3%A3o&function=&find=Busca).
 
-## I Atormento Eletrificação
+## ![I Atormento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/I_Atormento.png) Eletrificação
 
 ![EN Atormento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/EN_Atormento.png)
 
@@ -259,7 +259,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Tormenta](../Ofensiva/Tormenta.md "Tormenta")
 - [Armadilha Zéfira](../Ofensiva/Armadilha%20Z%C3%A9fira.md "Armadilha Zéfira")
 
-## I Envenenamento Envenenamento
+## ![I Envenenamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/I_Envenenamento.png) Envenenamento
 
 ![EN Envenenamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/EN_Envenenamento.png)
 
@@ -289,7 +289,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Destino nas Cartas](../Ativa/Destino%20nas%20Cartas.md "Destino nas Cartas")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=envenenamento&function=&find=Busca).
 
-## I Envenenamento Mortal Envenenamento Mortal
+## ![I Envenenamento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/I_Envenenamento_Mortal.png) Envenenamento Mortal
 
 [![EN Envenenamento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/EN_Envenenamento_Mortal.png)](https://browiki.org/wiki/Arquivo%3AEN_Envenenamento_Mortal.png)
 
@@ -314,7 +314,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Neblina de Veneno](../Habilidades%20de%20monstros/Neblina%20de%20Veneno.md "Neblina de Veneno")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=envenenamento+mortal&function=&find=Busca).
 
-## I Escuridão Escuridão
+## ![I Escuridão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/I_Escurid%C3%A3o.png) Escuridão
 
 ![EN Escuridão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/EN_Escurid%C3%A3o.png)
 
@@ -333,7 +333,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 - [Impulsão Alada](../Ofensiva/Impuls%C3%A3o%20Alada.md "Impulsão Alada")
 
-## I Esfriamento Esfriamento
+## ![I Esfriamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/I_Esfriamento.png) Esfriamento
 
 ![EN Esfriamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Esfriamento.png)
 
@@ -353,7 +353,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 - [Execução Aurora](../Ofensiva/Execu%C3%A7%C3%A3o%20Aurora.md "Execução Aurora")
 
-## I Hipotermia Hipotermia
+## ![I Hipotermia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/37/I_Hipotermia.png) Hipotermia
 
 ![EN Hipotermia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/EN_Hipotermia.png)
 
@@ -381,7 +381,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Hipotermia&function=&find=Busca).
 
-## I Incêndio Incêndio
+## ![I Incêndio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/I_Inc%C3%AAndio.png) Incêndio
 
 ![EN Incêndio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/EN_Inc%C3%AAndio.png)
 
@@ -410,7 +410,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Inc%C3%AAndio&function=&find=Busca).
 
-## I Intoxicação Intoxicação
+## ![I Intoxicação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/I_Intoxica%C3%A7%C3%A3o.png) Intoxicação
 
 ![EN Intoxicação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/EN_Intoxica%C3%A7%C3%A3o.png)
 
@@ -432,7 +432,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Poço Venenoso](../Ofensiva/Po%C3%A7o%20Venenoso.md "Poço Venenoso")
 - [Cultivar Fada](../Ativa/Cultivar%20Fada.md#habilidades "Cultivar Fada")
 
-## I Letargia Letargia
+## ![I Letargia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/I_Letargia.png) Letargia
 
 ![EN Letargia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/EN_Letargia.png)
 
@@ -453,7 +453,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Lançar Pedra](../Ativa/Cultivar%20B%C3%A1rbaro.md#habilidades "Cultivar Bárbaro")
 - [Pó de Fada](../Ativa/Cultivar%20Fada.md#habilidades "Cultivar Fada")
 
-## I Maldição Maldição
+## ![I Maldição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/I_Maldi%C3%A7%C3%A3o.png) Maldição
 
 ![EN Maldição](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/EN_Maldi%C3%A7%C3%A3o.png)
 
@@ -481,7 +481,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Destino nas Cartas](../Ativa/Destino%20nas%20Cartas.md "Destino nas Cartas")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Maldi%C3%A7%C3%A3o&function=&find=Busca).
 
-## I Medo Medo
+## ![I Medo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/I_Medo.png) Medo
 
 ![EN Medo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/EN_Medo.png)
 
@@ -502,7 +502,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Intimidar](../Ativa/Intimidar.md "Intimidar")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Medo&function=&find=Busca).
 
-## I Petrificação Petrificação
+## ![I Petrificação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/I_Petrifica%C3%A7%C3%A3o.png) Petrificação
 
 ![EN Petrificação new](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/EN_Petrifica%C3%A7%C3%A3o_new.png)
 
@@ -538,7 +538,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Destino nas Cartas](../Ativa/Destino%20nas%20Cartas.md "Destino nas Cartas")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Petrifica%C3%A7%C3%A3o&function=&find=Busca).
 
-## I Mudez Quietude
+## ![I Mudez](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ec/I_Mudez.png) Quietude
 
 ![EN Mudez](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/EN_Mudez.png)
 
@@ -558,7 +558,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 
 - [Arbitrium](../Ofensiva/Arbitrium.md "Arbitrium")
 
-## I Sangramento Sangramento
+## ![I Sangramento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/55/I_Sangramento.png) Sangramento
 
 ![EN Sangramento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/EN_Sangramento.png)
 
@@ -605,7 +605,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Flecha do Cupido](../Habilidades%20de%20monstros/Flecha%20do%20Cupido.md "Flecha do Cupido")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=infligir+Sedu%C3%A7%C3%A3o&function=&find=Busca).
 
-## I Silêncio Silêncio
+## ![I Silêncio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/I_Sil%C3%AAncio.png) Silêncio
 
 ![EN Silêncio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/EN_Sil%C3%AAncio.png)
 
@@ -626,7 +626,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 | --- | --- |
 | - [Lex Divina](../Ativa/Lex%20Divina.md "Lex Divina") - [Silentium](../Ativa/Silentium.md "Silentium") - [Brisa da Calmaria](../Suporte/Brisa%20da%20Calmaria.md "Brisa da Calmaria") - [Som do Silêncio](../Habilidades%20de%20monstros/Som%20do%20Sil%C3%AAncio.md "Som do Silêncio") - [Máscara do Infortúnio](../Ativa/M%C3%A1scara%20do%20Infort%C3%BAnio.md "Máscara do Infortúnio") - [Chakra do Silêncio](../Ofensiva/Chakra%20do%20Sil%C3%AAncio.md "Chakra do Silêncio") | - [Terror Draconiano](../Habilidades%20de%20monstros/Terror%20Draconiano.md "Terror Draconiano") - [Ataque Silenciador](../Habilidades%20de%20monstros/Ataque%20Silenciador.md "Ataque Silenciador") - [Advento Imperial](../Ofensiva/Advento%20Imperial.md "Advento Imperial") - [Ode a Siegfried](../Suporte/Ode%20a%20Siegfried.md "Ode a Siegfried") - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual") - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Sil%C3%AAncio&function=&find=Busca). |
 
-## I Sono Sono
+## ![I Sono](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/I_Sono.png) Sono
 
 ![EN Sono](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/EN_Sono.png)
 
@@ -652,7 +652,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Sono&function=&find=Busca).
 
-## I Sono Profundo Sono Profundo
+## ![I Sono Profundo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/I_Sono_Profundo.png) Sono Profundo
 
 ![EN Sono Profundo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/EN_Sono_Profundo.png)
 
@@ -677,7 +677,7 @@ Exemplo: [Ferimento Crítico](../Habilidades%20de%20monstros/Ferida%20Mortal.md#
 - [Voragem Espiritual](../Ativa/Voragem%20Espiritual.md "Voragem Espiritual")
 - Ver todos os [itens relacionados](https://www.divine-pride.net/database/item?Name=&Description=Sono+Profundo&function=&find=Busca).
 
-## I Tristeza Tristeza
+## ![I Tristeza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/I_Tristeza.png) Tristeza
 
 ![EN Tristeza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/EN_Tristeza.png)
 

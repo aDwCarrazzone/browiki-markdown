@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Reviver** | |
-| Reviver | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Reviver** | |
+| ![Reviver](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Reviver.gif) | |
 | **ID:** | NPC\_REBIRTH (208) |
 | **Níveis:** | 3 |
 | **Exclusiva:** | Sim |

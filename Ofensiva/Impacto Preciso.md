@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Impacto Preciso Impacto Preciso** | |
-| Impacto Preciso | |
+| **![Impacto Preciso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Impacto_Preciso.png) Impacto Preciso** | |
+| ![Impacto Preciso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Impacto_Preciso.gif) | |
 | **Stahl Horn** | |
 | **ID** | MH\_STAHL\_HORN (8031) |
 | **Tipo** | Ofensiva |

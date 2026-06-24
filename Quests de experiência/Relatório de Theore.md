@@ -2,16 +2,16 @@
 
 # Relatório de Theore
 
-| NQ ico Relatório de Theore | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Relatório de Theore | |
 | --- | --- |
 | A curiosidade de pesquisar uma nova raça pode causar constrangimentos para os Esplêndidos, principalmente quando não se sabe lidar com eles corretamente. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | Premiação | |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6380.png 10 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6380.png](https://static.divine-pride.net/images/items/item/6380.png) 10 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/) |
 
 1. Ofereça ajuda a Theore (mid\_camp 148,222)
 

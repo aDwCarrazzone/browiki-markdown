@@ -22,9 +22,9 @@ A cidade possui sua própria moeda, conseguidas através de [missões](../Sem%20
 
 |  |  |  |
 | --- | --- | --- |
-| Esplendor map novo | | |
-| Map bandeira | Guilda dos [Arcanos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcanos.md "Arcanos") | (splendide 141,284) |
-| Map lantern | Posto Comercial | (spl\_in01 97,313) |
+| ![Esplendor map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Esplendor_map_novo.png) | | |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Arcanos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arcanos.md "Arcanos") | (splendide 141,284) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Posto Comercial | (spl\_in01 97,313) |
 
 |  |  |  |
 | --- | --- | --- |

@@ -2,19 +2,19 @@
 
 # Caça ao Culto de Morroc
 
-| NQ ico Caça ao Culto de Morroc | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Caça ao Culto de Morroc | |
 | --- | --- |
 | Alguns membros da organização Dandelion cultuavam Satã Morroc, mas é necessário descobrir o que aconteceu com todos os outros membros dessa seita. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7511.png 30 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/)  7563.png 30 [Runas Sangrentas](http://www.divine-pride.net/database/item/7563/)  523.png 30 [Água Benta](http://www.divine-pride.net/database/item/523/)  516.png 20 [Batatas](http://www.divine-pride.net/database/item/516/)  7201.png 30 [Toras](http://www.divine-pride.net/database/item/7201/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) 30 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/)  ![7563.png](https://static.divine-pride.net/images/items/item/7563.png) 30 [Runas Sangrentas](http://www.divine-pride.net/database/item/7563/)  ![523.png](https://static.divine-pride.net/images/items/item/523.png) 30 [Água Benta](http://www.divine-pride.net/database/item/523/)  ![516.png](https://static.divine-pride.net/images/items/item/516.png) 20 [Batatas](http://www.divine-pride.net/database/item/516/)  ![7201.png](https://static.divine-pride.net/images/items/item/7201.png) 30 [Toras](http://www.divine-pride.net/database/item/7201/) |
 | **Caça** | 4 [Membros da Dandelion](http://www.divine-pride.net/database/monster/1985/) |
 | **Quests anteriores** | [Outra Dimensão](Outra%20Dimens%C3%A3o.md "Outra Dimensão") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 120.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 20.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) 633.png 5 [Batatas Assadas](http://www.divine-pride.net/database/item/633/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) ![633.png](https://static.divine-pride.net/images/items/item/633.png) 5 [Batatas Assadas](http://www.divine-pride.net/database/item/633/) |
 
 1. Fale com Echinacea, a Líder do Grupo (mid\_campin 68,185)
 

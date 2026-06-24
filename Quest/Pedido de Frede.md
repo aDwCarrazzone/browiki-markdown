@@ -2,17 +2,17 @@
 
 # Pedido de Frede
 
-| NQ ico Pedido de Frede | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pedido de Frede | |
 | --- | --- |
 | Sem notícias de seus amigos, um Manuk busca ajuda de alguém para saber como está a situação do garimpo de Bradium. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6319.png 30 [Lascas de Bradium](http://www.divine-pride.net/database/item/6319/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6319.png](https://static.divine-pride.net/images/items/item/6319.png) 30 [Lascas de Bradium](http://www.divine-pride.net/database/item/6319/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Visita do Manuk](Visita%20do%20Manuk.md "Visita do Manuk") [A Ordem Secreta de Doha](A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 2788.png 1 [Brinco de Bradium](http://www.divine-pride.net/database/item/2788/) 513.png 1 [Banana](http://www.divine-pride.net/database/item/513/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2788.png](https://static.divine-pride.net/images/items/item/2788.png) 1 [Brinco de Bradium](http://www.divine-pride.net/database/item/2788/) ![513.png](https://static.divine-pride.net/images/items/item/513.png) 1 [Banana](http://www.divine-pride.net/database/item/513/) |
 
 1. Converse com Frede (dicastes01 117,262)
 

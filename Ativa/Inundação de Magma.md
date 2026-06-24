@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Inundação de Magma Inundação de Magma** | |
-| Inundação de Magma | |
+| **![Inundação de Magma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Inunda%C3%A7%C3%A3o_de_Magma.png) Inundação de Magma** | |
+| ![Inundação de Magma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Inunda%C3%A7%C3%A3o_de_Magma.gif) | |
 | **Magma Flow** | |
 | **ID** | MH\_MAGMA\_FLOW (8039) |
 | **Tipo** | Ativa |

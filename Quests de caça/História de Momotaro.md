@@ -2,7 +2,7 @@
 
 # História de Momotaro
 
-| NQ ico História de Momotaro | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) História de Momotaro | |
 | --- | --- |
 | Uma companhia de pergaminhos está procurando aventureiros para comemorar a venda de um milhão de cópias da história de Momotaro, o menino do pêssego! | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Normal |
 | **Caça** | [Dokebis](http://www.divine-pride.net/database/monster/1110/) ou [Am Muts](http://www.divine-pride.net/database/monster/1301/) |
 | Premiação | |
-| **Recompensa** | 12105.png 1 [Item aleatório](http://www.divine-pride.net/database/item/12105/) |
+| **Recompensa** | ![12105.png](https://static.divine-pride.net/images/items/item/12105.png) 1 [Item aleatório](http://www.divine-pride.net/database/item/12105/) |
 
 1. Fale com o Editor (amatsu 223,236)
 
@@ -29,13 +29,13 @@
 
 :   :   | Premiação (Dokebi) | Premiação (Am Mut) |
         | --- | --- |
-        | 622.png [Cenoura Arco-Íris](http://www.divine-pride.net/database/item/622/) | 659.png [Coração Apaixonado](http://www.divine-pride.net/database/item/659/) |
-        | 632.png [Minhoca Gorducha](http://www.divine-pride.net/database/item/632/) | 633.png [Batata Assada](http://www.divine-pride.net/database/item/633/) |
-        | 623.png [Minhoca Boa-Pinta](http://www.divine-pride.net/database/item/623/) | 639.png [Bracelete da Obediência](http://www.divine-pride.net/database/item/639/) |
-        | 627.png [Leite Doce](http://www.divine-pride.net/database/item/627/) | 634.png [Banana Tropical](http://www.divine-pride.net/database/item/634/) |
-        | 619.png [Maçã Verde](http://www.divine-pride.net/database/item/619/) | 636.png [Sem Destinatário](http://www.divine-pride.net/database/item/636/) |
-        | 621.png [Erva Amarga](http://www.divine-pride.net/database/item/621/) | 628.png [Osso Seco](http://www.divine-pride.net/database/item/628/) |
-        | 620.png [Suco de Laranja](http://www.divine-pride.net/database/item/620/) | 637.png [Vassoura Velha](http://www.divine-pride.net/database/item/637/) |
-        | 625.png [Ferro Enferrujado](http://www.divine-pride.net/database/item/625/) | 635.png [Horror da Tribo](http://www.divine-pride.net/database/item/635/) |
-        | 624.png [Peixe Podre](http://www.divine-pride.net/database/item/624/) | 626.png [Suco de Monstro](http://www.divine-pride.net/database/item/626/) |
-        | 629.png [Flor Cantante](http://www.divine-pride.net/database/item/629/) | 641.png [Contrato das Sombras](http://www.divine-pride.net/database/item/641/) |
+        | ![622.png](https://static.divine-pride.net/images/items/item/622.png) [Cenoura Arco-Íris](http://www.divine-pride.net/database/item/622/) | ![659.png](https://static.divine-pride.net/images/items/item/659.png) [Coração Apaixonado](http://www.divine-pride.net/database/item/659/) |
+        | ![632.png](https://static.divine-pride.net/images/items/item/632.png) [Minhoca Gorducha](http://www.divine-pride.net/database/item/632/) | ![633.png](https://static.divine-pride.net/images/items/item/633.png) [Batata Assada](http://www.divine-pride.net/database/item/633/) |
+        | ![623.png](https://static.divine-pride.net/images/items/item/623.png) [Minhoca Boa-Pinta](http://www.divine-pride.net/database/item/623/) | ![639.png](https://static.divine-pride.net/images/items/item/639.png) [Bracelete da Obediência](http://www.divine-pride.net/database/item/639/) |
+        | ![627.png](https://static.divine-pride.net/images/items/item/627.png) [Leite Doce](http://www.divine-pride.net/database/item/627/) | ![634.png](https://static.divine-pride.net/images/items/item/634.png) [Banana Tropical](http://www.divine-pride.net/database/item/634/) |
+        | ![619.png](https://static.divine-pride.net/images/items/item/619.png) [Maçã Verde](http://www.divine-pride.net/database/item/619/) | ![636.png](https://static.divine-pride.net/images/items/item/636.png) [Sem Destinatário](http://www.divine-pride.net/database/item/636/) |
+        | ![621.png](https://static.divine-pride.net/images/items/item/621.png) [Erva Amarga](http://www.divine-pride.net/database/item/621/) | ![628.png](https://static.divine-pride.net/images/items/item/628.png) [Osso Seco](http://www.divine-pride.net/database/item/628/) |
+        | ![620.png](https://static.divine-pride.net/images/items/item/620.png) [Suco de Laranja](http://www.divine-pride.net/database/item/620/) | ![637.png](https://static.divine-pride.net/images/items/item/637.png) [Vassoura Velha](http://www.divine-pride.net/database/item/637/) |
+        | ![625.png](https://static.divine-pride.net/images/items/item/625.png) [Ferro Enferrujado](http://www.divine-pride.net/database/item/625/) | ![635.png](https://static.divine-pride.net/images/items/item/635.png) [Horror da Tribo](http://www.divine-pride.net/database/item/635/) |
+        | ![624.png](https://static.divine-pride.net/images/items/item/624.png) [Peixe Podre](http://www.divine-pride.net/database/item/624/) | ![626.png](https://static.divine-pride.net/images/items/item/626.png) [Suco de Monstro](http://www.divine-pride.net/database/item/626/) |
+        | ![629.png](https://static.divine-pride.net/images/items/item/629.png) [Flor Cantante](http://www.divine-pride.net/database/item/629/) | ![641.png](https://static.divine-pride.net/images/items/item/641.png) [Contrato das Sombras](http://www.divine-pride.net/database/item/641/) |

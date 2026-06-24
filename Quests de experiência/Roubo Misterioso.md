@@ -2,7 +2,7 @@
 
 # Roubo Misterioso
 
-| NQ ico Roubo Misterioso | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Roubo Misterioso | |
 | --- | --- |
 | Uma casa revirada, um amor proibido, um caso de roubo e você junto com tudo isso! Investigue o roubo no Yai de uma família de Esplêndidos! | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 750.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6081.png 2 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/)  607.png 2 [Frutos de Yggdrasil](http://www.divine-pride.net/database/item/607/)  608.png 2 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  645.png 2 [Poções da Concentração](http://www.divine-pride.net/database/item/645/)  6558.png 20 [Pilhas de Avelãs](http://www.divine-pride.net/database/item/6558/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 2 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/)  ![607.png](https://static.divine-pride.net/images/items/item/607.png) 2 [Frutos de Yggdrasil](http://www.divine-pride.net/database/item/607/)  ![608.png](https://static.divine-pride.net/images/items/item/608.png) 2 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  ![645.png](https://static.divine-pride.net/images/items/item/645.png) 2 [Poções da Concentração](http://www.divine-pride.net/database/item/645/)  ![6558.png](https://static.divine-pride.net/images/items/item/6558.png) 20 [Pilhas de Avelãs](http://www.divine-pride.net/database/item/6558/) |
 
 [![Roubo Misterioso02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Roubo_Misterioso02.png)](https://browiki.org/wiki/Arquivo%3ARoubo_Misterioso02.png)
 

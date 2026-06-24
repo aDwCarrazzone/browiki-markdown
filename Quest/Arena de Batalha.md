@@ -25,17 +25,17 @@ A arena consiste em um trajeto a ser percorrido enfrentando [monstros](../Inform
 | Pontos | Premiação |
 | --- | --- |
 | 10 | Foto com monstros do jogo usando [emoticons](../Sem%20categoria/Emoticons.md "Emoticons") |
-| 20 | 518.png 5 [Mel](http://www.divine-pride.net/database/item/518/) |
-| 20 | 605.png 5 [Analgésicos](http://www.divine-pride.net/database/item/605/) |
-| 20 | 608.png 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/) |
-| 30 | 526.png 5 [Geleias Reais](http://www.divine-pride.net/database/item/526/) |
-| 30 | 522.png 5 [Mastelas](http://www.divine-pride.net/database/item/522/) |
-| 30 | 547.png 5 [Brancas Compactas](http://www.divine-pride.net/database/item/547/) |
-| 40 | 607.png 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) |
+| 20 | ![518.png](https://static.divine-pride.net/images/items/item/518.png) 5 [Mel](http://www.divine-pride.net/database/item/518/) |
+| 20 | ![605.png](https://static.divine-pride.net/images/items/item/605.png) 5 [Analgésicos](http://www.divine-pride.net/database/item/605/) |
+| 20 | ![608.png](https://static.divine-pride.net/images/items/item/608.png) 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/) |
+| 30 | ![526.png](https://static.divine-pride.net/images/items/item/526.png) 5 [Geleias Reais](http://www.divine-pride.net/database/item/526/) |
+| 30 | ![522.png](https://static.divine-pride.net/images/items/item/522.png) 5 [Mastelas](http://www.divine-pride.net/database/item/522/) |
+| 30 | ![547.png](https://static.divine-pride.net/images/items/item/547.png) 5 [Brancas Compactas](http://www.divine-pride.net/database/item/547/) |
+| 40 | ![607.png](https://static.divine-pride.net/images/items/item/607.png) 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) |
 | 40 | [Experiência de base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de base"):  - **Nv. 50 a 69:** 3.000 - **Nv. 70 a 79:** 6.000 - **Nv. 80 a 89:** 10.000 - **Nv. 90 a 99:** 30.000 |
-| 100 | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
-| 300 | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
-| 1.000 | 616.png 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/) |
+| 100 | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| 300 | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| 1.000 | ![616.png](https://static.divine-pride.net/images/items/item/616.png) 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/) |
 
 ## Modalidades
 

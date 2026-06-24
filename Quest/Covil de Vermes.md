@@ -2,18 +2,18 @@
 
 # Covil de Vermes
 
-| SC ico Covil de Vermes | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Covil de Vermes | |
 | --- | --- |
 | Vermes com Rosto são monstros já extintos, mas você pode revê-los viajando ao passado e enfrentando a mais temível criatura dentre os Vermes. Corra contra o tempo para ganhar recompensas mais valiosas! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster RainhaVerme [Rainha Verme](http://www.divine-pride.net/database/monster/2529/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 20717.png [Pele da Rainha Verme](http://www.divine-pride.net/database/item/20717/) |
+| **Chefe** | ![Monster RainhaVerme](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Monster_RainhaVerme.png) [Rainha Verme](http://www.divine-pride.net/database/monster/2529/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![20717.png](https://static.divine-pride.net/images/items/item/20717.png) [Pele da Rainha Verme](http://www.divine-pride.net/database/item/20717/) |
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com o Acadêmico de Magia (dali 80,60). A entrada é pelo Portal Dimensional atrás do [NPC](../Sem%20categoria/NPC.md "NPC").
 
@@ -62,12 +62,12 @@
 
 :   |  |  |  |
     | --- | --- | --- |
-    | 718.png [Granada](http://www.divine-pride.net/database/item/718/) | 719.png [Ametista](http://www.divine-pride.net/database/item/719/) | 720.png [Aquamarina](http://www.divine-pride.net/database/item/720/) |
-    | 721.png [Esmeralda](http://www.divine-pride.net/database/item/721/) | 722.png [Pérola](http://www.divine-pride.net/database/item/722/) | 725.png [Peridoto](http://www.divine-pride.net/database/item/725/) |
-    | 726.png [Safira](http://www.divine-pride.net/database/item/726/) | 727.png [Opala](http://www.divine-pride.net/database/item/727/) | 6648.png [Coroa Entortada](http://www.divine-pride.net/database/item/6648/) |
-    | 7229.png [Prata em Barra](http://www.divine-pride.net/database/item/7229/) | 7228.png [Ouro em Barra](http://www.divine-pride.net/database/item/7228/) | 6653.png [Pílula Antiga](http://www.divine-pride.net/database/item/6653/) |
-    | 6650.png [Anel Antigo](http://www.divine-pride.net/database/item/6650/) | 6651.png [Bracelete Enferrujado](http://www.divine-pride.net/database/item/6651/) | 6652.png [Antigo Álbum de Fotos](http://www.divine-pride.net/database/item/6652/) |
-    | 22507.png [Velho Pergaminho](http://www.divine-pride.net/database/item/22507/) |
+    | ![718.png](https://static.divine-pride.net/images/items/item/718.png) [Granada](http://www.divine-pride.net/database/item/718/) | ![719.png](https://static.divine-pride.net/images/items/item/719.png) [Ametista](http://www.divine-pride.net/database/item/719/) | ![720.png](https://static.divine-pride.net/images/items/item/720.png) [Aquamarina](http://www.divine-pride.net/database/item/720/) |
+    | ![721.png](https://static.divine-pride.net/images/items/item/721.png) [Esmeralda](http://www.divine-pride.net/database/item/721/) | ![722.png](https://static.divine-pride.net/images/items/item/722.png) [Pérola](http://www.divine-pride.net/database/item/722/) | ![725.png](https://static.divine-pride.net/images/items/item/725.png) [Peridoto](http://www.divine-pride.net/database/item/725/) |
+    | ![726.png](https://static.divine-pride.net/images/items/item/726.png) [Safira](http://www.divine-pride.net/database/item/726/) | ![727.png](https://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/) | ![6648.png](https://static.divine-pride.net/images/items/item/6648.png) [Coroa Entortada](http://www.divine-pride.net/database/item/6648/) |
+    | ![7229.png](https://static.divine-pride.net/images/items/item/7229.png) [Prata em Barra](http://www.divine-pride.net/database/item/7229/) | ![7228.png](https://static.divine-pride.net/images/items/item/7228.png) [Ouro em Barra](http://www.divine-pride.net/database/item/7228/) | ![6653.png](https://static.divine-pride.net/images/items/item/6653.png) [Pílula Antiga](http://www.divine-pride.net/database/item/6653/) |
+    | ![6650.png](https://static.divine-pride.net/images/items/item/6650.png) [Anel Antigo](http://www.divine-pride.net/database/item/6650/) | ![6651.png](https://static.divine-pride.net/images/items/item/6651.png) [Bracelete Enferrujado](http://www.divine-pride.net/database/item/6651/) | ![6652.png](https://static.divine-pride.net/images/items/item/6652.png) [Antigo Álbum de Fotos](http://www.divine-pride.net/database/item/6652/) |
+    | ![22507.png](https://static.divine-pride.net/images/items/item/22507.png) [Velho Pergaminho](http://www.divine-pride.net/database/item/22507/) |
 
 - Coordenadas dos Baús (edite o valor antes da @ para o número da sua instância atual).
 
@@ -106,28 +106,28 @@
 
 | [NPC](../Sem%20categoria/NPC.md "NPC") | Localização | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Anciã infeliz | (payon 157,54) | - Entregar 6650.png 1 [Anel Antigo](http://www.divine-pride.net/database/item/6650/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Servo infeliz | (payon 161,50) | - Entregar 6653.png 1 [Pílula Antiga](http://www.divine-pride.net/database/item/6653/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Mercador infeliz | (payon 161,54) | - Entregar 6652.png 1 [Antigo Álbum de Fotos](http://www.divine-pride.net/database/item/6652/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Homem infeliz | (payon 139,89) | - Entregar 6651.png 1 [Bracelete Enferrujado](http://www.divine-pride.net/database/item/6651/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Anciã infeliz | (payon 157,54) | - Entregar ![6650.png](https://static.divine-pride.net/images/items/item/6650.png) 1 [Anel Antigo](http://www.divine-pride.net/database/item/6650/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Servo infeliz | (payon 161,50) | - Entregar ![6653.png](https://static.divine-pride.net/images/items/item/6653.png) 1 [Pílula Antiga](http://www.divine-pride.net/database/item/6653/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Mercador infeliz | (payon 161,54) | - Entregar ![6652.png](https://static.divine-pride.net/images/items/item/6652.png) 1 [Antigo Álbum de Fotos](http://www.divine-pride.net/database/item/6652/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Homem infeliz | (payon 139,89) | - Entregar ![6651.png](https://static.divine-pride.net/images/items/item/6651.png) 1 [Bracelete Enferrujado](http://www.divine-pride.net/database/item/6651/) | - 77.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 50.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
 
 ## Pele da Rainha Verme
 
 Baús deixados pelos vermes derrubam [Pele da Rainha Verme](http://www.divine-pride.net/database/item/20717/) com [encantos](../Sem%20categoria/Encantos.md "Encantos") e [refinos](../Sem%20categoria/Refinos.md "Refinos") aleatórios:
 
 - Os Super Encantos estão relacionados ao [encantamento](../Itens/Encantamento.md "Encantamento") do 3º [slot](../Itens/Slot.md "Slot").
-- Ou seja, se o encanto do 3º [slot](../Itens/Slot.md "Slot") for [INT](../Sem%20categoria/INT.md "INT") +1, o 2º [slot](../Itens/Slot.md "Slot") será ![4856.png](http://static.divine-pride.net/images/items/item/4856.png) [Super INT](http://www.divine-pride.net/database/item/4856/).
+- Ou seja, se o encanto do 3º [slot](../Itens/Slot.md "Slot") for [INT](../Sem%20categoria/INT.md "INT") +1, o 2º [slot](../Itens/Slot.md "Slot") será ![4856.png](https://static.divine-pride.net/images/items/item/4856.png) [Super INT](http://www.divine-pride.net/database/item/4856/).
 - Todos os baús possuem a mesma chance de conseguir encantamentos, independente do tempo levado para concluir a fase.
 - As chances alteram de acordo com o modo escolhido.
 
 :   | Encantamento | Modo Fácil | Modo Difícil |
     | --- | --- | --- |
     | Nenhum | 15,27% | 0% |
-    | 4700.png [Atributo +1](http://www.divine-pride.net/database/item/4700/) | 7,634% | 0% |
-    | 4701.png [Atributo +2](http://www.divine-pride.net/database/item/4701/) | 3,817% | 9,709% |
-    | 4702.png [Atributo +3](http://www.divine-pride.net/database/item/4702/) | 1,908% | 4,854% |
-    | 4703.png [Atributo +4](http://www.divine-pride.net/database/item/4703/) | 0,7634% | 1,942% |
-    | 4704.png [Atributo +5](http://www.divine-pride.net/database/item/4704/) | 0,07634% | 0,1942% |
+    | ![4700.png](https://static.divine-pride.net/images/items/item/4700.png) [Atributo +1](http://www.divine-pride.net/database/item/4700/) | 7,634% | 0% |
+    | ![4701.png](https://static.divine-pride.net/images/items/item/4701.png) [Atributo +2](http://www.divine-pride.net/database/item/4701/) | 3,817% | 9,709% |
+    | ![4702.png](https://static.divine-pride.net/images/items/item/4702.png) [Atributo +3](http://www.divine-pride.net/database/item/4702/) | 1,908% | 4,854% |
+    | ![4703.png](https://static.divine-pride.net/images/items/item/4703.png) [Atributo +4](http://www.divine-pride.net/database/item/4703/) | 0,7634% | 1,942% |
+    | ![4704.png](https://static.divine-pride.net/images/items/item/4704.png) [Atributo +5](http://www.divine-pride.net/database/item/4704/) | 0,07634% | 0,1942% |
     | [**Super Atributo**](https://www.divine-pride.net/database/item/card?Name=Super&Affix=&Description=&function=&Location=65535&find=Busca) | 0% | 3,846% |
     | Com Slot | Modo Fácil | Modo Difícil |
     | 1 a 4ª fase | 2% | 6% |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Convocação Convocação** | |
-| Convocação | |
+| **![Convocação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/43/Convoca%C3%A7%C3%A3o.png) Convocação** | |
+| ![Convocação](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Convoca%C3%A7%C3%A3o.gif) | |
 | **Summon Legion** | |
 | **ID** | MH\_SUMMON\_LEGION (8018) |
 | **Tipo** | Ativa |

@@ -2,18 +2,18 @@
 
 # Ninho de Nidhogg
 
-| SC ico Ninho de Nidhogg | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Ninho de Nidhogg | |
 | --- | --- |
 | Um manuk e um esplêndido petrificados na porta desse Ninho devem significar alguma coisa. Quando duas tribos rivais se unem em prol de bloquear uma passagem, quer dizer que algo muito oculto deve manter-se em segredo. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas e 30 minutos |
-| Skilldelayinfo **Retorno** | 3 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 3 dias |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 2 pessoas ou mais |
 | **Quests anteriores** | [Guardiã de Yggdrasil](../Quests%20de%20experi%C3%AAncia/Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") |
 | Premiação | |
-| **Chefe** | Monster SombraNidhogg [Sombra de Nidhogg](http://www.divine-pride.net/database/monster/2022/) |
+| **Chefe** | ![Monster SombraNidhogg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/Monster_SombraNidhogg.png) [Sombra de Nidhogg](http://www.divine-pride.net/database/monster/2022/) |
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") gritando com o Portão Enigmático (nyd\_dun02 98,199)
 

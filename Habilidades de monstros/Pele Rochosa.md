@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Pele Rochosa** | |
-| Pele Rochosa | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Pele Rochosa** | |
+| ![Pele Rochosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/Pele_Rochosa.gif) | |
 | **ID:** | NPC\_STONESKIN (675) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |
@@ -35,7 +35,7 @@ Reduz a resistência a ataques mágicos recebidos.
 - Se usada ao mesmo tempo que [Anti Magia](Anti%20Magia.md "Anti Magia") ou [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas"), o maior valor será aplicado.
 - No [servidor japonês](https://www.youtube.com/watch?v=w814L4qn2-c), esta habilidade pode ser usada por jogadores e tem 50 segundos de recarga.
 - Equipamentos relacionados:
-  - ![2531.png](http://static.divine-pride.net/images/items/item/2531.png) [Ulfhedinn](http://www.divine-pride.net/database/item/2531/)
+  - ![2531.png](https://static.divine-pride.net/images/items/item/2531.png) [Ulfhedinn](http://www.divine-pride.net/database/item/2531/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

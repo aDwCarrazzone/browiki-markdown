@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Armadura de Granito Armadura de Granito** | |
-| Armadura de Granito | |
+| **![Armadura de Granito](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/Armadura_de_Granito.png) Armadura de Granito** | |
+| ![Armadura de Granito](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Armadura_de_Granito.gif) | |
 | **Granitic Armor** | |
 | **ID** | MH\_GRANITIC\_ARMOR (8040) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **[Conjuração](../Sem%20categoria/Conjura%C3%A7%C3%A3o.md "Conjuração")** | 1 + 5,5 - (Nv. da habilidade × 0,5) seg. |
 | **Duração** | 60 segundos |
 | **Alvo** | Mestre e Homunculus |
-| **Ícone** | I Armadura de Granito |
+| **Ícone** | ![I Armadura de Granito](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/I_Armadura_de_Granito.png) |
 | **Pré-requisitos** | |
 | [Dieter](../Sem%20categoria/Dieter.md "Dieter") nível 116 | |
 

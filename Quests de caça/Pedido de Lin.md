@@ -2,7 +2,7 @@
 
 # Pedido de Lin
 
-| NQ ico Pedido de Lin | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pedido de Lin | |
 | --- | --- |
 | Lin procura alguém para caçar os últimos membros da Dandelion que fugiram para o Novo Mundo. | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **Caça** | [Dandelion Fugitivo](http://www.divine-pride.net/database/monster/2026/) |
 | **Quests anteriores** | [O Mensageiro](../Quests%20de%20experi%C3%AAncia/O%20Mensageiro.md "O Mensageiro") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 7444.png 1 [Arca de Tesouro](http://www.divine-pride.net/database/item/7444/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7444.png](https://static.divine-pride.net/images/items/item/7444.png) 1 [Arca de Tesouro](http://www.divine-pride.net/database/item/7444/) |
 
 1. Aceite o pedido do Mural de Procurados (mid\_camp 192,238)
 

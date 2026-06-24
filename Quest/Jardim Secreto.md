@@ -2,18 +2,18 @@
 
 # Jardim Secreto
 
-| SC ico Jardim Secreto | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Jardim Secreto | |
 | --- | --- |
 | 2 das 3 Inteligências Artificiais criadas por Varmunt querem destruir todo o legado do sábio. Ajude Sigma a convencer Kappa e Lambda de manterem toda a herança do criador intacta. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 (normal) 180 (difícil) |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Zona Restrita](../Quests%20de%20experi%C3%AAncia/Zona%20Restrita.md "Zona Restrita") |
 | Premiação | |
-| **Chefe** | Monster Pepper [Kappa](http://www.divine-pride.net/database/monster/20620/) (normal) Monster Pepper [Lambda](http://www.divine-pride.net/database/monster/20621/) (difícil) |
+| **Chefe** | ![Monster Pepper](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Monster_Pepper.png) [Kappa](http://www.divine-pride.net/database/monster/20620/) (normal) ![Monster Pepper](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Monster_Pepper.png) [Lambda](http://www.divine-pride.net/database/monster/20621/) (difícil) |
 
 1. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com a Autômata (ba\_maison 120,321).
 
@@ -49,8 +49,8 @@
 
    :   ![ZonaRestrita03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/ZonaRestrita03.png)
 
-   - No modo normal, você recebe ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 6 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
-   - No modo difícil, você recebe o conteúdo aleatório da ![100161.png](http://static.divine-pride.net/images/items/item/100161.png) [Caixa de Automódulo H-](http://www.divine-pride.net/database/item/100161/)
+   - No modo normal, você recebe ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 6 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
+   - No modo difícil, você recebe o conteúdo aleatório da ![100161.png](https://static.divine-pride.net/images/items/item/100161.png) [Caixa de Automódulo H-](http://www.divine-pride.net/database/item/100161/)
      - Se a morte do [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") não acontecer no seu campo de visão, você não receberá a premiação.
 
 | *[Instâncias](Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |

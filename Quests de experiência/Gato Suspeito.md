@@ -2,14 +2,14 @@
 
 # Gato Suspeito
 
-| DQ ico Gato Suspeito | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gato Suspeito | |
 | --- | --- |
 | Para um gato comum, explorar as catacumbas de uma pirâmide cheia de cachorros pode ser um verdadeiro pesadelo! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
 | **Caça** | 20 [Verits do Pesadelo](http://www.divine-pride.net/database/monster/2355/) ou 20 [Múmias Anciãs do Pesadelo](http://www.divine-pride.net/database/monster/2360/) |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 300.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 100.000 |

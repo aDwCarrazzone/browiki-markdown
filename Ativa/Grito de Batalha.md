@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Grito de Batalha Grito de Batalha** | |
-| Grito de Batalha | |
+| **![Grito de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Grito_de_Batalha.png) Grito de Batalha** | |
+| ![Grito de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Grito_de_Batalha.gif) | |
 | **Charge Shout Beating** | |
 | **ID** | GD\_CHARGESHOUT\_BEATING (10018) |
 | **Tipo** | Ativa |
@@ -15,7 +15,7 @@
 | **Recarga** | 15 minutos |
 | **Alvo** | Usuário |
 | **Pré-requisitos** | |
-| [Marcar Território](Marcar%20Territ%C3%B3rio.md "Marcar Território") [Marcar Território](Marcar%20Territ%C3%B3rio.md "Marcar Território") Nv. 1 | |
+| [![Marcar Território](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Marcar_Territ%C3%B3rio.png)](Marcar%20Territ%C3%B3rio.md "Marcar Território") [Marcar Território](Marcar%20Territ%C3%B3rio.md "Marcar Território") Nv. 1 | |
 
 Teleporta-se para a Bandeira fincada por [Marcar Território](Marcar%20Territ%C3%B3rio.md "Marcar Território").
 

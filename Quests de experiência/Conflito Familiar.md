@@ -2,18 +2,18 @@
 
 # Conflito Familiar
 
-| NQ ico Conflito Familiar | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Conflito Familiar | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7166.png 12 [Seda Macia](http://www.divine-pride.net/database/item/7166/) 949.png 50 [Pluma](http://www.divine-pride.net/database/item/949/)  722.png 3 [Pérola](http://www.divine-pride.net/database/item/722/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7166.png](https://static.divine-pride.net/images/items/item/7166.png) 12 [Seda Macia](http://www.divine-pride.net/database/item/7166/) ![949.png](https://static.divine-pride.net/images/items/item/949.png) 50 [Pluma](http://www.divine-pride.net/database/item/949/)  ![722.png](https://static.divine-pride.net/images/items/item/722.png) 3 [Pérola](http://www.divine-pride.net/database/item/722/) |
 | **Caça** | 33 [Majoruros](http://www.divine-pride.net/database/monster/1310/) |
 | **Quests anteriores** | [Banquete Real](Banquete%20Real.md "Banquete Real") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 14 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 14 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera a missão [Os Lugenburg](As%20Fam%C3%ADlias%20Reais.md#Os_Lugenburg "As Famílias Reais") |
 
 1. Ao se apresentar para a família Lugenburg, fale com Wolf Lugenburg (prt\_cas\_q 96,186)

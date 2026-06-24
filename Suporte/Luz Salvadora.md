@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Luz Salvadora Luz Salvadora** | |
-| Luz Salvadora | |
+| **![Luz Salvadora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Luz_Salvadora.png) Luz Salvadora** | |
+| ![Luz Salvadora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Luz_Salvadora.gif) | |
 | **Stein Wand** | |
 | **ID** | MH\_STEINWAND (8033) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **[Conjuração](../Sem%20categoria/Conjura%C3%A7%C3%A3o.md "Conjuração")** | 0 + 1 seg. |
 | **Recarga** | (Nv. da habilidade × 4) |
 | **Alvo** | Mestre e Homunculus |
-| **Ícone** | I PergaAbe |
+| **Ícone** | ![I PergaAbe](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/I_PergaAbe.png) |
 | **Pré-requisitos** | |
 | [Bayeri](../Sem%20categoria/Bayeri.md "Bayeri") nível 121 | |
 

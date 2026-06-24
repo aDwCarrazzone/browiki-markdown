@@ -2,15 +2,15 @@
 
 # Garoto Sonhador
 
-| NQ ico Garoto Sonhador | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Garoto Sonhador | |
 | --- | --- |
 | Uma simples permissão para entrar na capital dos Esplêndidos pode gerar um pedido de ajuda atrás do outro! Tente buscar os materiais necessários para fazer uma grande festa de aniversário! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 99 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6561.png 128 [Bolas de Poeira](http://www.divine-pride.net/database/item/6561/) 6558.png 1 [Pilha de Avelãs](http://www.divine-pride.net/database/item/6558/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6561.png](https://static.divine-pride.net/images/items/item/6561.png) 128 [Bolas de Poeira](http://www.divine-pride.net/database/item/6561/) ![6558.png](https://static.divine-pride.net/images/items/item/6558.png) 1 [Pilha de Avelãs](http://www.divine-pride.net/database/item/6558/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 19543.png 1 [Capuz do Lobo Oliver](http://www.divine-pride.net/database/item/19543/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![19543.png](https://static.divine-pride.net/images/items/item/19543.png) 1 [Capuz do Lobo Oliver](http://www.divine-pride.net/database/item/19543/) |
 | **Recompensa** | Acesso a [Eclage](../Lugares%20em%20Ragnar%C3%B6k/Eclage.md "Eclage") |
 
 1. Preencha um cadastro com o Guarda da Cidade (ecl\_fild01 100,323)

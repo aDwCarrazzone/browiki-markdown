@@ -2,14 +2,14 @@
 
 # Selo de Brisingamen
 
-| NQ ico Selo de Brisingamen | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Selo de Brisingamen | |
 | --- | --- |
 | A morte de um ente querido pode revelar uma história incrível sobre Brisingamen. --------- ATENÇÃO! Se você não conseguir iniciar ou continuar esta missão, significa que o Selo de Brisingamen já foi liberado. Consulte o status dos [Selos Divinos](Selos%20Divinos.md "Selos Divinos") para mais informações. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 4636.png 1 [Carta aleatória](http://www.divine-pride.net/database/item/4636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![4636.png](https://static.divine-pride.net/images/items/item/4636.png) 1 [Carta aleatória](http://www.divine-pride.net/database/item/4636/) |
 
 1. Ouça a história do Bardo (prt\_fild08 175,374)
 

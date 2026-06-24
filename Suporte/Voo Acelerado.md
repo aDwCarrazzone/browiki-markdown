@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Voo Acelerado Voo Acelerado** | |
-| Voo Acelerado | |
+| **![Voo Acelerado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Voo_Acelerado.png) Voo Acelerado** | |
+| ![Voo Acelerado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ab/Voo_Acelerado.gif) | |
 | **Accelerated Flight / Overed Speed** | |
 | **ID** | HFLI\_SPEED (8011) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Duração** | [65 + (Nv. da habilidade × 5)] segundos |
 | **Alvo** | [Homunculus](../Homunculus/Homunculus.md "Homunculus") |
 | **Pré-requisitos** | |
-| [Voo Frenético](../Sem%20categoria/V%C3%B4o%20Fren%C3%A9tico.md "Vôo Frenético") [Vôo Frenético](../Sem%20categoria/V%C3%B4o%20Fren%C3%A9tico.md "Vôo Frenético") Nv. 3 | |
+| [![Voo Frenético](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Voo_Fren%C3%A9tico.png)](../Sem%20categoria/V%C3%B4o%20Fren%C3%A9tico.md "Vôo Frenético") [Vôo Frenético](../Sem%20categoria/V%C3%B4o%20Fren%C3%A9tico.md "Vôo Frenético") Nv. 3 | |
 
 Aumenta a [esquiva](../Sem%20categoria/Esquiva.md "Esquiva") do [homunculus](../Homunculus/Homunculus.md "Homunculus").
 

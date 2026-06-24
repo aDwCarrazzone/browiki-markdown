@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ataque Crítico** | |
-| Ataque Crítico | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ataque Crítico** | |
+| ![Ataque Crítico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Ataque_Cr%C3%ADtico.gif) | |
 | **ID:** | NPC\_CRITICALSLASH (170) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |
@@ -19,7 +19,7 @@ Desfere um ataque [crítico](../Sem%20categoria/Cr%C3%ADtico.md "Crítico").
 - [Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") não conseguem realizar ataques críticos sem ajuda desta habilidade.
 - Não pode ser esquivada por [esquiva perfeita](../Sem%20categoria/Esquiva%20perfeita.md "Esquiva perfeita").
 - Itens relacionados:
-  - ![480812.png](http://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
+  - ![480812.png](https://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

@@ -2,21 +2,21 @@
 
 # Aos Pés do Rei
 
-| SC ico Aos Pés do Rei | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Aos Pés do Rei | |
 | --- | --- |
 | Você entrará na Casa de Duelo. Um local onde as batalhas de cartas são feitas entre as duas maiores jogadoras do ramo. Evite as armadilhas e colete as cartas mais raras! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **Caça** | 50 [Roboring](http://www.divine-pride.net/database/monster/3125/) |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster Charleston03 [Charleston 03](http://www.divine-pride.net/database/monster/3124/) |
+| **Chefe** | ![Monster Charleston03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/Monster_Charleston03.png) [Charleston 03](http://www.divine-pride.net/database/monster/3124/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 800.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25627.png [Carta Dourada](http://www.divine-pride.net/database/item/25627/) 6752.png 5 [Componente de Charleston](http://www.divine-pride.net/database/item/6752/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25627.png](https://static.divine-pride.net/images/items/item/25627.png) [Carta Dourada](http://www.divine-pride.net/database/item/25627/) ![6752.png](https://static.divine-pride.net/images/items/item/6752.png) 5 [Componente de Charleston](http://www.divine-pride.net/database/item/6752/) |
 
 1. Em [Verus](../Lugares%20em%20Ragnar%C3%B6k/Verus.md "Verus"), inicie a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com Dr. Magnatum (verus04 79,114)
 
@@ -72,7 +72,7 @@ Preste atenção nas seguintes informações na hora da [combinação](../Itens/
 
 | Combinador | Arma | 1º Bônus | 2º Bônus |
 | --- | --- | --- | --- |
-| 23706.png [Componente Corporal](http://www.divine-pride.net/database/item/23706/) | |  |  | | --- | --- | | 28101.png | [Tufão](http://www.divine-pride.net/database/item/28101/) |    |  |  | | --- | --- | | 1549.png | [Bate-Estacas](http://www.divine-pride.net/database/item/1549/) |    |  |  | | --- | --- | | 16030.png | [Bate-Estacas S](http://www.divine-pride.net/database/item/16030/) |    |  |  | | --- | --- | | 16031.png | [Bate-Estacas P](http://www.divine-pride.net/database/item/16031/) |    |  |  | | --- | --- | | 16032.png | [Bate-Estacas T](http://www.divine-pride.net/database/item/16032/) |    |  |  | | --- | --- | | 16033.png | [Braço Robótico](http://www.divine-pride.net/database/item/16033/) |    |  |  | | --- | --- | | 21011.png | [Lâmina Gigante](http://www.divine-pride.net/database/item/21011/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. |
+| ![23706.png](https://static.divine-pride.net/images/items/item/23706.png) [Componente Corporal](http://www.divine-pride.net/database/item/23706/) | |  |  | | --- | --- | | ![28101.png](https://static.divine-pride.net/images/items/item/28101.png) | [Tufão](http://www.divine-pride.net/database/item/28101/) |    |  |  | | --- | --- | | ![1549.png](https://static.divine-pride.net/images/items/item/1549.png) | [Bate-Estacas](http://www.divine-pride.net/database/item/1549/) |    |  |  | | --- | --- | | ![16030.png](https://static.divine-pride.net/images/items/item/16030.png) | [Bate-Estacas S](http://www.divine-pride.net/database/item/16030/) |    |  |  | | --- | --- | | ![16031.png](https://static.divine-pride.net/images/items/item/16031.png) | [Bate-Estacas P](http://www.divine-pride.net/database/item/16031/) |    |  |  | | --- | --- | | ![16032.png](https://static.divine-pride.net/images/items/item/16032.png) | [Bate-Estacas T](http://www.divine-pride.net/database/item/16032/) |    |  |  | | --- | --- | | ![16033.png](https://static.divine-pride.net/images/items/item/16033.png) | [Braço Robótico](http://www.divine-pride.net/database/item/16033/) |    |  |  | | --- | --- | | ![21011.png](https://static.divine-pride.net/images/items/item/21011.png) | [Lâmina Gigante](http://www.divine-pride.net/database/item/21011/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. |
 | Dano crítico +5~20%. | Dano físico contra monstros normais +1~10%. |
 | Velocidade de ataque +5~15%. | Dano físico contra monstros chefes +1~10%. |
 | Precisão +1~15. | Pós-conjuração -1~5%. |
@@ -82,7 +82,7 @@ Preste atenção nas seguintes informações na hora da [combinação](../Itens/
 | Dano físico contra **[TAMANHO]** +1~20%. |
 | Arma de propriedade **[ELEMENTO]**. |
 | Anula a penalidade de Tamanho da arma. |
-| 23707.png [Componente Certeiro](http://www.divine-pride.net/database/item/23707/) | |  |  | | --- | --- | | 28101.png | [Tufão](http://www.divine-pride.net/database/item/28101/) |    |  |  | | --- | --- | | 1549.png | [Bate-Estacas](http://www.divine-pride.net/database/item/1549/) |    |  |  | | --- | --- | | 16030.png | [Bate-Estacas S](http://www.divine-pride.net/database/item/16030/) |    |  |  | | --- | --- | | 16031.png | [Bate-Estacas P](http://www.divine-pride.net/database/item/16031/) |    |  |  | | --- | --- | | 16032.png | [Bate-Estacas T](http://www.divine-pride.net/database/item/16032/) |    |  |  | | --- | --- | | 16033.png | [Braço Robótico](http://www.divine-pride.net/database/item/16033/) |    |  |  | | --- | --- | | 21011.png | [Lâmina Gigante](http://www.divine-pride.net/database/item/21011/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. |
+| ![23707.png](https://static.divine-pride.net/images/items/item/23707.png) [Componente Certeiro](http://www.divine-pride.net/database/item/23707/) | |  |  | | --- | --- | | ![28101.png](https://static.divine-pride.net/images/items/item/28101.png) | [Tufão](http://www.divine-pride.net/database/item/28101/) |    |  |  | | --- | --- | | ![1549.png](https://static.divine-pride.net/images/items/item/1549.png) | [Bate-Estacas](http://www.divine-pride.net/database/item/1549/) |    |  |  | | --- | --- | | ![16030.png](https://static.divine-pride.net/images/items/item/16030.png) | [Bate-Estacas S](http://www.divine-pride.net/database/item/16030/) |    |  |  | | --- | --- | | ![16031.png](https://static.divine-pride.net/images/items/item/16031.png) | [Bate-Estacas P](http://www.divine-pride.net/database/item/16031/) |    |  |  | | --- | --- | | ![16032.png](https://static.divine-pride.net/images/items/item/16032.png) | [Bate-Estacas T](http://www.divine-pride.net/database/item/16032/) |    |  |  | | --- | --- | | ![16033.png](https://static.divine-pride.net/images/items/item/16033.png) | [Braço Robótico](http://www.divine-pride.net/database/item/16033/) |    |  |  | | --- | --- | | ![21011.png](https://static.divine-pride.net/images/items/item/21011.png) | [Lâmina Gigante](http://www.divine-pride.net/database/item/21011/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. |
 | Dano físico a distância +3~7%. | Dano físico contra monstros normais +1~10%. |
 | Velocidade de ataque +5~15%. | Dano físico contra monstros chefes +1~10%. |
 | Precisão +1~15. | Pós-conjuração -1~5%. |

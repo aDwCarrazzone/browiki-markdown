@@ -2,15 +2,15 @@
 
 # Infiltrando na Rekenber
 
-| EP ico Infiltrando na Rekenber | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Infiltrando na Rekenber | |
 | --- | --- |
 | A maior e mais poderosa corporação da república parece não se atentar à facilidade de se infiltrar nas dependências do laboratório Regenschirm. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 909.png 20 [Jellopys](http://www.divine-pride.net/database/item/909/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![909.png](https://static.divine-pride.net/images/items/item/909.png) 20 [Jellopys](http://www.divine-pride.net/database/item/909/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 2657.png 1 [Passe do Laboratório](http://www.divine-pride.net/database/item/2657/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2657.png](https://static.divine-pride.net/images/items/item/2657.png) 1 [Passe do Laboratório](http://www.divine-pride.net/database/item/2657/) |
 | **Recompensa** | Acesso ao [Laboratório de Somatologia](http://www.divine-pride.net/database/map/lhz_dun01/) |
 
 1. Siga para a favela falando com o Guarda (lighthalzen 266,200)
@@ -91,8 +91,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Inspeção no Templo de Odin](../Quests%20de%20experi%C3%AAncia/Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | SetaVermelha | [A Rebelião](../Quests%20de%20experi%C3%AAncia/A%20Rebeli%C3%A3o.md "A Rebelião") | | |
-| [Fábrica de Einbroch](../Quests%20de%20experi%C3%AAncia/F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | SetaVermelha | [Propriedade Maldita](../Quests%20de%20experi%C3%AAncia/Propriedade%20Maldita.md "Propriedade Maldita") | SetaVermelha | [O Presidente](../Quests%20de%20experi%C3%AAncia/O%20Presidente.md "O Presidente") | SetaVermelha |
-| Infiltrando na Rekenber | | | SetaVermelha | [A Empresa](../Quests%20de%20experi%C3%AAncia/A%20Empresa.md "A Empresa") | SetaVermelha |
-| SetaVermelha | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | SetaVermelha | [Laboratório de Wolfchev](Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Inspeção no Templo de Odin](../Quests%20de%20experi%C3%AAncia/Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Rebelião](../Quests%20de%20experi%C3%AAncia/A%20Rebeli%C3%A3o.md "A Rebelião") | | |
+| [Fábrica de Einbroch](../Quests%20de%20experi%C3%AAncia/F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Propriedade Maldita](../Quests%20de%20experi%C3%AAncia/Propriedade%20Maldita.md "Propriedade Maldita") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](../Quests%20de%20experi%C3%AAncia/O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| Infiltrando na Rekenber | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Empresa](../Quests%20de%20experi%C3%AAncia/A%20Empresa.md "A Empresa") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
 | [Contador de Histórias](Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |

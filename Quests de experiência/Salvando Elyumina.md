@@ -2,7 +2,7 @@
 
 # Salvando Elyumina
 
-| NQ ico Salvando Elyumina | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Salvando Elyumina | |
 | --- | --- |
 | Elyumina, antes membra da Ilusión, ainda sofre preconceito das autômatas. Após ser empurrada em uma água de esgoto radioativo, ela precisa de um antídoto coletado das Papilias. Salve a vida de Elyumina enquanto ajuda as jardineiras a reestabelecer a conexão com outras robôs. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | **Quests anteriores** | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.547.004 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 | **Recompensa** | Libera o acesso à [Ortus Aqua](Ortus%20Aqua.md "Ortus Aqua") |
 
 1. Fale com Renshiz (ba\_pw02 41,267).

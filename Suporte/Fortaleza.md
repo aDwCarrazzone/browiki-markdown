@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Fortaleza Fortaleza** | |
-| Fortaleza | |
+| **![Fortaleza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/Fortaleza.png) Fortaleza** | |
+| ![Fortaleza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/04/Fortaleza.gif) | |
 | **Amistr Bulwark** | |
 | **ID** | HAMI\_DEFENCE (8006) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Duração** | [45 - (Nv. da habilidade × 5)] segundos |
 | **Alvo** | Mestre e Homunculus |
 | **Pré-requisitos** | |
-| [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") Nv. 5 | |
+| [![Troca de Lugar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Troca_de_Lugar.png)](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") [Troca de Lugar](../Ativa/Troca%20de%20Lugar.md "Troca de Lugar") Nv. 5 | |
 
 Aumenta a [VIT](../Sem%20categoria/VIT.md "VIT") do mestre e a [DEF](../Sem%20categoria/DEF.md "DEF") do [homunculus](../Homunculus/Homunculus.md "Homunculus") temporariamente.
 

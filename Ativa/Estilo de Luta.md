@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Estilo de Luta Estilo de Luta** | |
-| Estilo de Luta | |
+| **![Estilo de Luta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Estilo_de_Luta.png) Estilo de Luta** | |
+| ![Estilo de Luta](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Estilo_de_Luta.gif) | |
 | **Style Change** | |
 | **ID** | MH\_STYLE\_CHANGE (8027) |
 | **Tipo** | Ativa |
@@ -20,7 +20,7 @@ Alterna entre o modo *Batalha* e o modo *Garra* da [homunculus](../Homunculus/Ho
 
 | Batalha | Garra |
 | --- | --- |
-| |  |  | | --- | --- | | [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") | [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") |  |  |  | | --- | --- | | [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") | [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") |  |  |  | | --- | --- | | [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") | [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") | | |  |  | | --- | --- | | [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") | [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") |  |  |  | | --- | --- | | [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") | [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") |  |  |  | | --- | --- | | [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") | [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") | |
+| |  |  | | --- | --- | | [![Garra Supersônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Garra_Supers%C3%B4nica.png)](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") | [Garra Supersônica](../Ofensiva/Garra%20Supers%C3%B4nica.md "Garra Supersônica") |  |  |  | | --- | --- | | [![Rastro Brilhante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Rastro_Brilhante.png)](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") | [Rastro Brilhante](../Ofensiva/Rastro%20Brilhante.md "Rastro Brilhante") |  |  |  | | --- | --- | | [![Delírio Noturno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Del%C3%ADrio_Noturno.png)](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") | [Delírio Noturno](../Ofensiva/Del%C3%ADrio%20Noturno.md "Delírio Noturno") | | |  |  | | --- | --- | | [![Quebra-Costelas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Quebra-Costelas.png)](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") | [Quebra-Costelas](../Ofensiva/Quebra-Costelas.md "Quebra-Costelas") |  |  |  | | --- | --- | | [![Dreno Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Dreno_Traum%C3%A1tico.png)](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") | [Dreno Traumático](../Ofensiva/Dreno%20Traum%C3%A1tico.md "Dreno Traumático") |  |  |  | | --- | --- | | [![Estado Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Estado_Traum%C3%A1tico.png)](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") | [Estado Traumático](../Ofensiva/Estado%20Traum%C3%A1tico.md "Estado Traumático") | |
 
 ### Esfera
 

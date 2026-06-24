@@ -2,7 +2,7 @@
 
 # Guardiã Perdida
 
-| NQ ico Guardiã Perdida | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Guardiã Perdida | |
 | --- | --- |
 | O descontrole da guardiã da Yggdrasil parece ter causado uma distorção no ambiente e criado um labirinto com uma neblina estranha. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 400.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 400.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 2858.png 1 [Pingente do Guarda](http://www.divine-pride.net/database/item/2858/)  2568.png 1 [Sobrepeliz do Loki](http://www.divine-pride.net/database/item/2568/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2858.png](https://static.divine-pride.net/images/items/item/2858.png) 1 [Pingente do Guarda](http://www.divine-pride.net/database/item/2858/)  ![2568.png](https://static.divine-pride.net/images/items/item/2568.png) 1 [Sobrepeliz do Loki](http://www.divine-pride.net/database/item/2568/) |
 
 1. No [Labirinto da Neblina](../Quest/Labirinto%20da%20Neblina.md "Labirinto da Neblina"), diga que vai explorar a floresta para o Jovem Misterioso, logo na entrada.
 

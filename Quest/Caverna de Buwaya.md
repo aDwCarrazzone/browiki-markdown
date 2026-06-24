@@ -2,19 +2,19 @@
 
 # Caverna de Buwaya
 
-| SC ico Caverna de Buwaya | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Caverna de Buwaya | |
 | --- | --- |
 | A lenda de Buwaya conta que qualquer pessoa que for pega pelo monstro ficará preso eternamente dentro de seu baú. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Segredos na Floresta](../Acesso%20a%20Calabou%C3%A7os/Segredos%20na%20Floresta.md "Segredos na Floresta") |
 | Premiação | |
-| **Chefe** | Monster Buwaya [Buwaya](http://www.divine-pride.net/database/monster/2319/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 3 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
+| **Chefe** | ![Monster Buwaya](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Monster_Buwaya.png) [Buwaya](http://www.divine-pride.net/database/monster/2319/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 3 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
 
 1. Converse com o Chefe da Guarda (malaya 290,340)
 

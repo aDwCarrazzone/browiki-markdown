@@ -2,7 +2,7 @@
 
 # Rumores Sérios
 
-| EP ico Rumores Sérios | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Rumores Sérios | |
 | --- | --- |
 | Há rumores de que os experimentos com humanos, que pensávamos ter parado, prosseguem. O que está havendo? É preciso verificar isso. | |
 | Requisitos mínimos | |
@@ -50,9 +50,9 @@
      - [Desordeira Gertie](http://www.divine-pride.net/database/monster/2239/)
 7. Após ter completar a missão, fale com Wolfchev no final da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") para receber sua recompensa:
    - A premiação abaixo é dada aleatoriamente:
-     - ![6471.png](http://static.divine-pride.net/images/items/item/6471.png) 10 a 20 [Frio dos Mortos](http://www.divine-pride.net/database/item/6471/) ou
-     - ![6470.png](http://static.divine-pride.net/images/items/item/6470.png) 10 a 20 [Sede de Sangue](http://www.divine-pride.net/database/item/6470/) ou
-     - ![6469.png](http://static.divine-pride.net/images/items/item/6469.png) 30 a 60 [Vontade do Guerreiro](http://www.divine-pride.net/database/item/6469/) ou
+     - ![6471.png](https://static.divine-pride.net/images/items/item/6471.png) 10 a 20 [Frio dos Mortos](http://www.divine-pride.net/database/item/6471/) ou
+     - ![6470.png](https://static.divine-pride.net/images/items/item/6470.png) 10 a 20 [Sede de Sangue](http://www.divine-pride.net/database/item/6470/) ou
+     - ![6469.png](https://static.divine-pride.net/images/items/item/6469.png) 30 a 60 [Vontade do Guerreiro](http://www.divine-pride.net/database/item/6469/) ou
      - 1 [Arma ou Equipamento Biológico](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md#Fabricação "Lighthalzen") aleatório
 8. Você pode falar com o [NPC](../Sem%20categoria/NPC.md "NPC") novamente para repetir a missão de caçada e receber a recompensa por ter eliminado todos os [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").
 
@@ -60,8 +60,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Inspeção no Templo de Odin](../Quests%20de%20experi%C3%AAncia/Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | SetaVermelha | [A Rebelião](../Quests%20de%20experi%C3%AAncia/A%20Rebeli%C3%A3o.md "A Rebelião") | | |
-| [Fábrica de Einbroch](../Quests%20de%20experi%C3%AAncia/F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | SetaVermelha | [Propriedade Maldita](../Quests%20de%20experi%C3%AAncia/Propriedade%20Maldita.md "Propriedade Maldita") | SetaVermelha | [O Presidente](../Quests%20de%20experi%C3%AAncia/O%20Presidente.md "O Presidente") | SetaVermelha |
-| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | SetaVermelha | [A Empresa](../Quests%20de%20experi%C3%AAncia/A%20Empresa.md "A Empresa") | SetaVermelha |
-| SetaVermelha | Rumores Sérios | SetaVermelha | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Inspeção no Templo de Odin](../Quests%20de%20experi%C3%AAncia/Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Rebelião](../Quests%20de%20experi%C3%AAncia/A%20Rebeli%C3%A3o.md "A Rebelião") | | |
+| [Fábrica de Einbroch](../Quests%20de%20experi%C3%AAncia/F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Propriedade Maldita](../Quests%20de%20experi%C3%AAncia/Propriedade%20Maldita.md "Propriedade Maldita") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](../Quests%20de%20experi%C3%AAncia/O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Empresa](../Quests%20de%20experi%C3%AAncia/A%20Empresa.md "A Empresa") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Rumores Sérios | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
 | [Contador de Histórias](../Quest/Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |

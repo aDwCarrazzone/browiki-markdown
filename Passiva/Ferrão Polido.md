@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Ferrão Polido Ferrão Polido** | |
-| SemImagem | |
+| **![Ferrão Polido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Ferr%C3%A3o_Polido.png) Ferrão Polido** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Ferrão Polido** | |
 | **ID** | Polishing\_Needle (?) |
 | **Tipo** | Passiva |

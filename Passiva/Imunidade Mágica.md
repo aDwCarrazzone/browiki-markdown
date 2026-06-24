@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Imunidade Mágica Imunidade Mágica** | |
-| Imunidade Mágica | |
+| **![Imunidade Mágica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Imunidade_M%C3%A1gica.png) Imunidade Mágica** | |
+| ![Imunidade Mágica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/Imunidade_M%C3%A1gica.gif) | |
 | **Magic Immune** | |
 | **ID** | - (-) |
 | **Tipo** | Passiva |

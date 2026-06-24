@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Corrente da Vida** | |
-| Corrente da Vida | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Corrente da Vida** | |
+| ![Corrente da Vida](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Corrente_da_Vida.gif) | |
 | **ID:** | NPC\_ALLHEAL (687) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

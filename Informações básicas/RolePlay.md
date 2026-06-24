@@ -18,9 +18,9 @@ Para entender o básico da interpretação do seu personagem em [Ragnarök Onlin
 
 |  |  |
 | --- | --- |
-| Roleplaying1 | Falar com outros jogadores enquanto interpreta seu personagem é bem simples, basta dizer algo que ele falaria e digite o texto no chat. |
-| Roleplaying2 | Qualquer texto escrito entre asteriscos significa que o personagem está realizando uma atividade. Exemplos: `*Limpa a espada*` `*Acaricia o bichinho de estimação*` |
-| Roleplaying3 | Se você precisar falar algo como jogador e não como personagem, coloque entre colchetes. Exemplos: `[Gente, a pizza chegou, volto logo!]` `[É sério, ri tanto que cuspi leite pelo nariz!]` |
+| ![Roleplaying1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Roleplaying1.png) | Falar com outros jogadores enquanto interpreta seu personagem é bem simples, basta dizer algo que ele falaria e digite o texto no chat. |
+| ![Roleplaying2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Roleplaying2.png) | Qualquer texto escrito entre asteriscos significa que o personagem está realizando uma atividade. Exemplos: `*Limpa a espada*` `*Acaricia o bichinho de estimação*` |
+| ![Roleplaying3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Roleplaying3.png) | Se você precisar falar algo como jogador e não como personagem, coloque entre colchetes. Exemplos: `[Gente, a pizza chegou, volto logo!]` `[É sério, ri tanto que cuspi leite pelo nariz!]` |
 
 ## Atividades
 

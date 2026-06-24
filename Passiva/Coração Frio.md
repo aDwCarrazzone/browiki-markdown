@@ -4,15 +4,15 @@
 
 |  |  |
 | --- | --- |
-| **Coração Frio Coração Frio** | |
-| SemImagem | |
+| **![Coração Frio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Cora%C3%A7%C3%A3o_Frio.png) Coração Frio** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Cold Heart** | |
 | **ID** | GD\_SOULCOLD (10008) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Área** | 5x5 células |
 | **Pré-requisitos** | |
-| [Ferimentos de Glória](Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") [Ferimentos de Glória](Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") Nv. 1 | |
+| [![Ferimentos de Glória](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Ferimentos_de_Gl%C3%B3ria.png)](Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") [Ferimentos de Glória](Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") Nv. 1 | |
 
 Todos os membros do [clã](../PvP/Cl%C3%A3.md "Clã") ao redor do líder receberão um bônus de [AGI](../Sem%20categoria/AGI.md "AGI") dentro e fora dos castelos.
 

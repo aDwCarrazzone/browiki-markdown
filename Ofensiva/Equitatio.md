@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Equitatio Equitatio** | |
+| **![Equitatio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Equitatio.png) Equitatio** | |
 | [Arquivo:Equitatio.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Equitatio.gif "Arquivo:Equitatio.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

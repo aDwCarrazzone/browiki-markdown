@@ -2,13 +2,13 @@
 
 # Adoradores do Infortúnio
 
-| NQ ico Adoradores do Infortúnio | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Adoradores do Infortúnio | |
 | --- | --- |
 | Um grupo de fiéis acredita que a verdadeira libertação é o culto à destruição e ao final dos tempos! Será que existem pessoas que acreditam nisso? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 150 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6691.png 15 [Pluma Flamejante](http://www.divine-pride.net/database/item/6691/) 6693.png 40 [Pedra Abençoada](http://www.divine-pride.net/database/item/6693/)  6694.png 30 [Sangue de Monstro](http://www.divine-pride.net/database/item/6694/)  6695.png 30 [Dente de Golem](http://www.divine-pride.net/database/item/6695/)  6696.png 30 [Brasão Flamejante](http://www.divine-pride.net/database/item/6696/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6691.png](https://static.divine-pride.net/images/items/item/6691.png) 15 [Pluma Flamejante](http://www.divine-pride.net/database/item/6691/) ![6693.png](https://static.divine-pride.net/images/items/item/6693.png) 40 [Pedra Abençoada](http://www.divine-pride.net/database/item/6693/)  ![6694.png](https://static.divine-pride.net/images/items/item/6694.png) 30 [Sangue de Monstro](http://www.divine-pride.net/database/item/6694/)  ![6695.png](https://static.divine-pride.net/images/items/item/6695.png) 30 [Dente de Golem](http://www.divine-pride.net/database/item/6695/)  ![6696.png](https://static.divine-pride.net/images/items/item/6696.png) 30 [Brasão Flamejante](http://www.divine-pride.net/database/item/6696/) |
 | **Caça** | 20 [Arenoso de Fogo](http://www.divine-pride.net/database/monster/3021/) 20 [Frilldora de Fogo](http://www.divine-pride.net/database/monster/3022/) |
 | **Quests anteriores** | [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") |
 | Premiação | |

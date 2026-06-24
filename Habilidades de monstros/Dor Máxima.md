@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Dor Máxima** | |
-| Dor Máxima | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Dor Máxima** | |
+| ![Dor Máxima](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Dor_M%C3%A1xima.gif) | |
 | **ID:** | NPC\_MAXPAIN (716) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

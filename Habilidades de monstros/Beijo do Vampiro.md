@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Beijo do Vampiro** | |
-| Beijo do Vampiro | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Beijo do Vampiro** | |
+| ![Beijo do Vampiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Beijo_do_Vampiro.gif) | |
 | **ID:** | NPC\_VAMPIRE\_GIFT (679) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |
@@ -36,7 +36,7 @@ Causa dano físico corpo a corpo de propriedade [Neutro](../Sem%20categoria/Neut
 - Não pode ser bloqueada por [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") e [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico").
 - Pode curar usuários em [Frenesi](../Ativa/Frenesi.md "Frenesi").
 - Armas relacionadas:
-  - ![1186.png](http://static.divine-pride.net/images/items/item/1186.png) [Guia da Morte](http://www.divine-pride.net/database/item/1186/)
+  - ![1186.png](https://static.divine-pride.net/images/items/item/1186.png) [Guia da Morte](http://www.divine-pride.net/database/item/1186/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

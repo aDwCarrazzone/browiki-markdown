@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ataque Silenciador** | |
-| Ataque Silenciador | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ataque Silenciador** | |
+| ![Ataque Silenciador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Ataque_Silenciador.gif) | |
 | **ID:** | NPC\_SILENCEATTACK (178) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

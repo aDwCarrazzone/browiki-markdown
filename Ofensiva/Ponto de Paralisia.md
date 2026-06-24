@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Ponto de Paralisia Ponto de Paralisia** | |
-| Ponto de Paralisia | |
+| **![Ponto de Paralisia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Ponto_de_Paralisia.png) Ponto de Paralisia** | |
+| ![Ponto de Paralisia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/Ponto_de_Paralisia.gif) | |
 | **Needle of Paralysis** | |
 | **ID** | MH\_NEEDLE\_OF\_PARALYZE (8019) |
 | **Tipo** | Ofensiva |
@@ -15,7 +15,7 @@
 | **Alvo** | Oponente |
 | **Alcance** | 5 células |
 | **Propriedade** | [Veneno](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
-| **Ícone** | I Paralisia |
+| **Ícone** | ![I Paralisia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/I_Paralisia.png) |
 | **Pré-requisitos** | |
 | [Sera](../Sem%20categoria/Sera.md "Sera") nível 105 | |
 

@@ -2,7 +2,7 @@
 
 # Ensinando a Trabalhar
 
-| DQ ico Ensinando a Trabalhar | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Ensinando a Trabalhar | |
 | --- | --- |
 | A Taverna Forninho está correndo um sério risco de falta de estoques! Por culpa de 2 atrapalhados, o fornecedor está tendo problemas para produzir Leite de Kaluna. Ajude Gopara e Daldal a terem alguma utilidade! | |
 | Requisitos mínimos | |

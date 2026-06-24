@@ -2,15 +2,15 @@
 
 # Tribo dos Jaty
 
-| NQ ico Tribo dos Jaty | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Tribo dos Jaty | |
 | --- | --- |
 | Conheça a história de uma tribo tradicional da ilha e de uma ave do paraíso. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6405.png 15 [Penas de Cendrawasih](http://www.divine-pride.net/database/item/6405/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6405.png](https://static.divine-pride.net/images/items/item/6405.png) 15 [Penas de Cendrawasih](http://www.divine-pride.net/database/item/6405/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 18520.png 1 [Coroa de Jaty](http://www.divine-pride.net/database/item/18520/)  11533.png 5 [Satés](http://www.divine-pride.net/database/item/11533/)  6406.png 1 [Pena Reluzente](http://www.divine-pride.net/database/item/6406/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![18520.png](https://static.divine-pride.net/images/items/item/18520.png) 1 [Coroa de Jaty](http://www.divine-pride.net/database/item/18520/)  ![11533.png](https://static.divine-pride.net/images/items/item/11533.png) 5 [Satés](http://www.divine-pride.net/database/item/11533/)  ![6406.png](https://static.divine-pride.net/images/items/item/6406.png) 1 [Pena Reluzente](http://www.divine-pride.net/database/item/6406/) |
 | **Recompensa** | Acesso ao [Vulcão Krakatau](http://www.divine-pride.net/database/map/dew_dun01/) |
 
 1. Entre na residência, assim que se aproximar, uma janela de conversa é ativada (dew\_fild01 60,273)

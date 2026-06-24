@@ -2,13 +2,13 @@
 
 # Conhecendo a Morte
 
-| NQ ico Conhecendo a Morte | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Conhecendo a Morte | |
 | --- | --- |
 | Nem sempre as pessoas conseguem se despedir de alguém na hora da morte. Ajude Aleuce a transmitir uma mensagem de afeto para sua querida esposa! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 80 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 748.png 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)   610.png 10 [Folhas de Yggdrasil](http://www.divine-pride.net/database/item/610/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![748.png](https://static.divine-pride.net/images/items/item/748.png) 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)   ![610.png](https://static.divine-pride.net/images/items/item/610.png) 10 [Folhas de Yggdrasil](http://www.divine-pride.net/database/item/610/) |
 | Premiação | |
 | **[Itens](../Itens/Itens.md "Itens")** | Variável |
 

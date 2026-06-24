@@ -29,30 +29,30 @@ Os líderes dos clãs reais são puramente [NPCs](../Sem%20categoria/NPC.md "NPC
 
 |  |
 | --- |
-| RafaellaOra |
-| Ícone | EspadaEscarlateCR |
+| ![RafaellaOra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/RafaellaOra.png) |
+| Ícone | ![EspadaEscarlateCR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/EspadaEscarlateCR.png) |
 | Clã | Espada Escarlate |
 | Bônus | [FOR](../Sem%20categoria/FOR.md "FOR") e [VIT](../Sem%20categoria/VIT.md "VIT") +1. [HP](../Sem%20categoria/HP.md "HP") +30 e [SP](../Sem%20categoria/SP.md "SP") +10. |
 |  | | |
-| DavidAird |
-| Ícone | CajadoCelesteCR |
+| ![DavidAird](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/DavidAird.png) |
+| Ícone | ![CajadoCelesteCR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/24/CajadoCelesteCR.png) |
 | Clã | Cajado Celeste |
 | Bônus | [INT](../Sem%20categoria/INT.md "INT") e [DES](../Sem%20categoria/DES.md "DES") +1. [HP](../Sem%20categoria/HP.md "HP") +30 e [SP](../Sem%20categoria/SP.md "SP") +10. |
 |  | | |
-| BejaminAire |
-| Ícone | MassaDouradaCR |
+| ![BejaminAire](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/BejaminAire.png) |
+| Ícone | ![MassaDouradaCR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/MassaDouradaCR.png) |
 | Clã | Maça Dourada |
 | Bônus | [SOR](../Sem%20categoria/SOR.md "SOR") e [INT](../Sem%20categoria/INT.md "INT") +1. [HP](../Sem%20categoria/HP.md "HP") +30 e [SP](../Sem%20categoria/SP.md "SP") +10. |
 |  | | |
-| Samruim |
-| Ícone | BalestraEsmeraldaCR |
+| ![Samruim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Samruim.png) |
+| Ícone | ![BalestraEsmeraldaCR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/BalestraEsmeraldaCR.png) |
 | Clã | Balestra Esmeralda |
 | Bônus | [DES](../Sem%20categoria/DES.md "DES") e [AGI](../Sem%20categoria/AGI.md "AGI") +1. [HP](../Sem%20categoria/HP.md "HP") +30 e [SP](../Sem%20categoria/SP.md "SP") +10. |
 
 ## Esconderijo dos Remanescentes
 
 - Líderes de cada Clã Real oferecem missões semanais de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
-- Ao completá-las, você receberá ![6849.png](http://static.divine-pride.net/images/items/item/6849.png) [Recibos de Conclusão](http://www.divine-pride.net/database/item/6849/).
+- Ao completá-las, você receberá ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) [Recibos de Conclusão](http://www.divine-pride.net/database/item/6849/).
 - Acumulando uma boa quantidade desses recibos, a recompensa em [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") aumenta de acordo com os recibos entregues.
 - Para ter acesso às missões diárias, você deverá completar a missão principal de cada clã real:
   - Esconderijo dos Remanescentes:
@@ -65,16 +65,16 @@ Os líderes dos clãs reais são puramente [NPCs](../Sem%20categoria/NPC.md "NPC
 
 | Recibos entregues | Nv. de base | [EXP](../Sem%20categoria/EXP.md "EXP") base | Recibos ganhos |
 | --- | --- | --- | --- |
-| Entre 0 a 49 | 1 a 69 | 11.000 | 6849.png 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 0 a 49 | 1 a 69 | 11.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 540.000 |
 | 111 ou mais | 1.714.000 |
-| Entre 50 a 149 | 1 a 69 | 15.000 | 6849.png 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 50 a 149 | 1 a 69 | 15.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 702.000 |
 | 111 ou mais | 2.228.200 |
-| Entre 150 a 199 | 1 a 69 | 20.000 | 6849.png 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 150 a 199 | 1 a 69 | 20.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 918.000 |
 | 111 ou mais | 3.180.200 |
-| Acima de 200 | 1 a 69 | 23.000 | 6849.png 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Acima de 200 | 1 a 69 | 23.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 1.080.000 |
 | 111 ou mais | 3.400.000 |
 

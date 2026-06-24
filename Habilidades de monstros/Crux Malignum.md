@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Crux Malignum** | |
-| SemImagem | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Crux Malignum** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **ID:** | NPC\_DARKCROSS (338) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

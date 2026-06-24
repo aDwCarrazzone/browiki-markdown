@@ -35,8 +35,8 @@ Além da Janela de Navegação, o sistema conta com um mini-mapa que pode ser am
 - Se tiver um [Passaporte](http://www.divine-pride.net/database/item/25464/), você poderá teleportar-se para qualquer mapa do jogo que seja visível no Mapa-múndi.
 - Além de cidades e campos, as cavernas podem ser acessadas, mas você não poderá acessar mapas de [quests](../Quest/Quests.md "Quests") e internos.
   - Para teleportar, você deve ter no inventário:
-    - ![25464.png](http://static.divine-pride.net/images/items/item/25464.png) [Passaporte](http://www.divine-pride.net/database/item/25464/) ou
-    - ![6909.png](http://static.divine-pride.net/images/items/item/6909.png) [MiauMiau](http://www.divine-pride.net/database/item/6909/)
+    - ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) [Passaporte](http://www.divine-pride.net/database/item/25464/) ou
+    - ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) [MiauMiau](http://www.divine-pride.net/database/item/6909/)
   - Selecione o mapa desejado ou escreva na janela de navegação.
   - Aperte o botão *Teleportar*
 

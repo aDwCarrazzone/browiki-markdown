@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Cirurgia Cerebral Cirurgia Cerebral** | |
-| SemImagem | |
+| **![Cirurgia Cerebral](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Cirurgia_Cerebral.png) Cirurgia Cerebral** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Brain Surgery** | |
 | **ID** | HLIF\_BRAIN (8003) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Pré-requisitos** | |
-| [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") Nv. 5 | |
+| [![Cura pelas Mãos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Cura_pelas_M%C3%A3os.png)](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") Nv. 5 | |
 
 Aumenta a efetividade de cura de [Cura pelas Mãos](../Suporte/Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos"), o [SP](../Sem%20categoria/SP.md "SP") máximo, a regeneração natural de [SP](../Sem%20categoria/SP.md "SP") do [homunculus](../Homunculus/Homunculus.md "Homunculus").
 

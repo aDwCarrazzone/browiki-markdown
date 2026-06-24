@@ -2,15 +2,15 @@
 
 # Herói dos Orcs
 
-| NQ ico Herói dos Orcs | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Herói dos Orcs | |
 | --- | --- |
 | Em uma vila habitada por Orcs, o maior símbolo de heroísmo está naqueles que usam um pomposo chapéu. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 55 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 909.png 10.000 [Jellopys](http://www.divine-pride.net/database/item/909/) 931.png 10.000 [Amuletos dos Orcs](http://www.divine-pride.net/database/item/931/)  968.png 100 [Insígnias do Herói](http://www.divine-pride.net/database/item/968/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![909.png](https://static.divine-pride.net/images/items/item/909.png) 10.000 [Jellopys](http://www.divine-pride.net/database/item/909/) ![931.png](https://static.divine-pride.net/images/items/item/931.png) 10.000 [Amuletos dos Orcs](http://www.divine-pride.net/database/item/931/)  ![968.png](https://static.divine-pride.net/images/items/item/968.png) 100 [Insígnias do Herói](http://www.divine-pride.net/database/item/968/) |
 | Premiação | |
-| **Recompensa** | 5094.png 1 [Elmo de Orc Herói](http://www.divine-pride.net/database/item/5094/) |
+| **Recompensa** | ![5094.png](https://static.divine-pride.net/images/items/item/5094.png) 1 [Elmo de Orc Herói](http://www.divine-pride.net/database/item/5094/) |
 
 1. Aproxime-se do Guerreiro Orc (in\_orcs01 31,93)
 

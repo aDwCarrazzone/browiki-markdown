@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Chamado do Guardião Chamado do Guardião** | |
-| Chamado do Guardião | |
+| **![Chamado do Guardião](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Chamado_do_Guardi%C3%A3o.png) Chamado do Guardião** | |
+| ![Chamado do Guardião](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Chamado_do_Guardi%C3%A3o.gif) | |
 | **Call of Guardian** | |
 | **ID** | ALL\_GUARDIAN\_RECALL (2536) |
 | **Tipo** | Ativa |

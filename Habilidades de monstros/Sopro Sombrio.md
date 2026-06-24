@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Sopro Sombrio** | |
-| Sopro Sombrio | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Sopro Sombrio** | |
+| ![Sopro Sombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Sopro_Sombrio.gif) | |
 | **ID:** | NPC\_DARKBREATH (202) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

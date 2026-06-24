@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Toxina de Mandara Toxina de Mandara** | |
+| **![Toxina de Mandara](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/Toxina_de_Mandara.png) Toxina de Mandara** | |
 | [Arquivo:Toxina de Mandara.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Toxina_de_Mandara.gif "Arquivo:Toxina de Mandara.gif") | |
 | **Toxina de Mandara** | |
 | **ID** | Toxin\_of\_Mandara (?) |
@@ -16,7 +16,7 @@
 | **Alvo** | Usuário |
 | **Área** | 3x3 ~ 7x7 ~ 9x9 células |
 | **Propriedade** | [Neutro](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
-| **Ícone** | I Toxina de Mandara |
+| **Ícone** | ![I Toxina de Mandara](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/I_Toxina_de_Mandara.png) |
 | **Pré-requisitos** | |
 | [Sera](../Sem%20categoria/Sera.md "Sera") nível 125 | |
 

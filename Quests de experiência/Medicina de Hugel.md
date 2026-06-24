@@ -2,16 +2,16 @@
 
 # Medicina de Hugel
 
-| NQ ico Medicina de Hugel | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Medicina de Hugel | |
 | --- | --- |
 | A difícil tarefa de um filho é estar ao lado de seu pai ao mesmo tempo em que sai em busca de um remédio, mas será preciso muita paciência para conseguir dar o remédio a ele. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 504.png 1 [Poção Branca](http://www.divine-pride.net/database/item/504/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![504.png](https://static.divine-pride.net/images/items/item/504.png) 1 [Poção Branca](http://www.divine-pride.net/database/item/504/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 5.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Converse com Allen Schuwell (hu\_in01 387,245)
 

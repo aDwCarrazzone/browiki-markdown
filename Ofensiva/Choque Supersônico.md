@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Choque Supersônico Choque Supersônico** | |
-| Choque Supersônico | |
+| **![Choque Supersônico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Choque_Supers%C3%B4nico.png) Choque Supersônico** | |
+| ![Choque Supersônico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Choque_Supers%C3%B4nico.gif) | |
 | **Eraser Cutter** | |
 | **ID** | MH\_ERASER\_CUTTER (8024) |
 | **Tipo** | Ofensiva |

@@ -2,15 +2,15 @@
 
 # Gatchaman
 
-| EV ico Gatchaman | |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Gatchaman | |
 | --- | --- |
-| [Gatchamancollab](https://ro.gnjoylatam.com/pt/news/event/65?type=ACTIVE) | |
+| [![Gatchamancollab](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Gatchamancollab.png)](https://ro.gnjoylatam.com/pt/news/event/65?type=ACTIVE) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Evento |
 | **Caça** | Ver tabela |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1002382.png [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
 
 1. Converse com o Guia da Fenda Anômala (morocc 196,261)
 
@@ -31,7 +31,7 @@
       :   ![Gatchaman03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Gatchaman03.png)
    4. Elimine o [Galaring Bestial](http://www.divine-pride.net/database/monster/22677/) para encerrar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 7. Retorne para a Fenda Anômala (morocc 23,188) e converse com os [NPCs](../Sem%20categoria/NPC.md "NPC").
-   - Você receberá ![1002382.png](http://static.divine-pride.net/images/items/item/1002382.png) 5 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/)
+   - Você receberá ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 5 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/)
    - Você desbloqueou as missões diárias.
 
 ### Missões diárias
@@ -42,11 +42,11 @@
 
 | Missão | Objetivo | Recompensa |
 | --- | --- | --- |
-| DQ ico Preparar Míssil Midga | - Coletar 1002381.png 10 [Pólvora Midga](http://www.divine-pride.net/database/item/1002381/) | - 1002382.png 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| DQ ico Vamos Destruí-los | - Caçar 10 [Galaring](http://www.divine-pride.net/database/monster/22672/) | - 1002382.png 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| DQ ico Não retorne à base | - Caçar 10 [Lula-explosiva](http://www.divine-pride.net/database/monster/22673/) | - 1002382.png 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| DQ ico Prepare-se | - Caçar 1 [Galaring Bestial](http://www.divine-pride.net/database/monster/22677/) | - 1002382.png 2 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| DQ ico Eu imploro | - Encontrar Joe em um local aleatório. **Missão é aleatória!** - Portão oeste: 1. (moc\_pryd02 113,83) / 2. (in\_sphinx3 162,165) - Portão sul: 1. (moc\_fild16 218,99) / 2. (cmd\_fild04 78,80) | - 1002382.png 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Preparar Míssil Midga | - Coletar ![1002381.png](https://static.divine-pride.net/images/items/item/1002381.png) 10 [Pólvora Midga](http://www.divine-pride.net/database/item/1002381/) | - ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Vamos Destruí-los | - Caçar 10 [Galaring](http://www.divine-pride.net/database/monster/22672/) | - ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Não retorne à base | - Caçar 10 [Lula-explosiva](http://www.divine-pride.net/database/monster/22673/) | - ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Prepare-se | - Caçar 1 [Galaring Bestial](http://www.divine-pride.net/database/monster/22677/) | - ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 2 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Eu imploro | - Encontrar Joe em um local aleatório. **Missão é aleatória!** - Portão oeste: 1. (moc\_pryd02 113,83) / 2. (in\_sphinx3 162,165) - Portão sul: 1. (moc\_fild16 218,99) / 2. (cmd\_fild04 78,80) | - ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 1 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
 
 ### Recompensas
 
@@ -56,11 +56,11 @@
 
 | Item | Material |
 | --- | --- |
-| 300732.png 1 [Carta Ninja Team](http://www.divine-pride.net/database/item/300732/) | 1002382.png 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 300733.png 1 [Carta Galactor](http://www.divine-pride.net/database/item/300733/) | 1002382.png 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 300734.png 1 [Carta Míssil Ave](http://www.divine-pride.net/database/item/300734/) | 1002382.png 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 401207.png 1 [(Visual) Science Ninja Honorário](http://www.divine-pride.net/database/item/401207/) | 1002382.png 25 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 105672.png 1 [Pena Resistente](http://www.divine-pride.net/database/item/105672/) | 1002382.png 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 105667.png 1 [Pena Maciça](http://www.divine-pride.net/database/item/105667/) | 1002382.png 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 105669.png 1 [Pena Leve](http://www.divine-pride.net/database/item/105669/) | 1002382.png 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
-| 105668.png 1 [Pena Glamurosa](http://www.divine-pride.net/database/item/105668/) | 1002382.png 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![300732.png](https://static.divine-pride.net/images/items/item/300732.png) 1 [Carta Ninja Team](http://www.divine-pride.net/database/item/300732/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![300733.png](https://static.divine-pride.net/images/items/item/300733.png) 1 [Carta Galactor](http://www.divine-pride.net/database/item/300733/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![300734.png](https://static.divine-pride.net/images/items/item/300734.png) 1 [Carta Míssil Ave](http://www.divine-pride.net/database/item/300734/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 55 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![401207.png](https://static.divine-pride.net/images/items/item/401207.png) 1 [(Visual) Science Ninja Honorário](http://www.divine-pride.net/database/item/401207/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 25 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![105672.png](https://static.divine-pride.net/images/items/item/105672.png) 1 [Pena Resistente](http://www.divine-pride.net/database/item/105672/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![105667.png](https://static.divine-pride.net/images/items/item/105667.png) 1 [Pena Maciça](http://www.divine-pride.net/database/item/105667/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![105669.png](https://static.divine-pride.net/images/items/item/105669.png) 1 [Pena Leve](http://www.divine-pride.net/database/item/105669/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |
+| ![105668.png](https://static.divine-pride.net/images/items/item/105668.png) 1 [Pena Glamurosa](http://www.divine-pride.net/database/item/105668/) | ![1002382.png](https://static.divine-pride.net/images/items/item/1002382.png) 3 [Botão Míssil Midga](http://www.divine-pride.net/database/item/1002382/) |

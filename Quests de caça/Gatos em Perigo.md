@@ -2,16 +2,16 @@
 
 # Gatos em Perigo
 
-| NQ ico Gatos em Perigo | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Gatos em Perigo | |
 | --- | --- |
 | Investigue a distribuição indevida de latas de comida vencidas para a população felina na ilha! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6426.png 30 [Latas Vencidas](http://www.divine-pride.net/database/item/6426/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6426.png](https://static.divine-pride.net/images/items/item/6426.png) 30 [Latas Vencidas](http://www.divine-pride.net/database/item/6426/) |
 | **Caça** | 20 [Erumas Vermelhos](http://www.divine-pride.net/database/monster/2197/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  12636.png 20 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 5 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  ![12636.png](https://static.divine-pride.net/images/items/item/12636.png) 20 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
 
 1. Ajude El Gatom sem Rabom (malangdo 176,206)
 

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Fortalecer Guardiões Fortalecer Guardiões** | |
-| SemImagem | |
+| **![Fortalecer Guardiões](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Fortalecer_Guardi%C3%B5es.png) Fortalecer Guardiões** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Strengthen Guardians** | |
 | **ID** | GD\_GUARDUP (10003) |
 | **Tipo** | Passiva |

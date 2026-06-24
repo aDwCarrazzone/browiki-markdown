@@ -20,16 +20,16 @@ Al de Baran parece ter sido inspirada em [Zaanse Schans](https://en.wikipedia.or
 
 |  |  |  |
 | --- | --- | --- |
-| Al De Baran map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (aldebaran 143,119) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (aldebaran 147,119) |
-| Map pocao | Loja de Ferramentas | (aldeba\_in 94,56) |
-| Map faca | Loja de Munições | (aldeba\_in 20,60) |
-| Map bandeira | Guilda dos [Alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") | (alde\_alche 27,185) |
-| Map azul | [Papai Noel](Lutie.md "Lutie") | (aldebaran 168,168) |
-| Map lantern | Clube de Pessoas Legais | (aldeba\_in 223,167) |
-| Map dun01 | [Torre do Relógio](http://www.divine-pride.net/database/map/c_tower1/) | (aldebaran 140,133) |
+| ![Al De Baran map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Al_De_Baran_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (aldebaran 143,119) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (aldebaran 147,119) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (aldeba\_in 94,56) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (aldeba\_in 20,60) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") | (alde\_alche 27,185) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | [Papai Noel](Lutie.md "Lutie") | (aldebaran 168,168) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Clube de Pessoas Legais | (aldeba\_in 223,167) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Torre do Relógio](http://www.divine-pride.net/database/map/c_tower1/) | (aldebaran 140,133) |
 
 |  |  |  |
 | --- | --- | --- |

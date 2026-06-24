@@ -2,18 +2,18 @@
 
 # Descobrindo um Novo Ambiente
 
-| NQ ico Descobrindo um Novo Ambiente | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Descobrindo um Novo Ambiente | |
 | --- | --- |
 | Sobreviver em uma área desconhecida requer adaptar-se às circunstâncias do local! Descubra matérias-primas novas para ajudar os exploradores na construção do acampamento! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6041.png 20 [Trepadeira Resistente](http://www.divine-pride.net/database/item/6041/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6041.png](https://static.divine-pride.net/images/items/item/6041.png) 20 [Trepadeira Resistente](http://www.divine-pride.net/database/item/6041/) |
 | **Quests anteriores** | [Outra Dimensão](Outra%20Dimens%C3%A3o.md "Outra Dimensão") ou [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  12322.png 19 [Chocolate Puro](http://www.divine-pride.net/database/item/12322/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  ![12322.png](https://static.divine-pride.net/images/items/item/12322.png) 19 [Chocolate Puro](http://www.divine-pride.net/database/item/12322/) |
 
 1. Fale com Marian (mid\_camp 222,283)
 

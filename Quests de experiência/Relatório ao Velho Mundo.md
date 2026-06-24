@@ -2,7 +2,7 @@
 
 # Relatório ao Velho Mundo
 
-| EP ico Relatório ao Velho Mundo | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Relatório ao Velho Mundo | |
 | --- | --- |
 | Os documentos sobre o Novo Mundo precisam ser enviados para os três continentes de Midgard. Será que o comandante pode confiar em você para este trabalho? | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **Quests anteriores** | Ao menos 3 das 4 [Descobrindo um Novo Ambiente](Descobrindo%20um%20Novo%20Ambiente.md "Descobrindo um Novo Ambiente") [Nova Atitude](Nova%20Atitude.md "Nova Atitude") [Rivalidade na Aliança](../Quests%20repet%C3%ADveis/Rivalidade%20na%20Alian%C3%A7a.md "Rivalidade na Aliança") [Caça ao Culto de Morroc](Ca%C3%A7a%20ao%20Culto%20de%20Morroc.md "Caça ao Culto de Morroc") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 300.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12110.png 3 [Kit de Primeiros Socorros](http://www.divine-pride.net/database/item/12110/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12110.png](https://static.divine-pride.net/images/items/item/12110.png) 3 [Kit de Primeiros Socorros](http://www.divine-pride.net/database/item/12110/) |
 | **Recompensa** | [Guardiã de Yggdrasil](Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") |
 
 1. Fale com Hibba Agip (mid\_campin 92,121)

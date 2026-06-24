@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Resguarda** | |
-| Resguarda | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Resguarda** | |
+| ![Resguarda](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Resguarda.gif) | |
 | **ID:** | NPC\_KEEPING (201) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

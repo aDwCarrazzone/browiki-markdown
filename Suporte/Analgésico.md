@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Analgésico Analgésico** | |
-| Analgésico | |
+| **![Analgésico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Analg%C3%A9sico.png) Analgésico** | |
+| ![Analgésico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Analg%C3%A9sico.gif) | |
 | **Pain Killer** | |
 | **ID** | MH\_PAIN\_KILLER (8021) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Duração** | 300 + (Nv. da habilidade × 30) segundos |
 | **Alvo** | Mestre |
 | **Alcance** | 5 células |
-| **Ícone** | I Analgésico |
+| **Ícone** | ![I Analgésico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/I_Analg%C3%A9sico.png) |
 | **Pré-requisitos** | |
 | [Sera](../Sem%20categoria/Sera.md "Sera") nível 123 | |
 

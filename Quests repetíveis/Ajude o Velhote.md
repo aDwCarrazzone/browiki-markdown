@@ -2,17 +2,17 @@
 
 # Ajude o Velhote
 
-| DQ ico Ajude o Velhote | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Ajude o Velhote | |
 | --- | --- |
 | Coletar frutos das palmeiras da ilha pode ser extremamente trabalhoso se você for um senhor de idade! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Repetível |
-| **Equipado** | 5009.png [Capacete de Segurança](http://www.divine-pride.net/database/item/5009/) |
+| **Equipado** | ![5009.png](https://static.divine-pride.net/images/items/item/5009.png) [Capacete de Segurança](http://www.divine-pride.net/database/item/5009/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 50.000 + 20.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/617/)   ---  Premiação Repetível: 11534.png 1 [Água de Coco](http://www.divine-pride.net/database/item/11534/)  731.png 1 [Diamante de 2 quilates](http://www.divine-pride.net/database/item/731/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/617/)   ---  Premiação Repetível: ![11534.png](https://static.divine-pride.net/images/items/item/11534.png) 1 [Água de Coco](http://www.divine-pride.net/database/item/11534/)  ![731.png](https://static.divine-pride.net/images/items/item/731.png) 1 [Diamante de 2 quilates](http://www.divine-pride.net/database/item/731/) |
 
 1. Ajude Memo (dewata 109,262)
 

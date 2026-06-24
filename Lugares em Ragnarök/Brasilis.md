@@ -20,13 +20,13 @@ Para torná-la ainda mais especial, graças à influência dos indígenas locais
 
 |  |  |  |
 | --- | --- | --- |
-| Brasilis map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (brasilis 197,221) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (brasilis 204,226) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (bra\_in01 27,24) |
-| Map pocao | Loja de Ferramentas | (brasilis 252,257) |
-| Map faca | Loja de Munições | (brasilis 244,243) |
+| ![Brasilis map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Brasilis_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (brasilis 197,221) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (brasilis 204,226) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (bra\_in01 27,24) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (brasilis 252,257) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (brasilis 244,243) |
 
 ![Brasilis Waterfalls](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Brasilis_Waterfalls.jpg)
 

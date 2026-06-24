@@ -2,7 +2,7 @@
 
 # Memórias Póstumas
 
-| NQ ico Memórias Póstumas | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Memórias Póstumas | |
 | --- | --- |
 | A derrubada de uma árvore pode reacender um antigo conflito entre famílias que acabou em uma triste fatalidade. | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Normal |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 5.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Caminhe ao redor de uma Árvore (hugel 196,168)
 

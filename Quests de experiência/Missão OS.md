@@ -2,20 +2,20 @@
 
 # Missão OS
 
-| SC ico Missão OS | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Missão OS | |
 | --- | --- |
 | O Distrito OS ainda está ocupado por monstros. Junte-se nessa missão especial da Rebelião para limpar a área do inimigo. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 110 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Ocupação OS](Ocupa%C3%A7%C3%A3o%20OS.md "Ocupação OS") |
 | Premiação | |
-| **Chefe** | Monster Miguel [Miguel](http://www.divine-pride.net/database/monster/20346/) |
+| **Chefe** | ![Monster Miguel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Monster_Miguel.png) [Miguel](http://www.divine-pride.net/database/monster/20346/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
-| **[Itens](../Itens/Itens.md "Itens")** | 25668.png 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) ou 25723.png 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) 25669.png 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) ou ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) |
 
 1. Reserve a instância com o Oficial de Operações (sp\_cor 160,55)
 
@@ -46,8 +46,8 @@
    - O poder de [ATQ](../Sem%20categoria/ATQ.md "ATQ") dos discos é 20 vezes o valor de CP do monstro.
    - Levar [Miguel](http://www.divine-pride.net/database/monster/20346/) longe de sua área fará com que seu [HP](../Sem%20categoria/HP.md "HP") seja regenerado e seu poder de [ATQ](../Sem%20categoria/ATQ.md "ATQ") aumentado.
 5. Elimine o Chefe da Instância e fale com o Oficial de Operações para sair do lugar e receber sua recompensa aleatória entre:
-   1. ![25668.png](http://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
-   2. ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25669.png](http://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
+   1. ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
+   2. ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 1 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 5 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
    - Esses itens podem ser trocados pelos [Equipamentos Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión").
 6. Sua recompensa em [EXP](../Sem%20categoria/EXP.md "EXP") dependerá do CP de Miguel.
 

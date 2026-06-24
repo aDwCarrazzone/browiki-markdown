@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Reflexão Mágica** | |
-| Reflexão Mágica | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Reflexão Mágica** | |
+| ![Reflexão Mágica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Reflex%C3%A3o_M%C3%A1gica.gif) | |
 | **ID:** | NPC\_MAGICMIRROR (671) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -33,11 +33,11 @@ Concede uma chance de refletir ataques mágicos de volta ao atacante.
 - O dano é refletido mesmo em um usuário sob efeito da [Imunidade Mágica](../Passiva/Imunidade%20M%C3%A1gica.md "Imunidade Mágica").
 - Reflete magias de alvo único e em área.
 - Armas relacionadas:
-  - ![21001.png](http://static.divine-pride.net/images/items/item/21001.png) [Claymore de Vellum](http://www.divine-pride.net/database/item/21001/)
-  - ![1492.png](http://static.divine-pride.net/images/items/item/1492.png) [Glaive de Vellum](http://www.divine-pride.net/database/item/1492/)
+  - ![21001.png](https://static.divine-pride.net/images/items/item/21001.png) [Claymore de Vellum](http://www.divine-pride.net/database/item/21001/)
+  - ![1492.png](https://static.divine-pride.net/images/items/item/1492.png) [Glaive de Vellum](http://www.divine-pride.net/database/item/1492/)
 - Equipamentos relacionados:
-  - ![28902.png](http://static.divine-pride.net/images/items/item/28902.png) [Coelho Macabro](http://www.divine-pride.net/database/item/28902/)
-  - ![2122.png](http://static.divine-pride.net/images/items/item/2122.png) [Escudo de Platina](http://www.divine-pride.net/database/item/2122/)
+  - ![28902.png](https://static.divine-pride.net/images/items/item/28902.png) [Coelho Macabro](http://www.divine-pride.net/database/item/28902/)
+  - ![2122.png](https://static.divine-pride.net/images/items/item/2122.png) [Escudo de Platina](http://www.divine-pride.net/database/item/2122/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

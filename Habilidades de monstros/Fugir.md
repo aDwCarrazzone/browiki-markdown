@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Fugir** | |
-| Fugir | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Fugir** | |
+| ![Fugir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ee/Fugir.gif) | |
 | **ID:** | NPC\_RUN (354) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

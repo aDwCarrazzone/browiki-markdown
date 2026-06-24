@@ -2,17 +2,17 @@
 
 # Conto do Bardo
 
-| NQ ico Conto do Bardo | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Conto do Bardo | |
 | --- | --- |
 | Ajude um bardo suspeito de espionagem a limpar seu nome antes que o serviço secreto de Rune-Midgard o capture! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1901.png 1 [Violino](http://www.divine-pride.net/database/item/1901/) 12066.png 1 [Caudas de Yoyo Fritas](http://www.divine-pride.net/database/item/12066/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1901.png](https://static.divine-pride.net/images/items/item/1901.png) 1 [Violino](http://www.divine-pride.net/database/item/1901/) ![12066.png](https://static.divine-pride.net/images/items/item/12066.png) 1 [Caudas de Yoyo Fritas](http://www.divine-pride.net/database/item/12066/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 500.000 |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 60.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12106.png 1 [Caixa de Jóias](http://www.divine-pride.net/database/item/12106/) 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12106.png](https://static.divine-pride.net/images/items/item/12106.png) 1 [Caixa de Jóias](http://www.divine-pride.net/database/item/12106/) ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Ajude a Garota (prontera 202,122)
 

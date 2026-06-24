@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Mercadores
 
-| JQ ico Mudança de Classe: Mercadores | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Mercadores | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 1 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1381.png 1 [Machado de Batalha](http://www.divine-pride.net/database/item/1381/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1381.png](https://static.divine-pride.net/images/items/item/1381.png) 1 [Machado de Batalha](http://www.divine-pride.net/database/item/1381/) |
 | **Recompensa** | Muda a classe para [Mercador](../Sem%20categoria/Mercador.md "Mercador") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Salim Hamid (iz\_ac02 50,169)
@@ -36,7 +36,7 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![1381.png](http://static.divine-pride.net/images/items/item/1381.png) 1 [Machado de Batalha](http://www.divine-pride.net/database/item/1381/)
+     - ![1381.png](https://static.divine-pride.net/images/items/item/1381.png) 1 [Machado de Batalha](http://www.divine-pride.net/database/item/1381/)
      - Aprende [![Grito de Guerra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Grito_de_Guerra.png)](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra")
      - Aprende [![Personalizar Carrinho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Personalizar_Carrinho.png)](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho")
      - Aprende [![Cavalo-de-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Cavalo-de-Pau.png)](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau")
@@ -46,10 +46,10 @@
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 6. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -91,5 +91,5 @@
 
 | *A Arte da Alquimia e da Forja* | | |
 | --- | --- | --- |
-| |  |  | | --- | --- | | [Mercadorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | | [Aumentar Capacidade de Carga](../Passiva/Aumentar%20Capacidade%20de%20Carga.md "Aumentar Capacidade de Carga") · [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") · [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") · [Desconto](../Passiva/Desconto.md "Desconto") · [Decorar Carrinho](../Ativa/Decorar%20Carrinho.md "Decorar Carrinho") · [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") · [Identificar Item](../Ativa/Identificar%20Item.md "Identificar Item") · [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") · [Mammonita](../Ofensiva/Mammonita.md "Mammonita") · [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") · [Superfaturar](../Passiva/Superfaturar.md "Superfaturar") · [Usar Carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") |
+| |  |  | | --- | --- | | [![Mercadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Mercadorespartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | | [Aumentar Capacidade de Carga](../Passiva/Aumentar%20Capacidade%20de%20Carga.md "Aumentar Capacidade de Carga") · [Cavalo-de-Pau](../Ofensiva/Cavalo-de-Pau.md "Cavalo-de-Pau") · [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") · [Desconto](../Passiva/Desconto.md "Desconto") · [Decorar Carrinho](../Ativa/Decorar%20Carrinho.md "Decorar Carrinho") · [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") · [Identificar Item](../Ativa/Identificar%20Item.md "Identificar Item") · [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") · [Mammonita](../Ofensiva/Mammonita.md "Mammonita") · [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") · [Superfaturar](../Passiva/Superfaturar.md "Superfaturar") · [Usar Carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") |
 | Evoluções | [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") · [Alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") |

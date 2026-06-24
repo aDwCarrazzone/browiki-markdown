@@ -51,19 +51,19 @@ Cada partida custa 500 [zenys](../Sem%20categoria/Zenys.md "Zenys") e o time ven
 
 :   :   | Item | Moedas |
         | --- | --- |
-        | 7515.png 1 [Medalha Maravilhosa](http://www.divine-pride.net/database/item/7515/) | 4 |
-        | 12016.png 20 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) | 15 |
-        | 658.png 1 [União da Tribo](http://www.divine-pride.net/database/item/658/) | 20 |
-        | 12080.png 2 [Coquetel Sopro do Dragão](http://www.divine-pride.net/database/item/12080/) | 20 |
-        | 607.png 2 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) | 20 |
-        | 12109.png 1 [Caixa Poring](http://www.divine-pride.net/database/item/12109/) | 30 |
-        | 2765.png 1 [Estatueta de Aprendiz](http://www.divine-pride.net/database/item/2765/) | 50 |
-        | 2766.png 1 [Estatueta de Espadachim](http://www.divine-pride.net/database/item/2766/) | 100 |
-        | 2767.png 1 [Estatueta de Noviço](http://www.divine-pride.net/database/item/2767/) | 100 |
-        | 2768.png 1 [Estatueta de Mago](http://www.divine-pride.net/database/item/2768/) | 100 |
-        | 2769.png 1 [Estatueta de Arqueiro](http://www.divine-pride.net/database/item/2769/) | 100 |
-        | 2770.png 1 [Estatueta de Gatuno](http://www.divine-pride.net/database/item/2770/) | 100 |
-        | 2771.png 1 [Estatueta de Mercador](http://www.divine-pride.net/database/item/2771/) | 100 |
+        | ![7515.png](https://static.divine-pride.net/images/items/item/7515.png) 1 [Medalha Maravilhosa](http://www.divine-pride.net/database/item/7515/) | 4 |
+        | ![12016.png](https://static.divine-pride.net/images/items/item/12016.png) 20 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) | 15 |
+        | ![658.png](https://static.divine-pride.net/images/items/item/658.png) 1 [União da Tribo](http://www.divine-pride.net/database/item/658/) | 20 |
+        | ![12080.png](https://static.divine-pride.net/images/items/item/12080.png) 2 [Coquetel Sopro do Dragão](http://www.divine-pride.net/database/item/12080/) | 20 |
+        | ![607.png](https://static.divine-pride.net/images/items/item/607.png) 2 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) | 20 |
+        | ![12109.png](https://static.divine-pride.net/images/items/item/12109.png) 1 [Caixa Poring](http://www.divine-pride.net/database/item/12109/) | 30 |
+        | ![2765.png](https://static.divine-pride.net/images/items/item/2765.png) 1 [Estatueta de Aprendiz](http://www.divine-pride.net/database/item/2765/) | 50 |
+        | ![2766.png](https://static.divine-pride.net/images/items/item/2766.png) 1 [Estatueta de Espadachim](http://www.divine-pride.net/database/item/2766/) | 100 |
+        | ![2767.png](https://static.divine-pride.net/images/items/item/2767.png) 1 [Estatueta de Noviço](http://www.divine-pride.net/database/item/2767/) | 100 |
+        | ![2768.png](https://static.divine-pride.net/images/items/item/2768.png) 1 [Estatueta de Mago](http://www.divine-pride.net/database/item/2768/) | 100 |
+        | ![2769.png](https://static.divine-pride.net/images/items/item/2769.png) 1 [Estatueta de Arqueiro](http://www.divine-pride.net/database/item/2769/) | 100 |
+        | ![2770.png](https://static.divine-pride.net/images/items/item/2770.png) 1 [Estatueta de Gatuno](http://www.divine-pride.net/database/item/2770/) | 100 |
+        | ![2771.png](https://static.divine-pride.net/images/items/item/2771.png) 1 [Estatueta de Mercador](http://www.divine-pride.net/database/item/2771/) | 100 |
 
 | *[Quests](Quests.md "Quests") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

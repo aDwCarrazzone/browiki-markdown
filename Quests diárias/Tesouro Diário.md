@@ -2,14 +2,14 @@
 
 # Tesouro Diário
 
-| DQ ico Tesouro Diário | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Tesouro Diário | |
 | --- | --- |
 | Um misterioso vidente tem algo a lhe dar... por uma pequena bagatela, é claro!! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Repetível |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | Aleatório |
-| Skilldelayinfo **Espera:** | 4 da manhã. |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã. |
 | Premiação | |
 | **[Itens](../Itens/Itens.md "Itens")** | Aleatório |
 
@@ -27,22 +27,22 @@
 
 | Item | Chance |
 | --- | --- |
-| 25464.png 5 [Passaporte](http://www.divine-pride.net/database/item/25464/) | 18,75% |
-| 12832.png 2 [Água Milagrosa](http://www.divine-pride.net/database/item/12832/) | 18,75% |
-| 23727.png 2 [(Evento) Poção Infinita](http://www.divine-pride.net/database/item/23727/) | 18,75% |
-| 100601.png 1 [Combinador de Módulos](http://www.divine-pride.net/database/item/100601/) | 18,025% |
-| 12411.png 1 [Enciclopédia de Combate](http://www.divine-pride.net/database/item/12411/) | 18,025% |
-| 23436.png 1 [Martelo de Refino Sombrio](http://www.divine-pride.net/database/item/23436/) | 5,500% |
-| 101670.png 1 [Pano para Lentes](http://www.divine-pride.net/database/item/101670/) | 1,250% |
-| 6909.png 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/) | 0,900% |
-| 480658.png 1 [(Visual) Arcanum Corvus Corax](http://www.divine-pride.net/database/item/480658/) | 0,025% |
-| 101304.png 1 [Registro dos Esquecidos](http://www.divine-pride.net/database/item/101304/) | 0,025% |
+| ![25464.png](https://static.divine-pride.net/images/items/item/25464.png) 5 [Passaporte](http://www.divine-pride.net/database/item/25464/) | 18,75% |
+| ![12832.png](https://static.divine-pride.net/images/items/item/12832.png) 2 [Água Milagrosa](http://www.divine-pride.net/database/item/12832/) | 18,75% |
+| ![23727.png](https://static.divine-pride.net/images/items/item/23727.png) 2 [(Evento) Poção Infinita](http://www.divine-pride.net/database/item/23727/) | 18,75% |
+| ![100601.png](https://static.divine-pride.net/images/items/item/100601.png) 1 [Combinador de Módulos](http://www.divine-pride.net/database/item/100601/) | 18,025% |
+| ![12411.png](https://static.divine-pride.net/images/items/item/12411.png) 1 [Enciclopédia de Combate](http://www.divine-pride.net/database/item/12411/) | 18,025% |
+| ![23436.png](https://static.divine-pride.net/images/items/item/23436.png) 1 [Martelo de Refino Sombrio](http://www.divine-pride.net/database/item/23436/) | 5,500% |
+| ![101670.png](https://static.divine-pride.net/images/items/item/101670.png) 1 [Pano para Lentes](http://www.divine-pride.net/database/item/101670/) | 1,250% |
+| ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/) | 0,900% |
+| ![480658.png](https://static.divine-pride.net/images/items/item/480658.png) 1 [(Visual) Arcanum Corvus Corax](http://www.divine-pride.net/database/item/480658/) | 0,025% |
+| ![101304.png](https://static.divine-pride.net/images/items/item/101304.png) 1 [Registro dos Esquecidos](http://www.divine-pride.net/database/item/101304/) | 0,025% |
 
 ### Visuais anteriores do Tesouro
 
 | 2026 | |
 | --- | --- |
-| Fevereiro - ? | - 480458.png [(Visual) Asa do Paraíso Perdido](http://www.divine-pride.net/database/item/480458/) |
+| Fevereiro - ? | - ![480458.png](https://static.divine-pride.net/images/items/item/480458.png) [(Visual) Asa do Paraíso Perdido](http://www.divine-pride.net/database/item/480458/) |
 
 | *[Quests](../Quest/Quests.md "Quests") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

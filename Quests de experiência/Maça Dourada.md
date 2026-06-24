@@ -2,13 +2,13 @@
 
 # Maça Dourada
 
-| NQ ico Maça Dourada | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Maça Dourada | |
 | --- | --- |
 | A Frente de Libertação de Rune-Midgard é uma organização criminosa que visa a destruição da coroa e perturbação da paz no Reino. Seu objetivo é pará-los imediatamente antes que seja tarde demais. Essa missão é exclusiva de quem participa dos [Clãs Reais](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Cl%C3%A3s%20Reais.md "Clãs Reais"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 748.png 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) 629.png 1 [Flor Cantante](http://www.divine-pride.net/database/item/629/)  710.png 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/)  608.png 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  7194.png 15 [Grama](http://www.divine-pride.net/database/item/7194/)  523.png 14 [Água Benta](http://www.divine-pride.net/database/item/523/)  724.png 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)  7099.png 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)  7097.png 13 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)  7208.png 1 [Faca Enferrujada](http://www.divine-pride.net/database/item/7208/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![748.png](https://static.divine-pride.net/images/items/item/748.png) 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) ![629.png](https://static.divine-pride.net/images/items/item/629.png) 1 [Flor Cantante](http://www.divine-pride.net/database/item/629/)  ![710.png](https://static.divine-pride.net/images/items/item/710.png) 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/)  ![608.png](https://static.divine-pride.net/images/items/item/608.png) 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  ![7194.png](https://static.divine-pride.net/images/items/item/7194.png) 15 [Grama](http://www.divine-pride.net/database/item/7194/)  ![523.png](https://static.divine-pride.net/images/items/item/523.png) 14 [Água Benta](http://www.divine-pride.net/database/item/523/)  ![724.png](https://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)  ![7099.png](https://static.divine-pride.net/images/items/item/7099.png) 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)  ![7097.png](https://static.divine-pride.net/images/items/item/7097.png) 13 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)  ![7208.png](https://static.divine-pride.net/images/items/item/7208.png) 1 [Faca Enferrujada](http://www.divine-pride.net/database/item/7208/) |
 | **Caça** | [Heydric](http://www.divine-pride.net/database/monster/3294/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver abaixo |
@@ -31,27 +31,27 @@
    - Gema Azul: (comodo 103,293)
    - Gema Roxa: (comodo 118,323)
 8. Entregue os itens para a Garota Desajeitada (morocc\_in 72,167)
-   - ![748.png](http://static.divine-pride.net/images/items/item/748.png) 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)
-   - ![629.png](http://static.divine-pride.net/images/items/item/629.png) 1 [Flor Cantante](http://www.divine-pride.net/database/item/629/)
-   - ![710.png](http://static.divine-pride.net/images/items/item/710.png) 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/)
-   - ![608.png](http://static.divine-pride.net/images/items/item/608.png) 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)
-   - ![7194.png](http://static.divine-pride.net/images/items/item/7194.png) 15 [Grama](http://www.divine-pride.net/database/item/7194/)
-9. Você receberá 1 ![6853.png](http://static.divine-pride.net/images/items/item/6853.png) [Buquê de Gratidão](http://www.divine-pride.net/database/item/6853/)
+   - ![748.png](https://static.divine-pride.net/images/items/item/748.png) 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)
+   - ![629.png](https://static.divine-pride.net/images/items/item/629.png) 1 [Flor Cantante](http://www.divine-pride.net/database/item/629/)
+   - ![710.png](https://static.divine-pride.net/images/items/item/710.png) 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/)
+   - ![608.png](https://static.divine-pride.net/images/items/item/608.png) 1 [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)
+   - ![7194.png](https://static.divine-pride.net/images/items/item/7194.png) 15 [Grama](http://www.divine-pride.net/database/item/7194/)
+9. Você receberá 1 ![6853.png](https://static.divine-pride.net/images/items/item/6853.png) [Buquê de Gratidão](http://www.divine-pride.net/database/item/6853/)
 10. Volte ao Velho Cheiroso (niflheim 125,65)
 11. Fale com o Homem Gemendo (niflheim 245,102)
 12. Retorne ao Velho Cheiroso (niflheim 125,65)
 13. Encontre o Especialista em Maldições (xmas 83,222)
     - Se seu nível base for 119 ou menos, entregue:
-      - ![523.png](http://static.divine-pride.net/images/items/item/523.png) 14 [Água Benta](http://www.divine-pride.net/database/item/523/)
-      - ![724.png](http://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
-      - ![7099.png](http://static.divine-pride.net/images/items/item/7099.png) 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)
-      - ![7561.png](http://static.divine-pride.net/images/items/item/7561.png) 13 [Coração Glacial](http://www.divine-pride.net/database/item/7561/)
+      - ![523.png](https://static.divine-pride.net/images/items/item/523.png) 14 [Água Benta](http://www.divine-pride.net/database/item/523/)
+      - ![724.png](https://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
+      - ![7099.png](https://static.divine-pride.net/images/items/item/7099.png) 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)
+      - ![7561.png](https://static.divine-pride.net/images/items/item/7561.png) 13 [Coração Glacial](http://www.divine-pride.net/database/item/7561/)
     - Se seu nível base for 120 ou mais, entregue:
-      - ![523.png](http://static.divine-pride.net/images/items/item/523.png) 14 [Água Benta](http://www.divine-pride.net/database/item/523/)
-      - ![724.png](http://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
-      - ![7099.png](http://static.divine-pride.net/images/items/item/7099.png) 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)
-      - ![7097.png](http://static.divine-pride.net/images/items/item/7097.png) 13 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)
-      - ![7208.png](http://static.divine-pride.net/images/items/item/7208.png) 1 [Faca Enferrujada](http://www.divine-pride.net/database/item/7208/)
+      - ![523.png](https://static.divine-pride.net/images/items/item/523.png) 14 [Água Benta](http://www.divine-pride.net/database/item/523/)
+      - ![724.png](https://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
+      - ![7099.png](https://static.divine-pride.net/images/items/item/7099.png) 13 [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/)
+      - ![7097.png](https://static.divine-pride.net/images/items/item/7097.png) 13 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)
+      - ![7208.png](https://static.divine-pride.net/images/items/item/7208.png) 1 [Faca Enferrujada](http://www.divine-pride.net/database/item/7208/)
 14. Fale novamente com o Homem Gemendo (niflheim 245,102)
 15. Volte a falar com a Garota Desajeitada (morocc\_in 72,167)
 16. Reencontre Garon King (cmd\_in01 169,86)
@@ -79,24 +79,24 @@
 | Nível 119 ou menos | | |
 | --- | --- | --- |
 | Missão | Objetivo | Observação |
-| DQ ico Temos que pegar: Lude | - Eliminar 50 [Injustiçado Feroz](http://www.divine-pride.net/database/monster/2792/) - Coletar 6858.png 70 [Lude Capturado](http://www.divine-pride.net/database/item/6858/) | - Use a 22718.png 70 [PocBola de Lude](http://www.divine-pride.net/database/item/22718/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Temos que pegar: Lude | - Eliminar 50 [Injustiçado Feroz](http://www.divine-pride.net/database/monster/2792/) - Coletar ![6858.png](https://static.divine-pride.net/images/items/item/6858.png) 70 [Lude Capturado](http://www.divine-pride.net/database/item/6858/) | - Use a ![22718.png](https://static.divine-pride.net/images/items/item/22718.png) 70 [PocBola de Lude](http://www.divine-pride.net/database/item/22718/) |
 | Nível 120 ou mais | | |
-| DQ ico Temos que pegar: Andarilho | - Eliminar 50 [Loli Ruri Ágil](http://www.divine-pride.net/database/monster/2774/) - Coletar 6859.png 70 [Andarilho Capturado](http://www.divine-pride.net/database/item/6859/) | - Use a 22717.png 70 [PocBola de Andarilho](http://www.divine-pride.net/database/item/22717/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Temos que pegar: Andarilho | - Eliminar 50 [Loli Ruri Ágil](http://www.divine-pride.net/database/monster/2774/) - Coletar ![6859.png](https://static.divine-pride.net/images/items/item/6859.png) 70 [Andarilho Capturado](http://www.divine-pride.net/database/item/6859/) | - Use a ![22717.png](https://static.divine-pride.net/images/items/item/22717.png) 70 [PocBola de Andarilho](http://www.divine-pride.net/database/item/22717/) |
 
 ### Recompensas
 
 | Recibos entregues | Nv. de base | [EXP](../Sem%20categoria/EXP.md "EXP") base | Recibos ganhos |
 | --- | --- | --- | --- |
-| Entre 0 a 49 | 1 a 69 | 11.000 | 6849.png 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 0 a 49 | 1 a 69 | 11.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 540.000 |
 | 111 ou mais | 1.714.000 |
-| Entre 50 a 149 | 1 a 69 | 15.000 | 6849.png 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 50 a 149 | 1 a 69 | 15.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 702.000 |
 | 111 ou mais | 2.228.200 |
-| Entre 150 a 199 | 1 a 69 | 20.000 | 6849.png 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 150 a 199 | 1 a 69 | 20.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 918.000 |
 | 111 ou mais | 3.180.200 |
-| Acima de 200 | 1 a 69 | 23.000 | 6849.png 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Acima de 200 | 1 a 69 | 23.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 1.080.000 |
 | 111 ou mais | 3.400.000 |
 

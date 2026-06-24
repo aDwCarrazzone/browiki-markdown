@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Deslocar** | |
-| Deslocar | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Deslocar** | |
+| ![Deslocar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Deslocar.gif) | |
 | **ID:** | NPC\_MOVE\_COORDINATE (755) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

@@ -2,7 +2,7 @@
 
 # Criança Desaparecida
 
-| EP ico Criança Desaparecida | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Criança Desaparecida | |
 | --- | --- |
 | O fruto de um romance escondido dos olhos dos sacerdotes parece estar causando sérios problemas aos seus pais. | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Episódio |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 
 1. Ajude Vincent dentro da casa em (ra\_in01 384,247)
 
@@ -60,6 +60,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Criança Desaparecida | SetaVermelha | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | SetaVermelha | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | SetaVermelha | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
-| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | SetaVermelha |
+| Criança Desaparecida | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
+| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

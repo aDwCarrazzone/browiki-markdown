@@ -2,7 +2,7 @@
 
 # Mercador de Oz
 
-| NQ ico Mercador de Oz | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Mercador de Oz | |
 | --- | --- |
 | Durante sua investigação sobre a lava no labirinto de Oz, você se depara com um Mercador que foi atacado e perdeu suas coisas. Ajude-o enquanto ainda analisa a situação do magma gerado pelo Vulcão de Thor. | |
 | Requisitos mínimos | |
@@ -12,12 +12,12 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 18.252.408 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 2.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000405.png 20 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000405.png](https://static.divine-pride.net/images/items/item/1000405.png) 20 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) |
 | **Recompensa** | [Reputação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação") +100 |
 
 1. Na Aldeia, fale com Imril (wolfvill 143,113).
 
-   :   [não adicione imagem](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Imril.png "Arquivo:Imril.png")
+   :   ![não adicione imagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Imril.png)
 2. No [Labirinto de Oz](http://www.divine-pride.net/database/map/oz_dun01/), clique nas faíscas (oz\_dun01 26,184)
 
    :   [não adicione imagem](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Mercador_de_Oz01.png "Arquivo:Mercador de Oz01.png")
@@ -38,7 +38,7 @@
    :   [não adicione imagem](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Mercador_de_Oz03.png "Arquivo:Mercador de Oz03.png")
 8. Na Aldeia, fale com Imril (wolfvill 143,113).
 
-   :   [não adicione imagem](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Imril.png "Arquivo:Imril.png")
+   :   ![não adicione imagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Imril.png)
 
    - Você receberá sua recompensa.
    - Agora você pode fazer as missões diárias.
@@ -49,5 +49,5 @@
 
 | Missão | Nível | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Labirinto de Oz 1 | 170 | Eliminar 20 [Ash Toad](http://www.divine-pride.net/database/monster/21295/) | - 1000405.png 3 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) - 15.077.080 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 3.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe - [Reputação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação") +30 |
-| DQ ico Labirinto de Oz 2 | 200 | Eliminar 20 [Hot Molar](http://www.divine-pride.net/database/monster/21298/) | - 1000405.png 3 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) - 40.559.120 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 3.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe - [Reputação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação") +30 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Labirinto de Oz 1 | 170 | Eliminar 20 [Ash Toad](http://www.divine-pride.net/database/monster/21295/) | - ![1000405.png](https://static.divine-pride.net/images/items/item/1000405.png) 3 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) - 15.077.080 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 3.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe - [Reputação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação") +30 |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Labirinto de Oz 2 | 200 | Eliminar 20 [Hot Molar](http://www.divine-pride.net/database/monster/21298/) | - ![1000405.png](https://static.divine-pride.net/images/items/item/1000405.png) 3 [Amethyst Fragment](http://www.divine-pride.net/database/item/1000405/) - 40.559.120 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 3.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe - [Reputação](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Reputa%C3%A7%C3%A3o.md "Reputação") +30 |

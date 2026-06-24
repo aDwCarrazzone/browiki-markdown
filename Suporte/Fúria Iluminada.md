@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Fúria Iluminada Fúria Iluminada** | |
-| Fúria Iluminada | |
+| **![Fúria Iluminada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/F%C3%BAria_Iluminada.png) Fúria Iluminada** | |
+| ![Fúria Iluminada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/F%C3%BAria_Iluminada.gif) | |
 | **Goldene Ferse** | |
 | **ID** | MH\_GOLDENE\_FERSE (8032) |
 | **Tipo** | Suporte |

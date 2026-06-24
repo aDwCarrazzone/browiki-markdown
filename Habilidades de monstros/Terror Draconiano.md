@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Terror Draconiano** | |
-| Terror Draconiano | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Terror Draconiano** | |
+| ![Terror Draconiano](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Terror_Draconiano.gif) | |
 | **ID:** | NPC\_DRAGONFEAR (659) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -31,7 +31,7 @@ Tem 100% de chance de infligir os seguintes efeitos negativos:
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Terror Draconiano](http://www.divine-pride.net/database/skill/659)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Armas relacionadas:
-  - ![1269.png](http://static.divine-pride.net/images/items/item/1269.png) [Escama Invertida](http://www.divine-pride.net/database/item/1269/)
+  - ![1269.png](https://static.divine-pride.net/images/items/item/1269.png) [Escama Invertida](http://www.divine-pride.net/database/item/1269/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

@@ -4,17 +4,17 @@
 
 ## Coletando Ovos de Draco
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 40.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 40.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6081.png 1 [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/)  6080.png 1 [Moeda Manuk](http://www.divine-pride.net/database/item/6080/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 1 [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/)  ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) 1 [Moeda Manuk](http://www.divine-pride.net/database/item/6080/) |
 
 1. Pergunte sobre os bichinhos para Criador de Mascote  (mid\_camp 146,305)
 
@@ -37,19 +37,19 @@
 
 ## Artesão Esplêndido
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6075.png 15 [Lágrimas Cristalizadas](http://www.divine-pride.net/database/item/6075/) 7326.png 15 [Líquidos Fluorescentes](http://www.divine-pride.net/database/item/7326/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6075.png](https://static.divine-pride.net/images/items/item/6075.png) 15 [Lágrimas Cristalizadas](http://www.divine-pride.net/database/item/6075/) ![7326.png](https://static.divine-pride.net/images/items/item/7326.png) 15 [Líquidos Fluorescentes](http://www.divine-pride.net/database/item/7326/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 30.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 30.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6081.png 3 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 3 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
 
 1. Ajude o Criador de Esplendor (spl\_in01 97,313)
 
@@ -59,16 +59,16 @@
 
 ## Perfume de Álfheim
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 70.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6081.png 3 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 3 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
 
 1. Você não precisa ter a missão [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio"), basta ter o anel.
 2. Fale com a Laphine Superior  (spl\_in01 30,323)
@@ -103,17 +103,17 @@
 
 ## A Pesquisa Continua
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6080.png 2 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) 2 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) |
 
 1. Fale com o Cientista (man\_in01 372,220)
 
@@ -161,17 +161,17 @@
 
 ## Investigação na Tribo
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6032.png 30 [Chifres de Leão](http://www.divine-pride.net/database/item/6032/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6032.png](https://static.divine-pride.net/images/items/item/6032.png) 30 [Chifres de Leão](http://www.divine-pride.net/database/item/6032/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6080.png 1 [Moeda Manuk](http://www.divine-pride.net/database/item/6080/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) 1 [Moeda Manuk](http://www.divine-pride.net/database/item/6080/) |
 
 1. Pegue o [Caderno de Bazett](http://www.divine-pride.net/database/item/6074/) com Bazett (mid\_camp 284,198)
 
@@ -183,19 +183,19 @@
 
 ## Mineral Misterioso
 
-| DQ ico Aventuras no Novo Mundo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras no Novo Mundo | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6090.png 20 [Bradiuns Purificados](http://www.divine-pride.net/database/item/6090/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6090.png](https://static.divine-pride.net/images/items/item/6090.png) 20 [Bradiuns Purificados](http://www.divine-pride.net/database/item/6090/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 40.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 40.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6080.png 3 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) 3 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) |
 
 1. Ajude o Engenheiro de Manuk (man\_in01 378,276)
 
@@ -204,6 +204,6 @@
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |
 | --- | --- |
-| Principais | [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
+| Principais | [Aventuras na Aldeia](Aventuras%20na%20Aldeia.md "Aventuras na Aldeia")18 · [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
 | Episódios | [Aventuras na Cozinha](../Quests%20di%C3%A1rias/Aventuras%20na%20Cozinha.md "Aventuras na Cozinha") · [Aventuras em Eclage](Aventuras%20em%20Eclage.md "Aventuras em Eclage") · [Aventuras na Prisão](Aventuras%20na%20Pris%C3%A3o.md "Aventuras na Prisão") · [Aventuras em Verus](Aventuras%20em%20Verus.md "Aventuras em Verus") · Aventuras no Novo Mundo · [Departamento de Exploradores](Departamento%20de%20Exploradores.md "Departamento de Exploradores") |
 | Outros | [Aventuras em Rockridge](Aventuras%20em%20Rockridge.md "Aventuras em Rockridge") · [Aventuras em Lasagna](Aventuras%20em%20Lasagna.md "Aventuras em Lasagna") · [Aventuras na Vila Mora](Aventuras%20na%20Vila.md "Aventuras na Vila") · [Aventuras em Malaya](Aventuras%20em%20Malaya.md "Aventuras em Malaya") · [Aventuras em Malangdo](../Quests%20repet%C3%ADveis/Aventuras%20em%20Malangdo.md "Aventuras em Malangdo") |

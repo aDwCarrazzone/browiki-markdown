@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Neblina de Veneno** | |
-| Neblina de Veneno | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Neblina de Veneno** | |
+| ![Neblina de Veneno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Neblina_de_Veneno.gif) | |
 | **ID:** | NPC\_VENOMFOG (706) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

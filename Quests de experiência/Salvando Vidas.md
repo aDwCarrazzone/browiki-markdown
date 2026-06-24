@@ -2,17 +2,17 @@
 
 # Salvando Vidas
 
-| DQ ico Salvando Vidas | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Salvando Vidas | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Ritual de Coroação](Ritual%20de%20Coroa%C3%A7%C3%A3o.md "Ritual de Coroação") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 800.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 250.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. Fale com o Guarda Spiegel (prt\_q 153,323)
 

@@ -2,15 +2,15 @@
 
 # Festival da Colheita
 
-| EV ico Festival da Colheita | |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Festival da Colheita | |
 | --- | --- |
-| HarvestFestival | |
+| ![HarvestFestival](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/HarvestFestival.jpg) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 30 |
 | **Tipo** | Evento |
 | **[Itens](../Itens/Itens.md "Itens")** | Ver ao lado |
 | Premiação | |
-| **Recompensa** | 31789.png 1 [(Visual) Chapéu de Peru](http://www.divine-pride.net/database/item/31789/) |
+| **Recompensa** | ![31789.png](https://static.divine-pride.net/images/items/item/31789.png) 1 [(Visual) Chapéu de Peru](http://www.divine-pride.net/database/item/31789/) |
 
 ## Missão principal
 
@@ -18,12 +18,12 @@
 
    :   ![HarvestFes 01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/HarvestFes_01.png)
 2. Traga os itens abaixo para ela:
-   - ![1752.png](http://static.divine-pride.net/images/items/item/1752.png) 1 [Flecha de Fogo](http://www.divine-pride.net/database/item/1752/)
-   - ![902.png](http://static.divine-pride.net/images/items/item/902.png) 10 [Raiz de Árvore](http://www.divine-pride.net/database/item/902/)
-   - ![25391.png](http://static.divine-pride.net/images/items/item/25391.png) 5 [Lenha de Qualidade](http://www.divine-pride.net/database/item/25391/) (do monstro [Lenha Viva](http://www.divine-pride.net/database/monster/3956/))
+   - ![1752.png](https://static.divine-pride.net/images/items/item/1752.png) 1 [Flecha de Fogo](http://www.divine-pride.net/database/item/1752/)
+   - ![902.png](https://static.divine-pride.net/images/items/item/902.png) 10 [Raiz de Árvore](http://www.divine-pride.net/database/item/902/)
+   - ![25391.png](https://static.divine-pride.net/images/items/item/25391.png) 5 [Lenha de Qualidade](http://www.divine-pride.net/database/item/25391/) (do monstro [Lenha Viva](http://www.divine-pride.net/database/monster/3956/))
 3. Você receberá:
-   - ![25392.png](http://static.divine-pride.net/images/items/item/25392.png) 1 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/)
-   - ![25876.png](http://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/)
+   - ![25392.png](https://static.divine-pride.net/images/items/item/25392.png) 1 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/)
+   - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/)
 4. Agora, você pode fazer as missões diárias.
 
 ## Missões diárias
@@ -32,12 +32,12 @@
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Lenha Viva | Kadu, o Mago-Bombeiro  (alberta 134,162) | - Caçar 10 [Lenha Viva](http://www.divine-pride.net/database/monster/3956/) - Entregar 25391.png 10 [Lenha de Qualidade](http://www.divine-pride.net/database/item/25391/) | - 25876.png 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
-| DQ ico Capturando Selvagens | Serena, a Caçadora  (alberta 152,198) | 1. Você receberá 23446.png 1 [Armadilha de Javali](http://www.divine-pride.net/database/item/23446/) 2. Capture 10 [Selvagens Famintos](http://www.divine-pride.net/database/monster/3955/) 3. Entregue os 25390.png 10 [Selvagens Capturados](http://www.divine-pride.net/database/item/25390/)    - A armadilha não é consumida quando usada.    - Há uma chance de receber [Milho Assado](http://www.divine-pride.net/database/item/25393/) que não serve para nada. | - 25392.png 1 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/) - 25876.png 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
-| DQ ico Comidas Típicas | Songhwa  (alberta 119,193) | - Aleatório entre:   - **Eunwol:** 7452.png 1 [Condimento Amarelo](http://www.divine-pride.net/database/item/7452/) 1019.png 3 [Tronco](http://www.divine-pride.net/database/item/1019/)   - **Sr. Kim:** 577.png 1 [Sacola de Grãos](http://www.divine-pride.net/database/item/577/) 518.png 3 [Mel](http://www.divine-pride.net/database/item/518/) 511.png 10 [Erva Verde](http://www.divine-pride.net/database/item/511/)   - **Louis:** 7454.png 1 [Molho Saboroso](http://www.divine-pride.net/database/item/7454/) 568.png 3 [Limão](http://www.divine-pride.net/database/item/568/) 515.png 10 [Cenoura](http://www.divine-pride.net/database/item/515/) | - 25876.png 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) - 1 **missão aleatória** dentre:   - Saudades da Família   - Pedido de Eunwol   - Pedido de Louise |
-| EV ico *Saudades da Família* | Sr. Kim  (alberta 119,198) | - Entregar 25392.png 2 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/) | - 25876.png 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
-| EV ico *Pedido de Eunwol* | Eunwol  (alberta 117,198) | - Entregar 11613.png 10 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) | - 25876.png 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
-| EV ico *Pedido de Louise* | Louis  (alberta 115,198) | - Entregar 511.png 20 [Erva Verde](http://www.divine-pride.net/database/item/511/) - Entregar 11613.png 20 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) - Entregar 940.png 30 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/) | - 25876.png 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/)   Se for sua **1ª** vez:   - 25876.png 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) - 31789.png 1 [(Visual) Chapéu de Peru](http://www.divine-pride.net/database/item/31789/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Lenha Viva | Kadu, o Mago-Bombeiro  (alberta 134,162) | - Caçar 10 [Lenha Viva](http://www.divine-pride.net/database/monster/3956/) - Entregar ![25391.png](https://static.divine-pride.net/images/items/item/25391.png) 10 [Lenha de Qualidade](http://www.divine-pride.net/database/item/25391/) | - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Capturando Selvagens | Serena, a Caçadora  (alberta 152,198) | 1. Você receberá ![23446.png](https://static.divine-pride.net/images/items/item/23446.png) 1 [Armadilha de Javali](http://www.divine-pride.net/database/item/23446/) 2. Capture 10 [Selvagens Famintos](http://www.divine-pride.net/database/monster/3955/) 3. Entregue os ![25390.png](https://static.divine-pride.net/images/items/item/25390.png) 10 [Selvagens Capturados](http://www.divine-pride.net/database/item/25390/)    - A armadilha não é consumida quando usada.    - Há uma chance de receber [Milho Assado](http://www.divine-pride.net/database/item/25393/) que não serve para nada. | - ![25392.png](https://static.divine-pride.net/images/items/item/25392.png) 1 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/) - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Comidas Típicas | Songhwa  (alberta 119,193) | - Aleatório entre:   - **Eunwol:** ![7452.png](https://static.divine-pride.net/images/items/item/7452.png) 1 [Condimento Amarelo](http://www.divine-pride.net/database/item/7452/) ![1019.png](https://static.divine-pride.net/images/items/item/1019.png) 3 [Tronco](http://www.divine-pride.net/database/item/1019/)   - **Sr. Kim:** ![577.png](https://static.divine-pride.net/images/items/item/577.png) 1 [Sacola de Grãos](http://www.divine-pride.net/database/item/577/) ![518.png](https://static.divine-pride.net/images/items/item/518.png) 3 [Mel](http://www.divine-pride.net/database/item/518/) ![511.png](https://static.divine-pride.net/images/items/item/511.png) 10 [Erva Verde](http://www.divine-pride.net/database/item/511/)   - **Louis:** ![7454.png](https://static.divine-pride.net/images/items/item/7454.png) 1 [Molho Saboroso](http://www.divine-pride.net/database/item/7454/) ![568.png](https://static.divine-pride.net/images/items/item/568.png) 3 [Limão](http://www.divine-pride.net/database/item/568/) ![515.png](https://static.divine-pride.net/images/items/item/515.png) 10 [Cenoura](http://www.divine-pride.net/database/item/515/) | - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) - 1 **missão aleatória** dentre:   - Saudades da Família   - Pedido de Eunwol   - Pedido de Louise |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) *Saudades da Família* | Sr. Kim  (alberta 119,198) | - Entregar ![25392.png](https://static.divine-pride.net/images/items/item/25392.png) 2 [Vale-Viagem](http://www.divine-pride.net/database/item/25392/) | - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) *Pedido de Eunwol* | Eunwol  (alberta 117,198) | - Entregar ![11613.png](https://static.divine-pride.net/images/items/item/11613.png) 10 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) | - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) *Pedido de Louise* | Louis  (alberta 115,198) | - Entregar ![511.png](https://static.divine-pride.net/images/items/item/511.png) 20 [Erva Verde](http://www.divine-pride.net/database/item/511/) - Entregar ![11613.png](https://static.divine-pride.net/images/items/item/11613.png) 20 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) - Entregar ![940.png](https://static.divine-pride.net/images/items/item/940.png) 30 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/) | - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 2 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/)   Se for sua **1ª** vez:   - ![25876.png](https://static.divine-pride.net/images/items/item/25876.png) 1 [Bilhete Outonal](http://www.divine-pride.net/database/item/25876/) - ![31789.png](https://static.divine-pride.net/images/items/item/31789.png) 1 [(Visual) Chapéu de Peru](http://www.divine-pride.net/database/item/31789/) |
 
 ## Recompensas
 
@@ -47,25 +47,25 @@
 
 | Item | Chance |
 | --- | --- |
-| |  |  | | --- | --- | | 11613.png | 5 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) | | 43,31% |
-| |  |  | | --- | --- | | 22659.png | 1 [Costela Refogada](http://www.divine-pride.net/database/item/22659/) | | 7,46% |
-| |  |  | | --- | --- | | 22658.png | 1 [Costelinha Grelhada](http://www.divine-pride.net/database/item/22658/) | | 7,43% |
-| |  |  | | --- | --- | | 662.png | 1 [Emblema Oficial](http://www.divine-pride.net/database/item/662/) | | 6,08% |
-| |  |  | | --- | --- | | 12122.png | 1 [Ovinhos Coloridos](http://www.divine-pride.net/database/item/12122/) | | 5,36% |
-| |  |  | | --- | --- | | 604.png | 1 [Galho Seco](http://www.divine-pride.net/database/item/604/) | | 5,24% |
-| |  |  | | --- | --- | | 603.png | 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) | | 5,06% |
-| |  |  | | --- | --- | | 12123.png | 1 [Biscoito de Mel](http://www.divine-pride.net/database/item/12123/) | | 4,96% |
-| |  |  | | --- | --- | | 12124.png | 1 [Bolo Arco-Íris](http://www.divine-pride.net/database/item/12124/) | | 4,25% |
-| |  |  | | --- | --- | | 663.png | 1 [Bolo de Arroz Coreano](http://www.divine-pride.net/database/item/663/) | | 4,03% |
-| |  |  | | --- | --- | | 607.png | 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) | | 1,42% |
-| |  |  | | --- | --- | | 12336.png | 1 [Shimeji Assado](http://www.divine-pride.net/database/item/12336/) | | 1,25% |
-| |  |  | | --- | --- | | 31368.png | 1 [(Visual) Chapéu do Festival da Colheita](http://www.divine-pride.net/database/item/31368/) | | 1,07% |
-| |  |  | | --- | --- | | 617.png | 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) | | 0,99% |
-| |  |  | | --- | --- | | 12105.png | 1 [Kit de Domesticação](http://www.divine-pride.net/database/item/12105/) | | 0,90% |
-| |  |  | | --- | --- | | 31580.png | 1 [(Visual) Espetinhos](http://www.divine-pride.net/database/item/31580/) | | 0,84% |
-| |  |  | | --- | --- | | 12246.png | 1 [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/) | | 0,16% |
-| |  |  | | --- | --- | | 616.png | 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/) | | 0,10% |
-| |  |  | | --- | --- | | 12103.png | 1 [Galho Sangrento](http://www.divine-pride.net/database/item/12103/) | | 0,09% |
+| |  |  | | --- | --- | | ![11613.png](https://static.divine-pride.net/images/items/item/11613.png) | 5 [Biscoito Outonal](http://www.divine-pride.net/database/item/11613/) | | 43,31% |
+| |  |  | | --- | --- | | ![22659.png](https://static.divine-pride.net/images/items/item/22659.png) | 1 [Costela Refogada](http://www.divine-pride.net/database/item/22659/) | | 7,46% |
+| |  |  | | --- | --- | | ![22658.png](https://static.divine-pride.net/images/items/item/22658.png) | 1 [Costelinha Grelhada](http://www.divine-pride.net/database/item/22658/) | | 7,43% |
+| |  |  | | --- | --- | | ![662.png](https://static.divine-pride.net/images/items/item/662.png) | 1 [Emblema Oficial](http://www.divine-pride.net/database/item/662/) | | 6,08% |
+| |  |  | | --- | --- | | ![12122.png](https://static.divine-pride.net/images/items/item/12122.png) | 1 [Ovinhos Coloridos](http://www.divine-pride.net/database/item/12122/) | | 5,36% |
+| |  |  | | --- | --- | | ![604.png](https://static.divine-pride.net/images/items/item/604.png) | 1 [Galho Seco](http://www.divine-pride.net/database/item/604/) | | 5,24% |
+| |  |  | | --- | --- | | ![603.png](https://static.divine-pride.net/images/items/item/603.png) | 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) | | 5,06% |
+| |  |  | | --- | --- | | ![12123.png](https://static.divine-pride.net/images/items/item/12123.png) | 1 [Biscoito de Mel](http://www.divine-pride.net/database/item/12123/) | | 4,96% |
+| |  |  | | --- | --- | | ![12124.png](https://static.divine-pride.net/images/items/item/12124.png) | 1 [Bolo Arco-Íris](http://www.divine-pride.net/database/item/12124/) | | 4,25% |
+| |  |  | | --- | --- | | ![663.png](https://static.divine-pride.net/images/items/item/663.png) | 1 [Bolo de Arroz Coreano](http://www.divine-pride.net/database/item/663/) | | 4,03% |
+| |  |  | | --- | --- | | ![607.png](https://static.divine-pride.net/images/items/item/607.png) | 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) | | 1,42% |
+| |  |  | | --- | --- | | ![12336.png](https://static.divine-pride.net/images/items/item/12336.png) | 1 [Shimeji Assado](http://www.divine-pride.net/database/item/12336/) | | 1,25% |
+| |  |  | | --- | --- | | ![31368.png](https://static.divine-pride.net/images/items/item/31368.png) | 1 [(Visual) Chapéu do Festival da Colheita](http://www.divine-pride.net/database/item/31368/) | | 1,07% |
+| |  |  | | --- | --- | | ![617.png](https://static.divine-pride.net/images/items/item/617.png) | 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) | | 0,99% |
+| |  |  | | --- | --- | | ![12105.png](https://static.divine-pride.net/images/items/item/12105.png) | 1 [Kit de Domesticação](http://www.divine-pride.net/database/item/12105/) | | 0,90% |
+| |  |  | | --- | --- | | ![31580.png](https://static.divine-pride.net/images/items/item/31580.png) | 1 [(Visual) Espetinhos](http://www.divine-pride.net/database/item/31580/) | | 0,84% |
+| |  |  | | --- | --- | | ![12246.png](https://static.divine-pride.net/images/items/item/12246.png) | 1 [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/) | | 0,16% |
+| |  |  | | --- | --- | | ![616.png](https://static.divine-pride.net/images/items/item/616.png) | 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/) | | 0,10% |
+| |  |  | | --- | --- | | ![12103.png](https://static.divine-pride.net/images/items/item/12103.png) | 1 [Galho Sangrento](http://www.divine-pride.net/database/item/12103/) | | 0,09% |
 
 | *Calendário de [Eventos](../Quest/Quests.md "Quests") Temporários* | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |

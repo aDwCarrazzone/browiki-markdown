@@ -22,12 +22,12 @@ Os primeiros aventureiros em Ayothaya foram atraídos pelo ouro e pelas esmerald
 
 |  |  |  |
 | --- | --- | --- |
-| Ayothaya map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ayothaya 212,169) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (ayothaya 203,173) |
-| Map pocao | Loja de Ferramentas | (ayo\_in01 18,182) |
-| Map faca | Loja de Munições | (ayo\_in01 90,160) |
+| ![Ayothaya map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Ayothaya_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ayothaya 212,169) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (ayothaya 203,173) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (ayo\_in01 18,182) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (ayo\_in01 90,160) |
 
 |  |  |  |
 | --- | --- | --- |

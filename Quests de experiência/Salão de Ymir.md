@@ -2,21 +2,21 @@
 
 # Salão de Ymir
 
-| SC ico Salão de Ymir | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Salão de Ymir | |
 | --- | --- |
 | Volte ao passado e participe da batalha entre Fenrir e Iris contra Bijou. A busca pelo Coração de Ymir está só começando. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 04h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 04h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa **apenas** |
 | **Quests anteriores** | [Ritual de Coroação](Ritual%20de%20Coroa%C3%A7%C3%A3o.md "Ritual de Coroação") |
 | Premiação | |
-| **Chefe** | Monster Bijou [Bijou](http://www.divine-pride.net/database/monster/3450/) |
+| **Chefe** | ![Monster Bijou](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Monster_Bijou.png) [Bijou](http://www.divine-pride.net/database/monster/3450/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 400.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 400.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 10 [Marcas de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 10 [Marcas de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Heine, aceite o pedido de Friedrich S. Heine (prt\_cas\_q 12,83)
 

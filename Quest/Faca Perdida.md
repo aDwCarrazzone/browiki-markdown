@@ -2,14 +2,14 @@
 
 # Faca Perdida
 
-| NQ ico Faca Perdida | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Faca Perdida | |
 | --- | --- |
 | O descuido de uma pessoa pode ser um grande problema se você vive numa cidade flutuante! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 505.png 2 [Poções Azuis](http://www.divine-pride.net/database/item/505/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![505.png](https://static.divine-pride.net/images/items/item/505.png) 2 [Poções Azuis](http://www.divine-pride.net/database/item/505/) |
 
 1. Ajude YunKyo Ham (gonryun 237,226)
 

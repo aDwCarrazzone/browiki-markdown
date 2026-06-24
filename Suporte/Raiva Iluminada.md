@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Raiva Iluminada Raiva Iluminada** | |
-| Raiva Iluminada | |
+| **![Raiva Iluminada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Raiva_Iluminada.png) Raiva Iluminada** | |
+| ![Raiva Iluminada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/96/Raiva_Iluminada.gif) | |
 | **Angriffs Modus** | |
 | **ID** | MH\_ANGRIFFS\_MODUS (8035) |
 | **Tipo** | Suporte |

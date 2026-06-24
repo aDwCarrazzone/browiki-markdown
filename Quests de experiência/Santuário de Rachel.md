@@ -2,13 +2,13 @@
 
 # Santuário de Rachel
 
-| EP ico Santuário de Rachel | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Santuário de Rachel | |
 | --- | --- |
 | O local mais sagrado de uma nação religiosa está com a porta emperrada. Investigue as causas do problema e tenha a oportunidade de conhecer a líder do império sacro. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 12018.png 20 [Fogos de Artifício](http://www.divine-pride.net/database/item/12018/)  7561.png 40 [Corações Glaciais](http://www.divine-pride.net/database/item/7561/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12018.png](https://static.divine-pride.net/images/items/item/12018.png) 20 [Fogos de Artifício](http://www.divine-pride.net/database/item/12018/)  ![7561.png](https://static.divine-pride.net/images/items/item/7561.png) 40 [Corações Glaciais](http://www.divine-pride.net/database/item/7561/) |
 | **Quests anteriores** | [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 140.000 |
@@ -118,6 +118,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | SetaVermelha | Santuário de Rachel | SetaVermelha | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | SetaVermelha | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
-| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | SetaVermelha |
+| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Santuário de Rachel | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
+| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

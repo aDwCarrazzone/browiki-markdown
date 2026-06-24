@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Comandar Guardiões Comandar Guardiões** | |
-| SemImagem | |
+| **![Comandar Guardiões](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/Comandar_Guardi%C3%B5es.png) Comandar Guardiões** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Guardian Research** | |
 | **ID** | GD\_GUARDRESEARCH (10002) |
 | **Tipo** | Passiva |
 | **Níveis** | 1 |
 | **Pré-requisitos** | |
-| [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
+| [![Autorização Oficial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Autoriza%C3%A7%C3%A3o_Oficial.png)](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
 
 Permite contratar guardiões para vigiar seu castelo.
 

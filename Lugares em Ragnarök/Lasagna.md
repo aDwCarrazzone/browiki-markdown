@@ -26,15 +26,15 @@ Agora que uma rota segura até [Rune-Midgard](../Sem%20categoria/Rune-Midgard.md
 
 |  |  |  |
 | --- | --- | --- |
-| Lasagna map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (lasagna 208,188) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (lasagna 203,188) |
-| Map pocao | Loja de Ferramentas | (lasagna 165,125) |
-| Map azul | Troca de Emblemas | (lasagna 131,245) |
-| Map rosa | Curandeiro | (lasagna 224,126) |
-| Map lantern | [Casamento](../Sem%20categoria/Casamento.md "Casamento") | (lasagna 331,277) |
-| Map barbea | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (lasagna 134,113) |
+| ![Lasagna map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Lasagna_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (lasagna 208,188) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (lasagna 203,188) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (lasagna 165,125) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Troca de Emblemas | (lasagna 131,245) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Curandeiro | (lasagna 224,126) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Casamento](../Sem%20categoria/Casamento.md "Casamento") | (lasagna 331,277) |
+| ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (lasagna 134,113) |
 
 |  |  |  |
 | --- | --- | --- |
@@ -84,7 +84,7 @@ A **Família Chara** é especializada em coletar [equipamentos](../Sem%20categor
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | Rendem 2 Emblemas | | --- | | 15126.png [Veste Básica de Doram](http://www.divine-pride.net/database/item/15126/) | | 20788.png [Manto Básico de Doram](http://www.divine-pride.net/database/item/20788/) | | 22083.png [Sapato Básico de Doram](http://www.divine-pride.net/database/item/22083/) | | 28380.png [Colar da Semente](http://www.divine-pride.net/database/item/28380/) | | 28381.png [Colar da Raiz](http://www.divine-pride.net/database/item/28381/) | | 28382.png [Colar da Árvore](http://www.divine-pride.net/database/item/28382/) | | 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | | 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | | 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | | 28422.png [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | | 28423.png [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) | | 28424.png [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) | | 1691.png [Cauda de Gato Arcana Avançada](http://www.divine-pride.net/database/item/1691/) | | 1695.png [Cauda de Gato Bruta Intermediária](http://www.divine-pride.net/database/item/1695/) | | | Rendem 3 Emblemas | | --- | | 15129.png [Veste Elegante de Doram](http://www.divine-pride.net/database/item/15129/) | | 20789.png [Manto Elegante de Doram](http://www.divine-pride.net/database/item/20789/) | | 22084.png [Sapato Elegante de Doram](http://www.divine-pride.net/database/item/22084/) | | 28414.png [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | | 28417.png [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | | 28420.png [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | | 1692.png [Cauda de Gato Arcana Mestra](http://www.divine-pride.net/database/item/1692/) | | 1696.png [Cauda de Gato Bruta Avançada](http://www.divine-pride.net/database/item/1696/) | | | Rendem 4 Emblemas | | --- | | 15156.png [Veste Luxuosa de Doram](http://www.divine-pride.net/database/item/15156/) | | 20790.png [Manto Luxuoso de Doram](http://www.divine-pride.net/database/item/20790/) | | 22085.png [Sapato Luxuoso de Doram](http://www.divine-pride.net/database/item/22085/) | | 28415.png [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | | 28418.png [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | | 28421.png [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | | 1693.png [Cauda de Gato Arcana Dourada](http://www.divine-pride.net/database/item/1693/) | | 1697.png [Cauda de Gato Bruta Dourada](http://www.divine-pride.net/database/item/1697/) | |
+| | Rendem 2 Emblemas | | --- | | ![15126.png](https://static.divine-pride.net/images/items/item/15126.png) [Veste Básica de Doram](http://www.divine-pride.net/database/item/15126/) | | ![20788.png](https://static.divine-pride.net/images/items/item/20788.png) [Manto Básico de Doram](http://www.divine-pride.net/database/item/20788/) | | ![22083.png](https://static.divine-pride.net/images/items/item/22083.png) [Sapato Básico de Doram](http://www.divine-pride.net/database/item/22083/) | | ![28380.png](https://static.divine-pride.net/images/items/item/28380.png) [Colar da Semente](http://www.divine-pride.net/database/item/28380/) | | ![28381.png](https://static.divine-pride.net/images/items/item/28381.png) [Colar da Raiz](http://www.divine-pride.net/database/item/28381/) | | ![28382.png](https://static.divine-pride.net/images/items/item/28382.png) [Colar da Árvore](http://www.divine-pride.net/database/item/28382/) | | ![28413.png](https://static.divine-pride.net/images/items/item/28413.png) [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | | ![28416.png](https://static.divine-pride.net/images/items/item/28416.png) [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | | ![28419.png](https://static.divine-pride.net/images/items/item/28419.png) [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | | ![28422.png](https://static.divine-pride.net/images/items/item/28422.png) [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | | ![28423.png](https://static.divine-pride.net/images/items/item/28423.png) [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) | | ![28424.png](https://static.divine-pride.net/images/items/item/28424.png) [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) | | ![1691.png](https://static.divine-pride.net/images/items/item/1691.png) [Cauda de Gato Arcana Avançada](http://www.divine-pride.net/database/item/1691/) | | ![1695.png](https://static.divine-pride.net/images/items/item/1695.png) [Cauda de Gato Bruta Intermediária](http://www.divine-pride.net/database/item/1695/) | | | Rendem 3 Emblemas | | --- | | ![15129.png](https://static.divine-pride.net/images/items/item/15129.png) [Veste Elegante de Doram](http://www.divine-pride.net/database/item/15129/) | | ![20789.png](https://static.divine-pride.net/images/items/item/20789.png) [Manto Elegante de Doram](http://www.divine-pride.net/database/item/20789/) | | ![22084.png](https://static.divine-pride.net/images/items/item/22084.png) [Sapato Elegante de Doram](http://www.divine-pride.net/database/item/22084/) | | ![28414.png](https://static.divine-pride.net/images/items/item/28414.png) [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | | ![28417.png](https://static.divine-pride.net/images/items/item/28417.png) [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | | ![28420.png](https://static.divine-pride.net/images/items/item/28420.png) [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | | ![1692.png](https://static.divine-pride.net/images/items/item/1692.png) [Cauda de Gato Arcana Mestra](http://www.divine-pride.net/database/item/1692/) | | ![1696.png](https://static.divine-pride.net/images/items/item/1696.png) [Cauda de Gato Bruta Avançada](http://www.divine-pride.net/database/item/1696/) | | | Rendem 4 Emblemas | | --- | | ![15156.png](https://static.divine-pride.net/images/items/item/15156.png) [Veste Luxuosa de Doram](http://www.divine-pride.net/database/item/15156/) | | ![20790.png](https://static.divine-pride.net/images/items/item/20790.png) [Manto Luxuoso de Doram](http://www.divine-pride.net/database/item/20790/) | | ![22085.png](https://static.divine-pride.net/images/items/item/22085.png) [Sapato Luxuoso de Doram](http://www.divine-pride.net/database/item/22085/) | | ![28415.png](https://static.divine-pride.net/images/items/item/28415.png) [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | | ![28418.png](https://static.divine-pride.net/images/items/item/28418.png) [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | | ![28421.png](https://static.divine-pride.net/images/items/item/28421.png) [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | | ![1693.png](https://static.divine-pride.net/images/items/item/1693.png) [Cauda de Gato Arcana Dourada](http://www.divine-pride.net/database/item/1693/) | | ![1697.png](https://static.divine-pride.net/images/items/item/1697.png) [Cauda de Gato Bruta Dourada](http://www.divine-pride.net/database/item/1697/) | |
 
 ### Compra
 
@@ -93,12 +93,12 @@ A **Família Chara** é especializada em coletar [equipamentos](../Sem%20categor
 
 | Equipamento | Preço |
 | --- | --- |
-| 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | 10 Emblemas |
-| 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) |
-| 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) |
-| 28422.png [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | 30 Emblemas |
-| 28423.png [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) |
-| 28424.png [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) |
+| ![28413.png](https://static.divine-pride.net/images/items/item/28413.png) [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | 10 Emblemas |
+| ![28416.png](https://static.divine-pride.net/images/items/item/28416.png) [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) |
+| ![28419.png](https://static.divine-pride.net/images/items/item/28419.png) [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) |
+| ![28422.png](https://static.divine-pride.net/images/items/item/28422.png) [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | 30 Emblemas |
+| ![28423.png](https://static.divine-pride.net/images/items/item/28423.png) [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) |
+| ![28424.png](https://static.divine-pride.net/images/items/item/28424.png) [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) |
 
 ### Aprimoramento
 
@@ -110,17 +110,17 @@ A **Família Chara** é especializada em coletar [equipamentos](../Sem%20categor
 
 | Nível | Acessório | Preço |
 | --- | --- | --- |
-| I | 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | - |
-| II | 28414.png [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | 30 Emblemas |
-| III | 28415.png [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | 90 Emblemas |
+| I | ![28413.png](https://static.divine-pride.net/images/items/item/28413.png) [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | - |
+| II | ![28414.png](https://static.divine-pride.net/images/items/item/28414.png) [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | 30 Emblemas |
+| III | ![28415.png](https://static.divine-pride.net/images/items/item/28415.png) [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | 90 Emblemas |
 | Nível | Acessório | Preço |
-| I | 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | - |
-| II | 28417.png [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | 30 Emblemas |
-| III | 28418.png [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | 90 Emblemas |
+| I | ![28416.png](https://static.divine-pride.net/images/items/item/28416.png) [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | - |
+| II | ![28417.png](https://static.divine-pride.net/images/items/item/28417.png) [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | 30 Emblemas |
+| III | ![28418.png](https://static.divine-pride.net/images/items/item/28418.png) [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | 90 Emblemas |
 | Nível | Acessório | Preço |
-| I | 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | - |
-| II | 28420.png [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | 30 Emblemas |
-| III | 28421.png [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | 90 Emblemas |
+| I | ![28419.png](https://static.divine-pride.net/images/items/item/28419.png) [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | - |
+| II | ![28420.png](https://static.divine-pride.net/images/items/item/28420.png) [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | 30 Emblemas |
+| III | ![28421.png](https://static.divine-pride.net/images/items/item/28421.png) [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | 90 Emblemas |
 
 | *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

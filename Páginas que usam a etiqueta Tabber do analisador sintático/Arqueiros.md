@@ -4,17 +4,17 @@
 
 |  |  |
 | --- | --- |
-| Arqueirospartyicn Arqueiros | |
-| Arte Arqueiros | |
+| ![Arqueirospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Arqueirospartyicn.png) Arqueiros | |
+| ![Arte Arqueiros](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Arte_Arqueiros.png) | |
 | Sprite | |
-| [Original](#tabber-Original)[Montaria](#tabber-Montaria) Arqueirossprite  Arqueirossprite mount | |
+| [Original](#tabber-Original)[Montaria](#tabber-Montaria) ![Arqueirossprite](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Arqueirossprite.png)  ![Arqueirossprite mount](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Arqueirossprite_mount.png) | |
 |  | |
 | Classe | 1-1 |
 | Anterior | [Aprendizes](Aprendizes.md "Aprendizes") |
 | Guia | [Mudança de classe](../Quest/Mudan%C3%A7a%20de%20Classe-%20Arqueiros.md "Mudança de Classe: Arqueiros") |
 | Quest | [Novas habilidades](../Quest/Novas%20habilidades-%20Arqueiros%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Arqueiros e evoluções") |
 | Estilos | [Ver Paleta de cores](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md#Arqueiros_e_evolu.C3.A7.C3.B5es "Estilista") |
-| Armas | Adagas Arcos |
+| Armas | ![Adagas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/W_Adaga.png) ![Arcos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/W_Arco.png) |
 | Bônus de Classe | |
 | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | **[FOR](../Sem%20categoria/FOR.md "FOR")** | **[AGI](../Sem%20categoria/AGI.md "AGI")** | **[VIT](../Sem%20categoria/VIT.md "VIT")** | **[INT](../Sem%20categoria/INT.md "INT")** | **[DES](../Sem%20categoria/DES.md "DES")** | **[SOR](../Sem%20categoria/SOR.md "SOR")** | | +3 | +3 | +1 | +2 | +7 | +2 | | |
 
@@ -43,13 +43,13 @@ Para começar sua jornada em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%
 
 |  |  |  |  |
 | --- | --- | --- | --- |
-|  | |  |  | | --- | --- | | [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") | [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") | |
-|  | |  |  | | --- | --- | | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") | |
-|  | |  |  | | --- | --- | | [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") | [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") | |
-|  | |  |  | | --- | --- | | [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") | [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") | |
-|  | |  |  | | --- | --- | | [Concentrar](../Suporte/Concentrar.md "Concentrar") | [Concentrar](../Suporte/Concentrar.md "Concentrar") | |
-|  | |  |  | | --- | --- | | [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") | [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") | |
-|  | |  |  | | --- | --- | | [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") | [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") | |
+|  | |  |  | | --- | --- | | [![Rajada de Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1d/Rajada_de_Flechas.png)](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") | [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") | |
+|  | |  |  | | --- | --- | | [![Chuva de Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Chuva_de_Flechas.png)](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") | |
+|  | |  |  | | --- | --- | | [![Olhos de Águia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Olhos_de_%C3%81guia.png)](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") | [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") | |
+|  | |  |  | | --- | --- | | [![Olhos de Coruja](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/Olhos_de_Coruja.png)](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") | [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") | |
+|  | |  |  | | --- | --- | | [![Concentrar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Concentrar.png)](../Suporte/Concentrar.md "Concentrar") | [Concentrar](../Suporte/Concentrar.md "Concentrar") | |
+|  | |  |  | | --- | --- | | [![Fabricar Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Fabricar_Flechas.png)](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") | [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") | |
+|  | |  |  | | --- | --- | | [![Disparo Violento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Disparo_Violento.png)](../Ofensiva/Disparo%20Violento.md "Disparo Violento") | [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") | |
 
 ### Árvore de habilidades
 
@@ -61,11 +61,11 @@ Abaixo está uma tabela das penalidades de [velocidade de ataque](../Sem%20categ
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | 2103.png [Escudo](http://www.divine-pride.net/database/item/2103/) | -9 | | 13035.png [Adaga](http://www.divine-pride.net/database/item/13035/) | -15 | | 1703.png [Arco](http://www.divine-pride.net/database/item/1703/) | -10 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | 645.png | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | 656.png | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | 657.png | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
+| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | ![2103.png](https://static.divine-pride.net/images/items/item/2103.png) [Escudo](http://www.divine-pride.net/database/item/2103/) | -9 | | ![13035.png](https://static.divine-pride.net/images/items/item/13035.png) [Adaga](http://www.divine-pride.net/database/item/13035/) | -15 | | ![1703.png](https://static.divine-pride.net/images/items/item/1703.png) [Arco](http://www.divine-pride.net/database/item/1703/) | -10 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | ![645.png](https://static.divine-pride.net/images/items/item/645.png) | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | ![656.png](https://static.divine-pride.net/images/items/item/656.png) | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | ![657.png](https://static.divine-pride.net/images/items/item/657.png) | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
 
 | *O Tiro Certeiro da Natureza* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Arqueirospartyicn](Arqueiros.md "Arqueiros") | Arqueiros | | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") · [Concentrar](../Suporte/Concentrar.md "Concentrar") · [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") · [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") · [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") · [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") · [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") |
+| |  |  | | --- | --- | | [![Arqueirospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Arqueirospartyicn.png)](Arqueiros.md "Arqueiros") | Arqueiros | | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") · [Concentrar](../Suporte/Concentrar.md "Concentrar") · [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") · [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") · [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") · [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") · [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") |
 | Evoluções | [Caçadores](Ca%C3%A7adores.md "Caçadores") · [Bardos](Bardos.md "Bardos") · [Odaliscas](Odaliscas.md "Odaliscas") |
 
 | *[Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | |

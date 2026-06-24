@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Quebra-Costelas Quebra-Costelas** | |
-| Quebra-Costelas | |
+| **![Quebra-Costelas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Quebra-Costelas.png) Quebra-Costelas** | |
+| ![Quebra-Costelas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Quebra-Costelas.gif) | |
 | **Tinder Breaker** | |
 | **ID** | MH\_TINDER\_BREAKER (8036) |
 | **Tipo** | Ofensiva |

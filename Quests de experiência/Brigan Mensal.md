@@ -2,16 +2,16 @@
 
 # Brigan Mensal
 
-| DQ ico Brigan Mensal | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Brigan Mensal | |
 | --- | --- |
 | A revista *Brigan Mensal* enviou seus repórteres para encobrir a maior descoberta da idade média! Mas parece que sua equipe de jornalismo não está tão bem preparada para isso.. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 11597.png 30 [Isopteros](http://www.divine-pride.net/database/item/11597/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![11597.png](https://static.divine-pride.net/images/items/item/11597.png) 30 [Isopteros](http://www.divine-pride.net/database/item/11597/) |
 | **Caça** | 30 [Robôs Reparadores Turbo](http://www.divine-pride.net/database/monster/3248/) 30 [Fumaças Verdes](http://www.divine-pride.net/database/monster/3247/) |
 | **Quests anteriores** | [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 4.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 2.500.000 |

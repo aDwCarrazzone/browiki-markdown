@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Desenvolvimento Permanente Desenvolvimento Permanente** | |
-| SemImagem | |
+| **![Desenvolvimento Permanente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Desenvolvimento_Permanente.png) Desenvolvimento Permanente** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Permanent Development** | |
 | **ID** | GD\_DEVELOPMENT (10014) |
 | **Tipo** | Passiva |

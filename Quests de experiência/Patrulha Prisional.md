@@ -2,7 +2,7 @@
 
 # Patrulha Prisional
 
-| NQ ico Patrulha Prisional | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Patrulha Prisional | |
 | --- | --- |
 | Um lugar onde os mais terríveis prisioneiros convivem também necessita de cuidados. Colete o depoimento dos prisioneiros dessa masmorra escura. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2.100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 5.500.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 2 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 2 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera a missão [Aventuras na Prisão](Aventuras%20na%20Pris%C3%A3o.md "Aventuras na Prisão") e o acesso ao calabouço [Prisão de Prontera](http://www.divine-pride.net/database/map/prt_prison/) |
 
 [![MapaChave PatrulhaReal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/MapaChave_PatrulhaReal.png)](https://browiki.org/wiki/Arquivo%3AMapaChave_PatrulhaReal.png)

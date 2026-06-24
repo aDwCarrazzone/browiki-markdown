@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Drenar Sangue** | |
-| Drenar Sangue | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Drenar Sangue** | |
+| ![Drenar Sangue](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Drenar_Sangue.gif) | |
 | **ID:** | NPC\_BLOODDRAIN (199) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

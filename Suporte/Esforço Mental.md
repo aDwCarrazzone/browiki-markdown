@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Esforço Mental Esforço Mental** | |
-| Esforço Mental | |
+| **![Esforço Mental](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Esfor%C3%A7o_Mental.png) Esforço Mental** | |
+| ![Esforço Mental](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Esfor%C3%A7o_Mental.gif) | |
 | **Mental Change** | |
 | **ID** | HLIF\_CHANGE (8004) |
 | **Tipo** | Suporte |

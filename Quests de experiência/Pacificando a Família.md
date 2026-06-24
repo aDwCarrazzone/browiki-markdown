@@ -2,7 +2,7 @@
 
 # Pacificando a Família
 
-| NQ ico Pacificando a Família | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pacificando a Família | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 55.560 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 52.710 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25250.png 2 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 2 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) |
 
 1. Encontre Kacteron (rockrdg1 341,133)
 
@@ -38,4 +38,4 @@
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Caçando Coiotes | Kacteron  (rockrdg1 341,133) | Eliminar 30 [Coiote](http://www.divine-pride.net/database/monster/3739/) | - 25250.png 2 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 55.560 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 52.710 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçando Coiotes | Kacteron  (rockrdg1 341,133) | Eliminar 30 [Coiote](http://www.divine-pride.net/database/monster/3739/) | - ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 2 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 55.560 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 52.710 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |

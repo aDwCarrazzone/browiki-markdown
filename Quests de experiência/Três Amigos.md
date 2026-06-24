@@ -2,7 +2,7 @@
 
 # Três Amigos
 
-| NQ ico Três Amigos | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Três Amigos | |
 | --- | --- |
 | Uma amizade entre três crianças parece não ter tido um final feliz. Tente reaproximar dois colegas que não se encontram mais por conta das diferenças sociais. | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Normal |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 140.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 7350.png 1 [Passe](http://www.divine-pride.net/database/item/7350/)  1201.png 1 [Faca](http://www.divine-pride.net/database/item/1201/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7350.png](https://static.divine-pride.net/images/items/item/7350.png) 1 [Passe](http://www.divine-pride.net/database/item/7350/)  ![1201.png](https://static.divine-pride.net/images/items/item/1201.png) 1 [Faca](http://www.divine-pride.net/database/item/1201/) |
 
 1. Para iniciar a missão, você precisará alternar entre a favela e a área da cidade através do Guarda (lighthalzen 266,200)
 

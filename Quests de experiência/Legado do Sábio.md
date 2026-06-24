@@ -2,17 +2,17 @@
 
 # Legado do Sábio
 
-| EP ico Legado do Sábio | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Legado do Sábio | |
 | --- | --- |
 | Pela primeira vez, os jardins da Mansão de Varmunt estarão abertos para os aventureiros da nova geração. Continue rastreando os membros restantes da Ilusión, enquanto explora os segredos essa lendária construção escondida entre as eras. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 610.png 1 [Folha de Yggdrasil](http://www.divine-pride.net/database/item/610/) 7110.png 10 [Espada Chanfrada](http://www.divine-pride.net/database/item/7110/) 7326.png 10 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7326/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![610.png](https://static.divine-pride.net/images/items/item/610.png) 1 [Folha de Yggdrasil](http://www.divine-pride.net/database/item/610/) ![7110.png](https://static.divine-pride.net/images/items/item/7110.png) 10 [Espada Chanfrada](http://www.divine-pride.net/database/item/7110/) ![7326.png](https://static.divine-pride.net/images/items/item/7326.png) 10 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7326/) |
 | **Quests anteriores** | [Ilusión](Ilusi%C3%B3n.md "Ilusión") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 3.867.510 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 105 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 105 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 | **Recompensa** | Libera o acesso a:  - **[Mansão de Varmunt](../Lugares%20em%20Ragnar%C3%B6k/Mans%C3%A3o%20de%20Varmunt.md "Mansão de Varmunt")** - [Jardim da Mansão](http://www.divine-pride.net/database/map/ba_maison/) - [Usina Mágica](http://www.divine-pride.net/database/map/ba_pw01/) - [Estação de Esgoto](http://www.divine-pride.net/database/map/ba_pw02/) - [Armazém Tártaro](http://www.divine-pride.net/database/map/ba_2whs02/) - [Estufa de Pitayas](http://www.divine-pride.net/database/map/ba_2whs02/) - [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão") - [Silêncio na Biblioteca](Sil%C3%AAncio%20na%20Biblioteca.md "Silêncio na Biblioteca") - [Segredo no Armazém](Segredo%20no%20Armaz%C3%A9m.md "Segredo no Armazém") - [Mistério na Sauna](Mist%C3%A9rio%20na%20Sauna.md "Mistério na Sauna") - [Zona Restrita](Zona%20Restrita.md "Zona Restrita") - [Salvando Elyumina](Salvando%20Elyumina.md "Salvando Elyumina") - [Fazenda de Pitayas](../Quest/Fazenda%20de%20Pitayas.md "Fazenda de Pitayas") - [Duelo com Sweety](Duelo%20com%20Sweety.md "Duelo com Sweety") - [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") |
 
 1. Fale mais de uma vez com Lukie (sp\_cor 255,285).
@@ -36,7 +36,7 @@
 
    :   ![SageLegacy06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/SageLegacy06.png)
 
-   - Você receberá ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
+   - Você receberá ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
 7. Cadastre-se como hóspede visitante com a Gerente Alpha (ba\_maison 70,145)
 
    :   ![SageLegacy10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f3/SageLegacy10.png)
@@ -61,17 +61,17 @@
    :   ![SageLegacy011](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8e/SageLegacy011.png)
 
    - Seu objetivo é conseguir 1 [Comunicador de Autômato](http://www.divine-pride.net/database/item/1000232/) derrotando as [Betas Quebradas](http://www.divine-pride.net/database/monster/20630/) espalhadas no mapa. (70% de chance de ir direto para o seu inventário).
-   - Quando retornar à [NPC](../Sem%20categoria/NPC.md "NPC"), você receberá 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+   - Quando retornar à [NPC](../Sem%20categoria/NPC.md "NPC"), você receberá 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
 9. Localize mais 2 [NPCs](../Sem%20categoria/NPC.md "NPC").
 
    :   ![SageLegacy012](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/SageLegacy012.png)
 
    1. Transmissor (ba\_maison 333,143)
    2. Gaduri (ba\_maison 246,206)
-   - Do Transmissor, você recebe 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
-   - De Gaduri, você recebe 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+   - Do Transmissor, você recebe 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+   - De Gaduri, você recebe 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 5 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
 10. Retorne à Gerente Alpha (ba\_maison 70,145)
-    - Você recebe 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+    - Você recebe 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
     - Você liberou o acesso missão diária [Transmissor sem Sinal](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão").
 11. A Gerente Alpha informa que seu grupo está na Casa de Chá, converse com Philopontess e com Dien (ba\_maison 102,65)
 
@@ -94,10 +94,10 @@
 
     - Após o diálogo, as Veteranas surgirão para ajudar.
     - Siga conversando com os [NPCs](../Sem%20categoria/NPC.md "NPC") acompanhando o balão de quest.
-    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
 15. Retorne à Casa de Chá e fale com Tatio (ba\_maison 102,65)
     - Após o diálogo, escolha *Ir para fora*.
-    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
 16. Saindo da Casa de Chá, fale com Lukie (ba\_maison 116,67)
 
     :   ![SageLegacy015a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/SageLegacy015a.png)
@@ -119,7 +119,7 @@
 
     :   ![SageLegacy017](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9e/SageLegacy017.png)
 
-    - Você receberá 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 10 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
+    - Você receberá 257.834 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 10 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/).
 19. Dirija-se ao dormitório das empregadas e peça acesso ao Rebelde (ba\_maison 101,321)
 
     :   ![SageLegacy018](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/SageLegacy018.png)
@@ -129,8 +129,8 @@
 
     - Após o diálogo, serão pedidos 10 [Espadas Chanfradas](http://www.divine-pride.net/database/item/7110/) e 10 [Líquidos Fluorescentes](http://www.divine-pride.net/database/item/7326/).
     - Retorne aos [NPCs](../Sem%20categoria/NPC.md "NPC") e entregue os itens para Elyumina (ba\_in01 15,147)
-    - Você receberá 515.668 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 10 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
-    - Agora você obteve o ![1000092.png](http://static.divine-pride.net/images/items/item/1000092.png) 1 [Radar da Elyumina](http://www.divine-pride.net/database/item/1000092/)!
+    - Você receberá 515.668 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 10 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
+    - Agora você obteve o ![1000092.png](https://static.divine-pride.net/images/items/item/1000092.png) 1 [Radar da Elyumina](http://www.divine-pride.net/database/item/1000092/)!
 21. Saia do quarto e, no mesmo local, encontre-se com a comandante Est Loveloy (ba\_in01 51,157)
 
     :   ![SageLegacy020](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/SageLegacy020.png)
@@ -167,7 +167,7 @@
 
     :   ![SageLegacy024](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/SageLegacy024.png)
 
-    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](http://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
+    - Você receberá 773.502 de [EXP](../Sem%20categoria/EXP.md "EXP") base e ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 15 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/)
 25. Converse com a Amêndoa sobre Sweety e, em seguida, fale com Sweety.
 
     :   ![SageLegacy025](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/SageLegacy025.png)
@@ -188,6 +188,6 @@
 
 ![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
-| Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
+| Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | | Ep. 18 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [Banquete Real](Banquete%20Real.md "Banquete Real") | SetaVermelha | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | SetaVermelha | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | SetaVermelha | Legado do Sábio |
+| [Banquete Real](Banquete%20Real.md "Banquete Real") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Legado do Sábio | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caminho da Oração](Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Expurgar Expurgar** | |
-| Expurgar | |
+| **![Expurgar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Expurgar.png) Expurgar** | |
+| ![Expurgar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Expurgar.gif) | |
 | **Round Trip** | |
 | **ID** | RL\_R\_TRIP (2565) |
 | **Tipo** | Ofensiva |
@@ -16,10 +16,10 @@
 | **Alvo** | Usuário |
 | **Empurra** | 3 células |
 | **Área** | 7x7 a 13x13 células |
-| **Munição** | [Over Bullet](../Sem%20categoria/Muni%C3%A7%C3%B5es.md "Munições") 5 Projéteis |
+| **Munição** | [![Over Bullet](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a3/Over_Bullet.png)](../Sem%20categoria/Muni%C3%A7%C3%B5es.md "Munições") 5 Projéteis |
 | **Arma** | Metralhadora Gatling |
 | **Pré-requisitos** | |
-| [Disparo Labareda](Disparo%20Labareda.md "Disparo Labareda") [Disparo Labareda](Disparo%20Labareda.md "Disparo Labareda") Nv. 1 | |
+| [![Disparo Labareda](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Disparo_Labareda.png)](Disparo%20Labareda.md "Disparo Labareda") [Disparo Labareda](Disparo%20Labareda.md "Disparo Labareda") Nv. 1 | |
 
 Atira enquanto gira em torno de si.
 
@@ -57,23 +57,23 @@ Consome 5 projéteis, mas para conjurar a habilidade, você precisa ter 6 projé
 - Alvos que não podem ser empurrados não receberão dano adicional.
 - A área é contada na célula em que você ativou a habilidade e não se movimenta junto com o personagem.
 - Armas relacionadas:
-  - ![28258.png](http://static.divine-pride.net/images/items/item/28258.png) [Gatling Ancestral](http://www.divine-pride.net/database/item/28258/)
-  - ![830002.png](http://static.divine-pride.net/images/items/item/830002.png) [Gatling Primordial](http://www.divine-pride.net/database/item/830002/)
-  - ![830042.png](http://static.divine-pride.net/images/items/item/830042.png) [Metralhadora Dínamo](http://www.divine-pride.net/database/item/830042/) [[1]](#cite_note-booster-1)
-  - ![28241.png](http://static.divine-pride.net/images/items/item/28241.png) [Olho de Mamba Negra](http://www.divine-pride.net/database/item/28241/)
-  - ![28254.png](http://static.divine-pride.net/images/items/item/28254.png) [Retalhadora Ilusional](http://www.divine-pride.net/database/item/28254/) [[2]](#cite_note-2)
-  - ![830001.png](http://static.divine-pride.net/images/items/item/830001.png) [Metralhadora Luxuriae](http://www.divine-pride.net/database/item/830001/)
+  - ![28258.png](https://static.divine-pride.net/images/items/item/28258.png) [Gatling Ancestral](http://www.divine-pride.net/database/item/28258/)
+  - ![830002.png](https://static.divine-pride.net/images/items/item/830002.png) [Gatling Primordial](http://www.divine-pride.net/database/item/830002/)
+  - ![830042.png](https://static.divine-pride.net/images/items/item/830042.png) [Metralhadora Dínamo](http://www.divine-pride.net/database/item/830042/) [[1]](#cite_note-booster-1)
+  - ![28241.png](https://static.divine-pride.net/images/items/item/28241.png) [Olho de Mamba Negra](http://www.divine-pride.net/database/item/28241/)
+  - ![28254.png](https://static.divine-pride.net/images/items/item/28254.png) [Retalhadora Ilusional](http://www.divine-pride.net/database/item/28254/) [[2]](#cite_note-2)
+  - ![830001.png](https://static.divine-pride.net/images/items/item/830001.png) [Metralhadora Luxuriae](http://www.divine-pride.net/database/item/830001/)
 - Equipamentos relacionados:
-  - ![19488.png](http://static.divine-pride.net/images/items/item/19488.png) [Diadema Temporal Rebelde](http://www.divine-pride.net/database/item/19488/) [[3]](#cite_note-GHC-3)
-  - ![450038.png](http://static.divine-pride.net/images/items/item/450038.png) [Nobre Traje Expurgante](http://www.divine-pride.net/database/item/450038/) [[4]](#cite_note-EH-4)
-  - ![450074.png](http://static.divine-pride.net/images/items/item/450074.png) [Ilustre Traje Expurgante](http://www.divine-pride.net/database/item/450074/) [[4]](#cite_note-EH-4)
-  - ![450108.png](http://static.divine-pride.net/images/items/item/450108.png) [Grácil Traje Expurgante](http://www.divine-pride.net/database/item/450108/) [[4]](#cite_note-EH-4)
-  - ![490498.png](http://static.divine-pride.net/images/items/item/490498.png) [Anel do Insurgente](http://www.divine-pride.net/database/item/490498/)
+  - ![19488.png](https://static.divine-pride.net/images/items/item/19488.png) [Diadema Temporal Rebelde](http://www.divine-pride.net/database/item/19488/) [[3]](#cite_note-GHC-3)
+  - ![450038.png](https://static.divine-pride.net/images/items/item/450038.png) [Nobre Traje Expurgante](http://www.divine-pride.net/database/item/450038/) [[4]](#cite_note-EH-4)
+  - ![450074.png](https://static.divine-pride.net/images/items/item/450074.png) [Ilustre Traje Expurgante](http://www.divine-pride.net/database/item/450074/) [[4]](#cite_note-EH-4)
+  - ![450108.png](https://static.divine-pride.net/images/items/item/450108.png) [Grácil Traje Expurgante](http://www.divine-pride.net/database/item/450108/) [[4]](#cite_note-EH-4)
+  - ![490498.png](https://static.divine-pride.net/images/items/item/490498.png) [Anel do Insurgente](http://www.divine-pride.net/database/item/490498/)
 - Cartas e Encantos relacionados:
-  - ![29667.png](http://static.divine-pride.net/images/items/item/29667.png) [Insurgente (Capa)](http://www.divine-pride.net/database/item/29667/) [[5]](#cite_note-5)
-  - ![27307.png](http://static.divine-pride.net/images/items/item/27307.png) [Carta Bellare Mutante](http://www.divine-pride.net/database/item/27307/)
-  - ![300119.png](http://static.divine-pride.net/images/items/item/300119.png) [Carta Peixe Escaldado](http://www.divine-pride.net/database/item/300119/)
-  - ![310171.png](http://static.divine-pride.net/images/items/item/310171.png) [H-Espingarda](http://www.divine-pride.net/database/item/310171/) [[6]](#cite_note-6)
+  - ![29667.png](https://static.divine-pride.net/images/items/item/29667.png) [Insurgente (Capa)](http://www.divine-pride.net/database/item/29667/) [[5]](#cite_note-5)
+  - ![27307.png](https://static.divine-pride.net/images/items/item/27307.png) [Carta Bellare Mutante](http://www.divine-pride.net/database/item/27307/)
+  - ![300119.png](https://static.divine-pride.net/images/items/item/300119.png) [Carta Peixe Escaldado](http://www.divine-pride.net/database/item/300119/)
+  - ![310171.png](https://static.divine-pride.net/images/items/item/310171.png) [H-Espingarda](http://www.divine-pride.net/database/item/310171/) [[6]](#cite_note-6)
 
 ### Referências
 
@@ -86,7 +86,7 @@ Consome 5 projéteis, mas para conjurar a habilidade, você precisa ter 6 projé
 
 | *Rápidos no Gatilho* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Justiceirospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") | [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") | | [Ataque Certeiro](Ataque%20Certeiro.md "Ataque Certeiro") · [Ataque Concentrado](../Passiva/Ataque%20Concentrado.md "Ataque Concentrado") · [Ataque Gatling](../Suporte/Ataque%20Gatling.md "Ataque Gatling") · [Ataque Total](Ataque%20Total.md "Ataque Total") · [Ataque Triplo](Ataque%20Triplo.md "Ataque Triplo") · [Atirar Moedas](Atirar%20Moedas.md "Atirar Moedas") · [Aumentar Precisão](../Suporte/Aumentar%20Precis%C3%A3o.md "Aumentar Precisão") · [Bala Mágica](../Suporte/Bala%20M%C3%A1gica.md "Bala Mágica") · [Cara ou Coroa](../Ativa/Cara%20ou%20Coroa.md "Cara ou Coroa") · [Controle de Multidão](Controle%20de%20Multid%C3%A3o.md "Controle de Multidão") · [Desarmar](Desarmar.md "Desarmar") · [Desperado](Desperado.md "Desperado") · [Disparo Espalhado](Disparo%20Espalhado.md "Disparo Espalhado") · [Ferir Alvo](Ferir%20Alvo.md "Ferir Alvo") · [Mina do Justiceiro](Mina%20do%20Justiceiro.md "Mina do Justiceiro") · [Olhos de Serpente](../Passiva/Olhos%20de%20Serpente.md "Olhos de Serpente") · [Pânico do Justiceiro](../Suporte/P%C3%A2nico%20do%20Justiceiro.md "Pânico do Justiceiro") · [Rajada Certeira](Rajada%20Certeira.md "Rajada Certeira") · [Rastrear o Alvo](Rastrear%20o%20Alvo.md "Rastrear o Alvo") · [Reação em Cadeia](../Passiva/Rea%C3%A7%C3%A3o%20em%20Cadeia.md "Reação em Cadeia") · [Resistência Final](../Suporte/Resist%C3%AAncia%20Final.md "Resistência Final") · [Tiro Bombinha](../Ativa/Tiro%20Bombinha.md "Tiro Bombinha") |
-| |  |  | | --- | --- | | [Insurgentespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Insurgentes.md "Insurgentes") | [Insurgentes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Insurgentes.md "Insurgentes") | | [Armadilha Aderente](../Ativa/Armadilha%20Aderente.md "Armadilha Aderente") · [Arremessar Granada](Arremessar%20Granada.md "Arremessar Granada") · [Calibre Letal](Calibre%20Letal.md "Calibre Letal") · [Descarregar Tambor](Descarregar%20Tambor.md "Descarregar Tambor") · [Disparo Labareda](Disparo%20Labareda.md "Disparo Labareda") · [Espiral Perfurante](Espiral%20Perfurante.md "Espiral Perfurante") · [Execução](Execu%C3%A7%C3%A3o.md "Execução") · [Explosão Antimatéria](Explos%C3%A3o%20Antimat%C3%A9ria.md "Explosão Antimatéria") · Expurgar · [Farta Fortuna](../Suporte/Farta%20Fortuna.md "Farta Fortuna") · [Furor](../Suporte/Furor.md "Furor") · [Ignição](../Ativa/Igni%C3%A7%C3%A3o.md "Ignição") · [Lançar Míssil](Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil") · [Marcar em Brasa](../Ativa/Marcar%20em%20Brasa.md "Marcar em Brasa") · [Proteção de Platina](../Suporte/Prote%C3%A7%C3%A3o%20de%20Platina.md "Proteção de Platina") · [Rajada Estilhaçante](Rajada%20Estilha%C3%A7ante.md "Rajada Estilhaçante") · [Reação Ilimitada](../Suporte/Rea%C3%A7%C3%A3o%20Ilimitada.md "Reação Ilimitada") · [Salto Etéreo](../Ativa/Salto%20Et%C3%A9reo.md "Salto Etéreo") · [Saque Rápido](Saque%20R%C3%A1pido.md "Saque Rápido") · [Tiro Neutralizante](Tiro%20Neutralizante.md "Tiro Neutralizante") |
+| |  |  | | --- | --- | | [![Justiceirospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Justiceirospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") | [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") | | [Ataque Certeiro](Ataque%20Certeiro.md "Ataque Certeiro") · [Ataque Concentrado](../Passiva/Ataque%20Concentrado.md "Ataque Concentrado") · [Ataque Gatling](../Suporte/Ataque%20Gatling.md "Ataque Gatling") · [Ataque Total](Ataque%20Total.md "Ataque Total") · [Ataque Triplo](Ataque%20Triplo.md "Ataque Triplo") · [Atirar Moedas](Atirar%20Moedas.md "Atirar Moedas") · [Aumentar Precisão](../Suporte/Aumentar%20Precis%C3%A3o.md "Aumentar Precisão") · [Bala Mágica](../Suporte/Bala%20M%C3%A1gica.md "Bala Mágica") · [Cara ou Coroa](../Ativa/Cara%20ou%20Coroa.md "Cara ou Coroa") · [Controle de Multidão](Controle%20de%20Multid%C3%A3o.md "Controle de Multidão") · [Desarmar](Desarmar.md "Desarmar") · [Desperado](Desperado.md "Desperado") · [Disparo Espalhado](Disparo%20Espalhado.md "Disparo Espalhado") · [Ferir Alvo](Ferir%20Alvo.md "Ferir Alvo") · [Mina do Justiceiro](Mina%20do%20Justiceiro.md "Mina do Justiceiro") · [Olhos de Serpente](../Passiva/Olhos%20de%20Serpente.md "Olhos de Serpente") · [Pânico do Justiceiro](../Suporte/P%C3%A2nico%20do%20Justiceiro.md "Pânico do Justiceiro") · [Rajada Certeira](Rajada%20Certeira.md "Rajada Certeira") · [Rastrear o Alvo](Rastrear%20o%20Alvo.md "Rastrear o Alvo") · [Reação em Cadeia](../Passiva/Rea%C3%A7%C3%A3o%20em%20Cadeia.md "Reação em Cadeia") · [Resistência Final](../Suporte/Resist%C3%AAncia%20Final.md "Resistência Final") · [Tiro Bombinha](../Ativa/Tiro%20Bombinha.md "Tiro Bombinha") |
+| |  |  | | --- | --- | | [![Insurgentespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Insurgentespartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Insurgentes.md "Insurgentes") | [Insurgentes](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Insurgentes.md "Insurgentes") | | [Armadilha Aderente](../Ativa/Armadilha%20Aderente.md "Armadilha Aderente") · [Arremessar Granada](Arremessar%20Granada.md "Arremessar Granada") · [Calibre Letal](Calibre%20Letal.md "Calibre Letal") · [Descarregar Tambor](Descarregar%20Tambor.md "Descarregar Tambor") · [Disparo Labareda](Disparo%20Labareda.md "Disparo Labareda") · [Espiral Perfurante](Espiral%20Perfurante.md "Espiral Perfurante") · [Execução](Execu%C3%A7%C3%A3o.md "Execução") · [Explosão Antimatéria](Explos%C3%A3o%20Antimat%C3%A9ria.md "Explosão Antimatéria") · Expurgar · [Farta Fortuna](../Suporte/Farta%20Fortuna.md "Farta Fortuna") · [Furor](../Suporte/Furor.md "Furor") · [Ignição](../Ativa/Igni%C3%A7%C3%A3o.md "Ignição") · [Lançar Míssil](Lan%C3%A7ar%20M%C3%ADssil.md "Lançar Míssil") · [Marcar em Brasa](../Ativa/Marcar%20em%20Brasa.md "Marcar em Brasa") · [Proteção de Platina](../Suporte/Prote%C3%A7%C3%A3o%20de%20Platina.md "Proteção de Platina") · [Rajada Estilhaçante](Rajada%20Estilha%C3%A7ante.md "Rajada Estilhaçante") · [Reação Ilimitada](../Suporte/Rea%C3%A7%C3%A3o%20Ilimitada.md "Reação Ilimitada") · [Salto Etéreo](../Ativa/Salto%20Et%C3%A9reo.md "Salto Etéreo") · [Saque Rápido](Saque%20R%C3%A1pido.md "Saque Rápido") · [Tiro Neutralizante](Tiro%20Neutralizante.md "Tiro Neutralizante") |
 | Night Watch | A.D.P. · Mira Focalizada · Atirar em Espiral · Vigília Noturna · Disparo Único · Carta na Manga · Artilharia Pesada · Chuva de Tiros · Perícia em Granada · Jogar Granada · Gatilho Incandescente · Queda de Granadas · Bombardeio · Fragmentação · Disparo Automático |
 | [Quests](../Quest/Quests.md "Quests") | [Mudança de Classe: Justiceiros](../Quest/Mudan%C3%A7a%20de%20Classe-%20Justiceiros.md "Mudança de Classe: Justiceiros") · [Criação de Armas de Fogo](../Guias%20de%20Classe/Cria%C3%A7%C3%A3o%20de%20Armas%20de%20Fogo.md "Criação de Armas de Fogo") · [Mudança de Classe: Insurgentes](../Quest/Mudan%C3%A7a%20de%20Classe-%20Insurgentes.md "Mudança de Classe: Insurgentes") |

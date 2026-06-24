@@ -22,21 +22,21 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 
 | Objetivo | Descrição | Premiação | Pts. |
 | --- | --- | --- | --- |
-| Primeira Aura! | Alcance o Nível Base 99. | **[Título]** Jovem [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  12549.png [Caixa de Poção Branca Compacta (100)](http://www.divine-pride.net/database/item/12549/) | 50 |
-| O Começo de Outra Aventura | Alcance o Nível Base 100. | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  23585.png [Caixa Inicial (100)](http://www.divine-pride.net/database/item/23585/)   - Veja sobre [Equipamentos Iniciais](../Sem%20categoria/Equipamentos%20Iniciais.md "Equipamentos Iniciais") | 50 |
-| Quase lá! | Alcance o Nível Base 150. | **[Título]** Especialista [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  5364.png [Chapéu da Serpente Suprema](http://www.divine-pride.net/database/item/5364/) | 60 |
-| Esforço Incrível! | Alcance o Nível Base 175. | **[Título]** Mestre [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  18880.png [Chapéu Supremo Dourado](http://www.divine-pride.net/database/item/18880/) | 70 |
-| Nível 200! | Alcance o Nível Base 200. | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5 400124.png [(Visual) Chifres Suntuosos](http://www.divine-pride.net/database/item/400124/) | 100 |
-| Profissional! | Alcance o Nível de Classe 50. | **[Título]** Profissional [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  617.png [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) | 30 |
-| Expert! | Alcance o Nível de Classe 70. | **[Título]** Expert [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  12817.png [(Conquista) Antigo Álbum de Cartas](http://www.divine-pride.net/database/item/12817/) | 50 |
-| Aventureiro Oficial | Mude de classe para uma Classe 1-1. | [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 10 |
+| Primeira Aura! | Alcance o Nível Base 99. | **[Título]** Jovem [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![12549.png](https://static.divine-pride.net/images/items/item/12549.png) [Caixa de Poção Branca Compacta (100)](http://www.divine-pride.net/database/item/12549/) | 50 |
+| O Começo de Outra Aventura | Alcance o Nível Base 100. | [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![23585.png](https://static.divine-pride.net/images/items/item/23585.png) [Caixa Inicial (100)](http://www.divine-pride.net/database/item/23585/)   - Veja sobre [Equipamentos Iniciais](../Sem%20categoria/Equipamentos%20Iniciais.md "Equipamentos Iniciais") | 50 |
+| Quase lá! | Alcance o Nível Base 150. | **[Título]** Especialista [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![5364.png](https://static.divine-pride.net/images/items/item/5364.png) [Chapéu da Serpente Suprema](http://www.divine-pride.net/database/item/5364/) | 60 |
+| Esforço Incrível! | Alcance o Nível Base 175. | **[Título]** Mestre [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![18880.png](https://static.divine-pride.net/images/items/item/18880.png) [Chapéu Supremo Dourado](http://www.divine-pride.net/database/item/18880/) | 70 |
+| Nível 200! | Alcance o Nível Base 200. | [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5 ![400124.png](https://static.divine-pride.net/images/items/item/400124.png) [(Visual) Chifres Suntuosos](http://www.divine-pride.net/database/item/400124/) | 100 |
+| Profissional! | Alcance o Nível de Classe 50. | **[Título]** Profissional [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![617.png](https://static.divine-pride.net/images/items/item/617.png) [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) | 30 |
+| Expert! | Alcance o Nível de Classe 70. | **[Título]** Expert [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") Nv. 5  ![12817.png](https://static.divine-pride.net/images/items/item/12817.png) [(Conquista) Antigo Álbum de Cartas](http://www.divine-pride.net/database/item/12817/) | 50 |
+| Aventureiro Oficial | Mude de classe para uma Classe 1-1. | [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 10 |
 | Aventureiro Especial | Mude de classe para uma Classe 1-Expandida. | 10 |
 | Transcendência! | Mude de classe para uma Classe 1-Trans. | 20 |
 | Aspirante (1) | Mude de classe para uma Classe 2-1. | 25 |
 | Aspirante (2) | Mude de classe para uma Classe 2-2. | 25 |
 | Veterano (1) | Mude de classe para uma Classe 2-1-Trans. | 30 |
 | Veterano (2) | Mude de classe para uma Classe 2-2-Trans. | 30 |
-| Aventureiro de Elite (1) | Sem ter renascido mude de classe para uma Classe 3-1. | [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") 16483.png [(Evento) Cx. de Abrasivo (10)](http://www.divine-pride.net/database/item/16483/) | 50 |
+| Aventureiro de Elite (1) | Sem ter renascido mude de classe para uma Classe 3-1. | [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") ![16483.png](https://static.divine-pride.net/images/items/item/16483.png) [(Evento) Cx. de Abrasivo (10)](http://www.divine-pride.net/database/item/16483/) | 50 |
 | Aventureiro de Elite (2) | Sem ter renascido mude de classe para uma Classe 3-2. | 50 |
 | Aventureiro Sênior (1) | Após ter renascido mude de classe para uma Classe 3-1. | 60 |
 | Aventureiro Sênior (2) | Após ter renascido mude de classe para uma Classe 3-2. | 60 |
@@ -47,17 +47,17 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Agilidade Impecável | Invista 90 pontos em AGI Base. | 10 |
 | Destreza Notável | Invista 90 pontos em DES Base | 10 |
 | Sorte de Principiante | Invista 90 pontos em SOR Base | 10 |
-| Poder Titânico! | Tenha 125 de FOR Base | [Força Titânica](../Suporte/For%C3%A7a%20Tit%C3%A2nica.md "Força Titânica") [Força Titânica](../Suporte/For%C3%A7a%20Tit%C3%A2nica.md "Força Titânica") | 20 |
-| Mente Expandida | Tenha 125 de INT Base | Efeito *temporário* do 12596.png [Doce Mágico](http://www.divine-pride.net/database/item/12596/) | 20 |
-| Diamante Lapidado | Tenha 125 de VIT Base | Efeito *temporário* da 14534.png [Poção Menor de Vida](http://www.divine-pride.net/database/item/14534/) | 20 |
-| Velocidade da Luz | Tenha 125 de AGI Base | Efeito *temporário* do 14538.png [Cálice da Ilusão](http://www.divine-pride.net/database/item/14538/) | 20 |
-| Vista Apurada | Tenha 125 de DES Base | Efeito *temporário* do 14536.png [Abrasivo](http://www.divine-pride.net/database/item/14536/) | 20 |
-| Bem Afortunado | Tenha 125 de SOR Base | [Glória](../Suporte/Gl%C3%B3ria.md "Glória") [Glória](../Suporte/Gl%C3%B3ria.md "Glória") | 20 |
-| Inspiração Mundial | Alcance o nível base 99 em um Aprendiz adulto. | |  |  | | --- | --- | | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") nv. 5 |  16483.png [(Evento) Cx. de Abrasivo (10)](http://www.divine-pride.net/database/item/16483/) | 30 |
-| Eu Prefiro Você! | Alcance o nível base 99 em um personagem da classe 1-1. | |  |  | | --- | --- | | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") nv. 5 |  101948.png [(Conquista) Cx. Goma de Mascar (10)](http://www.divine-pride.net/database/item/101948/) | 30 |
-| Renasceu! | Mude de classe para Aprendiz T. no Hall das Valquírias. | [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") 23575.png [Caixa de Aventura (1)](http://www.divine-pride.net/database/item/23575/) | 10 |
-| Com uma Nova Mentalidade (1) | Alcance o Nível de Base 170 como Classe 3-1. | 6959.png 1 [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) | 50 |
-| Com uma Nova Mentalidade (2) | Alcance o Nível de Base 170 como Classe 3-2. | 6959.png 1 [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) | 50 |
+| Poder Titânico! | Tenha 125 de FOR Base | [![Força Titânica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/For%C3%A7a_Tit%C3%A2nica.png)](../Suporte/For%C3%A7a%20Tit%C3%A2nica.md "Força Titânica") [Força Titânica](../Suporte/For%C3%A7a%20Tit%C3%A2nica.md "Força Titânica") | 20 |
+| Mente Expandida | Tenha 125 de INT Base | Efeito *temporário* do ![12596.png](https://static.divine-pride.net/images/items/item/12596.png) [Doce Mágico](http://www.divine-pride.net/database/item/12596/) | 20 |
+| Diamante Lapidado | Tenha 125 de VIT Base | Efeito *temporário* da ![14534.png](https://static.divine-pride.net/images/items/item/14534.png) [Poção Menor de Vida](http://www.divine-pride.net/database/item/14534/) | 20 |
+| Velocidade da Luz | Tenha 125 de AGI Base | Efeito *temporário* do ![14538.png](https://static.divine-pride.net/images/items/item/14538.png) [Cálice da Ilusão](http://www.divine-pride.net/database/item/14538/) | 20 |
+| Vista Apurada | Tenha 125 de DES Base | Efeito *temporário* do ![14536.png](https://static.divine-pride.net/images/items/item/14536.png) [Abrasivo](http://www.divine-pride.net/database/item/14536/) | 20 |
+| Bem Afortunado | Tenha 125 de SOR Base | [![Glória](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/39/Gl%C3%B3ria.png)](../Suporte/Gl%C3%B3ria.md "Glória") [Glória](../Suporte/Gl%C3%B3ria.md "Glória") | 20 |
+| Inspiração Mundial | Alcance o nível base 99 em um Aprendiz adulto. | |  |  | | --- | --- | | [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") nv. 5 |  ![16483.png](https://static.divine-pride.net/images/items/item/16483.png) [(Evento) Cx. de Abrasivo (10)](http://www.divine-pride.net/database/item/16483/) | 30 |
+| Eu Prefiro Você! | Alcance o nível base 99 em um personagem da classe 1-1. | |  |  | | --- | --- | | [![Bênção](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/B%C3%AAn%C3%A7%C3%A3o.png)](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") | [Bênção](../Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") nv. 5 |  ![101948.png](https://static.divine-pride.net/images/items/item/101948.png) [(Conquista) Cx. Goma de Mascar (10)](http://www.divine-pride.net/database/item/101948/) | 30 |
+| Renasceu! | Mude de classe para Aprendiz T. no Hall das Valquírias. | [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") ![23575.png](https://static.divine-pride.net/images/items/item/23575.png) [Caixa de Aventura (1)](http://www.divine-pride.net/database/item/23575/) | 10 |
+| Com uma Nova Mentalidade (1) | Alcance o Nível de Base 170 como Classe 3-1. | ![6959.png](https://static.divine-pride.net/images/items/item/6959.png) 1 [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) | 50 |
+| Com uma Nova Mentalidade (2) | Alcance o Nível de Base 170 como Classe 3-2. | ![6959.png](https://static.divine-pride.net/images/items/item/6959.png) 1 [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) | 50 |
 
 #### Ações
 
@@ -124,7 +124,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Prontera | | |
 | --- | --- | --- |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Norte de Prontera (1) | (prt\_fild01 147,126) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Prontera.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Norte de Prontera (1) | (prt\_fild01 147,126) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Achievment_Prontera.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Prontera.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Norte de Prontera (2) | (prt\_fild02 142,220) |
 | Explorar Norte de Prontera (3) | (prt\_fild03 172,139) |
 | Explorar Oeste de Prontera (1) | (prt\_fild04 119,57) |
@@ -139,7 +139,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Túnel Submarino | (iz\_dun05 64,223) |
 | Geffen | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Leste de Geffen | (gef\_fild00 74,119) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Geffen.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Leste de Geffen | (gef\_fild00 74,119) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/Achievment_Geffen.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Geffen.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Sudeste de Geffen | (gef\_fild01 223,223) |
 | Explorar Noroeste de Geffen (1) | (gef\_fild05 202,292) |
 | Explorar Noroeste de Geffen (2) | (gef\_fild06 279,104) |
@@ -154,7 +154,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Glastheim (4) | (gl\_prison1 125,159) |
 | Deserto de Sograt | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Deserto de Sograt (1) | (moc\_fild11 188,220) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Morroc.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Deserto de Sograt (1) | (moc\_fild11 188,220) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Achievment_Morroc.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Morroc.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Deserto de Sograt (2) | (moc\_fild12 234,96) |
 | Explorar Deserto de Sograt (3) | (moc\_fild13 290,207) |
 | Explorar Deserto de Sograt (4) | (moc\_fild16 196,108) |
@@ -165,7 +165,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Pirâmide | (moc\_pryd06 102,121) |
 | Payon | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Sudoeste de Payon (1) | (pay\_fild01 167,243) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Payon.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Sudoeste de Payon (1) | (pay\_fild01 167,243) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/Achievment_Payon.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Payon.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Sudoeste de Payon (2) | (pay\_fild02 105,240) |
 | Explorar Sudoeste de Payon (3) | (pay\_fild03 144,97) |
 | Explorar Sudoeste de Payon (4) | (pay\_fild04 257,95) |
@@ -178,7 +178,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Ilha das Tartarugas | (tur\_dun04 134,130) |
 | Mjolnir | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Norte de Mjolnir (1) | (mjolnir\_01 47,60) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Mjolnir.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Norte de Mjolnir (1) | (mjolnir\_01 47,60) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/Achievment_Mjolnir.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Mjolnir.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Norte de Mjolnir (2) | (mjolnir\_02 77,49) |
 | Explorar Norte de Mjolnir (3) | (mjolnir\_03 190,200) |
 | Explorar Norte de Mjolnir (4) | (mjolnir\_04 201,146) |
@@ -196,7 +196,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Fábrica de Brinquedos | (xmas\_dun02 120,224) |
 | Comodo | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Comodo (1) | (cmd\_fild01 112,200) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Comodo.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Comodo (1) | (cmd\_fild01 112,200) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Achievment_Comodo.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Comodo.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Comodo (2) | (cmd\_fild02 86,94) |
 | Explorar Comodo (3) | (cmd\_fild03 144,190) |
 | Explorar Comodo (4) | (cmd\_fild04 151,191) |
@@ -211,7 +211,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Juno | | |
 | --- | --- | --- |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Fronteira (1) | (yuno\_fild01 284,138) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Juno.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Fronteira (1) | (yuno\_fild01 284,138) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Achievment_Juno.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Juno.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Cabana de Kiel | (yuno\_fild02 142,191) |
 | Explorar Planalto Elmes (1) | (yuno\_fild03 135,329) |
 | Explorar Planalto Elmes (2) | (yuno\_fild04 35,369) |
@@ -225,7 +225,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Caverna de Magma | (mag\_dun02 197,76) |
 | Hugel | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Entrada de Thanatos | (hu\_fild01 347,312) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Hugel.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Entrada de Thanatos | (hu\_fild01 347,312) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Achievment_Hugel.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Hugel.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Hugel (1) | (hu\_fild02 80,152) |
 | Explorar Hugel (2) | (hu\_fild04 322,313) |
 | Explorar Hugel (3) | (hu\_fild06 204,228) |
@@ -234,7 +234,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Torre de Thanatos | (tha\_t06 150,176) |
 | Einbroch | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Einbroch (1) | (ein\_fild01 266,277) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Einbroch.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Einbroch (1) | (ein\_fild01 266,277) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Achievment_Einbroch.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Einbroch.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Einbroch (2) | (ein\_fild03 99,332) |
 | Explorar Einbroch (3) | (ein\_fild04 334,305) |
 | Explorar Einbroch (4) | (ein\_fild05 337,233) |
@@ -245,7 +245,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Calabouço da Mina | (ein\_dun02 31,255) |
 | Lighthalzen | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Lighthalzen (1) | (lhz\_fild01 118,73) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Lighthalzen.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Lighthalzen (1) | (lhz\_fild01 118,73) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/14/Achievment_Lighthalzen.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Lighthalzen.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Lighthalzen (2) | (lhz\_fild02 239,243) |
 | Explorar Lighthalzen (3) | (lhz\_fild03 313,132) |
 | Explorar Regenschirm | (lhz\_dun03 240,221) |
@@ -255,7 +255,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Rachel | | |
 | --- | --- | --- |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Planície de Ida (1) | (ra\_fild03 224,275) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Rachel.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Planície de Ida (1) | (ra\_fild03 224,275) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Achievment_Rachel.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Rachel.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Planície de Ida (2) | (ra\_fild08 326,45) |
 | Explorar Planície de Ida (3) | (ra\_fild12 352,165) |
 | Explorar Pradaria de Audhumbla (1) | (ra\_fild01 138,166) |
@@ -265,7 +265,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Caverna de Gelo | (ice\_dun03 44,261) |
 | Veins | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Veins (1) | (ve\_fild01 180,234) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Veins.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Veins (1) | (ve\_fild01 180,234) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Achievment_Veins.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Veins.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Veins (2) | (ve\_fild02 65,194) |
 | Explorar Veins (3) | (ve\_fild03 197,242) |
 | Explorar Veins (4) | (ve\_fild04 288,279) |
@@ -278,7 +278,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Áflheim | | |
 | --- | --- | --- |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Eclage | (ecl\_fild01 234,217) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Alfheim.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Eclage | (ecl\_fild01 234,217) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/Achievment_Alfheim.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Alfheim.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Norte de Bifröst (1) | (bif\_fild02 155,322) |
 | Explorar Sul de Bifröst (1) | (bif\_fild01 147,64) |
 | Explorar Esplendor (1) | (spl\_fild01 335,315) |
@@ -287,7 +287,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 | Explorar Torre de Bifröst | (ecl\_tdun04 37,37) |
 | Jotunheim | | |
 | Objetivo | Coordenadas | Mapa |
-| Explorar Manuk (1) | (man\_fild01 41,172) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Jotunheim.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Manuk (1) | (man\_fild01 41,172) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Achievment_Jotunheim.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Jotunheim.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Manuk (2) | (man\_fild02 268,355) |
 | Explorar Manuk (3) | (man\_fild03 198,91) |
 | Explorar El Dicastes (1) | (dic\_fild01 227,82) |
@@ -298,7 +298,7 @@ Já os Títulos podem ser ativados através da Janela de Equipamentos ([ALT + Q]
 
 | Objetivo | Coordenadas | Mapa |
 | --- | --- | --- |
-| Explorar Amatsu | (ama\_fild01 187,337) | [Clique para ampliar](https://browiki.org/wiki/Arquivo%3AAchievment_Localiza.png "Clique para ampliar")  Clique para ampliar |
+| Explorar Amatsu | (ama\_fild01 187,337) | [![Clique para ampliar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8c/Achievment_Localiza.png)](https://browiki.org/wiki/Arquivo%3AAchievment_Localiza.png "Clique para ampliar")  Clique para ampliar |
 | Explorar Templo de Amatsu | (ama\_dun03 60,163) |
 | Explorar Kunlun | (gon\_fild01 171,332) |
 | Explorar Terra das Fadas | (gon\_dun03 167,232) |
@@ -324,10 +324,10 @@ A cada bichinho de estimação capturado, você poderá estar mais um passo adia
 
 | Objetivo | Descrição | Premiação | Pts. |
 | --- | --- | --- | --- |
-| Amante de Poring | Domesticar membros da Família Poring não é para qualquer um!  - Concluir 'Poring - Mascote' - Concluir 'Drops - Mascote' - Concluir 'Poporing - Mascote' - Concluir 'Bebê Poring - Mascote' | **[Título]** Poring [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
-| Entomologista | Domesticar alguns insetos não é para qualquer um!  - Concluir 'Chonchon - Mascote' - Concluir 'Chonchon de Aço - Mascote' - Concluir 'Mosca Caçadora - Mascote' - Concluir 'Rocker - Mascote' - Concluir 'Esporo - Mascote' - Concluir 'Esporo Venenoso - Mascote' | **[Título]** Entomologista [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
-| Protetor dos Animais | Domesticar animais para protegê-los do perigo não é para qualquer um!  - Concluir 'Lunático - Mascote' - Concluir 'Picky - Mascote' - Concluir 'Bebê Selvagem - Mascote' - Concluir 'Filhote de Lobo - Mascote' - Concluir 'Fumacento - Mascote' - Concluir 'Yoyo - Mascote' - Concluir 'PecoPeco - Mascote' - Concluir 'Petite Verde - Mascote' | **[Título]** Amante de Bicho [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
-| Clube das Meninas! | Formar um clubinho onde meninos não entram!  - Concluir 'Munak - Mascote' - Concluir 'Isis - Mascote' - Concluir 'Sohee - Mascote' - Concluir 'Jirtas - Mascote' - Concluir 'Alice - Mascote' - Concluir 'Succubus - Mascote' - Concluir 'Loli Ruri - Mascote' | **[Título]** Weeb [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
+| Amante de Poring | Domesticar membros da Família Poring não é para qualquer um!  - Concluir 'Poring - Mascote' - Concluir 'Drops - Mascote' - Concluir 'Poporing - Mascote' - Concluir 'Bebê Poring - Mascote' | **[Título]** Poring [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
+| Entomologista | Domesticar alguns insetos não é para qualquer um!  - Concluir 'Chonchon - Mascote' - Concluir 'Chonchon de Aço - Mascote' - Concluir 'Mosca Caçadora - Mascote' - Concluir 'Rocker - Mascote' - Concluir 'Esporo - Mascote' - Concluir 'Esporo Venenoso - Mascote' | **[Título]** Entomologista [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
+| Protetor dos Animais | Domesticar animais para protegê-los do perigo não é para qualquer um!  - Concluir 'Lunático - Mascote' - Concluir 'Picky - Mascote' - Concluir 'Bebê Selvagem - Mascote' - Concluir 'Filhote de Lobo - Mascote' - Concluir 'Fumacento - Mascote' - Concluir 'Yoyo - Mascote' - Concluir 'PecoPeco - Mascote' - Concluir 'Petite Verde - Mascote' | **[Título]** Amante de Bicho [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
+| Clube das Meninas! | Formar um clubinho onde meninos não entram!  - Concluir 'Munak - Mascote' - Concluir 'Isis - Mascote' - Concluir 'Sohee - Mascote' - Concluir 'Jirtas - Mascote' - Concluir 'Alice - Mascote' - Concluir 'Succubus - Mascote' - Concluir 'Loli Ruri - Mascote' | **[Título]** Weeb [![Aumentar Agilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d9/Aumentar_Agilidade.png)](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") [Aumentar Agilidade](../Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") | 50 |
 
 #### Treino
 

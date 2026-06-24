@@ -20,18 +20,18 @@ Ao sul encontra-se o Instituto Kiel Hyre, escola técnica exclusiva para órfão
 
 |  |  |  |
 | --- | --- | --- |
-| Juno map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (yuno 152,187) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (yuno 149,187) |
-| Map pocao | Loja de Ferramentas | (yuno\_in01 25,34) |
-| Map bigorna | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (yuno 120,138) |
-| Map bandeira | Castelo dos Sábios | (yuno\_in02 38,61) |
-| Map transp | Aeroporto | (yuno 14,262) |
-| Map azul | Museu de Monstros | (yuno 278,292) |
-| Map rosa | Biblioteca | (yuno 341,203) |
-| Map lantern | Sede do Governo | (yuno 157,319) |
-| Map barbea | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (yuno\_in02 38,61) |
+| ![Juno map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Juno_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (yuno 152,187) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (yuno 149,187) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (yuno\_in01 25,34) |
+| ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png) | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (yuno 120,138) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Castelo dos Sábios | (yuno\_in02 38,61) |
+| ![Map transp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Map_transp.png) | Aeroporto | (yuno 14,262) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Museu de Monstros | (yuno 278,292) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Biblioteca | (yuno 341,203) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Sede do Governo | (yuno 157,319) |
+| ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (yuno\_in02 38,61) |
 
 |  |  |  |
 | --- | --- | --- |

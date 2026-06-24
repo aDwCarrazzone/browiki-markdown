@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Superestimular Superestimular** | |
-| Superestimular | |
+| **![Superestimular](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Superestimular.png) Superestimular** | |
+| ![Superestimular](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Superestimular.gif) | |
 | **Overed Boost** | |
 | **ID** | MH\_OVERED\_BOOST (8023) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Recarga** | 60 segundos |
 | **Duração** | [15 + (Nv. da habilidade × 15)] segundos |
 | **Alvo** | Mestre e Homunculus |
-| **Ícone** | I Esquiva Especial |
+| **Ícone** | ![I Esquiva Especial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/I_Esquiva_Especial.png) |
 | **Pré-requisitos** | |
 | [Eira](../Sem%20categoria/Eira.md "Eira") nível 114 | |
 

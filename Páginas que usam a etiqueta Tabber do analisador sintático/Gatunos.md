@@ -4,17 +4,17 @@
 
 |  |  |
 | --- | --- |
-| Gatunospartyicn Gatunos | |
-| Arte Gatunos | |
+| ![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png) Gatunos | |
+| ![Arte Gatunos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Arte_Gatunos.png) | |
 | Sprite | |
-| [Original](#tabber-Original)[Montaria](#tabber-Montaria) Gatunossprite  Gatunossprite mount | |
+| [Original](#tabber-Original)[Montaria](#tabber-Montaria) ![Gatunossprite](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Gatunossprite.png)  ![Gatunossprite mount](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Gatunossprite_mount.png) | |
 |  | |
 | Classe | 1-1 |
 | Anterior | [Aprendizes](Aprendizes.md "Aprendizes") |
 | Guia | [Mudança de classe](../Quest/Mudan%C3%A7a%20de%20Classe-%20Gatunos.md "Mudança de Classe: Gatunos") |
 | Quest | [Novas habilidades](../Quest/Novas%20habilidades-%20Gatunos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Gatunos e evoluções") |
 | Estilos | [Ver Paleta de cores](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md#Gatunos_e_evolu.C3.A7.C3.B5es "Estilista") |
-| Armas | Adagas Espadas Arcos |
+| Armas | ![Adagas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/W_Adaga.png) ![Espadas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1b/W_Espada.png) ![Arcos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/W_Arco.png) |
 | Bônus de Classe | |
 | |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | **[FOR](../Sem%20categoria/FOR.md "FOR")** | **[AGI](../Sem%20categoria/AGI.md "AGI")** | **[VIT](../Sem%20categoria/VIT.md "VIT")** | **[INT](../Sem%20categoria/INT.md "INT")** | **[DES](../Sem%20categoria/DES.md "DES")** | **[SOR](../Sem%20categoria/SOR.md "SOR")** | | +4 | +4 | +2 | +1 | +4 | +3 | | |
 
@@ -43,12 +43,12 @@ Para começar sua jornada em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%
 
 |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | |  |  | | --- | --- | | [Envenenar](../Ofensiva/Envenenar.md "Envenenar") | [Envenenar](../Ofensiva/Envenenar.md "Envenenar") | |  |  |  | |  |  | | --- | --- | | [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") | [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") | |
-|  | |  |  | | --- | --- | | [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") | [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") | |  |  |  | |  |  | | --- | --- | | [Recuar](../Ativa/Recuar.md "Recuar") | [Recuar](../Ativa/Recuar.md "Recuar") | |
-|  | |  |  | | --- | --- | | [Furto](../Ativa/Furto.md "Furto") | [Furto](../Ativa/Furto.md "Furto") | |  |  |  | |  |  | | --- | --- | | [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") | [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") | |
-|  | |  |  | | --- | --- | | [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") | [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") | |  |  |  | |  |  | | --- | --- | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") | |
-|  | |  |  | | --- | --- | | [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") | [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") | |
-|  | |  |  | | --- | --- | | [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") | [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") | |
+|  | |  |  | | --- | --- | | [![Envenenar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Envenenar.png)](../Ofensiva/Envenenar.md "Envenenar") | [Envenenar](../Ofensiva/Envenenar.md "Envenenar") | |  |  |  | |  |  | | --- | --- | | [![Chutar Areia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Chutar_Areia.png)](../Ofensiva/Chutar%20Areia.md "Chutar Areia") | [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") | |
+|  | |  |  | | --- | --- | | [![Desintoxicar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2e/Desintoxicar.png)](../Suporte/Desintoxicar.md "Desintoxicar") | [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") | |  |  |  | |  |  | | --- | --- | | [![Recuar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Recuar.png)](../Ativa/Recuar.md "Recuar") | [Recuar](../Ativa/Recuar.md "Recuar") | |
+|  | |  |  | | --- | --- | | [![Furto](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Furto.png)](../Ativa/Furto.md "Furto") | [Furto](../Ativa/Furto.md "Furto") | |  |  |  | |  |  | | --- | --- | | [![Procurar Pedras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Procurar_Pedras.png)](../Ativa/Procurar%20Pedras.md "Procurar Pedras") | [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") | |
+|  | |  |  | | --- | --- | | [![Esconderijo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Esconderijo.png)](../Ativa/Esconderijo.md "Esconderijo") | [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") | |  |  |  | |  |  | | --- | --- | | [![Arremessar Pedra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Arremessar_Pedra.png)](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") | |
+|  | |  |  | | --- | --- | | [![Ataque Duplo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/12/Ataque_Duplo.png)](../Passiva/Ataque%20Duplo.md "Ataque Duplo") | [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") | |
+|  | |  |  | | --- | --- | | [![Perícia em Esquiva](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/57/Per%C3%ADcia_em_Esquiva.png)](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") | [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") | |
 
 ### Árvore de habilidades
 
@@ -62,11 +62,11 @@ Abaixo está uma tabela das penalidades de [velocidade de ataque](../Sem%20categ
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | 2103.png [Escudo](http://www.divine-pride.net/database/item/2103/) | -6 | | 13035.png [Adaga](http://www.divine-pride.net/database/item/13035/) | -8 | | 1101.png [Espada](http://www.divine-pride.net/database/item/1101/) | -10 | | 1303.png [Machado](http://www.divine-pride.net/database/item/1303/) | -20 | | 1703.png [Arco](http://www.divine-pride.net/database/item/1703/) | -13 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | 645.png | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | 656.png | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | 657.png | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
+| | [Equipamento](../Sem%20categoria/Equipamento.md "Equipamento") | [Vel. de Atq.](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | ![2103.png](https://static.divine-pride.net/images/items/item/2103.png) [Escudo](http://www.divine-pride.net/database/item/2103/) | -6 | | ![13035.png](https://static.divine-pride.net/images/items/item/13035.png) [Adaga](http://www.divine-pride.net/database/item/13035/) | -8 | | ![1101.png](https://static.divine-pride.net/images/items/item/1101.png) [Espada](http://www.divine-pride.net/database/item/1101/) | -10 | | ![1303.png](https://static.divine-pride.net/images/items/item/1303.png) [Machado](http://www.divine-pride.net/database/item/1303/) | -20 | | ![1703.png](https://static.divine-pride.net/images/items/item/1703.png) [Arco](http://www.divine-pride.net/database/item/1703/) | -13 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | ![645.png](https://static.divine-pride.net/images/items/item/645.png) | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | ![656.png](https://static.divine-pride.net/images/items/item/656.png) | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | ![657.png](https://static.divine-pride.net/images/items/item/657.png) | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
 
 | *A Luz das Trevas* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Gatunospartyicn](Gatunos.md "Gatunos") | Gatunos | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](../Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png)](Gatunos.md "Gatunos") | Gatunos | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](../Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
 | Evoluções | [Mercenários](Mercen%C3%A1rios.md "Mercenários") · [Arruaceiros](Arruaceiros.md "Arruaceiros") |
 
 | *[Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | |

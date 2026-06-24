@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Espalhar Dano Espalhar Dano** | |
-| Espalhar Dano | |
+| **![Espalhar Dano](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Espalhar_Dano.png) Espalhar Dano** | |
+| ![Espalhar Dano](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Espalhar_Dano.gif) | |
 | **Splash Damage** | |
 | **ID** | - (-) |
 | **Tipo** | Passiva |

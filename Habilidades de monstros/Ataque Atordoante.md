@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ataque Atordoante** | |
-| Ataque Atordoante | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ataque Atordoante** | |
+| ![Ataque Atordoante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Ataque_Atordoante.gif) | |
 | **ID:** | NPC\_STUNATTACK (179) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

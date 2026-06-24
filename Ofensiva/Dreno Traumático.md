@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Dreno Traumático Dreno Traumático** | |
-| Dreno Traumático | |
+| **![Dreno Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Dreno_Traum%C3%A1tico.png) Dreno Traumático** | |
+| ![Dreno Traumático](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/Dreno_Traum%C3%A1tico.gif) | |
 | **Continual Break Combo** | |
 | **ID** | MH\_CBC (8037) |
 | **Tipo** | Ofensiva |

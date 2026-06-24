@@ -2,19 +2,19 @@
 
 # A Rebelião
 
-| EP ico A Rebelião | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) A Rebelião | |
 | --- | --- |
 | Sobreviventes de uma antiga revolta popular contra a maior empresa da República de Schwartzwald ainda possuem o desejo de iniciar uma revolução! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 12112.png 1 [Sograt Tropical](http://www.divine-pride.net/database/item/12112/)  12113.png 1 [Escarlate Praiano](http://www.divine-pride.net/database/item/12113/) |
-| **Equipado** | 2243.png 1 [Quatro Olhos](http://www.divine-pride.net/database/item/2243/)  2241.png 1 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12112.png](https://static.divine-pride.net/images/items/item/12112.png) 1 [Sograt Tropical](http://www.divine-pride.net/database/item/12112/)  ![12113.png](https://static.divine-pride.net/images/items/item/12113.png) 1 [Escarlate Praiano](http://www.divine-pride.net/database/item/12113/) |
+| **Equipado** | ![2243.png](https://static.divine-pride.net/images/items/item/2243.png) 1 [Quatro Olhos](http://www.divine-pride.net/database/item/2243/)  ![2241.png](https://static.divine-pride.net/images/items/item/2241.png) 1 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 5.000 |
 | **Quests anteriores** | [O Presidente](O%20Presidente.md "O Presidente") [A Empresa](A%20Empresa.md "A Empresa") [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 
 1. Ajude Shede (hugel 70,137)
 
@@ -73,8 +73,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | SetaVermelha | A Rebelião | | |
-| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | SetaVermelha | [Propriedade Maldita](Propriedade%20Maldita.md "Propriedade Maldita") | SetaVermelha | [O Presidente](O%20Presidente.md "O Presidente") | SetaVermelha |
-| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | SetaVermelha | [A Empresa](A%20Empresa.md "A Empresa") | SetaVermelha |
-| SetaVermelha | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | SetaVermelha | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | A Rebelião | | |
+| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Propriedade Maldita](Propriedade%20Maldita.md "Propriedade Maldita") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Empresa](A%20Empresa.md "A Empresa") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
 | [Contador de Histórias](../Quest/Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |

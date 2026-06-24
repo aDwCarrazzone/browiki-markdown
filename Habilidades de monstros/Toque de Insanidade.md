@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Toque de Insanidade** | |
-| Toque de Insanidade | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Toque de Insanidade** | |
+| ![Toque de Insanidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Toque_de_Insanidade.gif) | |
 | **ID:** | NPC\_WIDECONFUSE (667) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -28,9 +28,9 @@ A duração do [Caos](../Sem%20categoria/Caos.md "Caos") é de 18 segundos.
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Toque de Insanidade](http://www.divine-pride.net/database/skill/667)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Armas relacionadas:
-  - ![1919.png](http://static.divine-pride.net/images/items/item/1919.png) [Contra-Baixo](http://www.divine-pride.net/database/item/1919/)
+  - ![1919.png](https://static.divine-pride.net/images/items/item/1919.png) [Contra-Baixo](http://www.divine-pride.net/database/item/1919/)
 - Equipamentos relacionados:
-  - ![2991.png](http://static.divine-pride.net/images/items/item/2991.png) [Pingente do Caos](http://www.divine-pride.net/database/item/2991/)
+  - ![2991.png](https://static.divine-pride.net/images/items/item/2991.png) [Pingente do Caos](http://www.divine-pride.net/database/item/2991/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

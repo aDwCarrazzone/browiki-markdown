@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Arqueiros
 
-| JQ ico Mudança de Classe: Arqueiros | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Arqueiros | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 10 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1742.png 1 [Arco Composto de Iniciante](http://www.divine-pride.net/database/item/1742/) 12004.png 1 [Aljava Comum](http://www.divine-pride.net/database/item/12004/)  12008.png 1 [Aljava de Fogo](http://www.divine-pride.net/database/item/12008/)  12009.png 1 [Aljava de Prata](http://www.divine-pride.net/database/item/12009/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1742.png](https://static.divine-pride.net/images/items/item/1742.png) 1 [Arco Composto de Iniciante](http://www.divine-pride.net/database/item/1742/) ![12004.png](https://static.divine-pride.net/images/items/item/12004.png) 1 [Aljava Comum](http://www.divine-pride.net/database/item/12004/)  ![12008.png](https://static.divine-pride.net/images/items/item/12008.png) 1 [Aljava de Fogo](http://www.divine-pride.net/database/item/12008/)  ![12009.png](https://static.divine-pride.net/images/items/item/12009.png) 1 [Aljava de Prata](http://www.divine-pride.net/database/item/12009/) |
 | **Recompensa** | Muda a classe para [Arqueiro](../Sem%20categoria/Arqueiro.md "Arqueiro") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Malberon (iz\_ac02 65,109)
@@ -26,10 +26,10 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![1742.png](http://static.divine-pride.net/images/items/item/1742.png) 1 [Arco Composto de Iniciante](http://www.divine-pride.net/database/item/1742/)
-     - ![12004.png](http://static.divine-pride.net/images/items/item/12004.png) 1 [Aljava Comum](http://www.divine-pride.net/database/item/12004/)
-     - ![12008.png](http://static.divine-pride.net/images/items/item/12008.png) 1 [Aljava de Fogo](http://www.divine-pride.net/database/item/12008/)
-     - ![12009.png](http://static.divine-pride.net/images/items/item/12009.png) 1 [Aljava de Prata](http://www.divine-pride.net/database/item/12009/)
+     - ![1742.png](https://static.divine-pride.net/images/items/item/1742.png) 1 [Arco Composto de Iniciante](http://www.divine-pride.net/database/item/1742/)
+     - ![12004.png](https://static.divine-pride.net/images/items/item/12004.png) 1 [Aljava Comum](http://www.divine-pride.net/database/item/12004/)
+     - ![12008.png](https://static.divine-pride.net/images/items/item/12008.png) 1 [Aljava de Fogo](http://www.divine-pride.net/database/item/12008/)
+     - ![12009.png](https://static.divine-pride.net/images/items/item/12009.png) 1 [Aljava de Prata](http://www.divine-pride.net/database/item/12009/)
      - Aprende [![Fabricar Flechas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Fabricar_Flechas.png)](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas")
      - Aprende [![Disparo Violento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/Disparo_Violento.png)](../Ofensiva/Disparo%20Violento.md "Disparo Violento") [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
@@ -38,10 +38,10 @@
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 4. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -94,5 +94,5 @@
 
 | *O Tiro Certeiro da Natureza* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Arqueirospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") | [Arqueiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") | | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") · [Concentrar](../Suporte/Concentrar.md "Concentrar") · [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") · [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") · [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") · [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") · [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") |
+| |  |  | | --- | --- | | [![Arqueirospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Arqueirospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") | [Arqueiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") | | [Chuva de Flechas](../Ofensiva/Chuva%20de%20Flechas.md "Chuva de Flechas") · [Concentrar](../Suporte/Concentrar.md "Concentrar") · [Disparo Violento](../Ofensiva/Disparo%20Violento.md "Disparo Violento") · [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas") · [Olhos de Águia](../Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") · [Olhos de Coruja](../Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja") · [Rajada de Flechas](../Ofensiva/Rajada%20de%20Flechas.md "Rajada de Flechas") |
 | Evoluções | [Caçadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ca%C3%A7adores.md "Caçadores") · [Bardos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Bardos.md "Bardos") · [Odaliscas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Odaliscas.md "Odaliscas") |

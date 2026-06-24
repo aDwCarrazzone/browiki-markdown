@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Bênção Caótica Bênção Caótica** | |
-| Bênção Caótica | |
+| **![Bênção Caótica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/B%C3%AAn%C3%A7%C3%A3o_Ca%C3%B3tica.png) Bênção Caótica** | |
+| ![Bênção Caótica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/B%C3%AAn%C3%A7%C3%A3o_Ca%C3%B3tica.gif) | |
 | **Chaotic Blessings / Chaotic Venediction** | |
 | **ID** | HVAN\_CHAOTIC (8014) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **Recarga** | 3 segundos |
 | **Alvo** | Aleatório |
 | **Pré-requisitos** | |
-| [Capricho](../Ofensiva/Capricho.md "Capricho") [Capricho](../Ofensiva/Capricho.md "Capricho") Nv. 3 | |
+| [![Capricho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Capricho.png)](../Ofensiva/Capricho.md "Capricho") [Capricho](../Ofensiva/Capricho.md "Capricho") Nv. 3 | |
 
 Conjura [Curar](Curar.md "Curar") de nível aleatório em um alvo aleatório, podendo ser o próprio mestre, o [homunculus](../Homunculus/Homunculus.md "Homunculus") ou o oponente.
 

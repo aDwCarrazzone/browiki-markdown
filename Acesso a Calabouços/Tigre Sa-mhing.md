@@ -2,15 +2,15 @@
 
 # Tigre Sa-mhing
 
-| NQ ico Tigre Sa-mhing | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Tigre Sa-mhing | |
 | --- | --- |
 | Uma lenda conhecida pelos nativos parece ter partes da sua história espalhadas nas paredes de um esquecido santuário na floresta. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7190.png 1 [Casco de Inseto](http://www.divine-pride.net/database/item/7190/)   523.png 3 [Água Benta](http://www.divine-pride.net/database/item/523/)   1059.png 3 [Tecido](http://www.divine-pride.net/database/item/1059/)   1022.png 3 [Nove Caudas](http://www.divine-pride.net/database/item/1022/)   610.png 1 [Folha de Yggdrasil](http://www.divine-pride.net/database/item/610/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7190.png](https://static.divine-pride.net/images/items/item/7190.png) 1 [Casco de Inseto](http://www.divine-pride.net/database/item/7190/)   ![523.png](https://static.divine-pride.net/images/items/item/523.png) 3 [Água Benta](http://www.divine-pride.net/database/item/523/)   ![1059.png](https://static.divine-pride.net/images/items/item/1059.png) 3 [Tecido](http://www.divine-pride.net/database/item/1059/)   ![1022.png](https://static.divine-pride.net/images/items/item/1022.png) 3 [Nove Caudas](http://www.divine-pride.net/database/item/1022/)   ![610.png](https://static.divine-pride.net/images/items/item/610.png) 1 [Folha de Yggdrasil](http://www.divine-pride.net/database/item/610/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 7285.png 1 [Linha Sagrada](http://www.divine-pride.net/database/item/7285/)   7287.png 1 [Linha Abençoada](http://www.divine-pride.net/database/item/7287/)   603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7285.png](https://static.divine-pride.net/images/items/item/7285.png) 1 [Linha Sagrada](http://www.divine-pride.net/database/item/7285/)   ![7287.png](https://static.divine-pride.net/images/items/item/7287.png) 1 [Linha Abençoada](http://www.divine-pride.net/database/item/7287/)   ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 | **Recompensa** | Acesso ao [Santuário Ancestral](http://www.divine-pride.net/database/map/ayo_dun01/) |
 
 1. Acredite nas histórias de Dusit (ayothaya 83,132)

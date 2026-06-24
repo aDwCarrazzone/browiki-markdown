@@ -4,7 +4,7 @@
 
 ## A História de Drake
 
-| NQ ico Missão Regional de Alberta | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Alberta | |
 | --- | --- |
 | Um antigo navio naufragado ainda desperta a curiosidade dos trabalhadores do porto de [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta"). Por mais que existam Corporações querendo lucrar com a tragédia, é seu dever zelar pela memória do falecido Capitão... certo?? Não vá cair na tentação...  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
@@ -56,7 +56,7 @@
 
 ## Brigada de Segurança
 
-| NQ ico Missão Regional de Alberta | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Alberta | |
 | --- | --- |
 | Uma expedição enviada para explorar a Ilha da Tartaruga acabou perdendo a comunicação com os membros em terra. Procure pelos sobreviventes e mantenha contato.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |

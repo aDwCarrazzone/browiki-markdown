@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Espadachins
 
-| JQ ico Mudança de Classe: Espadachins | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Espadachins | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 10 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 13415.png 1 [Alfanje de Iniciante](http://www.divine-pride.net/database/item/13415/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![13415.png](https://static.divine-pride.net/images/items/item/13415.png) 1 [Alfanje de Iniciante](http://www.divine-pride.net/database/item/13415/) |
 | **Recompensa** | Muda a classe para [Espadachim](../Sem%20categoria/Espadachim.md "Espadachim") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Sam (iz\_ac02 62,51)
@@ -26,7 +26,7 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![13415.png](http://static.divine-pride.net/images/items/item/13415.png) 1 [Alfanje de Iniciante](http://www.divine-pride.net/database/item/13415/)
+     - ![13415.png](https://static.divine-pride.net/images/items/item/13415.png) 1 [Alfanje de Iniciante](http://www.divine-pride.net/database/item/13415/)
      - Aprende [![Ataque Fatal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Ataque_Fatal.png)](../Passiva/Ataque%20Fatal.md "Ataque Fatal") [Ataque Fatal](../Passiva/Ataque%20Fatal.md "Ataque Fatal")
      - Aprende [![Instinto de Sobrevivência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Instinto_de_Sobreviv%C3%AAncia.png)](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência") [Instinto de Sobrevivência](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência")
      - Aprende [![Recuperar HP em Movimento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/70/Recuperar_HP_em_Movimento.png)](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento") [Recuperar HP em Movimento](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento")
@@ -36,10 +36,10 @@
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 4. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -75,5 +75,5 @@
 
 | *A Justiça em Ação* | | |
 | --- | --- | --- |
-| |  |  | | --- | --- | | [Espadachinspartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | [Espadachins](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | | [Aumentar Recuperação de HP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20HP.md "Aumentar Recuperação de HP") · [Ataque Fatal](../Passiva/Ataque%20Fatal.md "Ataque Fatal") · [Golpe Fulminante](../Ofensiva/Golpe%20Fulminante.md "Golpe Fulminante") · [Impacto Explosivo](../Ofensiva/Impacto%20Explosivo.md "Impacto Explosivo") · [Instinto de Sobrevivência](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência") · [Perícia com Espada de Duas Mãos](../Passiva/Per%C3%ADcia%20com%20Espada%20de%20Duas%20M%C3%A3os.md "Perícia com Espada de Duas Mãos") · [Perícia com Espada](../Passiva/Per%C3%ADcia%20com%20Espada.md "Perícia com Espada") · [Provocar](../Ativa/Provocar.md "Provocar") · [Recuperar HP em Movimento](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento") · [Vigor](../Suporte/Vigor.md "Vigor") |
+| |  |  | | --- | --- | | [![Espadachinspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Espadachinspartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | [Espadachins](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | | [Aumentar Recuperação de HP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20HP.md "Aumentar Recuperação de HP") · [Ataque Fatal](../Passiva/Ataque%20Fatal.md "Ataque Fatal") · [Golpe Fulminante](../Ofensiva/Golpe%20Fulminante.md "Golpe Fulminante") · [Impacto Explosivo](../Ofensiva/Impacto%20Explosivo.md "Impacto Explosivo") · [Instinto de Sobrevivência](../Ativa/Instinto%20de%20Sobreviv%C3%AAncia.md "Instinto de Sobrevivência") · [Perícia com Espada de Duas Mãos](../Passiva/Per%C3%ADcia%20com%20Espada%20de%20Duas%20M%C3%A3os.md "Perícia com Espada de Duas Mãos") · [Perícia com Espada](../Passiva/Per%C3%ADcia%20com%20Espada.md "Perícia com Espada") · [Provocar](../Ativa/Provocar.md "Provocar") · [Recuperar HP em Movimento](../Passiva/Recuperar%20HP%20em%20Movimento.md "Recuperar HP em Movimento") · [Vigor](../Suporte/Vigor.md "Vigor") |
 | Evoluções | [Cavaleiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Cavaleiros.md "Cavaleiros") · [Templários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Templ%C3%A1rios.md "Templários") |

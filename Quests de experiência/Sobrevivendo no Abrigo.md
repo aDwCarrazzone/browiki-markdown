@@ -2,7 +2,7 @@
 
 # Sobrevivendo no Abrigo
 
-| DQ ico Sobrevivendo no Abrigo | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Sobrevivendo no Abrigo | |
 | --- | --- |
 | Ao viajar para o passado, você sentirá na pele o que os sobreviventes passaram dentro do abrigo subterrâneo. | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Repetível |
 | **[Itens](../Itens/Itens.md "Itens")** | 1 Pedaço de Registro |
 | **Quests anteriores** | [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Variável |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | Variável |
@@ -112,6 +112,6 @@ Mapa-Chave do Abrigo
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |
-| [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") | SetaVermelha | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | SetaVermelha | [Sala Final](Sala%20Final.md "Sala Final") |
+| [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sala Final](Sala%20Final.md "Sala Final") |
 | [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central") | | |
-| [Registro de Memórias](Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | SetaVermelha | Sobrevivendo no Abrigo |
+| [Registro de Memórias](Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Sobrevivendo no Abrigo |

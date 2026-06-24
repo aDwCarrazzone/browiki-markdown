@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Têmpera Têmpera** | |
+| **![Têmpera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/T%C3%AAmpera.png) Têmpera** | |
 | [Arquivo:Têmpera.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=T%C3%AAmpera.gif "Arquivo:Têmpera.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |
@@ -16,7 +16,7 @@
 | **Alcance** | 9 células |
 | **Área** | 3x3 ~ 7x7 células |
 | **Propriedade** | [Sagrado](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
-| **Ícone** | I Têmpera |
+| **Ícone** | ![I Têmpera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/I_T%C3%AAmpera.png) |
 | **Pré-requisitos** | |
 | [Bayeri](../Sem%20categoria/Bayeri.md "Bayeri") nível 138 | |
 

@@ -24,14 +24,14 @@ Com a ajuda de magia, eles conseguiram criar um aparato teleportador para entrar
 
 |  |  |  |
 | --- | --- | --- |
-| Espaço Dimensional map novo | | |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (dali 112,95) |
-| Map pocao | Loja de Ferramentas | (dali 109,94) |
-| Map lantern | [Espaço Dimensional 2](http://www.divine-pride.net/database/map/dali02/) | (dali 122,48) |
-| Map dun01 | [Fissura de Morroc](http://www.divine-pride.net/database/map/moc_fild22b/) | (dali 122,48) |
-| Map dun02 | [Acampamento](http://www.divine-pride.net/database/map/mid_camp/) | (dali 149,82) |
-| Map dun03 | [Sul de Bifröst](http://www.divine-pride.net/database/map/bif_fild01/) | (dali 39,87) |
-| Map dun04 | [Monte Kamidal](http://www.divine-pride.net/database/map/dic_fild02/) | (dali 64,129) |
+| ![Espaço Dimensional map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Espa%C3%A7o_Dimensional_map_novo.png) | | |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (dali 112,95) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (dali 109,94) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Espaço Dimensional 2](http://www.divine-pride.net/database/map/dali02/) | (dali 122,48) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Fissura de Morroc](http://www.divine-pride.net/database/map/moc_fild22b/) | (dali 122,48) |
+| ![Map dun02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Map_dun02.png) | [Acampamento](http://www.divine-pride.net/database/map/mid_camp/) | (dali 149,82) |
+| ![Map dun03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Map_dun03.png) | [Sul de Bifröst](http://www.divine-pride.net/database/map/bif_fild01/) | (dali 39,87) |
+| ![Map dun04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Map_dun04.png) | [Monte Kamidal](http://www.divine-pride.net/database/map/dic_fild02/) | (dali 64,129) |
 
 |  |  |  |
 | --- | --- | --- |

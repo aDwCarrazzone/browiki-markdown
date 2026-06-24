@@ -2,7 +2,7 @@
 
 # Coliseu de Monstros
 
-| NQ ico Coliseu de Monstros | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Coliseu de Monstros | |
 | --- | --- |
 | Enfrente o monstro que desejar ou veja outros heróis desafiando inimigos no famoso Coliseu! | |
 | Requisitos mínimos | |

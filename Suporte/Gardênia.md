@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Gardênia Gardênia** | |
-| Gardênia | |
+| **![Gardênia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Gard%C3%AAnia.png) Gardênia** | |
+| ![Gardênia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Gard%C3%AAnia.gif) | |
 | **Snow Flip** | |
 | **ID** | ECL\_SNOWFLIP (3031) |
 | **Tipo** | Suporte |

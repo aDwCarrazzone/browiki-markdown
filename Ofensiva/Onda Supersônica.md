@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Onda Supersônica Onda Supersônica** | |
-| Onda Supersônica | |
+| **![Onda Supersônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Onda_Supers%C3%B4nica.png) Onda Supersônica** | |
+| ![Onda Supersônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Onda_Supers%C3%B4nica.gif) | |
 | **Xeno Slasher** | |
 | **ID** | MH\_XENO\_SLASHER (8025) |
 | **Tipo** | Ofensiva |

@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Veloz e Furiosa Veloz e Furiosa** | |
+| **![Veloz e Furiosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Veloz_e_Furiosa.png) Veloz e Furiosa** | |
 | [Arquivo:Veloz e Furiosa.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Veloz_e_Furiosa.gif "Arquivo:Veloz e Furiosa.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

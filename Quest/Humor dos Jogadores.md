@@ -2,14 +2,14 @@
 
 # Humor dos Jogadores
 
-| NQ ico Humor dos Jogadores | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Humor dos Jogadores | |
 | --- | --- |
 | Após uma sequência de derrotas, será difícil encontrar jogadores motivados a continuar participando dos Jogos Felinos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 100 [Moedas de Classe E](http://www.divine-pride.net/database/item/6422/)  2872.png 1 [Certificado de Honra G](http://www.divine-pride.net/database/item/2872/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 100 [Moedas de Classe E](http://www.divine-pride.net/database/item/6422/)  ![2872.png](https://static.divine-pride.net/images/items/item/2872.png) 1 [Certificado de Honra G](http://www.divine-pride.net/database/item/2872/) |
 | **Recompensa** | Acesso aos [Jogos Felinos](Jogos%20Felinos.md "Jogos Felinos") |
 
 1. Fale com o Diretor dos Jogos (mal\_in01 31,210)

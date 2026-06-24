@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Anti Magia** | |
-| Anti Magia | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Anti Magia** | |
+| ![Anti Magia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Anti_Magia.gif) | |
 | **ID:** | NPC\_ANTIMAGIC (676) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |
@@ -33,7 +33,7 @@ Reduz a resistência a ataques físicos recebidos.
 
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Anti Magia](http://www.divine-pride.net/database/skill/676)*
 - Equipamentos relacionados:
-  - ![2532.png](http://static.divine-pride.net/images/items/item/2532.png) [Manto de Mithril](http://www.divine-pride.net/database/item/2532/)
+  - ![2532.png](https://static.divine-pride.net/images/items/item/2532.png) [Manto de Mithril](http://www.divine-pride.net/database/item/2532/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

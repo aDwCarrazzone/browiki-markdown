@@ -2,18 +2,18 @@
 
 # Rivalidade na Aliança
 
-| DQ ico Rivalidade na Aliança | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Rivalidade na Aliança | |
 | --- | --- |
 | Trabalhar com pessoas de diferentes continentes podem trazer problemas até na hora do lanche! Tente estabelecer a paz entre rivais e evitar uma briga desnecessária. É obrigatório realizar a missão "Outra Dimensão". | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 7262.png 1 [Leque Fantasma](http://www.divine-pride.net/database/item/7262/)  7521.png 1 [Pedra do Fogo](http://www.divine-pride.net/database/item/7521/)  7031.png 1 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/)  1024.png 1 [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7262.png](https://static.divine-pride.net/images/items/item/7262.png) 1 [Leque Fantasma](http://www.divine-pride.net/database/item/7262/)  ![7521.png](https://static.divine-pride.net/images/items/item/7521.png) 1 [Pedra do Fogo](http://www.divine-pride.net/database/item/7521/)  ![7031.png](https://static.divine-pride.net/images/items/item/7031.png) 1 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/)  ![1024.png](https://static.divine-pride.net/images/items/item/1024.png) 1 [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) |
 | **Quests anteriores** | [Outra Dimensão](../Quests%20de%20experi%C3%AAncia/Outra%20Dimens%C3%A3o.md "Outra Dimensão") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 80.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 3.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12319.png 1 [Bolo de Morango de Rune-Midgard](http://www.divine-pride.net/database/item/12319/)  12320.png 1 [Jubileu de Abacaxi de Schwartzwald](http://www.divine-pride.net/database/item/12320/)  12321.png 1 [Sanduíche do Deserto de Arunafeltz](http://www.divine-pride.net/database/item/12321/)  12110.png 1 [Kit de Primeiros Socorros](http://www.divine-pride.net/database/item/12110/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12319.png](https://static.divine-pride.net/images/items/item/12319.png) 1 [Bolo de Morango de Rune-Midgard](http://www.divine-pride.net/database/item/12319/)  ![12320.png](https://static.divine-pride.net/images/items/item/12320.png) 1 [Jubileu de Abacaxi de Schwartzwald](http://www.divine-pride.net/database/item/12320/)  ![12321.png](https://static.divine-pride.net/images/items/item/12321.png) 1 [Sanduíche do Deserto de Arunafeltz](http://www.divine-pride.net/database/item/12321/)  ![12110.png](https://static.divine-pride.net/images/items/item/12110.png) 1 [Kit de Primeiros Socorros](http://www.divine-pride.net/database/item/12110/) |
 | **Recompensa** | Cria comidas |
 
 1. Aproxime-se do Oficial de Pesquisa (mid\_campin 376,120)
@@ -49,6 +49,6 @@
 
 :   :   | [NPC](../Sem%20categoria/NPC.md "NPC") | Item | Comida |
         | --- | --- | --- |
-        | Hue (mid\_camp 247,255) | 6020.png 2 [Pêlo](http://www.divine-pride.net/database/item/6020/) | 12320.png 1 [Jubileu de Abacaxi de Schwartzwald](http://www.divine-pride.net/database/item/12320/) |
-        | Hansenne (mid\_camp 222,218) | 6021.png 2 [Chapéu Pontudo](http://www.divine-pride.net/database/item/6021/) | 12321.png 1 [Sanduíche do Deserto de Arunafeltz](http://www.divine-pride.net/database/item/12321/) |
-        | Ryosen (mid\_camp 165,245) | 6023.png 2 [Chifre Místico](http://www.divine-pride.net/database/item/6023/) | 12319.png 1 [Bolo de Morango de Rune-Midgard](http://www.divine-pride.net/database/item/12319/) |
+        | Hue (mid\_camp 247,255) | ![6020.png](https://static.divine-pride.net/images/items/item/6020.png) 2 [Pêlo](http://www.divine-pride.net/database/item/6020/) | ![12320.png](https://static.divine-pride.net/images/items/item/12320.png) 1 [Jubileu de Abacaxi de Schwartzwald](http://www.divine-pride.net/database/item/12320/) |
+        | Hansenne (mid\_camp 222,218) | ![6021.png](https://static.divine-pride.net/images/items/item/6021.png) 2 [Chapéu Pontudo](http://www.divine-pride.net/database/item/6021/) | ![12321.png](https://static.divine-pride.net/images/items/item/12321.png) 1 [Sanduíche do Deserto de Arunafeltz](http://www.divine-pride.net/database/item/12321/) |
+        | Ryosen (mid\_camp 165,245) | ![6023.png](https://static.divine-pride.net/images/items/item/6023.png) 2 [Chifre Místico](http://www.divine-pride.net/database/item/6023/) | ![12319.png](https://static.divine-pride.net/images/items/item/12319.png) 1 [Bolo de Morango de Rune-Midgard](http://www.divine-pride.net/database/item/12319/) |

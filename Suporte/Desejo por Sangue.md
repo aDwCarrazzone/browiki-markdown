@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Desejo por Sangue Desejo por Sangue** | |
-| Desejo por Sangue | |
+| **![Desejo por Sangue](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/32/Desejo_por_Sangue.png) Desejo por Sangue** | |
+| ![Desejo por Sangue](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Desejo_por_Sangue.gif) | |
 | **Blood Lust** | |
 | **ID** | HAMI\_BLOODLUST (8008) |
 | **Tipo** | Suporte |

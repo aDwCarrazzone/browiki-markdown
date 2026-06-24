@@ -30,15 +30,15 @@ Também conhecidos como Búfalos Bandidos, eles se armaram e atacaram Rockridge 
 
 |  |  |  |
 | --- | --- | --- |
-| Rockridge map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (harboro1 291,207) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (harboro1 291,203) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (harboro1 156,215) |
-| Map pocao | Loja de Ferramentas | (harboro1 312,195) |
-| Map azul | Banco | (harboro1 270,252) |
-| Map lantern | Escritório do Xerife | (harboro1 241,216) |
-| Map dun01 | [Esgotos Subterrâneos](http://www.divine-pride.net/database/map/harboro2/) | (harboro1 335,144) |
+| ![Rockridge map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Rockridge_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (harboro1 291,207) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (harboro1 291,203) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (harboro1 156,215) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (harboro1 312,195) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Banco | (harboro1 270,252) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Escritório do Xerife | (harboro1 241,216) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Esgotos Subterrâneos](http://www.divine-pride.net/database/map/harboro2/) | (harboro1 335,144) |
 
 |  |  |  |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Também conhecidos como Búfalos Bandidos, eles se armaram e atacaram Rockridge 
 | Padeiro | Vende [Pão](http://www.divine-pride.net/database/item/580/) | (harboro1 314,211) |
 | Atendente do Banco | Abre o [Banco](../Sem%20categoria/Banco.md "Banco") | (harboro1 270,252) |
 | Comerciante de Armas | Vende armas de [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros") | (har\_in01 19,86) |
-| Comerciante de Armaduras | - Domingo:   - Não há itens à venda. - Quarta-feira e Sábado:   - 2241.png 10 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) - 5.000z   - 2267.png 10 [Cigarro](http://www.divine-pride.net/database/item/2267/) - 100.000z   - 2268.png 10 [Cachimbo](http://www.divine-pride.net/database/item/2268/) - 500.000z - Terça-feira e Sexta-feira:   - 5067.png 10 [Sombrero](http://www.divine-pride.net/database/item/5067/) - 700.000z   - 5010.png 10 [Penacho](http://www.divine-pride.net/database/item/5010/) - 700.000z   - 5075.png 10 [Chapéu de Cowboy](http://www.divine-pride.net/database/item/5075/) - 700.000z - Segunda-feira e Quinta-feira:   - 2247.png 10 [Chapéu Romântico](http://www.divine-pride.net/database/item/2247/) - 500.000z   - 2248.png 10 [Chapéu do Velho Oeste](http://www.divine-pride.net/database/item/2248/) - 500.000z   - 5018.png 10 [Chapéu com Pluma](http://www.divine-pride.net/database/item/5018/) - 700.000z - Sábado:   - 31144.png 3 [(Visual) Cocar Indígena](http://www.divine-pride.net/database/item/31144/) - 1.500.000z | (har\_in01 16,86) |
+| Comerciante de Armaduras | - Domingo:   - Não há itens à venda. - Quarta-feira e Sábado:   - ![2241.png](https://static.divine-pride.net/images/items/item/2241.png) 10 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/) - 5.000z   - ![2267.png](https://static.divine-pride.net/images/items/item/2267.png) 10 [Cigarro](http://www.divine-pride.net/database/item/2267/) - 100.000z   - ![2268.png](https://static.divine-pride.net/images/items/item/2268.png) 10 [Cachimbo](http://www.divine-pride.net/database/item/2268/) - 500.000z - Terça-feira e Sexta-feira:   - ![5067.png](https://static.divine-pride.net/images/items/item/5067.png) 10 [Sombrero](http://www.divine-pride.net/database/item/5067/) - 700.000z   - ![5010.png](https://static.divine-pride.net/images/items/item/5010.png) 10 [Penacho](http://www.divine-pride.net/database/item/5010/) - 700.000z   - ![5075.png](https://static.divine-pride.net/images/items/item/5075.png) 10 [Chapéu de Cowboy](http://www.divine-pride.net/database/item/5075/) - 700.000z - Segunda-feira e Quinta-feira:   - ![2247.png](https://static.divine-pride.net/images/items/item/2247.png) 10 [Chapéu Romântico](http://www.divine-pride.net/database/item/2247/) - 500.000z   - ![2248.png](https://static.divine-pride.net/images/items/item/2248.png) 10 [Chapéu do Velho Oeste](http://www.divine-pride.net/database/item/2248/) - 500.000z   - ![5018.png](https://static.divine-pride.net/images/items/item/5018.png) 10 [Chapéu com Pluma](http://www.divine-pride.net/database/item/5018/) - 700.000z - Sábado:   - ![31144.png](https://static.divine-pride.net/images/items/item/31144.png) 3 [(Visual) Cocar Indígena](http://www.divine-pride.net/database/item/31144/) - 1.500.000z | (har\_in01 16,86) |
 
 ## Quests & Calabouços
 
@@ -61,27 +61,27 @@ Também conhecidos como Búfalos Bandidos, eles se armaram e atacaram Rockridge 
 
 ## Moeda Rockridge
 
-- ![25250.png](http://static.divine-pride.net/images/items/item/25250.png) [Moedas Rockridge](http://www.divine-pride.net/database/item/25250/) podem ser adquiridas através de missões diárias da cidade.
+- ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) [Moedas Rockridge](http://www.divine-pride.net/database/item/25250/) podem ser adquiridas através de missões diárias da cidade.
 
 | Equipamento | Preço | [NPC](../Sem%20categoria/NPC.md "NPC") de troca |
 | --- | --- | --- |
-| 15177.png [Vestes dos Elementos](http://www.divine-pride.net/database/item/15177/) | 24 Moedas | Harold  (har\_in01 34,81) |
-| 15178.png [Uniforme Ninja](http://www.divine-pride.net/database/item/15178/) | 24 Moedas |
-| 15179.png [Colete Minerador](http://www.divine-pride.net/database/item/15179/) | 24 Moedas |
-| 15180.png [Roupa de Hippie](http://www.divine-pride.net/database/item/15180/) | 24 Moedas |
-| 15176.png [Túnica de Vigilante](http://www.divine-pride.net/database/item/15176/) | 24 Moedas |
-| 31140.png [(Visual) Chapéu Preto de Caubói](http://www.divine-pride.net/database/item/31140/) | 100 Moedas |
-| 31141.png [(Visual) Tiara de Flores de Cacto](http://www.divine-pride.net/database/item/31141/) | 100 Moedas |
-| 31144.png [(Visual) Cocar Indígena](http://www.divine-pride.net/database/item/31144/) | 100 Moedas |
-| 20834.png [Capa Eremita](http://www.divine-pride.net/database/item/20834/) | 150 Moedas |
-| 22131.png [Bota Esporada](http://www.divine-pride.net/database/item/22131/) | 150 Moedas |
-| 16060.png [Garrafa de Pinga](http://www.divine-pride.net/database/item/16060/) | 180 Moedas |
-| 26107.png [Cetro Indígena](http://www.divine-pride.net/database/item/26107/) | 300 Moedas |
-| 20820.png [Capa dos Elementos](http://www.divine-pride.net/database/item/20820/) | 3.000.000z | Dona Generosa  (har\_in01 34,81) |
-| 20821.png [Cachecol Ninja](http://www.divine-pride.net/database/item/20821/) | 3.000.000z |
-| 20822.png [Mochila Mineradora](http://www.divine-pride.net/database/item/20822/) | 3.000.000z |
-| 28441.png [Insígnia de Vigilante](http://www.divine-pride.net/database/item/28441/) | 1.500.000z |
-| 28442.png [Miçanga Hippie](http://www.divine-pride.net/database/item/28442/) | 1.500.000z |
+| ![15177.png](https://static.divine-pride.net/images/items/item/15177.png) [Vestes dos Elementos](http://www.divine-pride.net/database/item/15177/) | 24 Moedas | Harold  (har\_in01 34,81) |
+| ![15178.png](https://static.divine-pride.net/images/items/item/15178.png) [Uniforme Ninja](http://www.divine-pride.net/database/item/15178/) | 24 Moedas |
+| ![15179.png](https://static.divine-pride.net/images/items/item/15179.png) [Colete Minerador](http://www.divine-pride.net/database/item/15179/) | 24 Moedas |
+| ![15180.png](https://static.divine-pride.net/images/items/item/15180.png) [Roupa de Hippie](http://www.divine-pride.net/database/item/15180/) | 24 Moedas |
+| ![15176.png](https://static.divine-pride.net/images/items/item/15176.png) [Túnica de Vigilante](http://www.divine-pride.net/database/item/15176/) | 24 Moedas |
+| ![31140.png](https://static.divine-pride.net/images/items/item/31140.png) [(Visual) Chapéu Preto de Caubói](http://www.divine-pride.net/database/item/31140/) | 100 Moedas |
+| ![31141.png](https://static.divine-pride.net/images/items/item/31141.png) [(Visual) Tiara de Flores de Cacto](http://www.divine-pride.net/database/item/31141/) | 100 Moedas |
+| ![31144.png](https://static.divine-pride.net/images/items/item/31144.png) [(Visual) Cocar Indígena](http://www.divine-pride.net/database/item/31144/) | 100 Moedas |
+| ![20834.png](https://static.divine-pride.net/images/items/item/20834.png) [Capa Eremita](http://www.divine-pride.net/database/item/20834/) | 150 Moedas |
+| ![22131.png](https://static.divine-pride.net/images/items/item/22131.png) [Bota Esporada](http://www.divine-pride.net/database/item/22131/) | 150 Moedas |
+| ![16060.png](https://static.divine-pride.net/images/items/item/16060.png) [Garrafa de Pinga](http://www.divine-pride.net/database/item/16060/) | 180 Moedas |
+| ![26107.png](https://static.divine-pride.net/images/items/item/26107.png) [Cetro Indígena](http://www.divine-pride.net/database/item/26107/) | 300 Moedas |
+| ![20820.png](https://static.divine-pride.net/images/items/item/20820.png) [Capa dos Elementos](http://www.divine-pride.net/database/item/20820/) | 3.000.000z | Dona Generosa  (har\_in01 34,81) |
+| ![20821.png](https://static.divine-pride.net/images/items/item/20821.png) [Cachecol Ninja](http://www.divine-pride.net/database/item/20821/) | 3.000.000z |
+| ![20822.png](https://static.divine-pride.net/images/items/item/20822.png) [Mochila Mineradora](http://www.divine-pride.net/database/item/20822/) | 3.000.000z |
+| ![28441.png](https://static.divine-pride.net/images/items/item/28441.png) [Insígnia de Vigilante](http://www.divine-pride.net/database/item/28441/) | 1.500.000z |
+| ![28442.png](https://static.divine-pride.net/images/items/item/28442.png) [Miçanga Hippie](http://www.divine-pride.net/database/item/28442/) | 1.500.000z |
 
 ### Encantamentos
 
@@ -97,28 +97,28 @@ Também conhecidos como Búfalos Bandidos, eles se armaram e atacaram Rockridge 
 
 | Equipamento | Encantos (0 a +8) | Encantos (+9 ou mais) |
 | --- | --- | --- |
-| [Vestes dos Elementos](http://www.divine-pride.net/database/item/15177/)  [Capa dos Elementos](http://www.divine-pride.net/database/item/20820/)  [Uniforme Ninja](http://www.divine-pride.net/database/item/15178/)  [Cachecol Ninja](http://www.divine-pride.net/database/item/20821/)  [Colete Minerador](http://www.divine-pride.net/database/item/15179/)  [Mochila Mineradora](http://www.divine-pride.net/database/item/20822/)  [Roupa de Hippie](http://www.divine-pride.net/database/item/15180/)  [Túnica de Vigilante](http://www.divine-pride.net/database/item/15176/) | 4700.png [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+2](http://www.divine-pride.net/database/item/4701/) | 4701.png [FOR +2](http://www.divine-pride.net/database/item/4701/) |
-| 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+2](http://www.divine-pride.net/database/item/4731/) | 4731.png [AGI +2](http://www.divine-pride.net/database/item/4731/) |
-| 4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) a [+2](http://www.divine-pride.net/database/item/4711/) | 4711.png [INT +2](http://www.divine-pride.net/database/item/4711/) |
-| 4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) a [+2](http://www.divine-pride.net/database/item/4721/) | 4721.png [DES +2](http://www.divine-pride.net/database/item/4721/) |
-| 4893.png [DEF +15](http://www.divine-pride.net/database/item/4893/) ou [+20](http://www.divine-pride.net/database/item/29026/) | 29026.png [DEF +20](http://www.divine-pride.net/database/item/29026/) |
-| 4786.png [DEFM +2](http://www.divine-pride.net/database/item/4786/) ou [+5](http://www.divine-pride.net/database/item/4892/) | 4892.png [DEFM +5](http://www.divine-pride.net/database/item/4892/) |
-| 4926.png [CRIT +1](http://www.divine-pride.net/database/item/4926/) ou [+4](http://www.divine-pride.net/database/item/4940/) | 4940.png [CRIT +4](http://www.divine-pride.net/database/item/4940/) |
-| 4860.png [Esquiva +3](http://www.divine-pride.net/database/item/4860/) ou [+6](http://www.divine-pride.net/database/item/4762/) | 4762.png [Esquiva +6](http://www.divine-pride.net/database/item/4762/) |
-| 4832.png [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) a [2](http://www.divine-pride.net/database/item/4833/) | 4832.png [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/), [2](http://www.divine-pride.net/database/item/4833/), [3](http://www.divine-pride.net/database/item/4834/) ou [4](http://www.divine-pride.net/database/item/4835/) |
-| 4863.png [Fatal 1](http://www.divine-pride.net/database/item/4863/) a [2](http://www.divine-pride.net/database/item/4864/) | 4863.png [Fatal 1](http://www.divine-pride.net/database/item/4863/), [2](http://www.divine-pride.net/database/item/4864/), [3](http://www.divine-pride.net/database/item/4865/) ou [4](http://www.divine-pride.net/database/item/4866/) |
-| 4815.png [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/) a [2](http://www.divine-pride.net/database/item/4814/) | 4815.png [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/), [2](http://www.divine-pride.net/database/item/4814/), [3](http://www.divine-pride.net/database/item/4813/) ou [4](http://www.divine-pride.net/database/item/4812/) |
-| - | 4807.png [Vel. Ataque 1](http://www.divine-pride.net/database/item/4807/) ou 4842.png [Vel. Ataque 2](http://www.divine-pride.net/database/item/4842/) |
+| [Vestes dos Elementos](http://www.divine-pride.net/database/item/15177/)  [Capa dos Elementos](http://www.divine-pride.net/database/item/20820/)  [Uniforme Ninja](http://www.divine-pride.net/database/item/15178/)  [Cachecol Ninja](http://www.divine-pride.net/database/item/20821/)  [Colete Minerador](http://www.divine-pride.net/database/item/15179/)  [Mochila Mineradora](http://www.divine-pride.net/database/item/20822/)  [Roupa de Hippie](http://www.divine-pride.net/database/item/15180/)  [Túnica de Vigilante](http://www.divine-pride.net/database/item/15176/) | ![4700.png](https://static.divine-pride.net/images/items/item/4700.png) [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+2](http://www.divine-pride.net/database/item/4701/) | ![4701.png](https://static.divine-pride.net/images/items/item/4701.png) [FOR +2](http://www.divine-pride.net/database/item/4701/) |
+| ![4730.png](https://static.divine-pride.net/images/items/item/4730.png) [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+2](http://www.divine-pride.net/database/item/4731/) | ![4731.png](https://static.divine-pride.net/images/items/item/4731.png) [AGI +2](http://www.divine-pride.net/database/item/4731/) |
+| ![4710.png](https://static.divine-pride.net/images/items/item/4710.png) [INT +1](http://www.divine-pride.net/database/item/4710/) a [+2](http://www.divine-pride.net/database/item/4711/) | ![4711.png](https://static.divine-pride.net/images/items/item/4711.png) [INT +2](http://www.divine-pride.net/database/item/4711/) |
+| ![4720.png](https://static.divine-pride.net/images/items/item/4720.png) [DES +1](http://www.divine-pride.net/database/item/4720/) a [+2](http://www.divine-pride.net/database/item/4721/) | ![4721.png](https://static.divine-pride.net/images/items/item/4721.png) [DES +2](http://www.divine-pride.net/database/item/4721/) |
+| ![4893.png](https://static.divine-pride.net/images/items/item/4893.png) [DEF +15](http://www.divine-pride.net/database/item/4893/) ou [+20](http://www.divine-pride.net/database/item/29026/) | ![29026.png](https://static.divine-pride.net/images/items/item/29026.png) [DEF +20](http://www.divine-pride.net/database/item/29026/) |
+| ![4786.png](https://static.divine-pride.net/images/items/item/4786.png) [DEFM +2](http://www.divine-pride.net/database/item/4786/) ou [+5](http://www.divine-pride.net/database/item/4892/) | ![4892.png](https://static.divine-pride.net/images/items/item/4892.png) [DEFM +5](http://www.divine-pride.net/database/item/4892/) |
+| ![4926.png](https://static.divine-pride.net/images/items/item/4926.png) [CRIT +1](http://www.divine-pride.net/database/item/4926/) ou [+4](http://www.divine-pride.net/database/item/4940/) | ![4940.png](https://static.divine-pride.net/images/items/item/4940.png) [CRIT +4](http://www.divine-pride.net/database/item/4940/) |
+| ![4860.png](https://static.divine-pride.net/images/items/item/4860.png) [Esquiva +3](http://www.divine-pride.net/database/item/4860/) ou [+6](http://www.divine-pride.net/database/item/4762/) | ![4762.png](https://static.divine-pride.net/images/items/item/4762.png) [Esquiva +6](http://www.divine-pride.net/database/item/4762/) |
+| ![4832.png](https://static.divine-pride.net/images/items/item/4832.png) [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) a [2](http://www.divine-pride.net/database/item/4833/) | ![4832.png](https://static.divine-pride.net/images/items/item/4832.png) [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/), [2](http://www.divine-pride.net/database/item/4833/), [3](http://www.divine-pride.net/database/item/4834/) ou [4](http://www.divine-pride.net/database/item/4835/) |
+| ![4863.png](https://static.divine-pride.net/images/items/item/4863.png) [Fatal 1](http://www.divine-pride.net/database/item/4863/) a [2](http://www.divine-pride.net/database/item/4864/) | ![4863.png](https://static.divine-pride.net/images/items/item/4863.png) [Fatal 1](http://www.divine-pride.net/database/item/4863/), [2](http://www.divine-pride.net/database/item/4864/), [3](http://www.divine-pride.net/database/item/4865/) ou [4](http://www.divine-pride.net/database/item/4866/) |
+| ![4815.png](https://static.divine-pride.net/images/items/item/4815.png) [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/) a [2](http://www.divine-pride.net/database/item/4814/) | ![4815.png](https://static.divine-pride.net/images/items/item/4815.png) [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/), [2](http://www.divine-pride.net/database/item/4814/), [3](http://www.divine-pride.net/database/item/4813/) ou [4](http://www.divine-pride.net/database/item/4812/) |
+| - | ![4807.png](https://static.divine-pride.net/images/items/item/4807.png) [Vel. Ataque 1](http://www.divine-pride.net/database/item/4807/) ou ![4842.png](https://static.divine-pride.net/images/items/item/4842.png) [Vel. Ataque 2](http://www.divine-pride.net/database/item/4842/) |
 | Acessório | Encantos possíveis | |
-| [Insígnia de Vigilante](http://www.divine-pride.net/database/item/28441/)  [Miçanga Hippie](http://www.divine-pride.net/database/item/28442/) | 4700.png [Atributo +1](http://www.divine-pride.net/database/item/4700/) a [+2](http://www.divine-pride.net/database/item/4701/) | |
-| 4795.png [HP +100](http://www.divine-pride.net/database/item/4795/) a [+200](http://www.divine-pride.net/database/item/4796/) | |
-| 4800.png [SP +50](http://www.divine-pride.net/database/item/4800/) a [+100](http://www.divine-pride.net/database/item/4801/) | |
-| 4832.png [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) | |
-| 4815.png [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/) | |
-| 4811.png [Espírito do Lutador 1](http://www.divine-pride.net/database/item/4811/) | |
-| 4869.png [Anti-Atraso 1](http://www.divine-pride.net/database/item/4869/) | |
-| 4863.png [Fatal 1](http://www.divine-pride.net/database/item/4863/) | |
-| 4807.png [Vel. Ataque 1](http://www.divine-pride.net/database/item/4807/) | |
+| [Insígnia de Vigilante](http://www.divine-pride.net/database/item/28441/)  [Miçanga Hippie](http://www.divine-pride.net/database/item/28442/) | ![4700.png](https://static.divine-pride.net/images/items/item/4700.png) [Atributo +1](http://www.divine-pride.net/database/item/4700/) a [+2](http://www.divine-pride.net/database/item/4701/) | |
+| ![4795.png](https://static.divine-pride.net/images/items/item/4795.png) [HP +100](http://www.divine-pride.net/database/item/4795/) a [+200](http://www.divine-pride.net/database/item/4796/) | |
+| ![4800.png](https://static.divine-pride.net/images/items/item/4800.png) [SP +50](http://www.divine-pride.net/database/item/4800/) a [+100](http://www.divine-pride.net/database/item/4801/) | |
+| ![4832.png](https://static.divine-pride.net/images/items/item/4832.png) [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) | |
+| ![4815.png](https://static.divine-pride.net/images/items/item/4815.png) [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/) | |
+| ![4811.png](https://static.divine-pride.net/images/items/item/4811.png) [Espírito do Lutador 1](http://www.divine-pride.net/database/item/4811/) | |
+| ![4869.png](https://static.divine-pride.net/images/items/item/4869.png) [Anti-Atraso 1](http://www.divine-pride.net/database/item/4869/) | |
+| ![4863.png](https://static.divine-pride.net/images/items/item/4863.png) [Fatal 1](http://www.divine-pride.net/database/item/4863/) | |
+| ![4807.png](https://static.divine-pride.net/images/items/item/4807.png) [Vel. Ataque 1](http://www.divine-pride.net/database/item/4807/) | |
 
 | *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

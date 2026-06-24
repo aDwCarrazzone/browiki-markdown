@@ -2,7 +2,7 @@
 
 # Rumor, Tempo e Lenda
 
-| NQ ico Rumor, Tempo e Lenda | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Rumor, Tempo e Lenda | |
 | --- | --- |
 | Entenda a lenda por trás de Bakonawa e desvende a identidade do corajoso espadachim! | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6499.png 3 [Rancores Antigos](http://www.divine-pride.net/database/item/6499/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6499.png](https://static.divine-pride.net/images/items/item/6499.png) 3 [Rancores Antigos](http://www.divine-pride.net/database/item/6499/) |
 
 1. Pergunte sobre Bakonawa ao Contador de Lendas (malaya 285,332)
 

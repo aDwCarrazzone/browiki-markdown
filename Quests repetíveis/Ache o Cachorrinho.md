@@ -2,7 +2,7 @@
 
 # Ache o Cachorrinho
 
-| DQ ico Ache o Cachorrinho | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Ache o Cachorrinho | |
 | --- | --- |
 | O dono de 3 cachorrinhos está a procura de aventureiros que possam ajudá-lo a encontrar seus cães perdidos na floresta! | |
 | Requisitos mínimos | |

@@ -2,13 +2,13 @@
 
 # Cajado Celeste
 
-| NQ ico Cajado Celeste | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Cajado Celeste | |
 | --- | --- |
 | A Frente de Libertação de Rune-Midgard é uma organização criminosa que visa a destruição da coroa e perturbação da paz no Reino. Seu objetivo é pará-los imediatamente antes que seja tarde demais. Essa missão é exclusiva de quem participa dos [Clãs Reais](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Cl%C3%A3s%20Reais.md "Clãs Reais"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 970.png 1 [Álcool](http://www.divine-pride.net/database/item/970/) 640.png 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)  7049.png 99 [Pedra](http://www.divine-pride.net/database/item/7049/)  953.png 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)  732.png 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)  7067.png 50 [Pedaço de Pedra](http://www.divine-pride.net/database/item/7067/)  938.png 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  994.png 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)  1093.png 1 [Garrafa de Poção](http://www.divine-pride.net/database/item/1093/)  7511.png 3 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)  12020.png 13 [Água Amaldiçoada](http://www.divine-pride.net/database/item/12020/)  724.png 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![970.png](https://static.divine-pride.net/images/items/item/970.png) 1 [Álcool](http://www.divine-pride.net/database/item/970/) ![640.png](https://static.divine-pride.net/images/items/item/640.png) 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)  ![7049.png](https://static.divine-pride.net/images/items/item/7049.png) 99 [Pedra](http://www.divine-pride.net/database/item/7049/)  ![953.png](https://static.divine-pride.net/images/items/item/953.png) 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)  ![732.png](https://static.divine-pride.net/images/items/item/732.png) 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)  ![7067.png](https://static.divine-pride.net/images/items/item/7067.png) 50 [Pedaço de Pedra](http://www.divine-pride.net/database/item/7067/)  ![938.png](https://static.divine-pride.net/images/items/item/938.png) 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  ![994.png](https://static.divine-pride.net/images/items/item/994.png) 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)  ![1093.png](https://static.divine-pride.net/images/items/item/1093.png) 1 [Garrafa de Poção](http://www.divine-pride.net/database/item/1093/)  ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) 3 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)  ![12020.png](https://static.divine-pride.net/images/items/item/12020.png) 13 [Água Amaldiçoada](http://www.divine-pride.net/database/item/12020/)  ![724.png](https://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/) |
 | **Caça** | [Heydric](http://www.divine-pride.net/database/monster/3294/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver abaixo |
@@ -28,30 +28,30 @@
 4. Volte ao Líder do Clã Cajado Celeste (prontera 47,112)
 5. Encontre o Mestre Pedreiro (prontera 76,283)
    - Se seu nível base for 119 ou menos, entregue:
-     - ![640.png](http://static.divine-pride.net/images/items/item/640.png) 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)
-     - ![7049.png](http://static.divine-pride.net/images/items/item/7049.png) 99 [Pedra](http://www.divine-pride.net/database/item/7049/)
-     - ![953.png](http://static.divine-pride.net/images/items/item/953.png) 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)
-     - ![732.png](http://static.divine-pride.net/images/items/item/732.png) 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)
+     - ![640.png](https://static.divine-pride.net/images/items/item/640.png) 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)
+     - ![7049.png](https://static.divine-pride.net/images/items/item/7049.png) 99 [Pedra](http://www.divine-pride.net/database/item/7049/)
+     - ![953.png](https://static.divine-pride.net/images/items/item/953.png) 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)
+     - ![732.png](https://static.divine-pride.net/images/items/item/732.png) 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)
    - Se seu nível base for 120 ou mais, entregue:
-     - ![640.png](http://static.divine-pride.net/images/items/item/640.png) 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)
-     - ![7049.png](http://static.divine-pride.net/images/items/item/7049.png) 99 [Pedra](http://www.divine-pride.net/database/item/7049/)
-     - ![953.png](http://static.divine-pride.net/images/items/item/953.png) 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)
-     - ![732.png](http://static.divine-pride.net/images/items/item/732.png) 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)
-     - ![7067.png](http://static.divine-pride.net/images/items/item/7067.png) 50 [Pedaço de Pedra](http://www.divine-pride.net/database/item/7067/)
+     - ![640.png](https://static.divine-pride.net/images/items/item/640.png) 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/)
+     - ![7049.png](https://static.divine-pride.net/images/items/item/7049.png) 99 [Pedra](http://www.divine-pride.net/database/item/7049/)
+     - ![953.png](https://static.divine-pride.net/images/items/item/953.png) 99 [Coração de Pedra](http://www.divine-pride.net/database/item/953/)
+     - ![732.png](https://static.divine-pride.net/images/items/item/732.png) 3 [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/)
+     - ![7067.png](https://static.divine-pride.net/images/items/item/7067.png) 50 [Pedaço de Pedra](http://www.divine-pride.net/database/item/7067/)
 6. Fale com o Homem Carrancudo (aldeba\_in 221,231)
    - Se seu nível base for 119 ou menos, entregue:
-     - ![938.png](http://static.divine-pride.net/images/items/item/938.png) 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
-     - ![994.png](http://static.divine-pride.net/images/items/item/994.png) 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)
-     - ![1093.png](http://static.divine-pride.net/images/items/item/1093.png) 1 [Muco Pegajoso](http://www.divine-pride.net/database/item/1093/)
+     - ![938.png](https://static.divine-pride.net/images/items/item/938.png) 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
+     - ![994.png](https://static.divine-pride.net/images/items/item/994.png) 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)
+     - ![1093.png](https://static.divine-pride.net/images/items/item/1093.png) 1 [Muco Pegajoso](http://www.divine-pride.net/database/item/1093/)
    - Se seu nível base for 120 ou mais, entregue:
-     - ![938.png](http://static.divine-pride.net/images/items/item/938.png) 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
-     - ![994.png](http://static.divine-pride.net/images/items/item/994.png) 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)
-     - ![1093.png](http://static.divine-pride.net/images/items/item/1093.png) 1 [Garrafa de Poção](http://www.divine-pride.net/database/item/1093/)
-     - ![7511.png](http://static.divine-pride.net/images/items/item/7511.png) 3 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)
-     - ![12020.png](http://static.divine-pride.net/images/items/item/12020.png) 13 [Água Amaldiçoada](http://www.divine-pride.net/database/item/12020/)
+     - ![938.png](https://static.divine-pride.net/images/items/item/938.png) 123 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)
+     - ![994.png](https://static.divine-pride.net/images/items/item/994.png) 5 [Coração Flamejante](http://www.divine-pride.net/database/item/994/)
+     - ![1093.png](https://static.divine-pride.net/images/items/item/1093.png) 1 [Garrafa de Poção](http://www.divine-pride.net/database/item/1093/)
+     - ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) 3 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)
+     - ![12020.png](https://static.divine-pride.net/images/items/item/12020.png) 13 [Água Amaldiçoada](http://www.divine-pride.net/database/item/12020/)
 7. Você receberá 1 [Neutralizador Superforte](http://www.divine-pride.net/database/item/6852/)
 8. Retorne ao Mestre Pedreiro (prontera 76,283)
-   - Traga ![970.png](http://static.divine-pride.net/images/items/item/970.png) 1 [Álcool](http://www.divine-pride.net/database/item/970/) e ![724.png](http://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
+   - Traga ![970.png](https://static.divine-pride.net/images/items/item/970.png) 1 [Álcool](http://www.divine-pride.net/database/item/970/) e ![724.png](https://static.divine-pride.net/images/items/item/724.png) 3 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/)
 9. Use o Neutralizador nos Vestígios até o diálogo pedir para ir à [Pharos](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md "Pharos"):
    - (prt\_fild08 24,377)
    - (prt\_fild08 323,370)
@@ -87,24 +87,24 @@
 | Nível 119 ou menos | | |
 | --- | --- | --- |
 | Missão | Objetivo | Observação |
-| DQ ico Mestre Pedreiro | - Coletar 953.png 100 [Coração de Pedra](http://www.divine-pride.net/database/item/953/) - Coletar 730.png 3 [Diamante de 1 Quilate](http://www.divine-pride.net/database/item/730/) - Coletar 6857.png 133 [Pedra Rídiga](http://www.divine-pride.net/database/item/6857/) | - Pedra Rígida é derrubada pelo [Golem Estalactítico](http://www.divine-pride.net/database/monster/1278/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Mestre Pedreiro | - Coletar ![953.png](https://static.divine-pride.net/images/items/item/953.png) 100 [Coração de Pedra](http://www.divine-pride.net/database/item/953/) - Coletar ![730.png](https://static.divine-pride.net/images/items/item/730.png) 3 [Diamante de 1 Quilate](http://www.divine-pride.net/database/item/730/) - Coletar ![6857.png](https://static.divine-pride.net/images/items/item/6857.png) 133 [Pedra Rídiga](http://www.divine-pride.net/database/item/6857/) | - Pedra Rígida é derrubada pelo [Golem Estalactítico](http://www.divine-pride.net/database/monster/1278/) |
 | Nível 120 ou mais | | |
-| DQ ico Mestre Pedreiro | - Coletar 953.png 150 [Coração de Pedra](http://www.divine-pride.net/database/item/953/) - Coletar 730.png 3 [Diamante de 1 Quilate](http://www.divine-pride.net/database/item/730/) - Coletar 6857.png 133 [Pedra Rídiga](http://www.divine-pride.net/database/item/6857/) | - Pedra Rígida é derrubada pelo [Golem de Bradium](http://www.divine-pride.net/database/monster/2024/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Mestre Pedreiro | - Coletar ![953.png](https://static.divine-pride.net/images/items/item/953.png) 150 [Coração de Pedra](http://www.divine-pride.net/database/item/953/) - Coletar ![730.png](https://static.divine-pride.net/images/items/item/730.png) 3 [Diamante de 1 Quilate](http://www.divine-pride.net/database/item/730/) - Coletar ![6857.png](https://static.divine-pride.net/images/items/item/6857.png) 133 [Pedra Rídiga](http://www.divine-pride.net/database/item/6857/) | - Pedra Rígida é derrubada pelo [Golem de Bradium](http://www.divine-pride.net/database/monster/2024/) |
 
 ### Recompensas
 
 | Recibos entregues | Nv. de base | [EXP](../Sem%20categoria/EXP.md "EXP") base | Recibos ganhos |
 | --- | --- | --- | --- |
-| Entre 0 a 49 | 1 a 69 | 11.000 | 6849.png 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 0 a 49 | 1 a 69 | 11.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 540.000 |
 | 111 ou mais | 1.714.000 |
-| Entre 50 a 149 | 1 a 69 | 15.000 | 6849.png 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 50 a 149 | 1 a 69 | 15.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 702.000 |
 | 111 ou mais | 2.228.200 |
-| Entre 150 a 199 | 1 a 69 | 20.000 | 6849.png 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 150 a 199 | 1 a 69 | 20.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 918.000 |
 | 111 ou mais | 3.180.200 |
-| Acima de 200 | 1 a 69 | 23.000 | 6849.png 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Acima de 200 | 1 a 69 | 23.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 1.080.000 |
 | 111 ou mais | 3.400.000 |
 

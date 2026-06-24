@@ -2,7 +2,7 @@
 
 # Retorno de Rayan Moore
 
-| NQ ico Retorno de Rayan Moore | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Retorno de Rayan Moore | |
 | --- | --- |
 | O responsável por despertar Surtr parece ter recobrado as faculdades mentais. Agora é a hora de conhecer sua verdadeira identidade. | |
 | Requisitos mínimos | |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Cavalo-de-Pau Cavalo-de-Pau** | |
-| Cavalo-de-Pau | |
+| **![Cavalo-de-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Cavalo-de-Pau.png) Cavalo-de-Pau** | |
+| ![Cavalo-de-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Cavalo-de-Pau.gif) | |
 | **Cart Revolution / Revolución Rodante** | |
 | **ID** | MC\_CARTREVOLUTION (153) |
 | **Tipo** | Ofensiva |
@@ -34,12 +34,12 @@ Atinge oponentes próximos e empurrando-os para trás.
 - Itens que aumentam o dano da habilidade não influenciam diretamente na parte da fórmula relacionada ao peso.
 - Alterar a [propriedade](../Sem%20categoria/Propriedade.md "Propriedade") da [arma](../Sem%20categoria/Arma.md "Arma") não afeta o dano final, que será sempre de propriedade [Neutro](../Sem%20categoria/Neutro.md "Neutro").
 - Cartas relacionadas:
-  - ![4467.png](http://static.divine-pride.net/images/items/item/4467.png) [Carta Heavy Metaling](http://www.divine-pride.net/database/item/4467/)
-  - ![300092.png](http://static.divine-pride.net/images/items/item/300092.png) [Carta Papila Lilás](http://www.divine-pride.net/database/item/300092/)
+  - ![4467.png](https://static.divine-pride.net/images/items/item/4467.png) [Carta Heavy Metaling](http://www.divine-pride.net/database/item/4467/)
+  - ![300092.png](https://static.divine-pride.net/images/items/item/300092.png) [Carta Papila Lilás](http://www.divine-pride.net/database/item/300092/)
 - Sombrios relacionados:
-  - ![24251.png](http://static.divine-pride.net/images/items/item/24251.png) [Colar Sombrio de Mercador](http://www.divine-pride.net/database/item/24251/)
+  - ![24251.png](https://static.divine-pride.net/images/items/item/24251.png) [Colar Sombrio de Mercador](http://www.divine-pride.net/database/item/24251/)
 
 | *A Arte da Alquimia e da Forja* | | |
 | --- | --- | --- |
-| |  |  | | --- | --- | | [Mercadorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | | [Aumentar Capacidade de Carga](../Passiva/Aumentar%20Capacidade%20de%20Carga.md "Aumentar Capacidade de Carga") · Cavalo-de-Pau · [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") · [Desconto](../Passiva/Desconto.md "Desconto") · [Decorar Carrinho](../Ativa/Decorar%20Carrinho.md "Decorar Carrinho") · [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") · [Identificar Item](../Ativa/Identificar%20Item.md "Identificar Item") · [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") · [Mammonita](Mammonita.md "Mammonita") · [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") · [Superfaturar](../Passiva/Superfaturar.md "Superfaturar") · [Usar Carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") |
+| |  |  | | --- | --- | | [![Mercadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Mercadorespartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | [Mercadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") | | [Aumentar Capacidade de Carga](../Passiva/Aumentar%20Capacidade%20de%20Carga.md "Aumentar Capacidade de Carga") · Cavalo-de-Pau · [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") · [Desconto](../Passiva/Desconto.md "Desconto") · [Decorar Carrinho](../Ativa/Decorar%20Carrinho.md "Decorar Carrinho") · [Grito de Guerra](../Suporte/Grito%20de%20Guerra.md "Grito de Guerra") · [Identificar Item](../Ativa/Identificar%20Item.md "Identificar Item") · [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") · [Mammonita](Mammonita.md "Mammonita") · [Personalizar Carrinho](../Ativa/Personalizar%20Carrinho.md "Personalizar Carrinho") · [Superfaturar](../Passiva/Superfaturar.md "Superfaturar") · [Usar Carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") |
 | Evoluções | [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") · [Alquimistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Alquimistas.md "Alquimistas") |

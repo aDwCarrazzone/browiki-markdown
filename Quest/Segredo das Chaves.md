@@ -2,7 +2,7 @@
 
 # Segredo das Chaves
 
-| NQ ico Segredo das Chaves | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Segredo das Chaves | |
 | --- | --- |
 | Os relatos do primeiro aventureiro a explorar a ilha habitada por tartarugas revelam os detalhes de chaves misteriosas e de uma viagem sem volta! | |
 | Requisitos mínimos | |

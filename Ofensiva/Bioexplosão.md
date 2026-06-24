@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Bioexplosão Bioexplosão** | |
-| Bioexplosão | |
+| **![Bioexplosão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Bioexplos%C3%A3o.png) Bioexplosão** | |
+| ![Bioexplosão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Bioexplos%C3%A3o.gif) | |
 | **Self-Destruction / Bio Explosion** | |
 | **ID** | HVAN\_EXPLOSION (8016) |
 | **Tipo** | Ofensiva |

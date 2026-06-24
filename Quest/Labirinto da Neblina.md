@@ -2,17 +2,17 @@
 
 # Labirinto da Neblina
 
-| SC ico Labirinto da Neblina | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Labirinto da Neblina | |
 | --- | --- |
 | A passagem de Bifröst está dividida ao meio por um labirinto repleto de jardineiros. Além de inúmeras vítimas, o labirinto também deixa aventureiros perdidos eternamente na sua neblina. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 99 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | 2 horas e 30 minutos |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 2 horas e 30 minutos |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster DragãoPúrpura [Dragão Púrpura](http://www.divine-pride.net/database/monster/2131/) |
+| **Chefe** | ![Monster DragãoPúrpura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/67/Monster_Drag%C3%A3oP%C3%BArpura.png) [Dragão Púrpura](http://www.divine-pride.net/database/monster/2131/) |
 | **Recompensa** | Acesso ao [Norte de Bifröst](http://www.divine-pride.net/database/map/bif_fild02/) |
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com o Soldado Esplêndido (bif\_fild01 158,340)

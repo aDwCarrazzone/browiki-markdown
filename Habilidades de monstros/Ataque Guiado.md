@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ataque Guiado** | |
-| Ataque Guiado | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ataque Guiado** | |
+| ![Ataque Guiado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Ataque_Guiado.gif) | |
 | **ID:** | NPC\_GUIDEDATTACK (172) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

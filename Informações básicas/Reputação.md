@@ -34,7 +34,7 @@ Porém, algumas tribos rivais podem não ficar felizes se souberem que você est
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nv. de Reputação | |  |  | | --- | --- | | 1033.png | [Raiz de Planta Carnívora](http://www.divine-pride.net/database/item/1033/) | | |  |  | | --- | --- | | 1032.png | [Flor de Planta Carnívora](http://www.divine-pride.net/database/item/1032/) | | |  |  | | --- | --- | | 576.png | [Fruta Espinhosa](http://www.divine-pride.net/database/item/576/) | | |  |  | | --- | --- | | 6217.png | [Muda de Mandrágora](http://www.divine-pride.net/database/item/6217/) | |
+| Nv. de Reputação | |  |  | | --- | --- | | ![1033.png](https://static.divine-pride.net/images/items/item/1033.png) | [Raiz de Planta Carnívora](http://www.divine-pride.net/database/item/1033/) | | |  |  | | --- | --- | | ![1032.png](https://static.divine-pride.net/images/items/item/1032.png) | [Flor de Planta Carnívora](http://www.divine-pride.net/database/item/1032/) | | |  |  | | --- | --- | | ![576.png](https://static.divine-pride.net/images/items/item/576.png) | [Fruta Espinhosa](http://www.divine-pride.net/database/item/576/) | | |  |  | | --- | --- | | ![6217.png](https://static.divine-pride.net/images/items/item/6217.png) | [Muda de Mandrágora](http://www.divine-pride.net/database/item/6217/) | |
 | 1 | 4.000z | 4.000z | x | x |
 | 2 | 3.000z | 3.000z | 3.000z | x |
 | 3 | 2.000z | 2.000z | 2.000z | 20.000z |
@@ -55,7 +55,7 @@ Porém, algumas tribos rivais podem não ficar felizes se souberem que você est
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nv. de Reputação | |  |  | | --- | --- | | 507.png | [Erva Vermelha](http://www.divine-pride.net/database/item/507/) | | |  |  | | --- | --- | | 508.png | [Erva Amarela](http://www.divine-pride.net/database/item/508/) | | |  |  | | --- | --- | | 509.png | [Erva Branca](http://www.divine-pride.net/database/item/509/) | | |  |  | | --- | --- | | 510.png | [Erva Azul](http://www.divine-pride.net/database/item/510/) | |
+| Nv. de Reputação | |  |  | | --- | --- | | ![507.png](https://static.divine-pride.net/images/items/item/507.png) | [Erva Vermelha](http://www.divine-pride.net/database/item/507/) | | |  |  | | --- | --- | | ![508.png](https://static.divine-pride.net/images/items/item/508.png) | [Erva Amarela](http://www.divine-pride.net/database/item/508/) | | |  |  | | --- | --- | | ![509.png](https://static.divine-pride.net/images/items/item/509.png) | [Erva Branca](http://www.divine-pride.net/database/item/509/) | | |  |  | | --- | --- | | ![510.png](https://static.divine-pride.net/images/items/item/510.png) | [Erva Azul](http://www.divine-pride.net/database/item/510/) | |
 | 1 | 1.000z | 2.500z | x | x |
 | 2 | 800z | 2.000z | 3.000z | x |
 | 3 | 400z | 1.000z | 2.000z | 7.000z |

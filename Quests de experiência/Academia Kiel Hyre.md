@@ -2,17 +2,17 @@
 
 # Academia Kiel Hyre
 
-| NQ ico Academia Kiel Hyre | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Academia Kiel Hyre | |
 | --- | --- |
 | Pouco se sabe sobre os alunos da Academia para órfãos de Kiel Hyre. Também poucos sabem da trágica história de Kiel e sua relação com a família Rosimier. Investigue os estranhos acontecimentos nessa escola e conheça um dos projetos mais gananciosos da Corporação Rekenber! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 548.png 2 [Queijo](http://www.divine-pride.net/database/item/548/)  7182.png 5 [Cacau](http://www.divine-pride.net/database/item/7182/)  519.png 7 [Leite](http://www.divine-pride.net/database/item/519/)  7507.png 4 [Pedaço de Ferro Sólido](http://www.divine-pride.net/database/item/7507/)  544.png 10 [Peixe Cru](http://www.divine-pride.net/database/item/544/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![548.png](https://static.divine-pride.net/images/items/item/548.png) 2 [Queijo](http://www.divine-pride.net/database/item/548/)  ![7182.png](https://static.divine-pride.net/images/items/item/7182.png) 5 [Cacau](http://www.divine-pride.net/database/item/7182/)  ![519.png](https://static.divine-pride.net/images/items/item/519.png) 7 [Leite](http://www.divine-pride.net/database/item/519/)  ![7507.png](https://static.divine-pride.net/images/items/item/7507.png) 4 [Pedaço de Ferro Sólido](http://www.divine-pride.net/database/item/7507/)  ![544.png](https://static.divine-pride.net/images/items/item/544.png) 10 [Peixe Cru](http://www.divine-pride.net/database/item/544/) |
 | **Caça** | 1 [Kiehl](http://www.divine-pride.net/database/monster/1733/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 616.png 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)  12105.png 1 [Kit de Domesticação](http://www.divine-pride.net/database/item/12105/)  538.png 5 [Biscoito de Gengibre](http://www.divine-pride.net/database/item/538/)  7509.png 1 [Cartão Exuberante](http://www.divine-pride.net/database/item/7509/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![616.png](https://static.divine-pride.net/images/items/item/616.png) 1 [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)  ![12105.png](https://static.divine-pride.net/images/items/item/12105.png) 1 [Kit de Domesticação](http://www.divine-pride.net/database/item/12105/)  ![538.png](https://static.divine-pride.net/images/items/item/538.png) 5 [Biscoito de Gengibre](http://www.divine-pride.net/database/item/538/)  ![7509.png](https://static.divine-pride.net/images/items/item/7509.png) 1 [Cartão Exuberante](http://www.divine-pride.net/database/item/7509/) |
 | **Recompensa** | Acesso à [Fábrica de Robôs](http://www.divine-pride.net/database/map/kh_dun01/) |
 
 1. Ouça as preocupações do **Dono do Bar** (yuno\_in01 35,179)

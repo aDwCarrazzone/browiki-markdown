@@ -2,13 +2,13 @@
 
 # Fantasmagórica
 
-| EP ico Fantasmagórica | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Fantasmagórica | |
 | --- | --- |
 | A descoberta de uma cidade futurística está mobilizando historiadores, arqueólogos, viajantes e aventureiros para uma jornada que pretende revolucionar a ciência! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 713.png 10 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  517.png 2 [Carne](http://www.divine-pride.net/database/item/517/)  11520.png 1 [Manga de Mora](http://www.divine-pride.net/database/item/11520/)  513.png 1 [Banana](http://www.divine-pride.net/database/item/513/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![713.png](https://static.divine-pride.net/images/items/item/713.png) 10 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  ![517.png](https://static.divine-pride.net/images/items/item/517.png) 2 [Carne](http://www.divine-pride.net/database/item/517/)  ![11520.png](https://static.divine-pride.net/images/items/item/11520.png) 1 [Manga de Mora](http://www.divine-pride.net/database/item/11520/)  ![513.png](https://static.divine-pride.net/images/items/item/513.png) 1 [Banana](http://www.divine-pride.net/database/item/513/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.350.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.100.000 |
@@ -91,6 +91,6 @@
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |
-| Fantasmagórica | SetaVermelha | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | SetaVermelha | [Sala Final](Sala%20Final.md "Sala Final") |
+| Fantasmagórica | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sala Final](Sala%20Final.md "Sala Final") |
 | [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central") | | |
-| [Registro de Memórias](Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | SetaVermelha | [Sobrevivendo no Abrigo](Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |
+| [Registro de Memórias](Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sobrevivendo no Abrigo](Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Terremoto** | |
-| Terremoto | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Terremoto** | |
+| ![Terremoto](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Terremoto.gif) | |
 | **ID:** | NPC\_EARTHQUAKE\_K (750) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |
@@ -46,10 +46,10 @@ Quanto mais oponentes dentro da área, menor será o dano.
   - Número de personagens, [assistentes](../Itens/Assistentes.md "Assistentes") e [homunculus](../Homunculus/Homunculus.md "Homunculus") na área do efeito.
 - O dano é recalculado a cada uma das três ondas. Se os personagens morrerem durante a primeira ou segunda onda, o dano das ondas subsequentes não será mais dividido entre eles. Porém, se ainda houver um alvo, ele receberá todo o dano do terceiro golpe.
 - Armas relacionadas:
-  - ![13090.png](http://static.divine-pride.net/images/items/item/13090.png) [Perna da Rainha Verme](http://www.divine-pride.net/database/item/13090/)
+  - ![13090.png](https://static.divine-pride.net/images/items/item/13090.png) [Perna da Rainha Verme](http://www.divine-pride.net/database/item/13090/)
 - Cartas relacionadas:
-  - ![4430.png](http://static.divine-pride.net/images/items/item/4430.png) [Carta Ifrit](http://www.divine-pride.net/database/item/4430/)
-  - ![4487.png](http://static.divine-pride.net/images/items/item/4487.png) [Carta Ifrit Selada](http://www.divine-pride.net/database/item/4487/)
+  - ![4430.png](https://static.divine-pride.net/images/items/item/4430.png) [Carta Ifrit](http://www.divine-pride.net/database/item/4430/)
+  - ![4487.png](https://static.divine-pride.net/images/items/item/4487.png) [Carta Ifrit Selada](http://www.divine-pride.net/database/item/4487/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

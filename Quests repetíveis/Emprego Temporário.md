@@ -2,7 +2,7 @@
 
 # Emprego Temporário
 
-| DQ ico Emprego Temporário | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Emprego Temporário | |
 | --- | --- |
 | Enquanto você explora as áreas do Novo Mundo, porque não fazer uns bicos por aí? | |
 | Requisitos mínimos | |
@@ -26,8 +26,8 @@
 
 | Ordem | Item pedido | Recompensa |
 | --- | --- | --- |
-| 1º Voluntário | 579.png 50 [Peixes Frescos](http://www.divine-pride.net/database/item/579/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
-| 2º Voluntário | 7188.png 30 [Raízes Marrons](http://www.divine-pride.net/database/item/7188/) 7198.png 30 [Folhas Gigantes](http://www.divine-pride.net/database/item/7198/) | - Experiência de Base: 9.000 - Experiência de Classe: 4.000 |
-| 3º Voluntário | 528.png 20 [Rações para Monstros](http://www.divine-pride.net/database/item/528/) 537.png 30 [Rações para Bichinho](http://www.divine-pride.net/database/item/537/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
-| 4º Voluntário | 517.png 50 [Carnes](http://www.divine-pride.net/database/item/517/) 537.png 30 [Rações para Bichinho](http://www.divine-pride.net/database/item/537/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
-| 5º Voluntário | 6020.png 30 [Pelos](http://www.divine-pride.net/database/item/6020/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
+| 1º Voluntário | ![579.png](https://static.divine-pride.net/images/items/item/579.png) 50 [Peixes Frescos](http://www.divine-pride.net/database/item/579/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
+| 2º Voluntário | ![7188.png](https://static.divine-pride.net/images/items/item/7188.png) 30 [Raízes Marrons](http://www.divine-pride.net/database/item/7188/) ![7198.png](https://static.divine-pride.net/images/items/item/7198.png) 30 [Folhas Gigantes](http://www.divine-pride.net/database/item/7198/) | - Experiência de Base: 9.000 - Experiência de Classe: 4.000 |
+| 3º Voluntário | ![528.png](https://static.divine-pride.net/images/items/item/528.png) 20 [Rações para Monstros](http://www.divine-pride.net/database/item/528/) ![537.png](https://static.divine-pride.net/images/items/item/537.png) 30 [Rações para Bichinho](http://www.divine-pride.net/database/item/537/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
+| 4º Voluntário | ![517.png](https://static.divine-pride.net/images/items/item/517.png) 50 [Carnes](http://www.divine-pride.net/database/item/517/) ![537.png](https://static.divine-pride.net/images/items/item/537.png) 30 [Rações para Bichinho](http://www.divine-pride.net/database/item/537/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |
+| 5º Voluntário | ![6020.png](https://static.divine-pride.net/images/items/item/6020.png) 30 [Pelos](http://www.divine-pride.net/database/item/6020/) | - Experiência de Base: 8.000 - Experiência de Classe: 3.000 |

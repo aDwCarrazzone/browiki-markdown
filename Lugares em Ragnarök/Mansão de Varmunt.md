@@ -28,22 +28,22 @@ A mansão ficou abandonada por alguns anos, até ser ocupada pelos Rebeldes, num
 
 |  |  |  |
 | --- | --- | --- |
-| Mansão de Varmunt map novo | | |
-| Map transp | Aeroporto | (ba\_maison 33,222) |
-| Map lantern | [Mansão de Varmunt](http://www.divine-pride.net/database/map/ba_in01/) | (ba\_maison 197,274) |
-| Map dun01 | [Usina Mágica II](http://www.divine-pride.net/database/map/ba_pw03/) | (ba\_maison 88,269) |
-| Map dun02 | [Usina Mágica I](http://www.divine-pride.net/database/map/ba_pw01/) | (ba\_maison 75,146) |
-| Map dun03 | [Biblioteca](http://www.divine-pride.net/database/map/ba_lib/) | (ba\_maison 197,102) |
-| Map dun04 | [Estufa de Pitayas](http://www.divine-pride.net/database/map/ba_lost/) | (ba\_maison 311,203) |
-| Map dun05 | [Armazém Tártaro](http://www.divine-pride.net/database/map/ba_2whs01/) | (ba\_maison 305,319) |
+| ![Mansão de Varmunt map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Mans%C3%A3o_de_Varmunt_map_novo.png) | | |
+| ![Map transp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Map_transp.png) | Aeroporto | (ba\_maison 33,222) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Mansão de Varmunt](http://www.divine-pride.net/database/map/ba_in01/) | (ba\_maison 197,274) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Usina Mágica II](http://www.divine-pride.net/database/map/ba_pw03/) | (ba\_maison 88,269) |
+| ![Map dun02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Map_dun02.png) | [Usina Mágica I](http://www.divine-pride.net/database/map/ba_pw01/) | (ba\_maison 75,146) |
+| ![Map dun03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Map_dun03.png) | [Biblioteca](http://www.divine-pride.net/database/map/ba_lib/) | (ba\_maison 197,102) |
+| ![Map dun04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Map_dun04.png) | [Estufa de Pitayas](http://www.divine-pride.net/database/map/ba_lost/) | (ba\_maison 311,203) |
+| ![Map dun05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Map_dun05.png) | [Armazém Tártaro](http://www.divine-pride.net/database/map/ba_2whs01/) | (ba\_maison 305,319) |
 
 |  |  |  |
 | --- | --- | --- |
 | NPCs | | |
 | Epsilon | Troca [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") | (ba\_in01 87,383) |
-| Chuvubo | Vende os seguintes Cubos:  - 100251.png [Refinador de Ilusión](http://www.divine-pride.net/database/item/100251/): 10.000.000z - 100252.png [Refinador de Automatron](http://www.divine-pride.net/database/item/100252/): 30.000.000z | (ba\_in01 87,376) |
+| Chuvubo | Vende os seguintes Cubos:  - ![100251.png](https://static.divine-pride.net/images/items/item/100251.png) [Refinador de Ilusión](http://www.divine-pride.net/database/item/100251/): 10.000.000z - ![100252.png](https://static.divine-pride.net/images/items/item/100252.png) [Refinador de Automatron](http://www.divine-pride.net/database/item/100252/): 30.000.000z | (ba\_in01 87,376) |
 | Upsilon | Troca [Automódulos](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") | (ba\_in01 87,383) |
-| Sipera | Troca 1000104.png 300 [Pedra-Sabão Mágica](http://www.divine-pride.net/database/item/1000104/) | (ba\_in01 87,373) |
+| Sipera | Troca ![1000104.png](https://static.divine-pride.net/images/items/item/1000104.png) 300 [Pedra-Sabão Mágica](http://www.divine-pride.net/database/item/1000104/) | (ba\_in01 87,373) |
 | Ryza | Encanta os [Equipamentos Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") | (ba\_in01 87,370) |
 
 [![PowerPlany](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/PowerPlany.jpg)](https://browiki.org/wiki/Arquivo%3APowerPlany.jpg)

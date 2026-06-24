@@ -4,15 +4,15 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Laser Rastreador** | |
-| Laser Rastreador | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Laser Rastreador** | |
+| ![Laser Rastreador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Laser_Rastreador.gif) | |
 | **ID:** | NPC\_LOCKON\_LASER (773) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |
 | **Alcance:** | 11 células |
 | **Propriedade:** | [Neutro](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
 | **Duração:** | Ver tabela |
-| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | I Marcar em Brasa |
+| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | ![I Marcar em Brasa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/I_Marcar_em_Brasa.png) |
 
 Trava uma mira no alvo, que dura por alguns segundos.
 

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Sangria** | |
-| Sangria | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Sangria** | |
+| ![Sangria](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Sangria.gif) | |
 | **ID:** | NPC\_WIDEBLEEDING2 (756) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -28,14 +28,14 @@ A duração do [Sangramento](../Sem%20categoria/Sangramento.md "Sangramento") é
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Sangria](http://www.divine-pride.net/database/skill/756)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Armas relacionadas:
-  - ![13042.png](http://static.divine-pride.net/images/items/item/13042.png) [Gladius Glorioso](http://www.divine-pride.net/database/item/13042/)
-  - ![1271.png](http://static.divine-pride.net/images/items/item/1271.png) [Lágrimas Sangrentas](http://www.divine-pride.net/database/item/1271/)
+  - ![13042.png](https://static.divine-pride.net/images/items/item/13042.png) [Gladius Glorioso](http://www.divine-pride.net/database/item/13042/)
+  - ![1271.png](https://static.divine-pride.net/images/items/item/1271.png) [Lágrimas Sangrentas](http://www.divine-pride.net/database/item/1271/)
 - Equipamentos relacionados:
-  - ![5498.png](http://static.divine-pride.net/images/items/item/5498.png) [Elmo do Lobo Errante](http://www.divine-pride.net/database/item/5498/)
-  - ![15000.png](http://static.divine-pride.net/images/items/item/15000.png) [Armadura de Placas de Ossos](http://www.divine-pride.net/database/item/15000/)
+  - ![5498.png](https://static.divine-pride.net/images/items/item/5498.png) [Elmo do Lobo Errante](http://www.divine-pride.net/database/item/5498/)
+  - ![15000.png](https://static.divine-pride.net/images/items/item/15000.png) [Armadura de Placas de Ossos](http://www.divine-pride.net/database/item/15000/)
 - Cartas relacionadas:
-  - ![4525.png](http://static.divine-pride.net/images/items/item/4525.png) [Carta Kraken](http://www.divine-pride.net/database/item/4525/)
-  - ![4591.png](http://static.divine-pride.net/images/items/item/4591.png) [Carta Bakonawa](http://www.divine-pride.net/database/item/4591/)
+  - ![4525.png](https://static.divine-pride.net/images/items/item/4525.png) [Carta Kraken](http://www.divine-pride.net/database/item/4525/)
+  - ![4591.png](https://static.divine-pride.net/images/items/item/4591.png) [Carta Bakonawa](http://www.divine-pride.net/database/item/4591/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

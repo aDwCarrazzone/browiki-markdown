@@ -2,16 +2,16 @@
 
 # Encontrando a Ilha-Baleia
 
-| NQ ico Encontrando a Ilha-Baleia | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Encontrando a Ilha-Baleia | |
 | --- | --- |
 | Uma misteriosa ilha que se move parece ser história de pescador! Aventure-se pelo mar para ser testemunha de uma lenda e aprender a tocar um novo instrumento! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7312.png 10 [Jubileu](http://www.divine-pride.net/database/item/7312/)  7317.png 10 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  7167.png 10 [Misterioso Metal em Pano](http://www.divine-pride.net/database/item/7167/)  7325.png 5 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/)  7201.png 30 [Tora](http://www.divine-pride.net/database/item/7201/)  7197.png 20 [Palha](http://www.divine-pride.net/database/item/7197/)  7106.png 20 [Chifre de Bode](http://www.divine-pride.net/database/item/7106/)  7065.png 10 [Pele de Lontra](http://www.divine-pride.net/database/item/7065/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7312.png](https://static.divine-pride.net/images/items/item/7312.png) 10 [Jubileu](http://www.divine-pride.net/database/item/7312/)  ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 10 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  ![7167.png](https://static.divine-pride.net/images/items/item/7167.png) 10 [Misterioso Metal em Pano](http://www.divine-pride.net/database/item/7167/)  ![7325.png](https://static.divine-pride.net/images/items/item/7325.png) 5 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/)  ![7201.png](https://static.divine-pride.net/images/items/item/7201.png) 30 [Tora](http://www.divine-pride.net/database/item/7201/)  ![7197.png](https://static.divine-pride.net/images/items/item/7197.png) 20 [Palha](http://www.divine-pride.net/database/item/7197/)  ![7106.png](https://static.divine-pride.net/images/items/item/7106.png) 20 [Chifre de Bode](http://www.divine-pride.net/database/item/7106/)  ![7065.png](https://static.divine-pride.net/images/items/item/7065.png) 10 [Pele de Lontra](http://www.divine-pride.net/database/item/7065/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 2707.png 1 [Gusli](http://www.divine-pride.net/database/item/2707/)  617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2707.png](https://static.divine-pride.net/images/items/item/2707.png) 1 [Gusli](http://www.divine-pride.net/database/item/2707/)  ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 | **Recompensa** | Acesso a [Ilha-Baleia](http://www.divine-pride.net/database/map/mosk_fild01/) |
 
 1. Converse sobre a Ilha-Baleia com Berbayeff (moscovia 171,71)

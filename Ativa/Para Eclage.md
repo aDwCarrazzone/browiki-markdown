@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Eclage Para Eclage** | |
-| Para Eclage | |
+| **![Para Eclage](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Para_Eclage.png) Para Eclage** | |
+| ![Para Eclage](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1d/Para_Eclage.gif) | |
 | **Return to Eclage** | |
 | **ID** | ECLAGE\_RECALL (3035) |
 | **Tipo** | Ativa |

@@ -2,17 +2,17 @@
 
 # Erva Medicinal
 
-| NQ ico Erva Medicinal | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Erva Medicinal | |
 | --- | --- |
 | Seja assistente de uma Doutora para conseguir os remédios necessários para cuidar de seus pacientes. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 40 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7172.png 2 [Garras de Leopardo](http://www.divine-pride.net/database/item/7172/)  7164.png 10 [Pêssego Petrificado](http://www.divine-pride.net/database/item/7164/)  7155.png 5 [Pele de Sapo](http://www.divine-pride.net/database/item/7155/)  7188.png 20 [Raiz Marrom](http://www.divine-pride.net/database/item/7188/)  7193.png 10 [Semente](http://www.divine-pride.net/database/item/7193/)  7121.png 5 [Pote de Mel](http://www.divine-pride.net/database/item/7121/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7172.png](https://static.divine-pride.net/images/items/item/7172.png) 2 [Garras de Leopardo](http://www.divine-pride.net/database/item/7172/)  ![7164.png](https://static.divine-pride.net/images/items/item/7164.png) 10 [Pêssego Petrificado](http://www.divine-pride.net/database/item/7164/)  ![7155.png](https://static.divine-pride.net/images/items/item/7155.png) 5 [Pele de Sapo](http://www.divine-pride.net/database/item/7155/)  ![7188.png](https://static.divine-pride.net/images/items/item/7188.png) 20 [Raiz Marrom](http://www.divine-pride.net/database/item/7188/)  ![7193.png](https://static.divine-pride.net/images/items/item/7193.png) 10 [Semente](http://www.divine-pride.net/database/item/7193/)  ![7121.png](https://static.divine-pride.net/images/items/item/7121.png) 5 [Pote de Mel](http://www.divine-pride.net/database/item/7121/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 10.000 |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 679.png 5 [Pílula Douradas](http://www.divine-pride.net/database/item/679/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![679.png](https://static.divine-pride.net/images/items/item/679.png) 5 [Pílula Douradas](http://www.divine-pride.net/database/item/679/) |
 
 1. Ofereça ajuda a Doutora (lou\_in02 265,69)
 

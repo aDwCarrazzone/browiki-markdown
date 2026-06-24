@@ -2,15 +2,15 @@
 
 # Carrascos na Prisão
 
-| NQ ico Carrascos na Prisão | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Carrascos na Prisão | |
 | --- | --- |
 | Jure lealdade e subserviência à Jirtas para colocar ordem em uma prisão habitada por mortos-vivo | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1960.png 1 [Chicote](http://www.divine-pride.net/database/item/1960/) 7315.png 369 [Cristais Negros](http://www.divine-pride.net/database/item/7315/)  660.png 1 [Vela do Marquês](http://www.divine-pride.net/database/item/660/)  7263.png 1 [Olho de Gato](http://www.divine-pride.net/database/item/7263/)  7099.png 30 [Pergaminhos Antigos](http://www.divine-pride.net/database/item/7099/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1960.png](https://static.divine-pride.net/images/items/item/1960.png) 1 [Chicote](http://www.divine-pride.net/database/item/1960/) ![7315.png](https://static.divine-pride.net/images/items/item/7315.png) 369 [Cristais Negros](http://www.divine-pride.net/database/item/7315/)  ![660.png](https://static.divine-pride.net/images/items/item/660.png) 1 [Vela do Marquês](http://www.divine-pride.net/database/item/660/)  ![7263.png](https://static.divine-pride.net/images/items/item/7263.png) 1 [Olho de Gato](http://www.divine-pride.net/database/item/7263/)  ![7099.png](https://static.divine-pride.net/images/items/item/7099.png) 30 [Pergaminhos Antigos](http://www.divine-pride.net/database/item/7099/) |
 | Premiação | |
-| **Recompensa** | 5121.png 1 [Máscara de Jirtas](http://www.divine-pride.net/database/item/5121/) |
+| **Recompensa** | ![5121.png](https://static.divine-pride.net/images/items/item/5121.png) 1 [Máscara de Jirtas](http://www.divine-pride.net/database/item/5121/) |
 
 1. Fale com Jirtas (gl\_prison1 137,138) e escolha a primeira opção duas vezes.
 

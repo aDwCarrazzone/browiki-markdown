@@ -2,7 +2,7 @@
 
 # Mestre do Sushi
 
-| DQ ico Mestre do Sushi | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Mestre do Sushi | |
 | --- | --- |
 | O dono do restaurante mais famoso da cidade está precisando de ajuda para lidar com a grande demanda de clientes famintos! | |
 | Requisitos mínimos | |
@@ -22,11 +22,11 @@
 
 :   :   :   | Pedido | Recompensa |
             | --- | --- |
-            | |  |  | | --- | --- | | 529.png | 10 [Bala](http://www.divine-pride.net/database/item/529/) | | |  |  | | --- | --- | | 544.png | 15 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |
-            | |  |  | | --- | --- | | 964.png | 10 [Casco de Caranguejo](http://www.divine-pride.net/database/item/964/) | | |  |  | | --- | --- | | 551.png | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
-            | |  |  | | --- | --- | | 961.png | 10 [Concha](http://www.divine-pride.net/database/item/961/) | | |  |  | | --- | --- | | 551.png | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
-            | |  |  | | --- | --- | | 1023.png | 10 [Cauda de Peixe](http://www.divine-pride.net/database/item/1023/) | | |  |  | | --- | --- | | 544.png | 15 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |
-            | |  |  | | --- | --- | | 551.png | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
-            | |  |  | | --- | --- | | 736.png | 1 [Prato de Porcelana](http://www.divine-pride.net/database/item/736/) | | |  |  | | --- | --- | | 551.png | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
-            | |  |  | | --- | --- | | 950.png | 100 [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | | |  |  | | --- | --- | | 551.png | 50 [Sushi](http://www.divine-pride.net/database/item/551/) | |
-            | |  |  | | --- | --- | | 544.png | 50 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |
+            | |  |  | | --- | --- | | ![529.png](https://static.divine-pride.net/images/items/item/529.png) | 10 [Bala](http://www.divine-pride.net/database/item/529/) | | |  |  | | --- | --- | | ![544.png](https://static.divine-pride.net/images/items/item/544.png) | 15 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |
+            | |  |  | | --- | --- | | ![964.png](https://static.divine-pride.net/images/items/item/964.png) | 10 [Casco de Caranguejo](http://www.divine-pride.net/database/item/964/) | | |  |  | | --- | --- | | ![551.png](https://static.divine-pride.net/images/items/item/551.png) | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
+            | |  |  | | --- | --- | | ![961.png](https://static.divine-pride.net/images/items/item/961.png) | 10 [Concha](http://www.divine-pride.net/database/item/961/) | | |  |  | | --- | --- | | ![551.png](https://static.divine-pride.net/images/items/item/551.png) | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
+            | |  |  | | --- | --- | | ![1023.png](https://static.divine-pride.net/images/items/item/1023.png) | 10 [Cauda de Peixe](http://www.divine-pride.net/database/item/1023/) | | |  |  | | --- | --- | | ![544.png](https://static.divine-pride.net/images/items/item/544.png) | 15 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |
+            | |  |  | | --- | --- | | ![551.png](https://static.divine-pride.net/images/items/item/551.png) | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
+            | |  |  | | --- | --- | | ![736.png](https://static.divine-pride.net/images/items/item/736.png) | 1 [Prato de Porcelana](http://www.divine-pride.net/database/item/736/) | | |  |  | | --- | --- | | ![551.png](https://static.divine-pride.net/images/items/item/551.png) | 20 [Sushi](http://www.divine-pride.net/database/item/551/) | |
+            | |  |  | | --- | --- | | ![950.png](https://static.divine-pride.net/images/items/item/950.png) | 100 [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | | |  |  | | --- | --- | | ![551.png](https://static.divine-pride.net/images/items/item/551.png) | 50 [Sushi](http://www.divine-pride.net/database/item/551/) | |
+            | |  |  | | --- | --- | | ![544.png](https://static.divine-pride.net/images/items/item/544.png) | 50 [Peixe Cru](http://www.divine-pride.net/database/item/544/) | |

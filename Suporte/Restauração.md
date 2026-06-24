@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Restauração Restauração** | |
-| Restauração | |
+| **![Restauração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Restaura%C3%A7%C3%A3o.png) Restauração** | |
+| ![Restauração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Restaura%C3%A7%C3%A3o.gif) | |
 | **Restoration** | |
 | **ID** | GD\_RESTORE (10012) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Área** | 31x31 células |
 | **Pré-requisitos** | |
-| [Regeneração](Regenera%C3%A7%C3%A3o.md "Regeneração") [Regeneração](Regenera%C3%A7%C3%A3o.md "Regeneração") Nv. 1 | |
+| [![Regeneração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Regenera%C3%A7%C3%A3o.png)](Regenera%C3%A7%C3%A3o.md "Regeneração") [Regeneração](Regenera%C3%A7%C3%A3o.md "Regeneração") Nv. 1 | |
 
 Regenera 90% do [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") de todos os membros do [clã](../PvP/Cl%C3%A3.md "Clã") ao redor.
 

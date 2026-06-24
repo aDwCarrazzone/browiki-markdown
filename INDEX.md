@@ -2,7 +2,7 @@
 
 Índice navegável por categoria. Cada página de conteúdo está na pasta da sua categoria principal (e listada em todas as suas categorias abaixo).
 
-**2405 páginas** em **72 categorias**.
+**2407 páginas** em **72 categorias**.
 
 ## Categorias
 
@@ -54,7 +54,7 @@
 - [Imagens](#imagens) (18)
 - [Informações básicas](#informações-básicas) (40)
 - [Instâncias](#instâncias) (56)
-- [Itens](#itens) (20)
+- [Itens](#itens) (21)
 - [Lugares em Ragnarök](#lugares-em-ragnarök) (58)
 - [O Poder Divino](#o-poder-divino) (154)
 - [O Poder dos Elementos](#o-poder-dos-elementos) (164)
@@ -67,11 +67,11 @@
 - [PvP](#pvp) (7)
 - [Página Inicial](#página-inicial) (1)
 - [Páginas com aviso](#páginas-com-aviso) (14)
-- [Páginas com ligações inválidas para arquivos](#páginas-com-ligações-inválidas-para-arquivos) (159)
+- [Páginas com ligações inválidas para arquivos](#páginas-com-ligações-inválidas-para-arquivos) (158)
 - [Páginas marcadas para atualização futura](#páginas-marcadas-para-atualização-futura) (5)
 - [Páginas que usam a etiqueta Tabber do analisador sintático](#páginas-que-usam-a-etiqueta-tabber-do-analisador-sintático) (73)
-- [Quest](#quest) (401)
-- [Quests de caça](#quests-de-caça) (108)
+- [Quest](#quest) (403)
+- [Quests de caça](#quests-de-caça) (109)
 - [Quests de experiência](#quests-de-experiência) (188)
 - [Quests diárias](#quests-diárias) (30)
 - [Quests repetíveis](#quests-repetíveis) (37)
@@ -2770,6 +2770,7 @@
 - [Equipamento Excelion](Quest/Equipamento%20Excelion.md)
 - [Equipamento Inicial](Itens/Equipamento%20Inicial.md)
 - [Equipamentos Automatron](Quest/Equipamentos%20Automatron.md)
+- [Equipamentos Cinzentos](Quest/Equipamentos%20Cinzentos.md)
 - [Equipamentos de Honra](Itens/Equipamentos%20de%20Honra.md)
 - [Equipamentos Ilusión](Quest/Equipamentos%20Ilusi%C3%B3n.md)
 - [Fabricação de Chapéus](Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md)
@@ -4122,7 +4123,6 @@
 - [Avanço Sísmico](Ofensiva/Avan%C3%A7o%20S%C3%ADsmico.md)
 - [Benedictum](Suporte/Benedictum.md)
 - [Cacos de Gelo](Ofensiva/Cacos%20de%20Gelo.md)
-- [Caminho da Oração](Quests%20de%20experi%C3%AAncia/Caminho%20da%20Ora%C3%A7%C3%A3o.md)
 - [Canalizar Energia](Suporte/Canalizar%20Energia.md)
 - [Caprichos de Loki](Ativa/Caprichos%20de%20Loki.md)
 - [Carrasco Sombrio](Suporte/Carrasco%20Sombrio.md)
@@ -4450,6 +4450,7 @@
 - [Entrega de Sopa](Quests%20repet%C3%ADveis/Entrega%20de%20Sopa.md)
 - [Equipamento Excelion](Quest/Equipamento%20Excelion.md)
 - [Equipamentos Automatron](Quest/Equipamentos%20Automatron.md)
+- [Equipamentos Cinzentos](Quest/Equipamentos%20Cinzentos.md)
 - [Equipamentos do Éden](Quest/Equipamentos%20do%20%C3%89den.md)
 - [Equipamentos Ilusión](Quest/Equipamentos%20Ilusi%C3%B3n.md)
 - [Erva Medicinal](Quests%20de%20experi%C3%AAncia/Erva%20Medicinal.md)
@@ -4656,6 +4657,7 @@
 - [Pedras da Xamã](Quests%20repet%C3%ADveis/Pedras%20da%20Xam%C3%A3.md)
 - [Pesquisador Avant](Quests%20de%20experi%C3%AAncia/Pesquisador%20Avant.md)
 - [Pesquisador de Mora](Quests%20de%20experi%C3%AAncia/Pesquisador%20de%20Mora.md)
+- [Pessoas de Rachel](Quests%20de%20ca%C3%A7a/Pessoas%20de%20Rachel.md)
 - [Posto Policial](Quests%20repet%C3%ADveis/Posto%20Policial.md)
 - [Preocupações de Fada](Quests%20de%20experi%C3%AAncia/Preocupa%C3%A7%C3%B5es%20de%20Fada.md)
 - [Primeiros Passos](Quests%20de%20experi%C3%AAncia/Primeiros%20Passos.md)
@@ -4839,6 +4841,7 @@
 - [Passe de Batalha](Evento/Passe%20de%20Batalha.md)
 - [Passe de Batalha 1](Quests%20de%20ca%C3%A7a/Passe%20de%20Batalha%201.md)
 - [Pedido de Lin](Quests%20de%20ca%C3%A7a/Pedido%20de%20Lin.md)
+- [Pessoas de Rachel](Quests%20de%20ca%C3%A7a/Pessoas%20de%20Rachel.md)
 - [Posto Policial](Quests%20repet%C3%ADveis/Posto%20Policial.md)
 - [Primeiros Passos](Quests%20de%20experi%C3%AAncia/Primeiros%20Passos.md)
 - [Profeta K](Quests%20de%20ca%C3%A7a/Profeta%20K.md)

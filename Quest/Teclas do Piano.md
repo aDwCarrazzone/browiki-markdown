@@ -2,7 +2,7 @@
 
 # Teclas do Piano
 
-| NQ ico Teclas do Piano | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Teclas do Piano | |
 | --- | --- |
 | Sair do mundo dos mortos pode ser uma tarefa difícil para quem está vivo! Encontre as teclas do piano para conseguir voltar ao mundo dos humanos. | |
 | Requisitos mínimos | |

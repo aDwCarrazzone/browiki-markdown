@@ -22,11 +22,11 @@ Os Manuks possuem suas próprias moedas, conseguidas através de [quests](../Que
 
 |  |  |  |
 | --- | --- | --- |
-| Manuka map novo | | |
-| Map azul | Mineradora | (man\_in01 311,57) |
-| Map rosa | Prisão Manuka | (man\_in01 291,62) |
-| Map lantern | Posto Comercial | (man\_in01 358,121) |
-| Map dun01 | [Túnel Kamidal](http://www.divine-pride.net/database/map/dic_dun01/) | (manuk 231,181) |
+| ![Manuka map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Manuka_map_novo.png) | | |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Mineradora | (man\_in01 311,57) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Prisão Manuka | (man\_in01 291,62) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Posto Comercial | (man\_in01 358,121) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Túnel Kamidal](http://www.divine-pride.net/database/map/dic_dun01/) | (manuk 231,181) |
 
 |  |  |  |
 | --- | --- | --- |

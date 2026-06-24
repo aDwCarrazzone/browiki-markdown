@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Lighthalzen Para Lighthalzen** | |
-| Para Lighthalzen | |
+| **![Para Lighthalzen](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Para_Lighthalzen.png) Para Lighthalzen** | |
+| ![Para Lighthalzen](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/31/Para_Lighthalzen.gif) | |
 | **Lighthalzen Recall** | |
 | **ID** | ALL\_LIGHTHALZEN\_RECALL (3044) |
 | **Tipo** | Ativa |

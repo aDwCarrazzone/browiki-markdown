@@ -29,6 +29,6 @@
      - Ao derrotá-lo, a Aglomeração Maligna reaparece no mapa. Você tem 30 minutos para clicar no [NPC](../Sem%20categoria/NPC.md "NPC") e receber a [Pele do Imperador Morroc](http://www.divine-pride.net/database/item/7820/).
 6. Entregue a [Pele do Imperador Morroc](http://www.divine-pride.net/database/item/7820/) ao Chefe Balrog para receber sua recompensa.
    - Você pode escolher 1 acessório das 3 opções abaixo:
-     - ![2730.png](http://static.divine-pride.net/images/items/item/2730.png) 1 [Selo da Guarda Continental](http://www.divine-pride.net/database/item/2730/) [1]
-     - ![2731.png](http://static.divine-pride.net/images/items/item/2731.png) 1 [Pedra Encantada de Morroc](http://www.divine-pride.net/database/item/2731/) [1]
-     - ![2732.png](http://static.divine-pride.net/images/items/item/2732.png) 1 [Anel de Morroc](http://www.divine-pride.net/database/item/2732/) [1]
+     - ![2730.png](https://static.divine-pride.net/images/items/item/2730.png) 1 [Selo da Guarda Continental](http://www.divine-pride.net/database/item/2730/) [1]
+     - ![2731.png](https://static.divine-pride.net/images/items/item/2731.png) 1 [Pedra Encantada de Morroc](http://www.divine-pride.net/database/item/2731/) [1]
+     - ![2732.png](https://static.divine-pride.net/images/items/item/2732.png) 1 [Anel de Morroc](http://www.divine-pride.net/database/item/2732/) [1]

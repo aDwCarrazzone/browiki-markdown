@@ -2,13 +2,13 @@
 
 # Vila Cautelosa
 
-| NQ ico Vila Cautelosa | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Vila Cautelosa | |
 | --- | --- |
 | Os nativos da ilha ainda estranham os estrangeiros na cidade. É melhor você causar uma boa primeira impressão! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 523.png 6 [Água Benta](http://www.divine-pride.net/database/item/523/)  717.png 6 [Gema Azul](http://www.divine-pride.net/database/item/717/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![523.png](https://static.divine-pride.net/images/items/item/523.png) 6 [Água Benta](http://www.divine-pride.net/database/item/523/)  ![717.png](https://static.divine-pride.net/images/items/item/717.png) 6 [Gema Azul](http://www.divine-pride.net/database/item/717/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |

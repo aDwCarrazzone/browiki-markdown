@@ -2,13 +2,13 @@
 
 # Outra Dimensão
 
-| EP ico Outra Dimensão | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Outra Dimensão | |
 | --- | --- |
 | A abertura de uma passagem para uma dimensão desconhecida está mobilizando oficiais dos três continentes de Midgard. Será necessário participar de avaliações para descobrir sua aptidão para o Novo Mundo! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 909.png 300 [Jellopy](http://www.divine-pride.net/database/item/909/)  721.png 1 [Esmeralda](http://www.divine-pride.net/database/item/721/)  723.png 1 [Rubi](http://www.divine-pride.net/database/item/723/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![909.png](https://static.divine-pride.net/images/items/item/909.png) 300 [Jellopy](http://www.divine-pride.net/database/item/909/)  ![721.png](https://static.divine-pride.net/images/items/item/721.png) 1 [Esmeralda](http://www.divine-pride.net/database/item/721/)  ![723.png](https://static.divine-pride.net/images/items/item/723.png) 1 [Rubi](http://www.divine-pride.net/database/item/723/) |
 | **Caça** | 50 [Soldados da Aliança](http://www.divine-pride.net/database/monster/1313/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 132.000 |
@@ -75,8 +75,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Outra Dimensão | SetaVermelha | [A Fada e a Árvore](A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | SetaVermelha | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | SetaVermelha | [Visita do Manuk](../Quest/Visita%20do%20Manuk.md "Visita do Manuk") | SetaVermelha | [A Ordem Secreta de Doha](../Quest/A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha") | SetaVermelha | [Chamado de Cheshire](Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
+| Outra Dimensão | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Fada e a Árvore](A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Visita do Manuk](../Quest/Visita%20do%20Manuk.md "Visita do Manuk") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Ordem Secreta de Doha](../Quest/A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Chamado de Cheshire](Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
 | [Novo Dia de Cheshire](../Quests%20repet%C3%ADveis/Novo%20Dia%20de%20Cheshire.md "Novo Dia de Cheshire") |
 | **ou** | | [Coleta de Bradium](../Quests%20repet%C3%ADveis/Coleta%20de%20Bradium.md "Coleta de Bradium") |
-| [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") | SetaVermelha | [Guardiã de Yggdrasil](Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") | SetaVermelha | [Ninho de Nidhogg](../Quest/Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
-| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | SetaVermelha | [Ilha Bios](../Quest/Ilha%20Bios.md "Ilha Bios") | SetaVermelha | [Caverna de Mors](../Quest/Caverna%20de%20Mors.md "Caverna de Mors") | SetaVermelha | [Templo do Demônio Rei](Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |
+| [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Guardiã de Yggdrasil](Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ninho de Nidhogg](../Quest/Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
+| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilha Bios](../Quest/Ilha%20Bios.md "Ilha Bios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caverna de Mors](../Quest/Caverna%20de%20Mors.md "Caverna de Mors") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Templo do Demônio Rei](Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |

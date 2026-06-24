@@ -180,23 +180,35 @@ def clean_and_collect(html: str, exported_titles: set[str]):
         elif href.startswith("/"):
             a["href"] = BASE + href
 
-    # Imagens -> caminho local + coleta.
-    for img in soup.find_all("img"):
-        local = _local_image_path(img.get("src", ""))
+    # Imagens: substitui cada <img> por um TOKEN (caractere de uso privado) antes do
+    # markdownify. Motivo: o markdownify descarta <img> dentro de tabelas (mantem so o
+    # alt). O token e' texto puro, sobrevive em qualquer lugar (tabelas, links), e e'
+    # trocado por ![alt](src) depois da conversao. Devolve o mapa token->markdown.
+    placeholders: dict[str, str] = {}
+    for n, img in enumerate(soup.find_all("img")):
+        src = img.get("src", "")
+        local = _local_image_path(src)
         if local:
             images.add(local)
-            img["src"] = local
-            if not img.get("alt"):
-                img["alt"] = unquote(os.path.splitext(os.path.basename(local))[0]).replace("_", " ")
-            for attr in ("srcset", "decoding", "loading", "width", "height", "class"):
-                img.attrs.pop(attr, None)
+            final = local
+            alt = img.get("alt") or unquote(os.path.splitext(os.path.basename(local))[0]).replace("_", " ")
         else:
-            # imagem externa (ex.: divine-pride) — mantem absoluta
-            s = img.get("src", "")
-            if s.startswith("//"):
-                img["src"] = "https:" + s
+            if src.startswith("//"):
+                final = "https:" + src
+            elif src.startswith("http://"):
+                final = "https://" + src[len("http://"):]  # camo/GitHub preferem https
+            else:
+                final = src
+            alt = img.get("alt") or ""
+        if not final:
+            img.decompose()
+            continue
+        alt = alt.replace("[", "").replace("]", "").strip()
+        token = chr(0xE000) + str(n) + chr(0xE001)  # uso privado: unico, nao escapado
+        placeholders[token] = f"![{alt}]({final})"
+        img.replace_with(NavigableString(token))
 
-    return str(soup), images
+    return str(soup), images, placeholders
 
 
 def html_to_markdown(html: str) -> str:
@@ -291,10 +303,12 @@ def export_markdown(out: str, limit=None, do_images=True, full=False):
 
             html = parse["text"]["*"] if isinstance(parse["text"], dict) else parse["text"]
             cats = [c["*"] if isinstance(c, dict) else c for c in parse.get("categories", [])]
-            clean_html, imgs = clean_and_collect(html, exported_titles)
+            clean_html, imgs, placeholders = clean_and_collect(html, exported_titles)
             new_images |= imgs
 
             body = html_to_markdown(clean_html)
+            for tok, mdimg in placeholders.items():
+                body = body.replace(tok, mdimg)
             fm = frontmatter(title, ns, revid, cats, retrieved)
             rel = md_path_for(title, ns)
             dest = os.path.join(md_dir, rel)

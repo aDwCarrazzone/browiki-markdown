@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Transformação Orc** | |
-| Transformação Orc | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Transformação Orc** | |
+| ![Transformação Orc](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Transforma%C3%A7%C3%A3o_Orc.gif) | |
 | **ID:** | ALL\_REVERSEORCISH (294) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Não |
@@ -21,7 +21,7 @@ Altera a cabeça do personagem na de um Orc por 30 segundos.
 - Pode ser removido por [Pó de Yggdrasil](../Suporte/P%C3%B3%20de%20Yggdrasil.md "Pó de Yggdrasil"), pela [Poção de Recuperação](http://www.divine-pride.net/database/item/12475/) ou ao desconectar-se do jogo.
 - Pode ser adquirida pela habilidade [Abracadabra](../Ativa/Abracadabra.md "Abracadabra").
 - Consumíveis relacionados:
-  - ![12347.png](http://static.divine-pride.net/images/items/item/12347.png) [Geleia de Avelã](http://www.divine-pride.net/database/item/12347/)
+  - ![12347.png](https://static.divine-pride.net/images/items/item/12347.png) [Geleia de Avelã](http://www.divine-pride.net/database/item/12347/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

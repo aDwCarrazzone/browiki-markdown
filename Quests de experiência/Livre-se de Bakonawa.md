@@ -2,7 +2,7 @@
 
 # Livre-se de Bakonawa
 
-| NQ ico Livre-se de Bakonawa | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Livre-se de Bakonawa | |
 | --- | --- |
 | O terrível Bakonawa tem feito vítimas pela cidade! Está na hora de um confronto direto com a criatura! | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12700.png 5 [Camisetas do Avesso](http://www.divine-pride.net/database/item/12700/)  12699.png 5 [Cinturões de Tikbalang](http://www.divine-pride.net/database/item/12699/)  6499.png 5 [Rancores Antigos](http://www.divine-pride.net/database/item/6499/)  6497.png 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12700.png](https://static.divine-pride.net/images/items/item/12700.png) 5 [Camisetas do Avesso](http://www.divine-pride.net/database/item/12700/)  ![12699.png](https://static.divine-pride.net/images/items/item/12699.png) 5 [Cinturões de Tikbalang](http://www.divine-pride.net/database/item/12699/)  ![6499.png](https://static.divine-pride.net/images/items/item/6499.png) 5 [Rancores Antigos](http://www.divine-pride.net/database/item/6499/)  ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
 | **Recompensa** | Acesso ao [Lago de Bakonawa](../Quest/Lago%20de%20Bakonawa.md "Lago de Bakonawa") |
 
 1. Dirija-se ao Chefe da Vila (malaya 283,265)
@@ -61,7 +61,7 @@
 
       :   ![Malaya40](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Malaya40.png)
 9. Volte ao Chefe da Vila para receber sua recompensa.
-   - ![6497.png](http://static.divine-pride.net/images/items/item/6497.png) 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/)
+   - ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/)
    - 1.000.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base.
    - 600.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 10. Acesse o [Lago de Bakonawa](../Quest/Lago%20de%20Bakonawa.md "Lago de Bakonawa") através de Taho (ma\_scene01 174,179)

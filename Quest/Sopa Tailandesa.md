@@ -2,7 +2,7 @@
 
 # Sopa Tailandesa
 
-| NQ ico Sopa Tailandesa | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Sopa Tailandesa | |
 | --- | --- |
 | Se você deseja experimentar o prato mais famoso da cidade, você deverá ajudar uma simpática cozinheira com os ingredientes que estão faltando! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **[Itens](../Itens/Itens.md "Itens")** | Nenhum |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 13.000 |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 566.png 10 [Sopas Tailandesas](http://www.divine-pride.net/database/item/566/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![566.png](https://static.divine-pride.net/images/items/item/566.png) 10 [Sopas Tailandesas](http://www.divine-pride.net/database/item/566/) |
 
 1. Fale com Einon (ayothaya 196,265)
 

@@ -2,14 +2,14 @@
 
 # O Passado deu Errado
 
-| NQ ico O Passado deu Errado | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) O Passado deu Errado | |
 | --- | --- |
 | Um pai saudoso ainda almeja por um encontro com sua filha perdida. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 7311.png 4 [Bilhetes para Aeroplano](http://www.divine-pride.net/database/item/7311/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7311.png](https://static.divine-pride.net/images/items/item/7311.png) 4 [Bilhetes para Aeroplano](http://www.divine-pride.net/database/item/7311/) |
 | **Recompensa** | Habilita o conserto de [armas](../Sem%20categoria/Armas.md "Armas") e [armaduras](../Sem%20categoria/Armaduras.md "Armaduras") quebradas em [Einbech](../Lugares%20em%20Ragnar%C3%B6k/Einbech.md "Einbech") |
 
 1. Encontre-se com Kain Himere (airplane 50,61)

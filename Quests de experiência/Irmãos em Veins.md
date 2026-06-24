@@ -2,18 +2,18 @@
 
 # Irmãos em Veins
 
-| EP ico Irmãos em Veins | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Irmãos em Veins | |
 | --- | --- |
 | Um menino chamado Karyn perdeu sua irmãzinha quando foram ao Vulcão de Thor, em Veins. Você precisa ajudá-lo a encontrar sua irmã Curdie! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 511.png 120 [Ervas Verdes](http://www.divine-pride.net/database/item/511/)  519.png 12 [Leites](http://www.divine-pride.net/database/item/519/)  909.png 60 [Jellopys](http://www.divine-pride.net/database/item/909/)  713.png 7 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/)  528.png 5 [Rações para Monstros](http://www.divine-pride.net/database/item/528/)  619.png 1 [Maçã Verde](http://www.divine-pride.net/database/item/619/)  503.png 2 [Poções Amarelas](http://www.divine-pride.net/database/item/503/)  999.png 1 [Aço](http://www.divine-pride.net/database/item/999/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![511.png](https://static.divine-pride.net/images/items/item/511.png) 120 [Ervas Verdes](http://www.divine-pride.net/database/item/511/)  ![519.png](https://static.divine-pride.net/images/items/item/519.png) 12 [Leites](http://www.divine-pride.net/database/item/519/)  ![909.png](https://static.divine-pride.net/images/items/item/909.png) 60 [Jellopys](http://www.divine-pride.net/database/item/909/)  ![713.png](https://static.divine-pride.net/images/items/item/713.png) 7 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/)  ![528.png](https://static.divine-pride.net/images/items/item/528.png) 5 [Rações para Monstros](http://www.divine-pride.net/database/item/528/)  ![619.png](https://static.divine-pride.net/images/items/item/619.png) 1 [Maçã Verde](http://www.divine-pride.net/database/item/619/)  ![503.png](https://static.divine-pride.net/images/items/item/503.png) 2 [Poções Amarelas](http://www.divine-pride.net/database/item/503/)  ![999.png](https://static.divine-pride.net/images/items/item/999.png) 1 [Aço](http://www.divine-pride.net/database/item/999/) |
 | **Quests anteriores** | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 50.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 
 1. Ajude o Garoto (veins 326,185)
 
@@ -91,6 +91,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | SetaVermelha | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | SetaVermelha | Irmãos em Veins | SetaVermelha | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
-| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | SetaVermelha |
+| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Irmãos em Veins | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
+| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

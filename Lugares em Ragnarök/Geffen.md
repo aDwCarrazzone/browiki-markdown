@@ -26,17 +26,17 @@ Reza a lenda que o impacto do martelo contra o solo foi tão forte que as cordil
 
 |  |  |  |
 | --- | --- | --- |
-| Geffen map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (geffen 120,62) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (geffen 128,68) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (geffen\_in 70,64) |
-| Map pocao | Loja de Ferramentas | (geffen\_in 77,167) |
-| Map faca | Loja de Munições | (geffen\_in 22,171) |
-| Map bandeira | Guilda dos [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | (geffen\_in 164,124) |
-| Map lantern | Associação de [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") | (geffen\_in 109,170) |
-| Map dun01 | [Torre de Geffen](http://www.divine-pride.net/database/map/gef_dun00/) | (gef\_tower 111,37) |
-| Map dun02 | [Geffenia](http://www.divine-pride.net/database/map/gefenia01/) | (geffen 130,46) |
+| ![Geffen map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Geffen_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (geffen 120,62) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (geffen 128,68) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (geffen\_in 70,64) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (geffen\_in 77,167) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (geffen\_in 22,171) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | (geffen\_in 164,124) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Associação de [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") | (geffen\_in 109,170) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Torre de Geffen](http://www.divine-pride.net/database/map/gef_dun00/) | (gef\_tower 111,37) |
+| ![Map dun02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Map_dun02.png) | [Geffenia](http://www.divine-pride.net/database/map/gefenia01/) | (geffen 130,46) |
 
 |  |  |  |
 | --- | --- | --- |

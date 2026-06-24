@@ -4,9 +4,9 @@
 
 ## Os Gaebolg
 
-| NQ ico As Famílias Reais | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) As Famílias Reais | |
 | --- | --- |
-| Gaebolg | |
+| ![Gaebolg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Gaebolg.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
@@ -14,7 +14,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 700.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Gaebolg, fale com o Guarda Costas da Rainha, Jared (prt\_cas\_q 85,127)
 
@@ -49,18 +49,18 @@ Sem missões.
 
 ## Os Walther
 
-| NQ ico As Famílias Reais | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) As Famílias Reais | |
 | --- | --- |
-| Walther | |
+| ![Walther](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Walther.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12065.png 1 [Salada Verde](http://www.divine-pride.net/database/item/12065/) 12055.png 3 [Pão de Carne Picante](http://www.divine-pride.net/database/item/12055/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12065.png](https://static.divine-pride.net/images/items/item/12065.png) 1 [Salada Verde](http://www.divine-pride.net/database/item/12065/) ![12055.png](https://static.divine-pride.net/images/items/item/12055.png) 3 [Pão de Carne Picante](http://www.divine-pride.net/database/item/12055/) |
 | **Quests anteriores** | [Banquete Real](Banquete%20Real.md "Banquete Real") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 500.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Walther, aceite ajudar Isenhonor Walther (prt\_cas\_q 13,185)
 
@@ -87,19 +87,19 @@ Sem missões.
 
 ## Os Lugenburg
 
-| DQ ico As Famílias Reais | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) As Famílias Reais | |
 | --- | --- |
-| Lugenburg | |
+| ![Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Lugenburg.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **[Itens](../Itens/Itens.md "Itens")** | Ver tabela |
 | **Quests anteriores** | [Conflito Familiar](Conflito%20Familiar.md "Conflito Familiar") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Lugenburg, fale com Agnes (prt\_cas\_q 96,184)
 
@@ -110,12 +110,12 @@ Sem missões.
 
 | Vestido | Materiais |
 | --- | --- |
-| Vestido da Primavera | |  |  | | --- | --- | | 6511.png | 5 [Flor Bonita](http://www.divine-pride.net/database/item/6511/) |  |  |  | | --- | --- | | 6510.png | 5 [Flor Elegante](http://www.divine-pride.net/database/item/6510/) |  |  |  | | --- | --- | | 6509.png | 5 [Flor Misteriosa](http://www.divine-pride.net/database/item/6509/) | |
-| Vestido do Alvorecer | |  |  | | --- | --- | | 7205.png | 20 [Retalho Negro](http://www.divine-pride.net/database/item/7205/) | |
-| Vestido Incandescente | |  |  | | --- | --- | | 7122.png | 20 [Pelugem Incandescente](http://www.divine-pride.net/database/item/7122/) | |
-| Vestido de Fada | |  |  | | --- | --- | | 6557.png | 5 [Bela Asa de Fada](http://www.divine-pride.net/database/item/6557/) | |
-| Vestido de Pétalas | |  |  | | --- | --- | | 7166.png | 15 [Seda Macia](http://www.divine-pride.net/database/item/7166/) |  |  |  | | --- | --- | | 507.png | 30 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) |  |  |  | | --- | --- | | 509.png | 10 [Erva Branca](http://www.divine-pride.net/database/item/509/) | |
-| Vestido Estelar | |  |  | | --- | --- | | 1001.png | 5 [Poeira Estelar](http://www.divine-pride.net/database/item/1001/) | |
+| Vestido da Primavera | |  |  | | --- | --- | | ![6511.png](https://static.divine-pride.net/images/items/item/6511.png) | 5 [Flor Bonita](http://www.divine-pride.net/database/item/6511/) |  |  |  | | --- | --- | | ![6510.png](https://static.divine-pride.net/images/items/item/6510.png) | 5 [Flor Elegante](http://www.divine-pride.net/database/item/6510/) |  |  |  | | --- | --- | | ![6509.png](https://static.divine-pride.net/images/items/item/6509.png) | 5 [Flor Misteriosa](http://www.divine-pride.net/database/item/6509/) | |
+| Vestido do Alvorecer | |  |  | | --- | --- | | ![7205.png](https://static.divine-pride.net/images/items/item/7205.png) | 20 [Retalho Negro](http://www.divine-pride.net/database/item/7205/) | |
+| Vestido Incandescente | |  |  | | --- | --- | | ![7122.png](https://static.divine-pride.net/images/items/item/7122.png) | 20 [Pelugem Incandescente](http://www.divine-pride.net/database/item/7122/) | |
+| Vestido de Fada | |  |  | | --- | --- | | ![6557.png](https://static.divine-pride.net/images/items/item/6557.png) | 5 [Bela Asa de Fada](http://www.divine-pride.net/database/item/6557/) | |
+| Vestido de Pétalas | |  |  | | --- | --- | | ![7166.png](https://static.divine-pride.net/images/items/item/7166.png) | 15 [Seda Macia](http://www.divine-pride.net/database/item/7166/) |  |  |  | | --- | --- | | ![507.png](https://static.divine-pride.net/images/items/item/507.png) | 30 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) |  |  |  | | --- | --- | | ![509.png](https://static.divine-pride.net/images/items/item/509.png) | 10 [Erva Branca](http://www.divine-pride.net/database/item/509/) | |
+| Vestido Estelar | |  |  | | --- | --- | | ![1001.png](https://static.divine-pride.net/images/items/item/1001.png) | 5 [Poeira Estelar](http://www.divine-pride.net/database/item/1001/) | |
 
 ## Os Heine
 
@@ -125,19 +125,19 @@ Sem missões.
 
 ## Os Richard
 
-| DQ ico As Famílias Reais | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) As Famílias Reais | |
 | --- | --- |
-| Richard | |
+| ![Richard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Richard.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Repetível |
 | **Caça** | 50 Monstros |
 | **Quests anteriores** | [Banquete Real](Banquete%20Real.md "Banquete Real") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 550.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Richards, fale com o Mordomo (prt\_cas\_q 80,80)
 
@@ -154,19 +154,19 @@ Sem missões.
 
 ## Os Wigner
 
-| DQ ico As Famílias Reais | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) As Famílias Reais | |
 | --- | --- |
-| Wigner | |
+| ![Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Wigner.png) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 748.png 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![748.png](https://static.divine-pride.net/images/items/item/748.png) 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) |
 | **Quests anteriores** | [Valor Sentimental](Valor%20Sentimental.md "Valor Sentimental") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 4 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 
 1. No quarto dos Wigner, converse com Jurgen Wigner (prt\_cas\_q 94,9)
 
@@ -180,6 +180,6 @@ Sem missões.
 
 ![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
-| Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
+| Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | | Ep. 18 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [Banquete Real](Banquete%20Real.md "Banquete Real") | SetaVermelha | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | SetaVermelha | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | SetaVermelha | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
+| [Banquete Real](Banquete%20Real.md "Banquete Real") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caminho da Oração](Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |

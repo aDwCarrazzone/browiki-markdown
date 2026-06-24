@@ -4,13 +4,13 @@
 
 ## Fronteira
 
-| NQ ico Missão Regional de Al De Baran | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Al De Baran | |
 | --- | --- |
 | O pequeno favor de uma mãe bondosa fará você conhecer um pouco sobre a Fronteira entre o Reino e a República. De quebra, você vai se deparar com um Colégio muito estranho...  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7107.png 15 [Pele de Bode](http://www.divine-pride.net/database/item/7107/) 7101.png 15 [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7107.png](https://static.divine-pride.net/images/items/item/7107.png) 15 [Pele de Bode](http://www.divine-pride.net/database/item/7107/) ![7101.png](https://static.divine-pride.net/images/items/item/7101.png) 15 [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) |
 | **Caça** | [Grand Peco](http://www.divine-pride.net/database/monster/1369/) [Bode](http://www.divine-pride.net/database/monster/1372/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 73.960 |
@@ -46,13 +46,13 @@
 
 ## Investigando o Campus
 
-| NQ ico Missão Regional de Al De Baran | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Al De Baran | |
 | --- | --- |
 | Tem algo de muito errado nesse Colégio... Com a ajuda dos alunos, você consegue uma brecha para entrar no lugar...  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7512.png 1 [Peça Queimada](http://www.divine-pride.net/database/item/7512/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7512.png](https://static.divine-pride.net/images/items/item/7512.png) 1 [Peça Queimada](http://www.divine-pride.net/database/item/7512/) |
 | **Caça** | 3 [Aliot](http://www.divine-pride.net/database/monster/1736/) |
 | **Quests anteriores** | [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") |
 | Premiação | |

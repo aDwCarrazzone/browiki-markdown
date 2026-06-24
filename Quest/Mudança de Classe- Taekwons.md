@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Taekwons
 
-| JQ ico Mudança de Classe: Taekwons | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Taekwons | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 10 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 2101.png 1 [Vembrassa](http://www.divine-pride.net/database/item/2101/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2101.png](https://static.divine-pride.net/images/items/item/2101.png) 1 [Vembrassa](http://www.divine-pride.net/database/item/2101/) |
 | **Recompensa** | Muda a classe para [Taekwon](../Sem%20categoria/Taekwon.md "Taekwon") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Arang (iz\_ac02 70,85)
@@ -31,17 +31,17 @@
 4. Mais uma vez, fale com Fênix.
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe você recebe:
-     - ![2101.png](http://static.divine-pride.net/images/items/item/2101.png) 1 [Vembrassa](http://www.divine-pride.net/database/item/2101/)
+     - ![2101.png](https://static.divine-pride.net/images/items/item/2101.png) 1 [Vembrassa](http://www.divine-pride.net/database/item/2101/)
 5. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44)
 
    :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 6. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -79,5 +79,5 @@
 
 | *O Poder Interior* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Taekwonspartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Taekwons.md "Taekwons") | [Taekwons](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Taekwons.md "Taekwons") | | [Brisa Leve](../Suporte/Brisa%20Leve.md "Brisa Leve") · [Cambalhota](../Ativa/Cambalhota.md "Cambalhota") · [Chute Aéreo](../Ofensiva/Chute%20A%C3%A9reo.md "Chute Aéreo") · [Chute do Tornado](../Ofensiva/Chute%20do%20Tornado.md "Chute do Tornado") · [Contrachute](../Ofensiva/Contrachute.md "Contrachute") · [Kihop](../Passiva/Kihop.md "Kihop") · [Corrida](../Ativa/Corrida.md "Corrida") · [Missão Taekwon](../Ativa/Miss%C3%A3o%20Taekwon.md "Missão Taekwon") · [Patada Voadora](../Ofensiva/Patada%20Voadora.md "Patada Voadora") · [Postura da Patada Voadora](../Ativa/Postura%20da%20Patada%20Voadora.md "Postura da Patada Voadora") · [Postura da Rasteira](../Ativa/Postura%20da%20Rasteira.md "Postura da Rasteira") · [Postura do Contrachute](../Ativa/Postura%20do%20Contrachute.md "Postura do Contrachute") · [Postura do Tornado](../Ativa/Postura%20do%20Tornado.md "Postura do Tornado") · [Salto](../Ativa/Salto.md "Salto") · [Rasteira](../Ofensiva/Rasteira.md "Rasteira") · [Retiro Rápido](../Passiva/Retiro%20R%C3%A1pido.md "Retiro Rápido") · [Trégua Rápida](../Passiva/Tr%C3%A9gua%20R%C3%A1pida.md "Trégua Rápida") |
+| |  |  | | --- | --- | | [![Taekwonspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Taekwonspartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Taekwons.md "Taekwons") | [Taekwons](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Taekwons.md "Taekwons") | | [Brisa Leve](../Suporte/Brisa%20Leve.md "Brisa Leve") · [Cambalhota](../Ativa/Cambalhota.md "Cambalhota") · [Chute Aéreo](../Ofensiva/Chute%20A%C3%A9reo.md "Chute Aéreo") · [Chute do Tornado](../Ofensiva/Chute%20do%20Tornado.md "Chute do Tornado") · [Contrachute](../Ofensiva/Contrachute.md "Contrachute") · [Kihop](../Passiva/Kihop.md "Kihop") · [Corrida](../Ativa/Corrida.md "Corrida") · [Missão Taekwon](../Ativa/Miss%C3%A3o%20Taekwon.md "Missão Taekwon") · [Patada Voadora](../Ofensiva/Patada%20Voadora.md "Patada Voadora") · [Postura da Patada Voadora](../Ativa/Postura%20da%20Patada%20Voadora.md "Postura da Patada Voadora") · [Postura da Rasteira](../Ativa/Postura%20da%20Rasteira.md "Postura da Rasteira") · [Postura do Contrachute](../Ativa/Postura%20do%20Contrachute.md "Postura do Contrachute") · [Postura do Tornado](../Ativa/Postura%20do%20Tornado.md "Postura do Tornado") · [Salto](../Ativa/Salto.md "Salto") · [Rasteira](../Ofensiva/Rasteira.md "Rasteira") · [Retiro Rápido](../Passiva/Retiro%20R%C3%A1pido.md "Retiro Rápido") · [Trégua Rápida](../Passiva/Tr%C3%A9gua%20R%C3%A1pida.md "Trégua Rápida") |
 | Evoluções | [Mestres Taekwons](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mestres%20Taekwons.md "Mestres Taekwons") · [Espiritualistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espiritualistas.md "Espiritualistas") |

@@ -32,14 +32,14 @@ Enquanto uma facção aceita e respeitava a religião dos estrangeiros, os mais 
 
 |  |  |  |
 | --- | --- | --- |
-| Rachel map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (rachel 109,138) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (rachel 123,145) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ra\_in01 376,69) |
-| Map pocao | Loja de Ferramentas | (ra\_in01 257,269) |
-| Map faca | Loja de Munições | (ra\_in01 175,364) |
-| Map barbea | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (ra\_in01 186,148) |
+| ![Rachel map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Rachel_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (rachel 109,138) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (rachel 123,145) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ra\_in01 376,69) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (ra\_in01 257,269) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (ra\_in01 175,364) |
+| ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (ra\_in01 186,148) |
 
 |  |  |  |
 | --- | --- | --- |
@@ -65,6 +65,9 @@ Sessrumnir, o Santuário
 - [Santuário de Rachel](../Quests%20de%20experi%C3%AAncia/Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel")
 - [Paz em Arunafeltz](../Quests%20de%20experi%C3%AAncia/Paz%20em%20Arunafeltz.md "Paz em Arunafeltz")
 - [Mistério de Bruspetti](../Quests%20de%20experi%C3%AAncia/Mist%C3%A9rio%20de%20Bruspetti.md "Mistério de Bruspetti")
+- [Caminho da Oração](../Quests%20de%20experi%C3%AAncia/Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração")
+  - [Pessoas de Rachel](../Quests%20de%20ca%C3%A7a/Pessoas%20de%20Rachel.md "Pessoas de Rachel")
+- [Purificação do Santuário](../Quest/Purifica%C3%A7%C3%A3o%20do%20Santu%C3%A1rio.md "Purificação do Santuário") Instância
 - [Quarto Crescente](../Quests%20de%20experi%C3%AAncia/Quarto%20Crescente.md "Quarto Crescente") Instância
 - [Ilusão do Gelo](../Quests%20de%20experi%C3%AAncia/Ilus%C3%A3o%20do%20Gelo.md "Ilusão do Gelo")
   - [Nv. 110 ~ 120] [Caverna de Gelo](http://www.divine-pride.net/database/map/ice_d03_i/)

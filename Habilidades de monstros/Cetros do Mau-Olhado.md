@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Cetros do Mau-Olhado** | |
-| Cetros do Mau-Olhado | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Cetros do Mau-Olhado** | |
+| ![Cetros do Mau-Olhado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Cetros_do_Mau-Olhado.gif) | |
 | **ID:** | NPC\_CANE\_OF\_EVIL\_EYE (780) |
 | **Níveis:** | 7 |
 | **Exclusiva:** | Não |
@@ -13,7 +13,7 @@
 
 Levanta Cajados com Olhos Malignos do chão por alguns segundos.
 
-Enquanto oponentes estiverem dentro da área de 7x7 células, eles sofrerão de dano por segundo.
+Enquanto oponentes estiverem dentro da área de 7x7 células, eles sofrerão de dano.
 
 Causa 15.000 de dano fixo a cada ataque.
 
@@ -30,7 +30,13 @@ Causa 15.000 de dano fixo a cada ataque.
 ## Notas
 
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Cetros do Mau-Olhado](https://www.divine-pride.net/database/skill/780)*.
-- Pode ser bloqueada por [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno").
+- O dano não pode ser bloqueado por [Imunidade Mágica](../Passiva/Imunidade%20M%C3%A1gica.md "Imunidade Mágica").
+- O dano é fixo, ignorando [DEF](../Sem%20categoria/DEF.md "DEF") e [DEFM](../Sem%20categoria/DEFM.md "DEFM"), mas pode ser reduzido por:
+  - [![Corpo Fechado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Corpo_Fechado.png)](../Suporte/Corpo%20Fechado.md "Corpo Fechado") [Corpo Fechado](../Suporte/Corpo%20Fechado.md "Corpo Fechado")
+  - [![Proteção Arcana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
+  - [![Kyrie Eleison](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Kyrie_Eleison.png)](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison") [Kyrie Eleison](../Suporte/Kyrie%20Eleison.md "Kyrie Eleison")
+- Pode ser esquivada por [Cambalhota](../Ativa/Cambalhota.md "Cambalhota").
+- Pode bloqueado por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") e [Proteger Terreno](../Suporte/Proteger%20Terreno.md "Proteger Terreno").
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

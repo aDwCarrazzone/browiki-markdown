@@ -2,14 +2,14 @@
 
 # Laboratório de Wolfchev
 
-| SC ico Laboratório de Wolfchev | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Laboratório de Wolfchev | |
 | --- | --- |
 | Conheça o terrível laboratório de Wolfchev, onde cobaias estão dormindo esperando você despertá-las. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas e 30 minutos |
-| Skilldelayinfo **Retorno** | 3 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 3 dias |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") |
 | Premiação | |

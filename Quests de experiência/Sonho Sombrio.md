@@ -2,17 +2,17 @@
 
 # Sonho Sombrio
 
-| SC ico Sonho Sombrio | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Sonho Sombrio | |
 | --- | --- |
 | Entre no Mundo dos Sonhos e ajude Mingmin e seus amigos na descoberta de uma Rainha idolatrada por Peres. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 120 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 04h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 04h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster GrandPere [Grand Pere](http://www.divine-pride.net/database/monster/3073/) |
+| **Chefe** | ![Monster GrandPere](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Monster_GrandPere.png) [Grand Pere](http://www.divine-pride.net/database/monster/3073/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 500.000 |
 
@@ -31,16 +31,16 @@
    - Cuidado com a [Neblina de Veneno](../Habilidades%20de%20monstros/Neblina%20de%20Veneno.md "Neblina de Veneno") que é invocada ao redor do monstro.
 6. Após a derrota, fale com Igu para trocar 50 [Dentes de Marfim](http://www.divine-pride.net/database/item/6719/) por 1 item aleatório abaixo:
 
-   :   20%: ![15100.png](http://static.divine-pride.net/images/items/item/15100.png) [Peitoral Congelado](http://www.divine-pride.net/database/item/15100/)
-   :   20%: ![15101.png](http://static.divine-pride.net/images/items/item/15101.png) [Peitoral Tectônico](http://www.divine-pride.net/database/item/15101/)
-   :   15%: ![2989.png](http://static.divine-pride.net/images/items/item/2989.png) [Bracelete Floral](http://www.divine-pride.net/database/item/2989/)
-   :   15%: ![2988.png](http://static.divine-pride.net/images/items/item/2988.png) [Anel do Músico](http://www.divine-pride.net/database/item/2988/)
-   :   10%: ![2990.png](http://static.divine-pride.net/images/items/item/2990.png) [Pingente da Harmonia](http://www.divine-pride.net/database/item/2990/)
-   :   10%: ![2991.png](http://static.divine-pride.net/images/items/item/2991.png) [Pingente do Caos](http://www.divine-pride.net/database/item/2991/)
-   :   5%: ![616.png](http://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
-   :   5%: ![12246.png](http://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
+   :   20%: ![15100.png](https://static.divine-pride.net/images/items/item/15100.png) [Peitoral Congelado](http://www.divine-pride.net/database/item/15100/)
+   :   20%: ![15101.png](https://static.divine-pride.net/images/items/item/15101.png) [Peitoral Tectônico](http://www.divine-pride.net/database/item/15101/)
+   :   15%: ![2989.png](https://static.divine-pride.net/images/items/item/2989.png) [Bracelete Floral](http://www.divine-pride.net/database/item/2989/)
+   :   15%: ![2988.png](https://static.divine-pride.net/images/items/item/2988.png) [Anel do Músico](http://www.divine-pride.net/database/item/2988/)
+   :   10%: ![2990.png](https://static.divine-pride.net/images/items/item/2990.png) [Pingente da Harmonia](http://www.divine-pride.net/database/item/2990/)
+   :   10%: ![2991.png](https://static.divine-pride.net/images/items/item/2991.png) [Pingente do Caos](http://www.divine-pride.net/database/item/2991/)
+   :   5%: ![616.png](https://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
+   :   5%: ![12246.png](https://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
 
-   - Igu também funde os Pingentes do Caos e Harmonia em um ![2992.png](http://static.divine-pride.net/images/items/item/2992.png) [Pingente do Redemoinho](http://www.divine-pride.net/database/item/2992/)
+   - Igu também funde os Pingentes do Caos e Harmonia em um ![2992.png](https://static.divine-pride.net/images/items/item/2992.png) [Pingente do Redemoinho](http://www.divine-pride.net/database/item/2992/)
 7. Fale com Novo Oz para sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") e receber sua recompensa: [EXP](../Sem%20categoria/EXP.md "EXP") de base 1.500.000 e 500.000 de classe.
 
    :   ![ShadowDream04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/ShadowDream04.png)
@@ -53,7 +53,7 @@
 
 | Arma | 1º Bônus | 2º Bônus | 3º Bônus |
 | --- | --- | --- | --- |
-| |  |  | | --- | --- | | 18123.png | [Arco das Tempestades](http://www.divine-pride.net/database/item/18123/) |  |  |  | | --- | --- | | 18122.png | [Arco Gigante](http://www.divine-pride.net/database/item/18122/) |  |  |  | | --- | --- | | 1990.png | [Microfone Floral](http://www.divine-pride.net/database/item/1990/) |  |  |  | | --- | --- | | 1989.png | [Fita Rítmica](http://www.divine-pride.net/database/item/1989/) |  |  |  | | --- | --- | | 1935.png | [Ukulele](http://www.divine-pride.net/database/item/1935/) |  |  |  | | --- | --- | | 1934.png | [Contrabaixo](http://www.divine-pride.net/database/item/1934/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. | SOR +1~10. |
+| |  |  | | --- | --- | | ![18123.png](https://static.divine-pride.net/images/items/item/18123.png) | [Arco das Tempestades](http://www.divine-pride.net/database/item/18123/) |  |  |  | | --- | --- | | ![18122.png](https://static.divine-pride.net/images/items/item/18122.png) | [Arco Gigante](http://www.divine-pride.net/database/item/18122/) |  |  |  | | --- | --- | | ![1990.png](https://static.divine-pride.net/images/items/item/1990.png) | [Microfone Floral](http://www.divine-pride.net/database/item/1990/) |  |  |  | | --- | --- | | ![1989.png](https://static.divine-pride.net/images/items/item/1989.png) | [Fita Rítmica](http://www.divine-pride.net/database/item/1989/) |  |  |  | | --- | --- | | ![1935.png](https://static.divine-pride.net/images/items/item/1935.png) | [Ukulele](http://www.divine-pride.net/database/item/1935/) |  |  |  | | --- | --- | | ![1934.png](https://static.divine-pride.net/images/items/item/1934.png) | [Contrabaixo](http://www.divine-pride.net/database/item/1934/) | | Dano físico contra oponentes **[PROPRIEDADE]** +1~20%. | Dano físico contra a raça **[RAÇA]** +1~20%. | SOR +1~10. |
 | ATQ da arma +1~10%. | Dano físico contra monstros normais +1~20%. | DES +1~10. |
 | Indestrutível em batalha | Dano físico contra monstros chefes +1~20%. | AGI +1~10. |
 | Anula a penalidade de Tamanho da arma. | Ignora 1~30% da DEF da **[RAÇA]**. | CRIT +1~20. |

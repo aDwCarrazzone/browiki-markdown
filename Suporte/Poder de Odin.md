@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Poder de Odin Poder de Odin** | |
-| Poder de Odin | |
+| **![Poder de Odin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Poder_de_Odin.png) Poder de Odin** | |
+| ![Poder de Odin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Poder_de_Odin.gif) | |
 | **Odin's Power** | |
 | **ID** | ALL\_ODINS\_POWER (2537) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **Recarga** | 0,5 segundos |
 | **Duração** | 60 segundos |
 | **Alvo** | Personagens |
-| **Ícone** | I Poder de Odin |
+| **Ícone** | ![I Poder de Odin](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/I_Poder_de_Odin.png) |
 | **Pré-requisitos** | |
 | Nenhum | |
 

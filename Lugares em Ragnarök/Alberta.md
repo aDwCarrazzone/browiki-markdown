@@ -20,16 +20,16 @@ Dotada de um visual à beira-mar, Alberta foi inspirada na cidade de [Santorini]
 
 |  |  |  |
 | --- | --- | --- |
-| Alberta map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (alberta 28,229) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (alberta 119,63) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (alberta\_in 32,142) |
-| Map pocao | Loja de Ferramentas | (alberta\_in 182,97) |
-| Map faca | Loja de Munições | (alberta\_in 175,97) |
-| Map bigorna | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (alberta\_in 53,43) |
-| Map lantern | [Liga dos Desbravadores](../Inst%C3%A2ncias/Liga%20dos%20Desbravadores.md "Liga dos Desbravadores") | (alberta 116,70) |
-| Map barbea | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (alberta\_in 55,142) |
+| ![Alberta map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Alberta_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (alberta 28,229) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (alberta 119,63) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (alberta\_in 32,142) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (alberta\_in 182,97) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (alberta\_in 175,97) |
+| ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png) | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (alberta\_in 53,43) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Liga dos Desbravadores](../Inst%C3%A2ncias/Liga%20dos%20Desbravadores.md "Liga dos Desbravadores") | (alberta 116,70) |
+| ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (alberta\_in 55,142) |
 
 |  |  |  |
 | --- | --- | --- |

@@ -22,13 +22,13 @@ Mais tarde, esta ilha ficou conhecida como Amatsu.
 
 |  |  |  |
 | --- | --- | --- |
-| Amatsu map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (amatsu 102,149) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (amatsu 100,156) |
-| Map pocao | Loja de Ferramentas | (ama\_in01 24,30) |
-| Map faca | Loja de Munições | (ama\_in01 89,28) |
-| Map bandeira | Guilda dos [Ninjas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ninjas.md "Ninjas") | (que\_ng 187,149) |
+| ![Amatsu map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Amatsu_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (amatsu 102,149) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (amatsu 100,156) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (ama\_in01 24,30) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (ama\_in01 89,28) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Ninjas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ninjas.md "Ninjas") | (que\_ng 187,149) |
 
 |  |  |  |
 | --- | --- | --- |

@@ -2,15 +2,15 @@
 
 # Consolidação da Dívida
 
-| NQ ico Consolidação da Dívida | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Consolidação da Dívida | |
 | --- | --- |
 | Um jovem procura a ajuda de aventureiros para encontrar o comprovante de um empréstimo de dinheiro. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7317.png 20 [Parafusos Enferrujados](http://www.divine-pride.net/database/item/7317/)  1002.png 10 [Minérios de Ferro](http://www.divine-pride.net/database/item/1002/)  999.png 5 [Aços](http://www.divine-pride.net/database/item/999/)  723.png 2 [Rubis](http://www.divine-pride.net/database/item/723/)  716.png 5 [Gemas Vermelhas](http://www.divine-pride.net/database/item/716/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 20 [Parafusos Enferrujados](http://www.divine-pride.net/database/item/7317/)  ![1002.png](https://static.divine-pride.net/images/items/item/1002.png) 10 [Minérios de Ferro](http://www.divine-pride.net/database/item/1002/)  ![999.png](https://static.divine-pride.net/images/items/item/999.png) 5 [Aços](http://www.divine-pride.net/database/item/999/)  ![723.png](https://static.divine-pride.net/images/items/item/723.png) 2 [Rubis](http://www.divine-pride.net/database/item/723/)  ![716.png](https://static.divine-pride.net/images/items/item/716.png) 5 [Gemas Vermelhas](http://www.divine-pride.net/database/item/716/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  608.png 4 [Sementes de Yggdrasil](http://www.divine-pride.net/database/item/608/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  ![608.png](https://static.divine-pride.net/images/items/item/608.png) 4 [Sementes de Yggdrasil](http://www.divine-pride.net/database/item/608/) |
 
 1. Ajude Muff (comodo 224,187)
 

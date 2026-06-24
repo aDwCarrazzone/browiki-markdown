@@ -4,13 +4,13 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Poder Infernal** | |
-| Poder Infernal | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Poder Infernal** | |
+| ![Poder Infernal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Poder_Infernal.gif) | |
 | **ID:** | NPC\_HELLPOWER (683) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Não |
 | **Duração:** | 300 segundos |
-| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | I Poder Infernal |
+| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | ![I Poder Infernal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/I_Poder_Infernal.png) |
 
 Impede que personagens possam reviver.
 
@@ -26,7 +26,7 @@ Habilidades que não podem ser usadas:
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Poder Infernal](http://www.divine-pride.net/database/skill/683)*
 - [Amuleto de Ziegfried](http://www.divine-pride.net/database/item/7621/) ignora o efeito.
 - Armas relacionadas:
-  - ![1186.png](http://static.divine-pride.net/images/items/item/1186.png) [Guia da Morte](http://www.divine-pride.net/database/item/1186/)
+  - ![1186.png](https://static.divine-pride.net/images/items/item/1186.png) [Guia da Morte](http://www.divine-pride.net/database/item/1186/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

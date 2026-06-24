@@ -2,13 +2,13 @@
 
 # Procura-se a Gangue Z
 
-| NQ ico Procura-se a Gangue Z | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Procura-se a Gangue Z | |
 | --- | --- |
 | A polícia do Reino de Rune-Midgard está oferecendo uma recompensa para quem capturar a famosa *Gangue Z*. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12049.png 5 [Vinho de Frutas de Morroc](http://www.divine-pride.net/database/item/12049/)  7098.png 20 [Lenhas em Brasa](http://www.divine-pride.net/database/item/7098/)  970.png 2 [Álcool](http://www.divine-pride.net/database/item/970/)  7035.png 1 [Palito de Fósforo](http://www.divine-pride.net/database/item/7035/)  7097.png 10 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12049.png](https://static.divine-pride.net/images/items/item/12049.png) 5 [Vinho de Frutas de Morroc](http://www.divine-pride.net/database/item/12049/)  ![7098.png](https://static.divine-pride.net/images/items/item/7098.png) 20 [Lenhas em Brasa](http://www.divine-pride.net/database/item/7098/)  ![970.png](https://static.divine-pride.net/images/items/item/970.png) 2 [Álcool](http://www.divine-pride.net/database/item/970/)  ![7035.png](https://static.divine-pride.net/images/items/item/7035.png) 1 [Palito de Fósforo](http://www.divine-pride.net/database/item/7035/)  ![7097.png](https://static.divine-pride.net/images/items/item/7097.png) 10 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | +500 |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |

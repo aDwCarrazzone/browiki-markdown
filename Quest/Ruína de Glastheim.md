@@ -2,19 +2,19 @@
 
 # Ruína de Glastheim
 
-| SC ico Ruína de Glastheim | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Ruína de Glastheim | |
 | --- | --- |
 | A lenda de que o último rei de Glastheim sucumbiu à loucura por gostar de magia das trevas pode ser falsa... acompanhe Oscar, o Dragão-do-Tempo, nessa viagem ao passado e descubra a verdade por trás dos fatos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Edda de Glastheim](../Quests%20de%20experi%C3%AAncia/Edda%20de%20Glastheim.md "Edda de Glastheim") |
 | Premiação | |
-| **Chefe** | Monster Schmidt [Schmidt Corrompido](http://www.divine-pride.net/database/monster/20386/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 25739.png 3 [Cristal Corrompido](http://www.divine-pride.net/database/item/25739/) |
+| **Chefe** | ![Monster Schmidt](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Monster_Schmidt.png) [Schmidt Corrompido](http://www.divine-pride.net/database/monster/20386/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25739.png](https://static.divine-pride.net/images/items/item/25739.png) 3 [Cristal Corrompido](http://www.divine-pride.net/database/item/25739/) |
 
 1. Aproxime-se para Oscar aparecer (glast\_01 241,290) e reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
 

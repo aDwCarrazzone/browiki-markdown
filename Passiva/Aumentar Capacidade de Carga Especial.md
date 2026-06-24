@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Aumentar Capacidade de Carga Especial Aumentar Capacidade de Carga Especial** | |
-| SemImagem | |
+| **![Aumentar Capacidade de Carga Especial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/Aumentar_Capacidade_de_Carga_Especial.png) Aumentar Capacidade de Carga Especial** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Enlarge Weight Limit / Aumentar Límite de Peso** | |
 | **ID** | ALL\_INCCARRY (681) |
 | **Tipo** | Passiva |

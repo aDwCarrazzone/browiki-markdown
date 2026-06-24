@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Pó de Yggdrasil Pó de Yggdrasil** | |
-| Pó de Yggdrasil | |
+| **![Pó de Yggdrasil](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/P%C3%B3_de_Yggdrasil.png) Pó de Yggdrasil** | |
+| ![Pó de Yggdrasil](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/P%C3%B3_de_Yggdrasil.gif) | |
 | **Yggdrasil Dust** | |
 | **ID** | ECL\_SEQUOIADUST (3034) |
 | **Tipo** | Suporte |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Zumbificar** | |
-| Zumbificar | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Zumbificar** | |
+| ![Zumbificar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/Zumbificar.gif) | |
 | **ID:** | NPC\_CHANGEUNDEAD (348) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

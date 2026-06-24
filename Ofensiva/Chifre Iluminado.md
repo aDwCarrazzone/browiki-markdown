@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Chifre Iluminado Chifre Iluminado** | |
+| **![Chifre Iluminado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Chifre_Iluminado.png) Chifre Iluminado** | |
 | [Arquivo:Chifre Iluminado.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Chifre_Iluminado.gif "Arquivo:Chifre Iluminado.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

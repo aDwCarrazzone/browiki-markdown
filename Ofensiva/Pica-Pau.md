@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Pica-Pau Pica-Pau** | |
-| Pica-Pau | |
+| **![Pica-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Pica-Pau.png) Pica-Pau** | |
+| ![Pica-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Pica-Pau.gif) | |
 | **Moonlight** | |
 | **ID** | HFLI\_MOON (8009) |
 | **Tipo** | Ofensiva |

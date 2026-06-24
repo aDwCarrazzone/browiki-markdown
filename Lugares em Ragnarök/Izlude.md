@@ -22,16 +22,16 @@ Nas proximidades está Byalan, uma ilha que atrai milhares de aventureiros pela 
 
 |  |  |  |
 | --- | --- | --- |
-| Izlude map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (izlude 128,148) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (izlude 124,147) |
-| Map pocao | Loja de Ferramentas | (izlude\_in 112,180) |
-| Map bandeira | Guilda dos [Espadachins](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | (izlude\_in 74,172) |
-| Map transp | Aeroporto | (izlude 202,75) |
-| Map azul | Salão de Quiz | (izlude 70,249) |
-| Map rosa | [Arena de Batalha](../Quest/Arena%20de%20Batalha.md "Arena de Batalha") | (arena\_room 94,93) |
-| Map lantern | [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") | (izlude 128,255) |
+| ![Izlude map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Izlude_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (izlude 128,148) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (izlude 124,147) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (izlude\_in 112,180) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Espadachins](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") | (izlude\_in 74,172) |
+| ![Map transp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Map_transp.png) | Aeroporto | (izlude 202,75) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Salão de Quiz | (izlude 70,249) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | [Arena de Batalha](../Quest/Arena%20de%20Batalha.md "Arena de Batalha") | (arena\_room 94,93) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") | (izlude 128,255) |
 
 |  |  |  |
 | --- | --- | --- |

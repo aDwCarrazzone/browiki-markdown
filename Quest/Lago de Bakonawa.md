@@ -2,18 +2,18 @@
 
 # Lago de Bakonawa
 
-| SC ico Lago de Bakonawa | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Lago de Bakonawa | |
 | --- | --- |
 | Nos mitos de Porto Malaya, conta-se que o temível Bakonawa se assusta com barulhos muito altos. Toque o tambor e bata nas panelas para evitar que esse terrível dragão gigante engula a Lua. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | 7 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 7 dias |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Livre-se de Bakonawa](../Quests%20de%20experi%C3%AAncia/Livre-se%20de%20Bakonawa.md "Livre-se de Bakonawa") |
 | Premiação | |
-| **Chefe** | Monster Bakonawa [Bakonawa](http://www.divine-pride.net/database/monster/2322/) |
+| **Chefe** | ![Monster Bakonawa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fb/Monster_Bakonawa.png) [Bakonawa](http://www.divine-pride.net/database/monster/2322/) |
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com Taho (ma\_scene01 174,179)
 

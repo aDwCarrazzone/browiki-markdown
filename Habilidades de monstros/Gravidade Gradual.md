@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Gravidade Gradual** | |
-| SemImagem | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Gravidade Gradual** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **ID:** | NPC\_GRADUAL\_GRAVITY (752) |
 | **Níveis:** | 3 |
 | **Exclusiva:** | Sim |
 | **Alcance:** | 9 células |
 | **Duração:** | 3 segundos |
-| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | I Distorção Arcana |
+| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | ![I Distorção Arcana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/I_Distor%C3%A7%C3%A3o_Arcana.png) |
 
 Aumenta a gravidade do alvo por 3 segundos.
 

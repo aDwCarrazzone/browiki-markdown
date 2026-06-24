@@ -2,18 +2,18 @@
 
 # Covarde Mikhail
 
-| DQ ico Covarde Mikhail | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Covarde Mikhail | |
 | --- | --- |
 | Com medo de ser punido pela própria mãe, um garoto desaparece após quebrar uma matrioska, uma boneca tradicional. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 7134.png 1 [Vasilha de Mistura](http://www.divine-pride.net/database/item/7134/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7134.png](https://static.divine-pride.net/images/items/item/7134.png) 1 [Vasilha de Mistura](http://www.divine-pride.net/database/item/7134/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 6.000 |
 | **Quests anteriores** | [Encontrando a Ilha-Baleia](../Quests%20de%20experi%C3%AAncia/Encontrando%20a%20Ilha-Baleia.md "Encontrando a Ilha-Baleia") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 593.png 5 [Panqueca com Mel](http://www.divine-pride.net/database/item/593/)  592.png 5 [Panqueca de Geléia](http://www.divine-pride.net/database/item/592/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![593.png](https://static.divine-pride.net/images/items/item/593.png) 5 [Panqueca com Mel](http://www.divine-pride.net/database/item/593/)  ![592.png](https://static.divine-pride.net/images/items/item/592.png) 5 [Panqueca de Geléia](http://www.divine-pride.net/database/item/592/) |
 | **Recompensa** | Cria Panquecas |
 
 1. Ajude Gallina (mosk\_in 144,278)
@@ -57,8 +57,8 @@
 
 | Panqueca | Itens Necessários |
 | --- | --- |
-| 591.png [Panqueca de Caviar](http://www.divine-pride.net/database/item/591/) | - 7031.png 1 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/) - 519.png 2 [Leites](http://www.divine-pride.net/database/item/519/) - 504.png 2 [Poções Brancas](http://www.divine-pride.net/database/item/504/) - 548.png 1 [Queijo](http://www.divine-pride.net/database/item/548/) - 1019.png 1 [Tronco](http://www.divine-pride.net/database/item/1019/) - 518.png 1 [Mel](http://www.divine-pride.net/database/item/518/) |
-| 592.png [Panqueca de Geleia](http://www.divine-pride.net/database/item/592/) |
-| 593.png [Panqueca com Mel](http://www.divine-pride.net/database/item/593/) |
-| 594.png [Panqueca Azeda](http://www.divine-pride.net/database/item/594/) |
-| 595.png [Panqueca de Cogumelos](http://www.divine-pride.net/database/item/595/) |
+| ![591.png](https://static.divine-pride.net/images/items/item/591.png) [Panqueca de Caviar](http://www.divine-pride.net/database/item/591/) | - ![7031.png](https://static.divine-pride.net/images/items/item/7031.png) 1 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/) - ![519.png](https://static.divine-pride.net/images/items/item/519.png) 2 [Leites](http://www.divine-pride.net/database/item/519/) - ![504.png](https://static.divine-pride.net/images/items/item/504.png) 2 [Poções Brancas](http://www.divine-pride.net/database/item/504/) - ![548.png](https://static.divine-pride.net/images/items/item/548.png) 1 [Queijo](http://www.divine-pride.net/database/item/548/) - ![1019.png](https://static.divine-pride.net/images/items/item/1019.png) 1 [Tronco](http://www.divine-pride.net/database/item/1019/) - ![518.png](https://static.divine-pride.net/images/items/item/518.png) 1 [Mel](http://www.divine-pride.net/database/item/518/) |
+| ![592.png](https://static.divine-pride.net/images/items/item/592.png) [Panqueca de Geleia](http://www.divine-pride.net/database/item/592/) |
+| ![593.png](https://static.divine-pride.net/images/items/item/593.png) [Panqueca com Mel](http://www.divine-pride.net/database/item/593/) |
+| ![594.png](https://static.divine-pride.net/images/items/item/594.png) [Panqueca Azeda](http://www.divine-pride.net/database/item/594/) |
+| ![595.png](https://static.divine-pride.net/images/items/item/595.png) [Panqueca de Cogumelos](http://www.divine-pride.net/database/item/595/) |

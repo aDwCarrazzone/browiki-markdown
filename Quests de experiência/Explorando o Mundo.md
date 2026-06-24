@@ -2,7 +2,7 @@
 
 # Explorando o Mundo
 
-| GQ ico Explorando o Mundo | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Explorando o Mundo | |
 | --- | --- |
 | EM BREVE | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 32.500 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 19.500 |
-| **[Itens](../Itens/Itens.md "Itens")** | 28514.png 1 [Anel de Flor Encantado](http://www.divine-pride.net/database/item/28514/) 23365.png 1 [Lembrancinha da Academia](http://www.divine-pride.net/database/item/23365/) 23040.png 2 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![28514.png](https://static.divine-pride.net/images/items/item/28514.png) 1 [Anel de Flor Encantado](http://www.divine-pride.net/database/item/28514/) ![23365.png](https://static.divine-pride.net/images/items/item/23365.png) 1 [Lembrancinha da Academia](http://www.divine-pride.net/database/item/23365/) ![23040.png](https://static.divine-pride.net/images/items/item/23040.png) 2 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/) |
 | **Recompensa** | Explora o mundo de [Ragnarök](../Sem%20categoria/Ragnar%C3%B6k.md "Ragnarök"). |
 
 1. Entre na Academia Criatura e fale com Sprakki (iz\_ac01 102,44)
@@ -128,7 +128,7 @@
     :   ![TutorialNewbie010a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/TutorialNewbie010a.png)
 
     - Você recebe 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e de classe.
-    - Você ganha ![23040.png](http://static.divine-pride.net/images/items/item/23040.png) 1 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/).
+    - Você ganha ![23040.png](https://static.divine-pride.net/images/items/item/23040.png) 1 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/).
 23. Ao alcançar nível 40 de classe, dirija-se até o Calabouço dos Orcs (in\_orcs01 20,170) para encontrar Rumin e Leno novamente. Eles dirão que já é possível se tornar segunda classe, mas que é recomendável treinar mais até o nível 50.
 24. Após mudar de classe, vá para a sala de entrada do Grupo Éden e converse com eles, que estarão ao lado direito das placas de missões.
 25. Siga Leno até Morroc (morocc 128,80) que solicitará que converse com Rumin.
@@ -159,8 +159,8 @@
 45. Vá para as coordenadas e converse com os [NPCs](../Sem%20categoria/NPC.md "NPC")
 46. Retorne para Rumin, que solicita que você finalize a missão na Academia Criatura.
 47. Na Academia, dirija-se a Kastenya (iz\_ac01 97,49) selecione *Quero me tornar Classe* para encerrar a missão e receber os seguintes itens:
-    - ![23365.png](http://static.divine-pride.net/images/items/item/23365.png) 1 [Lembrancinha da Academia](http://www.divine-pride.net/database/item/23365/)
-    - ![23040.png](http://static.divine-pride.net/images/items/item/23040.png) 1 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/)
+    - ![23365.png](https://static.divine-pride.net/images/items/item/23365.png) 1 [Lembrancinha da Academia](http://www.divine-pride.net/database/item/23365/)
+    - ![23040.png](https://static.divine-pride.net/images/items/item/23040.png) 1 [Caixa de Poção Branca](http://www.divine-pride.net/database/item/23040/)
 48. Após virar classe 3, vá para o [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") e encontre Rumin e Leno.
     - Escolha "O que devo fazer?"
     - Rumin irá sugerir que você visite [Ash Vacuum](../Lugares%20em%20Ragnar%C3%B6k/Ash%20Vacuum.md "Ash Vacuum") fazendo a missão [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo").

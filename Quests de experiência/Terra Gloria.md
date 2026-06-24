@@ -2,7 +2,7 @@
 
 # Terra Gloria
 
-| EP ico Terra Gloria | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Terra Gloria | |
 | --- | --- |
 | A Coroa das Famílias Reais foi roubada por um grupo intitulado "Caça-Coração". Investigá-los na República de Schwartzwald vai exigir cooperação com duas organizações que não se dão bem. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2.400.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.900.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 50 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) 6919.png 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 50 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 10 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera o acesso a:  - [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri") - [Gêmeos Levedev](G%C3%AAmeos%20Levedev.md "Gêmeos Levedev") - [Proibição dos Teleportes](Proibi%C3%A7%C3%A3o%20dos%20Teleportes.md "Proibição dos Teleportes") - [Últimas Memórias](%C3%9Altimas%20Mem%C3%B3rias.md "Últimas Memórias") - [Base Militar](../Quest/Base%20Militar.md "Base Militar") - [Laboratório Werner](../Quest/Laborat%C3%B3rio%20Werner.md "Laboratório Werner") - [Laboratório Clandestino](http://www.divine-pride.net/database/map/slabw01/) - **[Ilusión](Ilusi%C3%B3n.md "Ilusión")** |
 
 1. Sua jornada começa nos seus aposentos do Palácio de Prontera (prt\_cas\_q 21,39)
@@ -228,6 +228,6 @@
 
 ![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
-| Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
+| Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | | Ep. 18 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [Banquete Real](Banquete%20Real.md "Banquete Real") | SetaVermelha | Terra Gloria | SetaVermelha | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | SetaVermelha | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
+| [Banquete Real](Banquete%20Real.md "Banquete Real") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Terra Gloria | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caminho da Oração](Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |

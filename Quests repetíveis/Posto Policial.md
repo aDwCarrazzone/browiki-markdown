@@ -2,17 +2,17 @@
 
 # Posto Policial
 
-| DQ ico Posto Policial | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Posto Policial | |
 | --- | --- |
 | Mesmo sendo um sítio arqueológico, os Adoradores do Infortúnio estão rondando pela cidade e atrapalhando as escavações! Ajude os policiais a dar uma lição neles! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6753.png [Amuleto do Infortúnio](http://www.divine-pride.net/database/item/6753/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6753.png](https://static.divine-pride.net/images/items/item/6753.png) [Amuleto do Infortúnio](http://www.divine-pride.net/database/item/6753/) |
 | **Caça** | 10 [Propagandas Ilegais](http://www.divine-pride.net/database/monster/3159/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 22611.png [Envelope Surpresa](http://www.divine-pride.net/database/item/22611/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![22611.png](https://static.divine-pride.net/images/items/item/22611.png) [Envelope Surpresa](http://www.divine-pride.net/database/item/22611/) |
 
 1. Ofereça ajuda ao Policial Kesler (verus04 133,212)
 

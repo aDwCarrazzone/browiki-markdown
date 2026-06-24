@@ -2,16 +2,16 @@
 
 # Banindo o Inverno
 
-| NQ ico Banindo o Inverno | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Banindo o Inverno | |
 | --- | --- |
 | O frio pode ser fatal para os nativos da ilha. Ajude o Czar a impedir a chegada do inverno, custe o que custar! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7762.png 40 [Pilão Yaga Yaga](http://www.divine-pride.net/database/item/7762/)  940.png 20 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/)  908.png 5 [Ova de Sapo](http://www.divine-pride.net/database/item/908/)  7006.png 20 [Asas de Morcego Vermelho](http://www.divine-pride.net/database/item/7006/)  938.png 20 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  1061.png 10 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)  7041.png 10 [Torrão de Areia Fina](http://www.divine-pride.net/database/item/7041/)  1051.png 1 [Neurônio](http://www.divine-pride.net/database/item/1051/)  990.png 5 [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)  7097.png 10 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)  730.png 1 [Diamante de 1 quilate](http://www.divine-pride.net/database/item/730/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7762.png](https://static.divine-pride.net/images/items/item/7762.png) 40 [Pilão Yaga Yaga](http://www.divine-pride.net/database/item/7762/)  ![940.png](https://static.divine-pride.net/images/items/item/940.png) 20 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/)  ![908.png](https://static.divine-pride.net/images/items/item/908.png) 5 [Ova de Sapo](http://www.divine-pride.net/database/item/908/)  ![7006.png](https://static.divine-pride.net/images/items/item/7006.png) 20 [Asas de Morcego Vermelho](http://www.divine-pride.net/database/item/7006/)  ![938.png](https://static.divine-pride.net/images/items/item/938.png) 20 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  ![1061.png](https://static.divine-pride.net/images/items/item/1061.png) 10 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)  ![7041.png](https://static.divine-pride.net/images/items/item/7041.png) 10 [Torrão de Areia Fina](http://www.divine-pride.net/database/item/7041/)  ![1051.png](https://static.divine-pride.net/images/items/item/1051.png) 1 [Neurônio](http://www.divine-pride.net/database/item/1051/)  ![990.png](https://static.divine-pride.net/images/items/item/990.png) 5 [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)  ![7097.png](https://static.divine-pride.net/images/items/item/7097.png) 10 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/)  ![730.png](https://static.divine-pride.net/images/items/item/730.png) 1 [Diamante de 1 quilate](http://www.divine-pride.net/database/item/730/) |
 | **Quests anteriores** | [Encontrando a Ilha-Baleia](../Quests%20de%20experi%C3%AAncia/Encontrando%20a%20Ilha-Baleia.md "Encontrando a Ilha-Baleia") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Fale mais de uma vez com a Bruxa Baba-Yaga (mosk\_dun02 53,220)
 

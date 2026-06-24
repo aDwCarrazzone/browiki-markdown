@@ -2,14 +2,14 @@
 
 # Torre sem Fim
 
-| SC ico Torre sem Fim | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Torre sem Fim | |
 | --- | --- |
 | No horizonte de Alberta, avista-se uma ilha misteriosa com uma Torre que chegava até as nuvens. Quem será que terá a coragem necessária para chegar ao topo dessa torre maldita? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Instância |
 | **Duração** | 4 horas |
-| Skilldelayinfo **Retorno** | 7 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 7 dias |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 10.000 |
 | Premiação | |
@@ -43,8 +43,8 @@
 
    - O [NPC](../Sem%20categoria/NPC.md "NPC") termina a instância e te teleporta de volta para [Alberta](../Lugares%20em%20Ragnar%C3%B6k/Alberta.md "Alberta").
    - A Alma Desolada fabrica 1 [Terror Violeta](http://www.divine-pride.net/database/item/1185/) se você trouxer:
-     - ![13412.png](http://static.divine-pride.net/images/items/item/13412.png) 1 [Lâmina Gêmea Azul](http://www.divine-pride.net/database/item/13412/)
-     - ![13413.png](http://static.divine-pride.net/images/items/item/13413.png) 1 [Lâmina Gêmea Vermelha](http://www.divine-pride.net/database/item/13413/)
+     - ![13412.png](https://static.divine-pride.net/images/items/item/13412.png) 1 [Lâmina Gêmea Azul](http://www.divine-pride.net/database/item/13412/)
+     - ![13413.png](https://static.divine-pride.net/images/items/item/13413.png) 1 [Lâmina Gêmea Vermelha](http://www.divine-pride.net/database/item/13413/)
 6. É possível usar as [Cinzas da Escuridão](http://www.divine-pride.net/database/item/6000/) para pular os andares, basta clicar no Braseiro Imortal na entrada do primeiro andar.
 
    :   ![Torresf03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4b/Torresf03.png)

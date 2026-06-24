@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Névoa Venenosa Névoa Venenosa** | |
-| Névoa Venenosa | |
+| **![Névoa Venenosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/N%C3%A9voa_Venenosa.png) Névoa Venenosa** | |
+| ![Névoa Venenosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/N%C3%A9voa_Venenosa.gif) | |
 | **Poison Mist** | |
 | **ID** | MH\_POISON\_MIST (8020) |
 | **Tipo** | Ofensiva |
@@ -17,7 +17,7 @@
 | **Alcance** | 5 células |
 | **Área** | 7x7 células |
 | **Propriedade** | [Veneno](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
-| **Ícone** | I PergaOrc |
+| **Ícone** | ![I PergaOrc](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/I_PergaOrc.png) |
 | **Pré-requisitos** | |
 | [Sera](../Sem%20categoria/Sera.md "Sera") nível 116 | |
 

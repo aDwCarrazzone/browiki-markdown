@@ -2,14 +2,14 @@
 
 # Cientista Maluco
 
-| NQ ico Cientista Maluco | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Cientista Maluco | |
 | --- | --- |
 | O projeto barulhento de um cientista tem incomodado pessoas na vizinhança! Será que você é capaz de impedir esse experimento? | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 715.png [Gemas Aleatórias](http://www.divine-pride.net/database/item/715/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![715.png](https://static.divine-pride.net/images/items/item/715.png) [Gemas Aleatórias](http://www.divine-pride.net/database/item/715/) |
 
 1. Encontre Meto (yuno\_in03 26,39)
 

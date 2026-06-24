@@ -2,7 +2,7 @@
 
 # Zona Restrita
 
-| SC ico Zona Restrita | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Zona Restrita | |
 | --- | --- |
 | É muito raro que um aventureiro tenha poder mágico semelhante ao do Grande Sábio Varmunt, mas você ter o acompanhado por muitas histórias acabou absorvendo um pouco desse poder. Diante dessa raridade, as autômatas concederão o acesso à uma zona restrita do jardim secreto... revelando segredos sobre o próprio Varmunt. | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | **Quests anteriores** | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.547.004 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 20 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 | **Recompensa** | Acesso ao [Jardim Secreto](../Quest/Jardim%20Secreto.md "Jardim Secreto") |
 
 1. Aproxime-se das coordenadas (ba\_maison 120,321).

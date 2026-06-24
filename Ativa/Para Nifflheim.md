@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Nifflheim Para Nifflheim** | |
-| Para Nifflheim | |
+| **![Para Nifflheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Para_Nifflheim.png) Para Nifflheim** | |
+| ![Para Nifflheim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Para_Nifflheim.gif) | |
 | **Return to Niflheim** | |
 | **ID** | ALL\_NIFLHEIM\_RECALL (3041) |
 | **Tipo** | Ativa |

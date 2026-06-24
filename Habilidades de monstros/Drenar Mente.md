@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Drenar Mente** | |
-| Drenar Mente | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Drenar Mente** | |
+| ![Drenar Mente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/58/Drenar_Mente.gif) | |
 | **ID:** | NPC\_MENTALBREAKER (159) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

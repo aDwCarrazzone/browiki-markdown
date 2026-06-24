@@ -22,14 +22,14 @@ Os nativos de Umbala são chamados de Wootan por ser uma segunda designação pa
 
 |  |  |  |
 | --- | --- | --- |
-| Umbala map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (umbala 87,160) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (umbala 106,160) |
-| Map pocao | Loja de Ferramentas | (um\_in 104,124) |
-| Map faca | Loja de Munições | (um\_in 160,125) |
-| Map azul | Casa do Chefe | (umbala 68,250) |
-| Map rosa | Casa da Xamã | (umbala 219,191) |
+| ![Umbala map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Umbala_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (umbala 87,160) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (umbala 106,160) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (um\_in 104,124) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (um\_in 160,125) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Casa do Chefe | (umbala 68,250) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Casa da Xamã | (umbala 219,191) |
 
 |  |  |  |
 | --- | --- | --- |

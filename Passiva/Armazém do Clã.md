@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Armazém do Clã Armazém do Clã** | |
-| Armazém do Clã | |
+| **![Armazém do Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Armaz%C3%A9m_do_Cl%C3%A3.png) Armazém do Clã** | |
+| ![Armazém do Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Armaz%C3%A9m_do_Cl%C3%A3.gif) | |
 | **Guild Storage** | |
 | **ID** | GD\_GUILD\_STORAGE (10016) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Pré-requisitos** | |
-| [Olhar Apurado](Olhar%20Apurado.md "Olhar Apurado") [Olhar Apurado](Olhar%20Apurado.md "Olhar Apurado") Nv. 1  [Coração Frio](Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") [Coração Frio](Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") Nv. 1  [Expandir Clã](Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 10  [Chamado Urgente](../Ativa/Chamado%20Urgente.md "Chamado Urgente") [Chamado Urgente](../Ativa/Chamado%20Urgente.md "Chamado Urgente") Nv. 1 | |
+| [![Olhar Apurado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Olhar_Apurado.png)](Olhar%20Apurado.md "Olhar Apurado") [Olhar Apurado](Olhar%20Apurado.md "Olhar Apurado") Nv. 1  [![Coração Frio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Cora%C3%A7%C3%A3o_Frio.png)](Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") [Coração Frio](Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") Nv. 1  [![Expandir Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Expandir_Cl%C3%A3.png)](Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 10  [![Chamado Urgente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Chamado_Urgente.png)](../Ativa/Chamado%20Urgente.md "Chamado Urgente") [Chamado Urgente](../Ativa/Chamado%20Urgente.md "Chamado Urgente") Nv. 1 | |
 
 Permite acessar o armazém do [clã](../PvP/Cl%C3%A3.md "Clã").
 

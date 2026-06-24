@@ -2,19 +2,19 @@
 
 # Guardiã de Yggdrasil
 
-| EP ico Guardiã de Yggdrasil | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Guardiã de Yggdrasil | |
 | --- | --- |
 | O motivo de duas raças distintas estarem brigando entre si pode estar atrás de um portão enigmático! Ajude o Comandante a investigar um dos lados dessa história, mas tome cuidado: suas escolhas poderão criar inimizades com as outras raças! É obrigatório realizar a missão "Relatório ao Velho Mundo". | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Episódio |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | Sim |
 | **Quests anteriores** | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") [Relatório ao Velho Mundo](Relat%C3%B3rio%20ao%20Velho%20Mundo.md "Relatório ao Velho Mundo") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 350.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6080.png 10 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) ou  6081.png 10 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) 10 [Moedas Manuk](http://www.divine-pride.net/database/item/6080/) ou  ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 10 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
 | **Recompensa** | Acesso ao [Ninho de Nidhogg](../Quest/Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
 
 1. Dirija-se ao calabouço da [Grande Ferida](http://www.divine-pride.net/database/map/nyd_dun01/) (spl\_fild01 373,108)
@@ -79,8 +79,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Outra Dimensão](Outra%20Dimens%C3%A3o.md "Outra Dimensão") | SetaVermelha | [A Fada e a Árvore](A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | SetaVermelha | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | SetaVermelha | [Visita do Manuk](../Quest/Visita%20do%20Manuk.md "Visita do Manuk") | SetaVermelha | [A Ordem Secreta de Doha](../Quest/A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha") | SetaVermelha | [Chamado de Cheshire](Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
+| [Outra Dimensão](Outra%20Dimens%C3%A3o.md "Outra Dimensão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Fada e a Árvore](A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Anel do Rei Sábio](Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Visita do Manuk](../Quest/Visita%20do%20Manuk.md "Visita do Manuk") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Ordem Secreta de Doha](../Quest/A%20Ordem%20Secreta%20de%20Doha.md "A Ordem Secreta de Doha") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Chamado de Cheshire](Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
 | [Novo Dia de Cheshire](../Quests%20repet%C3%ADveis/Novo%20Dia%20de%20Cheshire.md "Novo Dia de Cheshire") |
 | **ou** | | [Coleta de Bradium](../Quests%20repet%C3%ADveis/Coleta%20de%20Bradium.md "Coleta de Bradium") |
-| [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") | SetaVermelha | Guardiã de Yggdrasil | SetaVermelha | [Ninho de Nidhogg](../Quest/Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
-| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | SetaVermelha | [Ilha Bios](../Quest/Ilha%20Bios.md "Ilha Bios") | SetaVermelha | [Caverna de Mors](../Quest/Caverna%20de%20Mors.md "Caverna de Mors") | SetaVermelha | [Templo do Demônio Rei](Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |
+| [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Mensageiro](O%20Mensageiro.md "O Mensageiro") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Guardiã de Yggdrasil | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ninho de Nidhogg](../Quest/Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
+| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilha Bios](../Quest/Ilha%20Bios.md "Ilha Bios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caverna de Mors](../Quest/Caverna%20de%20Mors.md "Caverna de Mors") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Templo do Demônio Rei](Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |

@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Perda Total** | |
-| Perda Total | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Perda Total** | |
+| ![Perda Total](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Perda_Total.gif) | |
 | **ID:** | NPC\_ALL\_STAT\_DOWN (751) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |
 | **Alcance:** | 9 células |
 | **Duração:** | 10 segundos |
-| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | I Fadiga |
+| **[Ícone](../Sem%20categoria/%C3%8Dcone.md "Ícone"):** | ![I Fadiga](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/I_Fadiga.png) |
 
 Reduz todos os [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") do alvo.
 

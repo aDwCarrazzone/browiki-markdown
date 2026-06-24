@@ -2,7 +2,7 @@
 
 # Montanha do Grito
 
-| NQ ico Montanha do Grito | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Montanha do Grito | |
 | --- | --- |
 | Furte a mais famosa Sopa do restaurante da cidade para ter o direito de subir na montanha mais alta de Louyang! | |
 | Requisitos mínimos | |

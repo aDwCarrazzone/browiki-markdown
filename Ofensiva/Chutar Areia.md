@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Chutar Areia Chutar Areia** | |
-| Chutar Areia | |
+| **![Chutar Areia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Chutar_Areia.png) Chutar Areia** | |
+| ![Chutar Areia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Chutar_Areia.gif) | |
 | **Sand Attack / Ataque de Arena** | |
 | **ID** | TF\_SPRINKLESAND (149) |
 | **Tipo** | Ofensiva |
@@ -28,5 +28,5 @@ Causa 130% de dano físico corpo a corpo com 20% de chance de infligir [cegueira
 
 | *A Luz das Trevas* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Gatunospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | | [Arremessar Pedra](Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · Chutar Areia · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | | [Arremessar Pedra](Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · Chutar Areia · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
 | Evoluções | [Mercenários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercen%C3%A1rios.md "Mercenários") · [Arruaceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arruaceiros.md "Arruaceiros") |

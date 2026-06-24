@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Corte Supersônico Corte Supersônico** | |
+| **![Corte Supersônico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Corte_Supers%C3%B4nico.png) Corte Supersônico** | |
 | [Arquivo:Corte Supersônico.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Corte_Supers%C3%B4nico.gif "Arquivo:Corte Supersônico.gif") | |
 | **Twister Cutter** | |
 | **ID** | MH\_TWISTER\_CUTTER (8047) |

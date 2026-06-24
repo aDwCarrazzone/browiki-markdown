@@ -2,7 +2,7 @@
 
 # Ritual de Coroação
 
-| EP ico Ritual de Coroação | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Ritual de Coroação | |
 | --- | --- |
 | Após conhecer as famílias reais, é hora de participar da coroação do novo rei de Rune-Midgard! Descubra o que aconteceu na Sala da Consciência no passado e o porquê estarem chamando a joia "Estrela Abençoada" de "Fragmento de Ymir". | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 800.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 800.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 30 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 30 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera a missão [Salvando Vidas](Salvando%20Vidas.md "Salvando Vidas") e o acesso ao calabouço [Prontera Destruída](http://www.divine-pride.net/database/map/prt_q/) e ao [Salão de Ymir](Sal%C3%A3o%20de%20Ymir.md "Salão de Ymir"). |
 
 ![MapaChave BanqueteReal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/MapaChave_BanqueteReal.png)

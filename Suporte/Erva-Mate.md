@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Erva-Mate Erva-Mate** | |
-| Erva-Mate | |
+| **![Erva-Mate](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/91/Erva-Mate.png) Erva-Mate** | |
+| ![Erva-Mate](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Erva-Mate.gif) | |
 | **Slapping Herb** | |
 | **ID** | ECL\_SADAGUI (3033) |
 | **Tipo** | Suporte |

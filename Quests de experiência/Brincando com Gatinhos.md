@@ -2,17 +2,17 @@
 
 # Brincando com Gatinhos
 
-| NQ ico Brincando com Gatinhos | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Brincando com Gatinhos | |
 | --- | --- |
 | Estar distante da terra natal pode deixar crianças felinas um pouco desanimadas. Participe das gincanas dos gatinhos para fazer a alegria deles! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 746.png 1 [Bolinha de Gude](http://www.divine-pride.net/database/item/746/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![746.png](https://static.divine-pride.net/images/items/item/746.png) 1 [Bolinha de Gude](http://www.divine-pride.net/database/item/746/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 20.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 20.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 103 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  12636.png 30 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 103 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  ![12636.png](https://static.divine-pride.net/images/items/item/12636.png) 30 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
 | **Recompensa** | Libera a [Corrida Duruduru](../Quests%20repet%C3%ADveis/Corrida%20Duruduru.md "Corrida Duruduru") e a [Máquina Barulhenta](../Quests%20repet%C3%ADveis/M%C3%A1quina%20Barulhenta.md "Máquina Barulhenta") |
 
 1. Aceite o pedido de Harry (malangdo 165,222)

@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Lutadora Ascendente Lutadora Ascendente** | |
+| **![Lutadora Ascendente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Lutadora_Ascendente.png) Lutadora Ascendente** | |
 | [Arquivo:Lutadora Ascendente.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Lutadora_Ascendente.gif "Arquivo:Lutadora Ascendente.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Expandir Clã Expandir Clã** | |
-| SemImagem | |
+| **![Expandir Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Expandir_Cl%C3%A3.png) Expandir Clã** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Guild Extension** | |
 | **ID** | GD\_EXTENSION (10004) |
 | **Tipo** | Passiva |

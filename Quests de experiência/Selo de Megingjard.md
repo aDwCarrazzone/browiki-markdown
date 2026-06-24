@@ -2,16 +2,16 @@
 
 # Selo de Megingjard
 
-| NQ ico Selo de Megingjard | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Selo de Megingjard | |
 | --- | --- |
 | Ajude membros de um pelotão que se separou anos atrás. --------- ATENÇÃO! Se você não conseguir iniciar ou continuar esta missão, significa que o Selo de Megingjard já foi liberado. Consulte o status dos [Selos Divinos](../Quest/Selos%20Divinos.md "Selos Divinos") para mais informações. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1041.png 1 [Lampião](http://www.divine-pride.net/database/item/1041/) 611.png 1 [Lupa](http://www.divine-pride.net/database/item/611/)  7111.png 2 [Pedaços de Papel](http://www.divine-pride.net/database/item/7111/)  7151.png 1 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/)  1024.png 3 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/)  916.png 3 [Plumas de Ave](http://www.divine-pride.net/database/item/916/)  717.png 20 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)  511.png 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  741.png 1 [Boneco de Poring](http://www.divine-pride.net/database/item/741/)  970.png 7 [Álcoois](http://www.divine-pride.net/database/item/970/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1041.png](https://static.divine-pride.net/images/items/item/1041.png) 1 [Lampião](http://www.divine-pride.net/database/item/1041/) ![611.png](https://static.divine-pride.net/images/items/item/611.png) 1 [Lupa](http://www.divine-pride.net/database/item/611/)  ![7111.png](https://static.divine-pride.net/images/items/item/7111.png) 2 [Pedaços de Papel](http://www.divine-pride.net/database/item/7111/)  ![7151.png](https://static.divine-pride.net/images/items/item/7151.png) 1 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/)  ![1024.png](https://static.divine-pride.net/images/items/item/1024.png) 3 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/)  ![916.png](https://static.divine-pride.net/images/items/item/916.png) 3 [Plumas de Ave](http://www.divine-pride.net/database/item/916/)  ![717.png](https://static.divine-pride.net/images/items/item/717.png) 20 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)  ![511.png](https://static.divine-pride.net/images/items/item/511.png) 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  ![741.png](https://static.divine-pride.net/images/items/item/741.png) 1 [Boneco de Poring](http://www.divine-pride.net/database/item/741/)  ![970.png](https://static.divine-pride.net/images/items/item/970.png) 7 [Álcoois](http://www.divine-pride.net/database/item/970/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver Tabela |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Fale mais de uma vez com Rebarev Doug (prt\_cas 178,243)
 
@@ -38,11 +38,11 @@
 
    :   ![Selo de Megingjard03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/29/Selo_de_Megingjard03.png)
 4. Entregue os itens abaixo ao Bibliotecário. Você deve continuar falando com ele até ele fazer a cópia.
-   - ![7111.png](http://static.divine-pride.net/images/items/item/7111.png) 2 [Pedaços de Papel](http://www.divine-pride.net/database/item/7111/)
-   - ![7151.png](http://static.divine-pride.net/images/items/item/7151.png) 1 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/)
-   - ![1024.png](http://static.divine-pride.net/images/items/item/1024.png) 3 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/)
-   - ![916.png](http://static.divine-pride.net/images/items/item/916.png) 3 [Plumas de Ave](http://www.divine-pride.net/database/item/916/)
-   - ![717.png](http://static.divine-pride.net/images/items/item/717.png) 20 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)
+   - ![7111.png](https://static.divine-pride.net/images/items/item/7111.png) 2 [Pedaços de Papel](http://www.divine-pride.net/database/item/7111/)
+   - ![7151.png](https://static.divine-pride.net/images/items/item/7151.png) 1 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/)
+   - ![1024.png](https://static.divine-pride.net/images/items/item/1024.png) 3 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/)
+   - ![916.png](https://static.divine-pride.net/images/items/item/916.png) 3 [Plumas de Ave](http://www.divine-pride.net/database/item/916/)
+   - ![717.png](https://static.divine-pride.net/images/items/item/717.png) 20 [Gemas Azuis](http://www.divine-pride.net/database/item/717/)
 5. Novamente com o Bibliotecário, procure palavras no documento digitando:
    - `Templário A 3a companhia o 1o pelotão a 3a esquadra`
    - Continue a pesquisa digitando:

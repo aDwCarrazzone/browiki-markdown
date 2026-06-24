@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Ferroada Ferroada** | |
+| **![Ferroada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Ferroada.png) Ferroada** | |
 | [Arquivo:Ferroada.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Ferroada.gif "Arquivo:Ferroada.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

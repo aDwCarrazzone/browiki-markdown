@@ -2,7 +2,7 @@
 
 # Gestão de Lojas
 
-| DQ ico Gestão de Lojas | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gestão de Lojas | |
 | --- | --- |
 | A Guilda dos Mercadores está flexibilizando as regras para compra e venda dos itens. Entretanto, para ganhar a confiança da Guilda, você precisa realizar algumas tarefas ou... pagar por elas. | |
 | Requisitos mínimos | |
@@ -39,13 +39,13 @@ Para usar uma [Lojinha de Rua](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Lojinha%2
 
 | Passe | Preço |
 | --- | --- |
-| 23342.png [Passe de Venda de 1 Dia (Básico)](http://www.divine-pride.net/database/item/23342/) | 500.000z |
-| 23343.png [Passe de Venda de 1 Dia (Médio)](http://www.divine-pride.net/database/item/23343/) | 1.000.000z |
-| 23344.png [Passe de Venda de 1 Dia (Avançado)](http://www.divine-pride.net/database/item/23344/) | 2.000.000z |
+| ![23342.png](https://static.divine-pride.net/images/items/item/23342.png) [Passe de Venda de 1 Dia (Básico)](http://www.divine-pride.net/database/item/23342/) | 500.000z |
+| ![23343.png](https://static.divine-pride.net/images/items/item/23343.png) [Passe de Venda de 1 Dia (Médio)](http://www.divine-pride.net/database/item/23343/) | 1.000.000z |
+| ![23344.png](https://static.divine-pride.net/images/items/item/23344.png) [Passe de Venda de 1 Dia (Avançado)](http://www.divine-pride.net/database/item/23344/) | 2.000.000z |
 |  | | |
-| 23345.png [Passe de Compra de 1 Dia (Básico)](http://www.divine-pride.net/database/item/23345/) | 500.000z |
-| 23346.png [Passe de Compra de 1 Dia (Médio)](http://www.divine-pride.net/database/item/23346/) | 1.000.000z |
-| 23347.png [Passe de Compra de 1 Dia (Avançado)](http://www.divine-pride.net/database/item/23347/) | 2.000.000z |
+| ![23345.png](https://static.divine-pride.net/images/items/item/23345.png) [Passe de Compra de 1 Dia (Básico)](http://www.divine-pride.net/database/item/23345/) | 500.000z |
+| ![23346.png](https://static.divine-pride.net/images/items/item/23346.png) [Passe de Compra de 1 Dia (Médio)](http://www.divine-pride.net/database/item/23346/) | 1.000.000z |
+| ![23347.png](https://static.divine-pride.net/images/items/item/23347.png) [Passe de Compra de 1 Dia (Avançado)](http://www.divine-pride.net/database/item/23347/) | 2.000.000z |
 
 ## Por quests
 
@@ -60,21 +60,21 @@ Para usar uma [Lojinha de Rua](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Lojinha%2
 | Missões básicas | | |
 | --- | --- | --- |
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Coordenadas |
-| Ovelha de Prontera | StreetStallbRO01 | (prt\_in 56,57) |
-| Ovelha de Payon | StreetStallbRO03 | (payon 140,174) |
-| Ovelha de Comodo | StreetStallbRO03a | (cmd\_in01 128,171) |
-| Ovelha de Al De Baran | StreetStallbRO04 | (aldeba\_in 97,55) |
-| Ovelha de Morroc | StreetStallbRO05 | (morocc 162,258) |
+| Ovelha de Prontera | ![StreetStallbRO01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e7/StreetStallbRO01.png) | (prt\_in 56,57) |
+| Ovelha de Payon | ![StreetStallbRO03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/StreetStallbRO03.png) | (payon 140,174) |
+| Ovelha de Comodo | ![StreetStallbRO03a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/StreetStallbRO03a.png) | (cmd\_in01 128,171) |
+| Ovelha de Al De Baran | ![StreetStallbRO04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/StreetStallbRO04.png) | (aldeba\_in 97,55) |
+| Ovelha de Morroc | ![StreetStallbRO05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/StreetStallbRO05.png) | (morocc 162,258) |
 | Missões médias | | |
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Coordenadas |
 | Eliminar 10 [Bongun](http://www.divine-pride.net/database/monster/1188/) | Reporte para a Ovelhinha na Guilda | - |
 | Eliminar 10 [Megalith](http://www.divine-pride.net/database/monster/1274/) | Reporte para a Ovelhinha na Guilda | - |
 | Eliminar 10 [Rideword](http://www.divine-pride.net/database/monster/1195/) | Reporte para a Ovelhinha na Guilda | - |
-| Mariano | StreetStallbRO06 | (prt\_sewb3 144,181) |
-| Elbury | StreetStallbRO07 | (in\_sphinx3 120,96) |
+| Mariano | ![StreetStallbRO06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/StreetStallbRO06.png) | (prt\_sewb3 144,181) |
+| Elbury | ![StreetStallbRO07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/StreetStallbRO07.png) | (in\_sphinx3 120,96) |
 | Missões avançadas | | |
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Coordenadas |
-| Placa | StreetStallbRO08 | (lhz\_dun03 120,96) |
+| Placa | ![StreetStallbRO08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a8/StreetStallbRO08.png) | (lhz\_dun03 120,96) |
 | Eliminar 3 [Eremes Guile](http://www.divine-pride.net/database/monster/1635/) | Reporte para a Ovelhinha na Guilda | - |
 | Eliminar 3 [Cecil Damon](http://www.divine-pride.net/database/monster/1638/) | Reporte para a Ovelhinha na Guilda | - |
 | Eliminar 3 [Margaretha Sorin](http://www.divine-pride.net/database/monster/1637/) | Reporte para a Ovelhinha na Guilda | - |

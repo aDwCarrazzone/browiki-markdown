@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Drenar SP** | |
-| Drenar SP | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Drenar SP** | |
+| ![Drenar SP](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Drenar_SP.gif) | |
 | **ID:** | NPC\_WIDESOULDRAIN (680) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -24,9 +24,9 @@ Drena uma quantia de [SP](../Sem%20categoria/SP.md "SP") dos oponentes ao redor.
 
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Drenar SP](http://www.divine-pride.net/database/skill/680)*
 - Armas relacionadas:
-  - ![1637.png](http://static.divine-pride.net/images/items/item/1637.png) [Apaga-Mentes](http://www.divine-pride.net/database/item/1637/)
+  - ![1637.png](https://static.divine-pride.net/images/items/item/1637.png) [Apaga-Mentes](http://www.divine-pride.net/database/item/1637/)
 - Cartas relacionadas:
-  - ![27020.png](http://static.divine-pride.net/images/items/item/27020.png) [Carta T\_W\_O](http://www.divine-pride.net/database/item/27020/)
+  - ![27020.png](https://static.divine-pride.net/images/items/item/27020.png) [Carta T\_W\_O](http://www.divine-pride.net/database/item/27020/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

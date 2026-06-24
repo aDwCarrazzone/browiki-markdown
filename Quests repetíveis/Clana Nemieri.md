@@ -33,13 +33,13 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 | Equipamentos | Brasões |
 | --- | --- |
-| |  |  | | --- | --- | | 28425.png | [Anel Mercenário A](http://www.divine-pride.net/database/item/28425/) | | 700 |
-| |  |  | | --- | --- | | 28426.png | [Anel Mercenário B](http://www.divine-pride.net/database/item/28426/) | | 700 |
-| |  |  | | --- | --- | | 15164.png | [Vestimenta Consulente](http://www.divine-pride.net/database/item/15164/) | | 700 |
-| |  |  | | --- | --- | | 15163.png | [Vestimenta Atraente](http://www.divine-pride.net/database/item/15163/) | | 700 |
-| |  |  | | --- | --- | | 19115.png | [Chapéu da República](http://www.divine-pride.net/database/item/19115/) | | 1.750 |
+| |  |  | | --- | --- | | ![28425.png](https://static.divine-pride.net/images/items/item/28425.png) | [Anel Mercenário A](http://www.divine-pride.net/database/item/28425/) | | 700 |
+| |  |  | | --- | --- | | ![28426.png](https://static.divine-pride.net/images/items/item/28426.png) | [Anel Mercenário B](http://www.divine-pride.net/database/item/28426/) | | 700 |
+| |  |  | | --- | --- | | ![15164.png](https://static.divine-pride.net/images/items/item/15164.png) | [Vestimenta Consulente](http://www.divine-pride.net/database/item/15164/) | | 700 |
+| |  |  | | --- | --- | | ![15163.png](https://static.divine-pride.net/images/items/item/15163.png) | [Vestimenta Atraente](http://www.divine-pride.net/database/item/15163/) | | 700 |
+| |  |  | | --- | --- | | ![19115.png](https://static.divine-pride.net/images/items/item/19115.png) | [Chapéu da República](http://www.divine-pride.net/database/item/19115/) | | 1.750 |
 | Visuais | Brasões |
-| |  |  | | --- | --- | | 20456.png | [Vestígios de Combate](http://www.divine-pride.net/database/item/20456/) | | 1.050 |
+| |  |  | | --- | --- | | ![20456.png](https://static.divine-pride.net/images/items/item/20456.png) | [Vestígios de Combate](http://www.divine-pride.net/database/item/20456/) | | 1.050 |
 
 ### Encantamentos
 
@@ -60,8 +60,8 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 | Equipamento | Encantos |
 | --- | --- |
-| |  |  | | --- | --- | | 28425.png | [Anel Mercenário A](http://www.divine-pride.net/database/item/28425/) |  |  |  | | --- | --- | | 28426.png | [Anel Mercenário B](http://www.divine-pride.net/database/item/28426/) | | - 4700.png [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+5](http://www.divine-pride.net/database/item/4704/) - 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+5](http://www.divine-pride.net/database/item/4734/) - 4740.png [VIT +1](http://www.divine-pride.net/database/item/4740/) a [+5](http://www.divine-pride.net/database/item/4744/) - 4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) a [+5](http://www.divine-pride.net/database/item/4714/) - 4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) a [+5](http://www.divine-pride.net/database/item/4724/) - 4750.png [SOR +1](http://www.divine-pride.net/database/item/4750/) a [+5](http://www.divine-pride.net/database/item/4754/) |
-| |  |  | | --- | --- | | 15164.png | [Vestimenta Consulente](http://www.divine-pride.net/database/item/15164/) |  |  |  | | --- | --- | | 15163.png | [Vestimenta Atraente](http://www.divine-pride.net/database/item/15163/) | | - 4997.png [Runa da Lábia 1](http://www.divine-pride.net/database/item/4997/), [2](http://www.divine-pride.net/database/item/4998/) ou [3](http://www.divine-pride.net/database/item/4999/) - 29003.png [Runa da Visão 1](http://www.divine-pride.net/database/item/29003/), [2](http://www.divine-pride.net/database/item/29004/) ou [3](http://www.divine-pride.net/database/item/29005/) - 29000.png [Runa da Magia 1](http://www.divine-pride.net/database/item/29000/), [2](http://www.divine-pride.net/database/item/29001/) ou [3](http://www.divine-pride.net/database/item/29002/) - 29006.png [Runa do Acaso 1](http://www.divine-pride.net/database/item/29006/), [2](http://www.divine-pride.net/database/item/29007/) ou [3](http://www.divine-pride.net/database/item/29008/) - 4994.png [Runa do Poder 1](http://www.divine-pride.net/database/item/4994/), [2](http://www.divine-pride.net/database/item/4995/) ou [3](http://www.divine-pride.net/database/item/4996/) - 29009.png [Runa da Saúde 1](http://www.divine-pride.net/database/item/29009/), [2](http://www.divine-pride.net/database/item/29010/) ou [3](http://www.divine-pride.net/database/item/29011/) |
+| |  |  | | --- | --- | | ![28425.png](https://static.divine-pride.net/images/items/item/28425.png) | [Anel Mercenário A](http://www.divine-pride.net/database/item/28425/) |  |  |  | | --- | --- | | ![28426.png](https://static.divine-pride.net/images/items/item/28426.png) | [Anel Mercenário B](http://www.divine-pride.net/database/item/28426/) | | - ![4700.png](https://static.divine-pride.net/images/items/item/4700.png) [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+5](http://www.divine-pride.net/database/item/4704/) - ![4730.png](https://static.divine-pride.net/images/items/item/4730.png) [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+5](http://www.divine-pride.net/database/item/4734/) - ![4740.png](https://static.divine-pride.net/images/items/item/4740.png) [VIT +1](http://www.divine-pride.net/database/item/4740/) a [+5](http://www.divine-pride.net/database/item/4744/) - ![4710.png](https://static.divine-pride.net/images/items/item/4710.png) [INT +1](http://www.divine-pride.net/database/item/4710/) a [+5](http://www.divine-pride.net/database/item/4714/) - ![4720.png](https://static.divine-pride.net/images/items/item/4720.png) [DES +1](http://www.divine-pride.net/database/item/4720/) a [+5](http://www.divine-pride.net/database/item/4724/) - ![4750.png](https://static.divine-pride.net/images/items/item/4750.png) [SOR +1](http://www.divine-pride.net/database/item/4750/) a [+5](http://www.divine-pride.net/database/item/4754/) |
+| |  |  | | --- | --- | | ![15164.png](https://static.divine-pride.net/images/items/item/15164.png) | [Vestimenta Consulente](http://www.divine-pride.net/database/item/15164/) |  |  |  | | --- | --- | | ![15163.png](https://static.divine-pride.net/images/items/item/15163.png) | [Vestimenta Atraente](http://www.divine-pride.net/database/item/15163/) | | - ![4997.png](https://static.divine-pride.net/images/items/item/4997.png) [Runa da Lábia 1](http://www.divine-pride.net/database/item/4997/), [2](http://www.divine-pride.net/database/item/4998/) ou [3](http://www.divine-pride.net/database/item/4999/) - ![29003.png](https://static.divine-pride.net/images/items/item/29003.png) [Runa da Visão 1](http://www.divine-pride.net/database/item/29003/), [2](http://www.divine-pride.net/database/item/29004/) ou [3](http://www.divine-pride.net/database/item/29005/) - ![29000.png](https://static.divine-pride.net/images/items/item/29000.png) [Runa da Magia 1](http://www.divine-pride.net/database/item/29000/), [2](http://www.divine-pride.net/database/item/29001/) ou [3](http://www.divine-pride.net/database/item/29002/) - ![29006.png](https://static.divine-pride.net/images/items/item/29006.png) [Runa do Acaso 1](http://www.divine-pride.net/database/item/29006/), [2](http://www.divine-pride.net/database/item/29007/) ou [3](http://www.divine-pride.net/database/item/29008/) - ![4994.png](https://static.divine-pride.net/images/items/item/4994.png) [Runa do Poder 1](http://www.divine-pride.net/database/item/4994/), [2](http://www.divine-pride.net/database/item/4995/) ou [3](http://www.divine-pride.net/database/item/4996/) - ![29009.png](https://static.divine-pride.net/images/items/item/29009.png) [Runa da Saúde 1](http://www.divine-pride.net/database/item/29009/), [2](http://www.divine-pride.net/database/item/29010/) ou [3](http://www.divine-pride.net/database/item/29011/) |
 
 ## Missões diárias
 
@@ -69,17 +69,17 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Aceite ajudar Rachel Smith.
 
@@ -88,9 +88,9 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
    :   ![FerreiroJack](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/FerreiroJack.png)
 3. Volte a falar com Rachel Smith, que pedirá um dos seguintes materiais, de maneira aleatória.
-   - ![998.png](http://static.divine-pride.net/images/items/item/998.png) 5 [Ferro](http://www.divine-pride.net/database/item/998/)
-   - ![984.png](http://static.divine-pride.net/images/items/item/984.png) 2 [Oridecon](http://www.divine-pride.net/database/item/984/)
-   - ![985.png](http://static.divine-pride.net/images/items/item/985.png) 2 [Elunium](http://www.divine-pride.net/database/item/985/)
+   - ![998.png](https://static.divine-pride.net/images/items/item/998.png) 5 [Ferro](http://www.divine-pride.net/database/item/998/)
+   - ![984.png](https://static.divine-pride.net/images/items/item/984.png) 2 [Oridecon](http://www.divine-pride.net/database/item/984/)
+   - ![985.png](https://static.divine-pride.net/images/items/item/985.png) 2 [Elunium](http://www.divine-pride.net/database/item/985/)
 4. Após entregar 1 dos itens pedidos, você pode voltar no dia seguinte para repetir a missão com Rachel Smith.
    - Na sua primeira vez completando a missão, você recebe 10 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/) e não ganha [EXP](../Sem%20categoria/EXP.md "EXP").
    - Da segunda vez em diante, você não precisa mais ir até o Ferreiro.
@@ -100,17 +100,17 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 100.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Aceite ajudar Manson Bender.
 
@@ -129,18 +129,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 7111.png 3 [Pedaço de Papel](http://www.divine-pride.net/database/item/7111/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7111.png](https://static.divine-pride.net/images/items/item/7111.png) 3 [Pedaço de Papel](http://www.divine-pride.net/database/item/7111/) |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Aceite ajudar Ericsson Adler.
 
@@ -158,17 +158,17 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Converse com Lukie.
 
@@ -178,36 +178,36 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 | Missão | Caçar | Coletar |
 | --- | --- | --- |
-| Reparos para Denny | 10 [Fornalha Velha](http://www.divine-pride.net/database/monster/1617/) | 999.png 5 [Aço](http://www.divine-pride.net/database/item/999/) 7319.png 15 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
-| Combustíveis para Cyan | 10 [Fornalha Velha](http://www.divine-pride.net/database/monster/1617/) | 7068.png 10 [Madeira Queimada](http://www.divine-pride.net/database/item/7068/) 1003.png 3 [Carvão](http://www.divine-pride.net/database/item/1003/) |
-| Cristais para Magenta | 5 [Obsidiana](http://www.divine-pride.net/database/monster/1615/) 5 [Mineral](http://www.divine-pride.net/database/monster/1614/) | 7321.png 10 [Fragmento de Cristal](http://www.divine-pride.net/database/item/7321/) 7315.png 10 [Fragmento de Cristal Negro](http://www.divine-pride.net/database/item/7315/) |
+| Reparos para Denny | 10 [Fornalha Velha](http://www.divine-pride.net/database/monster/1617/) | ![999.png](https://static.divine-pride.net/images/items/item/999.png) 5 [Aço](http://www.divine-pride.net/database/item/999/) ![7319.png](https://static.divine-pride.net/images/items/item/7319.png) 15 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
+| Combustíveis para Cyan | 10 [Fornalha Velha](http://www.divine-pride.net/database/monster/1617/) | ![7068.png](https://static.divine-pride.net/images/items/item/7068.png) 10 [Madeira Queimada](http://www.divine-pride.net/database/item/7068/) ![1003.png](https://static.divine-pride.net/images/items/item/1003.png) 3 [Carvão](http://www.divine-pride.net/database/item/1003/) |
+| Cristais para Magenta | 5 [Obsidiana](http://www.divine-pride.net/database/monster/1615/) 5 [Mineral](http://www.divine-pride.net/database/monster/1614/) | ![7321.png](https://static.divine-pride.net/images/items/item/7321.png) 10 [Fragmento de Cristal](http://www.divine-pride.net/database/item/7321/) ![7315.png](https://static.divine-pride.net/images/items/item/7315.png) 10 [Fragmento de Cristal Negro](http://www.divine-pride.net/database/item/7315/) |
 
 ### Pedidos de Milo
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 100.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 6 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 6 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Fale com Milo River, que oferece duas missões diárias, que são independentes uma da outra.
 
    :   ![MiloRiver](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/MiloRiver.png)
 2. **Lanche dos Veteranos:**
    1. Basta entregar 1 dos seguintes pratos de [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") para receber 100.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe e 3 [Brasões de Honra](http://www.divine-pride.net/database/item/25155/).
-      - ![12046.png](http://static.divine-pride.net/images/items/item/12046.png) 1 [Chá de Ervas com Uvas](http://www.divine-pride.net/database/item/12046/)
-      - ![12047.png](http://static.divine-pride.net/images/items/item/12047.png) 1 [Chá Vermelho de Outono](http://www.divine-pride.net/database/item/12047/)
-      - ![12048.png](http://static.divine-pride.net/images/items/item/12048.png) 1 [Chá de Ervas e Mel](http://www.divine-pride.net/database/item/12048/)
-      - ![12062.png](http://static.divine-pride.net/images/items/item/12062.png) 1 [Mousse de Chocolate](http://www.divine-pride.net/database/item/12062/)
-      - ![12063.png](http://static.divine-pride.net/images/items/item/12063.png) 1 [Salada de Frutas](http://www.divine-pride.net/database/item/12063/)
+      - ![12046.png](https://static.divine-pride.net/images/items/item/12046.png) 1 [Chá de Ervas com Uvas](http://www.divine-pride.net/database/item/12046/)
+      - ![12047.png](https://static.divine-pride.net/images/items/item/12047.png) 1 [Chá Vermelho de Outono](http://www.divine-pride.net/database/item/12047/)
+      - ![12048.png](https://static.divine-pride.net/images/items/item/12048.png) 1 [Chá de Ervas e Mel](http://www.divine-pride.net/database/item/12048/)
+      - ![12062.png](https://static.divine-pride.net/images/items/item/12062.png) 1 [Mousse de Chocolate](http://www.divine-pride.net/database/item/12062/)
+      - ![12063.png](https://static.divine-pride.net/images/items/item/12063.png) 1 [Salada de Frutas](http://www.divine-pride.net/database/item/12063/)
 3. **Gata Perdida:**
    1. Você receberá 1 [Anchova Crocante](http://www.divine-pride.net/database/item/25162/) para atrair Charity em um dos Bancos Vazios espalhados por Einbech.
 
@@ -224,18 +224,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | [Rancor de Arma](http://www.divine-pride.net/database/monster/3629/) |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Aceite ajudar a Chefe atrás do balcão.
 
@@ -261,18 +261,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | [Elena Bolkova](http://www.divine-pride.net/database/monster/3630/) |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Aceite lutar contra Elena Bolkova.
 
@@ -288,18 +288,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | Ver tabela |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Entre no quarto das Veteranas para ouvir uma conversa da porta.
 2. Dentro do quarto, fale com Dien.
@@ -326,18 +326,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | Ver tabela |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Na Base Militar, Lukie (que\_swat 150,58) tem algumas missões diárias para você completar.
 
@@ -353,18 +353,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | Ver tabela |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Na Base Militar, ajude Philopontess (que\_swat 145,57)
 
@@ -387,18 +387,18 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 ---
 
-| DQ ico Clana Nemieri | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Clana Nemieri | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | Ver tabela |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 150.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 150.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 3 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Na Base Militar, aceite o pedido de Yuslan (que\_swat 161,53)
 
@@ -408,6 +408,6 @@ Atualmente, a Rebelião controla a Base Militar dos Caça-Coração, localizada 
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |
 | --- | --- |
-| Principais | [Aventuras na Mansão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](#Missões_diárias)16.2 |
+| Principais | [Aventuras na Aldeia](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Aldeia.md "Aventuras na Aldeia")18 · [Aventuras na Mansão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](#Missões_diárias)16.2 |
 | Episódios | [Aventuras na Cozinha](../Quests%20di%C3%A1rias/Aventuras%20na%20Cozinha.md "Aventuras na Cozinha") · [Aventuras em Eclage](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Eclage.md "Aventuras em Eclage") · [Aventuras na Prisão](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Pris%C3%A3o.md "Aventuras na Prisão") · [Aventuras em Verus](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Verus.md "Aventuras em Verus") · [Aventuras no Novo Mundo](../Quests%20de%20experi%C3%AAncia/Aventuras%20no%20Novo%20Mundo.md "Aventuras no Novo Mundo") · [Departamento de Exploradores](../Quests%20de%20experi%C3%AAncia/Departamento%20de%20Exploradores.md "Departamento de Exploradores") |
 | Outros | [Aventuras em Rockridge](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Rockridge.md "Aventuras em Rockridge") · [Aventuras em Lasagna](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Lasagna.md "Aventuras em Lasagna") · [Aventuras na Vila Mora](../Quests%20de%20experi%C3%AAncia/Aventuras%20na%20Vila.md "Aventuras na Vila") · [Aventuras em Malaya](../Quests%20de%20experi%C3%AAncia/Aventuras%20em%20Malaya.md "Aventuras em Malaya") · [Aventuras em Malangdo](Aventuras%20em%20Malangdo.md "Aventuras em Malangdo") |

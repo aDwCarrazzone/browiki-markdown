@@ -2,19 +2,19 @@
 
 # Purificação do Santuário
 
-| SC ico Purificação do Santuário | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Purificação do Santuário | |
 | --- | --- |
-| A lenda de que o último rei de Glastheim sucumbiu à loucura por gostar de magia das trevas pode ser falsa... acompanhe Oscar, o Dragão-do-Tempo, nessa viagem ao passado e descubra a verdade por trás dos fatos. | |
+| Em breve | |
 | Requisitos mínimos | |
 | **Nv. de base** | 170 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 da manhã após 3 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
-| **Quests anteriores** | [Edda de Glastheim](../Quests%20de%20experi%C3%AAncia/Edda%20de%20Glastheim.md "Edda de Glastheim") |
+| **Quests anteriores** | [Caminho da Oração](../Quests%20de%20experi%C3%AAncia/Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |
 | Premiação | |
-| **Chefe** | Nu tein |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000405.png x [xx](http://www.divine-pride.net/database/item/1000405/) |
+| **Chefe** | Nenhum |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000405.png](https://static.divine-pride.net/images/items/item/1000405.png) x [xx](http://www.divine-pride.net/database/item/1000405/) |
 
 1. No primeiro andar, você deve abrir caminho derrotando os Guardas de Rachel.
 2. Portais verdes aparecerão quando você tiver eliminado todos os guardas do trajeto.

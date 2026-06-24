@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Cura pelas Mãos Cura pelas Mãos** | |
-| Cura pelas Mãos | |
+| **![Cura pelas Mãos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Cura_pelas_M%C3%A3os.png) Cura pelas Mãos** | |
+| ![Cura pelas Mãos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Cura_pelas_M%C3%A3os.gif) | |
 | **Touch of Heal / Healing Hands** | |
 | **ID** | HLIF\_HEAL (8001) |
 | **Tipo** | Suporte |
@@ -13,7 +13,7 @@
 | **[SP](../Sem%20categoria/SP.md "SP")** | 10 + (Nv. da habilidade × 3) |
 | **Recarga** | 20 segundos |
 | **Alvo** | Mestre |
-| **Item** | 545.png 1 [Poção Vermelha Compacta](http://www.divine-pride.net/database/item/545/) |
+| **Item** | ![545.png](https://static.divine-pride.net/images/items/item/545.png) 1 [Poção Vermelha Compacta](http://www.divine-pride.net/database/item/545/) |
 | **Pré-requisitos** | |
 | Nenhum | |
 

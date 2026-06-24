@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Invencibilidade** | |
-| Invencibilidade | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Invencibilidade** | |
+| ![Invencibilidade](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Invencibilidade.gif) | |
 | **ID:** | NPC\_INVINCIBLE (685) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

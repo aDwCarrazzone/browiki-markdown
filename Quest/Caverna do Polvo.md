@@ -2,18 +2,18 @@
 
 # Caverna do Polvo
 
-| SC ico Caverna do Polvo | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Caverna do Polvo | |
 | --- | --- |
 | Perturbe o sono do Polvo mais insolente da ilha Malangdo. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | 3 horas |
-| **[Itens](../Itens/Itens.md "Itens")** | 6442.png 1 [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/6442/) |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 3 horas |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6442.png](https://static.divine-pride.net/images/items/item/6442.png) 1 [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/6442/) |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster PolvoGigante [Polvo Gigante](http://www.divine-pride.net/database/monster/2194/) |
+| **Chefe** | ![Monster PolvoGigante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Monster_PolvoGigante.png) [Polvo Gigante](http://www.divine-pride.net/database/monster/2194/) |
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Estrela do Mar (mal\_dun01 151,235)
 

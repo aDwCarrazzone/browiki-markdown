@@ -2,19 +2,19 @@
 
 # Esmeralda do Azar
 
-| NQ ico Esmeralda do Azar | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Esmeralda do Azar | |
 | --- | --- |
 | A lenda de uma esmeralda maldita pode estar relacionada ao assassinato de uma tropa de guerra. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 934.png 20 [Espólios](http://www.divine-pride.net/database/item/934/)  722.png 2 [Pérolas](http://www.divine-pride.net/database/item/722/)  912.png 2 [Zargônios](http://www.divine-pride.net/database/item/912/)  990.png 1 [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)  992.png 1 [Frescor do Vento](http://www.divine-pride.net/database/item/992/)  991.png 1 [Cristal Azul](http://www.divine-pride.net/database/item/991/)  748.png 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)  523.png 1 [Água Benta](http://www.divine-pride.net/database/item/523/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![934.png](https://static.divine-pride.net/images/items/item/934.png) 20 [Espólios](http://www.divine-pride.net/database/item/934/)  ![722.png](https://static.divine-pride.net/images/items/item/722.png) 2 [Pérolas](http://www.divine-pride.net/database/item/722/)  ![912.png](https://static.divine-pride.net/images/items/item/912.png) 2 [Zargônios](http://www.divine-pride.net/database/item/912/)  ![990.png](https://static.divine-pride.net/images/items/item/990.png) 1 [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)  ![992.png](https://static.divine-pride.net/images/items/item/992.png) 1 [Frescor do Vento](http://www.divine-pride.net/database/item/992/)  ![991.png](https://static.divine-pride.net/images/items/item/991.png) 1 [Cristal Azul](http://www.divine-pride.net/database/item/991/)  ![748.png](https://static.divine-pride.net/images/items/item/748.png) 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)  ![523.png](https://static.divine-pride.net/images/items/item/523.png) 1 [Água Benta](http://www.divine-pride.net/database/item/523/) |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 Pessoa |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 301.200 |
 | **Quests anteriores** | [Diamante Roubado](../Quest/Diamante%20Roubado.md "Diamante Roubado") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Variável |
-| **[Itens](../Itens/Itens.md "Itens")** | 1158.png 1 [Espada de Duas Mãos](http://www.divine-pride.net/database/item/1158/)  604.png 1 [Galho Seco](http://www.divine-pride.net/database/item/604/)   603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) ou   617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) ou   607.png 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1158.png](https://static.divine-pride.net/images/items/item/1158.png) 1 [Espada de Duas Mãos](http://www.divine-pride.net/database/item/1158/)  ![604.png](https://static.divine-pride.net/images/items/item/604.png) 1 [Galho Seco](http://www.divine-pride.net/database/item/604/)   ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) ou   ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) ou   ![607.png](https://static.divine-pride.net/images/items/item/607.png) 1 [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/) |
 
 1. Doe 1.200 [zenys](../Sem%20categoria/Zenys.md "Zenys") após ouvir a história do Maltrapilho (morocc 143,63)
 

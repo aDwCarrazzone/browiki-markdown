@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Contrato com Kafra Contrato com Kafra** | |
-| SemImagem | |
+| **![Contrato com Kafra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Contrato_com_Kafra.png) Contrato com Kafra** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Contract with Kafra** | |
 | **ID** | GD\_KAFRACONTRACT (10001) |
 | **Tipo** | Passiva |
 | **Níveis** | 1 |
 | **Pré-requisitos** | |
-| [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
+| [![Autorização Oficial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Autoriza%C3%A7%C3%A3o_Oficial.png)](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") [Autorização Oficial](Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") Nv. 1 | |
 
 Contrata uma funcionária [Kafra](../Sem%20categoria/Kafra.md "Kafra") para atuar dentro do seu castelo, disponibilizando [serviços](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") para todos os membros do [clã](../PvP/Cl%C3%A3.md "Clã"):
 

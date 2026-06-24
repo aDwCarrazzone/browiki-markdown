@@ -2,13 +2,13 @@
 
 # Segredo da Família Real
 
-| EP ico Segredo da Família Real | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Segredo da Família Real | |
 | --- | --- |
 | Uma misteriosa maldição assombra os membros da família real de Rune-Midgard. Caberá a você investigar se a história é verdadeira ou se tudo não passa de um antigo poema. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 506.png 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) 715.png 1 [Gema Amarela](http://www.divine-pride.net/database/item/715/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![506.png](https://static.divine-pride.net/images/items/item/506.png) 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) ![715.png](https://static.divine-pride.net/images/items/item/715.png) 1 [Gema Amarela](http://www.divine-pride.net/database/item/715/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 1.000 |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
@@ -120,6 +120,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | SetaVermelha | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | SetaVermelha | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | SetaVermelha | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
-| Segredo da Família Real | | | | | SetaVermelha |
+| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Base no Vulcão](Base%20no%20Vulc%C3%A3o.md "Base no Vulcão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
+| Segredo da Família Real | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

@@ -2,13 +2,13 @@
 
 # Diamantes da Kachua
 
-| NQ ico Diamantes da Kachua | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Diamantes da Kachua | |
 | --- | --- |
 | Uma colecionadora de itens está fissurada em diamantes brilhantes de 3 quilates. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 732.png [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![732.png](https://static.divine-pride.net/images/items/item/732.png) [Diamante de 3 Quilates](http://www.divine-pride.net/database/item/732/) |
 | Premiação | |
 | **[Itens](../Itens/Itens.md "Itens")** | Aleatório |
 
@@ -24,9 +24,9 @@
 
 | Prêmios principais | | |
 | --- | --- | --- |
-| 6320.png [Pedra das Valquírias](http://www.divine-pride.net/database/item/6320/) |
-| 19283.png [(Kachua) Tiara dos Corações-Alados](http://www.divine-pride.net/database/item/19283/) |
-| 19284.png [(Kachua) Óculos Retrofuturistas](http://www.divine-pride.net/database/item/19284/) |
+| ![6320.png](https://static.divine-pride.net/images/items/item/6320.png) [Pedra das Valquírias](http://www.divine-pride.net/database/item/6320/) |
+| ![19283.png](https://static.divine-pride.net/images/items/item/19283.png) [(Kachua) Tiara dos Corações-Alados](http://www.divine-pride.net/database/item/19283/) |
+| ![19284.png](https://static.divine-pride.net/images/items/item/19284.png) [(Kachua) Óculos Retrofuturistas](http://www.divine-pride.net/database/item/19284/) |
 
 ## Lista
 

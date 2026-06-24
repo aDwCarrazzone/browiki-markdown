@@ -24,13 +24,13 @@ Enquanto a lojinha de rua estiver ativa, seu personagem pode seguir livremente, 
 
 | Tipo | Passe | Limite |
 | --- | --- | --- |
-| [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") | 23342.png [Passe de Venda (Básico)](http://www.divine-pride.net/database/item/23342/) | 3 itens |
-| 23343.png [Passe de Venda (Médio)](http://www.divine-pride.net/database/item/23343/) | 4 itens |
-| 23344.png [Passe de Venda (Avançado)](http://www.divine-pride.net/database/item/23344/) | 5 itens |
+| [![Comércio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/Com%C3%A9rcio.png)](../Ativa/Com%C3%A9rcio.md "Comércio") [Comércio](../Ativa/Com%C3%A9rcio.md "Comércio") | ![23342.png](https://static.divine-pride.net/images/items/item/23342.png) [Passe de Venda (Básico)](http://www.divine-pride.net/database/item/23342/) | 3 itens |
+| ![23343.png](https://static.divine-pride.net/images/items/item/23343.png) [Passe de Venda (Médio)](http://www.divine-pride.net/database/item/23343/) | 4 itens |
+| ![23344.png](https://static.divine-pride.net/images/items/item/23344.png) [Passe de Venda (Avançado)](http://www.divine-pride.net/database/item/23344/) | 5 itens |
 |  | | |
-| [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") | 23345.png [Passe de Compra (Básico)](http://www.divine-pride.net/database/item/23345/) | 3 itens |
-| 23346.png [Passe de Compra (Médio)](http://www.divine-pride.net/database/item/23346/) | 4 itens |
-| 23347.png [Passe de Compra (Avançado)](http://www.divine-pride.net/database/item/23347/) | 5 itens |
+| [![Loja de Compras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Loja_de_Compras.png)](../Ativa/Loja%20de%20Compras.md "Loja de Compras") [Loja de Compras](../Ativa/Loja%20de%20Compras.md "Loja de Compras") | ![23345.png](https://static.divine-pride.net/images/items/item/23345.png) [Passe de Compra (Básico)](http://www.divine-pride.net/database/item/23345/) | 3 itens |
+| ![23346.png](https://static.divine-pride.net/images/items/item/23346.png) [Passe de Compra (Médio)](http://www.divine-pride.net/database/item/23346/) | 4 itens |
+| ![23347.png](https://static.divine-pride.net/images/items/item/23347.png) [Passe de Compra (Avançado)](http://www.divine-pride.net/database/item/23347/) | 5 itens |
 
 ### Restrições
 

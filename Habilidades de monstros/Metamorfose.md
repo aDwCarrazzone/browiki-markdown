@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Metamorfose** | |
-| Metamorfose | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Metamorfose** | |
+| ![Metamorfose](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Metamorfose.gif) | |
 | **ID:** | NPC\_METAMORPHOSIS (193) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

@@ -2,18 +2,18 @@
 
 # Investigando o Passado
 
-| EP ico Investigando o Passado | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Investigando o Passado | |
 | --- | --- |
 | Acompanhe Du Lian e seu grupo em uma investigação sobre as construções dos habitantes da cidade de Verus! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 7319.png 30 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7319.png](https://static.divine-pride.net/images/items/item/7319.png) 30 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
 | **Quests anteriores** | [Fantasmagórica](../Quests%20de%20experi%C3%AAncia/Fantasmag%C3%B3rica.md "Fantasmagórica") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6827.png 1 [Peça Intacta](http://www.divine-pride.net/database/item/6827/)  6828.png 1 [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6827.png](https://static.divine-pride.net/images/items/item/6827.png) 1 [Peça Intacta](http://www.divine-pride.net/database/item/6827/)  ![6828.png](https://static.divine-pride.net/images/items/item/6828.png) 1 [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/) |
 | **Recompensa** | Libera a [Sala Final](../Quests%20de%20experi%C3%AAncia/Sala%20Final.md "Sala Final") |
 
 1. Diga seu nome para a Guia Elisha (yuno\_fild07 216,157)
@@ -108,6 +108,6 @@
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |
-| [Fantasmagórica](../Quests%20de%20experi%C3%AAncia/Fantasmag%C3%B3rica.md "Fantasmagórica") | SetaVermelha | Investigando o Passado | SetaVermelha | [Sala Final](../Quests%20de%20experi%C3%AAncia/Sala%20Final.md "Sala Final") |
+| [Fantasmagórica](../Quests%20de%20experi%C3%AAncia/Fantasmag%C3%B3rica.md "Fantasmagórica") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Investigando o Passado | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sala Final](../Quests%20de%20experi%C3%AAncia/Sala%20Final.md "Sala Final") |
 | [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central") | | |
-| [Registro de Memórias](../Quests%20de%20experi%C3%AAncia/Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | SetaVermelha | [Sobrevivendo no Abrigo](../Quests%20de%20experi%C3%AAncia/Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |
+| [Registro de Memórias](../Quests%20de%20experi%C3%AAncia/Registro%20de%20Mem%C3%B3rias.md "Registro de Memórias") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sobrevivendo no Abrigo](../Quests%20de%20experi%C3%AAncia/Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |

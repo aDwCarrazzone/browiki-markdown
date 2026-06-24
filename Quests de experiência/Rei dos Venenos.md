@@ -2,18 +2,18 @@
 
 # Rei dos Venenos
 
-| NQ ico Rei dos Venenos | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Rei dos Venenos | |
 | --- | --- |
 | O maior criador de venenos da cidade planeja sua vingança contra nada menos que o próprio governador! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 40 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1093.png 10+ [Garrafas de Poção](http://www.divine-pride.net/database/item/1093/)  939.png 4+ [Ferrão de Abelha](http://www.divine-pride.net/database/item/939/)  506.png 31+ [Poções Verde](http://www.divine-pride.net/database/item/506/)  937.png 10+ [Caninos Venenosos](http://www.divine-pride.net/database/item/937/)  713.png 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  938.png 1 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1093.png](https://static.divine-pride.net/images/items/item/1093.png) 10+ [Garrafas de Poção](http://www.divine-pride.net/database/item/1093/)  ![939.png](https://static.divine-pride.net/images/items/item/939.png) 4+ [Ferrão de Abelha](http://www.divine-pride.net/database/item/939/)  ![506.png](https://static.divine-pride.net/images/items/item/506.png) 31+ [Poções Verde](http://www.divine-pride.net/database/item/506/)  ![937.png](https://static.divine-pride.net/images/items/item/937.png) 10+ [Caninos Venenosos](http://www.divine-pride.net/database/item/937/)  ![713.png](https://static.divine-pride.net/images/items/item/713.png) 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  ![938.png](https://static.divine-pride.net/images/items/item/938.png) 1 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 1.000 |
 | **Quests anteriores** | [Erva Medicinal](Erva%20Medicinal.md "Erva Medicinal") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
-| **[Itens](../Itens/Itens.md "Itens")** | 678.png 5 [Garrafa de Veneno](http://www.divine-pride.net/database/item/678/)  603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![678.png](https://static.divine-pride.net/images/items/item/678.png) 5 [Garrafa de Veneno](http://www.divine-pride.net/database/item/678/)  ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/) |
 
 1. Demonstre interesse na história do Bibliotecário (lou\_in02 253,45)
 

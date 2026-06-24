@@ -2,7 +2,7 @@
 
 # Pólvora de Louyang
 
-| NQ ico Pólvora de Louyang | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pólvora de Louyang | |
 | --- | --- |
 | Ajude uma pessoa misteriosa a encontrar pessoas dispostas a causar uma verdadeira revolução na cidade! | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Normal |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 8 Pessoas, incluindo um personagem com [carrinho](../Passiva/Usar%20Carrinho.md "Usar Carrinho") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 668.png 8 [Envelopes Vermelhos](http://www.divine-pride.net/database/item/668/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![668.png](https://static.divine-pride.net/images/items/item/668.png) 8 [Envelopes Vermelhos](http://www.divine-pride.net/database/item/668/) |
 
 1. Crie um [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e fale com a Pessoa Escondida (lou\_in02 77,37)
 

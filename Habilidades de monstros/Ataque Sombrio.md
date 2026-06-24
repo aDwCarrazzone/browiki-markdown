@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ataque Sombrio** | |
-| Ataque Sombrio | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ataque Sombrio** | |
+| ![Ataque Sombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Ataque_Sombrio.gif) | |
 | **ID:** | NPC\_DARKSTRIKE (340) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |

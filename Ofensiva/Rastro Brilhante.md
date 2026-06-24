@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Rastro Brilhante Rastro Brilhante** | |
-| Rastro Brilhante | |
+| **![Rastro Brilhante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Rastro_Brilhante.png) Rastro Brilhante** | |
+| ![Rastro Brilhante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Rastro_Brilhante.gif) | |
 | **Silvervein Rush** | |
 | **ID** | MH\_SILVERVEIN\_RUSH (8029) |
 | **Tipo** | Ofensiva |

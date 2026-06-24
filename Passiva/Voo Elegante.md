@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Voo Elegante Voo Elegante** | |
-| SemImagem | |
+| **![Voo Elegante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Voo_Elegante.png) Voo Elegante** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Classy Flutter** | |
 | **ID** | MH\_CLASSY\_FLUTTER (8046) |
 | **Tipo** | Passiva |

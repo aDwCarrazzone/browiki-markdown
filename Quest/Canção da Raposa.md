@@ -2,14 +2,14 @@
 
 # Canção da Raposa
 
-| NQ ico Canção da Raposa | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Canção da Raposa | |
 | --- | --- |
 | Uma maldição milenar incorpora em uma senhora de idade, assombrando a vida de seu filho, membro da mais alta hierarquia do país. Será que você é capaz de expulsar o mau espírito? | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 7160.png 1 [Passe Imperial](http://www.divine-pride.net/database/item/7160/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7160.png](https://static.divine-pride.net/images/items/item/7160.png) 1 [Passe Imperial](http://www.divine-pride.net/database/item/7160/) |
 | **Recompensa** | Acesso ao [Labirinto de Tatames](http://www.divine-pride.net/database/map/ama_dun01/) |
 
 1. Converse com os dois Guardas do Portão (amatsu 164,174)

@@ -65,8 +65,8 @@ Não há nenhuma diferença entre os servidores, todos possuem as mesmas configu
 - Em alguns casos, como forma de compensar manutenções estendidas, uma *Kafra dos Biscoitos* aparece por algum tempo fornecendo:
   - Recuperação total do [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP").
   - Bônus de [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de classe +5%.
-  - Efeito da ![14534.png](http://static.divine-pride.net/images/items/item/14534.png) [Poção Menor de Vida](http://www.divine-pride.net/database/item/14534/)
-  - Efeito da ![23203.png](http://static.divine-pride.net/images/items/item/23203.png) [Poção Menor de Mana](http://www.divine-pride.net/database/item/23203/)
+  - Efeito da ![14534.png](https://static.divine-pride.net/images/items/item/14534.png) [Poção Menor de Vida](http://www.divine-pride.net/database/item/14534/)
+  - Efeito da ![23203.png](https://static.divine-pride.net/images/items/item/23203.png) [Poção Menor de Mana](http://www.divine-pride.net/database/item/23203/)
   - A Kafra dos Biscoitos fica localizada no [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). (moc\_para01 41,21)
 
 :   :   :   ![KafraBiscoiteira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/KafraBiscoiteira.png)

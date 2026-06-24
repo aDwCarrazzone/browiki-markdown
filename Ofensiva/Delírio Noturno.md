@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Delírio Noturno Delírio Noturno** | |
-| Delírio Noturno | |
+| **![Delírio Noturno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Del%C3%ADrio_Noturno.png) Delírio Noturno** | |
+| ![Delírio Noturno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Del%C3%ADrio_Noturno.gif) | |
 | **Midnight Frenzy** | |
 | **ID** | MH\_MIDNIGHT\_FRENZY (8030) |
 | **Tipo** | Ofensiva |

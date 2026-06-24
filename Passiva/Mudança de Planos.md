@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Mudança de Planos Mudança de Planos** | |
-| SemImagem | |
+| **![Mudança de Planos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Mudan%C3%A7a_de_Planos.png) Mudança de Planos** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Instruction Change** | |
 | **ID** | HVAN\_INSTRUCT (8015) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Pré-requisitos** | |
-| [Capricho](../Ofensiva/Capricho.md "Capricho") [Capricho](../Ofensiva/Capricho.md "Capricho") Nv. 5 | |
+| [![Capricho](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Capricho.png)](../Ofensiva/Capricho.md "Capricho") [Capricho](../Ofensiva/Capricho.md "Capricho") Nv. 5 | |
 
 Melhora as chances de sucesso de [Preparar Poção](../Ativa/Preparar%20Po%C3%A7%C3%A3o.md "Preparar Poção") do mestre e aumenta a [INT](../Sem%20categoria/INT.md "INT") e a [FOR](../Sem%20categoria/FOR.md "FOR") do [homunculus](../Homunculus/Homunculus.md "Homunculus").
 

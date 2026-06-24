@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Zéfiro Absoluto Zéfiro Absoluto** | |
+| **![Zéfiro Absoluto](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/03/Z%C3%A9firo_Absoluto.png) Zéfiro Absoluto** | |
 | [Arquivo:Zéfiro Absoluto.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Z%C3%A9firo_Absoluto.gif "Arquivo:Zéfiro Absoluto.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

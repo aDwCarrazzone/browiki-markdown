@@ -4,7 +4,7 @@
 
 ## Cavalaria de Prontera
 
-| NQ ico Missão Regional de Prontera | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Prontera | |
 | --- | --- |
 | Para proteger a cidade da expansão de outras raças agressivas, a Cavalaria de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") envia tropas para monitorar a Vila dos Orcs e a Vila Goblin.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
@@ -37,7 +37,7 @@
 
 ## Catedral de Prontera
 
-| NQ ico Missão Regional de Prontera | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Prontera | |
 | --- | --- |
 | Para provar sua fé, a Catedral envia missionários exorcistas para [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md "Glastheim"), a antiga capital do reino. Entretanto, a falta de respostas de uma expedição tem deixado um membro da igreja preocupado com a situação.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Vento Uivante Vento Uivante** | |
-| Vento Uivante | |
+| **![Vento Uivante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Vento_Uivante.png) Vento Uivante** | |
+| ![Vento Uivante](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Vento_Uivante.gif) | |
 | **Blowing Wind** | |
 | **ID** | ALL\_PARTYFLEE (693) |
 | **Tipo** | Suporte |

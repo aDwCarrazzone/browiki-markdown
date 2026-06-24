@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ferimento Mortal** | |
-| Ferimento Mortal | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ferimento Mortal** | |
+| ![Ferimento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6b/Ferimento_Mortal.gif) | |
 | **ID:** | NPC\_CRITICALWOUND (673) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -39,20 +39,20 @@ Inflige um *Ferimento Crítico* por 30 segundos.
 - Pode ser bloqueada por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") se estiver 4 células próximo do alvo ou por [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") se estiver distante 5 células em diante.
 - É cumulativo com [Squamata](../Ativa/Aplicar%20Toxina.md "Aplicar Toxina").
 - Consumíveis relacionados:
-  - ![13293.png](http://static.divine-pride.net/images/items/item/13293.png) [Peixe Voador](http://www.divine-pride.net/database/item/13293/)
+  - ![13293.png](https://static.divine-pride.net/images/items/item/13293.png) [Peixe Voador](http://www.divine-pride.net/database/item/13293/)
 - Armas relacionadas:
-  - ![1268.png](http://static.divine-pride.net/images/items/item/1268.png) [Garra da Fera Selvagem](http://www.divine-pride.net/database/item/1268/)
-  - ![1825.png](http://static.divine-pride.net/images/items/item/1825.png) [Espírito do Leão da Montanha](http://www.divine-pride.net/database/item/1825/)
-  - ![1483.png](http://static.divine-pride.net/images/items/item/1483.png) [Lança de Marfim](http://www.divine-pride.net/database/item/1483/)
-  - ![13039.png](http://static.divine-pride.net/images/items/item/13039.png) [Adaga de Marfim](http://www.divine-pride.net/database/item/13039/)
-  - ![13416.png](http://static.divine-pride.net/images/items/item/13416.png) [Flamberge Gloriosa](http://www.divine-pride.net/database/item/13416/)
-  - ![1426.png](http://static.divine-pride.net/images/items/item/1426.png) [Lança Gloriosa](http://www.divine-pride.net/database/item/1426/)
-  - ![1486.png](http://static.divine-pride.net/images/items/item/1486.png) [Lança de Duas Mãos Gloriosa](http://www.divine-pride.net/database/item/1486/)
-  - ![1310.png](http://static.divine-pride.net/images/items/item/1310.png) [Retalhador Glorioso](http://www.divine-pride.net/database/item/1310/)
-  - ![1382.png](http://static.divine-pride.net/images/items/item/1382.png) [Machado de Duas Mãos Glorioso](http://www.divine-pride.net/database/item/1382/)
+  - ![1268.png](https://static.divine-pride.net/images/items/item/1268.png) [Garra da Fera Selvagem](http://www.divine-pride.net/database/item/1268/)
+  - ![1825.png](https://static.divine-pride.net/images/items/item/1825.png) [Espírito do Leão da Montanha](http://www.divine-pride.net/database/item/1825/)
+  - ![1483.png](https://static.divine-pride.net/images/items/item/1483.png) [Lança de Marfim](http://www.divine-pride.net/database/item/1483/)
+  - ![13039.png](https://static.divine-pride.net/images/items/item/13039.png) [Adaga de Marfim](http://www.divine-pride.net/database/item/13039/)
+  - ![13416.png](https://static.divine-pride.net/images/items/item/13416.png) [Flamberge Gloriosa](http://www.divine-pride.net/database/item/13416/)
+  - ![1426.png](https://static.divine-pride.net/images/items/item/1426.png) [Lança Gloriosa](http://www.divine-pride.net/database/item/1426/)
+  - ![1486.png](https://static.divine-pride.net/images/items/item/1486.png) [Lança de Duas Mãos Gloriosa](http://www.divine-pride.net/database/item/1486/)
+  - ![1310.png](https://static.divine-pride.net/images/items/item/1310.png) [Retalhador Glorioso](http://www.divine-pride.net/database/item/1310/)
+  - ![1382.png](https://static.divine-pride.net/images/items/item/1382.png) [Machado de Duas Mãos Glorioso](http://www.divine-pride.net/database/item/1382/)
 - Equipamentos relacionados:
-  - ![2728.png](http://static.divine-pride.net/images/items/item/2728.png) [Mão Maldita](http://www.divine-pride.net/database/item/2728/)
-  - ![5671.png](http://static.divine-pride.net/images/items/item/5671.png) [Boneca da Vaidade](http://www.divine-pride.net/database/item/5671/)
+  - ![2728.png](https://static.divine-pride.net/images/items/item/2728.png) [Mão Maldita](http://www.divine-pride.net/database/item/2728/)
+  - ![5671.png](https://static.divine-pride.net/images/items/item/5671.png) [Boneca da Vaidade](http://www.divine-pride.net/database/item/5671/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

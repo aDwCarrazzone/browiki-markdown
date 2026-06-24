@@ -2,7 +2,7 @@
 
 # Memórias do Professor Fabre
 
-| NQ ico Memórias do Professor Fabre | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Memórias do Professor Fabre | |
 | --- | --- |
 | No topo da Torre de Bifröst reside um humano que não lembra como se transformou em um Fabre nem o porquê de ter perdido parte de suas memórias! | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.100.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6081.png 1 [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 1 [Moeda Esplendor](http://www.divine-pride.net/database/item/6081/) |
 
 1. Fale com o Professor Fabre (ecl\_tdun04 26,39)
 

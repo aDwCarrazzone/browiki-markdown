@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Investigar Investigar** | |
-| SemImagem | |
+| **![Investigar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Investigar.png) Investigar** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Set Investigate** | |
 | **ID** | - (-) |
 | **Tipo** | Passiva |
@@ -32,7 +32,7 @@ Anula toda a [DEF](../Sem%20categoria/DEF.md "DEF") do alvo e aumenta o seu [ATQ
   - [Sopro do Dragão](../Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão")
   - [Bafo do Dragão](../Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão")
 - Itens relacionados:
-  - ![480812.png](http://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
+  - ![480812.png](https://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
   - [Rondel](http://www.divine-pride.net/database/item/1230/)
   - [Damascus Mercenária B](http://www.divine-pride.net/database/item/13037/)
   - [Carta Memória de Thanatos](http://www.divine-pride.net/database/item/4399/)

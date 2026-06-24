@@ -2,14 +2,14 @@
 
 # Memórias de Sarah
 
-| SC ico Memórias de Sarah | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Memórias de Sarah | |
 | --- | --- |
 | A filha do chefe de Payon testemunhou a morte da própria mãe. Numa ironia do destino, duas figuras mitológicas observam de longe o nascimento do desejo de vingança de uma das doze valquírias de Midgard: Sarah Irine. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 99 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 04h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 04h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
 | **Chefe** | [Lorde Irine](http://www.divine-pride.net/database/monster/2542/) |

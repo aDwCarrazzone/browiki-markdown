@@ -4,7 +4,7 @@
 
 ## Problema no Lago
 
-| NQ ico Missão Regional de Hugel | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Hugel | |
 | --- | --- |
 | Se você não presta atenção no seu trabalho, acidentes podem acontecer.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
@@ -28,18 +28,18 @@
 
 ## História de Pescador
 
-| NQ ico Missão Regional de Hugel | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Hugel | |
 | --- | --- |
 | [Hugel](../Lugares%20em%20Ragnar%C3%B6k/Hugel.md "Hugel") é o lar de pessoas misteriosas e com passados desconhecidos. Conheça um pouco da história desse velho pescador.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 40 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 966.png [Carnes de Ostra](http://www.divine-pride.net/database/item/966/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![966.png](https://static.divine-pride.net/images/items/item/966.png) [Carnes de Ostra](http://www.divine-pride.net/database/item/966/) |
 | **Caça** | 10 [Molusco](http://www.divine-pride.net/database/monster/1074/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 8.400 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 8.380 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12053.png 1 [Sopa de Ostra](http://www.divine-pride.net/database/item/12053/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12053.png](https://static.divine-pride.net/images/items/item/12053.png) 1 [Sopa de Ostra](http://www.divine-pride.net/database/item/12053/) |
 
 1. Fale com o Pescador Raimundo (hugel 100,149)
 

@@ -2,18 +2,18 @@
 
 # Fábrica do Terror
 
-| SC ico Fábrica do Terror | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Fábrica do Terror | |
 | --- | --- |
 | “Talvez eu esteja criando algo maravilhoso. O que eu criei parece mais ser minha filha do que uma boneca. Quando você receber esta carta, já terei terminado meu trabalho. Gostaria de mostrar minha última criação – não – minha filha, pra você.” ... “Eu continuo conversando com esta boneca, porque não consigo suportar o fato de que ela será a última boneca que eu farei. Justo minha milionésima boneca. Haha, estou me tornando um velho tolo. Você entende como me sinto, velho amigo?” | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster CelineKimi [Celine Kimi](http://www.divine-pride.net/database/monster/2996/) |
-| **Recompensa** | 7642.png [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
+| **Chefe** | ![Monster CelineKimi](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2a/Monster_CelineKimi.png) [Celine Kimi](http://www.divine-pride.net/database/monster/2996/) |
+| **Recompensa** | ![7642.png](https://static.divine-pride.net/images/items/item/7642.png) [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
 
 [![FabricaHorror1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
 
@@ -93,22 +93,22 @@ Mapa-Chave da Fábrica. Clique para ampliar.
     :   ![ToyHorror12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/ToyHorror12.png)
 
     - Itens aleatórios derrubados (Bônus de drop não afetam os baús)
-      - ![7642.png](http://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
-      - ![644.png](http://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/)
-      - ![603.png](http://static.divine-pride.net/images/items/item/603.png) [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)
-      - ![617.png](http://static.divine-pride.net/images/items/item/617.png) [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)
-      - ![616.png](http://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
-      - ![12246.png](http://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
-      - ![22534.png](http://static.divine-pride.net/images/items/item/22534.png) [Caixa da Consciência](http://www.divine-pride.net/database/item/22534/)
-      - ![18848.png](http://static.divine-pride.net/images/items/item/18848.png) [Presilha de Rosas](http://www.divine-pride.net/database/item/18848/)
-      - ![2977.png](http://static.divine-pride.net/images/items/item/2977.png) [Coração Partido](http://www.divine-pride.net/database/item/2977/)
-      - ![2978.png](http://static.divine-pride.net/images/items/item/2978.png) [Coração Bondoso](http://www.divine-pride.net/database/item/2978/)
-      - ![2976.png](http://static.divine-pride.net/images/items/item/2976.png) [Lampião das Trevas](http://www.divine-pride.net/database/item/2976/)
-      - ![13442.png](http://static.divine-pride.net/images/items/item/13442.png) [Guarda-Chuva Antiquado](http://www.divine-pride.net/database/item/13442/)
-      - ![2486.png](http://static.divine-pride.net/images/items/item/2486.png) [Passo das Sombras](http://www.divine-pride.net/database/item/2486/)
-      - ![7228.png](http://static.divine-pride.net/images/items/item/7228.png) [Ouro em Barra](http://www.divine-pride.net/database/item/7228/)
-      - ![7229.png](http://static.divine-pride.net/images/items/item/7229.png) [Prata em Barra](http://www.divine-pride.net/database/item/7229/)
-      - ![7230.png](http://static.divine-pride.net/images/items/item/7230.png) [Platina em Barra](http://www.divine-pride.net/database/item/7230/)
+      - ![7642.png](https://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
+      - ![644.png](https://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/)
+      - ![603.png](https://static.divine-pride.net/images/items/item/603.png) [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)
+      - ![617.png](https://static.divine-pride.net/images/items/item/617.png) [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)
+      - ![616.png](https://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
+      - ![12246.png](https://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
+      - ![22534.png](https://static.divine-pride.net/images/items/item/22534.png) [Caixa da Consciência](http://www.divine-pride.net/database/item/22534/)
+      - ![18848.png](https://static.divine-pride.net/images/items/item/18848.png) [Presilha de Rosas](http://www.divine-pride.net/database/item/18848/)
+      - ![2977.png](https://static.divine-pride.net/images/items/item/2977.png) [Coração Partido](http://www.divine-pride.net/database/item/2977/)
+      - ![2978.png](https://static.divine-pride.net/images/items/item/2978.png) [Coração Bondoso](http://www.divine-pride.net/database/item/2978/)
+      - ![2976.png](https://static.divine-pride.net/images/items/item/2976.png) [Lampião das Trevas](http://www.divine-pride.net/database/item/2976/)
+      - ![13442.png](https://static.divine-pride.net/images/items/item/13442.png) [Guarda-Chuva Antiquado](http://www.divine-pride.net/database/item/13442/)
+      - ![2486.png](https://static.divine-pride.net/images/items/item/2486.png) [Passo das Sombras](http://www.divine-pride.net/database/item/2486/)
+      - ![7228.png](https://static.divine-pride.net/images/items/item/7228.png) [Ouro em Barra](http://www.divine-pride.net/database/item/7228/)
+      - ![7229.png](https://static.divine-pride.net/images/items/item/7229.png) [Prata em Barra](http://www.divine-pride.net/database/item/7229/)
+      - ![7230.png](https://static.divine-pride.net/images/items/item/7230.png) [Platina em Barra](http://www.divine-pride.net/database/item/7230/)
 21. Para sair da instância, clique no Portão.
 
     :   ![ToyHorror13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/ToyHorror13.png)

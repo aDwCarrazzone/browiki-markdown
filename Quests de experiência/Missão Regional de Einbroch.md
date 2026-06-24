@@ -2,7 +2,7 @@
 
 # Missão Regional de Einbroch
 
-| NQ ico Missão Regional de Einbroch | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Einbroch | |
 | --- | --- |
 | Para conhecer a história de [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch") e [Einbech](../Lugares%20em%20Ragnar%C3%B6k/Einbech.md "Einbech"), basta perguntar a qualquer trabalhador das cidades. Apesar de estarem sempre ocupados e longe da família, eles sempre terão um tempo para conversar com você.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |

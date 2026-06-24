@@ -2,18 +2,18 @@
 
 # Hospital Abandonado
 
-| SC ico Hospital Abandonado | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Hospital Abandonado | |
 | --- | --- |
 | Rumores dizem que o segundo andar desse antigo hospital é o lar de um demônio dos sonhos que perturbava os falecidos pacientes. Entre no lugar e corte o mal pela raiz! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | 7 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 7 dias |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Enfermeira em Porto Malaya](../Acesso%20a%20Calabou%C3%A7os/Enfermeira%20em%20Porto%20Malaya.md "Enfermeira em Porto Malaya") |
 | Premiação | |
-| **Chefe** | Monster Bangungot [Bangungot](http://www.divine-pride.net/database/monster/2317/) |
+| **Chefe** | ![Monster Bangungot](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8f/Monster_Bangungot.png) [Bangungot](http://www.divine-pride.net/database/monster/2317/) |
 
 1. Entre na fila da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") falando com a Enfermeira (ma\_dun01 147,10)
 

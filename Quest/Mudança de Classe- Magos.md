@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Magos
 
-| JQ ico Mudança de Classe: Magos | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Magos | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 10 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1639.png 1 [Cajado de Iniciante](http://www.divine-pride.net/database/item/1639/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1639.png](https://static.divine-pride.net/images/items/item/1639.png) 1 [Cajado de Iniciante](http://www.divine-pride.net/database/item/1639/) |
 | **Recompensa** | Muda a classe para [Mago](../Sem%20categoria/Mago.md "Mago") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Charles (iz\_ac02 148,110)
@@ -26,7 +26,7 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![1639.png](http://static.divine-pride.net/images/items/item/1639.png) 1 [Cajado de Iniciante](http://www.divine-pride.net/database/item/1639/)
+     - ![1639.png](https://static.divine-pride.net/images/items/item/1639.png) 1 [Cajado de Iniciante](http://www.divine-pride.net/database/item/1639/)
      - Aprende [![Proteção Arcana](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Prote%C3%A7%C3%A3o_Arcana.png)](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana")
 3. Após a mudança, volte para a [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura") e fale com Sprakki (iz\_ac01 102,44).
 
@@ -34,10 +34,10 @@
 
    - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
      - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-     - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-     - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-     - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-     - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+     - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+     - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+     - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+     - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 4. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -90,5 +90,5 @@
 
 | *O Poder dos Elementos* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Magospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | | [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../Ativa/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../Ativa/Petrificar.md "Petrificar") · [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") · [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") |
+| |  |  | | --- | --- | | [![Magospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Magospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | [Magos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") | | [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../Ativa/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../Ativa/Petrificar.md "Petrificar") · [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") · [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") |
 | Evoluções | [Bruxos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Bruxos.md "Bruxos") · [Sábios](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/S%C3%A1bios.md "Sábios") |

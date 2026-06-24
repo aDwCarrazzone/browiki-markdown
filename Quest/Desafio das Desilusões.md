@@ -2,7 +2,7 @@
 
 # Desafio das Desilusões
 
-| DQ ico Desafio das Desilusões | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Desafio das Desilusões | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
@@ -61,17 +61,17 @@
    - A batalha entre seu [grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo") e a [Dama dos Desejos](http://www.divine-pride.net/database/monster/1931/) começará.
 8. Ao derrotá-la, o líder do [clã](../PvP/Cl%C3%A3.md "Clã") poderá criar o [Manto de Asfrika](http://www.divine-pride.net/database/item/2541/) ou a [Armadura de Brynhildr](http://www.divine-pride.net/database/item/2383/), de acordo com os itens.
 
-| 2541.png [Manto de Asfrika](http://www.divine-pride.net/database/item/2541/) | 2383.png [Armadura de Brynhildr](http://www.divine-pride.net/database/item/2383/) |
+| ![2541.png](https://static.divine-pride.net/images/items/item/2541.png) [Manto de Asfrika](http://www.divine-pride.net/database/item/2541/) | ![2383.png](https://static.divine-pride.net/images/items/item/2383.png) [Armadura de Brynhildr](http://www.divine-pride.net/database/item/2383/) |
 | --- | --- |
-| |  |  | | --- | --- | | 7835.png | 1 [Crepúsculo Vermelho](http://www.divine-pride.net/database/item/7835/) | | |  |  | | --- | --- | | 7830.png | 1 [Lágrima da Deusa](http://www.divine-pride.net/database/item/7830/) | |
-| |  |  | | --- | --- | | 7836.png | 1 [Essência do Alvorecer](http://www.divine-pride.net/database/item/7836/) | | |  |  | | --- | --- | | 7831.png | 1 [Símbolo da Valquíria](http://www.divine-pride.net/database/item/7831/) | |
-| |  |  | | --- | --- | | 7837.png | 1 [Luar Gélido](http://www.divine-pride.net/database/item/7837/) | | |  |  | | --- | --- | | 7832.png | 1 [Pedaço de Vestimenta](http://www.divine-pride.net/database/item/7832/) | |
-| |  |  | | --- | --- | | 7838.png | 1 [Constelação Obscura](http://www.divine-pride.net/database/item/7838/) | | |  |  | | --- | --- | | 7833.png | 1 [Cinzas de Herói](http://www.divine-pride.net/database/item/7833/) | |
-| |  |  | | --- | --- | | 2513.png | 1 [Robe da Donzela Celestial](http://www.divine-pride.net/database/item/2513/) | | |  |  | | --- | --- | | 7834.png | 1 [Anel de Andvari](http://www.divine-pride.net/database/item/7834/) | |
-| |  |  | | --- | --- | | 7063.png | 100 [Penas Macias](http://www.divine-pride.net/database/item/7063/) | | |  |  | | --- | --- | | 7510.png | 100 [Flor de Valhalla](http://www.divine-pride.net/database/item/7510/) | |
-| |  |  | | --- | --- | | 7291.png | 10 [Ágata](http://www.divine-pride.net/database/item/7291/) | | |  |  | | --- | --- | | 2357.png | 1 [Armadura das Valquírias](http://www.divine-pride.net/database/item/2357/) | |
-| |  |  | | --- | --- | | 7293.png | 10 [Quartzo Rosa](http://www.divine-pride.net/database/item/7293/) | | |  |  | | --- | --- | | 969.png | 10 [Ouro](http://www.divine-pride.net/database/item/969/) | |
-| |  |  | | --- | --- | | 985.png | 20 [Elunium](http://www.divine-pride.net/database/item/985/) | | |  |  | | --- | --- | | 985.png | 20 [Elunium](http://www.divine-pride.net/database/item/985/) | |
+| |  |  | | --- | --- | | ![7835.png](https://static.divine-pride.net/images/items/item/7835.png) | 1 [Crepúsculo Vermelho](http://www.divine-pride.net/database/item/7835/) | | |  |  | | --- | --- | | ![7830.png](https://static.divine-pride.net/images/items/item/7830.png) | 1 [Lágrima da Deusa](http://www.divine-pride.net/database/item/7830/) | |
+| |  |  | | --- | --- | | ![7836.png](https://static.divine-pride.net/images/items/item/7836.png) | 1 [Essência do Alvorecer](http://www.divine-pride.net/database/item/7836/) | | |  |  | | --- | --- | | ![7831.png](https://static.divine-pride.net/images/items/item/7831.png) | 1 [Símbolo da Valquíria](http://www.divine-pride.net/database/item/7831/) | |
+| |  |  | | --- | --- | | ![7837.png](https://static.divine-pride.net/images/items/item/7837.png) | 1 [Luar Gélido](http://www.divine-pride.net/database/item/7837/) | | |  |  | | --- | --- | | ![7832.png](https://static.divine-pride.net/images/items/item/7832.png) | 1 [Pedaço de Vestimenta](http://www.divine-pride.net/database/item/7832/) | |
+| |  |  | | --- | --- | | ![7838.png](https://static.divine-pride.net/images/items/item/7838.png) | 1 [Constelação Obscura](http://www.divine-pride.net/database/item/7838/) | | |  |  | | --- | --- | | ![7833.png](https://static.divine-pride.net/images/items/item/7833.png) | 1 [Cinzas de Herói](http://www.divine-pride.net/database/item/7833/) | |
+| |  |  | | --- | --- | | ![2513.png](https://static.divine-pride.net/images/items/item/2513.png) | 1 [Robe da Donzela Celestial](http://www.divine-pride.net/database/item/2513/) | | |  |  | | --- | --- | | ![7834.png](https://static.divine-pride.net/images/items/item/7834.png) | 1 [Anel de Andvari](http://www.divine-pride.net/database/item/7834/) | |
+| |  |  | | --- | --- | | ![7063.png](https://static.divine-pride.net/images/items/item/7063.png) | 100 [Penas Macias](http://www.divine-pride.net/database/item/7063/) | | |  |  | | --- | --- | | ![7510.png](https://static.divine-pride.net/images/items/item/7510.png) | 100 [Flor de Valhalla](http://www.divine-pride.net/database/item/7510/) | |
+| |  |  | | --- | --- | | ![7291.png](https://static.divine-pride.net/images/items/item/7291.png) | 10 [Ágata](http://www.divine-pride.net/database/item/7291/) | | |  |  | | --- | --- | | ![2357.png](https://static.divine-pride.net/images/items/item/2357.png) | 1 [Armadura das Valquírias](http://www.divine-pride.net/database/item/2357/) | |
+| |  |  | | --- | --- | | ![7293.png](https://static.divine-pride.net/images/items/item/7293.png) | 10 [Quartzo Rosa](http://www.divine-pride.net/database/item/7293/) | | |  |  | | --- | --- | | ![969.png](https://static.divine-pride.net/images/items/item/969.png) | 10 [Ouro](http://www.divine-pride.net/database/item/969/) | |
+| |  |  | | --- | --- | | ![985.png](https://static.divine-pride.net/images/items/item/985.png) | 20 [Elunium](http://www.divine-pride.net/database/item/985/) | | |  |  | | --- | --- | | ![985.png](https://static.divine-pride.net/images/items/item/985.png) | 20 [Elunium](http://www.divine-pride.net/database/item/985/) | |
 
 ## O Presente da Valquíria
 

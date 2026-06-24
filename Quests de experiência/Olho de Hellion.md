@@ -2,18 +2,18 @@
 
 # Olho de Hellion
 
-| NQ ico Olho de Hellion | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Olho de Hellion | |
 | --- | --- |
 | A história trágica do seu avô fez com que um Velho professor procure aventureiros de coração puro para desvendar os enigmas espalhados pelas cidades! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 717.png 1 [Gema Azul](http://www.divine-pride.net/database/item/717/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![717.png](https://static.divine-pride.net/images/items/item/717.png) 1 [Gema Azul](http://www.divine-pride.net/database/item/717/) |
 | **Caça** | [Espectro de Hellion](http://www.divine-pride.net/database/monster/1626/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 10.000 |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  2658.png 1 [Rosa do Nilo](http://www.divine-pride.net/database/item/2658/) [1] |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  ![2658.png](https://static.divine-pride.net/images/items/item/2658.png) 1 [Rosa do Nilo](http://www.divine-pride.net/database/item/2658/) [1] |
 
 1. Ajude o Velho Professor Tyus (morocc\_in 116,100)
 

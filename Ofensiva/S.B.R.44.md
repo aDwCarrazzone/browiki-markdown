@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **S.B.R.44 S.B.R.44** | |
-| S.B.R.44 | |
+| **![S.B.R.44](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/S.B.R.44.png) S.B.R.44** | |
+| ![S.B.R.44](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/S.B.R.44.gif) | |
 | **S.B.R.44** | |
 | **ID** | HFLI\_SBR44 (8012) |
 | **Tipo** | Ofensiva |

@@ -6,7 +6,7 @@ As missões dadas pelos Instrutores do Éden são voltadas para iniciantes e con
 
 ## Instrutora
 
-| GQ ico Instrutores do Éden | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Instrutores do Éden | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
@@ -33,7 +33,7 @@ As missões dadas pelos Instrutores do Éden são voltadas para iniciantes e con
 
 ## Instrutor
 
-| GQ ico Instrutores do Éden | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Instrutores do Éden | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 15 |

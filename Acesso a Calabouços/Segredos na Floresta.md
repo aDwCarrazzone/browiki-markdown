@@ -2,18 +2,18 @@
 
 # Segredos na Floresta
 
-| NQ ico Segredos na Floresta | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Segredos na Floresta | |
 | --- | --- |
 | Quando uma lendária criatura é avistada por uma criança conhecida por ser mentirosa, você precisará explorar as profundezas da floresta para descobrir se a história é real. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 506.png 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![506.png](https://static.divine-pride.net/images/items/item/506.png) 1 [Poção Verde](http://www.divine-pride.net/database/item/506/) |
 | **Quests anteriores** | [Vila Cautelosa](../Quests%20de%20experi%C3%AAncia/Vila%20Cautelosa.md "Vila Cautelosa") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 600.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 5 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
 | **Recompensa** | Acesso a [Caverna de Buwaya](../Quest/Caverna%20de%20Buwaya.md "Caverna de Buwaya") |
 
 1. Localize o Guarda (malaya 305,281)

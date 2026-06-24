@@ -2,16 +2,16 @@
 
 # Investigação na Guilda
 
-| NQ ico Investigação na Guilda | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Investigação na Guilda | |
 | --- | --- |
 | A Gangue Z está espalhando vários boatos nas cidades para assustar a população! Ajude os Agentes da Guilda dos Arruaceiros a investigar essas histórias! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 2278.png 1 [Máscara Feliz](http://www.divine-pride.net/database/item/2278/)  1062.png 1 [Zé-Lanterna](http://www.divine-pride.net/database/item/1062/)  1060.png 1 [Cabelos Dourado](http://www.divine-pride.net/database/item/1060/)  944.png 1 [Ferradura](http://www.divine-pride.net/database/item/944/)  1059.png 1 [Tecido](http://www.divine-pride.net/database/item/1059/)  511.png 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  970.png 2 [Álcool](http://www.divine-pride.net/database/item/970/)  1038.png 1 [Pequeno Chifre Maligno](http://www.divine-pride.net/database/item/1038/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2278.png](https://static.divine-pride.net/images/items/item/2278.png) 1 [Máscara Feliz](http://www.divine-pride.net/database/item/2278/)  ![1062.png](https://static.divine-pride.net/images/items/item/1062.png) 1 [Zé-Lanterna](http://www.divine-pride.net/database/item/1062/)  ![1060.png](https://static.divine-pride.net/images/items/item/1060.png) 1 [Cabelos Dourado](http://www.divine-pride.net/database/item/1060/)  ![944.png](https://static.divine-pride.net/images/items/item/944.png) 1 [Ferradura](http://www.divine-pride.net/database/item/944/)  ![1059.png](https://static.divine-pride.net/images/items/item/1059.png) 1 [Tecido](http://www.divine-pride.net/database/item/1059/)  ![511.png](https://static.divine-pride.net/images/items/item/511.png) 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  ![970.png](https://static.divine-pride.net/images/items/item/970.png) 2 [Álcool](http://www.divine-pride.net/database/item/970/)  ![1038.png](https://static.divine-pride.net/images/items/item/1038.png) 1 [Pequeno Chifre Maligno](http://www.divine-pride.net/database/item/1038/) |
 | **Quests anteriores** | [Procura-se a Gangue Z](../Quests%20de%20experi%C3%AAncia/Procura-se%20a%20Gangue%20Z.md "Procura-se a Gangue Z") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 12059.png 1 [*Comida nv. 4 aleatória*](http://www.divine-pride.net/database/item/12059/) 644.png 1 [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12059.png](https://static.divine-pride.net/images/items/item/12059.png) 1 [*Comida nv. 4 aleatória*](http://www.divine-pride.net/database/item/12059/) ![644.png](https://static.divine-pride.net/images/items/item/644.png) 1 [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
 
 1. Pergunte sobre Morroc para o Homem de Morroc (prontera 163,204)
 

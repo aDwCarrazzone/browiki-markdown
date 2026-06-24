@@ -2,7 +2,7 @@
 
 # Procurando Patrick
 
-| NQ ico Procurando Patrick | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Procurando Patrick | |
 | --- | --- |
 | O vice-presidente da Rekenber prometeu para as famílias que encontraria seus entes desaparecidos. Ajude-o a encontrar o paradeiro de Patrick Kaufman e Marcus Holzman. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 900.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 900.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25723.png 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) |
 
 1. Aceite ajudar Kaya Toss (sp\_cor 136,146)
 
@@ -51,5 +51,5 @@
      - (sp\_rudus 364,134)
 7. Leve o [Bracelete de Identificação](http://www.divine-pride.net/database/item/25666/) para Kaya Toss (sp\_cor 136,146)
    - Você receberá 600.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
-   - Você ganha ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
+   - Você ganha ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
    - Você liberou a missão diária [Descanse em Paz](Aventuras%20no%20Distrito.md#Descanse_em_Paz "Aventuras no Distrito").

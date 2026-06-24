@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Piroclástico Piroclástico** | |
-| Piroclástico | |
+| **![Piroclástico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Pirocl%C3%A1stico.png) Piroclástico** | |
+| ![Piroclástico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Pirocl%C3%A1stico.gif) | |
 | **Pyroclastic** | |
 | **ID** | MH\_PYROCLASTIC (8042) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Pós-conjuração** | 1 segundo |
 | **Duração** | [300 + (Nv. da habilidade × 30)] segundos |
 | **Alvo** | Mestre e Homunculus |
-| **Ícone** | I Tremor de Fogo |
+| **Ícone** | ![I Tremor de Fogo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/I_Tremor_de_Fogo.png) |
 | **Pré-requisitos** | |
 | [Dieter](../Sem%20categoria/Dieter.md "Dieter") nível 131 | |
 

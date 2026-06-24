@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Thanatos Para Thanatos** | |
-| Para Thanatos | |
+| **![Para Thanatos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Para_Thanatos.png) Para Thanatos** | |
+| ![Para Thanatos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Para_Thanatos.gif) | |
 | **Thanatos Recall** | |
 | **ID** | ALL\_THANATOS\_RECALL (3044) |
 | **Tipo** | Ativa |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Beijo do Inverno** | |
-| Beijo do Inverno | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Beijo do Inverno** | |
+| ![Beijo do Inverno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Beijo_do_Inverno.gif) | |
 | **ID:** | NPC\_WIDEFREEZE2 (763) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

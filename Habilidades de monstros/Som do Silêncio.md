@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Som do Silêncio** | |
-| Som do Silêncio | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Som do Silêncio** | |
+| ![Som do Silêncio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/85/Som_do_Sil%C3%AAncio.gif) | |
 | **ID:** | NPC\_WIDESILENCE2 (757) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -28,7 +28,7 @@ A duração do [Silêncio](../Sem%20categoria/Sil%C3%AAncio.md "Silêncio") é d
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Som do Silêncio](http://www.divine-pride.net/database/skill/757)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Armas relacionadas:
-  - ![1973.png](http://static.divine-pride.net/images/items/item/1973.png) [Botas da Bruxa do Mar](http://www.divine-pride.net/database/item/1973/)
+  - ![1973.png](https://static.divine-pride.net/images/items/item/1973.png) [Botas da Bruxa do Mar](http://www.divine-pride.net/database/item/1973/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

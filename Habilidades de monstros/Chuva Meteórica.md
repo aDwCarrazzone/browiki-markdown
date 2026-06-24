@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Chuva Meteórica** | |
-| Chuva Meteórica | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Chuva Meteórica** | |
+| ![Chuva Meteórica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Chuva_Mete%C3%B3rica.gif) | |
 | **ID:** | NPC\_RAINOFMETEOR (769) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |

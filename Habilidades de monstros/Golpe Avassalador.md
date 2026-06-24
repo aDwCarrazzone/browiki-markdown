@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Golpe Avassalador** | |
-| Golpe Avassalador | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Golpe Avassalador** | |
+| ![Golpe Avassalador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Golpe_Avassalador.gif) | |
 | **ID:** | NPC\_PULSESTRIKE (661) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -34,7 +34,7 @@ Causa dano físico corpo a corpo e empurra oponentes 7 células para trás.
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Golpe Avassalador](http://www.divine-pride.net/database/skill/661) e [Golpe Avassalador 2](http://www.divine-pride.net/database/skill/712)*
 - Pode ser bloqueada por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") se estiver 4 células próximo do alvo ou por [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") se estiver distante 5 células em diante.
 - Armas relacionadas:
-  - ![1377.png](http://static.divine-pride.net/images/items/item/1377.png) [Fúria do Furacão](http://www.divine-pride.net/database/item/1377/)
+  - ![1377.png](https://static.divine-pride.net/images/items/item/1377.png) [Fúria do Furacão](http://www.divine-pride.net/database/item/1377/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

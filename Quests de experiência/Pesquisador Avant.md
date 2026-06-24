@@ -2,13 +2,13 @@
 
 # Pesquisador Avant
 
-| NQ ico Pesquisador Avant | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pesquisador Avant | |
 | --- | --- |
 | Em um pedido para procurar o próprio pai, Kardui acaba descobrindo que existe alguém patrocinando uma pesquisa para remover os poderes mágicos da esfera central de Eclage! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 120 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6561.png 20 [Bola de Poeira](http://www.divine-pride.net/database/item/6561/)  6560.png 20 [Trevos Marca Páginas](http://www.divine-pride.net/database/item/6560/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6561.png](https://static.divine-pride.net/images/items/item/6561.png) 20 [Bola de Poeira](http://www.divine-pride.net/database/item/6561/)  ![6560.png](https://static.divine-pride.net/images/items/item/6560.png) 20 [Trevos Marca Páginas](http://www.divine-pride.net/database/item/6560/) |
 | **Quests anteriores** | [Rumores do Rei](Rumores%20do%20Rei.md "Rumores do Rei") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.050.000 |

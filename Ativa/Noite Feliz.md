@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Noite Feliz Noite Feliz** | |
-| Noite Feliz | |
+| **![Noite Feliz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Noite_Feliz.png) Noite Feliz** | |
+| ![Noite Feliz](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/Noite_Feliz.gif) | |
 | **We wish you a Merry Christmas** | |
 | **ID** | ALL\_WEWISH (698) |
 | **Tipo** | Ativa |

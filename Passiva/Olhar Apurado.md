@@ -4,15 +4,15 @@
 
 |  |  |
 | --- | --- |
-| **Olhar Apurado Olhar Apurado** | |
-| SemImagem | |
+| **![Olhar Apurado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Olhar_Apurado.png) Olhar Apurado** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Sharp Gaze** | |
 | **ID** | GD\_HAWKEYES (10009) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Área** | 5x5 células |
 | **Pré-requisitos** | |
-| [Grande Liderança](Grande%20Lideran%C3%A7a.md "Grande Liderança") [Grande Liderança](Grande%20Lideran%C3%A7a.md "Grande Liderança") Nv. 1 | |
+| [![Grande Liderança](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Grande_Lideran%C3%A7a.png)](Grande%20Lideran%C3%A7a.md "Grande Liderança") [Grande Liderança](Grande%20Lideran%C3%A7a.md "Grande Liderança") Nv. 1 | |
 
 Todos os membros do [clã](../PvP/Cl%C3%A3.md "Clã") ao redor do líder receberão um bônus de [DES](../Sem%20categoria/DES.md "DES") dentro e fora dos castelos.
 

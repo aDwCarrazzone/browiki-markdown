@@ -81,7 +81,7 @@ Essa penalidade não é válida para [MVPs](MVP.md "MVP").
 
 |  |  |  |
 | --- | --- | --- |
-| Monstro10pl | Monstropl | Monstro15pl |
+| ![Monstro10pl](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Monstro10pl.png) | ![Monstropl](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Monstropl.png) | ![Monstro15pl](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Monstro15pl.png) |
 | 1 | 2 | 3 |
 
 - **1**: O monstro está acima de 10 níveis que o seu personagem.
@@ -189,7 +189,7 @@ O pilar de luz possui algumas restrições:
 
 | Cartas | 1 [BA](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") | 2 [BA](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") | 3 [BA](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") | 4 [BA](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus aleatórios") |
 | --- | --- | --- | --- | --- |
-| PilarRosa | PilarAzul | PilarAmarelo | PilarRoxo | PilarVerde |
+| ![PilarRosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/ff/PilarRosa.png) | ![PilarAzul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/PilarAzul.png) | ![PilarAmarelo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/PilarAmarelo.png) | ![PilarRoxo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/44/PilarRoxo.png) | ![PilarVerde](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/PilarVerde.png) |
 | Rosa | Azul | Amarelo | Roxo | Verde |
 
 | *[Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |

@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Glast Heim Para Glast Heim** | |
-| SemImagem | |
+| **![Para Glast Heim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/77/Para_Glast_Heim.png) Para Glast Heim** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Glastheim Recall** | |
 | **ID** | ALL\_GLASTHEIM\_RECALL (3043) |
 | **Tipo** | Passiva |

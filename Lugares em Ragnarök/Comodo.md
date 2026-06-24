@@ -26,30 +26,30 @@ No sul da cidade existe uma ilha vulcânica chamada Korodo, com um vulcão que e
 
 |  |  |  |
 | --- | --- | --- |
-| Comodo map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (comodo 195,150) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (comodo 204,153) |
-| Map pocao | Loja de Ferramentas | (cmd\_in01 79,182) |
-| Map faca | Loja de Munições | (cmd\_in01 117,165) |
-| Map bandeira | Guilda das [Odaliscas](../Sem%20categoria/Odalisca.md "Odalisca") | (comodo 193,151) |
-| Map lantern | Cassino | (comodo 140,112) |
-| Map dun01 | [Luanda](http://www.divine-pride.net/database/map/beach_dun2/) | (comodo 181,347) |
-| Map dun02 | [Karu](http://www.divine-pride.net/database/map/beach_dun/) | (comodo 37,219) |
-| Map dun03 | [Mao](http://www.divine-pride.net/database/map/beach_dun3/) | (comodo 322,178) |
+| ![Comodo map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Comodo_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (comodo 195,150) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (comodo 204,153) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (cmd\_in01 79,182) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (cmd\_in01 117,165) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda das [Odaliscas](../Sem%20categoria/Odalisca.md "Odalisca") | (comodo 193,151) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Cassino | (comodo 140,112) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Luanda](http://www.divine-pride.net/database/map/beach_dun2/) | (comodo 181,347) |
+| ![Map dun02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Map_dun02.png) | [Karu](http://www.divine-pride.net/database/map/beach_dun/) | (comodo 37,219) |
+| ![Map dun03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fd/Map_dun03.png) | [Mao](http://www.divine-pride.net/database/map/beach_dun3/) | (comodo 322,178) |
 
 |  |  |  |
 | --- | --- | --- |
 | NPCs | | |
 | - Teleporte   - [Pharos](Pharos.md "Pharos"): 120z   - [Umbala](Umbala.md "Umbala"): 180z   - [Morroc](Morroc.md "Morroc"): 180z | | |
 | Velho | Dá conselhos ([RolePlay](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/RolePlay.md "RolePlay")) | (comodo 68,195) |
-| Harive | Vende itens para Artistas:  - 6144.png [Lágrimas de Arrependimento](http://www.divine-pride.net/database/item/6144/) - 11513.png [Pastilha Refrescante](http://www.divine-pride.net/database/item/11513/) | (comodo 196,162) |
+| Harive | Vende itens para Artistas:  - ![6144.png](https://static.divine-pride.net/images/items/item/6144.png) [Lágrimas de Arrependimento](http://www.divine-pride.net/database/item/6144/) - ![11513.png](https://static.divine-pride.net/images/items/item/11513.png) [Pastilha Refrescante](http://www.divine-pride.net/database/item/11513/) | (comodo 196,162) |
 | Viajante | [Cria Chapéus](../Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md#Comodo "Fabricação de Chapéus") | (comodo 273,137) |
 | Garota | [Cria Chapéus](../Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md#Comodo "Fabricação de Chapéus") | (comodo 228,159) |
 | Melon Dye | [Cria Chapéus](../Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md#Comodo "Fabricação de Chapéus") | (comodo 237,217) |
 | Garota Fashion | [Cria Chapéus](../Itens/Fabrica%C3%A7%C3%A3o%20de%20Chap%C3%A9us.md#Comodo "Fabricação de Chapéus") | (comodo 236,164) |
 | Vendedora Elemental | Vende Fragmentos Elementais | (comodo 193,159) |
-| Vendedora Tropical | Vende 6258.png [Fruta de Comodo](http://www.divine-pride.net/database/item/6258/) | (comodo 1206,213) |
+| Vendedora Tropical | Vende ![6258.png](https://static.divine-pride.net/images/items/item/6258.png) [Fruta de Comodo](http://www.divine-pride.net/database/item/6258/) | (comodo 1206,213) |
 | Loja de Gemas | Empacota Gemas | (cmd\_in01 84,78) |
 | Vovó da Munak | Cria iscas de [Mascotes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Mascotes.md "Mascotes"):   - [Coração Apaixonado](http://www.divine-pride.net/database/item/659/) =   - 1 [Diário de Menina](http://www.divine-pride.net/database/item/1558/)   - 1 [Trança](http://www.divine-pride.net/database/item/901/) | (comodo 112,182) |
 | Auxiliar de Cozinha | [Culinária](../Itens/Culin%C3%A1ria.md "Culinária") | (comodo 225,164) |

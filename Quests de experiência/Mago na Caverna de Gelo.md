@@ -2,16 +2,16 @@
 
 # Mago na Caverna de Gelo
 
-| NQ ico Mago na Caverna de Gelo | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Mago na Caverna de Gelo | |
 | --- | --- |
 | Um simples pedido de uma fiel seguidora de Freya pode colocar aventureiros em uma situação embaraçosa diante de um poderoso mago que não consegue controlar a própria magia. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 996.png 5 [Vento Bruto](http://www.divine-pride.net/database/item/996/)  1356.png 1 [Marreta](http://www.divine-pride.net/database/item/1356/)  7433.png 1 [Pergaminho em Branco](http://www.divine-pride.net/database/item/7433/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![996.png](https://static.divine-pride.net/images/items/item/996.png) 5 [Vento Bruto](http://www.divine-pride.net/database/item/996/)  ![1356.png](https://static.divine-pride.net/images/items/item/1356.png) 1 [Marreta](http://www.divine-pride.net/database/item/1356/)  ![7433.png](https://static.divine-pride.net/images/items/item/7433.png) 1 [Pergaminho em Branco](http://www.divine-pride.net/database/item/7433/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 7574.png 4 [Pó Glacial](http://www.divine-pride.net/database/item/7574/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7574.png](https://static.divine-pride.net/images/items/item/7574.png) 4 [Pó Glacial](http://www.divine-pride.net/database/item/7574/) |
 | **Recompensa** | Permite invocar [Ktullanux](http://www.divine-pride.net/database/monster/1779/) |
 
 1. Ajude a Devota Ustialla (rachel 157,183)

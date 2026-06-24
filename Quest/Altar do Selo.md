@@ -2,17 +2,17 @@
 
 # Altar do Selo
 
-| SC ico Altar do Selo | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Altar do Selo | |
 | --- | --- |
 | A Abadia de Santa Capitolina guarda um terrível segredo nas suas catacumbas. O Bafomé primordial, o primeiro de todos eles, está selado e vigiado pelos Monges do local. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 75 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | 12 horas |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 12 horas |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 2 pessoas ou mais |
 | Premiação | |
-| **Chefe** | Monster Bafomé [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) |
+| **Chefe** | ![Monster Bafomé](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Monster_Bafom%C3%A9.png) [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) |
 
 [![Altar00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Altar00.png)](https://browiki.org/wiki/Arquivo%3AAltar00.png)
 
@@ -75,12 +75,12 @@ Mapa-Chave: Catacumbas
     - O [NPC](../Sem%20categoria/NPC.md "NPC") recomendará que você fale com Rust Blackhand.
 14. Fale com Rust Blackhand (prt\_monk 261,91)
     - OBS: Para conseguir criar o chapéu, será necessário ter derrotado o [Bafomé Selado](http://www.divine-pride.net/database/monster/1929/) pelo menos uma vez.
-    - Entregue os seguintes materiais para criação do ![5374.png](http://static.divine-pride.net/images/items/item/5374.png) [Chifres Majestosos Gigantes](http://www.divine-pride.net/database/item/5374/):
+    - Entregue os seguintes materiais para criação do ![5374.png](https://static.divine-pride.net/images/items/item/5374.png) [Chifres Majestosos Gigantes](http://www.divine-pride.net/database/item/5374/):
       - 990.000 [zenys](../Sem%20categoria/Zenys.md "Zenys")
-      - ![6004.png](http://static.divine-pride.net/images/items/item/6004.png) 1 [Boneco de Bafomé Maldito](http://www.divine-pride.net/database/item/6004/)
-      - ![2256.png](http://static.divine-pride.net/images/items/item/2256.png) 1 [Chifres Majestosos](http://www.divine-pride.net/database/item/2256/)
-      - ![7799.png](http://static.divine-pride.net/images/items/item/7799.png) 30 [Cristal da Escuridão](http://www.divine-pride.net/database/item/7799/)
-      - ![7798.png](http://static.divine-pride.net/images/items/item/7798.png) 50 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/)
+      - ![6004.png](https://static.divine-pride.net/images/items/item/6004.png) 1 [Boneco de Bafomé Maldito](http://www.divine-pride.net/database/item/6004/)
+      - ![2256.png](https://static.divine-pride.net/images/items/item/2256.png) 1 [Chifres Majestosos](http://www.divine-pride.net/database/item/2256/)
+      - ![7799.png](https://static.divine-pride.net/images/items/item/7799.png) 30 [Cristal da Escuridão](http://www.divine-pride.net/database/item/7799/)
+      - ![7798.png](https://static.divine-pride.net/images/items/item/7798.png) 50 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/)
 
 | *[Instâncias](Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

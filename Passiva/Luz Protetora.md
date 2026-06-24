@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Luz Protetora Luz Protetora** | |
-| SemImagem | |
+| **![Luz Protetora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Luz_Protetora.png) Luz Protetora** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Ray of Protection** | |
 | **ID** | ALL\_RAY\_OF\_PROTECTION (2543) |
 | **Tipo** | Passiva |
@@ -13,7 +13,7 @@
 | **[SP](../Sem%20categoria/SP.md "SP")** | 1 |
 | **Duração** | 60 segundos |
 | **Alvo** | Usuário |
-| **Ícone** | I Luz Protetora |
+| **Ícone** | ![I Luz Protetora](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7b/I_Luz_Protetora.png) |
 | **Pré-requisitos** | |
 | Nenhum | |
 

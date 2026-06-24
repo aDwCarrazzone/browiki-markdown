@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Autorização Oficial Autorização Oficial** | |
-| SemImagem | |
+| **![Autorização Oficial](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Autoriza%C3%A7%C3%A3o_Oficial.png) Autorização Oficial** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Official Guild Approval** | |
 | **ID** | GD\_APPROVAL (10000) |
 | **Tipo** | Passiva |

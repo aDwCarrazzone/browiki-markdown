@@ -2,18 +2,18 @@
 
 # Laboratório Werner
 
-| SC ico Laboratório Werner | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Laboratório Werner | |
 | --- | --- |
 | Conheça a história de Werner e como ele continuou com os experimentos de Wolfchev para a replicação de cobaias e criação dos Homúnculos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
 | Premiação | |
-| **Chefe** | Monster Atroce [Fofinho](http://www.divine-pride.net/database/monster/3621/) Monster LordeSeyren [Cobaia YSF01](http://www.divine-pride.net/database/monster/3826/) |
+| **Chefe** | ![Monster Atroce](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Monster_Atroce.png) [Fofinho](http://www.divine-pride.net/database/monster/3621/) ![Monster LordeSeyren](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Monster_LordeSeyren.png) [Cobaia YSF01](http://www.divine-pride.net/database/monster/3826/) |
 
 1. Nos arredores de [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch"), para entrar na [Base Militar](http://www.divine-pride.net/database/map/que_swat/) fale com Lukie (ein\_fild04 284,332)
 

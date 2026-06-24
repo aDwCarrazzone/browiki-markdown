@@ -2,15 +2,15 @@
 
 # Tesouro do Anão
 
-| DQ ico Tesouro do Anão | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Tesouro do Anão | |
 | --- | --- |
 | Um desafio divertido para membros de clã! Procure o Papel correto ao longo de vários outros papéis parecidos para ganhar um prêmio muito legal! | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6010.png 1 [Picareta](http://www.divine-pride.net/database/item/6010/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6010.png](https://static.divine-pride.net/images/items/item/6010.png) 1 [Picareta](http://www.divine-pride.net/database/item/6010/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 14596.png 10 [Caixas de Pierre](http://www.divine-pride.net/database/item/14596/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![14596.png](https://static.divine-pride.net/images/items/item/14596.png) 10 [Caixas de Pierre](http://www.divine-pride.net/database/item/14596/) |
 
 1. Após 1 hora depois da manutenção quinzenal programada, o [Kublin](http://www.divine-pride.net/database/monster/1980/) aparecerá nos calabouços dos castelos da [Guerra do Emperium: SE](../PvP/Guerra%20do%20Emperium.md "Guerra do Emperium").
 2. Seu objetivo é conseguir a [Picareta](http://www.divine-pride.net/database/item/6010/) que é derrubado pelo [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP").

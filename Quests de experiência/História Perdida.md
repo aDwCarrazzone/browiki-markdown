@@ -2,7 +2,7 @@
 
 # História Perdida
 
-| NQ ico História Perdida | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) História Perdida | |
 | --- | --- |
 | Tudo o que acontece no navio Conchiolina deve ser registrado em um relatório por um Arquivista. O problema é que algumas histórias não estão batendo... | |
 | Requisitos mínimos | |

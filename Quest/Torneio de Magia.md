@@ -2,18 +2,18 @@
 
 # Torneio de Magia
 
-| SC ico Torneio de Magia | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Torneio de Magia | |
 | --- | --- |
 | Volte ao passado e participe dos antigos Torneios de Magia de Geffen, onde uma participante formidável usa uma das magias mais poderosas e desconhecidas até então: o Tetra Vortex! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | Reseta às 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta às 4 da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa **apenas** |
 | Premiação | |
-| **Chefe** | Monster FenrisFenrir [Fenris Fenrir](http://www.divine-pride.net/database/monster/2564/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 6671.png [Moedas Mágicas de Geffen](http://www.divine-pride.net/database/item/6671/) |
+| **Chefe** | ![Monster FenrisFenrir](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f7/Monster_FenrisFenrir.png) [Fenris Fenrir](http://www.divine-pride.net/database/monster/2564/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6671.png](https://static.divine-pride.net/images/items/item/6671.png) [Moedas Mágicas de Geffen](http://www.divine-pride.net/database/item/6671/) |
 
 1. No [Espaço Dimensional](../Lugares%20em%20Ragnar%C3%B6k/Espa%C3%A7o%20Dimensional.md "Espaço Dimensional"), fale com o Pesquisador de Fissuras (dali 98,141)
 
@@ -80,7 +80,7 @@
 
 ### Oponentes
 
-| Partida | Oponente | 6671.png [Moedas](http://www.divine-pride.net/database/item/6671/) | Total |
+| Partida | Oponente | ![6671.png](https://static.divine-pride.net/images/items/item/6671.png) [Moedas](http://www.divine-pride.net/database/item/6671/) | Total |
 | --- | --- | --- | --- |
 | 1 | [Alphard](http://www.divine-pride.net/database/monster/2549/) | 1 | 1 |
 | 2 | [Sirius](http://www.divine-pride.net/database/monster/2550/) | 2 | 3 |
@@ -107,14 +107,14 @@
 
 | Item | Moedas |
 | --- | --- |
-| 23675.png [Encantador Mágico de Geffen](http://www.divine-pride.net/database/item/23675/) | 100 |
-| 23679.png [Encantador Místico de Geffen](http://www.divine-pride.net/database/item/23679/) |
-| 2185.png [Refletor Mágico](http://www.divine-pride.net/database/item/2185/) | 900 |
-| 2186.png [Enciclopédia Revisada](http://www.divine-pride.net/database/item/2186/) |
-| 2963.png [Anel de Reforço Físico](http://www.divine-pride.net/database/item/2963/) | 1.350 |
-| 2964.png [Anel de Reforço Mágico](http://www.divine-pride.net/database/item/2964/) |
-| 15073.png [Traje Anti-Magia](http://www.divine-pride.net/database/item/15073/) | 1.800 |
-| 15074.png [Manto Mágico de Geffen](http://www.divine-pride.net/database/item/15074/) |
+| ![23675.png](https://static.divine-pride.net/images/items/item/23675.png) [Encantador Mágico de Geffen](http://www.divine-pride.net/database/item/23675/) | 100 |
+| ![23679.png](https://static.divine-pride.net/images/items/item/23679.png) [Encantador Místico de Geffen](http://www.divine-pride.net/database/item/23679/) |
+| ![2185.png](https://static.divine-pride.net/images/items/item/2185.png) [Refletor Mágico](http://www.divine-pride.net/database/item/2185/) | 900 |
+| ![2186.png](https://static.divine-pride.net/images/items/item/2186.png) [Enciclopédia Revisada](http://www.divine-pride.net/database/item/2186/) |
+| ![2963.png](https://static.divine-pride.net/images/items/item/2963.png) [Anel de Reforço Físico](http://www.divine-pride.net/database/item/2963/) | 1.350 |
+| ![2964.png](https://static.divine-pride.net/images/items/item/2964.png) [Anel de Reforço Mágico](http://www.divine-pride.net/database/item/2964/) |
+| ![15073.png](https://static.divine-pride.net/images/items/item/15073.png) [Traje Anti-Magia](http://www.divine-pride.net/database/item/15073/) | 1.800 |
+| ![15074.png](https://static.divine-pride.net/images/items/item/15074.png) [Manto Mágico de Geffen](http://www.divine-pride.net/database/item/15074/) |
 
 Preste atenção nas seguintes informações ao fazer a [Combinação](../Itens/Combina%C3%A7%C3%A3o.md "Combinação"):
 
@@ -127,7 +127,7 @@ Preste atenção nas seguintes informações ao fazer a [Combinação](../Itens/
 
 | Combinador | Item | 1º Bônus | Chance | 2º Bônus | Chance |
 | --- | --- | --- | --- | --- | --- |
-| 6541.png [Encantador Mágico de Geffen](http://www.divine-pride.net/database/item/23675/) | |  |  | | --- | --- | | 15073.png | [Traje Anti-Magia](http://www.divine-pride.net/database/item/15073/) |  15074.png [Manto Mágico de Geffen](http://www.divine-pride.net/database/item/15074/) | FOR +1~4. | 10% | Efetividade de cura +5~10%. | 5% |
+| ![6541.png](https://static.divine-pride.net/images/items/item/6541.png) [Encantador Mágico de Geffen](http://www.divine-pride.net/database/item/23675/) | |  |  | | --- | --- | | ![15073.png](https://static.divine-pride.net/images/items/item/15073.png) | [Traje Anti-Magia](http://www.divine-pride.net/database/item/15073/) |  ![15074.png](https://static.divine-pride.net/images/items/item/15074.png) [Manto Mágico de Geffen](http://www.divine-pride.net/database/item/15074/) | FOR +1~4. | 10% | Efetividade de cura +5~10%. | 5% |
 | AGI +1~4. | 10% | Cura recebida +5~10%. | 5,0% |
 | VIT +1~4. | 10% | DEF +20~60. | 5,0% |
 | INT +1~4. | 10% | DEFM +5~10. | 2,5% |
@@ -138,7 +138,7 @@ Preste atenção nas seguintes informações ao fazer a [Combinação](../Itens/
 |  | | Armadura indestrutível. | 2,0% |
 |  | | Regen. natural de SP +50~100%. | 1,5% |
 |  | | Armadura de propriedade **[ELEMENTO]**. | 1,0% |
-| 6541.png [Encantador Místico de Geffen](http://www.divine-pride.net/database/item/23679/) | |  |  | | --- | --- | | 2963.png | [Anel de Reforço Físico](http://www.divine-pride.net/database/item/2963/) |  2964.png [Anel de Reforço Mágico](http://www.divine-pride.net/database/item/2964/) |
+| ![6541.png](https://static.divine-pride.net/images/items/item/6541.png) [Encantador Místico de Geffen](http://www.divine-pride.net/database/item/23679/) | |  |  | | --- | --- | | ![2963.png](https://static.divine-pride.net/images/items/item/2963.png) | [Anel de Reforço Físico](http://www.divine-pride.net/database/item/2963/) |  ![2964.png](https://static.divine-pride.net/images/items/item/2964.png) [Anel de Reforço Mágico](http://www.divine-pride.net/database/item/2964/) |
 | HP máx. +1~3%. | 7,70% | HP máx. +1~3%. | 7,70% |
 | SP máx. +1~3%. | 7,70% | SP máx. +1~3%. | 7,70% |
 | ATQ da arma +1~3%. | 7,70% | ATQ da arma +1~3%. | 7,70% |

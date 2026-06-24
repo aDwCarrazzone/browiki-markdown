@@ -2,17 +2,17 @@
 
 # Torre do Demônio
 
-| SC ico Torre do Demônio | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Torre do Demônio | |
 | --- | --- |
 | Para a invocação de Satã Morroc, crianças precisam ser sacrificadas toda noite. Impeça o surgimento do Demônio Rei e ajude o Cavaleiro Rúnico nessa batalha que durou 10 dias e 10 noites. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster FanáticoTrevas [Fanático das Trevas](http://www.divine-pride.net/database/monster/2942/) |
+| **Chefe** | ![Monster FanáticoTrevas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/Monster_Fan%C3%A1ticoTrevas.png) [Fanático das Trevas](http://www.divine-pride.net/database/monster/2942/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | Ver tabela |
 
@@ -97,25 +97,25 @@
     :   ![TorreSata14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/TorreSata14.png)
 
     - O baú derruba quantidades aleatórias dos itens abaixo: (Itens que aumentam a taxa de drop não afetam este baú.)
-      - ![616.png](http://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
-      - ![749.png](http://static.divine-pride.net/images/items/item/749.png) [Rosa de Gelo](http://www.divine-pride.net/database/item/749/)
-      - ![7511.png](http://static.divine-pride.net/images/items/item/7511.png) [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)
-      - ![7293.png](http://static.divine-pride.net/images/items/item/7293.png) [Quartzo Rosa](http://www.divine-pride.net/database/item/7293/)
-      - ![16027.png](http://static.divine-pride.net/images/items/item/16027.png) [Maça Esconjurante](http://www.divine-pride.net/database/item/16027/)
-      - ![18120.png](http://static.divine-pride.net/images/items/item/18120.png) [Arco Esconjurante](http://www.divine-pride.net/database/item/18120/)
-      - ![28001.png](http://static.divine-pride.net/images/items/item/28001.png) [Katar Esconjurante](http://www.divine-pride.net/database/item/28001/)
-      - ![21010.png](http://static.divine-pride.net/images/items/item/21010.png) [Espada Esconjurante](http://www.divine-pride.net/database/item/21010/)
-      - ![13094.png](http://static.divine-pride.net/images/items/item/13094.png) [Punhal Esconjurante](http://www.divine-pride.net/database/item/13094/)
-      - ![1671.png](http://static.divine-pride.net/images/items/item/1671.png) [Cajado Esconjurante](http://www.divine-pride.net/database/item/1671/)
+      - ![616.png](https://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
+      - ![749.png](https://static.divine-pride.net/images/items/item/749.png) [Rosa de Gelo](http://www.divine-pride.net/database/item/749/)
+      - ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)
+      - ![7293.png](https://static.divine-pride.net/images/items/item/7293.png) [Quartzo Rosa](http://www.divine-pride.net/database/item/7293/)
+      - ![16027.png](https://static.divine-pride.net/images/items/item/16027.png) [Maça Esconjurante](http://www.divine-pride.net/database/item/16027/)
+      - ![18120.png](https://static.divine-pride.net/images/items/item/18120.png) [Arco Esconjurante](http://www.divine-pride.net/database/item/18120/)
+      - ![28001.png](https://static.divine-pride.net/images/items/item/28001.png) [Katar Esconjurante](http://www.divine-pride.net/database/item/28001/)
+      - ![21010.png](https://static.divine-pride.net/images/items/item/21010.png) [Espada Esconjurante](http://www.divine-pride.net/database/item/21010/)
+      - ![13094.png](https://static.divine-pride.net/images/items/item/13094.png) [Punhal Esconjurante](http://www.divine-pride.net/database/item/13094/)
+      - ![1671.png](https://static.divine-pride.net/images/items/item/1671.png) [Cajado Esconjurante](http://www.divine-pride.net/database/item/1671/)
 18. As armas *Esconjurantes* já vem [refinadas](../Sem%20categoria/Refino.md "Refino") entre +1 e +12, além de receberem [encantos](../Itens/Encantamento.md "Encantamento") aleatórios.
     - Possíveis [encantamentos](../Itens/Encantamento.md "Encantamento"):
-      - ![4885.png](http://static.divine-pride.net/images/items/item/4885.png) [Pedra de Feitiço 1](http://www.divine-pride.net/database/item/4885/), [2](http://www.divine-pride.net/database/item/4886/), [3](http://www.divine-pride.net/database/item/4887/), [4](http://www.divine-pride.net/database/item/4888/) ou [5](http://www.divine-pride.net/database/item/4889/)
-      - ![4760.png](http://static.divine-pride.net/images/items/item/4760.png) [ATQM +1%](http://www.divine-pride.net/database/item/4760/), [+2%](http://www.divine-pride.net/database/item/4761/) ou [+3%](http://www.divine-pride.net/database/item/4806/)
-      - ![4811.png](http://static.divine-pride.net/images/items/item/4811.png) [Espírito do Lutador 1](http://www.divine-pride.net/database/item/4811/), [2](http://www.divine-pride.net/database/item/4810/), [3](http://www.divine-pride.net/database/item/4809/), [4](http://www.divine-pride.net/database/item/4808/) ou [5](http://www.divine-pride.net/database/item/4820/)
-      - ![4832.png](http://static.divine-pride.net/images/items/item/4832.png) [Pedra da Mira Apurada 1](http://www.divine-pride.net/database/item/4832/), [2](http://www.divine-pride.net/database/item/4833/), [3](http://www.divine-pride.net/database/item/4834/), [4](http://www.divine-pride.net/database/item/4835/) ou [5](http://www.divine-pride.net/database/item/4836/)
-      - ![4815.png](http://static.divine-pride.net/images/items/item/4815.png) [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/), [2](http://www.divine-pride.net/database/item/4814/), [3](http://www.divine-pride.net/database/item/4813/), [4](http://www.divine-pride.net/database/item/4812/) ou [5](http://www.divine-pride.net/database/item/4826/)
-      - ![4791.png](http://static.divine-pride.net/images/items/item/4791.png) [DEF +3](http://www.divine-pride.net/database/item/4791/), [+6](http://www.divine-pride.net/database/item/4792/) ou [+9](http://www.divine-pride.net/database/item/4793/)
-      - ![4890.png](http://static.divine-pride.net/images/items/item/4890.png) [DEFM +1](http://www.divine-pride.net/database/item/4890/), [+2](http://www.divine-pride.net/database/item/4786/) ou [+3](http://www.divine-pride.net/database/item/4891/)
+      - ![4885.png](https://static.divine-pride.net/images/items/item/4885.png) [Pedra de Feitiço 1](http://www.divine-pride.net/database/item/4885/), [2](http://www.divine-pride.net/database/item/4886/), [3](http://www.divine-pride.net/database/item/4887/), [4](http://www.divine-pride.net/database/item/4888/) ou [5](http://www.divine-pride.net/database/item/4889/)
+      - ![4760.png](https://static.divine-pride.net/images/items/item/4760.png) [ATQM +1%](http://www.divine-pride.net/database/item/4760/), [+2%](http://www.divine-pride.net/database/item/4761/) ou [+3%](http://www.divine-pride.net/database/item/4806/)
+      - ![4811.png](https://static.divine-pride.net/images/items/item/4811.png) [Espírito do Lutador 1](http://www.divine-pride.net/database/item/4811/), [2](http://www.divine-pride.net/database/item/4810/), [3](http://www.divine-pride.net/database/item/4809/), [4](http://www.divine-pride.net/database/item/4808/) ou [5](http://www.divine-pride.net/database/item/4820/)
+      - ![4832.png](https://static.divine-pride.net/images/items/item/4832.png) [Pedra da Mira Apurada 1](http://www.divine-pride.net/database/item/4832/), [2](http://www.divine-pride.net/database/item/4833/), [3](http://www.divine-pride.net/database/item/4834/), [4](http://www.divine-pride.net/database/item/4835/) ou [5](http://www.divine-pride.net/database/item/4836/)
+      - ![4815.png](https://static.divine-pride.net/images/items/item/4815.png) [Pedra de Encantamento 1](http://www.divine-pride.net/database/item/4815/), [2](http://www.divine-pride.net/database/item/4814/), [3](http://www.divine-pride.net/database/item/4813/), [4](http://www.divine-pride.net/database/item/4812/) ou [5](http://www.divine-pride.net/database/item/4826/)
+      - ![4791.png](https://static.divine-pride.net/images/items/item/4791.png) [DEF +3](http://www.divine-pride.net/database/item/4791/), [+6](http://www.divine-pride.net/database/item/4792/) ou [+9](http://www.divine-pride.net/database/item/4793/)
+      - ![4890.png](https://static.divine-pride.net/images/items/item/4890.png) [DEFM +1](http://www.divine-pride.net/database/item/4890/), [+2](http://www.divine-pride.net/database/item/4786/) ou [+3](http://www.divine-pride.net/database/item/4891/)
 19. Independente de você ter completado ou não a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), reporte suas descobertas para a Historiadora Shepit.
 
 :   :   | Condição | [EXP](../Sem%20categoria/EXP.md "EXP") base | [EXP](../Sem%20categoria/EXP.md "EXP") classe |

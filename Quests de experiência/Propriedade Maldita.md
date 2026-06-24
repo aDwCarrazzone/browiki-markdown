@@ -2,13 +2,13 @@
 
 # Propriedade Maldita
 
-| EP ico Propriedade Maldita | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Propriedade Maldita | |
 | --- | --- |
 | Após um terrível acidente na mina, a descoberta de um minério raro fará com que os sobreviventes se envolvam em uma perigosa jornada. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 512.png 100 [Maçãs](http://www.divine-pride.net/database/item/512/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![512.png](https://static.divine-pride.net/images/items/item/512.png) 100 [Maçãs](http://www.divine-pride.net/database/item/512/) |
 | **Quests anteriores** | [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Variável |
@@ -88,8 +88,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | SetaVermelha | [A Rebelião](A%20Rebeli%C3%A3o.md "A Rebelião") | | |
-| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | SetaVermelha | Propriedade Maldita | SetaVermelha | [O Presidente](O%20Presidente.md "O Presidente") | SetaVermelha |
-| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | SetaVermelha | [A Empresa](A%20Empresa.md "A Empresa") | SetaVermelha |
-| SetaVermelha | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | SetaVermelha | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Rebelião](A%20Rebeli%C3%A3o.md "A Rebelião") | | |
+| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Propriedade Maldita | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Empresa](A%20Empresa.md "A Empresa") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
 | [Contador de Histórias](../Quest/Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |

@@ -2,18 +2,18 @@
 
 # Renascimento
 
-| GQ ico Renascimento | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Renascimento | |
 | --- | --- |
 | Após uma vida de batalhas, um herói precisa repousar. Guerreiros valiosos ao Valhalla poderão transcender e continuar vagando por Midgard após o seu renascimento. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 99 |
 | **Nv. de classe** | 50 |
 | **Tipo** | Tutorial |
-| **[Itens](../Itens/Itens.md "Itens")** | 6586.png 1 [Livro Capturado](http://www.divine-pride.net/database/item/6586/) (opcional) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6586.png](https://static.divine-pride.net/images/items/item/6586.png) 1 [Livro Capturado](http://www.divine-pride.net/database/item/6586/) (opcional) |
 | **Caça** | [Livro Fugitivo](http://www.divine-pride.net/database/monster/2414/) (opcional) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 1.285.000z (opcional) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1202.png 1 [Faca](http://www.divine-pride.net/database/item/1202/) [4]  2302.png 1 [Camisa de Algodão](http://www.divine-pride.net/database/item/2302/) [1]  23575.png [Caixa de Aventura](http://www.divine-pride.net/database/item/23575/) ([Conquista](../Sem%20categoria/Conquista.md "Conquista")) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1202.png](https://static.divine-pride.net/images/items/item/1202.png) 1 [Faca](http://www.divine-pride.net/database/item/1202/) [4]  ![2302.png](https://static.divine-pride.net/images/items/item/2302.png) 1 [Camisa de Algodão](http://www.divine-pride.net/database/item/2302/) [1]  ![23575.png](https://static.divine-pride.net/images/items/item/23575.png) [Caixa de Aventura](http://www.divine-pride.net/database/item/23575/) ([Conquista](../Sem%20categoria/Conquista.md "Conquista")) |
 | **Recompensa** | Muda a classe para [Aprendiz T.](../Sem%20categoria/Aprendiz.md "Aprendiz") |
 
 ---
@@ -61,12 +61,12 @@ Antes de começar sua jornada, você deverá estar nas seguintes condições:
 
 :   :   :   |  |
             | --- |
-            | [Brasão Espadachim](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") [Espadachins](../Quest/Mudan%C3%A7a%20de%20Classe-%20Espadachins.md "Mudança de Classe: Espadachins"): Mestre Espadachim (izlude\_in 74,172) |
-            | [Brasão Mago](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") [Magos](../Quest/Mudan%C3%A7a%20de%20Classe-%20Magos.md "Mudança de Classe: Magos"): Professora de Magia (geffen\_in 164,124) |
-            | [Brasão Arqueiro](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") [Arqueiros](../Quest/Mudan%C3%A7a%20de%20Classe-%20Arqueiros.md "Mudança de Classe: Arqueiros"): Líder dos Arqueiros (payon\_in02 64,71) |
-            | [Brasão Noviço](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") [Noviços](../Quest/Mudan%C3%A7a%20de%20Classe-%20Novi%C3%A7os.md "Mudança de Classe: Noviços"): Padre (prt\_church 184,41) |
-            | [Brasão Gatuno](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") [Gatunos](../Quest/Mudan%C3%A7a%20de%20Classe-%20Gatunos.md "Mudança de Classe: Gatunos"): Auxiliar Feminina dos Gatunos (moc\_prydb1 45,131) |
-            | [Brasão Mercador](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") [Mercadores](../Quest/Mudan%C3%A7a%20de%20Classe-%20Mercadores.md "Mudança de Classe: Mercadores"): Mercador da Guilda (alberta\_in 56,43) |
+            | [![Brasão Espadachim](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Bras%C3%A3o_Espadachim.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espadachins.md "Espadachins") [Espadachins](../Quest/Mudan%C3%A7a%20de%20Classe-%20Espadachins.md "Mudança de Classe: Espadachins"): Mestre Espadachim (izlude\_in 74,172) |
+            | [![Brasão Mago](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ca/Bras%C3%A3o_Mago.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Magos.md "Magos") [Magos](../Quest/Mudan%C3%A7a%20de%20Classe-%20Magos.md "Mudança de Classe: Magos"): Professora de Magia (geffen\_in 164,124) |
+            | [![Brasão Arqueiro](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Bras%C3%A3o_Arqueiro.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arqueiros.md "Arqueiros") [Arqueiros](../Quest/Mudan%C3%A7a%20de%20Classe-%20Arqueiros.md "Mudança de Classe: Arqueiros"): Líder dos Arqueiros (payon\_in02 64,71) |
+            | [![Brasão Noviço](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/48/Bras%C3%A3o_Novi%C3%A7o.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Novi%C3%A7os.md "Noviços") [Noviços](../Quest/Mudan%C3%A7a%20de%20Classe-%20Novi%C3%A7os.md "Mudança de Classe: Noviços"): Padre (prt\_church 184,41) |
+            | [![Brasão Gatuno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Bras%C3%A3o_Gatuno.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") [Gatunos](../Quest/Mudan%C3%A7a%20de%20Classe-%20Gatunos.md "Mudança de Classe: Gatunos"): Auxiliar Feminina dos Gatunos (moc\_prydb1 45,131) |
+            | [![Brasão Mercador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Bras%C3%A3o_Mercador.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercadores.md "Mercadores") [Mercadores](../Quest/Mudan%C3%A7a%20de%20Classe-%20Mercadores.md "Mudança de Classe: Mercadores"): Mercador da Guilda (alberta\_in 56,43) |
 
 | *[Classes](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Classes.md "Classes") de [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | |
 | --- | --- | --- | --- |

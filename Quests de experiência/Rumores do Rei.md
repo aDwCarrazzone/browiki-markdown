@@ -2,19 +2,19 @@
 
 # Rumores do Rei
 
-| NQ ico Rumores do Rei | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Rumores do Rei | |
 | --- | --- |
 | Os problemas de ser um Rei mestiço é que as fadas de alto e baixo nível sempre olharão para Kardui com desconfiança, e essa situação só piora quando o rei mantém contato com aventureiros. Tente melhorar a sua imagem e a de Kardui ajudando os esplêndidos por aí! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 99 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12345.png 3 [Geleia de Mel de Vagalume](http://www.divine-pride.net/database/item/12345/)  12344.png 3 [Geleia de Fruta de Pinguicula](http://www.divine-pride.net/database/item/12344/)  6032.png 5 [Chifre de Leão da Montanha](http://www.divine-pride.net/database/item/6032/)  6023.png 5 [Chifres Místicos](http://www.divine-pride.net/database/item/6023/)  944.png 5 [Ferraduras](http://www.divine-pride.net/database/item/944/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12345.png](https://static.divine-pride.net/images/items/item/12345.png) 3 [Geleia de Mel de Vagalume](http://www.divine-pride.net/database/item/12345/)  ![12344.png](https://static.divine-pride.net/images/items/item/12344.png) 3 [Geleia de Fruta de Pinguicula](http://www.divine-pride.net/database/item/12344/)  ![6032.png](https://static.divine-pride.net/images/items/item/6032.png) 5 [Chifre de Leão da Montanha](http://www.divine-pride.net/database/item/6032/)  ![6023.png](https://static.divine-pride.net/images/items/item/6023.png) 5 [Chifres Místicos](http://www.divine-pride.net/database/item/6023/)  ![944.png](https://static.divine-pride.net/images/items/item/944.png) 5 [Ferraduras](http://www.divine-pride.net/database/item/944/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Garoto Sonhador](../Acesso%20a%20Calabou%C3%A7os/Garoto%20Sonhador.md "Garoto Sonhador") até o passo 3. |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 2916.png 1 [Asa de Fada](http://www.divine-pride.net/database/item/2916/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2916.png](https://static.divine-pride.net/images/items/item/2916.png) 1 [Asa de Fada](http://www.divine-pride.net/database/item/2916/) |
 
 1. Aproxime-se dos Viajantes (ecl\_in01 34,51)
 

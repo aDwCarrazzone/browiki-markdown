@@ -2,15 +2,15 @@
 
 # Como Treinar seu Dragão
 
-| EV ico Como Treinar seu Dragão | |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Como Treinar seu Dragão | |
 | --- | --- |
-| [HTTYDbanner](https://ro.gnjoylatam.com/pt/news/event/26?type=ACTIVE) | |
+| [![HTTYDbanner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/HTTYDbanner.jpg)](https://ro.gnjoylatam.com/pt/news/event/26?type=ACTIVE) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 |
 | **Tipo** | Evento |
-| **[Itens](../Itens/Itens.md "Itens")** | 579.png 1 [Peixe Fresco](http://www.divine-pride.net/database/item/579/) 913.png 1 [Dente de Morcego](http://www.divine-pride.net/database/item/913/) 509.png 1 [Erva Branca](http://www.divine-pride.net/database/item/509/) 510.png 1 [Erva Azul](http://www.divine-pride.net/database/item/510/) 511.png 1 [Erva Verde](http://www.divine-pride.net/database/item/511/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![579.png](https://static.divine-pride.net/images/items/item/579.png) 1 [Peixe Fresco](http://www.divine-pride.net/database/item/579/) ![913.png](https://static.divine-pride.net/images/items/item/913.png) 1 [Dente de Morcego](http://www.divine-pride.net/database/item/913/) ![509.png](https://static.divine-pride.net/images/items/item/509.png) 1 [Erva Branca](http://www.divine-pride.net/database/item/509/) ![510.png](https://static.divine-pride.net/images/items/item/510.png) 1 [Erva Azul](http://www.divine-pride.net/database/item/510/) ![511.png](https://static.divine-pride.net/images/items/item/511.png) 1 [Erva Verde](http://www.divine-pride.net/database/item/511/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1002224.png 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
 
 1. Fale com Benjamin (hugel 101,139)
 2. Clique na Faísca Roxa (hu\_fild05 344,226) para teleportar ao Lago do Abismo versão evento (sem monstros).
@@ -59,8 +59,8 @@
 19. Fale com Soluço (httyd\_01 321,230)
     - Agora você liberou as missões diárias
     - Se falar com Soluço mais uma vez, ele poderá negociar itens com você:
-      - ![1002224.png](http://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) = ![1100036.png](http://static.divine-pride.net/images/items/item/1100036.png) 1 [Peixe Compartilhado](http://www.divine-pride.net/database/item/1100036/)
-      - ![1002224.png](http://static.divine-pride.net/images/items/item/1002224.png) 50 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) = ![400914.png](http://static.divine-pride.net/images/items/item/400914.png) 1 [(Visual) Banguela Dorminhoco](http://www.divine-pride.net/database/item/400914/)
+      - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) = ![1100036.png](https://static.divine-pride.net/images/items/item/1100036.png) 1 [Peixe Compartilhado](http://www.divine-pride.net/database/item/1100036/)
+      - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 50 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) = ![400914.png](https://static.divine-pride.net/images/items/item/400914.png) 1 [(Visual) Banguela Dorminhoco](http://www.divine-pride.net/database/item/400914/)
 
 ### Missões diárias
 
@@ -68,7 +68,7 @@
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Ingredientes para Soluço | Soluço  (httyd\_01 321,230) | - Coletar 507.png 5 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) - Coletar 510.png 5 [Erva Azul](http://www.divine-pride.net/database/item/510/) | - 1002224.png 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
-| DQ ico Banguela Faminto | Banguela  (httyd\_01 321,230) | - Coletar 579.png 5 [Peixe Fresco](http://www.divine-pride.net/database/item/579/) | - 1002224.png 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
-| DQ ico Exploração Assustadora | Cabeçaquente  (httyd\_01 321,230) | - Nv. 90 ~ 99:   - Caçar 50 monstros na [Prisão de Glastheim](http://www.divine-pride.net/database/map/gl_prison/) - Nv. 100 ~ 149:   - Caçar 50 monstros na [Caverna de Glastheim](http://www.divine-pride.net/database/map/gl_dun01/) - Nv. 150 ~ 175:   - Caçar 50 monstros no [Castelo de Glastheim](http://www.divine-pride.net/database/map/gl_cas01/) | - 5.500 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 3.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - 1002224.png 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
-| DQ ico Exploração Empolgante | Cabeçadura  (httyd\_01 321,230) | - Explore os campos de Prontera - Basta observar o ponto de indicação no mapa | - 1002224.png 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Ingredientes para Soluço | Soluço  (httyd\_01 321,230) | - Coletar ![507.png](https://static.divine-pride.net/images/items/item/507.png) 5 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) - Coletar ![510.png](https://static.divine-pride.net/images/items/item/510.png) 5 [Erva Azul](http://www.divine-pride.net/database/item/510/) | - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Banguela Faminto | Banguela  (httyd\_01 321,230) | - Coletar ![579.png](https://static.divine-pride.net/images/items/item/579.png) 5 [Peixe Fresco](http://www.divine-pride.net/database/item/579/) | - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Exploração Assustadora | Cabeçaquente  (httyd\_01 321,230) | - Nv. 90 ~ 99:   - Caçar 50 monstros na [Prisão de Glastheim](http://www.divine-pride.net/database/map/gl_prison/) - Nv. 100 ~ 149:   - Caçar 50 monstros na [Caverna de Glastheim](http://www.divine-pride.net/database/map/gl_dun01/) - Nv. 150 ~ 175:   - Caçar 50 monstros no [Castelo de Glastheim](http://www.divine-pride.net/database/map/gl_cas01/) | - 5.500 de [EXP](../Sem%20categoria/EXP.md "EXP") base - 3.000 de [EXP](../Sem%20categoria/EXP.md "EXP") classe - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Exploração Empolgante | Cabeçadura  (httyd\_01 321,230) | - Explore os campos de Prontera - Basta observar o ponto de indicação no mapa | - ![1002224.png](https://static.divine-pride.net/images/items/item/1002224.png) 1 [Símbolo dos Vikings](http://www.divine-pride.net/database/item/1002224/) |

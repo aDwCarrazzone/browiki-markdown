@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Impulso de Arclouse Impulso de Arclouse** | |
-| Impulso de Arclouse | |
+| **![Impulso de Arclouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Impulso_de_Arclouse.png) Impulso de Arclouse** | |
+| ![Impulso de Arclouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0d/Impulso_de_Arclouse.gif) | |
 | **Arclouse Dash** | |
 | **ID** | SU\_ARCLOUSEDASH (5035) |
 | **Tipo** | Suporte |
@@ -17,9 +17,9 @@
 | **Duração** | [50 + (Nv. da habilidade × 10)] segundos |
 | **Alvo** | Personagens |
 | **Alcance** | 9 células |
-| **Ícone** | I ImpulsoArclouse |
+| **Ícone** | ![I ImpulsoArclouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/I_ImpulsoArclouse.png) |
 | **Pré-requisitos** | |
-| [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") Nv. 3 | |
+| [![Chilique de Picky](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Chilique_de_Picky.png)](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") Nv. 3 | |
 
 Invoca o poder da velocidade dos arclouses para garantir benefícios no alvo:
 
@@ -42,13 +42,13 @@ Invoca o poder da velocidade dos arclouses para garantir benefícios no alvo:
 - É cancelada por [Desencantar](../Ativa/Desencantar.md "Desencantar") e [Pântano dos Mortos](../Ativa/P%C3%A2ntano%20dos%20Mortos.md "Pântano dos Mortos").
 - Não retira o efeito de [Diminuir Agilidade](Diminuir%20Agilidade.md "Diminuir Agilidade").
 - Armas relacionadas:
-  - ![1693.png](http://static.divine-pride.net/images/items/item/1693.png) [Cauda de Gato Arcana Dourada](http://www.divine-pride.net/database/item/1693/)
+  - ![1693.png](https://static.divine-pride.net/images/items/item/1693.png) [Cauda de Gato Arcana Dourada](http://www.divine-pride.net/database/item/1693/)
 - Sombrios relacionados:
-  - ![24316.png](http://static.divine-pride.net/images/items/item/24316.png) [Escudo Sombrio de Fauna](http://www.divine-pride.net/database/item/24316/)
+  - ![24316.png](https://static.divine-pride.net/images/items/item/24316.png) [Escudo Sombrio de Fauna](http://www.divine-pride.net/database/item/24316/)
 
 | *O Poder da Natureza* | | | |
 | --- | --- | --- | --- |
-| |  |  | | --- | --- | | [Invocadorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") · [Mordida](../Ofensiva/Mordida.md "Mordida") · [Pulo do Gato](../Ativa/Pulo%20do%20Gato.md "Pulo do Gato") · [Gato-Mia](../Ativa/Gato-Mia.md "Gato-Mia") · [Arranhar](../Ofensiva/Arranhar.md "Arranhar") · [Quatro Patas](Quatro%20Patas.md "Quatro Patas") · [Invocar](../Passiva/Invocar.md "Invocar") · [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | | |
+| |  |  | | --- | --- | | [![Invocadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Invocadorespartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") · [Mordida](../Ofensiva/Mordida.md "Mordida") · [Pulo do Gato](../Ativa/Pulo%20do%20Gato.md "Pulo do Gato") · [Gato-Mia](../Ativa/Gato-Mia.md "Gato-Mia") · [Arranhar](../Ofensiva/Arranhar.md "Arranhar") · [Quatro Patas](Quatro%20Patas.md "Quatro Patas") · [Invocar](../Passiva/Invocar.md "Invocar") · [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | | |
 | Fauna | | [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") · Impulso de Arclouse · [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") · [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") · [Poder da Fauna](../Passiva/Poder%20da%20Fauna.md "Poder da Fauna") [Riscar Fósforo](Riscar%20F%C3%B3sforo.md "Riscar Fósforo") · [Intimidar](../Ativa/Intimidar.md "Intimidar") · [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") · [Invocação da Fauna](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Fauna.md "Invocação da Fauna") |
 | Selva | | [Lança Gateira](../Ofensiva/Lan%C3%A7a%20Gateira.md "Lança Gateira") · [Hera Venenosa](../Ofensiva/Hera%20Venenosa.md "Hera Venenosa") · [Meteoros de Nepeta](../Ofensiva/Meteoros%20de%20Nepeta.md "Meteoros de Nepeta") · [Pulverizar](../Ativa/Pulverizar.md "Pulverizar") · [Poder da Selva](../Passiva/Poder%20da%20Selva.md "Poder da Selva") [Despertar](Despertar.md "Despertar") · [Balaio de Gato](Balaio%20de%20Gato.md "Balaio de Gato") · [Mato de Gato](../Ativa/Mato%20de%20Gato.md "Mato de Gato") · [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva") |
 | Maré | | [Camarão Fresquinho](Camar%C3%A3o%20Fresquinho.md "Camarão Fresquinho") · [Chuva de Mariscos](Chuva%20de%20Mariscos.md "Chuva de Mariscos") · [Dádiva do Atum](D%C3%A1diva%20do%20Atum.md "Dádiva do Atum") · [Proteção da Orla](Prote%C3%A7%C3%A3o%20da%20Orla.md "Proteção da Orla") · [Poder das Marés](../Passiva/Poder%20das%20Mar%C3%A9s.md "Poder das Marés") [Lambida](Lambida.md "Lambida") · [Banho de Lambidas](Banho%20de%20Lambidas.md "Banho de Lambidas") · [Festa do Camarão](Festa%20do%20Camar%C3%A3o.md "Festa do Camarão") · [Invocação das Marés](../Passiva/Invoca%C3%A7%C3%A3o%20das%20Mar%C3%A9s.md "Invocação das Marés") |

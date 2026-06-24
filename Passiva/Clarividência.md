@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Clarividência Clarividência** | |
-| Clarividência | |
+| **![Clarividência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Clarivid%C3%AAncia.png) Clarividência** | |
+| ![Clarividência](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/69/Clarivid%C3%AAncia.gif) | |
 | **Clairvoyance** | |
 | **ID** | - (-) |
 | **Tipo** | Passiva |

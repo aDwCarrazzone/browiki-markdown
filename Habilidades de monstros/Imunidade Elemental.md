@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Imunidade Elemental** | |
-| Imunidade Elemental | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Imunidade Elemental** | |
+| ![Imunidade Elemental](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Imunidade_Elemental.gif) | |
 | **ID:** | NPC\_IMMUNE\_PROPERTY (754) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Sim |
@@ -15,16 +15,16 @@ O [monstro](../Sem%20categoria/Monstro.md "Monstro") não recebe nenhum dano de 
 
 | Nv. | [Propriedade](../Sem%20categoria/Propriedade.md "Propriedade") | Ícone |
 | --- | --- | --- |
-| 1 | [Neutro](../Sem%20categoria/Neutro.md "Neutro") | Imunidade Elemental 1 |
-| 2 | [Água](../Sem%20categoria/%C3%81gua.md "Água") | Imunidade Elemental 2 |
-| 3 | [Terra](../Sem%20categoria/Terra.md "Terra") | Imunidade Elemental 3 |
-| 4 | [Fogo](../Sem%20categoria/Fogo.md "Fogo") | Imunidade Elemental 4 |
-| 5 | [Vento](../Sem%20categoria/Vento.md "Vento") | Imunidade Elemental 5 |
-| 6 | [Veneno](../Sem%20categoria/Veneno.md "Veneno") | Imunidade Elemental 8 |
-| 7 | [Sagrado](../Sem%20categoria/Sagrado.md "Sagrado") | Imunidade Elemental 7 |
-| 8 | [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") | Imunidade Elemental 6 |
-| 9 | [Fantasma](../Sem%20categoria/Fantasma.md "Fantasma") | Imunidade Elemental 9 |
-| 10 | [Maldito](../Sem%20categoria/Maldito.md "Maldito") | Imunidade Elemental 10 |
+| 1 | [Neutro](../Sem%20categoria/Neutro.md "Neutro") | ![Imunidade Elemental 1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Imunidade_Elemental_1.png) |
+| 2 | [Água](../Sem%20categoria/%C3%81gua.md "Água") | ![Imunidade Elemental 2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b7/Imunidade_Elemental_2.png) |
+| 3 | [Terra](../Sem%20categoria/Terra.md "Terra") | ![Imunidade Elemental 3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/Imunidade_Elemental_3.png) |
+| 4 | [Fogo](../Sem%20categoria/Fogo.md "Fogo") | ![Imunidade Elemental 4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Imunidade_Elemental_4.png) |
+| 5 | [Vento](../Sem%20categoria/Vento.md "Vento") | ![Imunidade Elemental 5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dc/Imunidade_Elemental_5.png) |
+| 6 | [Veneno](../Sem%20categoria/Veneno.md "Veneno") | ![Imunidade Elemental 8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f8/Imunidade_Elemental_8.png) |
+| 7 | [Sagrado](../Sem%20categoria/Sagrado.md "Sagrado") | ![Imunidade Elemental 7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Imunidade_Elemental_7.png) |
+| 8 | [Sombrio](../Sem%20categoria/Sombrio.md "Sombrio") | ![Imunidade Elemental 6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Imunidade_Elemental_6.png) |
+| 9 | [Fantasma](../Sem%20categoria/Fantasma.md "Fantasma") | ![Imunidade Elemental 9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Imunidade_Elemental_9.png) |
+| 10 | [Maldito](../Sem%20categoria/Maldito.md "Maldito") | ![Imunidade Elemental 10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Imunidade_Elemental_10.png) |
 
 ## Notas
 

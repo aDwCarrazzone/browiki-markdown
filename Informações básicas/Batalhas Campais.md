@@ -40,9 +40,9 @@ Existem 3 arenas, cada uma com um objetivo diferente: Desfiladeiro de Tierra, Fl
 
 |  |  |
 | --- | --- |
-| Tierra1    Desfiladeiro de Tierra | - Batalha de 6 contra 6 ou 8 contra 8 personagens. - Vence o primeiro exército que quebrar o depósito de Suprimentos do inimigo. - Assim que as Bandeiras tiverem sido quebradas, os personagens podem começar a atacar os Suprimentos. Apenas ataques básicos funcionam contra eles. - Perto do centro do mapa está o Ponto Estratégico. O primeiro time que quebrá-lo poderá usar essa área como ponto de retorno quando forem nocauteados. - Assim que a luta terminar, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") do cemitério para sair do campo de batalha e receber sua recompensa. - Cada membro do exército vencedor receberá 3 [Emblemas de Bravura](http://www.divine-pride.net/database/item/7828/), e do exército perdedor receberá 1 [Emblema de Bravura](http://www.divine-pride.net/database/item/7828/). |
-| Flavius    Arena de Flavius | - Batalha de 6 contra 6 ou 8 contra 8 personagens. - A luta é uma melhor de três, e vence o primeiro time que marcar 2 pontos. - Um time recebe 1 ponto quando conseguir quebrar o Cristal do inimigo. Apenas ataques básicos funcionam no Cristal. - O Cristal não receberá dano até que seus 2 Guardiões estejam destruídos. - Assim que a luta terminar, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") do cemitério para sair do campo de batalha e receber sua recompensa. - Cada membro do exército vitorioso receberá 12 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/), e do exército perdedor receberá 4 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/). - Em caso de Empate, ambos os times recebem 4 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/). |
-| KriegervonMidgard1    Krieger von Midgard | - Batalhas de 5 contra 5 personagens. - São divididas entre 3 salas: níveis menor que 60; níveis 60 a 80; e acima do nível 80. - As batalhas têm duração de 5 minutos e vence quem possuir mais membros vivos ou reduzir a pontuação da adversária a zero. - As equipes começam com 1 ponto para cada um de seus membros, ela perde 1 ponto quando um membro morre. - Após a luta, os jogadores terão 30 segundos para retirar os pontos do [NPC](../Sem%20categoria/NPC.md "NPC") e sair do mapa. - Personagens de nível menor ou igual a 79 receberão 2 pontos por Vitória e nenhum por Derrota. - Personagens de nível maior ou igual a 80 receberão 5 pontos por Vitória e 1 por Derrota. |
+| ![Tierra1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/Tierra1.jpg)    Desfiladeiro de Tierra | - Batalha de 6 contra 6 ou 8 contra 8 personagens. - Vence o primeiro exército que quebrar o depósito de Suprimentos do inimigo. - Assim que as Bandeiras tiverem sido quebradas, os personagens podem começar a atacar os Suprimentos. Apenas ataques básicos funcionam contra eles. - Perto do centro do mapa está o Ponto Estratégico. O primeiro time que quebrá-lo poderá usar essa área como ponto de retorno quando forem nocauteados. - Assim que a luta terminar, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") do cemitério para sair do campo de batalha e receber sua recompensa. - Cada membro do exército vencedor receberá 3 [Emblemas de Bravura](http://www.divine-pride.net/database/item/7828/), e do exército perdedor receberá 1 [Emblema de Bravura](http://www.divine-pride.net/database/item/7828/). |
+| ![Flavius](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Flavius.jpg)    Arena de Flavius | - Batalha de 6 contra 6 ou 8 contra 8 personagens. - A luta é uma melhor de três, e vence o primeiro time que marcar 2 pontos. - Um time recebe 1 ponto quando conseguir quebrar o Cristal do inimigo. Apenas ataques básicos funcionam no Cristal. - O Cristal não receberá dano até que seus 2 Guardiões estejam destruídos. - Assim que a luta terminar, fale com o [NPC](../Sem%20categoria/NPC.md "NPC") do cemitério para sair do campo de batalha e receber sua recompensa. - Cada membro do exército vitorioso receberá 12 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/), e do exército perdedor receberá 4 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/). - Em caso de Empate, ambos os times recebem 4 [Emblemas de Valor](http://www.divine-pride.net/database/item/7829/). |
+| ![KriegervonMidgard1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/KriegervonMidgard1.jpg)    Krieger von Midgard | - Batalhas de 5 contra 5 personagens. - São divididas entre 3 salas: níveis menor que 60; níveis 60 a 80; e acima do nível 80. - As batalhas têm duração de 5 minutos e vence quem possuir mais membros vivos ou reduzir a pontuação da adversária a zero. - As equipes começam com 1 ponto para cada um de seus membros, ela perde 1 ponto quando um membro morre. - Após a luta, os jogadores terão 30 segundos para retirar os pontos do [NPC](../Sem%20categoria/NPC.md "NPC") e sair do mapa. - Personagens de nível menor ou igual a 79 receberão 2 pontos por Vitória e nenhum por Derrota. - Personagens de nível maior ou igual a 80 receberão 5 pontos por Vitória e 1 por Derrota. |
 
 ### Regras
 
@@ -72,110 +72,110 @@ Existem prêmios específicos para cada Emblema e Ponto, isso significa que voc�
 
    :   ![Batalhacampal7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Batalhacampal7.png)
 
-| Consumíveis | 7828.png [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* 7829.png [Valor](http://www.divine-pride.net/database/item/7829/) |
+| Consumíveis | ![7828.png](https://static.divine-pride.net/images/items/item/7828.png) [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* ![7829.png](https://static.divine-pride.net/images/items/item/7829.png) [Valor](http://www.divine-pride.net/database/item/7829/) |
 | --- | --- |
-| 12271.png [Ração Militar A](http://www.divine-pride.net/database/item/12271/) | 5 |
-| 12272.png [Ração Militar B](http://www.divine-pride.net/database/item/12272/) | 10 |
-| 12273.png [Ração Militar C](http://www.divine-pride.net/database/item/12273/) | 10 |
-| 12269.png [Ração Rosa Gostosa](http://www.divine-pride.net/database/item/12269/) | 10 |
-| 12270.png [Ração Branca Gostosa](http://www.divine-pride.net/database/item/12270/) | 10 |
-| Equipamentos | 7828.png [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* 7829.png [Valor](http://www.divine-pride.net/database/item/7829/) |
-| 2538.png [Manteau do Capitão](http://www.divine-pride.net/database/item/2538/) | 50 |
-| 2539.png [Manteau do Comandante](http://www.divine-pride.net/database/item/2539/) | 50 |
-| 2540.png [Manteau do Xerife](http://www.divine-pride.net/database/item/2540/) | 50 |
-| 2435.png [Grevas de Batalha](http://www.divine-pride.net/database/item/2435/) | 50 |
-| 2436.png [Botas de Combate](http://www.divine-pride.net/database/item/2436/) | 50 |
-| 2437.png [Botas de Batalha](http://www.divine-pride.net/database/item/2437/) | 50 |
-| 2376.png [Armadura de Assalto](http://www.divine-pride.net/database/item/2376/) | 80 |
-| 2377.png [Armadura de Elite](http://www.divine-pride.net/database/item/2377/) | 80 |
-| 2378.png [Manto do Mercenário](http://www.divine-pride.net/database/item/2378/) | 80 |
-| 2379.png [Manto de Batalha do Feiticeiro](http://www.divine-pride.net/database/item/2379/) | 80 |
-| 2380.png [Manto do Médico](http://www.divine-pride.net/database/item/2380/) | 80 |
-| 2382.png [Túnica do Artilheiro de Elite](http://www.divine-pride.net/database/item/2382/) | 80 |
-| Acessórios | 7828.png [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* 7829.png [Valor](http://www.divine-pride.net/database/item/7829/) |
-| 2733.png [Estrela de Xerife](http://www.divine-pride.net/database/item/2733/) | 500 |
-| 2720.png [Medalha de Honra - Espada](http://www.divine-pride.net/database/item/2720/) | 500 |
-| 2721.png [Medalha de Honra - Lâminas](http://www.divine-pride.net/database/item/2721/) | 500 |
-| 2722.png [Medalha de Honra - Anjo](http://www.divine-pride.net/database/item/2722/) | 500 |
-| 2723.png [Medalha de Honra - Orbe](http://www.divine-pride.net/database/item/2723/) | 500 |
-| 2724.png [Medalha de Honra - Arco](http://www.divine-pride.net/database/item/2724/) | 500 |
-| 2725.png [Medalha de Honra - Bolsa](http://www.divine-pride.net/database/item/2725/) | 500 |
-| Armas | 7828.png [Bravura](http://www.divine-pride.net/database/item/7828/) |
-| 13036.png [Damascus Mercenária A](http://www.divine-pride.net/database/item/13036/) | 100 |
-| 13411.png [Lâmina Gladiadora B](http://www.divine-pride.net/database/item/13411/) | 100 |
-| 1425.png [Lança de Assalto](http://www.divine-pride.net/database/item/1425/) | 100 |
-| 1632.png [Varinha Mágica do Feiticeiro](http://www.divine-pride.net/database/item/1632/) | 100 |
-| 1634.png [Varinha da Recuperação Forte](http://www.divine-pride.net/database/item/1634/) | 100 |
-| 1543.png [Maça de Campo de Batalha B](http://www.divine-pride.net/database/item/1543/) | 100 |
-| 1924.png [Guitarra de Batalha B](http://www.divine-pride.net/database/item/1924/) | 100 |
-| 1978.png [Serpente de Batalha B](http://www.divine-pride.net/database/item/1978/) | 100 |
-| 1574.png [Livro de Estratégia de Batalha A](http://www.divine-pride.net/database/item/1574/) | 100 |
-| 1824.png [Punho de Batalha B](http://www.divine-pride.net/database/item/1824/) | 100 |
-| 1183.png [Katzbalger de Assalto A](http://www.divine-pride.net/database/item/1183/) | 100 |
-| 1380.png [Machado de Batalha Insana B](http://www.divine-pride.net/database/item/1380/) | 100 |
-| 13305.png [Shuriken Huuma Frontal A](http://www.divine-pride.net/database/item/13305/) | 100 |
-| 1279.png [Katar da Carnificina A](http://www.divine-pride.net/database/item/1279/) | 100 |
-| 1739.png [Besta de Batalha B](http://www.divine-pride.net/database/item/1739/) | 100 |
-| 13108.png [Revólver do Soldado](http://www.divine-pride.net/database/item/13108/) | 100 |
-| 13172.png [Metralhadora Gatling do Soldado](http://www.divine-pride.net/database/item/13172/) | 100 |
-| Armas | 7829.png [Valor](http://www.divine-pride.net/database/item/7829/) |
-| 13037.png [Damascus Mercenária B](http://www.divine-pride.net/database/item/13037/) | 100 |
-| 13410.png [Lâmina Gladiadora A](http://www.divine-pride.net/database/item/13410/) | 100 |
-| 1633.png [Varinha de Batalha do Feiticeiro](http://www.divine-pride.net/database/item/1633/) | 100 |
-| 1635.png [Varinha da Recuperação Rápida](http://www.divine-pride.net/database/item/1635/) | 100 |
-| 1542.png [Maça de Campo de Batalha A](http://www.divine-pride.net/database/item/1542/) | 100 |
-| 1923.png [Guitarra de Batalha A](http://www.divine-pride.net/database/item/1923/) | 100 |
-| 1977.png [Serpente de Batalha A](http://www.divine-pride.net/database/item/1977/) | 100 |
-| 1575.png [Livro de Estratégia de Batalha B](http://www.divine-pride.net/database/item/1575/) | 100 |
-| 1823.png [Punho de Batalha A](http://www.divine-pride.net/database/item/1823/) | 100 |
-| 1184.png [Katzbalger de Assalto B](http://www.divine-pride.net/database/item/1184/) | 100 |
-| 1482.png [Lança de Assalto de Duas Mãos](http://www.divine-pride.net/database/item/1482/) | 100 |
-| 1379.png [Machado de Batalha Insana A](http://www.divine-pride.net/database/item/1379/) | 100 |
-| 13306.png [Shuriken Huuma Frontal B](http://www.divine-pride.net/database/item/13306/) | 100 |
-| 1280.png [Katar da Carnificina B](http://www.divine-pride.net/database/item/1280/) | 100 |
-| 13171.png [Rifle do Soldado](http://www.divine-pride.net/database/item/13171/) | 100 |
-| 13173.png [Espingarda do Soldado](http://www.divine-pride.net/database/item/13173/) | 100 |
-| 13174.png [Lança-Granadas do Soldado](http://www.divine-pride.net/database/item/13174/) | 100 |
-| Equipamentos KVM | 6376.png [Emblema KVM](http://www.divine-pride.net/database/item/6376/) |
-| 2394.png [Túnica Gloriosa](http://www.divine-pride.net/database/item/2394/) | 840 |
-| 2395.png [Túnica Gloriosa Industrializada](http://www.divine-pride.net/database/item/2395/) | 120 |
-| 2396.png [Túnica Gloriosa Barata](http://www.divine-pride.net/database/item/2396/) | 15 |
-| 2549.png [Sobrepeliz Gloriosa](http://www.divine-pride.net/database/item/2549/) | 630 |
-| 2444.png [Sapatos Gloriosos](http://www.divine-pride.net/database/item/2444/) | 580 |
-| 2445.png [Sapatos Gloriosos Industrializados](http://www.divine-pride.net/database/item/2445/) | 70 |
-| 2446.png [Sapatos Gloriosos Baratos](http://www.divine-pride.net/database/item/2446/) | 10 |
-| 2772.png [Anel Glorioso](http://www.divine-pride.net/database/item/2772/) | 1200 |
-| 2773.png [Anel Glorioso Industrializado](http://www.divine-pride.net/database/item/2773/) | 200 |
-| 2774.png [Anel Glorioso Barato](http://www.divine-pride.net/database/item/2774/) | 30 |
-| Armas Gloriosas | 6376.png [Emblema KVM](http://www.divine-pride.net/database/item/6376/) |
-| 13042.png [Gladius Glorioso](http://www.divine-pride.net/database/item/13042/) | 2000 |
-| 13416.png [Flamberge Gloriosa](http://www.divine-pride.net/database/item/13416/) | 2000 |
-| 13417.png [Florete Glorioso](http://www.divine-pride.net/database/item/13417/) | 2000 |
-| 13418.png [Vingadora Sagrada Gloriosa](http://www.divine-pride.net/database/item/13418/) | 2000 |
-| 1187.png [Claymore Gloriosa](http://www.divine-pride.net/database/item/1187/) | 2000 |
-| 1426.png [Lança Gloriosa](http://www.divine-pride.net/database/item/1426/) | 2000 |
-| 1486.png [Lança de Duas Mãos Gloriosa](http://www.divine-pride.net/database/item/1486/) | 2000 |
-| 1310.png [Retalhador Glorioso](http://www.divine-pride.net/database/item/1310/) | 2000 |
-| 1382.png [Machado de Duas Mãos Glorioso](http://www.divine-pride.net/database/item/1382/) | 2000 |
-| 1546.png [Maça de Guerra Gloriosa](http://www.divine-pride.net/database/item/1546/) | 2000 |
-| 1281.png [Rugido Sangrento Glorioso](http://www.divine-pride.net/database/item/1281/) | 2000 |
-| 1282.png [Jamadhar Glorioso](http://www.divine-pride.net/database/item/1282/) | 2000 |
-| 1576.png [Tabula Gloriosa](http://www.divine-pride.net/database/item/1576/) | 2000 |
-| 1577.png [Livro do Apocalipse Glorioso](http://www.divine-pride.net/database/item/1577/) | 2000 |
-| 1743.png [Arco de Caça Glorioso](http://www.divine-pride.net/database/item/1743/) | 2000 |
-| 1826.png [Garra Gloriosa](http://www.divine-pride.net/database/item/1826/) | 2000 |
-| 1827.png [Punho Glorioso](http://www.divine-pride.net/database/item/1827/) | 2000 |
-| 1640.png [Cetro Glorioso](http://www.divine-pride.net/database/item/1640/) | 2000 |
-| 1641.png [Varinha Gloriosa de Cura](http://www.divine-pride.net/database/item/1641/) | 2000 |
-| 2002.png [Cajado Glorioso da Destruição](http://www.divine-pride.net/database/item/2002/) | 2000 |
-| 1927.png [Guitarra Gloriosa](http://www.divine-pride.net/database/item/1927/) | 2000 |
-| 1981.png [Chicote Glorioso](http://www.divine-pride.net/database/item/1981/) | 2000 |
-| 13110.png [Pistola Gloriosa](http://www.divine-pride.net/database/item/13110/) | 2000 |
-| 13176.png [Rifle Glorioso](http://www.divine-pride.net/database/item/13176/) | 2000 |
-| 13177.png [Metralhadora Gatling Gloriosa](http://www.divine-pride.net/database/item/13177/) | 2000 |
-| 13178.png [Espingarda Gloriosa](http://www.divine-pride.net/database/item/13178/) | 2000 |
-| 13179.png [Lança Granadas Glorioso](http://www.divine-pride.net/database/item/13179/) | 2000 |
-| 13307.png [Shuriken Glorioso](http://www.divine-pride.net/database/item/13307/) | 2000 |
+| ![12271.png](https://static.divine-pride.net/images/items/item/12271.png) [Ração Militar A](http://www.divine-pride.net/database/item/12271/) | 5 |
+| ![12272.png](https://static.divine-pride.net/images/items/item/12272.png) [Ração Militar B](http://www.divine-pride.net/database/item/12272/) | 10 |
+| ![12273.png](https://static.divine-pride.net/images/items/item/12273.png) [Ração Militar C](http://www.divine-pride.net/database/item/12273/) | 10 |
+| ![12269.png](https://static.divine-pride.net/images/items/item/12269.png) [Ração Rosa Gostosa](http://www.divine-pride.net/database/item/12269/) | 10 |
+| ![12270.png](https://static.divine-pride.net/images/items/item/12270.png) [Ração Branca Gostosa](http://www.divine-pride.net/database/item/12270/) | 10 |
+| Equipamentos | ![7828.png](https://static.divine-pride.net/images/items/item/7828.png) [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* ![7829.png](https://static.divine-pride.net/images/items/item/7829.png) [Valor](http://www.divine-pride.net/database/item/7829/) |
+| ![2538.png](https://static.divine-pride.net/images/items/item/2538.png) [Manteau do Capitão](http://www.divine-pride.net/database/item/2538/) | 50 |
+| ![2539.png](https://static.divine-pride.net/images/items/item/2539.png) [Manteau do Comandante](http://www.divine-pride.net/database/item/2539/) | 50 |
+| ![2540.png](https://static.divine-pride.net/images/items/item/2540.png) [Manteau do Xerife](http://www.divine-pride.net/database/item/2540/) | 50 |
+| ![2435.png](https://static.divine-pride.net/images/items/item/2435.png) [Grevas de Batalha](http://www.divine-pride.net/database/item/2435/) | 50 |
+| ![2436.png](https://static.divine-pride.net/images/items/item/2436.png) [Botas de Combate](http://www.divine-pride.net/database/item/2436/) | 50 |
+| ![2437.png](https://static.divine-pride.net/images/items/item/2437.png) [Botas de Batalha](http://www.divine-pride.net/database/item/2437/) | 50 |
+| ![2376.png](https://static.divine-pride.net/images/items/item/2376.png) [Armadura de Assalto](http://www.divine-pride.net/database/item/2376/) | 80 |
+| ![2377.png](https://static.divine-pride.net/images/items/item/2377.png) [Armadura de Elite](http://www.divine-pride.net/database/item/2377/) | 80 |
+| ![2378.png](https://static.divine-pride.net/images/items/item/2378.png) [Manto do Mercenário](http://www.divine-pride.net/database/item/2378/) | 80 |
+| ![2379.png](https://static.divine-pride.net/images/items/item/2379.png) [Manto de Batalha do Feiticeiro](http://www.divine-pride.net/database/item/2379/) | 80 |
+| ![2380.png](https://static.divine-pride.net/images/items/item/2380.png) [Manto do Médico](http://www.divine-pride.net/database/item/2380/) | 80 |
+| ![2382.png](https://static.divine-pride.net/images/items/item/2382.png) [Túnica do Artilheiro de Elite](http://www.divine-pride.net/database/item/2382/) | 80 |
+| Acessórios | ![7828.png](https://static.divine-pride.net/images/items/item/7828.png) [Bravura](http://www.divine-pride.net/database/item/7828/) *ou* ![7829.png](https://static.divine-pride.net/images/items/item/7829.png) [Valor](http://www.divine-pride.net/database/item/7829/) |
+| ![2733.png](https://static.divine-pride.net/images/items/item/2733.png) [Estrela de Xerife](http://www.divine-pride.net/database/item/2733/) | 500 |
+| ![2720.png](https://static.divine-pride.net/images/items/item/2720.png) [Medalha de Honra - Espada](http://www.divine-pride.net/database/item/2720/) | 500 |
+| ![2721.png](https://static.divine-pride.net/images/items/item/2721.png) [Medalha de Honra - Lâminas](http://www.divine-pride.net/database/item/2721/) | 500 |
+| ![2722.png](https://static.divine-pride.net/images/items/item/2722.png) [Medalha de Honra - Anjo](http://www.divine-pride.net/database/item/2722/) | 500 |
+| ![2723.png](https://static.divine-pride.net/images/items/item/2723.png) [Medalha de Honra - Orbe](http://www.divine-pride.net/database/item/2723/) | 500 |
+| ![2724.png](https://static.divine-pride.net/images/items/item/2724.png) [Medalha de Honra - Arco](http://www.divine-pride.net/database/item/2724/) | 500 |
+| ![2725.png](https://static.divine-pride.net/images/items/item/2725.png) [Medalha de Honra - Bolsa](http://www.divine-pride.net/database/item/2725/) | 500 |
+| Armas | ![7828.png](https://static.divine-pride.net/images/items/item/7828.png) [Bravura](http://www.divine-pride.net/database/item/7828/) |
+| ![13036.png](https://static.divine-pride.net/images/items/item/13036.png) [Damascus Mercenária A](http://www.divine-pride.net/database/item/13036/) | 100 |
+| ![13411.png](https://static.divine-pride.net/images/items/item/13411.png) [Lâmina Gladiadora B](http://www.divine-pride.net/database/item/13411/) | 100 |
+| ![1425.png](https://static.divine-pride.net/images/items/item/1425.png) [Lança de Assalto](http://www.divine-pride.net/database/item/1425/) | 100 |
+| ![1632.png](https://static.divine-pride.net/images/items/item/1632.png) [Varinha Mágica do Feiticeiro](http://www.divine-pride.net/database/item/1632/) | 100 |
+| ![1634.png](https://static.divine-pride.net/images/items/item/1634.png) [Varinha da Recuperação Forte](http://www.divine-pride.net/database/item/1634/) | 100 |
+| ![1543.png](https://static.divine-pride.net/images/items/item/1543.png) [Maça de Campo de Batalha B](http://www.divine-pride.net/database/item/1543/) | 100 |
+| ![1924.png](https://static.divine-pride.net/images/items/item/1924.png) [Guitarra de Batalha B](http://www.divine-pride.net/database/item/1924/) | 100 |
+| ![1978.png](https://static.divine-pride.net/images/items/item/1978.png) [Serpente de Batalha B](http://www.divine-pride.net/database/item/1978/) | 100 |
+| ![1574.png](https://static.divine-pride.net/images/items/item/1574.png) [Livro de Estratégia de Batalha A](http://www.divine-pride.net/database/item/1574/) | 100 |
+| ![1824.png](https://static.divine-pride.net/images/items/item/1824.png) [Punho de Batalha B](http://www.divine-pride.net/database/item/1824/) | 100 |
+| ![1183.png](https://static.divine-pride.net/images/items/item/1183.png) [Katzbalger de Assalto A](http://www.divine-pride.net/database/item/1183/) | 100 |
+| ![1380.png](https://static.divine-pride.net/images/items/item/1380.png) [Machado de Batalha Insana B](http://www.divine-pride.net/database/item/1380/) | 100 |
+| ![13305.png](https://static.divine-pride.net/images/items/item/13305.png) [Shuriken Huuma Frontal A](http://www.divine-pride.net/database/item/13305/) | 100 |
+| ![1279.png](https://static.divine-pride.net/images/items/item/1279.png) [Katar da Carnificina A](http://www.divine-pride.net/database/item/1279/) | 100 |
+| ![1739.png](https://static.divine-pride.net/images/items/item/1739.png) [Besta de Batalha B](http://www.divine-pride.net/database/item/1739/) | 100 |
+| ![13108.png](https://static.divine-pride.net/images/items/item/13108.png) [Revólver do Soldado](http://www.divine-pride.net/database/item/13108/) | 100 |
+| ![13172.png](https://static.divine-pride.net/images/items/item/13172.png) [Metralhadora Gatling do Soldado](http://www.divine-pride.net/database/item/13172/) | 100 |
+| Armas | ![7829.png](https://static.divine-pride.net/images/items/item/7829.png) [Valor](http://www.divine-pride.net/database/item/7829/) |
+| ![13037.png](https://static.divine-pride.net/images/items/item/13037.png) [Damascus Mercenária B](http://www.divine-pride.net/database/item/13037/) | 100 |
+| ![13410.png](https://static.divine-pride.net/images/items/item/13410.png) [Lâmina Gladiadora A](http://www.divine-pride.net/database/item/13410/) | 100 |
+| ![1633.png](https://static.divine-pride.net/images/items/item/1633.png) [Varinha de Batalha do Feiticeiro](http://www.divine-pride.net/database/item/1633/) | 100 |
+| ![1635.png](https://static.divine-pride.net/images/items/item/1635.png) [Varinha da Recuperação Rápida](http://www.divine-pride.net/database/item/1635/) | 100 |
+| ![1542.png](https://static.divine-pride.net/images/items/item/1542.png) [Maça de Campo de Batalha A](http://www.divine-pride.net/database/item/1542/) | 100 |
+| ![1923.png](https://static.divine-pride.net/images/items/item/1923.png) [Guitarra de Batalha A](http://www.divine-pride.net/database/item/1923/) | 100 |
+| ![1977.png](https://static.divine-pride.net/images/items/item/1977.png) [Serpente de Batalha A](http://www.divine-pride.net/database/item/1977/) | 100 |
+| ![1575.png](https://static.divine-pride.net/images/items/item/1575.png) [Livro de Estratégia de Batalha B](http://www.divine-pride.net/database/item/1575/) | 100 |
+| ![1823.png](https://static.divine-pride.net/images/items/item/1823.png) [Punho de Batalha A](http://www.divine-pride.net/database/item/1823/) | 100 |
+| ![1184.png](https://static.divine-pride.net/images/items/item/1184.png) [Katzbalger de Assalto B](http://www.divine-pride.net/database/item/1184/) | 100 |
+| ![1482.png](https://static.divine-pride.net/images/items/item/1482.png) [Lança de Assalto de Duas Mãos](http://www.divine-pride.net/database/item/1482/) | 100 |
+| ![1379.png](https://static.divine-pride.net/images/items/item/1379.png) [Machado de Batalha Insana A](http://www.divine-pride.net/database/item/1379/) | 100 |
+| ![13306.png](https://static.divine-pride.net/images/items/item/13306.png) [Shuriken Huuma Frontal B](http://www.divine-pride.net/database/item/13306/) | 100 |
+| ![1280.png](https://static.divine-pride.net/images/items/item/1280.png) [Katar da Carnificina B](http://www.divine-pride.net/database/item/1280/) | 100 |
+| ![13171.png](https://static.divine-pride.net/images/items/item/13171.png) [Rifle do Soldado](http://www.divine-pride.net/database/item/13171/) | 100 |
+| ![13173.png](https://static.divine-pride.net/images/items/item/13173.png) [Espingarda do Soldado](http://www.divine-pride.net/database/item/13173/) | 100 |
+| ![13174.png](https://static.divine-pride.net/images/items/item/13174.png) [Lança-Granadas do Soldado](http://www.divine-pride.net/database/item/13174/) | 100 |
+| Equipamentos KVM | ![6376.png](https://static.divine-pride.net/images/items/item/6376.png) [Emblema KVM](http://www.divine-pride.net/database/item/6376/) |
+| ![2394.png](https://static.divine-pride.net/images/items/item/2394.png) [Túnica Gloriosa](http://www.divine-pride.net/database/item/2394/) | 840 |
+| ![2395.png](https://static.divine-pride.net/images/items/item/2395.png) [Túnica Gloriosa Industrializada](http://www.divine-pride.net/database/item/2395/) | 120 |
+| ![2396.png](https://static.divine-pride.net/images/items/item/2396.png) [Túnica Gloriosa Barata](http://www.divine-pride.net/database/item/2396/) | 15 |
+| ![2549.png](https://static.divine-pride.net/images/items/item/2549.png) [Sobrepeliz Gloriosa](http://www.divine-pride.net/database/item/2549/) | 630 |
+| ![2444.png](https://static.divine-pride.net/images/items/item/2444.png) [Sapatos Gloriosos](http://www.divine-pride.net/database/item/2444/) | 580 |
+| ![2445.png](https://static.divine-pride.net/images/items/item/2445.png) [Sapatos Gloriosos Industrializados](http://www.divine-pride.net/database/item/2445/) | 70 |
+| ![2446.png](https://static.divine-pride.net/images/items/item/2446.png) [Sapatos Gloriosos Baratos](http://www.divine-pride.net/database/item/2446/) | 10 |
+| ![2772.png](https://static.divine-pride.net/images/items/item/2772.png) [Anel Glorioso](http://www.divine-pride.net/database/item/2772/) | 1200 |
+| ![2773.png](https://static.divine-pride.net/images/items/item/2773.png) [Anel Glorioso Industrializado](http://www.divine-pride.net/database/item/2773/) | 200 |
+| ![2774.png](https://static.divine-pride.net/images/items/item/2774.png) [Anel Glorioso Barato](http://www.divine-pride.net/database/item/2774/) | 30 |
+| Armas Gloriosas | ![6376.png](https://static.divine-pride.net/images/items/item/6376.png) [Emblema KVM](http://www.divine-pride.net/database/item/6376/) |
+| ![13042.png](https://static.divine-pride.net/images/items/item/13042.png) [Gladius Glorioso](http://www.divine-pride.net/database/item/13042/) | 2000 |
+| ![13416.png](https://static.divine-pride.net/images/items/item/13416.png) [Flamberge Gloriosa](http://www.divine-pride.net/database/item/13416/) | 2000 |
+| ![13417.png](https://static.divine-pride.net/images/items/item/13417.png) [Florete Glorioso](http://www.divine-pride.net/database/item/13417/) | 2000 |
+| ![13418.png](https://static.divine-pride.net/images/items/item/13418.png) [Vingadora Sagrada Gloriosa](http://www.divine-pride.net/database/item/13418/) | 2000 |
+| ![1187.png](https://static.divine-pride.net/images/items/item/1187.png) [Claymore Gloriosa](http://www.divine-pride.net/database/item/1187/) | 2000 |
+| ![1426.png](https://static.divine-pride.net/images/items/item/1426.png) [Lança Gloriosa](http://www.divine-pride.net/database/item/1426/) | 2000 |
+| ![1486.png](https://static.divine-pride.net/images/items/item/1486.png) [Lança de Duas Mãos Gloriosa](http://www.divine-pride.net/database/item/1486/) | 2000 |
+| ![1310.png](https://static.divine-pride.net/images/items/item/1310.png) [Retalhador Glorioso](http://www.divine-pride.net/database/item/1310/) | 2000 |
+| ![1382.png](https://static.divine-pride.net/images/items/item/1382.png) [Machado de Duas Mãos Glorioso](http://www.divine-pride.net/database/item/1382/) | 2000 |
+| ![1546.png](https://static.divine-pride.net/images/items/item/1546.png) [Maça de Guerra Gloriosa](http://www.divine-pride.net/database/item/1546/) | 2000 |
+| ![1281.png](https://static.divine-pride.net/images/items/item/1281.png) [Rugido Sangrento Glorioso](http://www.divine-pride.net/database/item/1281/) | 2000 |
+| ![1282.png](https://static.divine-pride.net/images/items/item/1282.png) [Jamadhar Glorioso](http://www.divine-pride.net/database/item/1282/) | 2000 |
+| ![1576.png](https://static.divine-pride.net/images/items/item/1576.png) [Tabula Gloriosa](http://www.divine-pride.net/database/item/1576/) | 2000 |
+| ![1577.png](https://static.divine-pride.net/images/items/item/1577.png) [Livro do Apocalipse Glorioso](http://www.divine-pride.net/database/item/1577/) | 2000 |
+| ![1743.png](https://static.divine-pride.net/images/items/item/1743.png) [Arco de Caça Glorioso](http://www.divine-pride.net/database/item/1743/) | 2000 |
+| ![1826.png](https://static.divine-pride.net/images/items/item/1826.png) [Garra Gloriosa](http://www.divine-pride.net/database/item/1826/) | 2000 |
+| ![1827.png](https://static.divine-pride.net/images/items/item/1827.png) [Punho Glorioso](http://www.divine-pride.net/database/item/1827/) | 2000 |
+| ![1640.png](https://static.divine-pride.net/images/items/item/1640.png) [Cetro Glorioso](http://www.divine-pride.net/database/item/1640/) | 2000 |
+| ![1641.png](https://static.divine-pride.net/images/items/item/1641.png) [Varinha Gloriosa de Cura](http://www.divine-pride.net/database/item/1641/) | 2000 |
+| ![2002.png](https://static.divine-pride.net/images/items/item/2002.png) [Cajado Glorioso da Destruição](http://www.divine-pride.net/database/item/2002/) | 2000 |
+| ![1927.png](https://static.divine-pride.net/images/items/item/1927.png) [Guitarra Gloriosa](http://www.divine-pride.net/database/item/1927/) | 2000 |
+| ![1981.png](https://static.divine-pride.net/images/items/item/1981.png) [Chicote Glorioso](http://www.divine-pride.net/database/item/1981/) | 2000 |
+| ![13110.png](https://static.divine-pride.net/images/items/item/13110.png) [Pistola Gloriosa](http://www.divine-pride.net/database/item/13110/) | 2000 |
+| ![13176.png](https://static.divine-pride.net/images/items/item/13176.png) [Rifle Glorioso](http://www.divine-pride.net/database/item/13176/) | 2000 |
+| ![13177.png](https://static.divine-pride.net/images/items/item/13177.png) [Metralhadora Gatling Gloriosa](http://www.divine-pride.net/database/item/13177/) | 2000 |
+| ![13178.png](https://static.divine-pride.net/images/items/item/13178.png) [Espingarda Gloriosa](http://www.divine-pride.net/database/item/13178/) | 2000 |
+| ![13179.png](https://static.divine-pride.net/images/items/item/13179.png) [Lança Granadas Glorioso](http://www.divine-pride.net/database/item/13179/) | 2000 |
+| ![13307.png](https://static.divine-pride.net/images/items/item/13307.png) [Shuriken Glorioso](http://www.divine-pride.net/database/item/13307/) | 2000 |
 
 ### Carniceiro
 

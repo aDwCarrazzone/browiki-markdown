@@ -2,15 +2,15 @@
 
 # Caçada Real
 
-| EV ico Caçada Real | |
+| ![EV ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/26/EV_ico.png) Caçada Real | |
 | --- | --- |
-| CasadaReal | |
+| ![CasadaReal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/CasadaReal.jpg) | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Evento |
 | **Caça** | Vários |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 23533.png [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/)  400046.png [(Visual) Maçã Atravessada](http://www.divine-pride.net/database/item/400046/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![23533.png](https://static.divine-pride.net/images/items/item/23533.png) [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/)  ![400046.png](https://static.divine-pride.net/images/items/item/400046.png) [(Visual) Maçã Atravessada](http://www.divine-pride.net/database/item/400046/) |
 
 1. Encontre o Oficial da Realeza espalhado nas principais cidades (prontera 162,76).
 
@@ -44,21 +44,21 @@
 ## Missões diárias
 
 - Cada missão reseta às 4 horas da manhã.
-- Cada missão concede ![23533.png](http://static.divine-pride.net/images/items/item/23533.png) 10 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/)
+- Cada missão concede ![23533.png](https://static.divine-pride.net/images/items/item/23533.png) 10 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/)
 
 | Missão | Objetivo |
 | --- | --- |
-| DQ ico Caçada: Brutos | Caçar 30 [Brutos](../Sem%20categoria/Bruto.md "Bruto") de nv.50+ |
-| DQ ico Caçada: Insetos | Caçar 30 [Insetos](../Sem%20categoria/Inseto.md "Inseto") de nv.50+ |
-| DQ ico Caçada: Peixes | Caçar 30 [Peixes](../Sem%20categoria/Peixe.md "Peixe") de nv.50+ |
-| DQ ico Caçada: Dragões | Caçar 30 [Dragões](../Sem%20categoria/Drag%C3%A3o.md "Dragão") de nv.50+ |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçada: Brutos | Caçar 30 [Brutos](../Sem%20categoria/Bruto.md "Bruto") de nv.50+ |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçada: Insetos | Caçar 30 [Insetos](../Sem%20categoria/Inseto.md "Inseto") de nv.50+ |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçada: Peixes | Caçar 30 [Peixes](../Sem%20categoria/Peixe.md "Peixe") de nv.50+ |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Caçada: Dragões | Caçar 30 [Dragões](../Sem%20categoria/Drag%C3%A3o.md "Dragão") de nv.50+ |
 
 ### Campo de Caça
 
 - Para acessar o campo de caça, você precisa ter completado as missões da Nadezda e clicar no Teleportador atrás da Comandante.
 
   :   ![RoyalHunt05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/RoyalHunt05.png)
-- O campo de caça existe para coletar a ![1000235.png](http://static.divine-pride.net/images/items/item/1000235.png) [Insígnia de Caça](http://www.divine-pride.net/database/item/1000235/)
+- O campo de caça existe para coletar a ![1000235.png](https://static.divine-pride.net/images/items/item/1000235.png) [Insígnia de Caça](http://www.divine-pride.net/database/item/1000235/)
 - Você poderá levar 1 [Insígnia de Caça](http://www.divine-pride.net/database/item/1000235/) para a General Jang convertê-las em 3 [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/).
 - Essa é uma forma de conseguir [Rosa-de-Voto](http://www.divine-pride.net/database/item/23533/) mais rápido enquanto aguarda o reset das missões diárias.
 - O Campo de Caça possui os seguintes monstros:
@@ -91,28 +91,28 @@
 |  |  |  |
 | --- | --- | --- |
 | Prêmio aleatório | | |
-| 300129.png 1 [Autógrafo de Poe](http://www.divine-pride.net/database/item/300129/) (11,91%) |
-| 300127.png 1 [Autógrafo de Wolf](http://www.divine-pride.net/database/item/300127/) (11,83%) |
-| 27203.png 1 [Autógrafo de Spica](http://www.divine-pride.net/database/item/27203/) (8,14%) |
-| 27201.png 1 [Autógrafo de Agnes](http://www.divine-pride.net/database/item/27201/) (8,08%) |
-| 27202.png 1 [Autógrafo de Jurgen](http://www.divine-pride.net/database/item/27202/) (7,99%) |
-| 27200.png 1 [Autógrafo de Nihil](http://www.divine-pride.net/database/item/27200/) (7,98%) |
-| 27332.png 1 [Autógrafo de Skia](http://www.divine-pride.net/database/item/27332/) (7,87%) |
-| 27330.png 1 [Autógrafo de Kronecker](http://www.divine-pride.net/database/item/27330/) (7,82%) |
-| 22206.png 1 [Bota Monárquica](http://www.divine-pride.net/database/item/22206/) (3,08%) |
-| 20945.png 1 [Capa Monárquica](http://www.divine-pride.net/database/item/20945/) (2,98%) |
-| 15390.png 1 [Armadura Monárquica](http://www.divine-pride.net/database/item/15390/) (2,93%) |
-| 23898.png 1 [(Kachua) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) (2,21%) |
-| 28562.png 1 [Anel Real Forte](http://www.divine-pride.net/database/item/28562/) (2,11%) |
-| 12515.png 3 [Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) (2,07%) |
-| 12516.png 3 [Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) (1,99%) |
-| 28563.png 1 [Anel Real Mágico](http://www.divine-pride.net/database/item/28563/) (2,21%) |
-| 15246.png 1 [Armadura Real](http://www.divine-pride.net/database/item/15246/) (1,94%) |
-| 23899.png 1 [(Kachua) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) (1,90%) |
-| 22168.png 1 [Botas Reais](http://www.divine-pride.net/database/item/22168/) (1,80%) |
-| 20902.png 1 [Manto Real](http://www.divine-pride.net/database/item/20902/) (1,75%) |
-| 31389.png 1 [(Visual) Rosas Aladas de Hermes](http://www.divine-pride.net/database/item/31389/) (0,96%) |
-| 31602.png 1 [(Visual) Brasão de Midgard](http://www.divine-pride.net/database/item/31602/) (0,77%) |
+| ![300129.png](https://static.divine-pride.net/images/items/item/300129.png) 1 [Autógrafo de Poe](http://www.divine-pride.net/database/item/300129/) (11,91%) |
+| ![300127.png](https://static.divine-pride.net/images/items/item/300127.png) 1 [Autógrafo de Wolf](http://www.divine-pride.net/database/item/300127/) (11,83%) |
+| ![27203.png](https://static.divine-pride.net/images/items/item/27203.png) 1 [Autógrafo de Spica](http://www.divine-pride.net/database/item/27203/) (8,14%) |
+| ![27201.png](https://static.divine-pride.net/images/items/item/27201.png) 1 [Autógrafo de Agnes](http://www.divine-pride.net/database/item/27201/) (8,08%) |
+| ![27202.png](https://static.divine-pride.net/images/items/item/27202.png) 1 [Autógrafo de Jurgen](http://www.divine-pride.net/database/item/27202/) (7,99%) |
+| ![27200.png](https://static.divine-pride.net/images/items/item/27200.png) 1 [Autógrafo de Nihil](http://www.divine-pride.net/database/item/27200/) (7,98%) |
+| ![27332.png](https://static.divine-pride.net/images/items/item/27332.png) 1 [Autógrafo de Skia](http://www.divine-pride.net/database/item/27332/) (7,87%) |
+| ![27330.png](https://static.divine-pride.net/images/items/item/27330.png) 1 [Autógrafo de Kronecker](http://www.divine-pride.net/database/item/27330/) (7,82%) |
+| ![22206.png](https://static.divine-pride.net/images/items/item/22206.png) 1 [Bota Monárquica](http://www.divine-pride.net/database/item/22206/) (3,08%) |
+| ![20945.png](https://static.divine-pride.net/images/items/item/20945.png) 1 [Capa Monárquica](http://www.divine-pride.net/database/item/20945/) (2,98%) |
+| ![15390.png](https://static.divine-pride.net/images/items/item/15390.png) 1 [Armadura Monárquica](http://www.divine-pride.net/database/item/15390/) (2,93%) |
+| ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 1 [(Kachua) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) (2,21%) |
+| ![28562.png](https://static.divine-pride.net/images/items/item/28562.png) 1 [Anel Real Forte](http://www.divine-pride.net/database/item/28562/) (2,11%) |
+| ![12515.png](https://static.divine-pride.net/images/items/item/12515.png) 3 [Poção Média de Vida](http://www.divine-pride.net/database/item/12515/) (2,07%) |
+| ![12516.png](https://static.divine-pride.net/images/items/item/12516.png) 3 [Poção Menor de Vida](http://www.divine-pride.net/database/item/12516/) (1,99%) |
+| ![28563.png](https://static.divine-pride.net/images/items/item/28563.png) 1 [Anel Real Mágico](http://www.divine-pride.net/database/item/28563/) (2,21%) |
+| ![15246.png](https://static.divine-pride.net/images/items/item/15246.png) 1 [Armadura Real](http://www.divine-pride.net/database/item/15246/) (1,94%) |
+| ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 1 [(Kachua) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) (1,90%) |
+| ![22168.png](https://static.divine-pride.net/images/items/item/22168.png) 1 [Botas Reais](http://www.divine-pride.net/database/item/22168/) (1,80%) |
+| ![20902.png](https://static.divine-pride.net/images/items/item/20902.png) 1 [Manto Real](http://www.divine-pride.net/database/item/20902/) (1,75%) |
+| ![31389.png](https://static.divine-pride.net/images/items/item/31389.png) 1 [(Visual) Rosas Aladas de Hermes](http://www.divine-pride.net/database/item/31389/) (0,96%) |
+| ![31602.png](https://static.divine-pride.net/images/items/item/31602.png) 1 [(Visual) Brasão de Midgard](http://www.divine-pride.net/database/item/31602/) (0,77%) |
 
 ## Autógrafos
 
@@ -122,14 +122,14 @@
 
 | Casa | Autógrafo | | Carta Especial |
 | --- | --- | --- | --- |
-| Heine | 27200.png 100 [Autógrafo de Nihil](http://www.divine-pride.net/database/item/27200/) | → | 27196.png 1 [Carta Nihil](http://www.divine-pride.net/database/item/27196/) |
-| 27330.png 100 [Autógrafo de Kronecker](http://www.divine-pride.net/database/item/27330/) | → | 27331.png 1 [Carta Kronecker](http://www.divine-pride.net/database/item/27331/) |
-| Lugenburg | 27201.png 100 [Autógrafo de Agnes](http://www.divine-pride.net/database/item/27201/) | → | 27197.png 1 [Carta Agnes](http://www.divine-pride.net/database/item/27197/) |
-| 300127.png 100 [Autógrafo de Wolf](http://www.divine-pride.net/database/item/300127/) | → | 300128.png 1 [Carta Wolf](http://www.divine-pride.net/database/item/300128/) |
-| Nerius | 27203.png 100 [Autógrafo de Spica](http://www.divine-pride.net/database/item/27203/) | → | 27199.png 1 [Carta Spica Nerius](http://www.divine-pride.net/database/item/27199/) |
-| 27332.png 100 [Autógrafo de Skia](http://www.divine-pride.net/database/item/27332/) | → | 27333.png 1 [Carta Skia](http://www.divine-pride.net/database/item/27333/) |
-| Wigner | 27202.png 100 [Autógrafo de Jurgen](http://www.divine-pride.net/database/item/27202/) | → | 27198.png 1 [Carta Jurgen](http://www.divine-pride.net/database/item/27198/) |
-| Richard | 300129.png 100 [Autógrafo de Poe](http://www.divine-pride.net/database/item/300129/) | → | 300130.png 1 [Carta Poe](http://www.divine-pride.net/database/item/300130/) |
+| ![Heine](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/63/Heine.png) | ![27200.png](https://static.divine-pride.net/images/items/item/27200.png) 100 [Autógrafo de Nihil](http://www.divine-pride.net/database/item/27200/) | → | ![27196.png](https://static.divine-pride.net/images/items/item/27196.png) 1 [Carta Nihil](http://www.divine-pride.net/database/item/27196/) |
+| ![27330.png](https://static.divine-pride.net/images/items/item/27330.png) 100 [Autógrafo de Kronecker](http://www.divine-pride.net/database/item/27330/) | → | ![27331.png](https://static.divine-pride.net/images/items/item/27331.png) 1 [Carta Kronecker](http://www.divine-pride.net/database/item/27331/) |
+| ![Lugenburg](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Lugenburg.png) | ![27201.png](https://static.divine-pride.net/images/items/item/27201.png) 100 [Autógrafo de Agnes](http://www.divine-pride.net/database/item/27201/) | → | ![27197.png](https://static.divine-pride.net/images/items/item/27197.png) 1 [Carta Agnes](http://www.divine-pride.net/database/item/27197/) |
+| ![300127.png](https://static.divine-pride.net/images/items/item/300127.png) 100 [Autógrafo de Wolf](http://www.divine-pride.net/database/item/300127/) | → | ![300128.png](https://static.divine-pride.net/images/items/item/300128.png) 1 [Carta Wolf](http://www.divine-pride.net/database/item/300128/) |
+| ![Nerius](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Nerius.png) | ![27203.png](https://static.divine-pride.net/images/items/item/27203.png) 100 [Autógrafo de Spica](http://www.divine-pride.net/database/item/27203/) | → | ![27199.png](https://static.divine-pride.net/images/items/item/27199.png) 1 [Carta Spica Nerius](http://www.divine-pride.net/database/item/27199/) |
+| ![27332.png](https://static.divine-pride.net/images/items/item/27332.png) 100 [Autógrafo de Skia](http://www.divine-pride.net/database/item/27332/) | → | ![27333.png](https://static.divine-pride.net/images/items/item/27333.png) 1 [Carta Skia](http://www.divine-pride.net/database/item/27333/) |
+| ![Wigner](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Wigner.png) | ![27202.png](https://static.divine-pride.net/images/items/item/27202.png) 100 [Autógrafo de Jurgen](http://www.divine-pride.net/database/item/27202/) | → | ![27198.png](https://static.divine-pride.net/images/items/item/27198.png) 1 [Carta Jurgen](http://www.divine-pride.net/database/item/27198/) |
+| ![Richard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Richard.png) | ![300129.png](https://static.divine-pride.net/images/items/item/300129.png) 100 [Autógrafo de Poe](http://www.divine-pride.net/database/item/300129/) | → | ![300130.png](https://static.divine-pride.net/images/items/item/300130.png) 1 [Carta Poe](http://www.divine-pride.net/database/item/300130/) |
 
 | *Calendário de [Eventos](../Quest/Quests.md "Quests") Temporários* | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- |

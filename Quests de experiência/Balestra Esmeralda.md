@@ -2,13 +2,13 @@
 
 # Balestra Esmeralda
 
-| NQ ico Balestra Esmeralda | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Balestra Esmeralda | |
 | --- | --- |
 | A Frente de Libertação de Rune-Midgard é uma organização criminosa que visa a destruição da coroa e perturbação da paz no Reino. Seu objetivo é pará-los imediatamente antes que seja tarde demais. Essa missão é exclusiva de quem participa dos [Clãs Reais](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Cl%C3%A3s%20Reais.md "Clãs Reais"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7325.png 35 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/) 7317.png 77 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  7116.png 20 [Garra de Harpia](http://www.divine-pride.net/database/item/7116/)  999.png 1 [Aço](http://www.divine-pride.net/database/item/999/)  630.png 1 [Musgo Encharcado](http://www.divine-pride.net/database/item/630/)  7317.png 3 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7317/)  7322.png 35 [Gás Tóxico](http://www.divine-pride.net/database/item/7322/)  7317.png 20 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  1061.png 1 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)  615.png 2 [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/)  7319.png 33 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7325.png](https://static.divine-pride.net/images/items/item/7325.png) 35 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/) ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 77 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  ![7116.png](https://static.divine-pride.net/images/items/item/7116.png) 20 [Garra de Harpia](http://www.divine-pride.net/database/item/7116/)  ![999.png](https://static.divine-pride.net/images/items/item/999.png) 1 [Aço](http://www.divine-pride.net/database/item/999/)  ![630.png](https://static.divine-pride.net/images/items/item/630.png) 1 [Musgo Encharcado](http://www.divine-pride.net/database/item/630/)  ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 3 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7317/)  ![7322.png](https://static.divine-pride.net/images/items/item/7322.png) 35 [Gás Tóxico](http://www.divine-pride.net/database/item/7322/)  ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 20 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)  ![1061.png](https://static.divine-pride.net/images/items/item/1061.png) 1 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)  ![615.png](https://static.divine-pride.net/images/items/item/615.png) 2 [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/)  ![7319.png](https://static.divine-pride.net/images/items/item/7319.png) 33 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) |
 | **Caça** | [Heydric](http://www.divine-pride.net/database/monster/3294/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver abaixo |
@@ -21,24 +21,24 @@
 3. Você receberá 3 itens para entregar aos [NPCs](../Sem%20categoria/NPC.md "NPC") abaixo.
 4. Entregue o [Documento Suspeito](http://www.divine-pride.net/database/item/6851/) para Fulano (yuno\_fild07 247,195)
    - Ele pede que você entregue os seguintes itens:
-     - ![7325.png](http://static.divine-pride.net/images/items/item/7325.png) 35 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/)
-     - ![7317.png](http://static.divine-pride.net/images/items/item/7317.png) 77 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)
-     - ![7116.png](http://static.divine-pride.net/images/items/item/7116.png) 20 [Garra de Harpia](http://www.divine-pride.net/database/item/7116/)
-     - ![999.png](http://static.divine-pride.net/images/items/item/999.png) 1 [Aço](http://www.divine-pride.net/database/item/999/)
+     - ![7325.png](https://static.divine-pride.net/images/items/item/7325.png) 35 [Tubo Flexível](http://www.divine-pride.net/database/item/7325/)
+     - ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 77 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)
+     - ![7116.png](https://static.divine-pride.net/images/items/item/7116.png) 20 [Garra de Harpia](http://www.divine-pride.net/database/item/7116/)
+     - ![999.png](https://static.divine-pride.net/images/items/item/999.png) 1 [Aço](http://www.divine-pride.net/database/item/999/)
    - Após a entrega, você receberá [Caixa Suspeita](http://www.divine-pride.net/database/item/6850/).
 5. Entregue a [Caixa Suspeita](http://www.divine-pride.net/database/item/6850/) e a [Caixa Levinha](http://www.divine-pride.net/database/item/6848/) para Slider (ein\_in01 100,135)
    - Ele pede que você entregue os seguintes itens:
-     - ![630.png](http://static.divine-pride.net/images/items/item/630.png) 1 [Musgo Encharcado](http://www.divine-pride.net/database/item/630/)
-     - ![7317.png](http://static.divine-pride.net/images/items/item/7317.png) 3 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7317/)
-     - ![7322.png](http://static.divine-pride.net/images/items/item/7322.png) 35 [Gás Tóxico](http://www.divine-pride.net/database/item/7322/)
-     - ![7317.png](http://static.divine-pride.net/images/items/item/7317.png) 20 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)
+     - ![630.png](https://static.divine-pride.net/images/items/item/630.png) 1 [Musgo Encharcado](http://www.divine-pride.net/database/item/630/)
+     - ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 3 [Líquido Fluorescente](http://www.divine-pride.net/database/item/7317/)
+     - ![7322.png](https://static.divine-pride.net/images/items/item/7322.png) 35 [Gás Tóxico](http://www.divine-pride.net/database/item/7322/)
+     - ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 20 [Parafuso Enferrujado](http://www.divine-pride.net/database/item/7317/)
    - Após a entrega, você receberá mais uma [Caixa Suspeita](http://www.divine-pride.net/database/item/6850/).
 6. Entregue a [Caixa Suspeita](http://www.divine-pride.net/database/item/6850/) para Link (lhz\_in03 258,35)
    - Ele pede que você entregue os seguintes itens:
-     - ![7119.png](http://static.divine-pride.net/images/items/item/7119.png) 99 [Bactérias](http://www.divine-pride.net/database/item/7119/)
-     - ![1061.png](http://static.divine-pride.net/images/items/item/1061.png) 1 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)
-     - ![615.png](http://static.divine-pride.net/images/items/item/615.png) 2 [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/)
-     - ![7319.png](http://static.divine-pride.net/images/items/item/7319.png) 33 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) (Apenas nível 120 ou mais)
+     - ![7119.png](https://static.divine-pride.net/images/items/item/7119.png) 99 [Bactérias](http://www.divine-pride.net/database/item/7119/)
+     - ![1061.png](https://static.divine-pride.net/images/items/item/1061.png) 1 [Areia Estelar de Bruxa](http://www.divine-pride.net/database/item/1061/)
+     - ![615.png](https://static.divine-pride.net/images/items/item/615.png) 2 [Martelo de Oridecon](http://www.divine-pride.net/database/item/615/)
+     - ![7319.png](https://static.divine-pride.net/images/items/item/7319.png) 33 [Placa de Ferro Usada](http://www.divine-pride.net/database/item/7319/) (Apenas nível 120 ou mais)
    - Após a entrega, você receberá mais uma [Caixa Suspeita](http://www.divine-pride.net/database/item/6850/).
 7. Entregue a [6850](http://www.divine-pride.net/database/item/6850/) e o [Pacotinho](http://www.divine-pride.net/database/item/6847/) para o Homem Comum (lhz\_in03 258,35)
 8. Após uma breve ameaça, retorne ao Líder do Clã Balestra Esmeralda (prontera 204,259)
@@ -64,23 +64,23 @@
 
 | Missão | Nv. | Objetivo | Observação |
 | --- | --- | --- | --- |
-| DQ ico Escritor Renomado | 119 ou menos | - Coletar 6856.png 111 [Manuscrito Feito de Pus](http://www.divine-pride.net/database/item/6856/) | - Derrubado por [Ursinhos](http://www.divine-pride.net/database/monster/1002/) |
-| DQ ico Escritor Renomado | 120 ou mais | - Coletar 6856.png 111 [Manuscrito Feito de Pus](http://www.divine-pride.net/database/item/6856/) | - Derrubado por [Lichtern Laguz](http://www.divine-pride.net/database/monster/2367/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Escritor Renomado | 119 ou menos | - Coletar ![6856.png](https://static.divine-pride.net/images/items/item/6856.png) 111 [Manuscrito Feito de Pus](http://www.divine-pride.net/database/item/6856/) | - Derrubado por [Ursinhos](http://www.divine-pride.net/database/monster/1002/) |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Escritor Renomado | 120 ou mais | - Coletar ![6856.png](https://static.divine-pride.net/images/items/item/6856.png) 111 [Manuscrito Feito de Pus](http://www.divine-pride.net/database/item/6856/) | - Derrubado por [Lichtern Laguz](http://www.divine-pride.net/database/monster/2367/) |
 
 ### Recompensas
 
 | Recibos entregues | Nv. de base | [EXP](../Sem%20categoria/EXP.md "EXP") base | Recibos ganhos |
 | --- | --- | --- | --- |
-| Entre 0 a 49 | 1 a 69 | 11.000 | 6849.png 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 0 a 49 | 1 a 69 | 11.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 1 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 540.000 |
 | 111 ou mais | 1.714.000 |
-| Entre 50 a 149 | 1 a 69 | 15.000 | 6849.png 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 50 a 149 | 1 a 69 | 15.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 2 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 702.000 |
 | 111 ou mais | 2.228.200 |
-| Entre 150 a 199 | 1 a 69 | 20.000 | 6849.png 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Entre 150 a 199 | 1 a 69 | 20.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 3 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 918.000 |
 | 111 ou mais | 3.180.200 |
-| Acima de 200 | 1 a 69 | 23.000 | 6849.png 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
+| Acima de 200 | 1 a 69 | 23.000 | ![6849.png](https://static.divine-pride.net/images/items/item/6849.png) 4 [Recibo de Conclusão](http://www.divine-pride.net/database/item/6849/) |
 | 70 a 110 | 1.080.000 |
 | 111 ou mais | 3.400.000 |
 

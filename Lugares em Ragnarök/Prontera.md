@@ -22,18 +22,18 @@ Ao leste, [Monges](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20a
 
 |  |  |  |
 | --- | --- | --- |
-| Prontera map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prontera 146,89) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (prontera 152,191) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prt\_in 56,140) |
-| Map pocao | Loja de Ferramentas | (prt\_in 126,76) |
-| Map faca | Loja de Munições | (prt\_in 165,140) |
-| Map bigorna | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (prt\_in 63,60) |
-| Map bandeira | Cavalaria | (prt\_in 69,107) |
-| Map rosa | [Biblioteca](../Inst%C3%A2ncias/Livros%20Fant%C3%A1sticos.md "Livros Fantásticos") | (prontera 120,265) |
-| Map lantern | Catedral | (prt\_church 22,179) |
-| Map barbea | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (prt\_in 243,168) |
+| ![Prontera map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/Prontera_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prontera 146,89) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (prontera 152,191) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prt\_in 56,140) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (prt\_in 126,76) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (prt\_in 165,140) |
+| ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png) | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (prt\_in 63,60) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Cavalaria | (prt\_in 69,107) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | [Biblioteca](../Inst%C3%A2ncias/Livros%20Fant%C3%A1sticos.md "Livros Fantásticos") | (prontera 120,265) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Catedral | (prt\_church 22,179) |
+| ![Map barbea](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Map_barbea.png) | [Estilista](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Estilista.md "Estilista") | (prt\_in 243,168) |
 
 |  |  |  |
 | --- | --- | --- |
@@ -119,20 +119,20 @@ Salão do Palácio
 
 | Consumíveis | Emblemas |
 | --- | --- |
-| |  |  | | --- | --- | | 22899.png | [Mapa da Cidade](http://www.divine-pride.net/database/item/22899/) | | 1 |
-| |  |  | | --- | --- | | 22848.png | [Chaves da Prisão](http://www.divine-pride.net/database/item/22848/) | | 1 |
-| |  |  | | --- | --- | | 22847.png | [Passaporte para Prontera](http://www.divine-pride.net/database/item/22847/) | | 1 |
-| |  |  | | --- | --- | | 11600.png | [Poção Sagrada](http://www.divine-pride.net/database/item/11600/) | | 6 |
+| |  |  | | --- | --- | | ![22899.png](https://static.divine-pride.net/images/items/item/22899.png) | [Mapa da Cidade](http://www.divine-pride.net/database/item/22899/) | | 1 |
+| |  |  | | --- | --- | | ![22848.png](https://static.divine-pride.net/images/items/item/22848.png) | [Chaves da Prisão](http://www.divine-pride.net/database/item/22848/) | | 1 |
+| |  |  | | --- | --- | | ![22847.png](https://static.divine-pride.net/images/items/item/22847.png) | [Passaporte para Prontera](http://www.divine-pride.net/database/item/22847/) | | 1 |
+| |  |  | | --- | --- | | ![11600.png](https://static.divine-pride.net/images/items/item/11600.png) | [Poção Sagrada](http://www.divine-pride.net/database/item/11600/) | | 6 |
 | Equipamentos | Emblemas |
-| |  |  | | --- | --- | | 28354.png | [Mapa da Capital](http://www.divine-pride.net/database/item/28354/) | | 210 |
-| |  |  | | --- | --- | | 28356.png | [Brasão de Prontera](http://www.divine-pride.net/database/item/28356/) | | 210 |
-| |  |  | | --- | --- | | 28355.png | [Água Sagrada](http://www.divine-pride.net/database/item/28355/) | | 560 |
-| |  |  | | --- | --- | | 28900.png | [Égide da Realeza](http://www.divine-pride.net/database/item/28900/) | | 560 |
-| |  |  | | --- | --- | | 15146.png | [Vestimenta Arrogante](http://www.divine-pride.net/database/item/15146/) | | 840 |
-| |  |  | | --- | --- | | 15147.png | [Vestimenta Exuberante](http://www.divine-pride.net/database/item/15147/) | | 840 |
+| |  |  | | --- | --- | | ![28354.png](https://static.divine-pride.net/images/items/item/28354.png) | [Mapa da Capital](http://www.divine-pride.net/database/item/28354/) | | 210 |
+| |  |  | | --- | --- | | ![28356.png](https://static.divine-pride.net/images/items/item/28356.png) | [Brasão de Prontera](http://www.divine-pride.net/database/item/28356/) | | 210 |
+| |  |  | | --- | --- | | ![28355.png](https://static.divine-pride.net/images/items/item/28355.png) | [Água Sagrada](http://www.divine-pride.net/database/item/28355/) | | 560 |
+| |  |  | | --- | --- | | ![28900.png](https://static.divine-pride.net/images/items/item/28900.png) | [Égide da Realeza](http://www.divine-pride.net/database/item/28900/) | | 560 |
+| |  |  | | --- | --- | | ![15146.png](https://static.divine-pride.net/images/items/item/15146.png) | [Vestimenta Arrogante](http://www.divine-pride.net/database/item/15146/) | | 840 |
+| |  |  | | --- | --- | | ![15147.png](https://static.divine-pride.net/images/items/item/15147.png) | [Vestimenta Exuberante](http://www.divine-pride.net/database/item/15147/) | | 840 |
 | Visuais | Emblemas |
-| |  |  | | --- | --- | | 20246.png | [Ilusões do Tempo](http://www.divine-pride.net/database/item/20246/) | | 1.540 |
-| |  |  | | --- | --- | | 20247.png | [Mão Diabólica](http://www.divine-pride.net/database/item/20247/) | | 1.540 |
+| |  |  | | --- | --- | | ![20246.png](https://static.divine-pride.net/images/items/item/20246.png) | [Ilusões do Tempo](http://www.divine-pride.net/database/item/20246/) | | 1.540 |
+| |  |  | | --- | --- | | ![20247.png](https://static.divine-pride.net/images/items/item/20247.png) | [Mão Diabólica](http://www.divine-pride.net/database/item/20247/) | | 1.540 |
 
 ### Encantamentos
 
@@ -154,9 +154,9 @@ Salão do Palácio
 
 | Equipamento | Encantos |
 | --- | --- |
-| 28356.png [Brasão de Prontera](http://www.divine-pride.net/database/item/28356/) | - 4700.png [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+5](http://www.divine-pride.net/database/item/4704/) - 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+5](http://www.divine-pride.net/database/item/4734/) - 4740.png [VIT +1](http://www.divine-pride.net/database/item/4740/) a [+5](http://www.divine-pride.net/database/item/4744/) - 4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) a [+5](http://www.divine-pride.net/database/item/4714/) - 4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) a [+5](http://www.divine-pride.net/database/item/4724/) - 4750.png [SOR +1](http://www.divine-pride.net/database/item/4750/) a [+5](http://www.divine-pride.net/database/item/4754/) |
-| 15146.png [Vestimenta Arrogante](http://www.divine-pride.net/database/item/15146/) | - 4997.png [Runa da Lábia 1](http://www.divine-pride.net/database/item/4997/), [2](http://www.divine-pride.net/database/item/4998/) ou [3](http://www.divine-pride.net/database/item/4999/) - 29003.png [Runa da Visão 1](http://www.divine-pride.net/database/item/29003/), [2](http://www.divine-pride.net/database/item/29004/) ou [3](http://www.divine-pride.net/database/item/29005/) - 29000.png [Runa da Magia 1](http://www.divine-pride.net/database/item/29000/), [2](http://www.divine-pride.net/database/item/29001/) ou [3](http://www.divine-pride.net/database/item/29002/) - 29006.png [Runa do Acaso 1](http://www.divine-pride.net/database/item/29006/), [2](http://www.divine-pride.net/database/item/29007/) ou [3](http://www.divine-pride.net/database/item/29008/) - 4994.png [Runa do Poder 1](http://www.divine-pride.net/database/item/4994/), [2](http://www.divine-pride.net/database/item/4995/) ou [3](http://www.divine-pride.net/database/item/4996/) - 29009.png [Runa da Saúde 1](http://www.divine-pride.net/database/item/29009/), [2](http://www.divine-pride.net/database/item/29010/) ou [3](http://www.divine-pride.net/database/item/29011/) |
-| 15147.png [Vestimenta Exuberante](http://www.divine-pride.net/database/item/15147/) |
+| ![28356.png](https://static.divine-pride.net/images/items/item/28356.png) [Brasão de Prontera](http://www.divine-pride.net/database/item/28356/) | - ![4700.png](https://static.divine-pride.net/images/items/item/4700.png) [FOR +1](http://www.divine-pride.net/database/item/4700/) a [+5](http://www.divine-pride.net/database/item/4704/) - ![4730.png](https://static.divine-pride.net/images/items/item/4730.png) [AGI +1](http://www.divine-pride.net/database/item/4730/) a [+5](http://www.divine-pride.net/database/item/4734/) - ![4740.png](https://static.divine-pride.net/images/items/item/4740.png) [VIT +1](http://www.divine-pride.net/database/item/4740/) a [+5](http://www.divine-pride.net/database/item/4744/) - ![4710.png](https://static.divine-pride.net/images/items/item/4710.png) [INT +1](http://www.divine-pride.net/database/item/4710/) a [+5](http://www.divine-pride.net/database/item/4714/) - ![4720.png](https://static.divine-pride.net/images/items/item/4720.png) [DES +1](http://www.divine-pride.net/database/item/4720/) a [+5](http://www.divine-pride.net/database/item/4724/) - ![4750.png](https://static.divine-pride.net/images/items/item/4750.png) [SOR +1](http://www.divine-pride.net/database/item/4750/) a [+5](http://www.divine-pride.net/database/item/4754/) |
+| ![15146.png](https://static.divine-pride.net/images/items/item/15146.png) [Vestimenta Arrogante](http://www.divine-pride.net/database/item/15146/) | - ![4997.png](https://static.divine-pride.net/images/items/item/4997.png) [Runa da Lábia 1](http://www.divine-pride.net/database/item/4997/), [2](http://www.divine-pride.net/database/item/4998/) ou [3](http://www.divine-pride.net/database/item/4999/) - ![29003.png](https://static.divine-pride.net/images/items/item/29003.png) [Runa da Visão 1](http://www.divine-pride.net/database/item/29003/), [2](http://www.divine-pride.net/database/item/29004/) ou [3](http://www.divine-pride.net/database/item/29005/) - ![29000.png](https://static.divine-pride.net/images/items/item/29000.png) [Runa da Magia 1](http://www.divine-pride.net/database/item/29000/), [2](http://www.divine-pride.net/database/item/29001/) ou [3](http://www.divine-pride.net/database/item/29002/) - ![29006.png](https://static.divine-pride.net/images/items/item/29006.png) [Runa do Acaso 1](http://www.divine-pride.net/database/item/29006/), [2](http://www.divine-pride.net/database/item/29007/) ou [3](http://www.divine-pride.net/database/item/29008/) - ![4994.png](https://static.divine-pride.net/images/items/item/4994.png) [Runa do Poder 1](http://www.divine-pride.net/database/item/4994/), [2](http://www.divine-pride.net/database/item/4995/) ou [3](http://www.divine-pride.net/database/item/4996/) - ![29009.png](https://static.divine-pride.net/images/items/item/29009.png) [Runa da Saúde 1](http://www.divine-pride.net/database/item/29009/), [2](http://www.divine-pride.net/database/item/29010/) ou [3](http://www.divine-pride.net/database/item/29011/) |
+| ![15147.png](https://static.divine-pride.net/images/items/item/15147.png) [Vestimenta Exuberante](http://www.divine-pride.net/database/item/15147/) |
 
 ### Caixa Misteriosa
 

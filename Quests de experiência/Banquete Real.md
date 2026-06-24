@@ -2,7 +2,7 @@
 
 # Banquete Real
 
-| EP ico Banquete Real | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Banquete Real | |
 | --- | --- |
 | Após a batalha contra Satã Morroc ter finalmente chegado ao fim, as famílias reais aproveitaram este momento de paz para anunciar o próximo sucessor da coroa Terra Gloria. | |
 | Requisitos mínimos | |
@@ -12,7 +12,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 700.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 30 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 30 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera acesso a:  - [Ritual de Coroação](Ritual%20de%20Coroa%C3%A7%C3%A3o.md "Ritual de Coroação") - [Emergência Culinária](Emerg%C3%AAncia%20Culin%C3%A1ria.md "Emergência Culinária") - [Valor Sentimental](Valor%20Sentimental.md "Valor Sentimental") - [As Famílias Reais](As%20Fam%C3%ADlias%20Reais.md "As Famílias Reais") - [Conflito Familiar](Conflito%20Familiar.md "Conflito Familiar") - [Patrulha Prisional](Patrulha%20Prisional.md "Patrulha Prisional") - **[Terra Gloria](Terra%20Gloria.md "Terra Gloria")** |
 
 ![MapaChave BanqueteReal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/MapaChave_BanqueteReal.png)
@@ -127,6 +127,6 @@
 
 ![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
-| Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
+| Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | | Ep. 18 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | Banquete Real | SetaVermelha | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | SetaVermelha | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | SetaVermelha | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
+| Banquete Real | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilusión](Ilusi%C3%B3n.md "Ilusión") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caminho da Oração](Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |

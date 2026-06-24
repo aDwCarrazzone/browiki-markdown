@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Disparada Disparada** | |
-| Disparada | |
+| **![Disparada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6a/Disparada.png) Disparada** | |
+| ![Disparada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c7/Disparada.gif) | |
 | **Emergency Move** | |
 | **ID** | GD\_EMERGENCY\_MOVE (10019) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Área** | 31x31 células |
 | **Pré-requisitos** | |
-| [Ferimentos de Glória](../Passiva/Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") [Ferimentos de Glória](../Passiva/Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") Nv. 1  [Grande Liderança](../Passiva/Grande%20Lideran%C3%A7a.md "Grande Liderança") [Grande Liderança](../Passiva/Grande%20Lideran%C3%A7a.md "Grande Liderança") Nv. 1  [Olhar Apurado](../Passiva/Olhar%20Apurado.md "Olhar Apurado") [Olhar Apurado](../Passiva/Olhar%20Apurado.md "Olhar Apurado") Nv. 1  [Coração Frio](../Passiva/Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") [Coração Frio](../Passiva/Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") Nv. 1 | |
+| [![Ferimentos de Glória](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Ferimentos_de_Gl%C3%B3ria.png)](../Passiva/Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") [Ferimentos de Glória](../Passiva/Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") Nv. 1  [![Grande Liderança](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Grande_Lideran%C3%A7a.png)](../Passiva/Grande%20Lideran%C3%A7a.md "Grande Liderança") [Grande Liderança](../Passiva/Grande%20Lideran%C3%A7a.md "Grande Liderança") Nv. 1  [![Olhar Apurado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Olhar_Apurado.png)](../Passiva/Olhar%20Apurado.md "Olhar Apurado") [Olhar Apurado](../Passiva/Olhar%20Apurado.md "Olhar Apurado") Nv. 1  [![Coração Frio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Cora%C3%A7%C3%A3o_Frio.png)](../Passiva/Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") [Coração Frio](../Passiva/Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") Nv. 1 | |
 
 Acelera o movimento de todos os membros do clã na tela do líder por 10 segundos.
 

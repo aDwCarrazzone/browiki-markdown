@@ -2,19 +2,19 @@
 
 # A Empresa
 
-| EP ico A Empresa | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) A Empresa | |
 | --- | --- |
 | Os experimentos estranhos da Rekenber vitimaram tantas pessoas que seus espíritos ainda vagam inquietos pela cidade, procurando por aventureiros capazes de ajudá-los a transmitir suas mensagens. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 7345.png 1 [Algema de Identificação](http://www.divine-pride.net/database/item/7345/)  746.png 1 [Bolinha de Gude](http://www.divine-pride.net/database/item/746/)  744.png 1 [Buquê](http://www.divine-pride.net/database/item/744/)  523.png 5 [Água Benta](http://www.divine-pride.net/database/item/523/) |
-| **Equipado** | 2241.png 1 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/)  2243.png 1 [Quatro Olhos](http://www.divine-pride.net/database/item/2243/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7345.png](https://static.divine-pride.net/images/items/item/7345.png) 1 [Algema de Identificação](http://www.divine-pride.net/database/item/7345/)  ![746.png](https://static.divine-pride.net/images/items/item/746.png) 1 [Bolinha de Gude](http://www.divine-pride.net/database/item/746/)  ![744.png](https://static.divine-pride.net/images/items/item/744.png) 1 [Buquê](http://www.divine-pride.net/database/item/744/)  ![523.png](https://static.divine-pride.net/images/items/item/523.png) 5 [Água Benta](http://www.divine-pride.net/database/item/523/) |
+| **Equipado** | ![2241.png](https://static.divine-pride.net/images/items/item/2241.png) 1 [Bigode Grisalho](http://www.divine-pride.net/database/item/2241/)  ![2243.png](https://static.divine-pride.net/images/items/item/2243.png) 1 [Quatro Olhos](http://www.divine-pride.net/database/item/2243/) |
 | **Quests anteriores** | [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 90.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  12016.png 10 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  ![12016.png](https://static.divine-pride.net/images/items/item/12016.png) 10 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) |
 
 1. Acesse o [Laboratório de Somatologia](http://www.divine-pride.net/database/map/lhz_dun02/) pelo canal de esgoto, na favela (lighthalzen 312,303).
 
@@ -109,8 +109,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | SetaVermelha | [A Rebelião](A%20Rebeli%C3%A3o.md "A Rebelião") | | |
-| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | SetaVermelha | [Propriedade Maldita](Propriedade%20Maldita.md "Propriedade Maldita") | SetaVermelha | [O Presidente](O%20Presidente.md "O Presidente") | SetaVermelha |
-| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | SetaVermelha | A Empresa | SetaVermelha |
-| SetaVermelha | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | SetaVermelha | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Rebelião](A%20Rebeli%C3%A3o.md "A Rebelião") | | |
+| [Fábrica de Einbroch](F%C3%A1brica%20de%20Einbroch.md "Fábrica de Einbroch") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Propriedade Maldita](Propriedade%20Maldita.md "Propriedade Maldita") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| [Infiltrando na Rekenber](../Quest/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | A Empresa | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Rumores Sérios](../Quests%20repet%C3%ADveis/Rumores%20S%C3%A9rios.md "Rumores Sérios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](../Quest/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
 | [Contador de Histórias](../Quest/Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |

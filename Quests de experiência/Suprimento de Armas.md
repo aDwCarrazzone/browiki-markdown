@@ -2,7 +2,7 @@
 
 # Suprimento de Armas
 
-| NQ ico Suprimento de Armas | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Suprimento de Armas | |
 | --- | --- |
 | Proteja suprimentos misteriosos da Corporação Rekenber que estão sendo atacados por pessoas estranhas no Aeroplano! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **Caça** | [Brutamontes](http://www.divine-pride.net/database/monster/1592/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 140.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 504.png 1 [Poção Branca](http://www.divine-pride.net/database/item/504/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![504.png](https://static.divine-pride.net/images/items/item/504.png) 1 [Poção Branca](http://www.divine-pride.net/database/item/504/) |
 
 1. Encontre o Velho (lighthalzen 141,162)
 

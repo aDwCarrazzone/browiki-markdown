@@ -2,16 +2,16 @@
 
 # Vaquinha Bubu
 
-| DQ ico Vaquinha Bubu | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Vaquinha Bubu | |
 | --- | --- |
 | Um animal extremamente sentimental precisa ser ordenhado para a felicidade de seu dono! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 1110.png 1 [Florete](http://www.divine-pride.net/database/item/1110/) [2]   645.png 3 [Poções da Concentração](http://www.divine-pride.net/database/item/645/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1110.png](https://static.divine-pride.net/images/items/item/1110.png) 1 [Florete](http://www.divine-pride.net/database/item/1110/) [2]   ![645.png](https://static.divine-pride.net/images/items/item/645.png) 3 [Poções da Concentração](http://www.divine-pride.net/database/item/645/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12063.png 3 [Saladas de Frutas](http://www.divine-pride.net/database/item/12063/)   ---  Premiação Repetível: 519.png 5 [Leites](http://www.divine-pride.net/database/item/519/) ou  518.png 4 [Méis](http://www.divine-pride.net/database/item/518/) ou  502.png 5 [Poções Laranja](http://www.divine-pride.net/database/item/502/) ou  503.png 5 [Poções Amarelas](http://www.divine-pride.net/database/item/503/) ou  12111.png 1 [Trouxa de Comida](http://www.divine-pride.net/database/item/12111/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12063.png](https://static.divine-pride.net/images/items/item/12063.png) 3 [Saladas de Frutas](http://www.divine-pride.net/database/item/12063/)   ---  Premiação Repetível: ![519.png](https://static.divine-pride.net/images/items/item/519.png) 5 [Leites](http://www.divine-pride.net/database/item/519/) ou  ![518.png](https://static.divine-pride.net/images/items/item/518.png) 4 [Méis](http://www.divine-pride.net/database/item/518/) ou  ![502.png](https://static.divine-pride.net/images/items/item/502.png) 5 [Poções Laranja](http://www.divine-pride.net/database/item/502/) ou  ![503.png](https://static.divine-pride.net/images/items/item/503.png) 5 [Poções Amarelas](http://www.divine-pride.net/database/item/503/) ou  ![12111.png](https://static.divine-pride.net/images/items/item/12111.png) 1 [Trouxa de Comida](http://www.divine-pride.net/database/item/12111/) |
 
 1. Fale com Kurupe (hugel 57,104)
 

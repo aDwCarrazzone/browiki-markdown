@@ -2,16 +2,16 @@
 
 # Selo de Mjolnir
 
-| NQ ico Selo de Mjolnir | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Selo de Mjolnir | |
 | --- | --- |
 | Os anões percorrem Midgard em busca de corajosos aventureiros para enfrentar seus desafios. Você é capaz de derrotá-los? --------- ATENÇÃO! Se você não conseguir iniciar ou continuar esta missão, significa que o Selo de Mjolnir já foi liberado. Consulte o status dos [Selos Divinos](Selos%20Divinos.md "Selos Divinos") para mais informações. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1005.png 1 [Martelo de Ferreiro](http://www.divine-pride.net/database/item/1005/) 984.png 1 [Oridecon](http://www.divine-pride.net/database/item/984/)  501.png 11 [Poções Vermelhas](http://www.divine-pride.net/database/item/501/)  757.png 50 [Minérios de Elunium](http://www.divine-pride.net/database/item/757/)  756.png 50 [Minérios de Oridecon](http://www.divine-pride.net/database/item/756/) |
-| **Equipado** | 1232.png 1 [+4 arma de nível 4](http://www.divine-pride.net/database/item/1232/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1005.png](https://static.divine-pride.net/images/items/item/1005.png) 1 [Martelo de Ferreiro](http://www.divine-pride.net/database/item/1005/) ![984.png](https://static.divine-pride.net/images/items/item/984.png) 1 [Oridecon](http://www.divine-pride.net/database/item/984/)  ![501.png](https://static.divine-pride.net/images/items/item/501.png) 11 [Poções Vermelhas](http://www.divine-pride.net/database/item/501/)  ![757.png](https://static.divine-pride.net/images/items/item/757.png) 50 [Minérios de Elunium](http://www.divine-pride.net/database/item/757/)  ![756.png](https://static.divine-pride.net/images/items/item/756.png) 50 [Minérios de Oridecon](http://www.divine-pride.net/database/item/756/) |
+| **Equipado** | ![1232.png](https://static.divine-pride.net/images/items/item/1232.png) 1 [+4 arma de nível 4](http://www.divine-pride.net/database/item/1232/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 1232.png 1 [Arma aleatória](http://www.divine-pride.net/database/item/1232/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1232.png](https://static.divine-pride.net/images/items/item/1232.png) 1 [Arma aleatória](http://www.divine-pride.net/database/item/1232/) |
 
 1. Aceite o pedido de Tialfi (prontera 124,297)
 
@@ -65,19 +65,19 @@
 
 | Classe | Arma |
 | --- | --- |
-| Cavaleiros e evoluções | 1471.png [Fogo Infernal](http://www.divine-pride.net/database/item/1471/) |
-| Templários e evoluções | 1141.png [Espada Imaterial](http://www.divine-pride.net/database/item/1141/) |
-| Bruxos e evoluções | 1231.png [Bazerald](http://www.divine-pride.net/database/item/1231/) |
-| Sábios e evoluções | 1557.png [Livro do Apocalipse](http://www.divine-pride.net/database/item/1557/) |
-| Ferreiros e evoluções | 1367.png [Carniceiro](http://www.divine-pride.net/database/item/1367/) |
-| Alquimistas e evoluções | 1235.png [Azoth](http://www.divine-pride.net/database/item/1235/) |
-| Caçadores e evoluções | 1722.png [Balista](http://www.divine-pride.net/database/item/1722/) |
-| Bardos e evoluções | 1913.png [Guitarra Elétrica](http://www.divine-pride.net/database/item/1913/) |
-| Odaliscas e evoluções | 1963.png [Rosa Fustigante](http://www.divine-pride.net/database/item/1963/) |
-| Sacerdotes e evoluções | 1526.png [Maça de Talho](http://www.divine-pride.net/database/item/1526/) |
-| Monges e evoluções | 1813.png [Punho do Kaiser](http://www.divine-pride.net/database/item/1813/) |
-| Mercenários e evoluções | 1230.png [Rondel](http://www.divine-pride.net/database/item/1230/) |
-| Arruaceiros e evoluções | 1227.png [Faca de Capina](http://www.divine-pride.net/database/item/1227/) |
+| Cavaleiros e evoluções | ![1471.png](https://static.divine-pride.net/images/items/item/1471.png) [Fogo Infernal](http://www.divine-pride.net/database/item/1471/) |
+| Templários e evoluções | ![1141.png](https://static.divine-pride.net/images/items/item/1141.png) [Espada Imaterial](http://www.divine-pride.net/database/item/1141/) |
+| Bruxos e evoluções | ![1231.png](https://static.divine-pride.net/images/items/item/1231.png) [Bazerald](http://www.divine-pride.net/database/item/1231/) |
+| Sábios e evoluções | ![1557.png](https://static.divine-pride.net/images/items/item/1557.png) [Livro do Apocalipse](http://www.divine-pride.net/database/item/1557/) |
+| Ferreiros e evoluções | ![1367.png](https://static.divine-pride.net/images/items/item/1367.png) [Carniceiro](http://www.divine-pride.net/database/item/1367/) |
+| Alquimistas e evoluções | ![1235.png](https://static.divine-pride.net/images/items/item/1235.png) [Azoth](http://www.divine-pride.net/database/item/1235/) |
+| Caçadores e evoluções | ![1722.png](https://static.divine-pride.net/images/items/item/1722.png) [Balista](http://www.divine-pride.net/database/item/1722/) |
+| Bardos e evoluções | ![1913.png](https://static.divine-pride.net/images/items/item/1913.png) [Guitarra Elétrica](http://www.divine-pride.net/database/item/1913/) |
+| Odaliscas e evoluções | ![1963.png](https://static.divine-pride.net/images/items/item/1963.png) [Rosa Fustigante](http://www.divine-pride.net/database/item/1963/) |
+| Sacerdotes e evoluções | ![1526.png](https://static.divine-pride.net/images/items/item/1526.png) [Maça de Talho](http://www.divine-pride.net/database/item/1526/) |
+| Monges e evoluções | ![1813.png](https://static.divine-pride.net/images/items/item/1813.png) [Punho do Kaiser](http://www.divine-pride.net/database/item/1813/) |
+| Mercenários e evoluções | ![1230.png](https://static.divine-pride.net/images/items/item/1230.png) [Rondel](http://www.divine-pride.net/database/item/1230/) |
+| Arruaceiros e evoluções | ![1227.png](https://static.divine-pride.net/images/items/item/1227.png) [Faca de Capina](http://www.divine-pride.net/database/item/1227/) |
 | Outras classes | Aleatório |
 
 | *Jogador contra Jogador em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | |

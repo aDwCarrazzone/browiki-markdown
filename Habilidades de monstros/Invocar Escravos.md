@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Invocar Escravos** | |
-| Invocar Escravos | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Invocar Escravos** | |
+| ![Invocar Escravos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/Invocar_Escravos.gif) | |
 | **ID:** | NPC\_CALLSLAVE (352) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

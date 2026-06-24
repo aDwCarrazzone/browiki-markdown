@@ -29,10 +29,10 @@ O bar dos solteiros é para aqueles que ainda sonham em amarrar (ou ser amarrado
 
 |  |  |  |
 | --- | --- | --- |
-| Jawaii map novo | | |
-| Map lupa | Guia |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (jawaii 141,200) |
-| Map lantern | Bar dos Solteiros | (jawaii\_in 15,104) |
+| ![Jawaii map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Jawaii_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (jawaii 141,200) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Bar dos Solteiros | (jawaii\_in 15,104) |
 
 |  |  |  |
 | --- | --- | --- |

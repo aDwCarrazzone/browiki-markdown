@@ -2,17 +2,17 @@
 
 # Segredos do Aeroplano
 
-| NQ ico Segredos do Aeroplano | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Segredos do Aeroplano | |
 | --- | --- |
 | Muitos viajantes têm curiosidade em saber como os Aeroplanos conseguem voar! Desvende esse mistério enquanto ajuda dois irmãos a se reaproximarem! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 576.png 2 [Frutas Espinhosas](http://www.divine-pride.net/database/item/576/)  7340.png 2 [Desejos das Trevas](http://www.divine-pride.net/database/item/7340/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![576.png](https://static.divine-pride.net/images/items/item/576.png) 2 [Frutas Espinhosas](http://www.divine-pride.net/database/item/576/)  ![7340.png](https://static.divine-pride.net/images/items/item/7340.png) 2 [Desejos das Trevas](http://www.divine-pride.net/database/item/7340/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 41.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 501.png 2 [Poções Vermelhas](http://www.divine-pride.net/database/item/501/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![501.png](https://static.divine-pride.net/images/items/item/501.png) 2 [Poções Vermelhas](http://www.divine-pride.net/database/item/501/) |
 
 1. No [aeroplano](../Sem%20categoria/Aeroplano.md "Aeroplano") doméstico, fale mais de uma vez com Hoi (airplane 236,63)
 

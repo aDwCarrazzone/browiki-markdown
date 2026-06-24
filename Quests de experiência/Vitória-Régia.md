@@ -2,18 +2,18 @@
 
 # Vitória-Régia
 
-| NQ ico Vitória-Régia | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Vitória-Régia | |
 | --- | --- |
 | A lenda de uma flor nos confins das cataratas de Brasilis parece estar relacionada a uma menina apaixonada pela Lua! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 513.png 10 [Bananas](http://www.divine-pride.net/database/item/513/)  11515.png 5 [Cocos](http://www.divine-pride.net/database/item/11515/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![513.png](https://static.divine-pride.net/images/items/item/513.png) 10 [Bananas](http://www.divine-pride.net/database/item/513/)  ![11515.png](https://static.divine-pride.net/images/items/item/11515.png) 5 [Cocos](http://www.divine-pride.net/database/item/11515/) |
 | **Quests anteriores** | [Loira do Banheiro](Loira%20do%20Banheiro.md "Loira do Banheiro") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 50.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 10.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 5302.png 1 [Chapéu de Vitória-Régia](http://www.divine-pride.net/database/item/5302/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![5302.png](https://static.divine-pride.net/images/items/item/5302.png) 1 [Chapéu de Vitória-Régia](http://www.divine-pride.net/database/item/5302/) |
 
 1. Fale com a Botânica Carmen (brasilis 203,285)
 

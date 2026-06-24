@@ -2,7 +2,7 @@
 
 # Clube dos Farfelle
 
-| NQ ico Clube dos Farfelle | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Clube dos Farfelle | |
 | --- | --- |
 | Estrangeiros que chegam em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") podem ajudar os Farfelle a entender os motivos do navio Conchiolina não ter embarcado! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **Caça** | 20 [Basiliscos General](http://www.divine-pride.net/database/monster/3504/) ou 20 [Basiliscos Guarda](http://www.divine-pride.net/database/monster/3502/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | **Nv. 1 a 139**: 1.000 **Nv. 140 ou +**: 1.200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 22984.png 5 [Leites de Kaluna](http://www.divine-pride.net/database/item/22984/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![22984.png](https://static.divine-pride.net/images/items/item/22984.png) 5 [Leites de Kaluna](http://www.divine-pride.net/database/item/22984/) |
 | **Recompensa** | Libera as missões [Maldição do Barqueiro](../Quests%20di%C3%A1rias/Maldi%C3%A7%C3%A3o%20do%20Barqueiro.md "Maldição do Barqueiro"), [Mundo de Sabores](../Quests%20di%C3%A1rias/Mundo%20de%20Sabores.md "Mundo de Sabores") e [História Perdida](Hist%C3%B3ria%20Perdida.md "História Perdida") |
 
 1. *Pergunte sobre os Farfelle* ao Guia (lasagna 173,161)
@@ -47,8 +47,8 @@
    - Sempre selecione as opções de *Largar a flauta e contar uma piada*.
    - Você deve repetir isso umas 5 vezes.
    - Quando acabar, haverá duas opções de arma para você escolher à vontade:
-     - ![1684.png](http://static.divine-pride.net/images/items/item/1684.png) [Cauda de Gato Resiliente](http://www.divine-pride.net/database/item/1684/)
-     - ![1683.png](http://static.divine-pride.net/images/items/item/1683.png) [Cauda de Gato Arcana Simples](http://www.divine-pride.net/database/item/1683/)
+     - ![1684.png](https://static.divine-pride.net/images/items/item/1684.png) [Cauda de Gato Resiliente](http://www.divine-pride.net/database/item/1684/)
+     - ![1683.png](https://static.divine-pride.net/images/items/item/1683.png) [Cauda de Gato Arcana Simples](http://www.divine-pride.net/database/item/1683/)
    - Você também receberá 400 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 9. Em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") novamente, fale com o Chefe Peperoccino (lasagna 235,198)
 

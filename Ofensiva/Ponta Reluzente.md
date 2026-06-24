@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Ponta Reluzente Ponta Reluzente** | |
+| **![Ponta Reluzente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Ponta_Reluzente.png) Ponta Reluzente** | |
 | [Arquivo:Ponta Reluzente.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Ponta_Reluzente.gif "Arquivo:Ponta Reluzente.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

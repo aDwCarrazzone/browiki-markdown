@@ -2,7 +2,7 @@
 
 # Serviço Felino
 
-| DQ ico Serviço Felino | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Serviço Felino | |
 | --- | --- |
 | A Agência Pata de Gato é a única prestadora de serviços que pode auxiliar aventureiros no Novo Mundo! Para conseguir acesso a serviços essenciais, como armazém e teleporte, você precisará fazer algumas tarefas! | |
 | Requisitos mínimos | |
@@ -43,12 +43,12 @@
 
 ## Pescaria
 
-| DQ ico Serviço Felino | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Serviço Felino | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 15.000 |
 | **Recompensa** | 1 Ponto de Crédito |
@@ -66,17 +66,17 @@
      - Só é possível carregar 20 [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) no inventário.
      - Cada mineração possui 15 segundos de conjuração que pode ser interrompida se você for atacado ou andar.
      - Você pode reduzir a conjuração com os seguintes equipamentos:
-       - ![2550.png](http://static.divine-pride.net/images/items/item/2550.png) [Sobrepeliz de Pescador](http://www.divine-pride.net/database/item/2550/): -2 segundos
-       - ![2443.png](http://static.divine-pride.net/images/items/item/2443.png) [Botas de Pescador](http://www.divine-pride.net/database/item/2443/): -2 segundos
-       - ![2764.png](http://static.divine-pride.net/images/items/item/2764.png) [Vara de Pescar Pequena](http://www.divine-pride.net/database/item/2764/): -3 segundos
-       - ![2775.png](http://static.divine-pride.net/images/items/item/2775.png) [Isca](http://www.divine-pride.net/database/item/2775/): -1 segundo
+       - ![2550.png](https://static.divine-pride.net/images/items/item/2550.png) [Sobrepeliz de Pescador](http://www.divine-pride.net/database/item/2550/): -2 segundos
+       - ![2443.png](https://static.divine-pride.net/images/items/item/2443.png) [Botas de Pescador](http://www.divine-pride.net/database/item/2443/): -2 segundos
+       - ![2764.png](https://static.divine-pride.net/images/items/item/2764.png) [Vara de Pescar Pequena](http://www.divine-pride.net/database/item/2764/): -3 segundos
+       - ![2775.png](https://static.divine-pride.net/images/items/item/2775.png) [Isca](http://www.divine-pride.net/database/item/2775/): -1 segundo
      - Você receberá um item aleatório para cada tentativa:
        - Itens Marinhos ([Ovas de Sapo](http://www.divine-pride.net/database/item/908/), [Garra de Crustáceo](http://www.divine-pride.net/database/item/960/), [Muco Pegajoso](http://www.divine-pride.net/database/item/938/), [Pata Pegajosa](http://www.divine-pride.net/database/item/918/), [Guelra](http://www.divine-pride.net/database/item/956/), [Escama Aquática](http://www.divine-pride.net/database/item/963/) ou [Casca Rija](http://www.divine-pride.net/database/item/943/))
        - Caixas ([Caixa de Presente](http://www.divine-pride.net/database/item/644/), [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) ou [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/))
        - Minerais ([Pedra](http://www.divine-pride.net/database/item/7049/), [Jellopy](http://www.divine-pride.net/database/item/909/) ou [Garleta](http://www.divine-pride.net/database/item/910/))
-       - ![6039.png](http://static.divine-pride.net/images/items/item/6039.png) [Pedaço de Peixe](http://www.divine-pride.net/database/item/6039/)
-       - ![6081.png](http://static.divine-pride.net/images/items/item/6081.png) [Moeda Manuk](http://www.divine-pride.net/database/item/6081/)
-       - ![6049.png](http://static.divine-pride.net/images/items/item/6049.png) [Marlin](http://www.divine-pride.net/database/item/6049/)
+       - ![6039.png](https://static.divine-pride.net/images/items/item/6039.png) [Pedaço de Peixe](http://www.divine-pride.net/database/item/6039/)
+       - ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) [Moeda Manuk](http://www.divine-pride.net/database/item/6081/)
+       - ![6049.png](https://static.divine-pride.net/images/items/item/6049.png) [Marlin](http://www.divine-pride.net/database/item/6049/)
 3. Após a coleta, entregue os [Pedaços de Peixe](http://www.divine-pride.net/database/item/6039/) ao Gorurug Feroz para receber sua recompensa.
 4. Se você pescar um [Marlin](http://www.divine-pride.net/database/item/6049/), entregue-o a Henry Clifford (mid\_camp 66,122)
 
@@ -86,12 +86,12 @@
 
 ## Mineração
 
-| DQ ico Serviço Felino | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Serviço Felino | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Repetível |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 20.000 |
 | **Recompensa** | 1 Ponto de Crédito |
@@ -110,11 +110,11 @@
      - Cada mineração possui 15 segundos de conjuração irredutível que pode ser interrompida se você for atacado ou andar.
      - Após a mineração, a Rocha Misteriosa some e só reaparecerá após 2 minutos (man\_fild01 e man\_fild03) ou 10 segundos (man\_fild02).
      - Você receberá um item aleatório para cada tentativa:
-       - ![6048.png](http://static.divine-pride.net/images/items/item/6048.png) [Mineral não identificado](http://www.divine-pride.net/database/item/6048/)
-       - ![7049.png](http://static.divine-pride.net/images/items/item/7049.png) [Pedra](http://www.divine-pride.net/database/item/7049/)
-       - ![993.png](http://static.divine-pride.net/images/items/item/993.png) [Vida Verdejante](http://www.divine-pride.net/database/item/993/)
-       - ![990.png](http://static.divine-pride.net/images/items/item/990.png) [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)
-       - ![991.png](http://static.divine-pride.net/images/items/item/991.png) [Cristal Azul](http://www.divine-pride.net/database/item/991/)
-       - ![992.png](http://static.divine-pride.net/images/items/item/992.png) [Frescor do Vento](http://www.divine-pride.net/database/item/992/)
-       - ![6080.png](http://static.divine-pride.net/images/items/item/6080.png) [Moeda Manuk](http://www.divine-pride.net/database/item/6080/)
+       - ![6048.png](https://static.divine-pride.net/images/items/item/6048.png) [Mineral não identificado](http://www.divine-pride.net/database/item/6048/)
+       - ![7049.png](https://static.divine-pride.net/images/items/item/7049.png) [Pedra](http://www.divine-pride.net/database/item/7049/)
+       - ![993.png](https://static.divine-pride.net/images/items/item/993.png) [Vida Verdejante](http://www.divine-pride.net/database/item/993/)
+       - ![990.png](https://static.divine-pride.net/images/items/item/990.png) [Sangue Escarlate](http://www.divine-pride.net/database/item/990/)
+       - ![991.png](https://static.divine-pride.net/images/items/item/991.png) [Cristal Azul](http://www.divine-pride.net/database/item/991/)
+       - ![992.png](https://static.divine-pride.net/images/items/item/992.png) [Frescor do Vento](http://www.divine-pride.net/database/item/992/)
+       - ![6080.png](https://static.divine-pride.net/images/items/item/6080.png) [Moeda Manuk](http://www.divine-pride.net/database/item/6080/)
 3. Após a coleta, entregue os [Minerais não identificados](http://www.divine-pride.net/database/item/6048/) ao Minerador da Pata de Gato para receber sua recompensa.

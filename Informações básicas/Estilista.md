@@ -30,9 +30,9 @@ Não há limitação de nível para mudar seu visual, basta falar com um Estilis
   - Ela também muda o corte de cabelo do 1 a 23, mas do jeito antigo:
     - Coletando vários itens que não valem a pena perder tempo coletando, mais rápido só pagar 100.000 [zenys](../Sem%20categoria/Zeny.md "Zeny").
   - Para iniciantes, existe o [NPC](../Sem%20categoria/NPC.md "NPC") Otto, que troca seu cabelo do 1 ao 23 com o [Cupom de Cabeleireiro do Calouro](http://www.divine-pride.net/database/item/6593/).
-- Os cortes de cabelo 24 a 27 só podem ser comprados através do ![7622.png](http://static.divine-pride.net/images/items/item/7622.png) [Cupom de Corte de Cabelo](http://www.divine-pride.net/database/item/7622/).
-- Os cortes de cabelo 28 a 29 só podem ser comprados através do ![6707.png](http://static.divine-pride.net/images/items/item/6707.png) [Cupom de Penteado](http://www.divine-pride.net/database/item/6707/).
-- Os cortes de cabelo 30 a 31 só podem ser comprados através do ![25736.png](http://static.divine-pride.net/images/items/item/25736.png) [Cupom de Penteado 2](http://www.divine-pride.net/database/item/25736/).
+- Os cortes de cabelo 24 a 27 só podem ser comprados através do ![7622.png](https://static.divine-pride.net/images/items/item/7622.png) [Cupom de Corte de Cabelo](http://www.divine-pride.net/database/item/7622/).
+- Os cortes de cabelo 28 a 29 só podem ser comprados através do ![6707.png](https://static.divine-pride.net/images/items/item/6707.png) [Cupom de Penteado](http://www.divine-pride.net/database/item/6707/).
+- Os cortes de cabelo 30 a 31 só podem ser comprados através do ![25736.png](https://static.divine-pride.net/images/items/item/25736.png) [Cupom de Penteado 2](http://www.divine-pride.net/database/item/25736/).
 - O corte de cabelo 32 custa apenas 100.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
 - **Os cortes de cabelo 33 a 45 não podem ser comprados ainda.**
 - Para os [Dorams](../Sem%20categoria/Doram.md "Doram"):
@@ -44,63 +44,63 @@ Não há limitação de nível para mudar seu visual, basta falar com um Estilis
 | Feminino | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 |
-| Df1 | Df2 | Df3 | Df4 | Df5 |
+| ![Df1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a2/Df1.png) | ![Df2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Df2.png) | ![Df3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/71/Df3.png) | ![Df4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Df4.png) | ![Df5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Df5.png) |
 | 6 | 7-X | 8-X | 9-X | 10-X |
-| Df6 | Df7 | Df8 | Df9 | Df10 |
+| ![Df6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Df6.png) | ![Df7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Df7.png) | ![Df8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/Df8.png) | ![Df9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Df9.png) | ![Df10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Df10.png) |
 | Masculino | | | | | |
 | 1 | 2 | 3 | 4 | 5 |
-| Dm1 | Dm2 | Dm3 | Dm4 | Dm5 |
+| ![Dm1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Dm1.png) | ![Dm2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Dm2.png) | ![Dm3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/25/Dm3.png) | ![Dm4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Dm4.png) | ![Dm5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c3/Dm5.png) |
 | 6 | 7-X | 8-X | 9-X | 10-X |
-| Dm6 | Dm7 | Dm8 | Dm9 | Dm10 |
+| ![Dm6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Dm6.png) | ![Dm7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Dm7.png) | ![Dm8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Dm8.png) | ![Dm9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cd/Dm9.png) | ![Dm10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Dm10.png) |
 
 ### Humanos
 
 | Feminino | | | | | |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 |
-| Cf1 | Cf2 | Cf3 | Cf4 | Cf5 |
+| ![Cf1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/35/Cf1.jpg) | ![Cf2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Cf2.jpg) | ![Cf3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/68/Cf3.jpg) | ![Cf4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f4/Cf4.jpg) | ![Cf5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4a/Cf5.jpg) |
 | 6 | 7 | 8 | 9 | 10 |
-| Cf6 | Cf7 | Cf8 | Cf9 | Cf10 |
+| ![Cf6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Cf6.jpg) | ![Cf7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Cf7.jpg) | ![Cf8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Cf8.jpg) | ![Cf9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3e/Cf9.jpg) | ![Cf10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Cf10.jpg) |
 | 11 | 12 | 13 | 14 | 15 |
-| Cf11 | Cf12 | Cf13 | Cf14 | Cf15 |
+| ![Cf11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Cf11.jpg) | ![Cf12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/80/Cf12.jpg) | ![Cf13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Cf13.jpg) | ![Cf14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Cf14.jpg) | ![Cf15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Cf15.jpg) |
 | 16 | 17 | 18 | 19 | 20 |
-| Cf16 | Cf17 | Cf18 | Cf19 | Cf20a |
+| ![Cf16](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Cf16.jpg) | ![Cf17](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/Cf17.jpg) | ![Cf18](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Cf18.jpg) | ![Cf19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f6/Cf19.jpg) | ![Cf20a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/Cf20a.png) |
 | 21 | 22 | 23 | 24 | 25 |
-| Cf21a | Cf22a | Cf23a | Cf24 | Cf25 |
+| ![Cf21a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Cf21a.png) | ![Cf22a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/Cf22a.png) | ![Cf23a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Cf23a.png) | ![Cf24](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Cf24.jpg) | ![Cf25](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Cf25.jpg) |
 | 26 | 27 | 28 | 29 | 30 |
-| Cf26 | Cf27 | Cf28a | Cf29a | Cf30 |
+| ![Cf26](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Cf26.jpg) | ![Cf27](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Cf27.jpg) | ![Cf28a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Cf28a.png) | ![Cf29a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0b/Cf29a.png) | ![Cf30](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b4/Cf30.png) |
 | 31 | 32 | 33-X | 34-X | 35-X |
-| Cf31 | Cf32 | Cf33 | Cf34 | Cf35 |
+| ![Cf31](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Cf31.png) | ![Cf32](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Cf32.png) | ![Cf33](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Cf33.png) | ![Cf34](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/07/Cf34.png) | ![Cf35](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/54/Cf35.png) |
 | 36-X | 37-X | 38-X | 39-X | 40-X |
-| Cf36 | Cf37 | Cf38 | Cf39 | Cf40 |
+| ![Cf36](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/Cf36.png) | ![Cf37](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Cf37.png) | ![Cf38](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/72/Cf38.png) | ![Cf39](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/de/Cf39.png) | ![Cf40](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/66/Cf40.png) |
 | 41-X | 42-X | 43-X | 44-X | 45-X |
-| Cf41 | Cf42 | Cf43 | Cf44 | Cf45 |
+| ![Cf41](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Cf41.png) | ![Cf42](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/Cf42.png) | ![Cf43](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/13/Cf43.png) | ![Cf44](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Cf44.png) | ![Cf45](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/aa/Cf45.png) |
 | Masculino | | | | | |
 | 1 | 2 | 3 | 4 | 5 |
-| Cm1 | Cm2 | Cm3 | Cm4 | Cm5 |
+| ![Cm1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Cm1.jpg) | ![Cm2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/Cm2.jpg) | ![Cm3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Cm3.jpg) | ![Cm4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Cm4.jpg) | ![Cm5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/98/Cm5.jpg) |
 | 6 | 7 | 8 | 9 | 10 |
-| Cm6 | Cm7 | Cm8 | Cm9 | Cm10 |
+| ![Cm6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Cm6.jpg) | ![Cm7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Cm7.jpg) | ![Cm8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/95/Cm8.jpg) | ![Cm9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Cm9.jpg) | ![Cm10](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Cm10.jpg) |
 | 11 | 12 | 13 | 14 | 15 |
-| Cm11 | Cm12 | Cm13 | Cm14 | Cm15 |
+| ![Cm11](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Cm11.jpg) | ![Cm12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Cm12.jpg) | ![Cm13](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/Cm13.jpg) | ![Cm14](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Cm14.jpg) | ![Cm15](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/05/Cm15.jpg) |
 | 16 | 17 | 18 | 19 | 20 |
-| Cm16 | Cm17 | Cm18 | Cm19 | Cm20a |
+| ![Cm16](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/42/Cm16.jpg) | ![Cm17](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Cm17.jpg) | ![Cm18](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/Cm18.jpg) | ![Cm19](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/Cm19.jpg) | ![Cm20a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Cm20a.png) |
 | 21 | 22 | 23 | 24 | 25 |
-| Cm21a | Cm22a | Cm23a | Cm24 | Cm25 |
+| ![Cm21a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c4/Cm21a.png) | ![Cm22a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Cm22a.png) | ![Cm23a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Cm23a.png) | ![Cm24](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Cm24.jpg) | ![Cm25](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2d/Cm25.jpg) |
 | 26 | 27 | 28 | 29 | 30 |
-| Cm26 | Cm27 | Cm28a | Cm29a | Cm30 |
+| ![Cm26](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Cm26.jpg) | ![Cm27](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/20/Cm27.jpg) | ![Cm28a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Cm28a.png) | ![Cm29a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3a/Cm29a.png) | ![Cm30](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ad/Cm30.png) |
 | 31 | 32 | 33-X | 34-X | 35-X |
-| Cm31 | Cm32 | Cm33 | Cm34 | Cm35 |
+| ![Cm31](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c5/Cm31.png) | ![Cm32](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Cm32.png) | ![Cm33](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Cm33.png) | ![Cm34](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Cm34.png) | ![Cm35](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Cm35.png) |
 | 36-X | 37-X | 38-X | 39-X | 40-X |
-| Cm36 | Cm37 | Cm38 | Cm39 | Cm40 |
+| ![Cm36](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Cm36.png) | ![Cm37](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Cm37.png) | ![Cm38](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Cm38.png) | ![Cm39](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/eb/Cm39.png) | ![Cm40](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d1/Cm40.png) |
 | 41-X | 42-X | 43-X | 44-X | 45-X |
-| Cm41 | Cm42 | Cm43 | Cm44 | Cm45 |
+| ![Cm41](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Cm41.png) | ![Cm42](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/Cm42.png) | ![Cm43](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f2/Cm43.png) | ![Cm44](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/Cm44.png) | ![Cm45](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2b/Cm45.png) |
 
 ## Cores de Roupas
 
 - Se você deseja ver a cor da roupa do seu personagem em uma montaria, por favor, **[veja esta página](https://browiki.org/wiki/Discuss%C3%A3o%3AEstilista "Discussão:Estilista")**.
-- A cor da roupa só pode ser alterada através do ![6046.png](http://static.divine-pride.net/images/items/item/6046.png) [Cupom de Tintura](http://www.divine-pride.net/database/item/6046/), adquirido via [JoyCoins](../Itens/JoyCoins.md "JoyCoins").
-- Se você desejar voltar para a cor original, deve levar o ![6047.png](http://static.divine-pride.net/images/items/item/6047.png) [Cupom Removedor](http://www.divine-pride.net/database/item/6047/) para um Estilista.
-- Para trocar pela roupa alternativa, basta levar o ![6959.png](http://static.divine-pride.net/images/items/item/6959.png) [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) para um Estilista.
+- A cor da roupa só pode ser alterada através do ![6046.png](https://static.divine-pride.net/images/items/item/6046.png) [Cupom de Tintura](http://www.divine-pride.net/database/item/6046/), adquirido via [JoyCoins](../Itens/JoyCoins.md "JoyCoins").
+- Se você desejar voltar para a cor original, deve levar o ![6047.png](https://static.divine-pride.net/images/items/item/6047.png) [Cupom Removedor](http://www.divine-pride.net/database/item/6047/) para um Estilista.
+- Para trocar pela roupa alternativa, basta levar o ![6959.png](https://static.divine-pride.net/images/items/item/6959.png) [Cupom de Roupa](http://www.divine-pride.net/database/item/6959/) para um Estilista.
   - O Cupom pode ser adquirido através de uma [Conquista](../Sem%20categoria/Conquista.md "Conquista").
   - Se desejar remover a roupa alternativa, basta comprar o Cupom novamente com o Comerciante, do lado de qualquer Estilista, e usá-lo na Loja de Estilos.
 

@@ -28,17 +28,17 @@ Para completar ainda mais o cenário, uma grande revolta conhecida como Rebeliã
 
 |  |  |  |
 | --- | --- | --- |
-| Einbroch map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (einbroch 242,205) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (einbroch 238,203) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ein\_in01 206,224) |
-| Map faca | Loja de Munições | (ein\_in01 119,26) |
-| Map bandeira | Guilda dos [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") | (ein\_in01 24,41) |
-| Map transp | Aeroporto | (einbroch 94,267) |
-| Map azul | Estação de Trem | (einbroch 232,272) |
-| Map rosa | Miado de Bala | (einbroch 201,329) |
-| Map lantern | Torre (Guilda dos [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros")) | (que\_ng 152,16) |
+| ![Einbroch map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/99/Einbroch_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (einbroch 242,205) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (einbroch 238,203) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (ein\_in01 206,224) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (ein\_in01 119,26) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Ferreiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Ferreiros.md "Ferreiros") | (ein\_in01 24,41) |
+| ![Map transp](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/da/Map_transp.png) | Aeroporto | (einbroch 94,267) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | Estação de Trem | (einbroch 232,272) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Miado de Bala | (einbroch 201,329) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Torre (Guilda dos [Justiceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Justiceiros.md "Justiceiros")) | (que\_ng 152,16) |
 
 |  |  |  |
 | --- | --- | --- |

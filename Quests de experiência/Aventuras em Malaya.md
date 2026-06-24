@@ -4,18 +4,18 @@
 
 ## Jejeling e Jejellopy
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6498.png 30 [Jejellopys](http://www.divine-pride.net/database/item/6498/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6498.png](https://static.divine-pride.net/images/items/item/6498.png) 30 [Jejellopys](http://www.divine-pride.net/database/item/6498/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Fale com o Colecionador Woeon (malaya 295,171)
 
@@ -31,18 +31,18 @@
 
 ## Livre-se dos Jejelings
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | 20 [Jejelings](http://www.divine-pride.net/database/monster/2316/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Aliste-se com o Guarda Rondel (malaya 266,76)
 
@@ -51,18 +51,18 @@
 
 ## Proteção Espiritual
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6508.png 12 [Braceletes de Prata](http://www.divine-pride.net/database/item/6508/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6508.png](https://static.divine-pride.net/images/items/item/6508.png) 12 [Braceletes de Prata](http://www.divine-pride.net/database/item/6508/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 400.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 400.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 2 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 2 [Amuletos Menores](http://www.divine-pride.net/database/item/6497/) |
 
 1. Ajude Imelda (malaya 169,350)
 
@@ -106,18 +106,18 @@
 
 ## Fantasma no Barco
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6511.png 3 [Flores Bonitas](http://www.divine-pride.net/database/item/6511/)  6510.png 3 [Flores Elegantes](http://www.divine-pride.net/database/item/6510/)  6509.png 3 [Flores Misteriosas](http://www.divine-pride.net/database/item/6509/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6511.png](https://static.divine-pride.net/images/items/item/6511.png) 3 [Flores Bonitas](http://www.divine-pride.net/database/item/6511/)  ![6510.png](https://static.divine-pride.net/images/items/item/6510.png) 3 [Flores Elegantes](http://www.divine-pride.net/database/item/6510/)  ![6509.png](https://static.divine-pride.net/images/items/item/6509.png) 3 [Flores Misteriosas](http://www.divine-pride.net/database/item/6509/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 | **Recompensa** | Libera viagem a [Izlude](../Lugares%20em%20Ragnar%C3%B6k/Izlude.md "Izlude") por 1.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") |
 
 1. Ouça a história do Marinheiro Pedro (malaya 326,68)
@@ -140,19 +140,19 @@
 
 ## Lâmina de Prata
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 6508.png 10 [Braceletes de Prata](http://www.divine-pride.net/database/item/6508/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6508.png](https://static.divine-pride.net/images/items/item/6508.png) 10 [Braceletes de Prata](http://www.divine-pride.net/database/item/6508/) |
 | **Caça** | 10 [Tiyanak](http://www.divine-pride.net/database/monster/2314/) e 10 [Manananggal](http://www.divine-pride.net/database/monster/2311/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") [Enfermeira em Porto Malaya](../Acesso%20a%20Calabou%C3%A7os/Enfermeira%20em%20Porto%20Malaya.md "Enfermeira em Porto Malaya") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Encontre o Ferreiro Pandoi (malaya 119,217)
 
@@ -165,18 +165,18 @@
 
 ## Filha de Maries
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 12700.png 1 [Camiseta do Avesso](http://www.divine-pride.net/database/item/12700/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12700.png](https://static.divine-pride.net/images/items/item/12700.png) 1 [Camiseta do Avesso](http://www.divine-pride.net/database/item/12700/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Ajude Maries (ma\_fild01 199,190)
 
@@ -188,18 +188,18 @@
 
 ## Ossos Purificados
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 523.png 10 [Águas Bentas](http://www.divine-pride.net/database/item/523/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![523.png](https://static.divine-pride.net/images/items/item/523.png) 10 [Águas Bentas](http://www.divine-pride.net/database/item/523/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Fale com o Guarda Dhong (ma\_fild01 239,253)
 
@@ -219,18 +219,18 @@
 
 ## Olho por Olho
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Caça** | 10 [Bungisngis](http://www.divine-pride.net/database/monster/2309/) |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Encontre o Capre Bom Budidai (ma\_fild02 241,39)
 
@@ -243,17 +243,17 @@
 
 ## O Velho e o Caldeirão
 
-| DQ ico Aventuras em Malaya | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Aventuras em Malaya | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Repetível |
 | **Quests anteriores** | [Vila Cautelosa](Vila%20Cautelosa.md "Vila Cautelosa") |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6497.png 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) 1 [Amuleto Menor](http://www.divine-pride.net/database/item/6497/) |
 
 1. Fale com o Ancião Nardo (malaya 181,353)
 
@@ -269,6 +269,6 @@
 
 | Missões Diárias em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") | |
 | --- | --- |
-| Principais | [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
+| Principais | [Aventuras na Aldeia](Aventuras%20na%20Aldeia.md "Aventuras na Aldeia")18 · [Aventuras na Mansão](Aventuras%20na%20Mans%C3%A3o.md "Aventuras na Mansão")17.2 · [Aventuras no Distrito](Aventuras%20no%20Distrito.md "Aventuras no Distrito")17.1 · [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md#Missões_diárias "Clana Nemieri")16.2 |
 | Episódios | [Aventuras na Cozinha](../Quests%20di%C3%A1rias/Aventuras%20na%20Cozinha.md "Aventuras na Cozinha") · [Aventuras em Eclage](Aventuras%20em%20Eclage.md "Aventuras em Eclage") · [Aventuras na Prisão](Aventuras%20na%20Pris%C3%A3o.md "Aventuras na Prisão") · [Aventuras em Verus](Aventuras%20em%20Verus.md "Aventuras em Verus") · [Aventuras no Novo Mundo](Aventuras%20no%20Novo%20Mundo.md "Aventuras no Novo Mundo") · [Departamento de Exploradores](Departamento%20de%20Exploradores.md "Departamento de Exploradores") |
 | Outros | [Aventuras em Rockridge](Aventuras%20em%20Rockridge.md "Aventuras em Rockridge") · [Aventuras em Lasagna](Aventuras%20em%20Lasagna.md "Aventuras em Lasagna") · [Aventuras na Vila Mora](Aventuras%20na%20Vila.md "Aventuras na Vila") · Aventuras em Malaya · [Aventuras em Malangdo](../Quests%20repet%C3%ADveis/Aventuras%20em%20Malangdo.md "Aventuras em Malangdo") |

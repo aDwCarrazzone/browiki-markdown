@@ -2,17 +2,17 @@
 
 # Quarto Crescente
 
-| SC ico Quarto Crescente | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Quarto Crescente | |
 | --- | --- |
 | Quando a Lua atinge o Quarto Crescente, a Papisa começa a ter sonhos causados por uma criatura aprisionada na Caverna de Gelo. Enfrente o maior pesadelo da papisa e conheça a história por trás da primeira Edda de Ragnarök. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 80 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa apenas |
 | Premiação | |
-| **Chefe** | Monster Ktullanux [Espectro de Ktullanux](http://www.divine-pride.net/database/monster/3526/) |
+| **Chefe** | ![Monster Ktullanux](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Monster_Ktullanux.png) [Espectro de Ktullanux](http://www.divine-pride.net/database/monster/3526/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | **Nv. 80 a 99**: 150.000 **Nv. 100 a 130**: 300.000 **Nv. 131+**: 950.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | **Nv. 80 a 99**: 7.500 **Nv. 100 a 130**: 300.000 **Nv. 131+**: 750.000 |
 
@@ -72,15 +72,15 @@
 
    :   ![EddaA00](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/EddaA00.png)
 
-   - Você poderá escolher o encanto do acessório ao custo de ![25088.png](http://static.divine-pride.net/images/items/item/25088.png) 100 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).
-   - Após a escolha, você ainda pode fortalecer o encanto para o nível 2 ao custo de ![25088.png](http://static.divine-pride.net/images/items/item/25088.png) 1.000 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).
+   - Você poderá escolher o encanto do acessório ao custo de ![25088.png](https://static.divine-pride.net/images/items/item/25088.png) 100 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).
+   - Após a escolha, você ainda pode fortalecer o encanto para o nível 2 ao custo de ![25088.png](https://static.divine-pride.net/images/items/item/25088.png) 1.000 [Fragmento de Sonho](http://www.divine-pride.net/database/item/25088/).
    - Não tem chances de falha.
 
 :   :   | Encanto | Fortalecimento |
         | --- | --- |
-        | 29121.png [Deusa da Justiça 1](http://www.divine-pride.net/database/item/29121/) | 29122.png [Deusa da Justiça 2](http://www.divine-pride.net/database/item/29122/) |
-        | 29123.png [Deusa do Amor 1](http://www.divine-pride.net/database/item/29123/) | 29124.png [Deusa do Amor 2](http://www.divine-pride.net/database/item/29124/) |
-        | 29125.png [Deusa da Visão 1](http://www.divine-pride.net/database/item/29125/) | 29126.png [Deusa da Visão 2](http://www.divine-pride.net/database/item/29126/) |
+        | ![29121.png](https://static.divine-pride.net/images/items/item/29121.png) [Deusa da Justiça 1](http://www.divine-pride.net/database/item/29121/) | ![29122.png](https://static.divine-pride.net/images/items/item/29122.png) [Deusa da Justiça 2](http://www.divine-pride.net/database/item/29122/) |
+        | ![29123.png](https://static.divine-pride.net/images/items/item/29123.png) [Deusa do Amor 1](http://www.divine-pride.net/database/item/29123/) | ![29124.png](https://static.divine-pride.net/images/items/item/29124.png) [Deusa do Amor 2](http://www.divine-pride.net/database/item/29124/) |
+        | ![29125.png](https://static.divine-pride.net/images/items/item/29125.png) [Deusa da Visão 1](http://www.divine-pride.net/database/item/29125/) | ![29126.png](https://static.divine-pride.net/images/items/item/29126.png) [Deusa da Visão 2](http://www.divine-pride.net/database/item/29126/) |
 
 | *[Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

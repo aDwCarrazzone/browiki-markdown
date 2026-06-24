@@ -2,15 +2,15 @@
 
 # Reunião Regular dos Gatos
 
-| NQ ico Reunião Regular dos Gatos | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Reunião Regular dos Gatos | |
 | --- | --- |
 | Enquanto navegavam pelos mares para sua terra natal, esses felinos atracaram em uma ilha com o formato de uma pata de gato! Agora eles precisam se reunir para determinar o que fazer daqui pra frente. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12624.png 30 [Geleias Deliciosas](http://www.divine-pride.net/database/item/12624/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12624.png](https://static.divine-pride.net/images/items/item/12624.png) 30 [Geleias Deliciosas](http://www.divine-pride.net/database/item/12624/) |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 6422.png 400 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  12636.png 20 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6422.png](https://static.divine-pride.net/images/items/item/6422.png) 400 [Moedas Classe E](http://www.divine-pride.net/database/item/6422/)  ![12636.png](https://static.divine-pride.net/images/items/item/12636.png) 20 [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
 | **Recompensa** | Libera a missão [Aventuras em Malangdo](../Quests%20repet%C3%ADveis/Aventuras%20em%20Malangdo.md "Aventuras em Malangdo") |
 
 1. Fale com Dolangmal (prontera 114,77)

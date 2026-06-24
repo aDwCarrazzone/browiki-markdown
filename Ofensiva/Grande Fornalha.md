@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Grande Fornalha Grande Fornalha** | |
+| **![Grande Fornalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/Grande_Fornalha.png) Grande Fornalha** | |
 | [Arquivo:Grande Fornalha.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Grande_Fornalha.gif "Arquivo:Grande Fornalha.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |

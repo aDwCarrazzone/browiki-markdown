@@ -2,13 +2,13 @@
 
 # Missão Regional de Morroc
 
-| NQ ico Missão Regional de Morroc | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Morroc | |
 | --- | --- |
 | Conhecida como "a Joia do Deserto", [Morroc](../Lugares%20em%20Ragnar%C3%B6k/Morroc.md "Morroc") atrai historiadores e estudantes do mundo todo. Ajude o Professor e seus alunos intercambistas a explorar um pouco do passado.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6381.png 1 [Pá de Campo](http://www.divine-pride.net/database/item/6381/) 934.png 1 [Espólio](http://www.divine-pride.net/database/item/934/) 1056.png 5 [Torrões de Areia](http://www.divine-pride.net/database/item/1056/) 930.png 1 [Bandagem Estragada](http://www.divine-pride.net/database/item/930/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6381.png](https://static.divine-pride.net/images/items/item/6381.png) 1 [Pá de Campo](http://www.divine-pride.net/database/item/6381/) ![934.png](https://static.divine-pride.net/images/items/item/934.png) 1 [Espólio](http://www.divine-pride.net/database/item/934/) ![1056.png](https://static.divine-pride.net/images/items/item/1056.png) 5 [Torrões de Areia](http://www.divine-pride.net/database/item/1056/) ![930.png](https://static.divine-pride.net/images/items/item/930.png) 1 [Bandagem Estragada](http://www.divine-pride.net/database/item/930/) |
 | **Caça** | 10 [Verit](http://www.divine-pride.net/database/monster/1032/) 10 [Minorous](http://www.divine-pride.net/database/monster/1149/) 10 [Múmias](http://www.divine-pride.net/database/monster/1041/) 10 [Ísis](http://www.divine-pride.net/database/monster/1029/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 35.800 |

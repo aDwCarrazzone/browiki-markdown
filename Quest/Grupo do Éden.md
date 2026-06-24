@@ -2,14 +2,14 @@
 
 # Grupo do Éden
 
-| GQ ico Grupo do Éden | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Grupo do Éden | |
 | --- | --- |
 | O Grupo Éden é uma organização especial de [NPCs](../Sem%20categoria/NPC.md "NPC") que oferecem [quests](Quests.md "Quests") para personagens de todos os níveis. A maioria das missões são repetíveis e dão [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência") de base e classe, além de também fornecerem [Equipamentos do Éden](Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden"). Todas as missões são solicitações de pessoas que vivem no mundo de [Ragnarök](../Sem%20categoria/Ragnar%C3%B6k.md "Ragnarök") e vale a pena ajudá-las. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 12 |
 | **Tipo** | Tutorial |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 22508.png 1 [Emblema do Éden](http://www.divine-pride.net/database/item/22508/) Libera acesso às missões dos **[Equipamentos do Éden](Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden")**. |
+| **[Itens](../Itens/Itens.md "Itens")** | ![22508.png](https://static.divine-pride.net/images/items/item/22508.png) 1 [Emblema do Éden](http://www.divine-pride.net/database/item/22508/) Libera acesso às missões dos **[Equipamentos do Éden](Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden")**. |
 
 1. Para acessar o local do Grupo, encontre a Oficial do Éden, que fica em qualquer cidade.
 
@@ -46,10 +46,10 @@
   - No Éden, a Kafra Doram oferece teleporte gratuito a personagens até nível 39.
   - Teleporta para: [prt\_fild05](http://www.divine-pride.net/database/map/prt_fild05/), [prt\_fild07](http://www.divine-pride.net/database/map/prt_fild07/), [prt\_fild04](http://www.divine-pride.net/database/map/prt_fild04/) e [Vila dos Arqueiros](http://www.divine-pride.net/database/map/pay_arche/).
 
-| EdenBoard Nível 1 a 39 | | | | | | | |
+| ![EdenBoard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/EdenBoard.gif) Nível 1 a 39 | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base | [EXP](../Sem%20categoria/EXP.md "EXP") classe | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
-| Payon | Trabalho Braçal | 1 | Caçar 5 [Salgueiros](http://www.divine-pride.net/database/monster/1010/) Coletar 3 1068.png [Tronco Estéril](http://www.divine-pride.net/database/item/1068/) | 800 | 800 | Pai Nervoso (payon 173,77) |
+| Payon | Trabalho Braçal | 1 | Caçar 5 [Salgueiros](http://www.divine-pride.net/database/monster/1010/) Coletar 3 ![1068.png](https://static.divine-pride.net/images/items/item/1068.png) [Tronco Estéril](http://www.divine-pride.net/database/item/1068/) | 800 | 800 | Pai Nervoso (payon 173,77) |
 | Medo de Cobras | 15 | Caçar 5 [Jiboia](http://www.divine-pride.net/database/monster/1025/) | 1.600 | 1.400 | Moça Assustada (payon 217,94) |
 | Não é uma Cebola | 15 | Caçar 5 [Rabo de Verme](http://www.divine-pride.net/database/monster/1024/) | 1.600 | 1.400 | Vovozinha (payon 237,64) |
 | Cogumelo Estranho | 15 | Caçar 10 [Esporo](http://www.divine-pride.net/database/monster/1014/) | 3.000 | 2.000 | Vovozinho (payon 239,64) |
@@ -58,18 +58,18 @@
 | Problema Pegajoso | 10 | Caçar 10 [Ambernite](http://www.divine-pride.net/database/monster/1094/) | 2.000 | 2.000 | Aninha (prt\_fild05 351,220) |
 | Vila dos Arqueiros | Guerra aos Mortos | 15 | Caçar 10 [Zumbi](http://www.divine-pride.net/database/monster/1015/) Caçar 20 [Esqueleto](http://www.divine-pride.net/database/monster/1076/) | 3.200 | 3.000 | Guarda (pay\_arche 41,133) |
 | Izlude | Bichos Barulhentos | 20 | Caçar 10 [Muka](http://www.divine-pride.net/database/monster/1055/) Caçar 20 [PecoPeco](http://www.divine-pride.net/database/monster/1019/) | 4.800 | 4.200 | Instrutora Pontis (izlude 132,207) |
-| Comodo | Churrasco Ruim | 30 | Caçar 10 [Sapo de Thara](http://www.divine-pride.net/database/monster/1034/) Coletar 10 918.png [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) | 5.500 | 5.500 | [Missão Regional de Comodo](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Comodo.md "Missão Regional de Comodo") |
-| Tratamento de Pele | 30 | Caçar 10 [Hidra](http://www.divine-pride.net/database/monster/1068/) Coletar 5 962.png [Tentáculo](http://www.divine-pride.net/database/item/962/) | 5.500 | 5.500 |
+| Comodo | Churrasco Ruim | 30 | Caçar 10 [Sapo de Thara](http://www.divine-pride.net/database/monster/1034/) Coletar 10 ![918.png](https://static.divine-pride.net/images/items/item/918.png) [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) | 5.500 | 5.500 | [Missão Regional de Comodo](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Comodo.md "Missão Regional de Comodo") |
+| Tratamento de Pele | 30 | Caçar 10 [Hidra](http://www.divine-pride.net/database/monster/1068/) Coletar 5 ![962.png](https://static.divine-pride.net/images/items/item/962.png) [Tentáculo](http://www.divine-pride.net/database/item/962/) | 5.500 | 5.500 |
 | Tempero Korasera | 30 | Caçar 10 [Megalodon](http://www.divine-pride.net/database/monster/1064/) | 5.500 | 5.500 |
-| EdenBoard Nível 40 a 69 | | | | | | | |
+| ![EdenBoard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/EdenBoard.gif) Nível 40 a 69 | | | | | | | |
 | Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base | [EXP](../Sem%20categoria/EXP.md "EXP") classe | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
 | Navio Fantasma | Resgatar Amigos | 40 | Caçar 10 [Esqueleto Pirata](http://www.divine-pride.net/database/monster/1071/) | 8.600 | 9.600 | [Missão Regional de Alberta](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Alberta.md "Missão Regional de Alberta") |
 | Barata do Mar | 40 | Caçar 10 [Kukre](http://www.divine-pride.net/database/monster/1070/) | 6.500 | 6.500 |
-| Tesouro do Mar | 40 | Esconder 10 25074.png [Dobrão](http://www.divine-pride.net/database/item/25074/) | 7.000 | 7.000 |
-| Limpando o Navio | 40 | Caçar 10 [Hidra](http://www.divine-pride.net/database/monster/1068/) Coletar 10 932.png [Osso](http://www.divine-pride.net/database/item/932/) Coletar 10 955.png [Pele de Verme](http://www.divine-pride.net/database/item/955/) Coletar 5 962.png [Tentáculo](http://www.divine-pride.net/database/item/962/) | 9.600 | 8.280 |
+| Tesouro do Mar | 40 | Esconder 10 ![25074.png](https://static.divine-pride.net/images/items/item/25074.png) [Dobrão](http://www.divine-pride.net/database/item/25074/) | 7.000 | 7.000 |
+| Limpando o Navio | 40 | Caçar 10 [Hidra](http://www.divine-pride.net/database/monster/1068/) Coletar 10 ![932.png](https://static.divine-pride.net/images/items/item/932.png) [Osso](http://www.divine-pride.net/database/item/932/) Coletar 10 ![955.png](https://static.divine-pride.net/images/items/item/955.png) [Pele de Verme](http://www.divine-pride.net/database/item/955/) Coletar 5 ![962.png](https://static.divine-pride.net/images/items/item/962.png) [Tentáculo](http://www.divine-pride.net/database/item/962/) | 9.600 | 8.280 |
 | Navio Assombrado | 40 | Caçar 10 [Sussurro](http://www.divine-pride.net/database/monster/1179/) Caçar 1 [Marinheiro Ágil](http://www.divine-pride.net/database/monster/2676/) | 11.800 | 9.600 |
 | Hugel | Guerra na Praia | 40 | Caçar 10 [Estrela-do-Mar](http://www.divine-pride.net/database/monster/1266/) Caçar 10 [Caranguejo](http://www.divine-pride.net/database/monster/1073/) | 8.400 | 8.380 | [Missão Regional de Hugel](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Hugel.md "Missão Regional de Hugel") |
-| Catador de Ostras | 40 | Caçar 10 [Molusco](http://www.divine-pride.net/database/monster/1074/) Coletar 5 966.png [Carne de Ostra](http://www.divine-pride.net/database/item/966/) | 8.400 | 8.380 |
+| Catador de Ostras | 40 | Caçar 10 [Molusco](http://www.divine-pride.net/database/monster/1074/) Coletar 5 ![966.png](https://static.divine-pride.net/images/items/item/966.png) [Carne de Ostra](http://www.divine-pride.net/database/item/966/) | 8.400 | 8.380 |
 | Vila dos Orcs | Orcs Infernais | 40 | Caçar 20 [Orc Zumbi](http://www.divine-pride.net/database/monster/1153/) Caçar 20 [Orc Esqueleto](http://www.divine-pride.net/database/monster/1152/) | 28.700 | 27.400 | [Missão Regional de Prontera](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Prontera.md "Missão Regional de Prontera") |
 | Ganancioso | 40 | Caçar 20 [Zenorc](http://www.divine-pride.net/database/monster/1177/) | 16.000 | 12.000 |
 | Família Orc | 40 | Caçar 15 [Guerreiro Orc](http://www.divine-pride.net/database/monster/1023/) Caçar 15 [Senhora Orc](http://www.divine-pride.net/database/monster/1273/) Caçar 10 [Filhote de Orc](http://www.divine-pride.net/database/monster/1686/) | 23.520 | 24.300 |
@@ -77,32 +77,32 @@
 | Goblins Velozes | 40 | Caçar 10 [Goblin Adaga](http://www.divine-pride.net/database/monster/1122/) Caçar 10 [Goblin Martelo](http://www.divine-pride.net/database/monster/1125/) | 13.000 | 8.600 |
 | Goblins Atrozes | 50 | Caçar 10 [Goblin Arqueiro](http://www.divine-pride.net/database/monster/1258/) Caçar 10 [Goblin Maça](http://www.divine-pride.net/database/monster/1126/) | 11.800 | 11.900 |
 | Izlude | Estranhos do Deserto | 40 | Caçar 10 [Magnólia](http://www.divine-pride.net/database/monster/1138/) Caçar 10 [Metaller](http://www.divine-pride.net/database/monster/1058/) | 8.400 | 8.380 | Instrutora Pontis (izlude 132,207) |
-| Biologia Marinha | 40 | Caçar 10 [Marina](http://www.divine-pride.net/database/monster/1141/) Caçar 10 [Plâncton](http://www.divine-pride.net/database/monster/1161/) Coletar 10 1052.png [Célula Única](http://www.divine-pride.net/database/item/1052/) | 9.600 | 8.380 | Biólogo (izlu2dun 105,68) |
-| Amuleto de Caranguejo | 40 | Caçar 10 [Vadon](http://www.divine-pride.net/database/monster/1066/) Coletar 5 960.png [Garra de Crustáceo](http://www.divine-pride.net/database/item/960/) | 7.800 | 8.380 | Ambulante (izlu2dun 108,68) |
+| Biologia Marinha | 40 | Caçar 10 [Marina](http://www.divine-pride.net/database/monster/1141/) Caçar 10 [Plâncton](http://www.divine-pride.net/database/monster/1161/) Coletar 10 ![1052.png](https://static.divine-pride.net/images/items/item/1052.png) [Célula Única](http://www.divine-pride.net/database/item/1052/) | 9.600 | 8.380 | Biólogo (izlu2dun 105,68) |
+| Amuleto de Caranguejo | 40 | Caçar 10 [Vadon](http://www.divine-pride.net/database/monster/1066/) Coletar 5 ![960.png](https://static.divine-pride.net/images/items/item/960.png) [Garra de Crustáceo](http://www.divine-pride.net/database/item/960/) | 7.800 | 8.380 | Ambulante (izlu2dun 108,68) |
 | Cuidando do Grupo | 50 | Caçar 10 [Peixe-Espada](http://www.divine-pride.net/database/monster/1069/) Caçar 10 [Cavalo-Marinho](http://www.divine-pride.net/database/monster/1045/) | 12.400 | 14.380 | [Missão Regional de Izlude](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Izlude.md "Missão Regional de Izlude") |
-| Ingredientes Culinários | 50 | Caçar 20 [Marse](http://www.divine-pride.net/database/monster/1144/) Coletar 10 1024.png [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) | 10.640 | 10.240 |
-| Sereia Encantadora | 50 | Caçar 10 [Obeaune](http://www.divine-pride.net/database/monster/1044/) Coletar 1 950.png [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | 9.600 | 9.600 |
+| Ingredientes Culinários | 50 | Caçar 20 [Marse](http://www.divine-pride.net/database/monster/1144/) Coletar 10 ![1024.png](https://static.divine-pride.net/images/items/item/1024.png) [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) | 10.640 | 10.240 |
+| Sereia Encantadora | 50 | Caçar 10 [Obeaune](http://www.divine-pride.net/database/monster/1044/) Coletar 1 ![950.png](https://static.divine-pride.net/images/items/item/950.png) [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | 9.600 | 9.600 |
 | Deus dos Oceanos | 50 | Caçar 10 [Strouf](http://www.divine-pride.net/database/monster/1065/) Caçar 10 [Tritão](http://www.divine-pride.net/database/monster/1264/) | 17.200 | 15.600 |
-| Morroc | A Caixa da Múmia | 40 | Caçar 10 [Múmia](http://www.divine-pride.net/database/monster/1041/) Coletar 1 934.png [Espólio](http://www.divine-pride.net/database/item/934/) | 7.200 | 7.800 | [Missão Regional de Morroc](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Morroc.md "Missão Regional de Morroc") |
+| Morroc | A Caixa da Múmia | 40 | Caçar 10 [Múmia](http://www.divine-pride.net/database/monster/1041/) Coletar 1 ![934.png](https://static.divine-pride.net/images/items/item/934.png) [Espólio](http://www.divine-pride.net/database/item/934/) | 7.200 | 7.800 | [Missão Regional de Morroc](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Morroc.md "Missão Regional de Morroc") |
 | Preciso Dormir! | 50 | Caçar 10 [Verit](http://www.divine-pride.net/database/monster/1032/) Caçar 10 [Minorous](http://www.divine-pride.net/database/monster/1149/) | 12.000 | 12.800 |
 | Metade Cobra | 60 | Caçar 20 [Ísis](http://www.divine-pride.net/database/monster/1029/) | 16.740 | 17.880 |
 | Pedreiros | 60 | Caçar 15 [Zerom](http://www.divine-pride.net/database/monster/1178/) Caçar 15 [Réquiem](http://www.divine-pride.net/database/monster/1164/) | 19.450 | 20.090 |
-| Enigma da Esfinge | 60 | Caçar 15 [Marduk](http://www.divine-pride.net/database/monster/1140/) Caçar 15 [Pasana](http://www.divine-pride.net/database/monster/1154/) Coletar 10 25073.png [Antigo Papiro](http://www.divine-pride.net/database/item/25073/) [[1]](#cite_note-1) | 25.640 | 24.210 |
-| Areia Movediça | 50 | Caçar 10 [Arenoso](http://www.divine-pride.net/database/monster/1165/) Coletar 5 1056.png [Torrão de Areia](http://www.divine-pride.net/database/item/1056/) | 10.800 | 9.600 |
-| Caverna de Payon | Ritual de Exorcismo | 50 | Caçar 15 [Munak](http://www.divine-pride.net/database/monster/1026/) Caçar 15 [Bongun](http://www.divine-pride.net/database/monster/1188/) Coletar 15 609.png [Amuleto](http://www.divine-pride.net/database/item/609/) [[2]](#cite_note-2) | 13.200 | 12.300 | [Missão Regional de Payon](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Payon.md "Missão Regional de Payon") |
-| Oferenda aos Espíritos | 50 | Usar 10 25078.png [Licor de Lotus](http://www.divine-pride.net/database/item/25078/) | 9.600 | 9.600 |
-| Cheiro de Magia | 50 | Caçar 12 [Sohee](http://www.divine-pride.net/database/monster/1170/) Coletar 3 25188.png [Lenço de Menina](http://www.divine-pride.net/database/item/25188/) [[3]](#cite_note-3) | 10.480 | 12.400 | Pesquisador (payon 198,111) |
+| Enigma da Esfinge | 60 | Caçar 15 [Marduk](http://www.divine-pride.net/database/monster/1140/) Caçar 15 [Pasana](http://www.divine-pride.net/database/monster/1154/) Coletar 10 ![25073.png](https://static.divine-pride.net/images/items/item/25073.png) [Antigo Papiro](http://www.divine-pride.net/database/item/25073/) [[1]](#cite_note-1) | 25.640 | 24.210 |
+| Areia Movediça | 50 | Caçar 10 [Arenoso](http://www.divine-pride.net/database/monster/1165/) Coletar 5 ![1056.png](https://static.divine-pride.net/images/items/item/1056.png) [Torrão de Areia](http://www.divine-pride.net/database/item/1056/) | 10.800 | 9.600 |
+| Caverna de Payon | Ritual de Exorcismo | 50 | Caçar 15 [Munak](http://www.divine-pride.net/database/monster/1026/) Caçar 15 [Bongun](http://www.divine-pride.net/database/monster/1188/) Coletar 15 ![609.png](https://static.divine-pride.net/images/items/item/609.png) [Amuleto](http://www.divine-pride.net/database/item/609/) [[2]](#cite_note-2) | 13.200 | 12.300 | [Missão Regional de Payon](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Payon.md "Missão Regional de Payon") |
+| Oferenda aos Espíritos | 50 | Usar 10 ![25078.png](https://static.divine-pride.net/images/items/item/25078.png) [Licor de Lotus](http://www.divine-pride.net/database/item/25078/) | 9.600 | 9.600 |
+| Cheiro de Magia | 50 | Caçar 12 [Sohee](http://www.divine-pride.net/database/monster/1170/) Coletar 3 ![25188.png](https://static.divine-pride.net/images/items/item/25188.png) [Lenço de Menina](http://www.divine-pride.net/database/item/25188/) [[3]](#cite_note-3) | 10.480 | 12.400 | Pesquisador (payon 198,111) |
 | Torre de Geffen | Caça à Caçadora | 55 | Caçar 10 [Mosca Caçadora](http://www.divine-pride.net/database/monster/1035/) | 8.000 | 6.800 | Estudante de Magia (geffen 126,113) |
 | Magia Maligna | 55 | Caçar 10 [Jakk](http://www.divine-pride.net/database/monster/1130/) Caçar 10 [Carniçal](http://www.divine-pride.net/database/monster/1036/) | 14.800 | 13.660 |
 | Comodo | Amigos na Praia | 60 | Caçar 10 [Foca](http://www.divine-pride.net/database/monster/1317/) Caçar 10 [Lontra](http://www.divine-pride.net/database/monster/1323/) | 10.000 | 10.000 | Soldado (comodo 326,215) |
 | Duro como Pedra | 60 | Caçar 10 [Golem Estalactítico](http://www.divine-pride.net/database/monster/1278/) Caçar 5 [Trilobita](http://www.divine-pride.net/database/monster/1279/) Caçar 5 [Megalith](http://www.divine-pride.net/database/monster/1274/) | 20.000 | 20.000 | Soldado (comodo 170,346) |
 | A Cor Verde | 60 | Caçar 15 [Grove](http://www.divine-pride.net/database/monster/1687/) Caçar 10 [Crocodilo](http://www.divine-pride.net/database/monster/1271/) | 15.000 | 15.000 | Explorador (cmd\_fild01 40,320) |
-| EdenBoard Nível 70 a 99 | | | | | | | |
+| ![EdenBoard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/EdenBoard.gif) Nível 70 a 99 | | | | | | | |
 | Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base | [EXP](../Sem%20categoria/EXP.md "EXP") classe | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
 | Kiel Hyre | Proteger a Academia | 70 | Caçar 15 [Harpia](http://www.divine-pride.net/database/monster/1376/) Caçar 15 [Rochoso](http://www.divine-pride.net/database/monster/1386/) | 36.840 | 40.200 | Guarda da Academia (yuno\_fild08 198,200) |
-| Itens Valiosos | 70 | Coletar 10 7107.png [Pele de Bode](http://www.divine-pride.net/database/item/7107/) Coletar 10 7101.png [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) | 14.200 | 14.200 | [Missão Regional de Al De Baran](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Al%20De%20Baran.md "Missão Regional de Al De Baran") |
+| Itens Valiosos | 70 | Coletar 10 ![7107.png](https://static.divine-pride.net/images/items/item/7107.png) [Pele de Bode](http://www.divine-pride.net/database/item/7107/) Coletar 10 ![7101.png](https://static.divine-pride.net/images/items/item/7101.png) [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) | 14.200 | 14.200 | [Missão Regional de Al De Baran](../Quests%20de%20experi%C3%AAncia/Miss%C3%A3o%20Regional%20de%20Al%20De%20Baran.md "Missão Regional de Al De Baran") |
 | Animais no Campus | 70 | Caçar 20 [Bode](http://www.divine-pride.net/database/monster/1372/) Caçar 20 [Grand Peco](http://www.divine-pride.net/database/monster/1369/) | 42.960 | 43.880 |
-| Torre do Relógio | Faxina na Torre | 70 | Caçar 15 [Punk](http://www.divine-pride.net/database/monster/1199/) Caçar 20 [Rideword](http://www.divine-pride.net/database/monster/1195/) | 33.820 | 40.650 | Zelador do Relógio (aldebaran 143,132) Você também recebe: 7027.png 1 [Chave para o Subterrâneo](http://www.divine-pride.net/database/item/7027/)  7026.png 1 [Chave para a Torre do Relógio](http://www.divine-pride.net/database/item/7026/) |
+| Torre do Relógio | Faxina na Torre | 70 | Caçar 15 [Punk](http://www.divine-pride.net/database/monster/1199/) Caçar 20 [Rideword](http://www.divine-pride.net/database/monster/1195/) | 33.820 | 40.650 | Zelador do Relógio (aldebaran 143,132) Você também recebe: ![7027.png](https://static.divine-pride.net/images/items/item/7027.png) 1 [Chave para o Subterrâneo](http://www.divine-pride.net/database/item/7027/)  ![7026.png](https://static.divine-pride.net/images/items/item/7026.png) 1 [Chave para a Torre do Relógio](http://www.divine-pride.net/database/item/7026/) |
 | Objeto Animado | 80 | Caçar 15 [Relógio](http://www.divine-pride.net/database/monster/1269/) | 20.310 | 17.370 |
 | Objeto Vivo | 80 | Caçar 20 [Alarme](http://www.divine-pride.net/database/monster/1193/) | 28.320 | 27.960 |
 | Risadas no Subsolo | 80 | Caçar 20 [Bathory](http://www.divine-pride.net/database/monster/1102/) | 25.720 | 27.280 |
@@ -146,11 +146,11 @@
 | Peregrinação Pacífica | 90 | Caçar 30 [Roween](http://www.divine-pride.net/database/monster/1782/) | 86.000 | 82.000 | Guarda Aeroportuário (ra\_fild12 296,200) |
 | Guardião da Beleza | 90 | Caçar 30 [Siroma](http://www.divine-pride.net/database/monster/1776/) | 92.000 | 82.000 | Leonardo (rachel 192,138) |
 | Pedra sobre Pedra | 90 | Caçar 30 [Stapo](http://www.divine-pride.net/database/monster/1784/) | 86.000 | 82.000 | Caetano (veins 182,130) |
-| EdenBoard Nível 100 a 110 | | | | | | | |
-| Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base/classe | 25223.png [Moeda](http://www.divine-pride.net/database/item/25223/) | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
+| ![EdenBoard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/EdenBoard.gif) Nível 100 a 110 | | | | | | | |
+| Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base/classe | ![25223.png](https://static.divine-pride.net/images/items/item/25223.png) [Moeda](http://www.divine-pride.net/database/item/25223/) | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
 | Caverna de Magma | Filtro dos Sonhos | 100 | Caçar 30 [Pesadelo Sombrio](http://www.divine-pride.net/database/monster/1379/) | 160.000 | 1 | Guarda do Museu (yuno\_fild03 40,150) |
 | Dragões de Fogo | 100 | Caçar 30 [Exterminador](http://www.divine-pride.net/database/monster/1384/) Caçar 30 [Deletério](http://www.divine-pride.net/database/monster/1385/) | 160.000 | 2 |
-| Estudo Geológico | 100 | Coletar 10 7096.png [Pedra Pome](http://www.divine-pride.net/database/item/7096/) | 160.000 | 1 |
+| Estudo Geológico | 100 | Coletar 10 ![7096.png](https://static.divine-pride.net/images/items/item/7096.png) [Pedra Pome](http://www.divine-pride.net/database/item/7096/) | 160.000 | 1 |
 | Glastheim | Pobre Palhaço | 100 | Caçar 30 [Carat](http://www.divine-pride.net/database/monster/1267/) | 160.000 | 1 | Padre Lúcifer (glast\_01 213,294) |
 | O MVP mais Forte | 100 | Caçar 30 [Arclouse](http://www.divine-pride.net/database/monster/1194/) | 160.000 | 1 |
 | Limpeza de Esgoto | 100 | Caçar 30 [Anolian](http://www.divine-pride.net/database/monster/1206/) | 200.000 | 1 |
@@ -168,28 +168,28 @@
 | Belos Músculos! | 110 | Caçar 30 [Naga](http://www.divine-pride.net/database/monster/1993/) | 300.000 | 1 |
 | Conto de Fadas | 110 | Caçar 30 [Cornus](http://www.divine-pride.net/database/monster/1992/) | 300.000 | 1 |
 | Espinhos Perigosos | 110 | Caçar 20 [Larva de Centopéia](http://www.divine-pride.net/database/monster/1999/) | 300.000 | 1 |
-| Poder do Chifre | 110 | Coletar 20 6023.png [Chifre Místico](http://www.divine-pride.net/database/item/6023/) | 300.000 | 1 |
+| Poder do Chifre | 110 | Coletar 20 ![6023.png](https://static.divine-pride.net/images/items/item/6023.png) [Chifre Místico](http://www.divine-pride.net/database/item/6023/) | 300.000 | 1 |
 | Império Sacro | Vilarejo dos Kobolds | 100 | Caçar 20 [Kobold Machado](http://www.divine-pride.net/database/monster/1133/) Caçar 20 [Kobold Martelo](http://www.divine-pride.net/database/monster/1134/) Caçar 20 [Kobold Maça](http://www.divine-pride.net/database/monster/1135/) | 250.000 | 2 | Caçador Harim (ra\_fild08 274,352) |
 | Vila da Colina | 100 | Caçar 30 [Vento da Colina](http://www.divine-pride.net/database/monster/1680/) | 150.000 | 1 |
 | Alcateia no Deserto | 100 | Caçar 30 [Lobo do Deserto](http://www.divine-pride.net/database/monster/1106/) | 150.000 | 1 | Caçador Sarim (ra\_fild01 225,325) |
-| Pelos de Cachorro | 100 | Coletar 20 1034.png [Cabelo Azul](http://www.divine-pride.net/database/item/1034/) | 100.000 | 1 | Fazendeiro Cheda (rachel 247,120) |
+| Pelos de Cachorro | 100 | Coletar 20 ![1034.png](https://static.divine-pride.net/images/items/item/1034.png) [Cabelo Azul](http://www.divine-pride.net/database/item/1034/) | 100.000 | 1 | Fazendeiro Cheda (rachel 247,120) |
 | Guerra contra as Plantas | 100 | Caçar 30 [Muscipular](http://www.divine-pride.net/database/monster/1780/) Caçar 30 [Drosera](http://www.divine-pride.net/database/monster/1781/) | 300.000 | 2 | Jardineira (veins 183,91) |
 | Mutação Vulcânica | 100 | Caçar 30 [Magmaring](http://www.divine-pride.net/database/monster/1836/) | 150.000 | 1 | Vigia de Veins (veins 157,29) |
-| Minhas Bebidas Geladas | 100 | Coletar 20 7561.png [Coração Glacial](http://www.divine-pride.net/database/item/7561/) | 100.000 | 1 | Barista (rachel 91,134) |
+| Minhas Bebidas Geladas | 100 | Coletar 20 ![7561.png](https://static.divine-pride.net/images/items/item/7561.png) [Coração Glacial](http://www.divine-pride.net/database/item/7561/) | 100.000 | 1 | Barista (rachel 91,134) |
 | Monstro das Neves | 100 | Caçar 30 [Yeti](http://www.divine-pride.net/database/monster/1775/) | 150.000 | 1 | Amigo do Mago (ice\_dun01 149,168) |
 | Cristais são Duros? | 100 | Caçar 10 [Gazeti](http://www.divine-pride.net/database/monster/1778/) Caçar 30 [Titã de Gelo](http://www.divine-pride.net/database/monster/1777/) | 300.000 | 1 |
 | Torre de Thanatos | Uma Caixa Viva | 110 | Caçar 30 [Mímico Antigo](http://www.divine-pride.net/database/monster/1699/) | 400.000 | 1 | Felícia (tha\_t01 160,84) |
 | Palavras ao Vento | 110 | Caçar 30 [Palavra Morta](http://www.divine-pride.net/database/monster/1698/) | 400.000 | 1 |
 | Barão do Reino | 110 | Caçar 20 [Barão Coruja](http://www.divine-pride.net/database/monster/1295/) | 500.000 | 1 |
-| Páginas de um Livro | 110 | Coletar 10 7449.png [Página Sangrenta](http://www.divine-pride.net/database/item/7449/) | 400.000 | 1 |
-| Manuscritos Mágicos | 110 | Coletar 10 7099.png [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/) | 400.000 | 1 |
-| Aula de Reciclagem | 110 | Coletar 30 7071.png [Farrapos](http://www.divine-pride.net/database/item/7071/) | 400.000 | 1 |
+| Páginas de um Livro | 110 | Coletar 10 ![7449.png](https://static.divine-pride.net/images/items/item/7449.png) [Página Sangrenta](http://www.divine-pride.net/database/item/7449/) | 400.000 | 1 |
+| Manuscritos Mágicos | 110 | Coletar 10 ![7099.png](https://static.divine-pride.net/images/items/item/7099.png) [Pergaminho Antigo](http://www.divine-pride.net/database/item/7099/) | 400.000 | 1 |
+| Aula de Reciclagem | 110 | Coletar 30 ![7071.png](https://static.divine-pride.net/images/items/item/7071.png) [Farrapos](http://www.divine-pride.net/database/item/7071/) | 400.000 | 1 |
 | Juperos | Formigas de Aço | 110 | Caçar 20 [Venatu Verde](http://www.divine-pride.net/database/monster/1677/) Caçar 20 [Venatu Laranja](http://www.divine-pride.net/database/monster/1676/) | 300.000 base 250.000 classe | 1 | Membro Ernesto (yuno\_fild07 232,176) |
 | Formigas de Ferro | 110 | Caçar 20 [Venatu Azul](http://www.divine-pride.net/database/monster/1679/) Caçar 20 [Venatu Vermelho](http://www.divine-pride.net/database/monster/1678/) | 300.000 base 250.000 classe | 1 |
 | Robôs Coloridos | 110 | Caçar 10 [Dimik Azul](http://www.divine-pride.net/database/monster/1671/) Caçar 10 [Dimik Laranja](http://www.divine-pride.net/database/monster/1672/) | 300.000 base 250.000 classe | 1 | Líder Maximus (yuno\_fild07 228,172) |
 | Robôs Multicoloridos | 110 | Caçar 10 [Dimik Verde](http://www.divine-pride.net/database/monster/1670/) Caçar 10 [Dimik Vermelho](http://www.divine-pride.net/database/monster/1673/) | 300.000 base 250.000 classe | 1 |
-| EdenBoard Nível 120 a 140 | | | | | | | |
-| Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base/classe | 25223.png [Moeda](http://www.divine-pride.net/database/item/25223/) | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
+| ![EdenBoard](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c8/EdenBoard.gif) Nível 120 a 140 | | | | | | | |
+| Opção | Missão | Nv. | Objetivo | [EXP](../Sem%20categoria/EXP.md "EXP") base/classe | ![25223.png](https://static.divine-pride.net/images/items/item/25223.png) [Moeda](http://www.divine-pride.net/database/item/25223/) | [NPC](../Sem%20categoria/NPC.md "NPC") da história |
 | Templo de Odin | Menina Gótica | 120 | Caçar 20 [Skogul](http://www.divine-pride.net/database/monster/1752/) | 600.000 | 1 | Morband (hugel 198,105) |
 | Purificar o Mal | 120 | Caçar 20 [Frus](http://www.divine-pride.net/database/monster/1753/) | 600.000 | 1 |
 | Seres Gelatinosos | 120 | Caçar 5 [Skeggiold Azul](http://www.divine-pride.net/database/monster/1755/) Caçar 5 [Skeggiold Marrom](http://www.divine-pride.net/database/monster/1754/) | 600.000 | 2 |
@@ -250,26 +250,26 @@
 
 | Opção | Nv. | Entrega | [EXP](../Sem%20categoria/EXP.md "EXP") base |
 | --- | --- | --- | --- |
-| Nível 1~30 | 1 | |  |  | | --- | --- | | 914.png | 30 [Felpa](http://www.divine-pride.net/database/item/914/) | | 5.000 |
-| 10 | |  |  | | --- | --- | | 918.png | 30 [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) | | 5.400 |
-| 15 | |  |  | | --- | --- | | 940.png | 30 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/) | | 5.940 |
-| 20 | |  |  | | --- | --- | | 946.png | 30 [Casco de Caramujo](http://www.divine-pride.net/database/item/946/) | | 7.020 |
-| 25 | |  |  | | --- | --- | | 925.png | 30 [Bico de Ave](http://www.divine-pride.net/database/item/925/) | | 9.720 |
-| 30 | |  |  | | --- | --- | | 948.png | 30 [Pata de Urso](http://www.divine-pride.net/database/item/948/) | | 10.800 |
-| Nível 35~55 | 35 | |  |  | | --- | --- | | 907.png | 30 [Resina](http://www.divine-pride.net/database/item/907/) | | 13.980 |
-| 40 | |  |  | | --- | --- | | 942.png | 30 [Cauda de Yoyo](http://www.divine-pride.net/database/item/942/) | | 16.200 |
-| 45 | |  |  | | --- | --- | | 1041.png | 30 [Lampião](http://www.divine-pride.net/database/item/1041/) | | 19.980 |
-| 50 | |  |  | | --- | --- | | 961.png | 30 [Concha](http://www.divine-pride.net/database/item/961/) | | 22.140 |
-| 55 | |  |  | | --- | --- | | 950.png | 30 [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | | 28.560 |
-| Nível 60~80 | 60 | |  |  | | --- | --- | | 1028.png | 30 [Crina](http://www.divine-pride.net/database/item/1028/) | | 34.380 |
-| 65 | |  |  | | --- | --- | | 1020.png | 30 [Cabelos Morenos](http://www.divine-pride.net/database/item/1020/) | | 35.640 |
-| 70 | |  |  | | --- | --- | | 944.png | 30 [Ferradura](http://www.divine-pride.net/database/item/944/) | | 36.000 |
-| 75 | |  |  | | --- | --- | | 1042.png | 30 [Pata de Inseto](http://www.divine-pride.net/database/item/1042/) | | 48.600 |
-| 80 | |  |  | | --- | --- | | 7124.png | 30 [Areia Molhada](http://www.divine-pride.net/database/item/7124/) | | 62.040 |
-| Nível 85~100 | 85 | |  |  | | --- | --- | | 7264.png | 30 [Areia Seca](http://www.divine-pride.net/database/item/7264/) | | 72.060 |
-| 90 | |  |  | | --- | --- | | 967.png | 30 [Casco de Tartaruga](http://www.divine-pride.net/database/item/967/) | | 78.300 |
-| 95 | |  |  | | --- | --- | | 1038.png | 30 [Pequeno Chifre Maligno](http://www.divine-pride.net/database/item/1038/) | | 108.360 |
-| 100 | |  |  | | --- | --- | | 7561.png | 30 [Coração Glacial](http://www.divine-pride.net/database/item/7561/) | | 116.640 |
+| Nível 1~30 | 1 | |  |  | | --- | --- | | ![914.png](https://static.divine-pride.net/images/items/item/914.png) | 30 [Felpa](http://www.divine-pride.net/database/item/914/) | | 5.000 |
+| 10 | |  |  | | --- | --- | | ![918.png](https://static.divine-pride.net/images/items/item/918.png) | 30 [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) | | 5.400 |
+| 15 | |  |  | | --- | --- | | ![940.png](https://static.divine-pride.net/images/items/item/940.png) | 30 [Perna de Gafanhoto](http://www.divine-pride.net/database/item/940/) | | 5.940 |
+| 20 | |  |  | | --- | --- | | ![946.png](https://static.divine-pride.net/images/items/item/946.png) | 30 [Casco de Caramujo](http://www.divine-pride.net/database/item/946/) | | 7.020 |
+| 25 | |  |  | | --- | --- | | ![925.png](https://static.divine-pride.net/images/items/item/925.png) | 30 [Bico de Ave](http://www.divine-pride.net/database/item/925/) | | 9.720 |
+| 30 | |  |  | | --- | --- | | ![948.png](https://static.divine-pride.net/images/items/item/948.png) | 30 [Pata de Urso](http://www.divine-pride.net/database/item/948/) | | 10.800 |
+| Nível 35~55 | 35 | |  |  | | --- | --- | | ![907.png](https://static.divine-pride.net/images/items/item/907.png) | 30 [Resina](http://www.divine-pride.net/database/item/907/) | | 13.980 |
+| 40 | |  |  | | --- | --- | | ![942.png](https://static.divine-pride.net/images/items/item/942.png) | 30 [Cauda de Yoyo](http://www.divine-pride.net/database/item/942/) | | 16.200 |
+| 45 | |  |  | | --- | --- | | ![1041.png](https://static.divine-pride.net/images/items/item/1041.png) | 30 [Lampião](http://www.divine-pride.net/database/item/1041/) | | 19.980 |
+| 50 | |  |  | | --- | --- | | ![961.png](https://static.divine-pride.net/images/items/item/961.png) | 30 [Concha](http://www.divine-pride.net/database/item/961/) | | 22.140 |
+| 55 | |  |  | | --- | --- | | ![950.png](https://static.divine-pride.net/images/items/item/950.png) | 30 [Coração de Sereia](http://www.divine-pride.net/database/item/950/) | | 28.560 |
+| Nível 60~80 | 60 | |  |  | | --- | --- | | ![1028.png](https://static.divine-pride.net/images/items/item/1028.png) | 30 [Crina](http://www.divine-pride.net/database/item/1028/) | | 34.380 |
+| 65 | |  |  | | --- | --- | | ![1020.png](https://static.divine-pride.net/images/items/item/1020.png) | 30 [Cabelos Morenos](http://www.divine-pride.net/database/item/1020/) | | 35.640 |
+| 70 | |  |  | | --- | --- | | ![944.png](https://static.divine-pride.net/images/items/item/944.png) | 30 [Ferradura](http://www.divine-pride.net/database/item/944/) | | 36.000 |
+| 75 | |  |  | | --- | --- | | ![1042.png](https://static.divine-pride.net/images/items/item/1042.png) | 30 [Pata de Inseto](http://www.divine-pride.net/database/item/1042/) | | 48.600 |
+| 80 | |  |  | | --- | --- | | ![7124.png](https://static.divine-pride.net/images/items/item/7124.png) | 30 [Areia Molhada](http://www.divine-pride.net/database/item/7124/) | | 62.040 |
+| Nível 85~100 | 85 | |  |  | | --- | --- | | ![7264.png](https://static.divine-pride.net/images/items/item/7264.png) | 30 [Areia Seca](http://www.divine-pride.net/database/item/7264/) | | 72.060 |
+| 90 | |  |  | | --- | --- | | ![967.png](https://static.divine-pride.net/images/items/item/967.png) | 30 [Casco de Tartaruga](http://www.divine-pride.net/database/item/967/) | | 78.300 |
+| 95 | |  |  | | --- | --- | | ![1038.png](https://static.divine-pride.net/images/items/item/1038.png) | 30 [Pequeno Chifre Maligno](http://www.divine-pride.net/database/item/1038/) | | 108.360 |
+| 100 | |  |  | | --- | --- | | ![7561.png](https://static.divine-pride.net/images/items/item/7561.png) | 30 [Coração Glacial](http://www.divine-pride.net/database/item/7561/) | | 116.640 |
 
 ### Caçada
 

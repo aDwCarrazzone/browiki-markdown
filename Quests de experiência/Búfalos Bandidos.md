@@ -2,18 +2,18 @@
 
 # Búfalos Bandidos
 
-| NQ ico Búfalos Bandidos | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Búfalos Bandidos | |
 | --- | --- |
 | O problema de Rockridge tem nome e cheiro: Búfalos Bandidos. Esse grupo de delinquentes precisa ser impedido de dominar o maior tesouro da cidade. Cabe à você impedir que eles conquistem o objetivo! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 25283.png 5 [Lenço Marrom](http://www.divine-pride.net/database/item/25283/) 25278.png 5 [Pano de Bandido](http://www.divine-pride.net/database/item/25278/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25283.png](https://static.divine-pride.net/images/items/item/25283.png) 5 [Lenço Marrom](http://www.divine-pride.net/database/item/25283/) ![25278.png](https://static.divine-pride.net/images/items/item/25278.png) 5 [Pano de Bandido](http://www.divine-pride.net/database/item/25278/) |
 | **Caça** | 3 [Búfalo Pistoleiro](http://www.divine-pride.net/database/monster/3737/) 3 [Búfalo Ladrão](http://www.divine-pride.net/database/monster/3738/) 3 [Búfalo Bandido](http://www.divine-pride.net/database/monster/3738/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2.500.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 1.200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25250.png 200 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) 28495.png [Distintivo do Xerife I](http://www.divine-pride.net/database/item/28495/) ou  28496.png [Distintivo do Xerife II](http://www.divine-pride.net/database/item/28496/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 200 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) ![28495.png](https://static.divine-pride.net/images/items/item/28495.png) [Distintivo do Xerife I](http://www.divine-pride.net/database/item/28495/) ou  ![28496.png](https://static.divine-pride.net/images/items/item/28496.png) [Distintivo do Xerife II](http://www.divine-pride.net/database/item/28496/) |
 | **Recompensa** | Libera a missão [Pacificando a Família](Pacificando%20a%20Fam%C3%ADlia.md "Pacificando a Família") e [Aventuras em Rockridge](Aventuras%20em%20Rockridge.md "Aventuras em Rockridge") |
 
 1. Fale com Karem Pucci (alberta 240,104)
@@ -68,8 +68,8 @@
     5. Você receberá 1 [Caixa de Minérios Púrpuras](http://www.divine-pride.net/database/item/25248/).
     6. Entregue a caixa para Shawn McCurdy e sair da Mina.
 15. Shawn McCurdy dará as seguintes missões:
-    1. Coletar ![25283.png](http://static.divine-pride.net/images/items/item/25283.png) 5 [Lenço Marrom](http://www.divine-pride.net/database/item/25283/)
-    2. Coletar ![25278.png](http://static.divine-pride.net/images/items/item/25278.png) 5 [Pano de Bandido](http://www.divine-pride.net/database/item/25278/)
+    1. Coletar ![25283.png](https://static.divine-pride.net/images/items/item/25283.png) 5 [Lenço Marrom](http://www.divine-pride.net/database/item/25283/)
+    2. Coletar ![25278.png](https://static.divine-pride.net/images/items/item/25278.png) 5 [Pano de Bandido](http://www.divine-pride.net/database/item/25278/)
     3. Eliminar 3 [Búfalo Pistoleiro](http://www.divine-pride.net/database/monster/3737/)
     4. Eliminar 3 [Búfalo Ladrão](http://www.divine-pride.net/database/monster/3738/)
     5. Eliminar 3 [Búfalo Bandido](http://www.divine-pride.net/database/monster/3738/)
@@ -77,15 +77,15 @@
 17. Depois de uma longa conversa, retorne a Wyatt Warp (har\_in01 20,30)
     - Você receberá 200 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) e a recompensa em [experiência](../Sem%20categoria/Experi%C3%AAncia.md "Experiência").
     - O Xerife também dá a opção de escolher 1 entre os dois acessórios:
-      - ![28495.png](http://static.divine-pride.net/images/items/item/28495.png) [Distintivo do Xerife I](http://www.divine-pride.net/database/item/28495/)
-      - ![28496.png](http://static.divine-pride.net/images/items/item/28496.png) [Distintivo do Xerife II](http://www.divine-pride.net/database/item/28496/)
+      - ![28495.png](https://static.divine-pride.net/images/items/item/28495.png) [Distintivo do Xerife I](http://www.divine-pride.net/database/item/28495/)
+      - ![28496.png](https://static.divine-pride.net/images/items/item/28496.png) [Distintivo do Xerife II](http://www.divine-pride.net/database/item/28496/)
 18. Você liberou as as missões diárias e a missão [Pacificando a Família](Pacificando%20a%20Fam%C3%ADlia.md "Pacificando a Família").
 
 ### Missões diárias
 
 | Missão | [NPC](../Sem%20categoria/NPC.md "NPC") | Objetivo | Recompensa |
 | --- | --- | --- | --- |
-| DQ ico Limpando Canos | Donovan  (harboro1 138,157) | - Eliminar 20 [Anêmona-do-Mar](http://www.divine-pride.net/database/monster/3743/) Disponível em grande quantidade em  (harboro2 59,259) | - 25250.png 1 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 25.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Preparação pro Festival | Daimon  (harboro2 164,80) | - Eliminar 15 [Gaster](http://www.divine-pride.net/database/monster/3740/) - Coletar 25277.png 10 [Pó Tóxico](http://www.divine-pride.net/database/item/25277/) - Coletar 6213.png 1 [Pó Explosivo](http://www.divine-pride.net/database/item/6213/) | - 25250.png 3 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 76.200 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 70.740 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Ajudando a Tribo | Cacto Cavaleiro  (rockrdg1 264,90) | - Coletar 25247.png 10 [Minério Púrpura](http://www.divine-pride.net/database/item/25247/) Aparecem direto no inventário ao derrotar qualquer monstro de Kiwawa. | - 25250.png 1 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 25.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
-| DQ ico Gás! Gás! | Ghast  (rockrdg2 297,328) | - Eliminar 15 [Gaster](http://www.divine-pride.net/database/monster/3740/) | - 25250.png 3 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 101.600 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 94.320 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Limpando Canos | Donovan  (harboro1 138,157) | - Eliminar 20 [Anêmona-do-Mar](http://www.divine-pride.net/database/monster/3743/) Disponível em grande quantidade em  (harboro2 59,259) | - ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 1 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 25.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Preparação pro Festival | Daimon  (harboro2 164,80) | - Eliminar 15 [Gaster](http://www.divine-pride.net/database/monster/3740/) - Coletar ![25277.png](https://static.divine-pride.net/images/items/item/25277.png) 10 [Pó Tóxico](http://www.divine-pride.net/database/item/25277/) - Coletar ![6213.png](https://static.divine-pride.net/images/items/item/6213.png) 1 [Pó Explosivo](http://www.divine-pride.net/database/item/6213/) | - ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 3 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 76.200 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 70.740 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Ajudando a Tribo | Cacto Cavaleiro  (rockrdg1 264,90) | - Coletar ![25247.png](https://static.divine-pride.net/images/items/item/25247.png) 10 [Minério Púrpura](http://www.divine-pride.net/database/item/25247/) Aparecem direto no inventário ao derrotar qualquer monstro de Kiwawa. | - ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 1 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 25.000 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 20.000 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Gás! Gás! | Ghast  (rockrdg2 297,328) | - Eliminar 15 [Gaster](http://www.divine-pride.net/database/monster/3740/) | - ![25250.png](https://static.divine-pride.net/images/items/item/25250.png) 3 [Moeda Rockridge](http://www.divine-pride.net/database/item/25250/) - 101.600 [EXP](../Sem%20categoria/EXP.md "EXP") de base - 94.320 [EXP](../Sem%20categoria/EXP.md "EXP") de classe |

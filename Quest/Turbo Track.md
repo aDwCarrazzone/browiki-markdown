@@ -39,31 +39,31 @@ A arena do Turbo Track fica no Feudo de Luina, em [Al De Baran](../Lugares%20em%
 
 |  |
 | --- |
-| Turbo Track1 |
+| ![Turbo Track1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/76/Turbo_Track1.gif) |
 | Ponte de Madeira |
 | Percurso inicial que exige movimentos precisos em cima da ponte, caso cair, você retorna ao início do trajeto. |
-| Turbo Track2 |
+| ![Turbo Track2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/Turbo_Track2.gif) |
 | Caixas Empilhadas |
 | Pista com diferentes elevações, dificultando a passagem para um caminho livre. Haverão [Munaks](http://www.divine-pride.net/database/monster/1610/) e armadilhas para dificultar. |
-| Turbo Track3 |
+| ![Turbo Track3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/Turbo_Track3.gif) |
 | Deserto |
 | Trajeto curto, mas cada passo haverá uma chance de sofrer [atordoamento](../Sem%20categoria/Atordoamento.md "Atordoamento"), [caos](../Sem%20categoria/Caos.md "Caos"), [maldição](../Sem%20categoria/Maldi%C3%A7%C3%A3o.md "Maldição"), [petrificação](../Sem%20categoria/Petrifica%C3%A7%C3%A3o.md "Petrificação"), [sono](../Sem%20categoria/Sono.md "Sono"), [congelamento](../Sem%20categoria/Congelamento.md "Congelamento") ou uma [Kafra](../Sem%20categoria/Kafra.md "Kafra") inconveniente querendo abrir seu armazém. |
-| Turbo Track4 |
+| ![Turbo Track4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Turbo_Track4.gif) |
 | Esgotos |
 | Um labirinto a ser percorrido enquanto sofre de [cegueira](../Sem%20categoria/Cegueira.md "Cegueira") temporária. |
-| Turbo Track5 |
+| ![Turbo Track5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Turbo_Track5.gif) |
 | Labirinto Caracol |
 | Esta pista lembra muito o casco de um caracol, mas cuidado para não se confundir! |
-| Turbo Track6 |
+| ![Turbo Track6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/Turbo_Track6.gif) |
 | Labirinto da Serpente |
 | Um caminho repleto de [Esqueletos Arqueiros](http://www.divine-pride.net/database/monster/1420/). Você pode derrotá-los, se preferir, mas alguns consideram perda de tempo. |
-| Turbo Track7 |
+| ![Turbo Track7](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/06/Turbo_Track7.gif) |
 | Caverna |
 | [Munaks](http://www.divine-pride.net/database/monster/1610/), [Bonguns](http://www.divine-pride.net/database/monster/1611/) e [Yao Juns](http://www.divine-pride.net/database/monster/1612/) não deixarão você cruzar esta caverna. |
-| Turbo Track8 |
+| ![Turbo Track8](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Turbo_Track8.gif) |
 | Labirinto Invisível |
 | Este labirinto possui paredes invisíveis. Você deve se guiar apenas pelo instinto para conseguir achar a saída. |
-| Turbo Track9 |
+| ![Turbo Track9](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Turbo_Track9.gif) |
 | Reta Final |
 | Uma linha reta onde os corredores serão atacados por vários meteoros, podendo morrer antes de cruzar a linha de chegada. |
 
@@ -92,20 +92,20 @@ Ao competir seu personagem recebe 2 pontos de participação.
 
 | Pontos | Premiação |
 | --- | --- |
-| 10 | 7060.png 1 [Vale-Teleporte](http://www.divine-pride.net/database/item/7060/) |
-| 12 | 699.png 1 [Pergaminho de Barreira de Fogo Nível 5](http://www.divine-pride.net/database/item/699/) |
-| 12 | 697.png 1 [Pergaminho de Bolas de Fogo Nível 5](http://www.divine-pride.net/database/item/697/) |
-| 12 | 687.png 1 [Pergaminho de Coluna de Pedra Nível 5](http://www.divine-pride.net/database/item/687/) |
-| 12 | 695.png 1 [Pergaminho de Espíritos Anciões Nível 5](http://www.divine-pride.net/database/item/695/) |
-| 12 | 691.png 1 [Pergaminho de Lanças de Fogo Nível 5](http://www.divine-pride.net/database/item/691/) |
-| 12 | 689.png 1 [Pergaminho de Lanças de Gelo Nível 5](http://www.divine-pride.net/database/item/689/) |
-| 12 | 693.png 1 [Pergaminho de Relâmpago Nível 5](http://www.divine-pride.net/database/item/693/) |
-| 12 | 12002.png 1 [Pergaminho de Cura Nível 5](http://www.divine-pride.net/database/item/12002/) |
-| 12 | 12000.png 1 [Pergaminho de Rajada Congelante Nível 5](http://www.divine-pride.net/database/item/12000/) |
+| 10 | ![7060.png](https://static.divine-pride.net/images/items/item/7060.png) 1 [Vale-Teleporte](http://www.divine-pride.net/database/item/7060/) |
+| 12 | ![699.png](https://static.divine-pride.net/images/items/item/699.png) 1 [Pergaminho de Barreira de Fogo Nível 5](http://www.divine-pride.net/database/item/699/) |
+| 12 | ![697.png](https://static.divine-pride.net/images/items/item/697.png) 1 [Pergaminho de Bolas de Fogo Nível 5](http://www.divine-pride.net/database/item/697/) |
+| 12 | ![687.png](https://static.divine-pride.net/images/items/item/687.png) 1 [Pergaminho de Coluna de Pedra Nível 5](http://www.divine-pride.net/database/item/687/) |
+| 12 | ![695.png](https://static.divine-pride.net/images/items/item/695.png) 1 [Pergaminho de Espíritos Anciões Nível 5](http://www.divine-pride.net/database/item/695/) |
+| 12 | ![691.png](https://static.divine-pride.net/images/items/item/691.png) 1 [Pergaminho de Lanças de Fogo Nível 5](http://www.divine-pride.net/database/item/691/) |
+| 12 | ![689.png](https://static.divine-pride.net/images/items/item/689.png) 1 [Pergaminho de Lanças de Gelo Nível 5](http://www.divine-pride.net/database/item/689/) |
+| 12 | ![693.png](https://static.divine-pride.net/images/items/item/693.png) 1 [Pergaminho de Relâmpago Nível 5](http://www.divine-pride.net/database/item/693/) |
+| 12 | ![12002.png](https://static.divine-pride.net/images/items/item/12002.png) 1 [Pergaminho de Cura Nível 5](http://www.divine-pride.net/database/item/12002/) |
+| 12 | ![12000.png](https://static.divine-pride.net/images/items/item/12000.png) 1 [Pergaminho de Rajada Congelante Nível 5](http://www.divine-pride.net/database/item/12000/) |
 | 40 | [Experiência de base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de base"):  - **Nv. 10 a 69:** 3.000 - **Nv. 70 a 79:** 9.000 - **Nv. 80 a 89:** 10.000 - **Nv. 90 a 99:** 30.000 |
-| 150 | 732.png 1 [Diamante de 3 quilates](http://www.divine-pride.net/database/item/732/) |
-| 350 | 644.png 1 [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
-| 400 | 12016.png 1 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) |
+| 150 | ![732.png](https://static.divine-pride.net/images/items/item/732.png) 1 [Diamante de 3 quilates](http://www.divine-pride.net/database/item/732/) |
+| 350 | ![644.png](https://static.divine-pride.net/images/items/item/644.png) 1 [Caixa de Presente](http://www.divine-pride.net/database/item/644/) |
+| 400 | ![12016.png](https://static.divine-pride.net/images/items/item/12016.png) 1 [Poção do Vento](http://www.divine-pride.net/database/item/12016/) |
 
 - Você pode trocar Pontos da [Arena de Batalha](Arena%20de%20Batalha.md "Arena de Batalha") por Pontos do Turbo Track com o Encarregado da Turbo Track (turbo\_room 107,117)
 

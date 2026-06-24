@@ -2,19 +2,19 @@
 
 # Valor Sentimental
 
-| NQ ico Valor Sentimental | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Valor Sentimental | |
 | --- | --- |
 | O misterioso roubo de uma caixa pode aflorar a nostalgia dos irmãos Wigner. Caberá a você descobrir o paradeiro da caixa e ajudar Jurgen com o seu novo amor. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 523.png 1 [Água Benta](http://www.divine-pride.net/database/item/523/)  7001.png 1 [Pó de Bolor](http://www.divine-pride.net/database/item/7001/)  582.png 1 [Laranja](http://www.divine-pride.net/database/item/582/)  970.png 1 [Álcool](http://www.divine-pride.net/database/item/970/)  568.png 1 [Limão](http://www.divine-pride.net/database/item/568/)  7043.png 1 [Areia Fina](http://www.divine-pride.net/database/item/7043/)  6254.png 3 [Medalhões de Carne](http://www.divine-pride.net/database/item/6254/)  748.png 2 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![523.png](https://static.divine-pride.net/images/items/item/523.png) 1 [Água Benta](http://www.divine-pride.net/database/item/523/)  ![7001.png](https://static.divine-pride.net/images/items/item/7001.png) 1 [Pó de Bolor](http://www.divine-pride.net/database/item/7001/)  ![582.png](https://static.divine-pride.net/images/items/item/582.png) 1 [Laranja](http://www.divine-pride.net/database/item/582/)  ![970.png](https://static.divine-pride.net/images/items/item/970.png) 1 [Álcool](http://www.divine-pride.net/database/item/970/)  ![568.png](https://static.divine-pride.net/images/items/item/568.png) 1 [Limão](http://www.divine-pride.net/database/item/568/)  ![7043.png](https://static.divine-pride.net/images/items/item/7043.png) 1 [Areia Fina](http://www.divine-pride.net/database/item/7043/)  ![6254.png](https://static.divine-pride.net/images/items/item/6254.png) 3 [Medalhões de Carne](http://www.divine-pride.net/database/item/6254/)  ![748.png](https://static.divine-pride.net/images/items/item/748.png) 2 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) |
 | **Caça** | [Medusa](http://www.divine-pride.net/database/monster/1148/) |
 | **Quests anteriores** | [Banquete Real](Banquete%20Real.md "Banquete Real") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.200.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 700.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6919.png 14 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6919.png](https://static.divine-pride.net/images/items/item/6919.png) 14 [Marca de Honra](http://www.divine-pride.net/database/item/6919/) |
 | **Recompensa** | Libera a missão [Os Wigner](As%20Fam%C3%ADlias%20Reais.md#Os_Wigner "As Famílias Reais") |
 
 1. No quarto dos Wigner, fale com Katrin Wigner (prt\_cas\_q 97,6)
@@ -58,8 +58,8 @@
 8. Continue falando com Jurgen até a Empregada aparecer.
 9. Siga para a cozinha e fale com a Empregada.
 10. Retorne a Jurgen Wigner. Ele deseja que você traga:
-    - ![6927.png](http://static.divine-pride.net/images/items/item/6927.png) 15 [Pedra do Mar](http://www.divine-pride.net/database/item/6927/)
-    - ![748.png](http://static.divine-pride.net/images/items/item/748.png) 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)
+    - ![6927.png](https://static.divine-pride.net/images/items/item/6927.png) 15 [Pedra do Mar](http://www.divine-pride.net/database/item/6927/)
+    - ![748.png](https://static.divine-pride.net/images/items/item/748.png) 1 [Rosa Eterna](http://www.divine-pride.net/database/item/748/)
 11. Com os itens no inventário, dirija-se para a Empregada.
     - Ao entregar as [Pedras do Mar](http://www.divine-pride.net/database/item/6927/), a [NPC](../Sem%20categoria/NPC.md "NPC") remove todas elas do inventário.
 12. Conte o relato a Jurgen Wigner para receber sua recompensa.

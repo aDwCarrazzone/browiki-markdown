@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Lex Regio** | |
-| Lex Regio | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Lex Regio** | |
+| ![Lex Regio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Lex_Regio.gif) | |
 | **ID:** | NPC\_LEX\_AETERNA (727) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

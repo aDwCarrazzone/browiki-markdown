@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Bater em Retirada Bater em Retirada** | |
-| Bater em Retirada | |
+| **![Bater em Retirada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b3/Bater_em_Retirada.png) Bater em Retirada** | |
+| ![Bater em Retirada](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Bater_em_Retirada.gif) | |
 | **Urgent Escape / Emergency Avoid** | |
 | **ID** | HLIF\_AVOID (8002) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Duração** | [45 - (Nv. da habilidade × 5)] segundos |
 | **Alvo** | Mestre e Homunculus |
 | **Pré-requisitos** | |
-| [Cura pelas Mãos](Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") [Cura pelas Mãos](Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") Nv. 3 | |
+| [![Cura pelas Mãos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Cura_pelas_M%C3%A3os.png)](Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") [Cura pelas Mãos](Cura%20pelas%20M%C3%A3os.md "Cura pelas Mãos") Nv. 3 | |
 
 Aumenta a [velocidade de movimento](../Sem%20categoria/Velocidade%20de%20movimento.md "Velocidade de movimento") do [homunculus](../Homunculus/Homunculus.md "Homunculus") e do mestre.
 

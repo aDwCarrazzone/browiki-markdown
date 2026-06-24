@@ -2,16 +2,16 @@
 
 # Esconde-Esconde
 
-| NQ ico Esconde-Esconde | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Esconde-Esconde | |
 | --- | --- |
 | Tente acalmar uma criança que está desesperada por ter se perdido do pai. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 12051.png 1 [Caranguejo no Vapor](http://www.divine-pride.net/database/item/12051/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12051.png](https://static.divine-pride.net/images/items/item/12051.png) 1 [Caranguejo no Vapor](http://www.divine-pride.net/database/item/12051/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 5.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12065.png 3 [Saladas Verdes](http://www.divine-pride.net/database/item/12065/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12065.png](https://static.divine-pride.net/images/items/item/12065.png) 3 [Saladas Verdes](http://www.divine-pride.net/database/item/12065/) |
 
 1. Encontre Torpy (hugel 107,67)
 

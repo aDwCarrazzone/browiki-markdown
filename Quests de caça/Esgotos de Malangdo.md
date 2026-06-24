@@ -2,19 +2,19 @@
 
 # Esgotos de Malangdo
 
-| SC ico Esgotos de Malangdo | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Esgotos de Malangdo | |
 | --- | --- |
 | A limpeza dos esgotos precisa ser feita minuciosamente. Caso contrário, os aparelhos de drenagem entopem com algas estranhas e peixes muito poderosos podem invadir a ilha Malangdo. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 90 (Modo Normal) 140 |
 | **Tipo** | Instância |
 | **Duração** | 2 horas |
-| Skilldelayinfo **Retorno** | 1 hora |
-| **[Itens](../Itens/Itens.md "Itens")** | 6436.png [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/6436/) |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 1 hora |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6436.png](https://static.divine-pride.net/images/items/item/6436.png) [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/6436/) |
 | **Caça** | Ver Tabela |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster CelacantoS [Celacanto Sombrio](http://www.divine-pride.net/database/monster/2187/) Monster CelacantoE [Celacanto Mutante](http://www.divine-pride.net/database/monster/2189/) Monster CelacantoS [Celacanto Cruel](http://www.divine-pride.net/database/monster/2188/) Monster CelacantoE [Celacanto Violento](http://www.divine-pride.net/database/monster/2190/) |
+| **Chefe** | ![Monster CelacantoS](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Monster_CelacantoS.png) [Celacanto Sombrio](http://www.divine-pride.net/database/monster/2187/) ![Monster CelacantoE](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Monster_CelacantoE.png) [Celacanto Mutante](http://www.divine-pride.net/database/monster/2189/) ![Monster CelacantoS](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Monster_CelacantoS.png) [Celacanto Cruel](http://www.divine-pride.net/database/monster/2188/) ![Monster CelacantoE](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e0/Monster_CelacantoE.png) [Celacanto Violento](http://www.divine-pride.net/database/monster/2190/) |
 
 1. Antes de gerar a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância"), pegue uma missão com Bigodes (mal\_in01 172,28)
 
@@ -59,7 +59,7 @@
 
 | [Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") | | | |
 | --- | --- | --- | --- |
-| Premiação | 6419.png 2 [Moedas Classe B](http://www.divine-pride.net/database/item/6419/) | 6418.png 1 [Moeda Classe A](http://www.divine-pride.net/database/item/6418/) |
+| Premiação | ![6419.png](https://static.divine-pride.net/images/items/item/6419.png) 2 [Moedas Classe B](http://www.divine-pride.net/database/item/6419/) | ![6418.png](https://static.divine-pride.net/images/items/item/6418.png) 1 [Moeda Classe A](http://www.divine-pride.net/database/item/6418/) |
 | Tipo | Modo Normal | Modo Difícil |
 | Físico | [Caranguejo das Profundezas](http://www.divine-pride.net/database/monster/2176/) | [Cavalo-marinho Ancestral](http://www.divine-pride.net/database/monster/2182/) |
 | Físico | [Marte das Profundezas](http://www.divine-pride.net/database/monster/2175/) | [Anolian Mutante](http://www.divine-pride.net/database/monster/2183/) |
@@ -68,7 +68,7 @@
 | Físico | [Kukre Ancestral](http://www.divine-pride.net/database/monster/2179/) | [Obeaune das Profundezas](http://www.divine-pride.net/database/monster/2184/) |
 | Físico | [Cornutus das Profundezas](http://www.divine-pride.net/database/monster/2177/) | [Kapha Metamorfo](http://www.divine-pride.net/database/monster/2185/) |
 | [MVPs](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") | | | |
-| Premiação | 6423.png 1 [Ira do Deus do Mar](http://www.divine-pride.net/database/item/6423/) | 6423.png 5 [Iras do Deus do Mar](http://www.divine-pride.net/database/item/6423/) |
+| Premiação | ![6423.png](https://static.divine-pride.net/images/items/item/6423.png) 1 [Ira do Deus do Mar](http://www.divine-pride.net/database/item/6423/) | ![6423.png](https://static.divine-pride.net/images/items/item/6423.png) 5 [Iras do Deus do Mar](http://www.divine-pride.net/database/item/6423/) |
 | Tipo | Modo Normal | Modo Difícil |
 | Físico | [Celacanto Cruel](http://www.divine-pride.net/database/monster/2188/) | [Celacanto Mutante](http://www.divine-pride.net/database/monster/2189/) |
 | Mágico | [Celacanto Sombrio](http://www.divine-pride.net/database/monster/2187/) | [Celacanto Violento](http://www.divine-pride.net/database/monster/2190/) |

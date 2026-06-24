@@ -2,14 +2,14 @@
 
 # Sociedade de Monstros
 
-| DQ ico Sociedade de Monstros | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Sociedade de Monstros | |
 | --- | --- |
 | A Sociedade Juniana de Monstros é uma repartição pública de pesquisas em Juno. A SJM descobriu que os monstros ficaram mais agressivos e aumentaram demograficamente. Por isso, enviaram auxiliares e agentes para várias áreas de risco. Para quem aceitar o trabalho, uma Água Mineral fica disponível no Bebedouro Misterioso. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Repetível |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000374.png [Água Mineral](http://www.divine-pride.net/database/item/1000374/) (opcional) |
-| Skilldelayinfo **Espera:** | 4 da manhã |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000374.png](https://static.divine-pride.net/images/items/item/1000374.png) [Água Mineral](http://www.divine-pride.net/database/item/1000374/) (opcional) |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Espera:** | 4 da manhã |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
 

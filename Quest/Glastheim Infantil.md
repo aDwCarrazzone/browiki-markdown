@@ -2,18 +2,18 @@
 
 # Glastheim Infantil
 
-| SC ico Glastheim Infantil | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Glastheim Infantil | |
 | --- | --- |
 | Iniciantes poderão experimentar uma história distorcida da instância [Maldição de Glastheim](Maldi%C3%A7%C3%A3o%20de%20Glastheim.md "Maldição de Glastheim"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 65 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Quinta-feira |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Quinta-feira |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
 | **Chefe** | Nenhum |
-| **[Itens](../Itens/Itens.md "Itens")** | 6608.png [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) |
 
 [![MapaOGHa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/MapaOGHa.png)](https://browiki.org/wiki/Arquivo%3AMapaOGHa.png)
 
@@ -93,10 +93,10 @@ Mapa-Chave da instância
     :   ![OGH014](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/OGH014.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelas estátuas:
-      - ![909.png](http://static.divine-pride.net/images/items/item/909.png) [Jellopy](http://www.divine-pride.net/database/item/909/)
-      - ![6608.png](http://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/)
-      - ![6607.png](http://static.divine-pride.net/images/items/item/6607.png) [Cristal Temporal](http://www.divine-pride.net/database/item/6607/)
-      - ![727.png](http://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
+      - ![909.png](https://static.divine-pride.net/images/items/item/909.png) [Jellopy](http://www.divine-pride.net/database/item/909/)
+      - ![6608.png](https://static.divine-pride.net/images/items/item/6608.png) [Mana Coagulada](http://www.divine-pride.net/database/item/6608/)
+      - ![6607.png](https://static.divine-pride.net/images/items/item/6607.png) [Cristal Temporal](http://www.divine-pride.net/database/item/6607/)
+      - ![727.png](https://static.divine-pride.net/images/items/item/727.png) [Opala](http://www.divine-pride.net/database/item/727/)
     - Bônus de DROP não influenciam na chance.
 23. Retorne a Hugin para se quiser sair da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância").
     - Você pode usar a [Mana Coagulada](http://www.divine-pride.net/database/item/6608/) em [Glastheim](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim").

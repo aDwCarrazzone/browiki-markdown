@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Cinzas Vulcânicas Cinzas Vulcânicas** | |
-| Cinzas Vulcânicas | |
+| **![Cinzas Vulcânicas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/51/Cinzas_Vulc%C3%A2nicas.png) Cinzas Vulcânicas** | |
+| ![Cinzas Vulcânicas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/47/Cinzas_Vulc%C3%A2nicas.gif) | |
 | **Volcanic Ash** | |
 | **ID** | MH\_VOLCANIC\_ASH (8043) |
 | **Tipo** | Ativa |
@@ -17,7 +17,7 @@
 | **Alvo** | Chão |
 | **Alcance** | 7 células |
 | **Área** | 3x3 células |
-| **Ícone** | I Cinzas Vulcânicas |
+| **Ícone** | ![I Cinzas Vulcânicas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/11/I_Cinzas_Vulc%C3%A2nicas.png) |
 | **Pré-requisitos** | |
 | [Dieter](../Sem%20categoria/Dieter.md "Dieter") nível 102 | |
 

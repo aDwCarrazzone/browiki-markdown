@@ -2,18 +2,18 @@
 
 # Missão Regional de Izlude
 
-| NQ ico Missão Regional de Izlude | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Izlude | |
 | --- | --- |
 | Estudantes de [Moscóvia](../Lugares%20em%20Ragnar%C3%B6k/Mosc%C3%B3via.md "Moscóvia"), [Porto Malaya](../Lugares%20em%20Ragnar%C3%B6k/Porto%20Malaya.md "Porto Malaya") e [Amatsu](../Lugares%20em%20Ragnar%C3%B6k/Amatsu.md "Amatsu") estão fazendo intercâmbio por Rune-Midgard, mas acabaram deixando um amigo para trás...  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1024.png 10 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1024.png](https://static.divine-pride.net/images/items/item/1024.png) 10 [Tintas de Polvo](http://www.divine-pride.net/database/item/1024/) |
 | **Caça** | 10 [Marses](http://www.divine-pride.net/database/monster/1144/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 10.640 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 10.240 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12056.png 1 [Sopa de Lula e Sapo](http://www.divine-pride.net/database/item/12056/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12056.png](https://static.divine-pride.net/images/items/item/12056.png) 1 [Sopa de Lula e Sapo](http://www.divine-pride.net/database/item/12056/) |
 
 1. Fale com Ernesto (iz\_dun01 121,158)
 

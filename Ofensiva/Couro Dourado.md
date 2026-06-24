@@ -4,7 +4,7 @@
 
 |  |  |
 | --- | --- |
-| **Couro Dourado Couro Dourado** | |
+| **![Couro Dourado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/73/Couro_Dourado.png) Couro Dourado** | |
 | [Arquivo:Couro Dourado.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Couro_Dourado.gif "Arquivo:Couro Dourado.gif") | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |
@@ -16,7 +16,7 @@
 | **Alcance** | 9 células |
 | **Área** | 3x3 ~ 7x7 células |
 | **Propriedade** | [Sagrado](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md#Propriedade "Monstros") |
-| **Ícone** | I Couro Dourado |
+| **Ícone** | ![I Couro Dourado](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/I_Couro_Dourado.png) |
 | **Pré-requisitos** | |
 | [Bayeri](../Sem%20categoria/Bayeri.md "Bayeri") nível 138 | |
 

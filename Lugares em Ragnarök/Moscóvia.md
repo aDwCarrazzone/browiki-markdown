@@ -24,13 +24,13 @@ Dizem que, se você demonstrar talento, será ricamente recompensado.
 
 |  |  |  |
 | --- | --- | --- |
-| Moscóvia map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (moscovia 223,191) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (moscovia 211,200) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (mosk\_in 135,191) |
-| Map pocao | Loja de Ferramentas | (mosk\_in 21,254) |
-| Map escudo | Loja de Armaduras | (mosk\_in 79,178) |
+| ![Moscóvia map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Mosc%C3%B3via_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (moscovia 223,191) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (moscovia 211,200) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (mosk\_in 135,191) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (mosk\_in 21,254) |
+| ![Map escudo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/dd/Map_escudo.png) | Loja de Armaduras | (mosk\_in 79,178) |
 
 |  |  |  |
 | --- | --- | --- |

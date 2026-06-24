@@ -34,15 +34,15 @@ Por ser relativamente distante da capital, é um local calmo onde a meditação,
 
 |  |  |  |
 | --- | --- | --- |
-| Abadia de Santa Capitolina map novo | | |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prt\_monk 203,169) |
-| Map faca | Loja de Munições | (prt\_monk 135,263) |
-| Map bandeira | Guilda dos [Monges](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Monges.md "Monges") | (monk\_test 319,139) |
+| ![Abadia de Santa Capitolina map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0c/Abadia_de_Santa_Capitolina_map_novo.png) | | |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (prt\_monk 203,169) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (prt\_monk 135,263) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Monges](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Monges.md "Monges") | (monk\_test 319,139) |
 
 |  |  |  |
 | --- | --- | --- |
 | NPCs | | |
-| Rust Blackhand | Cria 1 5518.png [Chifres Místicos de Bafomé](http://www.divine-pride.net/database/item/5518/) com os itens:  - 990.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") - 6004.png 1 [Boneco de Bafomé Maldito](http://www.divine-pride.net/database/item/6004/) - 2256.png 1 [Chifres Majestosos](http://www.divine-pride.net/database/item/2256/) - 7799.png 30 [Cristal da Escuridão](http://www.divine-pride.net/database/item/7799/) - 7798.png 50 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/) - Concluir o [Altar do Selo](../Quest/Altar%20do%20Selo.md "Altar do Selo") | (prt\_monk 261,91) |
+| Rust Blackhand | Cria 1 ![5518.png](https://static.divine-pride.net/images/items/item/5518.png) [Chifres Místicos de Bafomé](http://www.divine-pride.net/database/item/5518/) com os itens:  - 990.000 [zenys](../Sem%20categoria/Zenys.md "Zenys") - ![6004.png](https://static.divine-pride.net/images/items/item/6004.png) 1 [Boneco de Bafomé Maldito](http://www.divine-pride.net/database/item/6004/) - ![2256.png](https://static.divine-pride.net/images/items/item/2256.png) 1 [Chifres Majestosos](http://www.divine-pride.net/database/item/2256/) - ![7799.png](https://static.divine-pride.net/images/items/item/7799.png) 30 [Cristal da Escuridão](http://www.divine-pride.net/database/item/7799/) - ![7798.png](https://static.divine-pride.net/images/items/item/7798.png) 50 [Fragmento da Escuridão](http://www.divine-pride.net/database/item/7798/) - Concluir o [Altar do Selo](../Quest/Altar%20do%20Selo.md "Altar do Selo") | (prt\_monk 261,91) |
 
 ## Quests & Calabouços
 

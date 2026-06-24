@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Marcar Território Marcar Território** | |
-| Marcar Território | |
+| **![Marcar Território](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/56/Marcar_Territ%C3%B3rio.png) Marcar Território** | |
+| ![Marcar Território](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Marcar_Territ%C3%B3rio.gif) | |
 | **Charge Shout Flag** | |
 | **ID** | GD\_CHARGESHOUT\_FLAG (10017) |
 | **Tipo** | Ativa |
@@ -14,7 +14,7 @@
 | **Recarga** | 15 minutos |
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Pré-requisitos** | |
-| [Chamado Urgente](Chamado%20Urgente.md "Chamado Urgente") [Chamado Urgente](Chamado%20Urgente.md "Chamado Urgente") Nv. 1 | |
+| [![Chamado Urgente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Chamado_Urgente.png)](Chamado%20Urgente.md "Chamado Urgente") [Chamado Urgente](Chamado%20Urgente.md "Chamado Urgente") Nv. 1 | |
 
 Finca uma Bandeira na célula do líder do clã por 5 minutos.
 

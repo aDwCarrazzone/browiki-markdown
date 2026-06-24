@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Grande Liderança Grande Liderança** | |
-| SemImagem | |
+| **![Grande Liderança](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1f/Grande_Lideran%C3%A7a.png) Grande Liderança** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Great Leadership** | |
 | **ID** | GD\_LEADERSHIP (10006) |
 | **Tipo** | Passiva |

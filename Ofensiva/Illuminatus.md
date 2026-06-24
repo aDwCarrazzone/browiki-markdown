@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Illuminatus Illuminatus** | |
-| Illuminatus | |
+| **![Illuminatus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Illuminatus.png) Illuminatus** | |
+| ![Illuminatus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/Illuminatus.gif) | |
 | **Heilige Stange** | |
 | **ID** | MH\_HEILIGE\_STANGE (8034) |
 | **Tipo** | Ofensiva |

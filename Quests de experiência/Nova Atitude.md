@@ -2,13 +2,13 @@
 
 # Nova Atitude
 
-| NQ ico Nova Atitude | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Nova Atitude | |
 | --- | --- |
 | Ajude os irmãos cientistas a concluir as pesquisas sobre o Novo Mundo! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 713.png 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  523.png 5 [Água Benta](http://www.divine-pride.net/database/item/523/)  938.png 30 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  6041.png 1 [Trepadeira Resistente](http://www.divine-pride.net/database/item/6041/)  6032.png 20 [Chifre de Leão da Montanha](http://www.divine-pride.net/database/item/6032/)  6033.png 1 [Chifre de Leão de Vinhas](http://www.divine-pride.net/database/item/6033/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![713.png](https://static.divine-pride.net/images/items/item/713.png) 1 [Garrafa Vazia](http://www.divine-pride.net/database/item/713/)  ![523.png](https://static.divine-pride.net/images/items/item/523.png) 5 [Água Benta](http://www.divine-pride.net/database/item/523/)  ![938.png](https://static.divine-pride.net/images/items/item/938.png) 30 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/)  ![6041.png](https://static.divine-pride.net/images/items/item/6041.png) 1 [Trepadeira Resistente](http://www.divine-pride.net/database/item/6041/)  ![6032.png](https://static.divine-pride.net/images/items/item/6032.png) 20 [Chifre de Leão da Montanha](http://www.divine-pride.net/database/item/6032/)  ![6033.png](https://static.divine-pride.net/images/items/item/6033.png) 1 [Chifre de Leão de Vinhas](http://www.divine-pride.net/database/item/6033/) |
 | **Caça** | 30 [Pinguiculas](http://www.divine-pride.net/database/monster/1995/)  10 [Cornus](http://www.divine-pride.net/database/monster/1992/) 10 [Tatachos](http://www.divine-pride.net/database/monster/1986/) |
 | **Quests anteriores** | [Outra Dimensão](Outra%20Dimens%C3%A3o.md "Outra Dimensão") ou [Para o Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") |
 | Premiação | |

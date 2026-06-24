@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Chamado Urgente Chamado Urgente** | |
-| Chamado Urgente | |
+| **![Chamado Urgente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/33/Chamado_Urgente.png) Chamado Urgente** | |
+| ![Chamado Urgente](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/88/Chamado_Urgente.gif) | |
 | **Urgent Call** | |
 | **ID** | GD\_EMERGENCYCALL (10013) |
 | **Tipo** | Ativa |
@@ -14,7 +14,7 @@
 | **Recarga** | 5 minutos |
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Pré-requisitos** | |
-| [Regeneração](../Suporte/Regenera%C3%A7%C3%A3o.md "Regeneração") [Regeneração](../Suporte/Regenera%C3%A7%C3%A3o.md "Regeneração") Nv. 1 [Comandar Guardiões](../Passiva/Comandar%20Guardi%C3%B5es.md "Comandar Guardiões") [Comandar Guardiões](../Passiva/Comandar%20Guardi%C3%B5es.md "Comandar Guardiões") Nv. 1 | |
+| [![Regeneração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Regenera%C3%A7%C3%A3o.png)](../Suporte/Regenera%C3%A7%C3%A3o.md "Regeneração") [Regeneração](../Suporte/Regenera%C3%A7%C3%A3o.md "Regeneração") Nv. 1 [![Comandar Guardiões](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/21/Comandar_Guardi%C3%B5es.png)](../Passiva/Comandar%20Guardi%C3%B5es.md "Comandar Guardiões") [Comandar Guardiões](../Passiva/Comandar%20Guardi%C3%B5es.md "Comandar Guardiões") Nv. 1 | |
 
 Teleporta todos os membros vivos e conectados do [clã](../PvP/Cl%C3%A3.md "Clã") para ao lado do líder.
 

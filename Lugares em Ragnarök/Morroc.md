@@ -26,17 +26,17 @@ Com a reconstrução da cidade, todos os vendedores e nativos de Morroc retornar
 
 |  |  |  |
 | --- | --- | --- |
-| Morroc map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (morocc 156,97) |
-| Map warehouse | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (morocc 168,107) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (morocc\_in 146,99) |
-| Map pocao | Loja de Ferramentas | (morocc\_in 141,6) |
-| Map faca | Loja de Munições | (morocc\_in 251,58) |
-| Map bigorna | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (morocc\_in 73,38) |
-| Map bandeira | Guilda dos [Espiritualistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espiritualistas.md "Espiritualistas") | (morocc\_in 174,30) |
-| Map lantern | Sede do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | (morocc 50,188) |
-| Map dun01 | [Entrada da Fenda](http://www.divine-pride.net/database/map/moc_fild20/) | (morocc 296,207) |
+| ![Morroc map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/17/Morroc_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (morocc 156,97) |
+| ![Map warehouse](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Map_warehouse.png) | [Armazém do Clã](../Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") | (morocc 168,107) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (morocc\_in 146,99) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (morocc\_in 141,6) |
+| ![Map faca](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/60/Map_faca.png) | Loja de Munições | (morocc\_in 251,58) |
+| ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png) | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (morocc\_in 73,38) |
+| ![Map bandeira](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e9/Map_bandeira.png) | Guilda dos [Espiritualistas](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Espiritualistas.md "Espiritualistas") | (morocc\_in 174,30) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Sede do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden") | (morocc 50,188) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Entrada da Fenda](http://www.divine-pride.net/database/map/moc_fild20/) | (morocc 296,207) |
 
 |  |  |  |
 | --- | --- | --- |

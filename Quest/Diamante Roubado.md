@@ -2,17 +2,17 @@
 
 # Diamante Roubado
 
-| NQ ico Diamante Roubado | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Diamante Roubado | |
 | --- | --- |
 | Um misterioso diamante parece ter sido roubado por um famoso grupo de bandidos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 65 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 7043.png 20 [Areias Finas](http://www.divine-pride.net/database/item/7043/)  7054.png 10 [Brigans](http://www.divine-pride.net/database/item/7054/)  7194.png 10 [Gramas](http://www.divine-pride.net/database/item/7194/)  713.png 5 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![7043.png](https://static.divine-pride.net/images/items/item/7043.png) 20 [Areias Finas](http://www.divine-pride.net/database/item/7043/)  ![7054.png](https://static.divine-pride.net/images/items/item/7054.png) 10 [Brigans](http://www.divine-pride.net/database/item/7054/)  ![7194.png](https://static.divine-pride.net/images/items/item/7194.png) 10 [Gramas](http://www.divine-pride.net/database/item/7194/)  ![713.png](https://static.divine-pride.net/images/items/item/713.png) 5 [Garrafas Vazias](http://www.divine-pride.net/database/item/713/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 10.000 |
 | **Quests anteriores** | [Consolidação da Dívida](Consolida%C3%A7%C3%A3o%20da%20D%C3%ADvida.md "Consolidação da Dívida") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 603.png 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  732.png 2 [Diamantes de 3 quilates](http://www.divine-pride.net/database/item/732/)  722.png 1 [Pérola](http://www.divine-pride.net/database/item/722/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![603.png](https://static.divine-pride.net/images/items/item/603.png) 1 [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  ![732.png](https://static.divine-pride.net/images/items/item/732.png) 2 [Diamantes de 3 quilates](http://www.divine-pride.net/database/item/732/)  ![722.png](https://static.divine-pride.net/images/items/item/722.png) 1 [Pérola](http://www.divine-pride.net/database/item/722/) |
 
 1. Ajude Ibrahim (moc\_ruins 152,147)
 

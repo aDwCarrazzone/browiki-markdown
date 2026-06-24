@@ -2,18 +2,18 @@
 
 # Fábrica Infantil
 
-| SC ico Fábrica Infantil | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Fábrica Infantil | |
 | --- | --- |
 | Iniciantes poderão experimentar uma história distorcida da instância [Fábrica do Terror](F%C3%A1brica%20do%20Terror.md "Fábrica do Terror"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Quinta-feira |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Quinta-feira |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
 | **Chefe** | Nenhum |
-| **Recompensa** | 7642.png [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
+| **Recompensa** | ![7642.png](https://static.divine-pride.net/images/items/item/7642.png) [Moedas Sangrentas](http://www.divine-pride.net/database/item/7642/) |
 
 [![FabricaHorror1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/75/FabricaHorror1.png)](https://browiki.org/wiki/Arquivo%3AFabricaHorror1.png)
 
@@ -87,16 +87,16 @@ Mapa-Chave da Fábrica. Clique para ampliar.
     :   ![ToyHorror12](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/ToyHorror12.png)
 
     - Os seguintes itens serão derrubados aleatoriamente pelos baús:
-      - ![7642.png](http://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
-      - ![644.png](http://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/)
-      - ![616.png](http://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
-      - ![12246.png](http://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
-      - ![18848.png](http://static.divine-pride.net/images/items/item/18848.png) [Presilha de Rosas](http://www.divine-pride.net/database/item/18848/) (1%)
-      - ![2977.png](http://static.divine-pride.net/images/items/item/2977.png) [Coração Partido](http://www.divine-pride.net/database/item/2977/) (1%)
-      - ![2978.png](http://static.divine-pride.net/images/items/item/2978.png) [Coração Bondoso](http://www.divine-pride.net/database/item/2978/) (1%)
-      - ![2976.png](http://static.divine-pride.net/images/items/item/2976.png) [Lampião das Trevas](http://www.divine-pride.net/database/item/2976/) (1%)
-      - ![13442.png](http://static.divine-pride.net/images/items/item/13442.png) [Guarda-Chuva Antiquado](http://www.divine-pride.net/database/item/13442/) (1%)
-      - ![2486.png](http://static.divine-pride.net/images/items/item/2486.png) [Passo das Sombras](http://www.divine-pride.net/database/item/2486/) [1] (1%)
+      - ![7642.png](https://static.divine-pride.net/images/items/item/7642.png) [Moeda Sangrenta](http://www.divine-pride.net/database/item/7642/)
+      - ![644.png](https://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/)
+      - ![616.png](https://static.divine-pride.net/images/items/item/616.png) [Velho Álbum de Cartas](http://www.divine-pride.net/database/item/616/)
+      - ![12246.png](https://static.divine-pride.net/images/items/item/12246.png) [Álbum Mágico de Cartas](http://www.divine-pride.net/database/item/12246/)
+      - ![18848.png](https://static.divine-pride.net/images/items/item/18848.png) [Presilha de Rosas](http://www.divine-pride.net/database/item/18848/) (1%)
+      - ![2977.png](https://static.divine-pride.net/images/items/item/2977.png) [Coração Partido](http://www.divine-pride.net/database/item/2977/) (1%)
+      - ![2978.png](https://static.divine-pride.net/images/items/item/2978.png) [Coração Bondoso](http://www.divine-pride.net/database/item/2978/) (1%)
+      - ![2976.png](https://static.divine-pride.net/images/items/item/2976.png) [Lampião das Trevas](http://www.divine-pride.net/database/item/2976/) (1%)
+      - ![13442.png](https://static.divine-pride.net/images/items/item/13442.png) [Guarda-Chuva Antiquado](http://www.divine-pride.net/database/item/13442/) (1%)
+      - ![2486.png](https://static.divine-pride.net/images/items/item/2486.png) [Passo das Sombras](http://www.divine-pride.net/database/item/2486/) [1] (1%)
     - Bônus de DROP não influenciam na chance.
 19. Para sair da instância, clique no Portão.
 

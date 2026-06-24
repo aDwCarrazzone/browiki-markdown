@@ -2,18 +2,18 @@
 
 # Enfermeira em Porto Malaya
 
-| NQ ico Enfermeira em Porto Malaya | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Enfermeira em Porto Malaya | |
 | --- | --- |
 | Ajude a enfermeira novata a entrar no hospital no qual a contrataram para trabalhar. Ainda que existam boatos de que o hospital está abandonado... | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 930.png 2 [Bandagens Estragadas](http://www.divine-pride.net/database/item/930/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![930.png](https://static.divine-pride.net/images/items/item/930.png) 2 [Bandagens Estragadas](http://www.divine-pride.net/database/item/930/) |
 | **Caça** | 1 [Bangungot](http://www.divine-pride.net/database/monster/2317/) |
 | **Quests anteriores** | [Vila Cautelosa](../Quests%20de%20experi%C3%AAncia/Vila%20Cautelosa.md "Vila Cautelosa") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6499.png 3 [Rancor Antigo](http://www.divine-pride.net/database/item/6499/)  6497.png [Amuletos Menores](http://www.divine-pride.net/database/item/6497/)  617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6499.png](https://static.divine-pride.net/images/items/item/6499.png) 3 [Rancor Antigo](http://www.divine-pride.net/database/item/6499/)  ![6497.png](https://static.divine-pride.net/images/items/item/6497.png) [Amuletos Menores](http://www.divine-pride.net/database/item/6497/)  ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/) |
 | **Recompensa** | Acesso ao [Hospital Abandonado](../Quest/Hospital%20Abandonado.md "Hospital Abandonado") |
 
 1. Converse com a Enfermeira (malaya 55,72)

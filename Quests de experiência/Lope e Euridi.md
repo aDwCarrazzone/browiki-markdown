@@ -2,17 +2,17 @@
 
 # Lope e Euridi
 
-| NQ ico Lope e Euridi | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Lope e Euridi | |
 | --- | --- |
 | O desaparecimento de uma pessoa amada pode acarretar em uma busca perigosa pelo labirinto enevoado. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 6383.png 60 [Pistas sobre Lope](http://www.divine-pride.net/database/item/6383/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6383.png](https://static.divine-pride.net/images/items/item/6383.png) 60 [Pistas sobre Lope](http://www.divine-pride.net/database/item/6383/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 2.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 3.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6380.png 12 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6380.png](https://static.divine-pride.net/images/items/item/6380.png) 12 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/) |
 
 1. Ofereça ajuda a Euridi (mora 117,66)
 

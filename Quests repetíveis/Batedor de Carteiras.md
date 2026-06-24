@@ -2,14 +2,14 @@
 
 # Batedor de Carteiras
 
-| DQ ico Batedor de Carteiras | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Batedor de Carteiras | |
 | --- | --- |
 | Quando os níveis de desigualdade social são altos, o número de pessoas marginalizadas aumenta, gerando uma terrível onda de assaltos! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Repetível |
 | Premiação | |
-| **Recompensa** | 12016.png [Poções do Vento](http://www.divine-pride.net/database/item/12016/) |
+| **Recompensa** | ![12016.png](https://static.divine-pride.net/images/items/item/12016.png) [Poções do Vento](http://www.divine-pride.net/database/item/12016/) |
 
 1. Seu objetivo é ser "vítima" de um assalto, perdendo de 100 a 200 [zenys](../Sem%20categoria/Zenys.md "Zenys") durante a missão. O [NPC](../Sem%20categoria/NPC.md "NPC") ficará fugindo de uma coordenada para outra se você não o capturar.
 2. Aproxime-se do Cara Suspeito (lighthalzen 240,216)

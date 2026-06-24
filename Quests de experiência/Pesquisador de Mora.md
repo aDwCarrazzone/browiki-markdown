@@ -2,7 +2,7 @@
 
 # Pesquisador de Mora
 
-| NQ ico Pesquisador de Mora | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Pesquisador de Mora | |
 | --- | --- |
 | Um químico foi roubado por uma misteriosa criatura nas águas termais da vila. Ajude o pesquisador e conheça a história do ladrão aquático! | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 4.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6380.png 37 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/)  5792.png 1 [Alfinete de Peixe](http://www.divine-pride.net/database/item/5792/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6380.png](https://static.divine-pride.net/images/items/item/6380.png) 37 [Moedas de Mora](http://www.divine-pride.net/database/item/6380/)  ![5792.png](https://static.divine-pride.net/images/items/item/5792.png) 1 [Alfinete de Peixe](http://www.divine-pride.net/database/item/5792/) |
 
 1. Ofereça ajuda ao Pesquisador de Mora (mora 31,138)
 

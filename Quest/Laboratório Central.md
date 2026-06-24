@@ -2,14 +2,14 @@
 
 # Laboratório Central
 
-| SC ico Laboratório Central | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Laboratório Central | |
 | --- | --- |
 | Fazer parte de um experimento perigoso pode trazer consequências muito graves quando o computador principal cria vida própria e controla os próprios comandos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 140 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Fantasmagórica](../Quests%20de%20experi%C3%AAncia/Fantasmag%C3%B3rica.md "Fantasmagórica") |
 | Premiação | |

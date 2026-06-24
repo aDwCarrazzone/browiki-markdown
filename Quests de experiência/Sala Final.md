@@ -2,20 +2,20 @@
 
 # Sala Final
 
-| SC ico Sala Final | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Sala Final | |
 | --- | --- |
 | Os últimos sobreviventes do abrigo subterrâneo precisavam escapar da onda de vírus que transformava as pessoas em zumbis. Atravessando de sala em sala, os sobreviventes chegaram na última sala... | |
 | Requisitos mínimos | |
 | **Nv. de base** | 150 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4h da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4h da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") |
 | Premiação | |
-| **Chefe** | Monster T W O [T\_W\_O](http://www.divine-pride.net/database/monster/3254/) |
+| **Chefe** | ![Monster T W O](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/41/Monster_T_W_O.png) [T\_W\_O](http://www.divine-pride.net/database/monster/3254/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 200.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 6827.png [Peça Intacta](http://www.divine-pride.net/database/item/6827/) 6828.png [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6827.png](https://static.divine-pride.net/images/items/item/6827.png) [Peça Intacta](http://www.divine-pride.net/database/item/6827/) ![6828.png](https://static.divine-pride.net/images/items/item/6828.png) [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/) |
 
 1. Fale com Verity (verus01 123,181)
 
@@ -50,9 +50,9 @@
 
    - Você receberá 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") base, 1 [Peça Intacta](http://www.divine-pride.net/database/item/6827/) e outro [Aparelho Gravitacional](http://www.divine-pride.net/database/item/6828/).
    - Fruit troca 17 [Peças Intactas](http://www.divine-pride.net/database/item/6827/) pelos seguintes equipamentos:
-     - ![18997.png](http://static.divine-pride.net/images/items/item/18997.png) [Chip Fugitivo](http://www.divine-pride.net/database/item/18997/)
-     - ![28326.png](http://static.divine-pride.net/images/items/item/28326.png) [Chip Quebrado 01](http://www.divine-pride.net/database/item/28326/)
-     - ![28327.png](http://static.divine-pride.net/images/items/item/28327.png) [Chip Quebrado 02](http://www.divine-pride.net/database/item/28327/)
+     - ![18997.png](https://static.divine-pride.net/images/items/item/18997.png) [Chip Fugitivo](http://www.divine-pride.net/database/item/18997/)
+     - ![28326.png](https://static.divine-pride.net/images/items/item/28326.png) [Chip Quebrado 01](http://www.divine-pride.net/database/item/28326/)
+     - ![28327.png](https://static.divine-pride.net/images/items/item/28327.png) [Chip Quebrado 02](http://www.divine-pride.net/database/item/28327/)
 
 | *[Instâncias](../Quest/Inst%C3%A2ncias.md "Instâncias") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

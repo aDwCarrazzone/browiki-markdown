@@ -2,7 +2,7 @@
 
 # Ilusión
 
-| EP ico Ilusión | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Ilusión | |
 | --- | --- |
 | À pedido do Presidente da República, a Vento Secreto está investigando pessoas desaparecidas. A Corporação Rekenber também quer resolução do caso, já que todos os desaparecidos são seus funcionários. Ambos acordaram em pedir ajuda da Rebelião. O problema é que todos esses grupos se odeiam. Então caberá à você resolver esse mistério. | |
 | Requisitos mínimos | |
@@ -13,7 +13,7 @@
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 4.500.000 + 25% |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 5.850.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25723.png 40 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) 25669.png 50 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) 25668.png 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 40 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 50 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/) ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/) |
 | **Recompensa** | Libera o acesso a:  - [Rudus](http://www.divine-pride.net/database/map/sp_rudus/) - [Distrito OS](http://www.divine-pride.net/database/map/sp_os/) - [Distrito COR](http://www.divine-pride.net/database/map/sp_cor/) - [Aventuras no Distrito](Aventuras%20no%20Distrito.md "Aventuras no Distrito") - [Procurando Patrick](Procurando%20Patrick.md "Procurando Patrick") - [Ocupação OS](Ocupa%C3%A7%C3%A3o%20OS.md "Ocupação OS") - [Memorial COR](Memorial%20COR.md "Memorial COR") - [Equipamentos Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión") |
 
 1. No Palácio de Prontera, entre no seu quarto e fale com Nihil (prt\_cas\_q 21,39).
@@ -54,7 +54,7 @@
    - Ao reportar a missão completa para Lukie, você já pode atravesar o paredão pelo Portão Trancado.
 4. Volte a falar com a Elena Bolkova (sp\_rudus 184,360)
    - Você receberá 400.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base 2 vezes e 400.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe 2 vezes.
-   - Você ganha ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 15 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
+   - Você ganha ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 15 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
 5. Reporte a situação para Tess, no *Miado de Bala*, em [Einbroch](../Lugares%20em%20Ragnar%C3%B6k/Einbroch.md "Einbroch") (pub\_cat 93,105)
 6. Próximo de Tess está o Aposentado, clique nele para entrar na sala secreta.
 
@@ -106,7 +106,7 @@
       6. Elimine a [Cobaia Detida](http://www.divine-pride.net/database/monster/20353/) e fale com Ace no centro do Auditório. Escolha a opção "*Ir para Einbroch*".
 3. Vá para o *Miado de Bala* e converse com Tess (pub\_cat 93,105).
    - Você receberá 500.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base 2 vezes e 400.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe 2 vezes.
-   - Você ganha ![25669.png](http://static.divine-pride.net/images/items/item/25669.png) 25 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
+   - Você ganha ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 25 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
    - Falando novamente com Tess, você também recebe 200.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
 
 ### Crise na Rekenber
@@ -149,7 +149,7 @@
    :   ![Ilusion08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/Ilusion08.png)
 
    - Você receberá 600.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
-   - Você ganha ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
+   - Você ganha ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 20 [Núcleo COR](http://www.divine-pride.net/database/item/25723/)
 
 ### Como nos velhos tempos
 
@@ -187,7 +187,7 @@
       :   ![OsBlock04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/OsBlock04.png)
 
       - Você receberá 600.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e classe.
-      - Você ganha ![25669.png](http://static.divine-pride.net/images/items/item/25669.png) 25 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
+      - Você ganha ![25669.png](https://static.divine-pride.net/images/items/item/25669.png) 25 [Chip Misterioso](http://www.divine-pride.net/database/item/25669/)
 5. Saia da [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") e vá até Clana Nemieri (einbech 219,80)
 
    :   ![ClanaNemieri](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f5/ClanaNemieri.png)
@@ -255,7 +255,7 @@
    8. Fale com Elena Bolkova e peça para sair da instância.
 7. Do lado de fora, fale com Elena Bolkova.
    - Você receberá 10% de [EXP](../Sem%20categoria/EXP.md "EXP") de base. [EXP](../Sem%20categoria/EXP.md "EXP") de classe você receberá em 3 partes: 300.000, 250.000 e 300.000.
-   - Você ganha ![25723.png](http://static.divine-pride.net/images/items/item/25723.png) 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25668.png](http://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
+   - Você ganha ![25723.png](https://static.divine-pride.net/images/items/item/25723.png) 5 [Núcleo COR](http://www.divine-pride.net/database/item/25723/) e ![25668.png](https://static.divine-pride.net/images/items/item/25668.png) 1 [Arma Danificada](http://www.divine-pride.net/database/item/25668/)
 8. Procure por Gonie (sp\_cor 137,210)
 
    :   ![GonieCOR](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/GonieCOR.png)
@@ -273,6 +273,6 @@
 
 ![SagaEpisodios](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0a/SagaEpisodios.png)
 
-| Início | | Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | |
+| Ep. 16.1 | | Ep. 16.2 | | Ep. 17.1 | | Ep. 17.2 | | Ep. 18 | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Novo Mundo](../Quest/Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [Banquete Real](Banquete%20Real.md "Banquete Real") | SetaVermelha | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | SetaVermelha | Ilusión | SetaVermelha | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
+| [Banquete Real](Banquete%20Real.md "Banquete Real") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Ilusión | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caminho da Oração](Caminho%20da%20Ora%C3%A7%C3%A3o.md "Caminho da Oração") |

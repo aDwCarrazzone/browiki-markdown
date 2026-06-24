@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Sussurro de Morfeu** | |
-| Sussurro de Morfeu | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Sussurro de Morfeu** | |
+| ![Sussurro de Morfeu](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Sussurro_de_Morfeu.gif) | |
 | **ID:** | NPC\_WIDESLEEP2 (760) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -28,13 +28,13 @@ A duração do [Sono](../Sem%20categoria/Sono.md "Sono") é de 18 segundos.
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Sussurro de Morfeu](http://www.divine-pride.net/database/skill/760)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Equipamentos relacionados:
-  - ![19097.png](http://static.divine-pride.net/images/items/item/19097.png) [Gravata Macabra](http://www.divine-pride.net/database/item/19097/)
-  - ![18569.png](http://static.divine-pride.net/images/items/item/18569.png) [Chapéu de Ovelha Fofinha](http://www.divine-pride.net/database/item/18569/)
+  - ![19097.png](https://static.divine-pride.net/images/items/item/19097.png) [Gravata Macabra](http://www.divine-pride.net/database/item/19097/)
+  - ![18569.png](https://static.divine-pride.net/images/items/item/18569.png) [Chapéu de Ovelha Fofinha](http://www.divine-pride.net/database/item/18569/)
 - Cartas e Encantos relacionadas:
-  - ![4603.png](http://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
-  - ![4604.png](http://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
-  - ![4590.png](http://static.divine-pride.net/images/items/item/4590.png) [Carta Bangungot](http://www.divine-pride.net/database/item/4590/)
-  - ![4656.png](http://static.divine-pride.net/images/items/item/4656.png) [Carta Múmia do Pesadelo](http://www.divine-pride.net/database/item/4656/)
+  - ![4603.png](https://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
+  - ![4604.png](https://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
+  - ![4590.png](https://static.divine-pride.net/images/items/item/4590.png) [Carta Bangungot](http://www.divine-pride.net/database/item/4590/)
+  - ![4656.png](https://static.divine-pride.net/images/items/item/4656.png) [Carta Múmia do Pesadelo](http://www.divine-pride.net/database/item/4656/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

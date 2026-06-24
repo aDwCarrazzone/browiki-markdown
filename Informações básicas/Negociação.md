@@ -83,8 +83,8 @@ Para acessar a interface, deve ter um [Catálogo de Vendas Prata](http://www.div
 
 - As opções para se adquirir catálogos são:
 
-1. Catalogador Mágico (prontera 99,64) - vende ![12580.png](http://static.divine-pride.net/images/items/item/12580.png) [Catálogo de Vendas Prata](http://www.divine-pride.net/database/item/12580/) a 200 zenys cada, até 50 unidades.
-2. Máquina de Catálogos (prt\_mk 264,304) - também vende ![23368.png](http://static.divine-pride.net/images/items/item/23368.png) [Catálogo de Lojas](http://www.divine-pride.net/database/item/23368/) a 4.000 zenys cada.
+1. Catalogador Mágico (prontera 99,64) - vende ![12580.png](https://static.divine-pride.net/images/items/item/12580.png) [Catálogo de Vendas Prata](http://www.divine-pride.net/database/item/12580/) a 200 zenys cada, até 50 unidades.
+2. Máquina de Catálogos (prt\_mk 264,304) - também vende ![23368.png](https://static.divine-pride.net/images/items/item/23368.png) [Catálogo de Lojas](http://www.divine-pride.net/database/item/23368/) a 4.000 zenys cada.
 
 Com o item em mãos, dê um clique duplo para abrir a interface.
 

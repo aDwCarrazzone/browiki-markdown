@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Luz da Vida Luz da Vida** | |
-| Luz da Vida | |
+| **![Luz da Vida](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cf/Luz_da_Vida.png) Luz da Vida** | |
+| ![Luz da Vida](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d0/Luz_da_Vida.gif) | |
 | **Light of Regenerate** | |
 | **ID** | MH\_LIGHT\_OF\_REGENE (8022) |
 | **Tipo** | Suporte |
@@ -14,7 +14,7 @@
 | **[Conjuração](../Sem%20categoria/Conjura%C3%A7%C3%A3o.md "Conjuração")** | 1,8 - (Nv. × 0,2) + 0 seg. |
 | **Duração** | [300 + (Nv. da habilidade × 60)] segundos |
 | **Alvo** | Mestre |
-| **Ícone** | I Luz da Criação (Eira) |
+| **Ícone** | ![I Luz da Criação (Eira)](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/10/I_Luz_da_Cria%C3%A7%C3%A3o_%28Eira).png) |
 | **Pré-requisitos** | |
 | [Eira](../Sem%20categoria/Eira.md "Eira") nível 128 | |
 

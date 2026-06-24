@@ -25,16 +25,16 @@ Tudo o que falta agora é atrair o "turismo aventureiro" para recuperarem seus l
 
 |  |  |  |
 | --- | --- | --- |
-| Malangdo map novo | | |
-| Map lupa | Guia |
-| Map armazem | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (malangdo 184,139) |
-| Map cama | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (malangdo 147,117) |
-| Map pocao | Loja de Ferramentas | (malangdo 232,163) |
-| Map bigorna | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (malangdo 224,172) |
-| Map azul | [Associação de Encantos](../Itens/Encantamento.md#Arcanjo "Encantamento") | (malangdo 237,150) |
-| Map rosa | Sede dos [Jogos Felinos](../Quest/Jogos%20Felinos.md "Jogos Felinos") | (mal\_in01 31,210) |
-| Map lantern | [Loja Fashion](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") | (malangdo 115,150) |
-| Map dun01 | [Área de Coral Estrelado](http://www.divine-pride.net/database/map/mal_dun01/) | (malangdo 74,236) |
+| ![Malangdo map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/Malangdo_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map armazem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Map_armazem.png) | [Armazém](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (malangdo 184,139) |
+| ![Map cama](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/81/Map_cama.png) | [Estalagem](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.md "Serviços") | (malangdo 147,117) |
+| ![Map pocao](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Map_pocao.png) | Loja de Ferramentas | (malangdo 232,163) |
+| ![Map bigorna](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Map_bigorna.png) | [Refinaria](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") | (malangdo 224,172) |
+| ![Map azul](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e4/Map_azul.png) | [Associação de Encantos](../Itens/Encantamento.md#Arcanjo "Encantamento") | (malangdo 237,150) |
+| ![Map rosa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/Map_rosa.png) | Sede dos [Jogos Felinos](../Quest/Jogos%20Felinos.md "Jogos Felinos") | (mal\_in01 31,210) |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | [Loja Fashion](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") | (malangdo 115,150) |
+| ![Map dun01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/93/Map_dun01.png) | [Área de Coral Estrelado](http://www.divine-pride.net/database/map/mal_dun01/) | (malangdo 74,236) |
 
 |  |  |  |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ O centro do Coral Estrelado
 
 ## Comércio
 
-- O comércio é feito principalmente por ![6909.png](http://static.divine-pride.net/images/items/item/6909.png) [MiauMiau](http://www.divine-pride.net/database/item/6909/) e [moedas de diferentes categorias](https://www.divine-pride.net/database/search?q=Moeda+Classe).
+- O comércio é feito principalmente por ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) [MiauMiau](http://www.divine-pride.net/database/item/6909/) e [moedas de diferentes categorias](https://www.divine-pride.net/database/search?q=Moeda+Classe).
 - As moedas podem ser encontradas em [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") e [missões](../Sem%20categoria/Miss%C3%B5es.md "Missões") diárias da ilha. Você também pode convertê-las em máquinas específicas:
   - *Máquina de Câmbio CX-1:* Converte 30 moedas inferiores para 10 superiores e vice-versa.
   - *Máquina Sombria TX100:* Converte 90 moedas inferiores para 30 superiores e vice-versa.
@@ -82,15 +82,15 @@ O centro do Coral Estrelado
 
 | Item | Uso | Preço |
 | --- | --- | --- |
-| 16740.png [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16740/) (23h) | Libera acesso aos [Esgotos de Malangdo](../Quests%20de%20ca%C3%A7a/Esgotos%20de%20Malangdo.md "Esgotos de Malangdo") | 6909.png 4 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 16763.png [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16763/) (7 dias) | 6909.png 12 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 16764.png [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16764/) (15 dias) | 6909.png 24 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 16765.png [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16765/) (23h) | Libera acesso a [Caverna do Polvo](../Quest/Caverna%20do%20Polvo.md "Caverna do Polvo") | 6909.png 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 16766.png [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16766/) (3 dias) | 6909.png 5 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 16767.png [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16767/) (7 dias) | 6909.png 10 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 25238.png [Lubrificante Básico](http://www.divine-pride.net/database/item/25238/) | [Separação de Carta equipada](../Itens/Cartas.md#Separação "Cartas") | 6909.png 4 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 25239.png [Lubrificante Refinado](http://www.divine-pride.net/database/item/25239/) | 6909.png 7 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
-| 6443.png [Óleo Removedor Especial](http://www.divine-pride.net/database/item/6443/) | 6909.png 192 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16740.png](https://static.divine-pride.net/images/items/item/16740.png) [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16740/) (23h) | Libera acesso aos [Esgotos de Malangdo](../Quests%20de%20ca%C3%A7a/Esgotos%20de%20Malangdo.md "Esgotos de Malangdo") | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 4 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16763.png](https://static.divine-pride.net/images/items/item/16763.png) [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16763/) (7 dias) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 12 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16764.png](https://static.divine-pride.net/images/items/item/16764.png) [Proteção do Deus do Mar](http://www.divine-pride.net/database/item/16764/) (15 dias) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 24 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16765.png](https://static.divine-pride.net/images/items/item/16765.png) [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16765/) (23h) | Libera acesso a [Caverna do Polvo](../Quest/Caverna%20do%20Polvo.md "Caverna do Polvo") | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16766.png](https://static.divine-pride.net/images/items/item/16766.png) [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16766/) (3 dias) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 5 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![16767.png](https://static.divine-pride.net/images/items/item/16767.png) [Arpão de Caçar Polvos](http://www.divine-pride.net/database/item/16767/) (7 dias) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 10 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![25238.png](https://static.divine-pride.net/images/items/item/25238.png) [Lubrificante Básico](http://www.divine-pride.net/database/item/25238/) | [Separação de Carta equipada](../Itens/Cartas.md#Separação "Cartas") | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 4 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![25239.png](https://static.divine-pride.net/images/items/item/25239.png) [Lubrificante Refinado](http://www.divine-pride.net/database/item/25239/) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 7 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
+| ![6443.png](https://static.divine-pride.net/images/items/item/6443.png) [Óleo Removedor Especial](http://www.divine-pride.net/database/item/6443/) | ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) 192 [MiauMiau](http://www.divine-pride.net/database/item/6909/) |
 
 | *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

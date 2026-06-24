@@ -2,18 +2,18 @@
 
 # Mansão da Desilusão
 
-| SC ico Mansão da Desilusão | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Mansão da Desilusão | |
 | --- | --- |
-| Acompanhe Oscar, o Dragão-do-Tempo, em uma investigação de uma falha no tempo e espaço! Foi encontrada uma dimensão em que Varmunt, Schmidt e Heinrich não existem. Será de grande ajuda entender o que causou essa distorção e o porquê da contaminação temporal piorar a cada vez que é revisitada. | |
+| E breve | |
 | Requisitos mínimos | |
 | **Nv. de base** | 170 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 da manhã após 3 dias |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
-| **Chefe** | Monster PhantomAmdarais [Miragem de Amdarais](http://www.divine-pride.net/database/monster/20573/) ou Monster PhantomHimmel [Miragem de Himmelmez](http://www.divine-pride.net/database/monster/20572/) |
-| **[Itens](../Itens/Itens.md "Itens")** | 25867.png [Fragmento Temporal](http://www.divine-pride.net/database/item/25867/) |
+| **Chefe** | ![Monster Freya](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7e/Monster_Freya.png) [Demi Lovato](http://www.divine-pride.net/database/monster/21317/) ou ![Monster Schulang](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/61/Monster_Schulang.png) [Schulang](http://www.divine-pride.net/database/monster/21316/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000405.png](https://static.divine-pride.net/images/items/item/1000405.png) [Fragmentos de Ametista](http://www.divine-pride.net/database/item/1000405/) |
 
 - Modo Normal
   - Requisito: Nível Base 170 ou superior

@@ -2,13 +2,13 @@
 
 # Missão Regional de Comodo
 
-| NQ ico Missão Regional de Comodo | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Missão Regional de Comodo | |
 | --- | --- |
 | A Lenda da Bruxa de [Comodo](../Lugares%20em%20Ragnar%C3%B6k/Comodo.md "Comodo") também se esbarra na história da criação do [Korasera](http://www.divine-pride.net/database/item/25076/), um tempero especial que só existe nas regiões cavernosas da cidade. Conheça um pouco mais da cultura dessa região enquanto ajuda uma pequena família desastrada.  ---  Modo história do [Grupo do Éden](../Quest/Grupo%20do%20%C3%89den.md "Grupo do Éden"). | |
 | Requisitos mínimos | |
 | **Nv. de base** | 30 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 908.png 5 [Ova de Sapo](http://www.divine-pride.net/database/item/908/) 962.png 5 [Tentáculo](http://www.divine-pride.net/database/item/962/) 918.png 10 [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![908.png](https://static.divine-pride.net/images/items/item/908.png) 5 [Ova de Sapo](http://www.divine-pride.net/database/item/908/) ![962.png](https://static.divine-pride.net/images/items/item/962.png) 5 [Tentáculo](http://www.divine-pride.net/database/item/962/) ![918.png](https://static.divine-pride.net/images/items/item/918.png) 10 [Pata Pegajosa](http://www.divine-pride.net/database/item/918/) |
 | **Caça** | 10 [Sapos de Thara](http://www.divine-pride.net/database/monster/1034/) 10 [Megalodons](http://www.divine-pride.net/database/monster/1064/) 10 [Hidras](http://www.divine-pride.net/database/monster/1068/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Nenhuma |

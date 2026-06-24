@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Mato de Gato Mato de Gato** | |
-| Mato de Gato | |
+| **![Mato de Gato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Mato_de_Gato.png) Mato de Gato** | |
+| ![Mato de Gato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2f/Mato_de_Gato.gif) | |
 | **Nyang Grass / Hierba de Gatera** | |
 | **ID** | SU\_NYANGGRASS (5048) |
 | **Tipo** | Ativa |
@@ -18,9 +18,9 @@
 | **Alvo** | Chão |
 | **Alcance** | 9 células |
 | **Área** | 5x5 a 9x9 células |
-| **Ícone** | I ErvaDeGato |
+| **Ícone** | ![I ErvaDeGato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/28/I_ErvaDeGato.png) |
 | **Pré-requisitos** | |
-| [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") Nv. 5 | |
+| [![Balaio de Gato](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a9/Balaio_de_Gato.png)](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") Nv. 5 | |
 
 Cria um imenso jardim com espinhos capazes de penetrarem nas armaduras dos oponentes.
 
@@ -44,9 +44,9 @@ Cria um imenso jardim com espinhos capazes de penetrarem nas armaduras dos opone
 - Pode ser removida por [Ganbantein](Ganbantein.md "Ganbantein"), [Erva Daninha](../Ofensiva/Erva%20Daninha.md "Erva Daninha") e [Disparo Labareda](../Ofensiva/Disparo%20Labareda.md "Disparo Labareda").
 - Ao aprender [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva"), usar a habilidade garante aumento no [ATQM](../Sem%20categoria/ATQM.md "ATQM") por 3 segundos.
 - Equipamentos relacionados:
-  - ![19205.png](http://static.divine-pride.net/images/items/item/19205.png) [Boné Maratonista Doram](http://www.divine-pride.net/database/item/19205/) [[1]](#cite_note-race-1)
+  - ![19205.png](https://static.divine-pride.net/images/items/item/19205.png) [Boné Maratonista Doram](http://www.divine-pride.net/database/item/19205/) [[1]](#cite_note-race-1)
 - Sombrios relacionados:
-  - ![24641.png](http://static.divine-pride.net/images/items/item/24641.png) [Escudo Sombrio Nepeta](http://www.divine-pride.net/database/item/24641/)
+  - ![24641.png](https://static.divine-pride.net/images/items/item/24641.png) [Escudo Sombrio Nepeta](http://www.divine-pride.net/database/item/24641/)
 
 ### Referências
 
@@ -54,7 +54,7 @@ Cria um imenso jardim com espinhos capazes de penetrarem nas armaduras dos opone
 
 | *O Poder da Natureza* | | | |
 | --- | --- | --- | --- |
-| |  |  | | --- | --- | | [Invocadorespartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") · [Mordida](../Ofensiva/Mordida.md "Mordida") · [Pulo do Gato](Pulo%20do%20Gato.md "Pulo do Gato") · [Gato-Mia](Gato-Mia.md "Gato-Mia") · [Arranhar](../Ofensiva/Arranhar.md "Arranhar") · [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas") · [Invocar](../Passiva/Invocar.md "Invocar") · [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | | |
+| |  |  | | --- | --- | | [![Invocadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Invocadorespartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") | | [Instintos Básicos](../Passiva/Instintos%20B%C3%A1sicos.md "Instintos Básicos") · [Mordida](../Ofensiva/Mordida.md "Mordida") · [Pulo do Gato](Pulo%20do%20Gato.md "Pulo do Gato") · [Gato-Mia](Gato-Mia.md "Gato-Mia") · [Arranhar](../Ofensiva/Arranhar.md "Arranhar") · [Quatro Patas](../Suporte/Quatro%20Patas.md "Quatro Patas") · [Invocar](../Passiva/Invocar.md "Invocar") · [Ampliar Alcance](../Passiva/Ampliar%20Alcance.md "Ampliar Alcance") | | |
 | Fauna | | [Chilique de Picky](../Ofensiva/Chilique%20de%20Picky.md "Chilique de Picky") · [Impulso de Arclouse](../Suporte/Impulso%20de%20Arclouse.md "Impulso de Arclouse") · [Ferida de Tarou](../Ofensiva/Ferida%20de%20Tarou.md "Ferida de Tarou") · [Cometas Lunáticos](../Ofensiva/Cometas%20Lun%C3%A1ticos.md "Cometas Lunáticos") · [Poder da Fauna](../Passiva/Poder%20da%20Fauna.md "Poder da Fauna") [Riscar Fósforo](../Suporte/Riscar%20F%C3%B3sforo.md "Riscar Fósforo") · [Intimidar](Intimidar.md "Intimidar") · [Ataque Selvagem](../Ofensiva/Ataque%20Selvagem.md "Ataque Selvagem") · [Invocação da Fauna](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Fauna.md "Invocação da Fauna") |
 | Selva | | [Lança Gateira](../Ofensiva/Lan%C3%A7a%20Gateira.md "Lança Gateira") · [Hera Venenosa](../Ofensiva/Hera%20Venenosa.md "Hera Venenosa") · [Meteoros de Nepeta](../Ofensiva/Meteoros%20de%20Nepeta.md "Meteoros de Nepeta") · [Pulverizar](Pulverizar.md "Pulverizar") · [Poder da Selva](../Passiva/Poder%20da%20Selva.md "Poder da Selva") [Despertar](../Suporte/Despertar.md "Despertar") · [Balaio de Gato](../Suporte/Balaio%20de%20Gato.md "Balaio de Gato") · Mato de Gato · [Invocação da Selva](../Passiva/Invoca%C3%A7%C3%A3o%20da%20Selva.md "Invocação da Selva") |
 | Maré | | [Camarão Fresquinho](../Suporte/Camar%C3%A3o%20Fresquinho.md "Camarão Fresquinho") · [Chuva de Mariscos](../Suporte/Chuva%20de%20Mariscos.md "Chuva de Mariscos") · [Dádiva do Atum](../Suporte/D%C3%A1diva%20do%20Atum.md "Dádiva do Atum") · [Proteção da Orla](../Suporte/Prote%C3%A7%C3%A3o%20da%20Orla.md "Proteção da Orla") · [Poder das Marés](../Passiva/Poder%20das%20Mar%C3%A9s.md "Poder das Marés") [Lambida](../Suporte/Lambida.md "Lambida") · [Banho de Lambidas](../Suporte/Banho%20de%20Lambidas.md "Banho de Lambidas") · [Festa do Camarão](../Suporte/Festa%20do%20Camar%C3%A3o.md "Festa do Camarão") · [Invocação das Marés](../Passiva/Invoca%C3%A7%C3%A3o%20das%20Mar%C3%A9s.md "Invocação das Marés") |

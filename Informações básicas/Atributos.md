@@ -528,9 +528,9 @@ Estar com excesso de peso implica nos seguintes efeitos anormais:
 |  |  |
 | --- | --- |
 | Personagem está carregando 70% do peso máximo | |
-| I Peso70 | - Desativa a recuperação de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") natural. - Usar um consumível que gera itens, como [Aljava de Flechas](http://www.divine-pride.net/database/item/12004/) ou [Velha caixa roxa](http://www.divine-pride.net/database/item/617/) não funciona. - Habilidades como [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras"), [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas"), [Aumentar Recuperação de HP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20HP.md "Aumentar Recuperação de HP") e [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") são desabilitadas. |
+| ![I Peso70](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/I_Peso70.png) | - Desativa a recuperação de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") natural. - Usar um consumível que gera itens, como [Aljava de Flechas](http://www.divine-pride.net/database/item/12004/) ou [Velha caixa roxa](http://www.divine-pride.net/database/item/617/) não funciona. - Habilidades como [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras"), [Fabricar Flechas](../Ativa/Fabricar%20Flechas.md "Fabricar Flechas"), [Aumentar Recuperação de HP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20HP.md "Aumentar Recuperação de HP") e [Aumentar Recuperação de SP](../Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") são desabilitadas. |
 | Personagem está carregando 90% do peso máximo | |
-| I Peso90 | - Não pode atacar oponentes. - Não consegue falar com alguns [NPCs](../Sem%20categoria/NPC.md "NPC"). - Impede o uso de quaisquer [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades"). |
+| ![I Peso90](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/I_Peso90.png) | - Não pode atacar oponentes. - Não consegue falar com alguns [NPCs](../Sem%20categoria/NPC.md "NPC"). - Impede o uso de quaisquer [habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades"). |
 
 ## Investimento
 

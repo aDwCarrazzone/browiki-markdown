@@ -2,13 +2,13 @@
 
 # Mistério de Bruspetti
 
-| NQ ico Mistério de Bruspetti | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Mistério de Bruspetti | |
 | --- | --- |
 | O novo romance da filha de um velho senhor tem causado desconforto por trás de seu misterioso desaparecimento. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 50 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1201.png 1 [Faca](http://www.divine-pride.net/database/item/1201/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1201.png](https://static.divine-pride.net/images/items/item/1201.png) 1 [Faca](http://www.divine-pride.net/database/item/1201/) |
 | **Quests anteriores** | [Três Amigos](Tr%C3%AAs%20Amigos.md "Três Amigos") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Variável |

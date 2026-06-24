@@ -2,18 +2,18 @@
 
 # Base Militar
 
-| SC ico Base Militar | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Base Militar | |
 | --- | --- |
 | Aproveite as instalações dos Caça-Coração para treinar os membros da Rebelião. Use a estratégia ao seu favor e enfrente a mais nova contratada dos rebeldes. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Terra Gloria](../Quests%20de%20experi%C3%AAncia/Terra%20Gloria.md "Terra Gloria") |
 | Premiação | |
-| **Chefe** | Monster Malícia [Malícia](http://www.divine-pride.net/database/monster/3628/) |
+| **Chefe** | ![Monster Malícia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Monster_Mal%C3%ADcia.png) [Malícia](http://www.divine-pride.net/database/monster/3628/) |
 
 1. Você pode chegar nesse mapa através do Mago Nillem (pub\_cat 85,105).
 2. Reserve a [instância](../Sem%20categoria/Inst%C3%A2ncia.md "Instância") com Julian (ein\_fild04 281,333)

@@ -2,7 +2,7 @@
 
 # Espírito da Guilda
 
-| NQ ico Espírito da Guilda | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Espírito da Guilda | |
 | --- | --- |
 | Para ter certeza de que os membros do seu clã são unidos, complete as missões dos castelos! | |
 | Requisitos mínimos | |
@@ -10,7 +10,7 @@
 | **Tipo** | Normal |
 | **[Itens](../Itens/Itens.md "Itens")** | Vários |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 678.png [Garrafa de Veneno](http://www.divine-pride.net/database/item/678/) 608.png [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  607.png [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/)  644.png [Caixa de Presente](http://www.divine-pride.net/database/item/644/)  603.png [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  617.png [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  5074.png [Orelhas de Anjo](http://www.divine-pride.net/database/item/5074/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![678.png](https://static.divine-pride.net/images/items/item/678.png) [Garrafa de Veneno](http://www.divine-pride.net/database/item/678/) ![608.png](https://static.divine-pride.net/images/items/item/608.png) [Semente de Yggdrasil](http://www.divine-pride.net/database/item/608/)  ![607.png](https://static.divine-pride.net/images/items/item/607.png) [Fruto de Yggdrasil](http://www.divine-pride.net/database/item/607/)  ![644.png](https://static.divine-pride.net/images/items/item/644.png) [Caixa de Presente](http://www.divine-pride.net/database/item/644/)  ![603.png](https://static.divine-pride.net/images/items/item/603.png) [Velha Caixa Azul](http://www.divine-pride.net/database/item/603/)  ![617.png](https://static.divine-pride.net/images/items/item/617.png) [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  ![5074.png](https://static.divine-pride.net/images/items/item/5074.png) [Orelhas de Anjo](http://www.divine-pride.net/database/item/5074/) |
 
 ---
 

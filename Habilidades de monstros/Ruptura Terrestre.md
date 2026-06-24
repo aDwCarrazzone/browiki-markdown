@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ruptura Terrestre** | |
-| Ruptura Terrestre | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ruptura Terrestre** | |
+| ![Ruptura Terrestre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Ruptura_Terrestre.gif) | |
 | **ID:** | NPC\_GROUNDDRIVE (770) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Sim |

@@ -2,13 +2,13 @@
 
 # A Biopesquisa
 
-| NQ ico A Biopesquisa | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) A Biopesquisa | |
 | --- | --- |
 | Trabalhadores da Corporação Rekenber ainda sofrem com efeitos de produção da arma biológica. Ajude os doentes com o remédio certo para evitar uma tragédia maior ainda. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1003.png 5 [Carvões](http://www.divine-pride.net/database/item/1003/)  7054.png 5 [Brigan](http://www.divine-pride.net/database/item/7054/)  7053.png 5 [Cyfar](http://www.divine-pride.net/database/item/7053/)  619.png 1 [Maçã Verde](http://www.divine-pride.net/database/item/619/)  971.png 3 [Detrimindextas](http://www.divine-pride.net/database/item/971/)  935.png 20 [Cascas](http://www.divine-pride.net/database/item/935/)  511.png 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  510.png 1 [Erva Azul](http://www.divine-pride.net/database/item/510/)  507.png 1 [Erva Vermelha](http://www.divine-pride.net/database/item/507/)  509.png 1 [Erva Branca](http://www.divine-pride.net/database/item/509/)  508.png 1 [Erva Amarela](http://www.divine-pride.net/database/item/508/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1003.png](https://static.divine-pride.net/images/items/item/1003.png) 5 [Carvões](http://www.divine-pride.net/database/item/1003/)  ![7054.png](https://static.divine-pride.net/images/items/item/7054.png) 5 [Brigan](http://www.divine-pride.net/database/item/7054/)  ![7053.png](https://static.divine-pride.net/images/items/item/7053.png) 5 [Cyfar](http://www.divine-pride.net/database/item/7053/)  ![619.png](https://static.divine-pride.net/images/items/item/619.png) 1 [Maçã Verde](http://www.divine-pride.net/database/item/619/)  ![971.png](https://static.divine-pride.net/images/items/item/971.png) 3 [Detrimindextas](http://www.divine-pride.net/database/item/971/)  ![935.png](https://static.divine-pride.net/images/items/item/935.png) 20 [Cascas](http://www.divine-pride.net/database/item/935/)  ![511.png](https://static.divine-pride.net/images/items/item/511.png) 1 [Erva Verde](http://www.divine-pride.net/database/item/511/)  ![510.png](https://static.divine-pride.net/images/items/item/510.png) 1 [Erva Azul](http://www.divine-pride.net/database/item/510/)  ![507.png](https://static.divine-pride.net/images/items/item/507.png) 1 [Erva Vermelha](http://www.divine-pride.net/database/item/507/)  ![509.png](https://static.divine-pride.net/images/items/item/509.png) 1 [Erva Branca](http://www.divine-pride.net/database/item/509/)  ![508.png](https://static.divine-pride.net/images/items/item/508.png) 1 [Erva Amarela](http://www.divine-pride.net/database/item/508/) |
 | **Quests anteriores** | [Medicina de Hugel](Medicina%20de%20Hugel.md "Medicina de Hugel") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 100.000 |

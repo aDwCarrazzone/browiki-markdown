@@ -2,17 +2,17 @@
 
 # A Ordem Secreta de Doha
 
-| EP ico A Ordem Secreta de Doha | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) A Ordem Secreta de Doha | |
 | --- | --- |
 | Um ladrão com orelhas de gato parece ter despertado o interesse de um Inspetor. Colete informações desse caso com os habitantes da capital dos Manuks! | |
 | Requisitos mínimos | |
 | **Nv. de base** | 70 |
 | **Tipo** | Episódio |
-| **[Itens](../Itens/Itens.md "Itens")** | 6304.png 6 [Certificado do Explorador](http://www.divine-pride.net/database/item/6304/) |
-| **Equipado** | 2782.png [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![6304.png](https://static.divine-pride.net/images/items/item/6304.png) 6 [Certificado do Explorador](http://www.divine-pride.net/database/item/6304/) |
+| **Equipado** | ![2782.png](https://static.divine-pride.net/images/items/item/2782.png) [Anel do Rei Sábio](http://www.divine-pride.net/database/item/2782/) |
 | **Quests anteriores** | [Visita do Manuk](Visita%20do%20Manuk.md "Visita do Manuk") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 2790.png 1 [Broche de Bradium](http://www.divine-pride.net/database/item/2790/)  2553.png 1 [Manteau do Dragão](http://www.divine-pride.net/database/item/2553/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![2790.png](https://static.divine-pride.net/images/items/item/2790.png) 1 [Broche de Bradium](http://www.divine-pride.net/database/item/2790/)  ![2553.png](https://static.divine-pride.net/images/items/item/2553.png) 1 [Manteau do Dragão](http://www.divine-pride.net/database/item/2553/) |
 | **Recompensa** | Acesso ao [Hall Scaraba](http://www.divine-pride.net/database/map/dic_dun02/) |
 
 1. Fale com o Inspetor Doha (mid\_campin 168,170)
@@ -54,9 +54,9 @@
 
     :   ![Doha07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Doha07.png)
 
-    - Pilha de Rochas: ![6307.png](http://static.divine-pride.net/images/items/item/6307.png) [Estranha Pedra Mágica](http://www.divine-pride.net/database/item/6307/)
-    - Pilha de Sujeira: ![6306.png](http://static.divine-pride.net/images/items/item/6306.png) [Sangue Pisado](http://www.divine-pride.net/database/item/6306/)
-    - Solo Dividido: ![6305.png](http://static.divine-pride.net/images/items/item/6305.png) [Pedaço de Pele Congelada](http://www.divine-pride.net/database/item/6305/)
+    - Pilha de Rochas: ![6307.png](https://static.divine-pride.net/images/items/item/6307.png) [Estranha Pedra Mágica](http://www.divine-pride.net/database/item/6307/)
+    - Pilha de Sujeira: ![6306.png](https://static.divine-pride.net/images/items/item/6306.png) [Sangue Pisado](http://www.divine-pride.net/database/item/6306/)
+    - Solo Dividido: ![6305.png](https://static.divine-pride.net/images/items/item/6305.png) [Pedaço de Pele Congelada](http://www.divine-pride.net/database/item/6305/)
 12. Volte a falar com Shai (dic\_in01 245,119)
 13. Com 3 [Certificados do Explorador](http://www.divine-pride.net/database/item/6304/) no inventário, procure o Aventureiro Escrivão (dic\_in01 39,261)
 
@@ -104,8 +104,8 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V | | Parte VI | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Outra Dimensão](../Quests%20de%20experi%C3%AAncia/Outra%20Dimens%C3%A3o.md "Outra Dimensão") | SetaVermelha | [A Fada e a Árvore](../Quests%20de%20experi%C3%AAncia/A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | SetaVermelha | [Anel do Rei Sábio](../Quests%20de%20experi%C3%AAncia/Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | SetaVermelha | [Visita do Manuk](Visita%20do%20Manuk.md "Visita do Manuk") | SetaVermelha | A Ordem Secreta de Doha | SetaVermelha | [Chamado de Cheshire](../Quests%20de%20experi%C3%AAncia/Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
+| [Outra Dimensão](../Quests%20de%20experi%C3%AAncia/Outra%20Dimens%C3%A3o.md "Outra Dimensão") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Fada e a Árvore](../Quests%20de%20experi%C3%AAncia/A%20Fada%20e%20a%20%C3%81rvore.md "A Fada e a Árvore") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Anel do Rei Sábio](../Quests%20de%20experi%C3%AAncia/Anel%20do%20Rei%20S%C3%A1bio.md "Anel do Rei Sábio") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Visita do Manuk](Visita%20do%20Manuk.md "Visita do Manuk") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | A Ordem Secreta de Doha | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Chamado de Cheshire](../Quests%20de%20experi%C3%AAncia/Chamado%20de%20Cheshire.md "Chamado de Cheshire") |
 | [Novo Dia de Cheshire](../Quests%20repet%C3%ADveis/Novo%20Dia%20de%20Cheshire.md "Novo Dia de Cheshire") |
 | **ou** | | [Coleta de Bradium](../Quests%20repet%C3%ADveis/Coleta%20de%20Bradium.md "Coleta de Bradium") |
-| [Para o Novo Mundo](Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | SetaVermelha | [O Mensageiro](../Quests%20de%20experi%C3%AAncia/O%20Mensageiro.md "O Mensageiro") | SetaVermelha | [Guardiã de Yggdrasil](../Quests%20de%20experi%C3%AAncia/Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") | SetaVermelha | [Ninho de Nidhogg](Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
-| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | SetaVermelha | [Ilha Bios](Ilha%20Bios.md "Ilha Bios") | SetaVermelha | [Caverna de Mors](Caverna%20de%20Mors.md "Caverna de Mors") | SetaVermelha | [Templo do Demônio Rei](../Quests%20de%20experi%C3%AAncia/Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |
+| [Para o Novo Mundo](Para%20o%20Novo%20Mundo.md "Para o Novo Mundo") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Mensageiro](../Quests%20de%20experi%C3%AAncia/O%20Mensageiro.md "O Mensageiro") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Guardiã de Yggdrasil](../Quests%20de%20experi%C3%AAncia/Guardi%C3%A3%20de%20Yggdrasil.md "Guardiã de Yggdrasil") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ninho de Nidhogg](Ninho%20de%20Nidhogg.md "Ninho de Nidhogg") |
+| [Viagem Dimensional](../Acesso%20a%20Calabou%C3%A7os/Viagem%20Dimensional.md "Viagem Dimensional") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Ilha Bios](Ilha%20Bios.md "Ilha Bios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Caverna de Mors](Caverna%20de%20Mors.md "Caverna de Mors") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Templo do Demônio Rei](../Quests%20de%20experi%C3%AAncia/Templo%20do%20Dem%C3%B4nio%20Rei.md "Templo do Demônio Rei") | | |

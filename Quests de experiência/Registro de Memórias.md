@@ -2,7 +2,7 @@
 
 # Registro de Memórias
 
-| EP ico Registro de Memórias | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Registro de Memórias | |
 | --- | --- |
 | Desvende os relatos dos últimos sobreviventes que gravaram os registros de memórias! | |
 | Requisitos mínimos | |
@@ -69,6 +69,6 @@
 
 | Parte I | | Parte II | | Parte III | |
 | --- | --- | --- | --- | --- | --- |
-| [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") | SetaVermelha | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | SetaVermelha | [Sala Final](Sala%20Final.md "Sala Final") |
+| [Fantasmagórica](Fantasmag%C3%B3rica.md "Fantasmagórica") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Investigando o Passado](../Acesso%20a%20Calabou%C3%A7os/Investigando%20o%20Passado.md "Investigando o Passado") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sala Final](Sala%20Final.md "Sala Final") |
 | [Laboratório Central](../Quest/Laborat%C3%B3rio%20Central.md "Laboratório Central") | | |
-| Registro de Memórias | SetaVermelha | [Sobrevivendo no Abrigo](Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |
+| Registro de Memórias | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Sobrevivendo no Abrigo](Sobrevivendo%20no%20Abrigo.md "Sobrevivendo no Abrigo") |

@@ -2,20 +2,20 @@
 
 # Duelo com Sweety
 
-| SC ico Duelo com Sweety | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Duelo com Sweety | |
 | --- | --- |
 | Sweety é uma remanescente do grupo Ilusión que fugiu para outro continente. Para descontar a raiva, ela precisa ser testada ao máximo. Aceite o duelo com Sweety enquanto Amêndoa observa. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 130 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | Reseta 4 horas da manhã |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | Reseta 4 horas da manhã |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | **Quests anteriores** | [Legado do Sábio](Legado%20do%20S%C3%A1bio.md "Legado do Sábio") |
 | Premiação | |
-| **Chefe** | Monster Sweety [Sweety](http://www.divine-pride.net/database/monster/20642/) |
+| **Chefe** | ![Monster Sweety](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/Monster_Sweety.png) [Sweety](http://www.divine-pride.net/database/monster/20642/) |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 206.266 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000103.png 6 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000103.png](https://static.divine-pride.net/images/items/item/1000103.png) 6 [Vale Varmida](http://www.divine-pride.net/database/item/1000103/) |
 
 1. Fale com Amêndoa (ba\_in01 28,255) para pegar a missão *Coletar Núcleos*.
 
@@ -28,7 +28,7 @@
    - [Sweety](http://www.divine-pride.net/database/monster/20642/) possui a habilidade [Laser Rastreador](../Habilidades%20de%20monstros/Laser%20Rastreador.md "Laser Rastreador").
    - Esse ataque cai na célula em que o personagem se encontra.
    - Caso o jogador se mova antes do ataque, ele não será atingido.
-4. Saia pelo portal e colete até ![1000226.png](http://static.divine-pride.net/images/items/item/1000226.png) 10 [Núcleo de Autômata Quebrada](http://www.divine-pride.net/database/item/1000226/)
+4. Saia pelo portal e colete até ![1000226.png](https://static.divine-pride.net/images/items/item/1000226.png) 10 [Núcleo de Autômata Quebrada](http://www.divine-pride.net/database/item/1000226/)
 
    :   ![DuelocomSweety2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/DuelocomSweety2.png)
 

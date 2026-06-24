@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Garra Supersônica Garra Supersônica** | |
-| Garra Supersônica | |
+| **![Garra Supersônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b6/Garra_Supers%C3%B4nica.png) Garra Supersônica** | |
+| ![Garra Supersônica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a5/Garra_Supers%C3%B4nica.gif) | |
 | **Sonic Claw** | |
 | **ID** | MH\_SONIC\_CRAW (8028) |
 | **Tipo** | Ofensiva |

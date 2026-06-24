@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para El Dicastes Para El Dicastes** | |
-| Para El Dicastes | |
+| **![Para El Dicastes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/86/Para_El_Dicastes.png) Para El Dicastes** | |
+| ![Para El Dicastes](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bf/Para_El_Dicastes.gif) | |
 | **To El Dicastes** | |
 | **ID** | RETURN\_TO\_ELDICASTES (2534) |
 | **Tipo** | Ativa |

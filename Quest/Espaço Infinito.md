@@ -2,14 +2,14 @@
 
 # Espaço Infinito
 
-| SC ico Espaço Infinito | |
+| ![SC ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e5/SC_ico.png) Espaço Infinito | |
 | --- | --- |
 | O interior do antigo Farol desabou, revelando um espaço sem fim de monstros. Nessa realidade paralela, progrida de sala em sala até descobrir os segredos de Pharos. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Instância |
 | **Duração** | 1 hora |
-| Skilldelayinfo **Retorno** | 3 horas |
+| ![Skilldelayinfo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/84/Skilldelayinfo.png) **Retorno** | 3 horas |
 | **[Grupo](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Grupo.md "Grupo")** | 1 pessoa ou mais |
 | Premiação | |
 | **Chefe** | Vários |
@@ -28,7 +28,7 @@
 
    - Ele aparece com mais frequência no modo difícil.
    - O [Poring de Ouro](http://www.divine-pride.net/database/monster/3494/) desaparece assim que o andar for limpo, se ele aparecer, você deve matá-lo primeiro.
-6. A cada 10 andares, um [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") aparece. Assim que eliminá-lo, o baú surge para derrubar [Armas Safiras](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md#O_Farol "Pharos") ou ![6905.png](http://static.divine-pride.net/images/items/item/6905.png) [Pó Espacial](http://www.divine-pride.net/database/item/6905/).
+6. A cada 10 andares, um [MVP](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/MVP.md "MVP") aparece. Assim que eliminá-lo, o baú surge para derrubar [Armas Safiras](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md#O_Farol "Pharos") ou ![6905.png](https://static.divine-pride.net/images/items/item/6905.png) [Pó Espacial](http://www.divine-pride.net/database/item/6905/).
 
    :   ![Ifnf03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8d/Ifnf03.png)
 7. No último andar, fale com a Arqueóloga para sair do mapa.

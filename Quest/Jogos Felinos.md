@@ -2,15 +2,15 @@
 
 # Jogos Felinos
 
-| DQ ico Jogos Felinos | |
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Jogos Felinos | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | 60 |
 | **Tipo** | Repetível |
-| **Equipado** | 2872.png [Certificado de Honra G](http://www.divine-pride.net/database/item/2872/) |
+| **Equipado** | ![2872.png](https://static.divine-pride.net/images/items/item/2872.png) [Certificado de Honra G](http://www.divine-pride.net/database/item/2872/) |
 | **Quests anteriores** | [Humor dos Jogadores](Humor%20dos%20Jogadores.md "Humor dos Jogadores") |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 12636.png [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12636.png](https://static.divine-pride.net/images/items/item/12636.png) [Peixes Enlatados](http://www.divine-pride.net/database/item/12636/) |
 
 - Jogos Felinos são 4 passatempos realizados em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo").
 - Se você perder em um dos quatro jogos, haverá uma punição em forma de [quest](../Sem%20categoria/Quest.md "Quest"), onde é necessário completá-la para poder participar dos Jogos Felinos novamente.
@@ -42,8 +42,8 @@
 | Exemplo | | | | | | | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Posição Correta | Posição Errada |
-| ChamChamCham02 | ChamChamCham03 |
-| ChamChamCham04 | ChamChamCham05 |
+| ![ChamChamCham02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/ChamChamCham02.png) | ![ChamChamCham03](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d5/ChamChamCham03.png) |
+| ![ChamChamCham04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/ChamChamCham04.png) | ![ChamChamCham05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b5/ChamChamCham05.png) |
 
 ## KongNyangKong
 

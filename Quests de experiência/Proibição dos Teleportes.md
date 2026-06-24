@@ -2,18 +2,18 @@
 
 # Proibição dos Teleportes
 
-| NQ ico Proibição dos Teleportes | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Proibição dos Teleportes | |
 | --- | --- |
 | Por questões contratuais com a Rekenber, a República de Schwartzwald não pode oferecer teleporte para as cidades. Com raiva disso, um membro da Rebelião tentará de tudo para tentar voltar para casa... | |
 | Requisitos mínimos | |
 | **Nv. de base** | 100 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 1000.png 1 [Fragmento Estelar](http://www.divine-pride.net/database/item/1000/) 994.png 4 [Coração Flamejante](http://www.divine-pride.net/database/item/994/) 995.png 4 [Gelo Místico](http://www.divine-pride.net/database/item/995/) 996.png 3 [Vento Bruto](http://www.divine-pride.net/database/item/996/) 997.png 4 [Natureza Grandiosa](http://www.divine-pride.net/database/item/997/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1000.png](https://static.divine-pride.net/images/items/item/1000.png) 1 [Fragmento Estelar](http://www.divine-pride.net/database/item/1000/) ![994.png](https://static.divine-pride.net/images/items/item/994.png) 4 [Coração Flamejante](http://www.divine-pride.net/database/item/994/) ![995.png](https://static.divine-pride.net/images/items/item/995.png) 4 [Gelo Místico](http://www.divine-pride.net/database/item/995/) ![996.png](https://static.divine-pride.net/images/items/item/996.png) 3 [Vento Bruto](http://www.divine-pride.net/database/item/996/) ![997.png](https://static.divine-pride.net/images/items/item/997.png) 4 [Natureza Grandiosa](http://www.divine-pride.net/database/item/997/) |
 | **Quests anteriores** | [Terra Gloria](Terra%20Gloria.md "Terra Gloria") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 1.000.000 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 4.000.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 25155.png 10 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![25155.png](https://static.divine-pride.net/images/items/item/25155.png) 10 [Brasão de Honra](http://www.divine-pride.net/database/item/25155/) |
 
 1. Em [Clana Nemieri](../Quests%20repet%C3%ADveis/Clana%20Nemieri.md "Clana Nemieri"), fale com Arinoa Yurhik.
 

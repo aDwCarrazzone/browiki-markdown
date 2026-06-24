@@ -2,14 +2,14 @@
 
 # Mudança de Classe: Gatunos
 
-| JQ ico Mudança de Classe: Gatunos | |
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Gatunos | |
 | --- | --- |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Nv. de classe** | 1 |
 | **Tipo** | Classe |
 | Premiação | |
-| **[Itens](../Itens/Itens.md "Itens")** | 13041.png 1 [Main Gauche de Iniciante](http://www.divine-pride.net/database/item/13041/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![13041.png](https://static.divine-pride.net/images/items/item/13041.png) 1 [Main Gauche de Iniciante](http://www.divine-pride.net/database/item/13041/) |
 | **Recompensa** | Muda a classe para [Gatuno](../Sem%20categoria/Gatuno.md "Gatuno") |
 
 1. No 2º andar da [Academia Criatura](../Sem%20categoria/Academia%20Criatura.md "Academia Criatura"), fale com Mayshell (iz\_ac02 52,136)
@@ -48,7 +48,7 @@
 
    - Responda "*Sim*" para mudar de classe.
    - Mudando de Classe na Guilda, você recebe:
-     - ![13041.png](http://static.divine-pride.net/images/items/item/13041.png) 1 [Main Gauche de Iniciante](http://www.divine-pride.net/database/item/13041/)
+     - ![13041.png](https://static.divine-pride.net/images/items/item/13041.png) 1 [Main Gauche de Iniciante](http://www.divine-pride.net/database/item/13041/)
      - Aprende [![Recuar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Recuar.png)](../Ativa/Recuar.md "Recuar") [Recuar](../Ativa/Recuar.md "Recuar")
      - Aprende [![Chutar Areia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4f/Chutar_Areia.png)](../Ofensiva/Chutar%20Areia.md "Chutar Areia") [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia")
      - Aprende [![Procurar Pedras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Procurar_Pedras.png)](../Ativa/Procurar%20Pedras.md "Procurar Pedras") [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras")
@@ -59,10 +59,10 @@
 
     - Lenore, do [Grupo do Éden](Grupo%20do%20%C3%89den.md "Grupo do Éden") aparecerá e lhe dará:
       - 1.000 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 200 de classe.
-      - ![5583.png](http://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
-      - ![2560.png](http://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
-      - ![15009.png](http://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
-      - ![2456.png](http://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
+      - ![5583.png](https://static.divine-pride.net/images/items/item/5583.png) [Chapéu do Éden I](http://www.divine-pride.net/database/item/5583/)
+      - ![2560.png](https://static.divine-pride.net/images/items/item/2560.png) [Capa do Éden I](http://www.divine-pride.net/database/item/2560/)
+      - ![15009.png](https://static.divine-pride.net/images/items/item/15009.png) [Uniforme do Éden I](http://www.divine-pride.net/database/item/15009/)
+      - ![2456.png](https://static.divine-pride.net/images/items/item/2456.png) [Botas do Éden I](http://www.divine-pride.net/database/item/2456/)
 11. Fale com Sprakki novamente se deseja receber a missão [Explorando o Mundo](../Quests%20de%20experi%C3%AAncia/Explorando%20o%20Mundo.md "Explorando o Mundo").
 
 ## Treinamento
@@ -100,5 +100,5 @@
 
 | *A Luz das Trevas* | |
 | --- | --- |
-| |  |  | | --- | --- | | [Gatunospartyicn](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](../Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png)](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | [Gatunos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Gatunos.md "Gatunos") | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](../Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](../Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../Ativa/Esconderijo.md "Esconderijo") · [Furto](../Ativa/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Ativa/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Ativa/Recuar.md "Recuar") |
 | Evoluções | [Mercenários](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Mercen%C3%A1rios.md "Mercenários") · [Arruaceiros](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Arruaceiros.md "Arruaceiros") |

@@ -4,14 +4,14 @@
 
 |  |  |
 | --- | --- |
-| **Pele de Adamantium Pele de Adamantium** | |
-| SemImagem | |
+| **![Pele de Adamantium](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Pele_de_Adamantium.png) Pele de Adamantium** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Adamantium Skin** | |
 | **ID** | HAMI\_SKIN (8007) |
 | **Tipo** | Passiva |
 | **Níveis** | 5 |
 | **Pré-requisitos** | |
-| [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") Nv. 3 | |
+| [![Fortaleza](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/Fortaleza.png)](../Suporte/Fortaleza.md "Fortaleza") [Fortaleza](../Suporte/Fortaleza.md "Fortaleza") Nv. 3 | |
 
 Aumenta a [DEF](../Sem%20categoria/DEF.md "DEF"), o [HP](../Sem%20categoria/HP.md "HP") máximo e a regeneração natural de [HP](../Sem%20categoria/HP.md "HP") do [homunculus](../Homunculus/Homunculus.md "Homunculus").
 

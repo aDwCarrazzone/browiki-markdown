@@ -22,50 +22,50 @@
 1. Todos os dias, você receberá 1x [Vale-Presença](http://www.divine-pride.net/database/item/1001669/).
 2. Troque-os com a Gerente de Registros (morocc 146,55) ou (geffen 137,54).
 
-| Item | 1001669.png [Vale-Presença](http://www.divine-pride.net/database/item/1001669/) |
+| Item | ![1001669.png](https://static.divine-pride.net/images/items/item/1001669.png) [Vale-Presença](http://www.divine-pride.net/database/item/1001669/) |
 | --- | --- |
-| 12501.png 1 [(Evento) Língua no Vapor](http://www.divine-pride.net/database/item/12501/) | 1 |
-| 12502.png 1 [(Evento) Escorpiões no Vapor](http://www.divine-pride.net/database/item/12502/) | 1 |
-| 12503.png 1 [(Evento) Coquetel do Dragão](http://www.divine-pride.net/database/item/12503/) | 1 |
-| 12504.png 1 [(Evento) Tônico de Hwergelmir](http://www.divine-pride.net/database/item/12504/) | 1 |
-| 12505.png 1 [(Evento) Nove Caudas Cozidas](http://www.divine-pride.net/database/item/12505/) | 1 |
-| 9539.png 1 [(Evento) Kit de Poção Azul](http://www.divine-pride.net/database/item/9539/) | 1 |
-| 104706.png 1 [(Evento) Cx. Poção Branca Leve](http://www.divine-pride.net/database/item/104706/) | 1 |
-| 104699.png 1 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) | 1 |
-| 100333.png 1 [(Evento) Poção Infinita](http://www.divine-pride.net/database/item/100333/) | 2 |
-| 23899.png 1 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | 2 |
-| 23898.png 1 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) | 2 |
-| 12514.png 1 [(Evento) Abrasivo](http://www.divine-pride.net/database/item/12514/) | 5 |
-| 12766.png 1 [Manual de Campo de Classe](http://www.divine-pride.net/database/item/12766/) | 5 |
-| 12263.png 1 [(Evento) Manual de Combate](http://www.divine-pride.net/database/item/12263/) | 5 |
-| 12497.png 1 [(Evento) Goma de Mascar](http://www.divine-pride.net/database/item/12497/) | 5 |
-| 6833.png 1 [(Limitado) Amuleto de Siegfried](http://www.divine-pride.net/database/item/6833/) | 8 |
-| 12265.png 1 [(Evento) Seguro de Vida](http://www.divine-pride.net/database/item/12265/) | 8 |
-| 104518.png 1 [(Evento) Asas de Mosca Infinita (1 dia)](http://www.divine-pride.net/database/item/104518/) | 10 |
-| 400096.png [(Visual) Poring Comemorativo](http://www.divine-pride.net/database/item/400096/) | 21 |
+| ![12501.png](https://static.divine-pride.net/images/items/item/12501.png) 1 [(Evento) Língua no Vapor](http://www.divine-pride.net/database/item/12501/) | 1 |
+| ![12502.png](https://static.divine-pride.net/images/items/item/12502.png) 1 [(Evento) Escorpiões no Vapor](http://www.divine-pride.net/database/item/12502/) | 1 |
+| ![12503.png](https://static.divine-pride.net/images/items/item/12503.png) 1 [(Evento) Coquetel do Dragão](http://www.divine-pride.net/database/item/12503/) | 1 |
+| ![12504.png](https://static.divine-pride.net/images/items/item/12504.png) 1 [(Evento) Tônico de Hwergelmir](http://www.divine-pride.net/database/item/12504/) | 1 |
+| ![12505.png](https://static.divine-pride.net/images/items/item/12505.png) 1 [(Evento) Nove Caudas Cozidas](http://www.divine-pride.net/database/item/12505/) | 1 |
+| ![9539.png](https://static.divine-pride.net/images/items/item/9539.png) 1 [(Evento) Kit de Poção Azul](http://www.divine-pride.net/database/item/9539/) | 1 |
+| ![104706.png](https://static.divine-pride.net/images/items/item/104706.png) 1 [(Evento) Cx. Poção Branca Leve](http://www.divine-pride.net/database/item/104706/) | 1 |
+| ![104699.png](https://static.divine-pride.net/images/items/item/104699.png) 1 [(Evento) Pergaminho de Defesa](http://www.divine-pride.net/database/item/104699/) | 1 |
+| ![100333.png](https://static.divine-pride.net/images/items/item/100333.png) 1 [(Evento) Poção Infinita](http://www.divine-pride.net/database/item/100333/) | 2 |
+| ![23899.png](https://static.divine-pride.net/images/items/item/23899.png) 1 [(Evento) Bolinho Divino](http://www.divine-pride.net/database/item/23899/) | 2 |
+| ![23898.png](https://static.divine-pride.net/images/items/item/23898.png) 1 [(Evento) Poção Ilimitada](http://www.divine-pride.net/database/item/23898/) | 2 |
+| ![12514.png](https://static.divine-pride.net/images/items/item/12514.png) 1 [(Evento) Abrasivo](http://www.divine-pride.net/database/item/12514/) | 5 |
+| ![12766.png](https://static.divine-pride.net/images/items/item/12766.png) 1 [Manual de Campo de Classe](http://www.divine-pride.net/database/item/12766/) | 5 |
+| ![12263.png](https://static.divine-pride.net/images/items/item/12263.png) 1 [(Evento) Manual de Combate](http://www.divine-pride.net/database/item/12263/) | 5 |
+| ![12497.png](https://static.divine-pride.net/images/items/item/12497.png) 1 [(Evento) Goma de Mascar](http://www.divine-pride.net/database/item/12497/) | 5 |
+| ![6833.png](https://static.divine-pride.net/images/items/item/6833.png) 1 [(Limitado) Amuleto de Siegfried](http://www.divine-pride.net/database/item/6833/) | 8 |
+| ![12265.png](https://static.divine-pride.net/images/items/item/12265.png) 1 [(Evento) Seguro de Vida](http://www.divine-pride.net/database/item/12265/) | 8 |
+| ![104518.png](https://static.divine-pride.net/images/items/item/104518.png) 1 [(Evento) Asas de Mosca Infinita (1 dia)](http://www.divine-pride.net/database/item/104518/) | 10 |
+| ![400096.png](https://static.divine-pride.net/images/items/item/400096.png) [(Visual) Poring Comemorativo](http://www.divine-pride.net/database/item/400096/) | 21 |
 
 ### Premiações anteriores
 
 | 2026 | |
 | --- | --- |
-| 400096.png [(Visual) Poring Comemorativo](http://www.divine-pride.net/database/item/400096/) | Junho |
-| 20333.png [(Visual) Lembrancinha de Jawaii](http://www.divine-pride.net/database/item/20333/) | Maio |
-| 19878.png [(Visual) Coelho Caído](http://www.divine-pride.net/database/item/19878/) | Abril |
-| 19908.png [(Visual) Chapéu do Bobo da Corte](http://www.divine-pride.net/database/item/19908/) | Março |
-| 420054.png [(Visual) Cachecol de Fumacento](http://www.divine-pride.net/database/item/420054/) | Fevereiro |
+| ![400096.png](https://static.divine-pride.net/images/items/item/400096.png) [(Visual) Poring Comemorativo](http://www.divine-pride.net/database/item/400096/) | Junho |
+| ![20333.png](https://static.divine-pride.net/images/items/item/20333.png) [(Visual) Lembrancinha de Jawaii](http://www.divine-pride.net/database/item/20333/) | Maio |
+| ![19878.png](https://static.divine-pride.net/images/items/item/19878.png) [(Visual) Coelho Caído](http://www.divine-pride.net/database/item/19878/) | Abril |
+| ![19908.png](https://static.divine-pride.net/images/items/item/19908.png) [(Visual) Chapéu do Bobo da Corte](http://www.divine-pride.net/database/item/19908/) | Março |
+| ![420054.png](https://static.divine-pride.net/images/items/item/420054.png) [(Visual) Cachecol de Fumacento](http://www.divine-pride.net/database/item/420054/) | Fevereiro |
 | O mesmo de Dezembro 2025 | Janeiro |
 
 | 2025 | |
 | --- | --- |
 | Visual | Período |
-| 20463.png [(Visual) Boina Duplo-Tom](http://www.divine-pride.net/database/item/20463/) | Maio |
-| 19657.png [(Visual) Quepe do Capitão](http://www.divine-pride.net/database/item/19657/) | Junho |
-| 19703.png [(Visual) Peruca Afro Blackpower](http://www.divine-pride.net/database/item/19703/) | Julho |
-| 31105.png [(Visual) Coroa de Poring Real](http://www.divine-pride.net/database/item/31105/) | Agosto |
-| 19776.png [(Visual) Orelhas de Fada Animada](http://www.divine-pride.net/database/item/19776/) | Setembro |
-| 19290.png [(Visual) Chifres Vilanescos](http://www.divine-pride.net/database/item/19290/) | Outubro |
-| 31105.png [(Visual) Coroa de Poring Real](http://www.divine-pride.net/database/item/31105/) | Novembro |
-| 19682.png [(Visual) Chapéu de Poring Noel](http://www.divine-pride.net/database/item/19682/) | Dezembro |
+| ![20463.png](https://static.divine-pride.net/images/items/item/20463.png) [(Visual) Boina Duplo-Tom](http://www.divine-pride.net/database/item/20463/) | Maio |
+| ![19657.png](https://static.divine-pride.net/images/items/item/19657.png) [(Visual) Quepe do Capitão](http://www.divine-pride.net/database/item/19657/) | Junho |
+| ![19703.png](https://static.divine-pride.net/images/items/item/19703.png) [(Visual) Peruca Afro Blackpower](http://www.divine-pride.net/database/item/19703/) | Julho |
+| ![31105.png](https://static.divine-pride.net/images/items/item/31105.png) [(Visual) Coroa de Poring Real](http://www.divine-pride.net/database/item/31105/) | Agosto |
+| ![19776.png](https://static.divine-pride.net/images/items/item/19776.png) [(Visual) Orelhas de Fada Animada](http://www.divine-pride.net/database/item/19776/) | Setembro |
+| ![19290.png](https://static.divine-pride.net/images/items/item/19290.png) [(Visual) Chifres Vilanescos](http://www.divine-pride.net/database/item/19290/) | Outubro |
+| ![31105.png](https://static.divine-pride.net/images/items/item/31105.png) [(Visual) Coroa de Poring Real](http://www.divine-pride.net/database/item/31105/) | Novembro |
+| ![19682.png](https://static.divine-pride.net/images/items/item/19682.png) [(Visual) Chapéu de Poring Noel](http://www.divine-pride.net/database/item/19682/) | Dezembro |
 
 | *[Quests](Quests.md "Quests") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

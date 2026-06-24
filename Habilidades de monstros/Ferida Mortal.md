@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Ferida Mortal** | |
-| Ferida Mortal | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ferida Mortal** | |
+| ![Ferida Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Ferida_Mortal.gif) | |
 | **ID:** | NPC\_WIDECRITICALWOUND (749) |
 | **Níveis:** | 10 |
 | **Exclusiva:** | Não |
@@ -41,8 +41,8 @@ Desfere um golpe em área que inflige *Ferimento Crítico* por 30 segundos.
 - Pode ser bloqueada por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") se estiver 4 células próximo do alvo ou por [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") se estiver distante 5 células em diante.
 - De acordo com a desenvolvedora, a área de efeito retorna aos 5x5 células no nível 10.
 - Itens relacionados:
-  - ![480812.png](http://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
-  - ![31023.png](http://static.divine-pride.net/images/items/item/31023.png) [Carta Celine Kimi](http://www.divine-pride.net/database/item/31023/)
+  - ![480812.png](https://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
+  - ![31023.png](https://static.divine-pride.net/images/items/item/31023.png) [Carta Celine Kimi](http://www.divine-pride.net/database/item/31023/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

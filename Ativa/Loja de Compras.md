@@ -4,15 +4,15 @@
 
 |  |  |
 | --- | --- |
-| **Loja de Compras Loja de Compras** | |
-| Loja de Compras | |
+| **![Loja de Compras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Loja_de_Compras.png) Loja de Compras** | |
+| ![Loja de Compras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/Loja_de_Compras.gif) | |
 | **Buying Store** | |
 | **ID** | ALL\_BUYING\_STORE (2535) |
 | **Tipo** | Ativa |
 | **Níveis** | 1 |
 | **[SP](../Sem%20categoria/SP.md "SP")** | 30 |
 | **Alvo** | Usuário |
-| **Item** | 12548.png 1 [Licença Falsa de Loja](http://www.divine-pride.net/database/item/12548/) ou 6377.png 1 [Licença de Loja de Compras](http://www.divine-pride.net/database/item/6377/) |
+| **Item** | ![12548.png](https://static.divine-pride.net/images/items/item/12548.png) 1 [Licença Falsa de Loja](http://www.divine-pride.net/database/item/12548/) ou ![6377.png](https://static.divine-pride.net/images/items/item/6377.png) 1 [Licença de Loja de Compras](http://www.divine-pride.net/database/item/6377/) |
 | **Pré-requisitos** | |
 | *Completar Missão ao lado!* | |
 

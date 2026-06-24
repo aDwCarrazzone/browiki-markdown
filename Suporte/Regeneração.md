@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Regeneração Regeneração** | |
-| Regeneração | |
+| **![Regeneração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9f/Regenera%C3%A7%C3%A3o.png) Regeneração** | |
+| ![Regeneração](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/45/Regenera%C3%A7%C3%A3o.gif) | |
 | **Regeneration** | |
 | **ID** | GD\_REGENERATION (10011) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Alvo** | Líder do [clã](../PvP/Cl%C3%A3.md "Clã") |
 | **Área** | 31x31 células |
 | **Pré-requisitos** | |
-| [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 5 [Comando de Batalha](Comando%20de%20Batalha.md "Comando de Batalha") [Comando de Batalha](Comando%20de%20Batalha.md "Comando de Batalha") Nv. 1 | |
+| [![Expandir Clã](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9a/Expandir_Cl%C3%A3.png)](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") [Expandir Clã](../Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") Nv. 5 [![Comando de Batalha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/94/Comando_de_Batalha.png)](Comando%20de%20Batalha.md "Comando de Batalha") [Comando de Batalha](Comando%20de%20Batalha.md "Comando de Batalha") Nv. 1 | |
 
 Acelera a velocidade de regeneração natural de [HP](../Sem%20categoria/HP.md "HP") e [SP](../Sem%20categoria/SP.md "SP") de todos os membros do [clã](../PvP/Cl%C3%A3.md "Clã").
 

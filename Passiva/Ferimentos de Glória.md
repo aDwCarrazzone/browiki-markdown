@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Ferimentos de Glória Ferimentos de Glória** | |
-| SemImagem | |
+| **![Ferimentos de Glória](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/36/Ferimentos_de_Gl%C3%B3ria.png) Ferimentos de Glória** | |
+| ![SemImagem](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/40/SemImagem.png) | |
 | **Glorious Wounds** | |
 | **ID** | GD\_GLORYWOUNDS (10007) |
 | **Tipo** | Passiva |

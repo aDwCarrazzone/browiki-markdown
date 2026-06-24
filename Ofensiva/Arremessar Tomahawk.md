@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Arremessar Tomahawk Arremessar Tomahawk** | |
-| Arremessar Tomahawk | |
+| **![Arremessar Tomahawk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Arremessar_Tomahawk.png) Arremessar Tomahawk** | |
+| ![Arremessar Tomahawk](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Arremessar_Tomahawk.gif) | |
 | **Tomahawk Throwing** | |
 | **ID** | ITM\_TOMAHAWK (337) |
 | **Tipo** | Ofensiva |
@@ -23,7 +23,7 @@ Lança a arma para causar 100% de dano físico a distância.
 
 - A habilidade pode ser copiada por [Plágio](../Passiva/Pl%C3%A1gio.md "Plágio") e não precisa ter uma arma equipada para usá-la.
 - Armas relacionadas:
-  - ![1368.png](http://static.divine-pride.net/images/items/item/1368.png) [Tacape](http://www.divine-pride.net/database/item/1368/)
+  - ![1368.png](https://static.divine-pride.net/images/items/item/1368.png) [Tacape](http://www.divine-pride.net/database/item/1368/)
 
 | *[Habilidades](../Habilidades%20especiais/Habilidades.md "Habilidades") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

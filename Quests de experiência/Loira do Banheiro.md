@@ -2,13 +2,13 @@
 
 # Loira do Banheiro
 
-| NQ ico Loira do Banheiro | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Loira do Banheiro | |
 | --- | --- |
 | Boatos de que o fantasma de uma mulher morta está rondando os banheiros de um dos pontos turísticos mais famosos da cidade! Você tem coragem de fazer o ritual de invocação? | |
 | Requisitos mínimos | |
 | **Nv. de base** | 40 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 11515.png 1 [Coco](http://www.divine-pride.net/database/item/11515/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![11515.png](https://static.divine-pride.net/images/items/item/11515.png) 1 [Coco](http://www.divine-pride.net/database/item/11515/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
 | **Recompensa** | Acesso às [Profundezas das Cataratas](http://www.divine-pride.net/database/map/bra_dun01/) |

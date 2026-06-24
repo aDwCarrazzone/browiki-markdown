@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Para Prontera Para Prontera** | |
-| Para Prontera | |
+| **![Para Prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/Para_Prontera.png) Para Prontera** | |
+| ![Para Prontera](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Para_Prontera.gif) | |
 | **Prontera Recall** | |
 | **ID** | ALL\_PRONTERA\_RECALL (3042) |
 | **Tipo** | Ativa |

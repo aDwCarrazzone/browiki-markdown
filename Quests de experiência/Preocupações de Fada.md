@@ -2,17 +2,17 @@
 
 # Preocupações de Fada
 
-| NQ ico Preocupações de Fada | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Preocupações de Fada | |
 | --- | --- |
 | Além de seu irmão ter sido preso, um Esplêndido ainda terá que descobrir o que aconteceu com o resultado de suas pesquisas. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 120 |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 972.png 1 [Karvodailnirol](http://www.divine-pride.net/database/item/972/)  6090.png 1 [Bradium Purificado](http://www.divine-pride.net/database/item/6090/)  7511.png 1 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)  7563.png 1 [Runa Sangrenta](http://www.divine-pride.net/database/item/7563/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![972.png](https://static.divine-pride.net/images/items/item/972.png) 1 [Karvodailnirol](http://www.divine-pride.net/database/item/972/)  ![6090.png](https://static.divine-pride.net/images/items/item/6090.png) 1 [Bradium Purificado](http://www.divine-pride.net/database/item/6090/)  ![7511.png](https://static.divine-pride.net/images/items/item/7511.png) 1 [Runa da Escuridão](http://www.divine-pride.net/database/item/7511/)  ![7563.png](https://static.divine-pride.net/images/items/item/7563.png) 1 [Runa Sangrenta](http://www.divine-pride.net/database/item/7563/) |
 | **Quests anteriores** | [Rumores do Rei](Rumores%20do%20Rei.md "Rumores do Rei") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 400.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 617.png 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  6081.png 5 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![617.png](https://static.divine-pride.net/images/items/item/617.png) 1 [Velha Caixa Roxa](http://www.divine-pride.net/database/item/617/)  ![6081.png](https://static.divine-pride.net/images/items/item/6081.png) 5 [Moedas Esplendor](http://www.divine-pride.net/database/item/6081/) |
 
 1. Receba a [Carta do Irmão](http://www.divine-pride.net/database/item/6546/) de Wuhari (eclage 282,255)
 

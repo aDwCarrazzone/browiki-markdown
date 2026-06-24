@@ -10,8 +10,8 @@ Os livros usam um método mágico de **V**iagem **R**ealista (VR) e por isso, o 
 
 Há recompensas especiais para quem lê livros diariamente:
 
-- ![1000924.png](http://static.divine-pride.net/images/items/item/1000924.png) 3 [Marcador Fantástico](http://www.divine-pride.net/database/item/1000924/)
-- ![1000925.png](http://static.divine-pride.net/images/items/item/1000925.png) 3 [Cartão Fantástico](http://www.divine-pride.net/database/item/1000925/)
+- ![1000924.png](https://static.divine-pride.net/images/items/item/1000924.png) 3 [Marcador Fantástico](http://www.divine-pride.net/database/item/1000924/)
+- ![1000925.png](https://static.divine-pride.net/images/items/item/1000925.png) 3 [Cartão Fantástico](http://www.divine-pride.net/database/item/1000925/)
 
 - Os Livros Fantásticos ficam na Biblioteca oeste de [Prontera](../Lugares%20em%20Ragnar%C3%B6k/Prontera.md "Prontera") (prontera 120,265)
 

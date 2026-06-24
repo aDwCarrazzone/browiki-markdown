@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Espírito dos Amaldiçoados** | |
-| Espírito dos Amaldiçoados | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Espírito dos Amaldiçoados** | |
+| ![Espírito dos Amaldiçoados](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a7/Esp%C3%ADrito_dos_Amaldi%C3%A7oados.gif) | |
 | **ID:** | NPC\_WIDECURSE (677) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -26,14 +26,14 @@ Tem 100% de chance de infligir [maldição](../Sem%20categoria/Maldi%C3%A7%C3%A3
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Espírito dos Amaldiçoados](http://www.divine-pride.net/database/skill/677)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Consumíveis relacionados:
-  - ![22515.png](http://static.divine-pride.net/images/items/item/22515.png) [Chave Distorcida](http://www.divine-pride.net/database/item/22515/)
+  - ![22515.png](https://static.divine-pride.net/images/items/item/22515.png) [Chave Distorcida](http://www.divine-pride.net/database/item/22515/)
 - Armas relacionadas:
-  - ![1624.png](http://static.divine-pride.net/images/items/item/1624.png) [Cajado do Feiticeiro](http://www.divine-pride.net/database/item/1624/)
+  - ![1624.png](https://static.divine-pride.net/images/items/item/1624.png) [Cajado do Feiticeiro](http://www.divine-pride.net/database/item/1624/)
 - Cartas e Encantos relacionados:
-  - ![4603.png](http://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
-  - ![4604.png](http://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
-  - ![4630.png](http://static.divine-pride.net/images/items/item/4630.png) [Carta Diretor](http://www.divine-pride.net/database/item/4630/)
-  - ![27327.png](http://static.divine-pride.net/images/items/item/27327.png) [Carta Ceifador Ankou](http://www.divine-pride.net/database/item/27327/)
+  - ![4603.png](https://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
+  - ![4604.png](https://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
+  - ![4630.png](https://static.divine-pride.net/images/items/item/4630.png) [Carta Diretor](http://www.divine-pride.net/database/item/4630/)
+  - ![27327.png](https://static.divine-pride.net/images/items/item/27327.png) [Carta Ceifador Ankou](http://www.divine-pride.net/database/item/27327/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

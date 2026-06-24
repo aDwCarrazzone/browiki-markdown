@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Campo de Teia** | |
-| Campo de Teia | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Campo de Teia** | |
+| ![Campo de Teia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Campo_de_Teia.gif) | |
 | **ID:** | NPC\_WIDEWEB (721) |
 | **Níveis:** | 1 |
 | **Exclusiva:** | Sim |

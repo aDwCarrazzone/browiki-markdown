@@ -2,7 +2,7 @@
 
 # Base no Vulcão
 
-| EP ico Base no Vulcão | |
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Base no Vulcão | |
 | --- | --- |
 | Investigue rumores de que uma base militar foi criada no Vulcão de Thor para fabricar robôs Guardiões e preparar extremistas para a Guerra Santa. | |
 | Requisitos mínimos | |
@@ -11,7 +11,7 @@
 | **Quests anteriores** | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 820.000 |
-| **[Itens](../Itens/Itens.md "Itens")** | 12027.png 5 [Caixas Risonhas](http://www.divine-pride.net/database/item/12027/) ou   12103.png 1 [Galho Sangrento](http://www.divine-pride.net/database/item/12103/) ou   661.png 1 [Avental Elegante](http://www.divine-pride.net/database/item/661/) ou   12006.png [Aljava de Aço](http://www.divine-pride.net/database/item/12006/) ou   12104.png [Aljave Aleatório](http://www.divine-pride.net/database/item/12104/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![12027.png](https://static.divine-pride.net/images/items/item/12027.png) 5 [Caixas Risonhas](http://www.divine-pride.net/database/item/12027/) ou   ![12103.png](https://static.divine-pride.net/images/items/item/12103.png) 1 [Galho Sangrento](http://www.divine-pride.net/database/item/12103/) ou   ![661.png](https://static.divine-pride.net/images/items/item/661.png) 1 [Avental Elegante](http://www.divine-pride.net/database/item/661/) ou   ![12006.png](https://static.divine-pride.net/images/items/item/12006.png) [Aljava de Aço](http://www.divine-pride.net/database/item/12006/) ou   ![12104.png](https://static.divine-pride.net/images/items/item/12104.png) [Aljave Aleatório](http://www.divine-pride.net/database/item/12104/) |
 
 1. Pergunte sobre o Vulcão de Thor para o Sumo Sacerdote Zhed (ra\_temin 276,159)
 
@@ -131,6 +131,6 @@
 
 | Parte I | | Parte II | | Parte III | | Parte IV | | Parte V |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | SetaVermelha | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | SetaVermelha | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | SetaVermelha | Base no Vulcão | SetaVermelha | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
-| SetaVermelha | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
-| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | SetaVermelha |
+| [Criança Desaparecida](Crian%C3%A7a%20Desaparecida.md "Criança Desaparecida") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Santuário de Rachel](Santu%C3%A1rio%20de%20Rachel.md "Santuário de Rachel") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Irmãos em Veins](Irm%C3%A3os%20em%20Veins.md "Irmãos em Veins") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | Base no Vulcão | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Paz em Arunafeltz](Paz%20em%20Arunafeltz.md "Paz em Arunafeltz") |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Monastério Maldito](Monast%C3%A9rio%20Maldito.md "Monastério Maldito") | | |
+| [Segredo da Família Real](Segredo%20da%20Fam%C3%ADlia%20Real.md "Segredo da Família Real") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |

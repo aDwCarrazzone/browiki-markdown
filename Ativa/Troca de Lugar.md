@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Troca de Lugar Troca de Lugar** | |
-| Troca de Lugar | |
+| **![Troca de Lugar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/50/Troca_de_Lugar.png) Troca de Lugar** | |
+| ![Troca de Lugar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/18/Troca_de_Lugar.gif) | |
 | **Castling** | |
 | **ID** | HAMI\_CASTLE (8005) |
 | **Tipo** | Ativa |

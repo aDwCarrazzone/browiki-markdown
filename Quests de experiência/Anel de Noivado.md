@@ -2,13 +2,13 @@
 
 # Anel de Noivado
 
-| NQ ico Anel de Noivado | |
+| ![NQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/82/NQ_ico.png) Anel de Noivado | |
 | --- | --- |
 | Ajude uma mulher a encontrar seu noivo e o anel que pertencia a ele. | |
 | Requisitos mínimos | |
 | **Nv. de base** | Nenhum |
 | **Tipo** | Normal |
-| **[Itens](../Itens/Itens.md "Itens")** | 528.png 1+ [Rações para Monstros](http://www.divine-pride.net/database/item/528/)  504.png 1 [Poção Branca](http://www.divine-pride.net/database/item/504/)  7285.png 1 [Linha Sagrada](http://www.divine-pride.net/database/item/7285/)  7287.png 1 [Linha Abençoada](http://www.divine-pride.net/database/item/7287/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![528.png](https://static.divine-pride.net/images/items/item/528.png) 1+ [Rações para Monstros](http://www.divine-pride.net/database/item/528/)  ![504.png](https://static.divine-pride.net/images/items/item/504.png) 1 [Poção Branca](http://www.divine-pride.net/database/item/504/)  ![7285.png](https://static.divine-pride.net/images/items/item/7285.png) 1 [Linha Sagrada](http://www.divine-pride.net/database/item/7285/)  ![7287.png](https://static.divine-pride.net/images/items/item/7287.png) 1 [Linha Abençoada](http://www.divine-pride.net/database/item/7287/) |
 | **[Zeny](../Sem%20categoria/Zeny.md "Zeny")** | 50+ |
 | **Quests anteriores** | [Tigre Sa-mhing](../Acesso%20a%20Calabou%C3%A7os/Tigre%20Sa-mhing.md "Tigre Sa-mhing") |
 | Premiação | |

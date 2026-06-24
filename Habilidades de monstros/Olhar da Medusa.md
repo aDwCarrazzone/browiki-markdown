@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **NPC Skill Icon Olhar da Medusa** | |
-| Olhar da Medusa | |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Olhar da Medusa** | |
+| ![Olhar da Medusa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Olhar_da_Medusa.gif) | |
 | **ID:** | NPC\_WIDESTONE2 (759) |
 | **Níveis:** | 5 |
 | **Exclusiva:** | Não |
@@ -28,9 +28,9 @@ A duração da [Petrificação](../Sem%20categoria/Petrifica%C3%A7%C3%A3o.md "Pe
 - *Confira a lista de [monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") que usam [Olhar da Medusa](http://www.divine-pride.net/database/skill/759)*
 - A chance é reduzida de acordo com a tolerância do jogador ao [efeito negativo](../Sem%20categoria/Efeito%20negativo.md "Efeito negativo").
 - Cartas e Encantos relacionados:
-  - ![4603.png](http://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
-  - ![4604.png](http://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
-  - ![4592.png](http://static.divine-pride.net/images/items/item/4592.png) [Carta Buwaya](http://www.divine-pride.net/database/item/4592/)
+  - ![4603.png](https://static.divine-pride.net/images/items/item/4603.png) [Carta Origem da Maldição](http://www.divine-pride.net/database/item/4603/)
+  - ![4604.png](https://static.divine-pride.net/images/items/item/4604.png) [Carta Origem da Escuridão](http://www.divine-pride.net/database/item/4604/)
+  - ![4592.png](https://static.divine-pride.net/images/items/item/4592.png) [Carta Buwaya](http://www.divine-pride.net/database/item/4592/)
 
 | *[Monstros](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Monstros.md "Monstros") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
 | --- | --- | --- | --- | --- | --- |

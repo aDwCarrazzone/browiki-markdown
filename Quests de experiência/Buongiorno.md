@@ -2,19 +2,19 @@
 
 # Buongiorno
 
-| GQ ico Buongiorno | |
+| ![GQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/GQ_ico.png) Buongiorno | |
 | --- | --- |
 | Sua primeira aventura ao começar [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online") é saber o funcionamento do jogo e seus comandos básicos. Este guia é um tutorial para iniciantes. | |
 | Requisitos mínimos | |
 | **Nv. de base** | 1 |
 | **Tipo** | Tutorial |
 | **Classe** | [Invocadores](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Invocadores.md "Invocadores") |
-| **[Itens](../Itens/Itens.md "Itens")** | 507.png 3 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![507.png](https://static.divine-pride.net/images/items/item/507.png) 3 [Erva Vermelha](http://www.divine-pride.net/database/item/507/) |
 | **Caça** | 3 [Omeleting](http://www.divine-pride.net/database/monster/3495/), 2 [Fabre Gamíneo](http://www.divine-pride.net/database/monster/3497/), 3 [Lunático Folhado](http://www.divine-pride.net/database/monster/3496/), 3 [Planta Vermelha](http://www.divine-pride.net/database/monster/1078/), 20 [Basilisco Guarda](http://www.divine-pride.net/database/monster/3502/) |
 | Premiação | |
 | **[EXP base](../Sem%20categoria/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 4.310 |
 | **[EXP classe](../Sem%20categoria/Experi%C3%AAncia%20de%20Classe.md "Experiência de Classe")** | 4.710 |
-| **[Itens](../Itens/Itens.md "Itens")** | 1687.png 1 [Cauda de Gato Básica](http://www.divine-pride.net/database/item/1687/) 15150.png 1 [Camiseta Branca](http://www.divine-pride.net/database/item/15150/)  15151.png 1 [Camiseta Ecológica](http://www.divine-pride.net/database/item/15151/)  22076.png 1 [Sandálias Ecológicas](http://www.divine-pride.net/database/item/22076/)  19084.png 1 [Chapéu de Farfelle](http://www.divine-pride.net/database/item/19084/)  28374.png 1 [Anel Cauda de Gato](http://www.divine-pride.net/database/item/28374/)  569.png 140 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/)  601.png 50 [Asa de Mosca de Iniciante](http://www.divine-pride.net/database/item/601/)  12324.png 30 [Asa de Borboleta de Iniciante](http://www.divine-pride.net/database/item/12324/)  12325.png 20 [Lupa de Iniciante](http://www.divine-pride.net/database/item/12325/)  7059.png 10 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/)  12849.png 15 [Kit de Culinária Iniciante](http://www.divine-pride.net/database/item/12849/)  11058.png 1 [Livro de Culinária Iniciante](http://www.divine-pride.net/database/item/11058/)  22984.png 5 [Leite de Kaluna](http://www.divine-pride.net/database/item/22984/)  11601.png 80 [Anchova Deliciosa](http://www.divine-pride.net/database/item/11601/) |
+| **[Itens](../Itens/Itens.md "Itens")** | ![1687.png](https://static.divine-pride.net/images/items/item/1687.png) 1 [Cauda de Gato Básica](http://www.divine-pride.net/database/item/1687/) ![15150.png](https://static.divine-pride.net/images/items/item/15150.png) 1 [Camiseta Branca](http://www.divine-pride.net/database/item/15150/)  ![15151.png](https://static.divine-pride.net/images/items/item/15151.png) 1 [Camiseta Ecológica](http://www.divine-pride.net/database/item/15151/)  ![22076.png](https://static.divine-pride.net/images/items/item/22076.png) 1 [Sandálias Ecológicas](http://www.divine-pride.net/database/item/22076/)  ![19084.png](https://static.divine-pride.net/images/items/item/19084.png) 1 [Chapéu de Farfelle](http://www.divine-pride.net/database/item/19084/)  ![28374.png](https://static.divine-pride.net/images/items/item/28374.png) 1 [Anel Cauda de Gato](http://www.divine-pride.net/database/item/28374/)  ![569.png](https://static.divine-pride.net/images/items/item/569.png) 140 [Poção de Aprendiz](http://www.divine-pride.net/database/item/569/)  ![601.png](https://static.divine-pride.net/images/items/item/601.png) 50 [Asa de Mosca de Iniciante](http://www.divine-pride.net/database/item/601/)  ![12324.png](https://static.divine-pride.net/images/items/item/12324.png) 30 [Asa de Borboleta de Iniciante](http://www.divine-pride.net/database/item/12324/)  ![12325.png](https://static.divine-pride.net/images/items/item/12325.png) 20 [Lupa de Iniciante](http://www.divine-pride.net/database/item/12325/)  ![7059.png](https://static.divine-pride.net/images/items/item/7059.png) 10 [Vale-Armazém](http://www.divine-pride.net/database/item/7059/)  ![12849.png](https://static.divine-pride.net/images/items/item/12849.png) 15 [Kit de Culinária Iniciante](http://www.divine-pride.net/database/item/12849/)  ![11058.png](https://static.divine-pride.net/images/items/item/11058.png) 1 [Livro de Culinária Iniciante](http://www.divine-pride.net/database/item/11058/)  ![22984.png](https://static.divine-pride.net/images/items/item/22984.png) 5 [Leite de Kaluna](http://www.divine-pride.net/database/item/22984/)  ![11601.png](https://static.divine-pride.net/images/items/item/11601.png) 80 [Anchova Deliciosa](http://www.divine-pride.net/database/item/11601/) |
 | **Recompensa** | Permite sair de [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") Aprende [Primeiros Socorros](../Suporte/Primeiros%20Socorros.md "Primeiros Socorros") |
 
 ---
@@ -137,8 +137,8 @@
    - Sempre selecione as opções de *Largar a flauta e contar uma piada*.
    - Você deve repetir isso umas 5 vezes.
    - Quando acabar, haverá duas opções de arma para você escolher à vontade:
-     - ![1684.png](http://static.divine-pride.net/images/items/item/1684.png) [Cauda de Gato Resiliente](http://www.divine-pride.net/database/item/1684/)
-     - ![1683.png](http://static.divine-pride.net/images/items/item/1683.png) [Cauda de Gato Arcana Simples](http://www.divine-pride.net/database/item/1683/)
+     - ![1684.png](https://static.divine-pride.net/images/items/item/1684.png) [Cauda de Gato Resiliente](http://www.divine-pride.net/database/item/1684/)
+     - ![1683.png](https://static.divine-pride.net/images/items/item/1683.png) [Cauda de Gato Arcana Simples](http://www.divine-pride.net/database/item/1683/)
    - Você também receberá 400 de [EXP](../Sem%20categoria/EXP.md "EXP") de base e 500 de [EXP](../Sem%20categoria/EXP.md "EXP") de classe.
 9. Em [Lasagna](../Lugares%20em%20Ragnar%C3%B6k/Lasagna.md "Lasagna") novamente, fale com o Chefe Peperoccino (lasagna 235,198)
 
@@ -191,10 +191,10 @@
    - Para cozinhar alguns pratos, você deve ter até o nível 20 de base, acima disso não é mais permitido.
    - Ao completar o último passo dessa missão, você não poderá mais cozinhar os pratos.
    - Os pratos de culinária que podem ser preparados são:
-   1. ![11551.png](http://static.divine-pride.net/images/items/item/11551.png) [Salada de Ervas](http://www.divine-pride.net/database/item/11551/): 1 [Trevo](http://www.divine-pride.net/database/item/705/), 1 [Erva Verde](http://www.divine-pride.net/database/item/511/) e 1 [Erva Vermelha](http://www.divine-pride.net/database/item/507/).
-   2. ![11552.png](http://static.divine-pride.net/images/items/item/11552.png) [Salada de Cenoura e Maçã](http://www.divine-pride.net/database/item/11552/): 1 [Maçã](http://www.divine-pride.net/database/item/512/) e 2 [Cenouras](http://www.divine-pride.net/database/item/515/).
-   3. ![11553.png](http://static.divine-pride.net/images/items/item/11553.png) [Ensopado de Sobras](http://www.divine-pride.net/database/item/11553/): 1 [Jellopy](http://www.divine-pride.net/database/item/909/), 1 [Pluma](http://www.divine-pride.net/database/item/949/) e 1 [Felpa](http://www.divine-pride.net/database/item/914/).
-   4. ![11554.png](http://static.divine-pride.net/images/items/item/11554.png) [Maçã do Amor](http://www.divine-pride.net/database/item/11554/): 1 [Maçã](http://www.divine-pride.net/database/item/512/) e 1 [Trevo](http://www.divine-pride.net/database/item/705/).
+   1. ![11551.png](https://static.divine-pride.net/images/items/item/11551.png) [Salada de Ervas](http://www.divine-pride.net/database/item/11551/): 1 [Trevo](http://www.divine-pride.net/database/item/705/), 1 [Erva Verde](http://www.divine-pride.net/database/item/511/) e 1 [Erva Vermelha](http://www.divine-pride.net/database/item/507/).
+   2. ![11552.png](https://static.divine-pride.net/images/items/item/11552.png) [Salada de Cenoura e Maçã](http://www.divine-pride.net/database/item/11552/): 1 [Maçã](http://www.divine-pride.net/database/item/512/) e 2 [Cenouras](http://www.divine-pride.net/database/item/515/).
+   3. ![11553.png](https://static.divine-pride.net/images/items/item/11553.png) [Ensopado de Sobras](http://www.divine-pride.net/database/item/11553/): 1 [Jellopy](http://www.divine-pride.net/database/item/909/), 1 [Pluma](http://www.divine-pride.net/database/item/949/) e 1 [Felpa](http://www.divine-pride.net/database/item/914/).
+   4. ![11554.png](https://static.divine-pride.net/images/items/item/11554.png) [Maçã do Amor](http://www.divine-pride.net/database/item/11554/): 1 [Maçã](http://www.divine-pride.net/database/item/512/) e 1 [Trevo](http://www.divine-pride.net/database/item/705/).
 8. Procure pelo Comissário novamente.
 9. Dentro da sala do Capitão, fale com Stello.
 

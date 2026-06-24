@@ -18,9 +18,9 @@ A [Agência Pata de Gato](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Servi%C3%A7os.
 
 |  |  |  |
 | --- | --- | --- |
-| El Dicastes map novo | | |
-| Map lupa | Guia |
-| Map lantern | Bar El Borracho | (dicastes01 136,106) |
+| ![El Dicastes map novo](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/ac/El_Dicastes_map_novo.png) | | |
+| ![Map lupa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/62/Map_lupa.png) | Guia |
+| ![Map lantern](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Map_lantern.png) | Bar El Borracho | (dicastes01 136,106) |
 
 [![Artwork Diel](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/2c/Artwork_Diel.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Diel.png)
 
@@ -54,10 +54,10 @@ Diel, o castelo dos ministros
 
 | 1º Slot | 2º Slot | 3º Slot |
 | --- | --- | --- |
-| 4766.png [ATQ +2%](http://www.divine-pride.net/database/item/4766/) ou [+3%](http://www.divine-pride.net/database/item/4767/) | 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/) ou [+2](http://www.divine-pride.net/database/item/4731/) | 4730.png [AGI +1](http://www.divine-pride.net/database/item/4730/), [+2](http://www.divine-pride.net/database/item/4731/) ou [+3](http://www.divine-pride.net/database/item/4732/) |
-| 4760.png [ATQM +1%](http://www.divine-pride.net/database/item/4760/) ou [+2%](http://www.divine-pride.net/database/item/4761/) | 4720.png [DES +1](http://www.divine-pride.net/database/item/4720/) ou [+2](http://www.divine-pride.net/database/item/4721/) | 4720.png [DES +1](http://www.divine-pride.net/database/item/4720/), [+2](http://www.divine-pride.net/database/item/4721/) ou [+3](http://www.divine-pride.net/database/item/4722/) |
-| 4764.png [CRI +5](http://www.divine-pride.net/database/item/4764/) ou [+7](http://www.divine-pride.net/database/item/4765/) | 4710.png [INT +1](http://www.divine-pride.net/database/item/4710/) ou [+2](http://www.divine-pride.net/database/item/4711/) | 4710.png [INT +1](http://www.divine-pride.net/database/item/4710/), [+2](http://www.divine-pride.net/database/item/4711/) ou [+3](http://www.divine-pride.net/database/item/4712/) |
-| 4762.png [Esquiva +6](http://www.divine-pride.net/database/item/4762/) ou [+12](http://www.divine-pride.net/database/item/4763/) | - | - |
+| ![4766.png](https://static.divine-pride.net/images/items/item/4766.png) [ATQ +2%](http://www.divine-pride.net/database/item/4766/) ou [+3%](http://www.divine-pride.net/database/item/4767/) | ![4730.png](https://static.divine-pride.net/images/items/item/4730.png) [AGI +1](http://www.divine-pride.net/database/item/4730/) ou [+2](http://www.divine-pride.net/database/item/4731/) | ![4730.png](https://static.divine-pride.net/images/items/item/4730.png) [AGI +1](http://www.divine-pride.net/database/item/4730/), [+2](http://www.divine-pride.net/database/item/4731/) ou [+3](http://www.divine-pride.net/database/item/4732/) |
+| ![4760.png](https://static.divine-pride.net/images/items/item/4760.png) [ATQM +1%](http://www.divine-pride.net/database/item/4760/) ou [+2%](http://www.divine-pride.net/database/item/4761/) | ![4720.png](https://static.divine-pride.net/images/items/item/4720.png) [DES +1](http://www.divine-pride.net/database/item/4720/) ou [+2](http://www.divine-pride.net/database/item/4721/) | ![4720.png](https://static.divine-pride.net/images/items/item/4720.png) [DES +1](http://www.divine-pride.net/database/item/4720/), [+2](http://www.divine-pride.net/database/item/4721/) ou [+3](http://www.divine-pride.net/database/item/4722/) |
+| ![4764.png](https://static.divine-pride.net/images/items/item/4764.png) [CRI +5](http://www.divine-pride.net/database/item/4764/) ou [+7](http://www.divine-pride.net/database/item/4765/) | ![4710.png](https://static.divine-pride.net/images/items/item/4710.png) [INT +1](http://www.divine-pride.net/database/item/4710/) ou [+2](http://www.divine-pride.net/database/item/4711/) | ![4710.png](https://static.divine-pride.net/images/items/item/4710.png) [INT +1](http://www.divine-pride.net/database/item/4710/), [+2](http://www.divine-pride.net/database/item/4711/) ou [+3](http://www.divine-pride.net/database/item/4712/) |
+| ![4762.png](https://static.divine-pride.net/images/items/item/4762.png) [Esquiva +6](http://www.divine-pride.net/database/item/4762/) ou [+12](http://www.divine-pride.net/database/item/4763/) | - | - |
 
 | *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |

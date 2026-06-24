@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Derretimento com Lava Derretimento com Lava** | |
-| Derretimento com Lava | |
+| **![Derretimento com Lava](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Derretimento_com_Lava.png) Derretimento com Lava** | |
+| ![Derretimento com Lava](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Derretimento_com_Lava.gif) | |
 | **Lava Slide** | |
 | **ID** | MH\_LAVA\_SLIDE (8041) |
 | **Tipo** | Ofensiva |

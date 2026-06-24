@@ -4,8 +4,8 @@
 
 |  |  |
 | --- | --- |
-| **Voo Frenético Voo Frenético** | |
-| Voo Frenético | |
+| **![Voo Frenético](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bb/Voo_Fren%C3%A9tico.png) Voo Frenético** | |
+| ![Voo Frenético](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9c/Voo_Fren%C3%A9tico.gif) | |
 | **Flitting** | |
 | **ID** | HFLI\_FLEET (8010) |
 | **Tipo** | Suporte |
@@ -15,7 +15,7 @@
 | **Duração** | [65 + (Nv. da habilidade × 5)] segundos |
 | **Alvo** | [Homunculus](../Homunculus/Homunculus.md "Homunculus") |
 | **Pré-requisitos** | |
-| [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") Nv. 3 | |
+| [![Pica-Pau](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Pica-Pau.png)](../Ofensiva/Pica-Pau.md "Pica-Pau") [Pica-Pau](../Ofensiva/Pica-Pau.md "Pica-Pau") Nv. 3 | |
 
 Aumenta o [ATQ](../Sem%20categoria/ATQ.md "ATQ") e a [velocidade de ataque](../Sem%20categoria/Velocidade%20de%20Ataque.md "Velocidade de ataque") do [homunculus](../Homunculus/Homunculus.md "Homunculus").
 
