@@ -26,9 +26,22 @@ export_browiki.py Script de extração/sincronização
 ```
 
 > **Imagens:** os arquivos `.md` referenciam `images/...`, mas as ~6.700 imagens (~1,2 GB)
-> **não estão versionadas neste repositório** por enquanto (para mantê-lo leve). Para
-> baixá-las localmente, rode `python export_browiki.py markdown` — elas vão para `images/`.
-> (Futuramente podem ir para um Release, Git LFS ou repositório próprio.)
+> **não ficam na árvore do repositório** (para mantê-lo leve). Elas estão num **.zip anexado
+> ao [Release](../../releases)**, com a mesma estrutura de pastas.
+>
+> Para ter a wiki completa com as imagens no lugar (renderizando em cada página em leitores
+> locais como VS Code/Obsidian):
+>
+> ```bash
+> git clone https://github.com/aDwCarrazzone/browiki-markdown.git
+> cd browiki-markdown
+> # baixe browiki-images.zip do Release e extraia AQUI (na raiz):
+> unzip browiki-images.zip          # cria a pasta images/ no lugar certo
+> ```
+>
+> Observação: no preview web do github.com as imagens não aparecem (o site não extrai o zip);
+> elas renderizam após a extração local. Alternativamente, `python export_browiki.py markdown`
+> rebaixa as imagens direto da wiki para `images/`.
 
 Cada `.md` tem um cabeçalho YAML com `title`, `source` (URL original), `revision`,
 `retrieved` (data da coleta) e `categories`.
