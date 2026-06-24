@@ -1,0 +1,220 @@
+---
+title: "Glastheim"
+source: https://browiki.org/wiki/Glastheim
+namespace: 0
+revision: 44577
+retrieved: 2026-06-23T21:03:27Z
+categories:
+  - "Lugares em Ragnarök"
+---
+
+# Glastheim
+
+[![Artwork Glast Heim](images/7/75/Artwork_Glast_Heim.png)](https://browiki.org/wiki/Arquivo%3AArtwork_Glast_Heim.png)
+
+A Capital Amaldiçoada
+
+As ruínas do que já foi a capital de Rune-Midgard, uma lição de moral marcada a sangue e aos destroços do que restou da cidade de Glastheim.
+
+Antes de ter seu destino final, o império foi governado pelo Rei Schmidt Von Walther, soberano das tropas militares mais temidas que o reino conhecera.
+
+As pessoas diziam que Schmidt era tirano e soberbo, sendo considerado insano pelos seus Guardas Reais.
+
+Na época, haviam rumores que Rei Schmidt tinha fascínio por artes das trevas, chegando a ser aprisionado dentro de um espelho antes de falecer.
+
+Alguns dizem que essas histórias são falsas...
+
+Mesmo em seu apogeu, Glastheim terminaria amaldiçoada por Himmelmez, uma poderosa bruxa que procurava um fragmento do Coração de Ymir guardado no castelo.
+
+## Mapa
+
+|  |  |  |
+| --- | --- | --- |
+| Glastheim map novo | | |
+| Map bandeira | Guilda dos [Cavaleiros Rúnicos](Cavaleiros Rúnicos.md "Cavaleiros Rúnicos") | (glast\_01 44,363) |
+| Map lantern | Centro da Cidade | (glast\_01 195,273) |
+| Map dun01 | [Biblioteca](http://www.divine-pride.net/database/map/gl_in01/) | (glast\_01 234,330) |
+| Map dun02 | [Castelo](http://www.divine-pride.net/database/map/gl_cas01/) | (glast\_01 200,294) |
+| Map dun03 | [Cavalaria](http://www.divine-pride.net/database/map/gl_knt01/) | (glast\_01 74,193) |
+| Map dun04 | [Escadarias](http://www.divine-pride.net/database/map/gl_step/) | (glast\_01 54,108) |
+| Map dun05 | [Abadia](http://www.divine-pride.net/database/map/gl_church/) | (glast\_01 200,135) |
+
+|  |  |  |
+| --- | --- | --- |
+| NPCs | | |
+| Seguidora de Hugin | Acesso ao *[Modo Pesadelo](Modo Pesadelo.md "Modo Pesadelo")* | (glast\_01 195,273) |
+| Ferreira de Hugin | - Adiciona 1 [slot](Slot.md "Slot") na sua Bota Temporal por 5 [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/). - Na troca, você perderá todos os [refinos](Refinamento.md "Refinamento") e **[encantamentos](Encantamentos.md "Encantamentos")** da bota. - Há uma chance de falha, perdendo a bota e os cristais. | (glast\_01 210,270) |
+| Colecionador de Cartas | - Vende 1 4608.png [Carta Cavaleiro Branco](http://www.divine-pride.net/database/item/4608/) por:   - 3.000 [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) ou   - 70 [Manas Sombrias](http://www.divine-pride.net/database/item/6755/) - Vende 1 4609.png [Carta Cavaleira Khalitzburg](http://www.divine-pride.net/database/item/4609/) por:   - 5.000 [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/) ou   - 100 [Manas Sombrias](http://www.divine-pride.net/database/item/6755/) | (glast\_01 216,292) |
+| HUGINN2001 | - Vende 1 27384.png [Carta Cavaleiro Mutante](http://www.divine-pride.net/database/item/27384/) por 50 [Poder Temporal](http://www.divine-pride.net/database/item/25866/). - Vende 1 27385.png [Carta Khalitzburg Mutante](http://www.divine-pride.net/database/item/27385/) por 70 [Poder Temporal](http://www.divine-pride.net/database/item/25866/). - Troca 25864.png 5 [Diadema Temporal Selado](http://www.divine-pride.net/database/item/25864/) por Diademas de Classe. | (glast\_01 141,291) |
+| MUNINN2003 | - Troca 10 25866.png [Poder Temporal](http://www.divine-pride.net/database/item/25866/) por 1 Arma Real.  | Armas Reais | | | | | --- | --- | --- | --- | | 32353.png [Espada Real](http://www.divine-pride.net/database/item/32353/) | 32027.png [Lança Real](http://www.divine-pride.net/database/item/32027/) | | 21055.png [Claymore Real](http://www.divine-pride.net/database/item/21055/) | 1336.png [Machado Real](http://www.divine-pride.net/database/item/1336/) | | 28141.png [Lábris Real](http://www.divine-pride.net/database/item/28141/) | 32401.png [Clava Real](http://www.divine-pride.net/database/item/32401/) | | 28775.png [Gladius Dourado Real](http://www.divine-pride.net/database/item/28775/) | 28774.png [Gladius Prateado Real](http://www.divine-pride.net/database/item/28774/) | | 28046.png [Katar Real](http://www.divine-pride.net/database/item/28046/) | 28636.png [Livro Real](http://www.divine-pride.net/database/item/28636/) | | 28776.png [Punhal Real](http://www.divine-pride.net/database/item/28776/) | 18191.png [Catapulta Real](http://www.divine-pride.net/database/item/18191/) | | 26165.png [Cruz Real](http://www.divine-pride.net/database/item/26165/) | 1870.png [Soqueira Real](http://www.divine-pride.net/database/item/1870/) | | 26166.png [Varinha Real](http://www.divine-pride.net/database/item/26166/) | 2060.png [Cetro Real](http://www.divine-pride.net/database/item/2060/) | | 32403.png [Bengala Real](http://www.divine-pride.net/database/item/32403/) | 32402.png [Seringa Real](http://www.divine-pride.net/database/item/32402/) | | 32111.png [Alaúde Real](http://www.divine-pride.net/database/item/32111/) | 26216.png [Chicote Real](http://www.divine-pride.net/database/item/26216/) | | 18198.png [Arco Real](http://www.divine-pride.net/database/item/18198/) | 32304.png [Revólver Real](http://www.divine-pride.net/database/item/32304/) | | 13347.png [Shuriken Huuma Real](http://www.divine-pride.net/database/item/13347/) | 26172.png [Cauda de Gato Real](http://www.divine-pride.net/database/item/26172/) | | (glast\_01 139,291) |
+| Máquinas da Edda | Fabrica e encanta os [equipamentos de Schmidt](Edda de Glastheim.md "Edda de Glastheim"). | (glast\_01 241,290) |
+| Máquinas Infernais | Fabrica e encanta os [Diademas Temporais](#Modo_Inferno). | (glast\_01 143,288) |
+
+## Quests & Calabouços
+
+- [Além do Limite](Além do Limite.md "Além do Limite") (*Porão do Castelo*)
+- [Carrascos na Prisão](Carrascos na Prisão.md "Carrascos na Prisão")
+- [Edda de Glastheim](Edda de Glastheim.md "Edda de Glastheim")
+  - [Ruína de Glastheim](Ruína de Glastheim.md "Ruína de Glastheim") Instância
+  - [Queda de Glastheim](Queda de Glastheim.md "Queda de Glastheim") Instância
+- [Maldição de Glastheim](Maldição de Glastheim.md "Maldição de Glastheim") Instância
+- [Glastheim Sombria](Glastheim Sombria.md "Glastheim Sombria") Instância
+- [Glastheim Infantil](Glastheim Infantil.md "Glastheim Infantil") Instância
+- [Glastheim Infernal](Glastheim Infernal.md "Glastheim Infernal") Instância
+- [Nv. 90 ~ 100] [Glastheim](http://www.divine-pride.net/database/map/glast_01/)
+- [Nv. 70 ~ 90] [Biblioteca](http://www.divine-pride.net/database/map/gl_in01/)
+- [Nv. 80 ~ 82] [Escadarias](http://www.divine-pride.net/database/map/gl_step/)
+- Catedral
+  - [Nv. 77 ~ 80] [Abadia](http://www.divine-pride.net/database/map/gl_church/)
+  - [Nv. 77 ~ 98] [Cemitério](http://www.divine-pride.net/database/map/gl_chyard/)
+  - [Nv. 110 ~ 134] [Cemitério Amaldiçoado](http://www.divine-pride.net/database/map/gl_chyard_/) (*[Modo Pesadelo](Modo Pesadelo.md "Modo Pesadelo")*)
+- Castelo
+  - [Nv. 74 ~ 103] [Castelo - 1º andar](http://www.divine-pride.net/database/map/gl_cas01/)
+  - [Nv. 82 ~ 120] [Castelo - 2º andar](http://www.divine-pride.net/database/map/gl_cas02/)
+  - [Nv. 143 ~ 151] [Castelo Amaldiçoado](http://www.divine-pride.net/database/map/gl_cas02_/) (*[Modo Pesadelo](Modo Pesadelo.md "Modo Pesadelo")*)
+  - [Nv. 180 ~ 195] [Porão do Castelo](http://www.divine-pride.net/database/map/gl_cas01_/) (Nível 175 ou mais)
+- Cavalaria
+  - [Nv. 115 ~ 118] [Cavalaria - 1º andar](http://www.divine-pride.net/database/map/gl_knt01/)
+  - [Nv. 115 ~ 118] [Cavalaria - 2º andar](http://www.divine-pride.net/database/map/gl_knt02/)
+- Prisão Subterrânea
+  - [Nv. 89 ~ 98] [Prisão - 1º andar](http://www.divine-pride.net/database/map/gl_prison/)
+  - [Nv. 91 ~ 102] [Prisão - 2º andar](http://www.divine-pride.net/database/map/gl_prison1/)
+- Esgotos
+  - [Nv. 46 ~ 100] [Esgotos - 1º andar](http://www.divine-pride.net/database/map/gl_sew01/)
+  - [Nv. 82 ~ 100] [Esgotos - 2º andar](http://www.divine-pride.net/database/map/gl_sew02/)
+  - [Nv. 100 ~ 104] [Esgotos - 3º andar](http://www.divine-pride.net/database/map/gl_sew03/)
+  - [Nv. 100 ~ 109] [Esgotos - 4º andar](http://www.divine-pride.net/database/map/gl_sew04/)
+- Caverna
+  - [Nv. 104 ~ 107] [Caverna Profunda - 1º andar](http://www.divine-pride.net/database/map/gl_dun01/)
+  - [Nv. 100 ~ 107] [Caverna Profunda - 2º andar](http://www.divine-pride.net/database/map/gl_dun02/)
+
+## Itens Temporais
+
+São [itens](Itens.md "Itens") adquiridos nas instâncias [Maldição de Glastheim](Maldição de Glastheim.md "Maldição de Glastheim"), [Glastheim Sombria](Glastheim Sombria.md "Glastheim Sombria") e [Glastheim Infantil](Glastheim Infantil.md "Glastheim Infantil") e podem ser trocados nos seguintes [NPCs](NPCs.md "NPCs").
+
+### Fabricação
+
+- **Governanta de Hugin** (glast\_01 210,273)
+  - Para conseguir 1 [Bota Temporal](http://www.divine-pride.net/database/item/2499/), entregue 1 [Cristal do Tempo](http://www.divine-pride.net/database/item/6607/)
+  - Para conseguir a Bota Temporal de [atributo](Atributo.md "Atributo"), equipe as [Botas Temporais](http://www.divine-pride.net/database/item/2499/) e traga 5 [Cristais do Tempo](http://www.divine-pride.net/database/item/6607/).
+  - Se seu personagem for [Kagerou](Kagerou.md "Kagerou"), [Oboro](Oboro.md "Oboro"), [Insurgente](Insurgente.md "Insurgente"), [Mestre Estelar](Mestre Estelar.md "Mestre Estelar") ou [Ceifador de Almas](Ceifador de Almas.md "Ceifador de Almas"), ele receberá a versão *Modificada* das botas.
+    - Não há diferenças entre a versão normal e a *modificada* da bota.
+
+| Bota Temporal | Botas Modificadas |
+| --- | --- |
+| |  |  | | --- | --- | | 22000.png | [Bota Temporal FOR](http://www.divine-pride.net/database/item/22000/) |  |  |  | | --- | --- | | 22002.png | [Bota Temporal AGI](http://www.divine-pride.net/database/item/22002/) |  |  |  | | --- | --- | | 22003.png | [Bota Temporal VIT](http://www.divine-pride.net/database/item/22003/) |  |  |  | | --- | --- | | 22001.png | [Bota Temporal INT](http://www.divine-pride.net/database/item/22001/) |  |  |  | | --- | --- | | 22004.png | [Bota Temporal DES](http://www.divine-pride.net/database/item/22004/) |  |  |  | | --- | --- | | 22005.png | [Bota Temporal SOR](http://www.divine-pride.net/database/item/22005/) | | |  |  | | --- | --- | | 22107.png | [Botas Modificadas FOR](http://www.divine-pride.net/database/item/22107/) |  |  |  | | --- | --- | | 22109.png | [Botas Modificadas AGI](http://www.divine-pride.net/database/item/22109/) |  |  |  | | --- | --- | | 22110.png | [Botas Modificadas VIT](http://www.divine-pride.net/database/item/22110/) |  |  |  | | --- | --- | | 22108.png | [Botas Modificadas INT](http://www.divine-pride.net/database/item/22108/) |  |  |  | | --- | --- | | 22111.png | [Botas Modificadas DES](http://www.divine-pride.net/database/item/22111/) |  |  |  | | --- | --- | | 22112.png | [Botas Modificadas SOR](http://www.divine-pride.net/database/item/22112/) | |
+
+### Encantamento (Normal)
+
+- **Artesã Mágica de Hugin** (glast\_01 212,273)
+  - Apenas para as Botas de [atributo](Atributo.md "Atributo") **sem** [slot](Slot.md "Slot") de carta.
+  - Para encantar, traga a quantidade necessária de [Manas Coaguladas](http://www.divine-pride.net/database/item/6608/).
+  - Os [encantamentos](Encantamentos.md "Encantamentos") do 4º slot podem ser escolhidos, mas não podem ser trocados uma vez que você já escolheu a opção.
+  - Após encantar 4 vezes, na 5ª vez você encantará o 3º slot.
+  - Você não poderá escolher o encanto do 3º slot, sendo dado de maneira aleatória.
+- As chances de encanto são sempre 100% de sucesso.
+
+| Local | Encanto | EL | MA | PE | VIT | AA | SOR | Manas Coaguladas |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Slot 4 |
+| 1ª vez | 4808.png [EL 4](http://www.divine-pride.net/database/item/4808/) | 4832.png [MA 1](http://www.divine-pride.net/database/item/4832/) | 4814.png [PE 2](http://www.divine-pride.net/database/item/4814/) | 4741.png [VIT +2](http://www.divine-pride.net/database/item/4741/) | 4869.png [AA 1](http://www.divine-pride.net/database/item/4869/) | 4752.png [SOR +3](http://www.divine-pride.net/database/item/4752/) | 1 |
+| 2ª vez | 4820.png [EL 5](http://www.divine-pride.net/database/item/4820/) | 4833.png [MA 2](http://www.divine-pride.net/database/item/4833/) | 4813.png [PE 3](http://www.divine-pride.net/database/item/4813/) | 4742.png [VIT +3](http://www.divine-pride.net/database/item/4742/) | 4872.png [AA 2](http://www.divine-pride.net/database/item/4872/) | 4753.png [SOR +4](http://www.divine-pride.net/database/item/4753/) | 4 |
+| 3ª vez | 4821.png [EL 6](http://www.divine-pride.net/database/item/4821/) | 4834.png [MA 3](http://www.divine-pride.net/database/item/4834/) | 4812.png [PE 4](http://www.divine-pride.net/database/item/4812/) | 4861.png [HP +1%](http://www.divine-pride.net/database/item/4861/) | 4873.png [AA 3](http://www.divine-pride.net/database/item/4873/) | 4754.png [SOR +5](http://www.divine-pride.net/database/item/4754/) | 15 |
+| 4ª vez | 4822.png [EL 7](http://www.divine-pride.net/database/item/4822/) | 4835.png [MA 4](http://www.divine-pride.net/database/item/4835/) | 4826.png [PE 5](http://www.divine-pride.net/database/item/4826/) | 4862.png [HP +2%](http://www.divine-pride.net/database/item/4862/) | 4881.png [AA 4](http://www.divine-pride.net/database/item/4881/) | 4755.png [SOR +6](http://www.divine-pride.net/database/item/4755/) | 30 |
+| Slot 3 | | Aleatório entre [Delírio](http://www.divine-pride.net/database/item/4875/), [Ânimo](http://www.divine-pride.net/database/item/4877/), [Histeria](http://www.divine-pride.net/database/item/4878/), [Epifania](http://www.divine-pride.net/database/item/4876/), [Instinto](http://www.divine-pride.net/database/item/4879/) e [Euforia](http://www.divine-pride.net/database/item/4880/) | | | | | | 10 |
+
+### Encantamento (Avançado)
+
+- **Artesã Sombria** (glast\_01 184,283)
+  - Apenas para as Botas de [atributo](Atributo.md "Atributo") **com** [slot](Slot.md "Slot") de carta.
+  - O processo de encanto precisa ter as 2 Manas ([Coaguladas](http://www.divine-pride.net/database/item/6608/) e [Sombrias](http://www.divine-pride.net/database/item/6755/)).
+  - Os [encantamentos](Encantamentos.md "Encantamentos") do 4º slot podem ser escolhidos, mas não podem ser trocados uma vez que você já escolheu a opção.
+  - Após encantar 4 vezes, na 5ª vez, você encantará o 3º slot.
+  - Você não poderá escolher o encanto do 3º slot, sendo dado de maneira aleatória.
+  - Em casos de falha, você **não perde** a Bota.
+  - Cada encanto custa 100.000 [zenys](Zenys.md "Zenys").
+- Você pode resetar os encantos com a mesma [NPC](NPC.md "NPC").
+  - Há duas opções para reset, a primeira tem 70% de chance de falha e consome 3 Manas Sombrias e 10 Fragmentos Temporais.
+  - A segunda opção tem 100% de chance de sucesso e consome 1 [Âmago Dimensional](http://www.divine-pride.net/database/item/7925/).
+
+| Local | Encanto | EL | MA | PE | VIT | AA | SOR | Manas | | Chance |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Coagulada | Sombria |
+| Slot 4 |
+| 1ª vez | 4808.png [EL 4](http://www.divine-pride.net/database/item/4808/) | 4832.png [MA 1](http://www.divine-pride.net/database/item/4832/) | 4814.png [PE 2](http://www.divine-pride.net/database/item/4814/) | 4741.png [VIT +2](http://www.divine-pride.net/database/item/4741/) | 4869.png [AA 1](http://www.divine-pride.net/database/item/4869/) | 4752.png [SOR +3](http://www.divine-pride.net/database/item/4752/) | 3 | 1 | 90% |
+| 2ª vez | 4820.png [EL 5](http://www.divine-pride.net/database/item/4820/) | 4833.png [MA 2](http://www.divine-pride.net/database/item/4833/) | 4813.png [PE 3](http://www.divine-pride.net/database/item/4813/) | 4742.png [VIT +3](http://www.divine-pride.net/database/item/4742/) | 4872.png [AA 2](http://www.divine-pride.net/database/item/4872/) | 4753.png [SOR +4](http://www.divine-pride.net/database/item/4753/) | 10 | 2 | 80% |
+| 3ª vez | 4821.png [EL 6](http://www.divine-pride.net/database/item/4821/) | 4834.png [MA 3](http://www.divine-pride.net/database/item/4834/) | 4812.png [PE 4](http://www.divine-pride.net/database/item/4812/) | 4861.png [HP +1%](http://www.divine-pride.net/database/item/4861/) | 4873.png [AA 3](http://www.divine-pride.net/database/item/4873/) | 4754.png [SOR +5](http://www.divine-pride.net/database/item/4754/) | 20 | 4 | 70% |
+| 4ª vez | 4822.png [EL 7](http://www.divine-pride.net/database/item/4822/) | 4835.png [MA 4](http://www.divine-pride.net/database/item/4835/) | 4826.png [PE 5](http://www.divine-pride.net/database/item/4826/) | 4862.png [HP +2%](http://www.divine-pride.net/database/item/4862/) | 4881.png [AA 4](http://www.divine-pride.net/database/item/4881/) | 4755.png [SOR +6](http://www.divine-pride.net/database/item/4755/) | 40 | 7 | 60% |
+| Slot 3 | | Aleatório entre [Delírio](http://www.divine-pride.net/database/item/4875/), [Ânimo](http://www.divine-pride.net/database/item/4877/), [Histeria](http://www.divine-pride.net/database/item/4878/), [Epifania](http://www.divine-pride.net/database/item/4876/), [Instinto](http://www.divine-pride.net/database/item/4879/) e [Euforia](http://www.divine-pride.net/database/item/4880/) | | | | | | 50 | 10 | 50% |
+
+## Modo Inferno
+
+- Completar a [Glastheim Infernal](Glastheim Infernal.md "Glastheim Infernal") permite acessar recompensas dadas na máquina HUGINN2001 (glast\_01 143,288)
+- A máquina troca 5 [Diadema Temporal Selado](http://www.divine-pride.net/database/item/25864/) por Diademas de Classe.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Classe | Elmos | | --- | --- | | [Cavaleiros Rúnicospartyicn](Cavaleiros Rúnicos.md "Cavaleiros Rúnicos")     [Cavaleiros Rúnicos](Cavaleiros Rúnicos.md "Cavaleiros Rúnicos") | 19474.png [Diadema Temporal Rúnico](http://www.divine-pride.net/database/item/19474/) | | [Mecânicospartyicn](Mecânicos.md "Mecânicos")     [Mecânicos](Mecânicos.md "Mecânicos") | 19476.png [Diadema Temporal Mecânico](http://www.divine-pride.net/database/item/19476/) | | [Sicáriospartyicn](Sicários.md "Sicários")     [Sicários](Sicários.md "Sicários") | 19478.png [Diadema Temporal Mortal](http://www.divine-pride.net/database/item/19478/) | | [Arcebispospartyicn](Arcebispos.md "Arcebispos")     [Arcebispos](Arcebispos.md "Arcebispos") | 19480.png [Diadema Temporal Sagrado](http://www.divine-pride.net/database/item/19480/) | | [Arcanospartyicn](Arcanos.md "Arcanos")     [Arcanos](Arcanos.md "Arcanos") | 19482.png [Diadema Temporal Arcano](http://www.divine-pride.net/database/item/19482/) | | [Sentinelaspartyicn](Sentinelas.md "Sentinelas")     [Sentinelas](Sentinelas.md "Sentinelas") | 19484.png [Diadema Temporal Atirador](http://www.divine-pride.net/database/item/19484/) | | [Mestres Estelarespartyicn](Mestres Estelares.md "Mestres Estelares")     [Mestres Estelares](Mestres Estelares.md "Mestres Estelares") | 19486.png [Diadema Temporal Estelar](http://www.divine-pride.net/database/item/19486/) | | [Oboropartyicn](Oboro.md "Oboro")     [Oboro](Oboro.md "Oboro") | 19489.png [Diadema Temporal Oboro](http://www.divine-pride.net/database/item/19489/) | | [Insurgentespartyicn](Insurgentes.md "Insurgentes")     [Insurgentes](Insurgentes.md "Insurgentes") | 19488.png [Diadema Temporal Rebelde](http://www.divine-pride.net/database/item/19488/) | | [Invocadorespartyicn](Invocadores.md "Invocadores")     [Invocadores](Invocadores.md "Invocadores") | 19492.png [Diadema Temporal Doram](http://www.divine-pride.net/database/item/19492/) | | | Classe | Elmos | | --- | --- | | [Guardiões Reaispartyicn](Guardiões Reais.md "Guardiões Reais")     [Guardiões Reais](Guardiões Reais.md "Guardiões Reais") | 19475.png [Diadema Temporal Real](http://www.divine-pride.net/database/item/19475/) | | [Bioquímicospartyicn](Bioquímicos.md "Bioquímicos")     [Bioquímicos](Bioquímicos.md "Bioquímicos") | 19477.png [Diadema Temporal Químico](http://www.divine-pride.net/database/item/19477/) | | [Renegadospartyicn](Renegados.md "Renegados")     [Renegados](Renegados.md "Renegados") | 19479.png [Diadema Temporal Renegado](http://www.divine-pride.net/database/item/19479/) | | [Shuraspartyicn](Shuras.md "Shuras")     [Shuras](Shuras.md "Shuras") | 19481.png [Diadema Temporal Lutador](http://www.divine-pride.net/database/item/19481/) | | [Feiticeirospartyicn](Feiticeiros.md "Feiticeiros")     [Feiticeiros](Feiticeiros.md "Feiticeiros") | 19483.png [Diadema Temporal Mágico](http://www.divine-pride.net/database/item/19483/) | | [Musaspartyicn](Musas.md "Musas")     [Musas](Musas.md "Musas") & [Trovadores](Trovadores.md "Trovadores") | 19485.png [Diadema Temporal Musical](http://www.divine-pride.net/database/item/19485/) | | [Ceifadores de Almaspartyicn](Ceifadores de Almas.md "Ceifadores de Almas")     [Ceifadores de Almas](Ceifadores de Almas.md "Ceifadores de Almas") | 19487.png [Diadema Temporal Xamânico](http://www.divine-pride.net/database/item/19487/) | | [Kageroupartyicn](Kagerou.md "Kagerou")     [Kagerou](Kagerou.md "Kagerou") | 19490.png [Diadema Temporal Kagerou](http://www.divine-pride.net/database/item/19490/) | | [Superaprendizes EXpartyicn](Superaprendizes.md "Superaprendizes")     [Superaprendizes EX](Superaprendizes EX.md "Superaprendizes EX") | 19491.png [Diadema Temporal Aprendiz](http://www.divine-pride.net/database/item/19491/) | |
+
+### Encanto
+
+- Os encantos podem ser resetados por 2 maneiras:
+  - Pagando 500.000z, mas com 30% de chance de falha e perda total do elmo.
+  - Pagando ![6909.png](http://static.divine-pride.net/images/items/item/6909.png) 2 [MiauMiau](http://www.divine-pride.net/database/item/6909/), com 100% de chance de sucesso.
+- Materiais necessários por encanto:
+  - **4º slot:** ![25867.png](http://static.divine-pride.net/images/items/item/25867.png) 10 [Fragmento Temporal](http://www.divine-pride.net/database/item/25867/)
+  - **3º slot (Normal):** ![25867.png](http://static.divine-pride.net/images/items/item/25867.png) 20 [Fragmento Temporal](http://www.divine-pride.net/database/item/25867/)
+  - **3º slot (Especial):** ![25865.png](http://static.divine-pride.net/images/items/item/25865.png) 2 [Gema Temporal](http://www.divine-pride.net/database/item/25865/)
+  - **2º slot:** ![25866.png](http://static.divine-pride.net/images/items/item/25866.png) 2 [Poder Temporal](http://www.divine-pride.net/database/item/25866/)
+- Os encantos são adicionados em ordem, começando pelo 4º slot. ( 1 / 2 / 3 / 4 )
+
+| 4º slot | | 3º slot | | | | 2º slot | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Normal | | Especial | |
+| 4700.png [FOR](http://www.divine-pride.net/database/item/4700/), [INT](http://www.divine-pride.net/database/item/4710/), [VIT](http://www.divine-pride.net/database/item/4740/), [SOR](http://www.divine-pride.net/database/item/4750/) +1 | 13,00% | 4700.png [FOR](http://www.divine-pride.net/database/item/4700/), [INT](http://www.divine-pride.net/database/item/4710/), [VIT](http://www.divine-pride.net/database/item/4740/), [SOR](http://www.divine-pride.net/database/item/4750/) +1 | 11,01%% | 29672.png [Joia FOR 1](http://www.divine-pride.net/database/item/29672/) | 8,85% | 4818.png [Pedra de Crítico 1](http://www.divine-pride.net/database/item/4818/) | 2,06% |
+| 4701.png [FOR](http://www.divine-pride.net/database/item/4701/), [INT](http://www.divine-pride.net/database/item/4711/), [VIT](http://www.divine-pride.net/database/item/4741/), [SOR](http://www.divine-pride.net/database/item/4751/) +2 | 7,00% | 4701.png [FOR](http://www.divine-pride.net/database/item/4701/), [INT](http://www.divine-pride.net/database/item/4711/), [VIT](http://www.divine-pride.net/database/item/4741/), [SOR](http://www.divine-pride.net/database/item/4751/) +2 | 6,88% | 29675.png [Joia AGI 1](http://www.divine-pride.net/database/item/29675/) | 4832.png [Mira Apurada 1](http://www.divine-pride.net/database/item/4832/) |
+| 4702.png [FOR](http://www.divine-pride.net/database/item/4702/), [INT](http://www.divine-pride.net/database/item/4712/), [VIT](http://www.divine-pride.net/database/item/4742/), [SOR](http://www.divine-pride.net/database/item/4752/) +3 | 4,00% | 4702.png [FOR](http://www.divine-pride.net/database/item/4702/), [INT](http://www.divine-pride.net/database/item/4712/), [VIT](http://www.divine-pride.net/database/item/4742/), [SOR](http://www.divine-pride.net/database/item/4752/) +3 | 3,85% | 29678.png [Joia VIT 1](http://www.divine-pride.net/database/item/29678/) | 4869.png [Anti-Atraso 1](http://www.divine-pride.net/database/item/4869/) |
+| 4703.png [FOR](http://www.divine-pride.net/database/item/4703/), [INT](http://www.divine-pride.net/database/item/4713/), [VIT](http://www.divine-pride.net/database/item/4743/), [SOR](http://www.divine-pride.net/database/item/4753/) +4 | 1,00% | 4703.png [FOR](http://www.divine-pride.net/database/item/4703/), [INT](http://www.divine-pride.net/database/item/4713/), [VIT](http://www.divine-pride.net/database/item/4743/), [SOR](http://www.divine-pride.net/database/item/4753/) +4 | 1,10% | 29681.png [Joia INT 1](http://www.divine-pride.net/database/item/29681/) | 4815.png [Encanto 1](http://www.divine-pride.net/database/item/4815/) |
+|  |  | 29672.png [Joia FOR](http://www.divine-pride.net/database/item/29672/), [AGI](http://www.divine-pride.net/database/item/29675/), [VIT](http://www.divine-pride.net/database/item/29678/), [INT](http://www.divine-pride.net/database/item/29681/), [DES](http://www.divine-pride.net/database/item/29684/), [SOR](http://www.divine-pride.net/database/item/29687/) 1 | 1,10% | 29684.png [Joia DES 1](http://www.divine-pride.net/database/item/29684/) | 4817.png [Pedra de Crítico 2](http://www.divine-pride.net/database/item/4817/) | 1,03% |
+|  |  | 29673.png [Joia FOR](http://www.divine-pride.net/database/item/29673/), [AGI](http://www.divine-pride.net/database/item/29676/), [VIT](http://www.divine-pride.net/database/item/29679/), [INT](http://www.divine-pride.net/database/item/29682/), [DES](http://www.divine-pride.net/database/item/29685/), [SOR](http://www.divine-pride.net/database/item/29688/) 2 | 0,22% | 29687.png [Joia SOR 1](http://www.divine-pride.net/database/item/29687/) | 4833.png [Mira Apurada 2](http://www.divine-pride.net/database/item/4833/) |
+|  |  | 29674.png [Joia FOR](http://www.divine-pride.net/database/item/29674/), [AGI](http://www.divine-pride.net/database/item/29677/), [VIT](http://www.divine-pride.net/database/item/29680/), [INT](http://www.divine-pride.net/database/item/29683/), [DES](http://www.divine-pride.net/database/item/29686/), [SOR](http://www.divine-pride.net/database/item/29689/) 3 | 0,22% | 29673.png [Joia FOR 2](http://www.divine-pride.net/database/item/29673/) | 4,87% | 4872.png [Anti-Atraso 2](http://www.divine-pride.net/database/item/4872/) |
+|  |  |  |  | 29676.png [Joia AGI 2](http://www.divine-pride.net/database/item/29676/) | 4814.png [Encanto 2](http://www.divine-pride.net/database/item/4814/) |
+|  |  |  |  | 29679.png [Joia VIT 2](http://www.divine-pride.net/database/item/29679/) | 4816.png [Pedra de Crítico 3](http://www.divine-pride.net/database/item/4816/) | 0,52% |
+|  |  |  |  | 29682.png [Joia INT 2](http://www.divine-pride.net/database/item/29682/) | 4834.png [Mira Apurada 3](http://www.divine-pride.net/database/item/4834/) |
+|  |  |  |  | 29685.png [Joia DES 2](http://www.divine-pride.net/database/item/29685/) | 4873.png [Anti-Atraso 3](http://www.divine-pride.net/database/item/4873/) |
+|  |  |  |  | 29688.png [Joia SOR 2](http://www.divine-pride.net/database/item/29688/) | 4813.png [Encanto 3](http://www.divine-pride.net/database/item/4813/) |
+|  |  |  |  | 29674.png [Joia FOR 3](http://www.divine-pride.net/database/item/29674/) | 2,95% | 4843.png [Pedra de Crítico 4](http://www.divine-pride.net/database/item/4843/) | 0,26% |
+|  |  |  |  | 29677.png [Joia AGI 3](http://www.divine-pride.net/database/item/29677/) | 4835.png [Mira Apurada 4](http://www.divine-pride.net/database/item/4835/) |
+|  |  |  |  | 29680.png [Joia VIT 3](http://www.divine-pride.net/database/item/29680/) | 4881.png [Anti-Atraso 4](http://www.divine-pride.net/database/item/4881/) |
+|  |  |  |  | 29683.png [Joia INT 3](http://www.divine-pride.net/database/item/29683/) | 4812.png [Encanto 4](http://www.divine-pride.net/database/item/4812/) |
+|  |  |  |  | 29686.png [Joia DES 3](http://www.divine-pride.net/database/item/29686/) | Encanto *Insígnia* | 12,37% |
+|  |  |  |  | 29689.png [Joia SOR 3](http://www.divine-pride.net/database/item/29689/) |
+
+- Se você conseguir um encanto do tipo Insígnia no 2º [slot](Slot.md "Slot"), você poderá fortalecê-lo até o nível 10.
+- Para subir o nível da Insígnia, uma quantidade de [Poder Temporal](http://www.divine-pride.net/database/item/25866/) será cobrada.
+- Em casos de falha, você descerá 1 nível da Insígnia.
+- Se falhar ao subir do nível 1 ao nível 2, a Insígnia continuará no nível 1.
+
+|  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Poder Temporal](http://www.divine-pride.net/database/item/25866/) | 4 | 6 | 8 | 10 | 12 | 16 | 20 | 28 | 40 |
+| Chance | 50% | 35% | 20% | 10% | 7% | 5% | 2% | 1% | 1% |
+| [Potência](http://www.divine-pride.net/database/item/29061/) | |  |  | | --- | --- | | 29062.png | [Nv. 2](http://www.divine-pride.net/database/item/29062/) | | |  |  | | --- | --- | | 29063.png | [Nv. 3](http://www.divine-pride.net/database/item/29063/) | | |  |  | | --- | --- | | 29064.png | [Nv. 4](http://www.divine-pride.net/database/item/29064/) | | |  |  | | --- | --- | | 29065.png | [Nv. 5](http://www.divine-pride.net/database/item/29065/) | | |  |  | | --- | --- | | 29066.png | [Nv. 6](http://www.divine-pride.net/database/item/29066/) | | |  |  | | --- | --- | | 29067.png | [Nv. 7](http://www.divine-pride.net/database/item/29067/) | | |  |  | | --- | --- | | 29068.png | [Nv. 8](http://www.divine-pride.net/database/item/29068/) | | |  |  | | --- | --- | | 29069.png | [Nv. 9](http://www.divine-pride.net/database/item/29069/) | | |  |  | | --- | --- | | 29070.png | [Nv. 10](http://www.divine-pride.net/database/item/29070/) | |
+| [Virtude](http://www.divine-pride.net/database/item/29071/) | |  |  | | --- | --- | | 29072.png | [Nv. 2](http://www.divine-pride.net/database/item/29072/) | | |  |  | | --- | --- | | 29073.png | [Nv. 3](http://www.divine-pride.net/database/item/29073/) | | |  |  | | --- | --- | | 29074.png | [Nv. 4](http://www.divine-pride.net/database/item/29074/) | | |  |  | | --- | --- | | 29075.png | [Nv. 5](http://www.divine-pride.net/database/item/29075/) | | |  |  | | --- | --- | | 29076.png | [Nv. 6](http://www.divine-pride.net/database/item/29076/) | | |  |  | | --- | --- | | 29077.png | [Nv. 7](http://www.divine-pride.net/database/item/29077/) | | |  |  | | --- | --- | | 29078.png | [Nv. 8](http://www.divine-pride.net/database/item/29078/) | | |  |  | | --- | --- | | 29079.png | [Nv. 9](http://www.divine-pride.net/database/item/29079/) | | |  |  | | --- | --- | | 29080.png | [Nv. 10](http://www.divine-pride.net/database/item/29080/) | |
+| [Talento](http://www.divine-pride.net/database/item/29081/) | |  |  | | --- | --- | | 29082.png | [Nv. 2](http://www.divine-pride.net/database/item/29082/) | | |  |  | | --- | --- | | 29083.png | [Nv. 3](http://www.divine-pride.net/database/item/29083/) | | |  |  | | --- | --- | | 29084.png | [Nv. 4](http://www.divine-pride.net/database/item/29084/) | | |  |  | | --- | --- | | 29085.png | [Nv. 5](http://www.divine-pride.net/database/item/29085/) | | |  |  | | --- | --- | | 29086.png | [Nv. 6](http://www.divine-pride.net/database/item/29086/) | | |  |  | | --- | --- | | 29087.png | [Nv. 7](http://www.divine-pride.net/database/item/29087/) | | |  |  | | --- | --- | | 29088.png | [Nv. 8](http://www.divine-pride.net/database/item/29088/) | | |  |  | | --- | --- | | 29089.png | [Nv. 9](http://www.divine-pride.net/database/item/29089/) | | |  |  | | --- | --- | | 29090.png | [Nv. 10](http://www.divine-pride.net/database/item/29090/) | |
+| [Maestria](http://www.divine-pride.net/database/item/29091/) | |  |  | | --- | --- | | 29092.png | [Nv. 2](http://www.divine-pride.net/database/item/29092/) | | |  |  | | --- | --- | | 29093.png | [Nv. 3](http://www.divine-pride.net/database/item/29093/) | | |  |  | | --- | --- | | 29094.png | [Nv. 4](http://www.divine-pride.net/database/item/29094/) | | |  |  | | --- | --- | | 29095.png | [Nv. 5](http://www.divine-pride.net/database/item/29095/) | | |  |  | | --- | --- | | 29096.png | [Nv. 6](http://www.divine-pride.net/database/item/29096/) | | |  |  | | --- | --- | | 29097.png | [Nv. 7](http://www.divine-pride.net/database/item/29097/) | | |  |  | | --- | --- | | 29098.png | [Nv. 8](http://www.divine-pride.net/database/item/29098/) | | |  |  | | --- | --- | | 29099.png | [Nv. 9](http://www.divine-pride.net/database/item/29099/) | | |  |  | | --- | --- | | 29100.png | [Nv. 10](http://www.divine-pride.net/database/item/29100/) | |
+| [Resiliência](http://www.divine-pride.net/database/item/29101/) | |  |  | | --- | --- | | 29102.png | [Nv. 2](http://www.divine-pride.net/database/item/29102/) | | |  |  | | --- | --- | | 29103.png | [Nv. 3](http://www.divine-pride.net/database/item/29103/) | | |  |  | | --- | --- | | 29104.png | [Nv. 4](http://www.divine-pride.net/database/item/29104/) | | |  |  | | --- | --- | | 29105.png | [Nv. 5](http://www.divine-pride.net/database/item/29105/) | | |  |  | | --- | --- | | 29106.png | [Nv. 6](http://www.divine-pride.net/database/item/29106/) | | |  |  | | --- | --- | | 29107.png | [Nv. 7](http://www.divine-pride.net/database/item/29107/) | | |  |  | | --- | --- | | 29108.png | [Nv. 8](http://www.divine-pride.net/database/item/29108/) | | |  |  | | --- | --- | | 29109.png | [Nv. 9](http://www.divine-pride.net/database/item/29109/) | | |  |  | | --- | --- | | 29110.png | [Nv. 10](http://www.divine-pride.net/database/item/29110/) | |
+| [Afeição](http://www.divine-pride.net/database/item/29111/) | |  |  | | --- | --- | | 29112.png | [Nv. 2](http://www.divine-pride.net/database/item/29112/) | | |  |  | | --- | --- | | 29113.png | [Nv. 3](http://www.divine-pride.net/database/item/29113/) | | |  |  | | --- | --- | | 29114.png | [Nv. 4](http://www.divine-pride.net/database/item/29114/) | | |  |  | | --- | --- | | 29115.png | [Nv. 5](http://www.divine-pride.net/database/item/29115/) | | |  |  | | --- | --- | | 29116.png | [Nv. 6](http://www.divine-pride.net/database/item/29116/) | | |  |  | | --- | --- | | 29117.png | [Nv. 7](http://www.divine-pride.net/database/item/29117/) | | |  |  | | --- | --- | | 29118.png | [Nv. 8](http://www.divine-pride.net/database/item/29118/) | | |  |  | | --- | --- | | 29119.png | [Nv. 9](http://www.divine-pride.net/database/item/29119/) | | |  |  | | --- | --- | | 29120.png | [Nv. 10](http://www.divine-pride.net/database/item/29120/) | |
+| [Dedicação](http://www.divine-pride.net/database/item/29706/) | |  |  | | --- | --- | | 29707.png | [Nv. 2](http://www.divine-pride.net/database/item/29707/) | | |  |  | | --- | --- | | 29708.png | [Nv. 3](http://www.divine-pride.net/database/item/29708/) | | |  |  | | --- | --- | | 29709.png | [Nv. 4](http://www.divine-pride.net/database/item/29709/) | | |  |  | | --- | --- | | 29710.png | [Nv. 5](http://www.divine-pride.net/database/item/29710/) | | |  |  | | --- | --- | | 29711.png | [Nv. 6](http://www.divine-pride.net/database/item/29711/) | | |  |  | | --- | --- | | 29712.png | [Nv. 7](http://www.divine-pride.net/database/item/29712/) | | |  |  | | --- | --- | | 29713.png | [Nv. 8](http://www.divine-pride.net/database/item/29713/) | | |  |  | | --- | --- | | 29714.png | [Nv. 9](http://www.divine-pride.net/database/item/29714/) | | |  |  | | --- | --- | | 29715.png | [Nv. 10](http://www.divine-pride.net/database/item/29715/) | |
+
+| *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")* | | |
+| --- | --- | --- |
+| [Midgard](Midgard.md "Midgard") |
+| Rune-Midgard | **[Prontera](Prontera.md "Prontera")** · [Alberta](Alberta.md "Alberta") · [Al De Baran](Al De Baran.md "Al De Baran") · [Comodo](Comodo.md "Comodo") · [Geffen](Geffen.md "Geffen") · [Izlude](Izlude.md "Izlude") · [Jawaii](Jawaii.md "Jawaii") · [Morroc](Morroc.md "Morroc") · [Payon](Payon.md "Payon") · [Umbala](Umbala.md "Umbala") [Abadia de Santa Capitolina](Abadia de Santa Capitolina.md "Abadia de Santa Capitolina") · *Glastheim* · [Pharos](Pharos.md "Pharos") · **[Malangdo](Malangdo.md "Malangdo")** |
+| Schwartzwald | **[Juno](Juno.md "Juno")** · [Einbech](Einbech.md "Einbech") (*[Clana Nemieri](Clana Nemieri.md "Clana Nemieri")*) · [Einbroch](Einbroch.md "Einbroch") · [Hugel](Hugel.md "Hugel") · [Lighthalzen](Lighthalzen.md "Lighthalzen") · *[Mansão de Varmunt](Mansão de Varmunt.md "Mansão de Varmunt")* · [Verus](Verus.md "Verus") *[Lago do Abismo](Lago do Abismo.md "Lago do Abismo")* · *[Torre de Thanatos](Torre de Thanatos.md "Torre de Thanatos")* |
+| Arunafeltz | [Aldeia do Lobo Cinzento](Aldeia do Lobo Cinzento.md "Aldeia do Lobo Cinzento") · **[Rachel](Rachel.md "Rachel")** · [Veins](Veins.md "Veins") *[Ilha Esquecida](Ilha Esquecida.md "Ilha Esquecida")* |
+| Norte | [Lutie](Lutie.md "Lutie") |
+| [Ash Vacuum](Ash Vacuum.md "Ash Vacuum") | |
+| **[El Dicastes](El Dicastes.md "El Dicastes")** · [Manuka](Manuka.md "Manuka") · **[Eclage](Eclage.md "Eclage")** · [Esplendor](Esplendor.md "Esplendor") · [Mora](Mora.md "Mora") |
+| Ilha-Nação | | [Amatsu](Amatsu.md "Amatsu") · [Ayothaya](Ayothaya.md "Ayothaya") · [Brasilis](Brasilis.md "Brasilis") · [Dewata](Dewata.md "Dewata") · [Kunlun](Kunlun.md "Kunlun") · [Louyang](Louyang.md "Louyang") · [Moscóvia](Moscóvia.md "Moscóvia") · [Porto Malaya](Porto Malaya.md "Porto Malaya") · [Rockridge](Rockridge.md "Rockridge") |
+| Outros | | [Cavernas Ilusionais](Cavernas Ilusionais.md "Cavernas Ilusionais") · [Espaço Dimensional](Espaço Dimensional.md "Espaço Dimensional") · [Lasagna](Lasagna.md "Lasagna") · *[Niflheim](Niflheim.md "Niflheim")* |

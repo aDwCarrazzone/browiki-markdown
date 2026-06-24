@@ -1,0 +1,13 @@
+# Claude Code / ferramentas locais
+.claude/
+__pycache__/
+*.pyc
+
+# Logs e saidas temporarias
+scratchpad/
+scratchpad_*.log
+test_out*/
+
+# Imagens (1.2 GB) — versionadas separadamente depois (LFS / Release / repo proprio).
+# O markdown referencia images/...; baixe-as com: python export_browiki.py markdown
+images/

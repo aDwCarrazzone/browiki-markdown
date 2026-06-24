@@ -1,0 +1,64 @@
+---
+title: "Festival das Mascotes"
+source: https://browiki.org/wiki/Festival_das_Mascotes
+namespace: 0
+revision: 44079
+retrieved: 2026-06-23T21:03:27Z
+categories:
+  - "Evento"
+  - "Quests de caça"
+  - "Quest"
+---
+
+# Festival das Mascotes
+
+| EV ico Festival das Mascotes | |
+| --- | --- |
+| HappyEgg | |
+| Requisitos mínimos | |
+| **Nv. de base** | 20 |
+| **Tipo** | Evento |
+| **Caça** | [Ovo Decorado](http://www.divine-pride.net/database/monster/3805/) [Lunático de Trevo](http://www.divine-pride.net/database/monster/3807/) |
+| Premiação | |
+| **[Itens](Itens.md "Itens")** | 19459.png [(Visual) Bebê Lunático](http://www.divine-pride.net/database/item/19459/) |
+
+1. Inscreva-se no Festival com Yulata (yuno 175,162) em [Juno](Juno.md "Juno").
+
+   :   ![EVYulata](images/6/67/EVYulata.png)
+
+   - A partir daqui, você pode participar das gincanas do evento.
+2. O teleporte rápido para [Juno](Juno.md "Juno") pode ser feito por Ostara e Eostre.
+
+   :   ![Ostara](images/d/d0/Ostara.png)
+
+   - O teleporte custa 1 [Trevo da Felicidade](http://www.divine-pride.net/database/item/25295/)
+   - Eles estão espalhados algumas cidades e no [Grupo do Éden](Grupo do Éden.md "Grupo do Éden").
+
+## Missões diárias
+
+- As missões reiniciam 4 horas da manhã.
+- As missões podem ser reiniciadas usando ![6909.png](http://static.divine-pride.net/images/items/item/6909.png) 1 [MiauMiau](http://www.divine-pride.net/database/item/6909/)
+
+| Missão | [NPC](NPC.md "NPC") | Objetivo | Recompensa |
+| --- | --- | --- | --- |
+| DQ ico Coleta Feliz | Lulufante  (yuno 165,153) | - Eliminar 3 [Lunáticos de Trevo](http://www.divine-pride.net/database/monster/3807/) - Coletar 25295.png [Trevos da Felicidade](http://www.divine-pride.net/database/item/25295/) | - 25294.png 2 [Bilhete de Trevo](http://www.divine-pride.net/database/item/25294/) |
+| DQ ico Procura Feliz | Yulata  (yuno 175,162) | - Eliminar 3 [Ovos Decorados](http://www.divine-pride.net/database/monster/3805/) | - 25294.png 2 [Bilhete de Trevo](http://www.divine-pride.net/database/item/25294/) |
+| DQ ico Doce Feliz | Gillian  (yuno 142,163) | 1. Pegue os ingredientes com os seguintes [NPCs](NPC.md "NPC"): [Barra de Chocolate](http://www.divine-pride.net/database/item/25511/) com Yana (prontera 268,156) EVYana  [Grãos de Amêndoas](http://www.divine-pride.net/database/item/25512/) com Sheran (izlude 164,148) EVSheran | - 25294.png 2 [Bilhete de Trevo](http://www.divine-pride.net/database/item/25294/) |
+| DQ ico Passeio Feliz | Sarum  (yuno 150,155) | 1. Escolha uma mascote para levar à passeio. 2. Fale com a mascote ao lado e siga pela trilha. 3. Após 3 dias, você recebe o visual. | - 25294.png 2 [Bilhete de Trevo](http://www.divine-pride.net/database/item/25294/) - 19459.png [Bebê Lunático](http://www.divine-pride.net/database/item/19459/) (3 dias) |
+
+## Recompensas
+
+- Troque os [Bilhetes de Trevo](http://www.divine-pride.net/database/item/25294/) por prêmios aleatórios na Máquina do Festival (yuno 176,152)
+
+  :   ![EVHappyEgg](images/a/a1/EVHappyEgg.png)
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Item | Chance | | --- | --- | | 11608.png 10 [Ovo de Chocolate](http://www.divine-pride.net/database/item/11608/) | 16% | | 11609.png 10 [Ovo Britnei](http://www.divine-pride.net/database/item/11609/) | 16% | | 12019.png 5 [Ovo Sagrado](http://www.divine-pride.net/database/item/12019/) | 6,45% | | 659.png 1 [Coração Apaixonado](http://www.divine-pride.net/database/item/659/) | 3,10% | | 23189.png 1 [Carretel de Urso](http://www.divine-pride.net/database/item/23189/) | 3,10% | | 12361.png 1 [Taça Nevada](http://www.divine-pride.net/database/item/12361/) | 3,10% | | 628.png 1 [Osso Seco](http://www.divine-pride.net/database/item/628/) | 3,10% | | 630.png 1 [Musgo Encharcado](http://www.divine-pride.net/database/item/630/) | 3,10% | | 631.png 1 [Erva Letal](http://www.divine-pride.net/database/item/631/) | 3,10% | | 634.png 1 [Banana Tropical](http://www.divine-pride.net/database/item/634/) | 3,10% | | 636.png 1 [Sem Destinatário](http://www.divine-pride.net/database/item/636/) | 3,10% | | 637.png 1 [Vassoura Velha](http://www.divine-pride.net/database/item/637/) | 3,10% | | 620.png 1 [Suco de Laranja](http://www.divine-pride.net/database/item/620/) | 3,10% | | 641.png 1 [Contrato das Sombras](http://www.divine-pride.net/database/item/641/) | 3,10% | | | Item | Chance | | --- | --- | | 12395.png 1 [Macarrão Tantan](http://www.divine-pride.net/database/item/12395/) | 3,10% | | 661.png 1 [Avental Elegante](http://www.divine-pride.net/database/item/661/) | 3,10% | | 12368.png 1 [Espelho de Mão](http://www.divine-pride.net/database/item/12368/) | 3,10% | | 12374.png 1 [Chama Azulada](http://www.divine-pride.net/database/item/12374/) | 3,10% | | 623.png 1 [Minhoca Boa-Pinta](http://www.divine-pride.net/database/item/623/) | 3,10% | | 627.png 1 [Leite Doce](http://www.divine-pride.net/database/item/627/) | 3,10% | | 632.png 1 [Minhoca Gorducha](http://www.divine-pride.net/database/item/632/) | 3,10% | | 633.png 1 [Batata Assada](http://www.divine-pride.net/database/item/633/) | 3,10% | | 31466.png 1 [(Visual) Ovo das Asas de Anjo](http://www.divine-pride.net/database/item/31466/) | 0,5% | | 31467.png 1 [(Visual) Ovo das Asas de Demônio](http://www.divine-pride.net/database/item/31467/) | 0,50% | | 31465.png 1 [(Visual) Cartola de Ovos](http://www.divine-pride.net/database/item/31465/) | 0,50% | | 12373.png 1 [Coração Puro](http://www.divine-pride.net/database/item/12373/) | 0,40% | | 12366.png 1 [Bonequinha Oriental](http://www.divine-pride.net/database/item/12366/) | 0,40% | | 12370.png 1 [Carta de Amor](http://www.divine-pride.net/database/item/12370/) | 0,10% | |
+
+| *Calendário de [Eventos](Quests.md "Quests") Temporários* | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| Janeiro | Fevereiro | Março | Abril | Maio | Junho |
+| [Anomalia Dimensional](Anomalia Dimensional.md "Anomalia Dimensional") | [Caçada Real](Caçada Real.md "Caçada Real") | [Carnaval](Carnaval.md "Carnaval") | Festival das Mascotes | [Feira do Melão](Feira do Melão.md "Feira do Melão") | [Chocomania](Chocomania.md "Chocomania") |
+| Julho | Agosto | Setembro | Outubro | Novembro | Dezembro |
+| [Festa da Pipoca](Festa da Pipoca.md "Festa da Pipoca") | [Festival do Macarrão](Festival do Macarrão.md "Festival do Macarrão") | [Festival das Cerejeiras](Festival das Cerejeiras.md "Festival das Cerejeiras") | [Halloween](Halloween.md "Halloween") | [Festival da Colheita](Festival da Colheita.md "Festival da Colheita") | [Festival da Neve](Festival da Neve.md "Festival da Neve") |

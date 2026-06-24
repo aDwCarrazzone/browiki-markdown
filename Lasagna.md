@@ -1,0 +1,143 @@
+---
+title: "Lasagna"
+source: https://browiki.org/wiki/Lasagna
+namespace: 0
+revision: 42627
+retrieved: 2026-06-23T21:03:27Z
+categories:
+  - "Lugares em Ragnarök"
+---
+
+# Lasagna
+
+[![Lasagna](images/a/ae/Lasagna.jpg)](https://browiki.org/wiki/Arquivo%3ALasagna.jpg)
+
+Lasagna, a vila dos Doram.
+
+Lasagna é a primeira cidade que os jogadores tem contato após concluir o tutorial [Buongiorno](Buongiorno.md "Buongiorno"), capital de uma raça de gatinhos chamados Doram.
+
+Nesse lugar, os Doram vivem em harmonia com a natureza, tornando-se [Invocadores](Invocadores.md "Invocadores").
+
+Aventureiros que desejarem descansar um pouco, poderão beber na Taverna Forninho, ideal para experimentar uma das iguarias do local: o Leite de Kaluna!
+
+A cidade possui uma unidade de Doram desbravadores, conhecidos como Farfelle.
+
+Os Farfelle cuidam do navio Conchiolina e das relações diplomáticas entre os Doram e os Basíliscos, uma tribo de cobras que vive no Ninho do Dragão.
+
+Dentre as histórias de Doram, a que mais se destaca é a que conta sobre um dragão que habita uma caverna escondida em algum lugar da floresta Ravioli.
+
+Agora que uma rota segura até [Rune-Midgard](Rune-Midgard.md "Rune-Midgard") foi descoberta, os Doram de espírito aventureiro poderão partir nessa nova jornada.
+
+- Para chegar em Lasagna, pague 200 [zenys](Zenys.md "Zenys") para o Marinheiro (izlude 198,183)
+
+## Mapa
+
+|  |  |  |
+| --- | --- | --- |
+| Lasagna map novo | | |
+| Map lupa | Guia |
+| Map armazem | [Armazém](Serviços.md "Serviços") | (lasagna 208,188) |
+| Map warehouse | [Armazém do Clã](Armazém do Clã.md "Armazém do Clã") | (lasagna 203,188) |
+| Map pocao | Loja de Ferramentas | (lasagna 165,125) |
+| Map azul | Troca de Emblemas | (lasagna 131,245) |
+| Map rosa | Curandeiro | (lasagna 224,126) |
+| Map lantern | [Casamento](Casamento.md "Casamento") | (lasagna 331,277) |
+| Map barbea | [Estilista](Estilista.md "Estilista") | (lasagna 134,113) |
+
+|  |  |  |
+| --- | --- | --- |
+| NPCs | | |
+| - Porto   - [Izlude](Izlude.md "Izlude"): 2.000z   - [Malangdo](Malangdo.md "Malangdo"): 2.000z   - [Jawaii](Jawaii.md "Jawaii"): 100.000z | | |
+| Domador de Feras | Aluga montarias para evoluções de Espadachins | (lasagna 170,182) |
+| Engenheiro Mecatrônico | Aluga M.E.C.H.A. para Mecânicos | (lasagna 173,182) |
+| Hipnotizador | Redistribui pontos de [atributos](Atributos.md "Atributos") e [habilidades](Habilidades.md "Habilidades"). Apenas para [Invocadores](Invocadores.md "Invocadores") até o nível base 49. | (lasagna 222,123) |
+| Mercador | Vende [itens](Itens.md "Itens"):  - [Peixe Fresco](http://www.divine-pride.net/database/item/579/) - [Leite](http://www.divine-pride.net/database/item/519/) - [Anchova Deliciosa](http://www.divine-pride.net/database/item/11601/) - [Folha de Yggdrasil](http://www.divine-pride.net/database/item/610/) - [Gema Azul](http://www.divine-pride.net/database/item/717/) | (lasagna 175,209) |
+| Mercador Doram | Vende [itens](Itens.md "Itens") de [Invocadores](Invocadores.md "Invocadores") | (lasagna 166,117) |
+| Jawaiive-se | Envia personagens [casados](Casamento.md "Casamento") para [Jawaii](Jawaii.md "Jawaii") por 100.000z | (lasagna 302,323) |
+| Adestrador | Vende itens de [Mascotes](Mascotes.md "Mascotes") | (lasagna 179,176) |
+| Carnello | [Emancipação](Família.md#Emancipação "Família") | (lasagna 100,200) |
+
+[![Ninhododragao](images/7/79/Ninhododragao.jpg)](https://browiki.org/wiki/Arquivo%3ANinhododragao.jpg)
+
+O Ninho do Dragão
+
+## Quests & Calabouços
+
+- [Casamento](Casamento.md "Casamento")
+- [Buongiorno](Buongiorno.md "Buongiorno")
+- [Aventuras em Lasagna](Aventuras em Lasagna.md "Aventuras em Lasagna")
+- [Clube dos Farfelle](Clube dos Farfelle.md "Clube dos Farfelle")
+  - [História Perdida](História Perdida.md "História Perdida")
+  - [Mundo de Sabores](Mundo de Sabores.md "Mundo de Sabores")
+  - [Maldição do Barqueiro](Maldição do Barqueiro.md "Maldição do Barqueiro")
+- [Aventura Esquisita](Aventura Esquisita.md "Aventura Esquisita")
+- [Ensinando a Trabalhar](Ensinando a Trabalhar.md "Ensinando a Trabalhar")
+- Ninho do Dragão
+  - [Nv. 18 ~ 20] [Ninho do Dragão - 1º andar](http://www.divine-pride.net/database/map/lasa_dun01/)
+  - [Nv. 140 ~ 144] [Ninho do Dragão - 2º andar](http://www.divine-pride.net/database/map/lasa_dun02/)
+  - [Nv. 148 ~ 150] [Ninho do Dragão - 3º andar](http://www.divine-pride.net/database/map/lasa_dun03/)
+
+## Emblema Doram
+
+A **Família Chara** é especializada em coletar [equipamentos](Equipamentos.md "Equipamentos"), criar [acessórios](Acessórios.md "Acessórios") e aprimorar Amuletos exclusivos para os [Invocadores](Invocadores.md "Invocadores").
+
+![Oschara](images/4/44/Oschara.png)
+
+### Troca
+
+- Responsáveis por coletar [equipamentos](Equipamentos.md "Equipamentos")/[armas](Armas.md "Armas") e lhe entregar [Emblemas Doram](http://www.divine-pride.net/database/item/25142/) em troca:
+  - Narancia (lasagna 140,250)
+  - Mista (lasagna 131,250)
+- Lembre-se que você perderá as [cartas](Cartas.md "Cartas") e o [refinamento](Refinamento.md "Refinamento") dos itens.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Rendem 2 Emblemas | | --- | | 15126.png [Veste Básica de Doram](http://www.divine-pride.net/database/item/15126/) | | 20788.png [Manto Básico de Doram](http://www.divine-pride.net/database/item/20788/) | | 22083.png [Sapato Básico de Doram](http://www.divine-pride.net/database/item/22083/) | | 28380.png [Colar da Semente](http://www.divine-pride.net/database/item/28380/) | | 28381.png [Colar da Raiz](http://www.divine-pride.net/database/item/28381/) | | 28382.png [Colar da Árvore](http://www.divine-pride.net/database/item/28382/) | | 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | | 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | | 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | | 28422.png [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | | 28423.png [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) | | 28424.png [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) | | 1691.png [Cauda de Gato Arcana Avançada](http://www.divine-pride.net/database/item/1691/) | | 1695.png [Cauda de Gato Bruta Intermediária](http://www.divine-pride.net/database/item/1695/) | | | Rendem 3 Emblemas | | --- | | 15129.png [Veste Elegante de Doram](http://www.divine-pride.net/database/item/15129/) | | 20789.png [Manto Elegante de Doram](http://www.divine-pride.net/database/item/20789/) | | 22084.png [Sapato Elegante de Doram](http://www.divine-pride.net/database/item/22084/) | | 28414.png [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | | 28417.png [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | | 28420.png [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | | 1692.png [Cauda de Gato Arcana Mestra](http://www.divine-pride.net/database/item/1692/) | | 1696.png [Cauda de Gato Bruta Avançada](http://www.divine-pride.net/database/item/1696/) | | | Rendem 4 Emblemas | | --- | | 15156.png [Veste Luxuosa de Doram](http://www.divine-pride.net/database/item/15156/) | | 20790.png [Manto Luxuoso de Doram](http://www.divine-pride.net/database/item/20790/) | | 22085.png [Sapato Luxuoso de Doram](http://www.divine-pride.net/database/item/22085/) | | 28415.png [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | | 28418.png [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | | 28421.png [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | | 1693.png [Cauda de Gato Arcana Dourada](http://www.divine-pride.net/database/item/1693/) | | 1697.png [Cauda de Gato Bruta Dourada](http://www.divine-pride.net/database/item/1697/) | |
+
+### Compra
+
+- Os [Emblemas Doram](http://www.divine-pride.net/database/item/25142/) são usados para comprar Amuletos relacionados às 3 vertentes dos [Invocadores](Invocadores.md "Invocadores"): Fauna, Selva e Maré.
+- A troca pode ser realizada por **Abacchio** (lasagna 130,244)
+
+| Equipamento | Preço |
+| --- | --- |
+| 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | 10 Emblemas |
+| 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) |
+| 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) |
+| 28422.png [Amuleto Galho Cintilante](http://www.divine-pride.net/database/item/28422/) | 30 Emblemas |
+| 28423.png [Amuleto Atum Fresco](http://www.divine-pride.net/database/item/28423/) |
+| 28424.png [Amuleto Minhocão](http://www.divine-pride.net/database/item/28424/) |
+
+### Aprimoramento
+
+- Os [Emblemas Doram](http://www.divine-pride.net/database/item/25142/) também podem ser usados para aprimorar os Amuletos.
+- Você compra o Amuleto I de Abacchio e pode aprimorá-lo com **Trish** (lasagna 141,244)
+- O primeiro processo de aprimoramento custa 30 emblemas e o Amuleto I passa a ser nível II.
+- O segundo processo custa 90 emblemas e o Amuleto II passa a ser nível III.
+- Não existem chances de falha.
+
+| Nível | Acessório | Preço |
+| --- | --- | --- |
+| I | 28413.png [Amuleto Sardinha I](http://www.divine-pride.net/database/item/28413/) | - |
+| II | 28414.png [Amuleto Sardinha II](http://www.divine-pride.net/database/item/28414/) | 30 Emblemas |
+| III | 28415.png [Amuleto Sardinha III](http://www.divine-pride.net/database/item/28415/) | 90 Emblemas |
+| Nível | Acessório | Preço |
+| I | 28416.png [Amuleto Folha I](http://www.divine-pride.net/database/item/28416/) | - |
+| II | 28417.png [Amuleto Folha II](http://www.divine-pride.net/database/item/28417/) | 30 Emblemas |
+| III | 28418.png [Amuleto Folha III](http://www.divine-pride.net/database/item/28418/) | 90 Emblemas |
+| Nível | Acessório | Preço |
+| I | 28419.png [Amuleto Lebre I](http://www.divine-pride.net/database/item/28419/) | - |
+| II | 28420.png [Amuleto Lebre II](http://www.divine-pride.net/database/item/28420/) | 30 Emblemas |
+| III | 28421.png [Amuleto Lebre III](http://www.divine-pride.net/database/item/28421/) | 90 Emblemas |
+
+| *[Mapas](Mapas.md "Mapas") em [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")* | | |
+| --- | --- | --- |
+| [Midgard](Midgard.md "Midgard") |
+| Rune-Midgard | **[Prontera](Prontera.md "Prontera")** · [Alberta](Alberta.md "Alberta") · [Al De Baran](Al De Baran.md "Al De Baran") · [Comodo](Comodo.md "Comodo") · [Geffen](Geffen.md "Geffen") · [Izlude](Izlude.md "Izlude") · [Jawaii](Jawaii.md "Jawaii") · [Morroc](Morroc.md "Morroc") · [Payon](Payon.md "Payon") · [Umbala](Umbala.md "Umbala") [Abadia de Santa Capitolina](Abadia de Santa Capitolina.md "Abadia de Santa Capitolina") · *[Glastheim](Glastheim.md "Glastheim")* · [Pharos](Pharos.md "Pharos") · **[Malangdo](Malangdo.md "Malangdo")** |
+| Schwartzwald | **[Juno](Juno.md "Juno")** · [Einbech](Einbech.md "Einbech") (*[Clana Nemieri](Clana Nemieri.md "Clana Nemieri")*) · [Einbroch](Einbroch.md "Einbroch") · [Hugel](Hugel.md "Hugel") · [Lighthalzen](Lighthalzen.md "Lighthalzen") · *[Mansão de Varmunt](Mansão de Varmunt.md "Mansão de Varmunt")* · [Verus](Verus.md "Verus") *[Lago do Abismo](Lago do Abismo.md "Lago do Abismo")* · *[Torre de Thanatos](Torre de Thanatos.md "Torre de Thanatos")* |
+| Arunafeltz | [Aldeia do Lobo Cinzento](Aldeia do Lobo Cinzento.md "Aldeia do Lobo Cinzento") · **[Rachel](Rachel.md "Rachel")** · [Veins](Veins.md "Veins") *[Ilha Esquecida](Ilha Esquecida.md "Ilha Esquecida")* |
+| Norte | [Lutie](Lutie.md "Lutie") |
+| [Ash Vacuum](Ash Vacuum.md "Ash Vacuum") | |
+| **[El Dicastes](El Dicastes.md "El Dicastes")** · [Manuka](Manuka.md "Manuka") · **[Eclage](Eclage.md "Eclage")** · [Esplendor](Esplendor.md "Esplendor") · [Mora](Mora.md "Mora") |
+| Ilha-Nação | | [Amatsu](Amatsu.md "Amatsu") · [Ayothaya](Ayothaya.md "Ayothaya") · [Brasilis](Brasilis.md "Brasilis") · [Dewata](Dewata.md "Dewata") · [Kunlun](Kunlun.md "Kunlun") · [Louyang](Louyang.md "Louyang") · [Moscóvia](Moscóvia.md "Moscóvia") · [Porto Malaya](Porto Malaya.md "Porto Malaya") · [Rockridge](Rockridge.md "Rockridge") |
+| Outros | | [Cavernas Ilusionais](Cavernas Ilusionais.md "Cavernas Ilusionais") · [Espaço Dimensional](Espaço Dimensional.md "Espaço Dimensional") · Lasagna · *[Niflheim](Niflheim.md "Niflheim")* |

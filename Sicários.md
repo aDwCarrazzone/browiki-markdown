@@ -1,0 +1,127 @@
+---
+title: "Sicários"
+source: https://browiki.org/wiki/Sic%C3%A1rios
+namespace: 0
+revision: 44368
+retrieved: 2026-06-23T21:03:27Z
+categories:
+  - "Páginas que usam a etiqueta Tabber do analisador sintático"
+  - "Classes"
+  - "A Luz das Trevas"
+---
+
+# Sicários
+
+|  |  |
+| --- | --- |
+| Sicáriospartyicn Sicários | |
+| [Original](#tabber-Original)[Alternativa](#tabber-Alternativa) Arte Sicários  Arte2 Sicários | |
+| Sprite | |
+| [Original](#tabber-Original_2)[Alternativa](#tabber-Alternativa_2)[Montaria](#tabber-Montaria) Sicáriossprite  Sicáriossprite alt  Sicáriossprite mount | |
+|  | |
+| Classe | 3-1 |
+| Anterior | [Algozes](Algozes.md "Algozes") |
+| Guia | [Mudança de classe](Mudança de Classe- Sicários.md "Mudança de Classe: Sicários") |
+| Estilos | [Ver Paleta de cores](Estilista.md#Gatunos_e_evolu.C3.A7.C3.B5es "Estilista") |
+| Armas | Adagas Espadas Machados Katares |
+| Bônus no nível 70 de Classe | |
+| |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | | **[FOR](FOR.md "FOR")** | **[AGI](AGI.md "AGI")** | **[VIT](VIT.md "VIT")** | **[INT](INT.md "INT")** | **[DES](DES.md "DES")** | **[SOR](SOR.md "SOR")** | | +8 | +11 | +6 | +5 | +9 | +4 | | |
+
+O Sicário é alguém que, fazendo jus à sua linhagem, tem habilidades aprimoradas de esquiva e de movimentos em alta velocidade, e se destaca com ataques chamativos.
+
+A principal característica do Sicário é a diversificação de habilidades que utilizam veneno e que causam efeitos negativos.
+
+Melhorando suas técnicas milenares de luta corpo a corpo, os Sicários continuam vivendo e andando nas sombras, sempre sorrateiros e dispostos a salvar a própria pele.
+
+Se antes eram capazes de dominar as técnicas de uso do veneno, agora são peritos em toxinas e profundos conhecedores de ervas venenosas.
+
+Torne-se um mestre dos venenos, incapacitando seus inimigos com novas e mortíferas misturas.
+
+Abuse de suas habilidades superiores de furtividade para se esquivar, bloquear ataques e se esconder de seus oponentes.
+
+Domine ataques especiais capazes de atingir todos ao seu redor ou inimigos mais distantes.
+
+## Habilidades
+
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | |  |  | | --- | --- | | [Pesquisa de Toxinas](Pesquisa de Toxinas.md "Pesquisa de Toxinas") | [Pesquisa de Toxinas](Pesquisa de Toxinas.md "Pesquisa de Toxinas") | |  | |  |  | | --- | --- | | [Lâminas de Loki](Lâminas de Loki.md "Lâminas de Loki") | [Lâminas de Loki](Lâminas de Loki.md "Lâminas de Loki") | |
+|  | |  |  | | --- | --- | | [Criar Toxina](Criar Toxina.md "Criar Toxina") | [Criar Toxina](Criar Toxina.md "Criar Toxina") | |  | |  |  | | --- | --- | | [Castigo de Loki](Castigo de Loki.md "Castigo de Loki") | [Castigo de Loki](Castigo de Loki.md "Castigo de Loki") | |
+|  | |  |  | | --- | --- | | [Antídoto](Antídoto.md "Antídoto") | [Antídoto](Antídoto.md "Antídoto") | |  | |  |  | | --- | --- | | [Reflexo de Combate](Reflexo de Combate.md "Reflexo de Combate") | [Reflexo de Combate](Reflexo de Combate.md "Reflexo de Combate") | |
+|  | |  |  | | --- | --- | | [Aplicar Toxina](Aplicar Toxina.md "Aplicar Toxina") | [Aplicar Toxina](Aplicar Toxina.md "Aplicar Toxina") | |  | |  |  | | --- | --- | | [Estilhaçar Arma](Estilhaçar Arma.md "Estilhaçar Arma") | [Estilhaçar Arma](Estilhaçar Arma.md "Estilhaçar Arma") | |
+|  | |  |  | | --- | --- | | [Intoxicar](Intoxicar.md "Intoxicar") | [Intoxicar](Intoxicar.md "Intoxicar") | |  | |  |  | | --- | --- | | [Retaliação](Retaliação.md "Retaliação") | [Retaliação](Retaliação.md "Retaliação") | |
+|  | |  |  | | --- | --- | | [Potencializar Veneno](Potencializar Veneno.md "Potencializar Veneno") | [Potencializar Veneno](Potencializar Veneno.md "Potencializar Veneno") | |  | |  |  | | --- | --- | | [Passo Sombrio](Passo Sombrio.md "Passo Sombrio") | [Passo Sombrio](Passo Sombrio.md "Passo Sombrio") | |
+|  | |  |  | | --- | --- | | [Nevoeiro Tóxico](Nevoeiro Tóxico.md "Nevoeiro Tóxico") | [Nevoeiro Tóxico](Nevoeiro Tóxico.md "Nevoeiro Tóxico") | |  | |  |  | | --- | --- | | [Ameaça Fantasma](Ameaça Fantasma.md "Ameaça Fantasma") | [Ameaça Fantasma](Ameaça Fantasma.md "Ameaça Fantasma") | |
+|  | |  |  | | --- | --- | | [Ocultação](Ocultação.md "Ocultação") | [Ocultação](Ocultação.md "Ocultação") | |  | |  |  | | --- | --- | | [Lâminas Retalhadoras](Lâminas Retalhadoras.md "Lâminas Retalhadoras") | [Lâminas Retalhadoras](Lâminas Retalhadoras.md "Lâminas Retalhadoras") | |
+|  | |  |  | | --- | --- | | [Passos da Ilusão](Passos da Ilusão.md "Passos da Ilusão") | [Passos da Ilusão](Passos da Ilusão.md "Passos da Ilusão") | |  | |  |  | | --- | --- | | [Garra Sombria](Garra Sombria.md "Garra Sombria") | [Garra Sombria](Garra Sombria.md "Garra Sombria") | |
+|  | |  |  | | --- | --- | | [Maximizar Poder](Maximizar Poder.md "Maximizar Poder") | [Maximizar Poder](Maximizar Poder.md "Maximizar Poder") | |
+
+### Árvore de habilidades
+
+- Clique na **imagem** da habilidade para ler a descrição detalhada.
+
+![SkilltreeSicários new](images/8/8f/SkilltreeSicários_new.png)
+
+## Construção do Personagem
+
+Sicários podem variar de [atributos](Atributos.md "Atributos") e [habilidades](Habilidades.md "Habilidades") de acordo com a *build* (construção do personagem).
+
+Para mais informações de construção de personagens, veja a página de [Guias de Classe](Guias de Classe.md "Guias de Classe").
+
+**Rota Básica de Equipamentos:**
+
+- [Nv. 1 ~ 100] [Equipamentos do Éden](Equipamentos do Éden.md "Equipamentos do Éden")
+- [Nv. 100 ~ 120] [Equipamento Inicial](Equipamento Inicial.md "Equipamento Inicial")
+- [Nv. 100 ~ 130] [Equipamento Excelion](Equipamento Excelion.md "Equipamento Excelion") / [Relíquias de Mora](Relíquias de Mora.md "Relíquias de Mora")
+- [Nv. 100 ~ 150] [Equipamentos de Honra](Equipamentos de Honra.md "Equipamentos de Honra") / [Botas Temporais](Glastheim.md#Itens_Temporais "Glastheim")
+- [Nv. 130 ~ 160] [Equipamentos Ilusión](Equipamentos Ilusión.md "Equipamentos Ilusión")
+- [Nv. 160 ~ 200] [Equipamentos Automatron](Equipamentos Automatron.md "Equipamentos Automatron")
+
+### Encantos e Sombrios
+
+Estes são os [Encantamentos de Visual](Encantamentos de Visual.md "Encantamentos de Visual") e os [Equipamentos Sombrios](Equipamentos Sombrios.md "Equipamentos Sombrios") relacionados à Sicários.
+
+| Encantamentos de Visuais | | | | |
+| --- | --- | --- | --- | --- |
+| 29521.png [Mercenário (Topo)](http://www.divine-pride.net/database/item/29521/) | 29522.png [Mercenário (Meio)](http://www.divine-pride.net/database/item/29522/) | 29523.png [Mercenário (Baixo)](http://www.divine-pride.net/database/item/29523/) | 29524.png [Sicário (Capa)](http://www.divine-pride.net/database/item/29524/) |
+| 310191.png [Algoz II (Topo)](http://www.divine-pride.net/database/item/310191/) | 310190.png [Algoz II (Meio)](http://www.divine-pride.net/database/item/310190/) | 310189.png [Algoz II (Baixo)](http://www.divine-pride.net/database/item/310189/) | 310188.png [Sicário II (Capa)](http://www.divine-pride.net/database/item/310188/) |
+| Sombrios | | | | |
+| Classe | Habilidade 1 | Habilidade 2 | Habilidade 3 | Habilidade 4 |
+| 24253.png [Colar Sombrio de Gatuno](http://www.divine-pride.net/database/item/24253/) | - | 24540.png [Colar Sombrio do Katar](http://www.divine-pride.net/database/item/24540/) | 24546.png [Colar Sombrio do Castigo](http://www.divine-pride.net/database/item/24546/) | - |
+| 28391.png [Brinco Sombrio de Gatuno](http://www.divine-pride.net/database/item/28391/) | - | 24541.png [Brinco Sombrio do Katar](http://www.divine-pride.net/database/item/24541/) | 24547.png [Brinco Sombrio do Castigo](http://www.divine-pride.net/database/item/24547/) | - |
+| 24262.png [Greva Sombria de Mercenário](http://www.divine-pride.net/database/item/24262/) | 24538.png [Greva Sombria de Loki](http://www.divine-pride.net/database/item/24538/) | - | - | 24544.png [Greva Sombria da Retaliação](http://www.divine-pride.net/database/item/24544/) |
+| 24275.png [Malha Sombria de Mercenário](http://www.divine-pride.net/database/item/24275/) | 24536.png [Malha Sombria de Loki](http://www.divine-pride.net/database/item/24536/) | - | - | 24542.png [Malha Sombria da Retaliação](http://www.divine-pride.net/database/item/24542/) |
+| 24294.png [Manopla Sombria de Sicário](http://www.divine-pride.net/database/item/24294/) | - | 24539.png [Manopla Sombria do Katar](http://www.divine-pride.net/database/item/24539/) | 24545.png [Manopla Sombria do Castigo](http://www.divine-pride.net/database/item/24545/) | - |
+| 24307.png [Escudo Sombrio de Sicário](http://www.divine-pride.net/database/item/24307/) | 24537.png [Escudo Sombrio de Loki](http://www.divine-pride.net/database/item/24537/) | - | - | 24543.png [Escudo Sombrio da Retaliação](http://www.divine-pride.net/database/item/24543/) |
+
+### Velocidade de ataque
+
+Abaixo está uma tabela das penalidades de [velocidade de ataque](Velocidade de ataque.md "Velocidade de ataque") da classe.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | [Equipamento](Equipamento.md "Equipamento") | [Vel. de Atq.](Velocidade de ataque.md "Velocidade de ataque") | | --- | --- | | Sem arma | **156** | | 2103.png [Escudo](http://www.divine-pride.net/database/item/2103/) | -9 | | 13035.png [Adaga](http://www.divine-pride.net/database/item/13035/) | -2 | | 13034.png [Adaga Esquerda](http://www.divine-pride.net/database/item/13034/) | -10 | | 1101.png [Espada](http://www.divine-pride.net/database/item/1101/) | -25 [[1]](#cite_note-1) | | 1303.png [Machado](http://www.divine-pride.net/database/item/1303/) | -40 [[2]](#cite_note-2) | | 1261.png [Katar](http://www.divine-pride.net/database/item/1261/) | -2 | | | Poções | Uso | | --- | --- | | |  |  | | --- | --- | | 645.png | [Concentração](http://www.divine-pride.net/database/item/645/) | | Sim | | |  |  | | --- | --- | | 656.png | [Despertar](http://www.divine-pride.net/database/item/656/) | | Sim | | |  |  | | --- | --- | | 657.png | [Fúria Selvagem](http://www.divine-pride.net/database/item/657/) | | Não | |
+
+1. [↑](#cite_ref-1) Espada na esquerda dá -16
+2. [↑](#cite_ref-2) Machado na esquerda dá -20
+
+| *A Luz das Trevas* | |
+| --- | --- |
+| |  |  | | --- | --- | | [Gatunospartyicn](Gatunos.md "Gatunos") | [Gatunos](Gatunos.md "Gatunos") | | [Arremessar Pedra](Arremessar Pedra.md "Arremessar Pedra") · [Ataque Duplo](Ataque Duplo.md "Ataque Duplo") · [Chutar Areia](Chutar Areia.md "Chutar Areia") · [Desintoxicar](Desintoxicar.md "Desintoxicar") · [Envenenar](Envenenar.md "Envenenar") · [Esconderijo](Esconderijo.md "Esconderijo") · [Furto](Furto.md "Furto") · [Perícia em Esquiva](Perícia em Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](Procurar Pedras.md "Procurar Pedras") · [Recuar](Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [Mercenáriospartyicn](Mercenários.md "Mercenários") | [Mercenários](Mercenários.md "Mercenários") | | [Envenenar Arma](Envenenar Arma.md "Envenenar Arma") · [Explosão Tóxica](Explosão Tóxica.md "Explosão Tóxica") · *[Faca Envenenada](Faca Envenenada.md "Faca Envenenada")* · [Furtividade](Furtividade.md "Furtividade") · *[Lâminas Aceleradas](Lâminas Aceleradas.md "Lâminas Aceleradas")* · [Lâminas Destruidoras](Lâminas Destruidoras.md "Lâminas Destruidoras") · [Névoa Tóxica](Névoa Tóxica.md "Névoa Tóxica") · [Perícia com Katar](Perícia com Katar.md "Perícia com Katar") · [Perícia com Mão Direita](Perícia com Mão Direita.md "Perícia com Mão Direita") · [Perícia com Mão Esquerda](Perícia com Mão Esquerda.md "Perícia com Mão Esquerda") · [Refletir Veneno](Refletir Veneno.md "Refletir Veneno") · [Tocaia](Tocaia.md "Tocaia") |
+| |  |  | | --- | --- | | [Algozespartyicn](Algozes.md "Algozes") | [Algozes](Algozes.md "Algozes") | | [Criar Veneno Mortal](Criar Veneno Mortal.md "Criar Veneno Mortal") · [Destruidor de Almas](Destruidor de Almas.md "Destruidor de Almas") · [Encantar com Veneno Mortal](Encantar com Veneno Mortal.md "Encantar com Veneno Mortal") · [Impacto Meteoro](Impacto Meteoro.md "Impacto Meteoro") · [Perícia com Katar Avançada](Perícia com Katar Avançada.md "Perícia com Katar Avançada") |
+| |  |  | | --- | --- | | [Sicáriospartyicn](Sicários.md "Sicários") | Sicários | | [Ameaça Fantasma](Ameaça Fantasma.md "Ameaça Fantasma") · [Antídoto](Antídoto.md "Antídoto") · [Aplicar Toxina](Aplicar Toxina.md "Aplicar Toxina") · [Castigo de Loki](Castigo de Loki.md "Castigo de Loki") · [Criar Toxina](Criar Toxina.md "Criar Toxina") · [Estilhaçar Arma](Estilhaçar Arma.md "Estilhaçar Arma") · [Garra Sombria](Garra Sombria.md "Garra Sombria") · [Intoxicar](Intoxicar.md "Intoxicar") · [Lâminas de Loki](Lâminas de Loki.md "Lâminas de Loki") · [Lâminas Retalhadoras](Lâminas Retalhadoras.md "Lâminas Retalhadoras") · *[Maximizar Poder](Maximizar Poder.md "Maximizar Poder")* · [Nevoeiro Tóxico](Nevoeiro Tóxico.md "Nevoeiro Tóxico") · [Ocultação](Ocultação.md "Ocultação") · [Passo Sombrio](Passo Sombrio.md "Passo Sombrio") · [Passos da Ilusão](Passos da Ilusão.md "Passos da Ilusão") · [Pesquisa de Toxinas](Pesquisa de Toxinas.md "Pesquisa de Toxinas") · [Potencializar Veneno](Potencializar Veneno.md "Potencializar Veneno") · [Reflexo de Combate](Reflexo de Combate.md "Reflexo de Combate") · [Retaliação](Retaliação.md "Retaliação") |
+| |  |  | | --- | --- | | [Executorespartyicn](Executores.md "Executores") | [Executores](Executores.md "Executores") | | [Adagas Voadoras](Adagas Voadoras.md "Adagas Voadoras") · [Adulterar Veneno](Adulterar Veneno.md "Adulterar Veneno") · [Carrasco Sombrio](Carrasco Sombrio.md "Carrasco Sombrio") · [Facada](Facada.md "Facada") · [Impacto Brutal](Impacto Brutal.md "Impacto Brutal") · [Impacto Cratera](Impacto Cratera.md "Impacto Cratera") · [Profanar Arma](Profanar Arma.md "Profanar Arma") · [Revoada Sombria](Revoada Sombria.md "Revoada Sombria") · [Senso das Sombras](Senso das Sombras.md "Senso das Sombras") · [Talho Eterno](Talho Eterno.md "Talho Eterno") |
+| [Quests](Quests.md "Quests") | [Mudança de Classe: Mercenários](Mudança de Classe- Mercenários.md "Mudança de Classe: Mercenários") · [Mudança de Classe: Sicários](Mudança de Classe- Sicários.md "Mudança de Classe: Sicários") · [Mudança de Classe: Executores](Mudança de Classe- Executores.md "Mudança de Classe: Executores") [Novas habilidades](Novas habilidades- Gatunos e evoluções.md "Novas habilidades: Gatunos e evoluções") |
+
+| *[Classes](Classes.md "Classes") de [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")* | | | |
+| --- | --- | --- | --- |
+| Aprendiz | [Aprendizes](Aprendizes.md "Aprendizes") · [Superaprendizes](Superaprendizes.md "Superaprendizes") · Hyper Novice | | |
+| Classe 1 | [Espadachins](Espadachins.md "Espadachins") · [Gatunos](Gatunos.md "Gatunos") · [Magos](Magos.md "Magos") · [Mercadores](Mercadores.md "Mercadores") · [Noviços](Noviços.md "Noviços") · [Arqueiros](Arqueiros.md "Arqueiros") | | |
+| Classe 2 | [Cavaleiros](Cavaleiros.md "Cavaleiros") · [Mercenários](Mercenários.md "Mercenários") · [Bruxos](Bruxos.md "Bruxos") · [Ferreiros](Ferreiros.md "Ferreiros") · [Sacerdotes](Sacerdotes.md "Sacerdotes") · [Caçadores](Caçadores.md "Caçadores") [Templários](Templários.md "Templários") · [Arruaceiros](Arruaceiros.md "Arruaceiros") · [Sábios](Sábios.md "Sábios") · [Alquimistas](Alquimistas.md "Alquimistas") · [Monges](Monges.md "Monges") · [Bardos](Bardos.md "Bardos") · [Odaliscas](Odaliscas.md "Odaliscas") | | |
+| Classe Transcendental | [Lordes](Lordes.md "Lordes") · [Algozes](Algozes.md "Algozes") · [Arquimagos](Arquimagos.md "Arquimagos") · [Mestres-Ferreiros](Mestres-Ferreiros.md "Mestres-Ferreiros") · [Sumo Sacerdotes](Sumo Sacerdotes.md "Sumo Sacerdotes") · [Atiradores de Elite](Atiradores de Elite.md "Atiradores de Elite") [Paladinos](Paladinos.md "Paladinos") · [Desordeiros](Desordeiros.md "Desordeiros") · [Professores](Professores.md "Professores") · [Criadores](Criadores.md "Criadores") · [Mestres](Mestres.md "Mestres") · [Menestréis](Menestréis.md "Menestréis") · [Ciganas](Ciganas.md "Ciganas") | | |
+| Classe 3 | [Cavaleiros Rúnicos](Cavaleiros Rúnicos.md "Cavaleiros Rúnicos") · Sicários · [Arcanos](Arcanos.md "Arcanos") · [Mecânicos](Mecânicos.md "Mecânicos") · [Arcebispos](Arcebispos.md "Arcebispos") · [Sentinelas](Sentinelas.md "Sentinelas") [Guardiões Reais](Guardiões Reais.md "Guardiões Reais") · [Renegados](Renegados.md "Renegados") · [Feiticeiros](Feiticeiros.md "Feiticeiros") · [Bioquímicos](Bioquímicos.md "Bioquímicos") · [Shuras](Shuras.md "Shuras") · [Trovadores](Trovadores.md "Trovadores") · [Musas](Musas.md "Musas") | | |
+| Classe 4 | [Cavaleiros Draconianos](Cavaleiros Draconianos.md "Cavaleiros Draconianos") · [Executores](Executores.md "Executores") · [Magus](Magus.md "Magus") · [Engenheiros](Engenheiros.md "Engenheiros") · [Cardeais](Cardeais.md "Cardeais") · [Falcões do Vento](Falcões do Vento.md "Falcões do Vento") [Guardiões Imperiais](Guardiões Imperiais.md "Guardiões Imperiais") · [Mandraques](Mandraques.md "Mandraques") · [Elementalistas](Elementalistas.md "Elementalistas") · [Cientistas](Cientistas.md "Cientistas") · [Inquisidores](Inquisidores.md "Inquisidores") · [Maestros](Maestros.md "Maestros") · [Divas](Divas.md "Divas") | | |
+| Classes Expandidas | ½ | [Justiceiros](Justiceiros.md "Justiceiros") · [Taekwons](Taekwons.md "Taekwons") ([Mestres Taekwons](Mestres Taekwons.md "Mestres Taekwons") & [Espiritualistas](Espiritualistas.md "Espiritualistas")) · [Ninjas](Ninjas.md "Ninjas") · [Invocadores](Invocadores.md "Invocadores") · Druidas |
+| 3 | [Insurgentes](Insurgentes.md "Insurgentes") · [Mestres Estelares](Mestres Estelares.md "Mestres Estelares") · [Ceifadores de Almas](Ceifadores de Almas.md "Ceifadores de Almas") · [Kagerou](Kagerou.md "Kagerou") · [Oboro](Oboro.md "Oboro") · Karnos |
+| 4 | Night Watch · Sky Emperor · Soul Ascetic · Shinkiro · Shiranui · Spirit Handler · Alitea |

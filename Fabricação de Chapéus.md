@@ -1,0 +1,302 @@
+---
+title: "Fabricação de Chapéus"
+source: https://browiki.org/wiki/Fabrica%C3%A7%C3%A3o_de_Chap%C3%A9us
+namespace: 0
+revision: 43966
+retrieved: 2026-06-23T21:03:27Z
+categories:
+  - "Itens"
+  - "Quest"
+---
+
+# Fabricação de Chapéus
+
+Alguns equipamentos para cabeça podem ser adquiridos ao completar missões dadas por determinados [NPCs](NPC.md "NPC").
+
+Esses [NPCs](NPC.md "NPC") estarão indicados no topo com um ![Map cozinheiro](images/f/f6/Map_cozinheiro.png)
+
+Não constam nesta lista as missões: [Carrascos na Prisão](Carrascos na Prisão.md "Carrascos na Prisão") e [Herói dos Orcs](Herói dos Orcs.md "Herói dos Orcs").
+
+A lista abaixo está separada por cidade.
+
+| Alberta | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Tempestra | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Magicmix | (alberta 136,79) | 5045.png [Cartola](http://www.divine-pride.net/database/item/5045/) [[1]](#cite_note-SC-1) | - 2252.png 1 [Chapéu de Bathory](http://www.divine-pride.net/database/item/2252/) - 943.png 1.200 [Casca Rija](http://www.divine-pride.net/database/item/943/) - 1054.png 450 [lábios Fossilizados](http://www.divine-pride.net/database/item/1054/) - 503.png 1 [Poção Amarela](http://www.divine-pride.net/database/item/503/) |
+| 5027.png [Chapéu de Mestre Arcano](http://www.divine-pride.net/database/item/5027/) [[1]](#cite_note-SC-1) | - 2252.png 1 [Chapéu de Bathory](http://www.divine-pride.net/database/item/2252/) - 4052.png 1 [Carta Salgueiro Ancião](http://www.divine-pride.net/database/item/4052/) - 1036.png 400 [Escama de Dragão](http://www.divine-pride.net/database/item/1036/) - 7001.png 50 [Pó de Bolor](http://www.divine-pride.net/database/item/7001/) - 503.png 1 [Poção Amarela](http://www.divine-pride.net/database/item/503/) |
+| 5032.png [Chapéu de Verão](http://www.divine-pride.net/database/item/5032/) | - 2221.png 1 [Chapéu](http://www.divine-pride.net/database/item/2221/) [1] - 2227.png 1 [Barrete](http://www.divine-pride.net/database/item/2227/) [1] - 1059.png 250 [Tecido](http://www.divine-pride.net/database/item/1059/) - 7063.png 600 [Pena Macia](http://www.divine-pride.net/database/item/7063/) - 503.png 1 [Poção Amarela](http://www.divine-pride.net/database/item/503/) |
+| 5022.png [Coroa do Deus Sol](http://www.divine-pride.net/database/item/5022/) [[1]](#cite_note-SC-1) [[2]](#cite_note-SL-2) | - 7086.png 1 [Símbolo do Deus-Sol](http://www.divine-pride.net/database/item/7086/) - 999.png 40 [Aço](http://www.divine-pride.net/database/item/999/) - 984.png 2 [Oridecon](http://www.divine-pride.net/database/item/984/) - 969.png 10 [Ouro](http://www.divine-pride.net/database/item/969/) - 1003.png 50 [Carvão](http://www.divine-pride.net/database/item/1003/) - 503.png 1 [Poção Amarela](http://www.divine-pride.net/database/item/503/) |
+|  | | | | | |
+| Mercador Estiloso | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Baomix | (alberta 120,53) | 5042.png [Bao-Bao](http://www.divine-pride.net/database/item/5042/) | - 10007.png 1 [Laço de Seda](http://www.divine-pride.net/database/item/10007/) - 968.png 50 [Insígnia do Herói](http://www.divine-pride.net/database/item/968/) |
+| 5041.png [Fivela de Coração](http://www.divine-pride.net/database/item/5041/) | - 7013.png 1.200 [Coral](http://www.divine-pride.net/database/item/7013/) |
+| 5048.png [Fivela de Lua](http://www.divine-pride.net/database/item/5048/) | - 5041.png 1 [Fivela de Coração](http://www.divine-pride.net/database/item/5041/) - 999.png 10 [Aço](http://www.divine-pride.net/database/item/999/) |
+| 5047.png [Óculos Fashion](http://www.divine-pride.net/database/item/5047/) | - 2271.png 1 [Óculos Charmoso](http://www.divine-pride.net/database/item/2271/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) |
+|  | | | | | |
+| Hondal | | | | | |
+| Mapa | Coordenadas | Chapéu | Caça |
+| CaixaAlonie | (alberta 120,206) | 5448.png [Caixa para Brincar Só](http://www.divine-pride.net/database/item/5448/) ou 5449.png [Caixa para Brincar Sozinho](http://www.divine-pride.net/database/item/5449/)  (quest não repetível) | - 20 [Zerom](http://www.divine-pride.net/database/monster/1178/) - 20 [Réquiem](http://www.divine-pride.net/database/monster/1164/) - 30 [Grand Orc](http://www.divine-pride.net/database/monster/1213/) - 40 [Arclouze](http://www.divine-pride.net/database/monster/1194/) - 20 [Chung E](http://www.divine-pride.net/database/monster/1631/) - 50 [Mao Guai](http://www.divine-pride.net/database/monster/1513/) - 40 [Soldado Atirador](http://www.divine-pride.net/database/monster/1403/) - 20 [Papel](http://www.divine-pride.net/database/monster/1375/) |
+|  | | | | | |
+| Cherokee | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Antmix | (alberta\_in 122,53) | 2284.png [Chifre de Alce](http://www.divine-pride.net/database/item/2284/) | - 923.png 20 [Chifre Diabólico](http://www.divine-pride.net/database/item/923/) |
+|  | | | | | |
+| Bebete | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Magicmix | (alberta 151,78) | 5443.png [Estátua de Bebê Anjo](http://www.divine-pride.net/database/item/5443/) | - 916.png 500 [Plumas de Ave](http://www.divine-pride.net/database/item/916/) - 523.png 1 [Água Benta](http://www.divine-pride.net/database/item/523/) - 7292.png 10 [Moscovita](http://www.divine-pride.net/database/item/7292/) - 2282.png 1 [Auréola](http://www.divine-pride.net/database/item/2282/) - 640.png 1 [Pedra Brilhante](http://www.divine-pride.net/database/item/640/) - 2254.png 1 [Asas de Anjo](http://www.divine-pride.net/database/item/2254/) (equipadas) |
+|  | | | | | |
+| Funcionário Kafra | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bbmix | (alberta 26,229) | 2214.png [Orelha de Coelho](http://www.divine-pride.net/database/item/2214/) [[1]](#cite_note-SC-1) | - 949.png 100 [Pluma](http://www.divine-pride.net/database/item/949/) - 722.png 1 [Pérola](http://www.divine-pride.net/database/item/722/) - 706.png 1 [Trevo de Quatro Folhas](http://www.divine-pride.net/database/item/706/) - 2213.png 1 [Orelha de Gato](http://www.divine-pride.net/database/item/2213/) |
+|  | | | | | |
+| Vovô | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bcmix | (alberta\_in 29,139) | 5016.png [Quepe](http://www.divine-pride.net/database/item/5016/) [[3]](#cite_note-SV-3) [[2]](#cite_note-SL-2) | - 1030.png 10 [Pata de Tigre](http://www.divine-pride.net/database/item/1030/) |
+| Al De Baran | | | | | |
+| Mercador | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Tradernpc | (aldeba\_in 152,166) | 2280.png [Chapéu Chinês](http://www.divine-pride.net/database/item/2280/) | - 10.000 [zenys](Zeny.md "Zeny") - 1019.png 120 [Tronco](http://www.divine-pride.net/database/item/1019/) |
+| 5018.png [Chapéu com Pluma](http://www.divine-pride.net/database/item/5018/) [[4]](#cite_note-RR-4) | - 500 [zenys](Zeny.md "Zeny") - 2247.png 1 [Chapéu Romântico](http://www.divine-pride.net/database/item/2247/) [[4]](#cite_note-RR-4) - 916.png 300 [Plumas de Ave](http://www.divine-pride.net/database/item/916/) |
+| 2273.png [Espelho de Médico](http://www.divine-pride.net/database/item/2273/) | - 3.500 [zenys](Zeny.md "Zeny") - 2275.png 1 [Faixa Marrom](http://www.divine-pride.net/database/item/2275/) - 998.png 50 [Ferro](http://www.divine-pride.net/database/item/998/) - 733.png 1 [Diamante Rachado](http://www.divine-pride.net/database/item/733/) |
+| 2281.png [Máscara do Fantasma](http://www.divine-pride.net/database/item/2281/) | - 5.000 [zenys](Zeny.md "Zeny") - 999.png 20 [Aço](http://www.divine-pride.net/database/item/999/) - 707.png 1 [Planta da Melodia](http://www.divine-pride.net/database/item/707/) |
+|  | | | | | |
+| Morseland | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Musclemannpc | (alde\_alche 88,180) | 5086.png [Máscara de Alarme](http://www.divine-pride.net/database/item/5086/) | - 1095.png 3.000 [Ponteiro](http://www.divine-pride.net/database/item/1095/) - 2288.png 1 [Máscara Assustadora](http://www.divine-pride.net/database/item/2288/) |
+| Comodo | | | | | |
+| Viajante | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Minemix | (comodo 273,137) | 5043.png [Máscara de Ópera](http://www.divine-pride.net/database/item/5043/) [[1]](#cite_note-SC-1) | - 2281.png 1 [Máscara do Fantasma](http://www.divine-pride.net/database/item/2281/) - 1048.png 50 [Cabelos Horrendos](http://www.divine-pride.net/database/item/1048/) |
+| 5031.png [Capacete de Mineiro](http://www.divine-pride.net/database/item/5031/) | - 5009.png 1 [Capacete de Segurança](http://www.divine-pride.net/database/item/5009/) - 5028.png 1 [Vela](http://www.divine-pride.net/database/item/5028/) - 747.png 1 [Espelho de Cristal](http://www.divine-pride.net/database/item/747/) - 999.png 25 [Aço](http://www.divine-pride.net/database/item/999/) |
+| 5023.png [Trouxinha](http://www.divine-pride.net/database/item/5023/) | - 1059.png 150 [Tecido](http://www.divine-pride.net/database/item/1059/) - 978.png 1 [Tintura Azul](http://www.divine-pride.net/database/item/978/) - 907.png 100 [Resina](http://www.divine-pride.net/database/item/907/) |
+| 5021.png [Avareza](http://www.divine-pride.net/database/item/5021/) | - 2233.png 1 [Tiara](http://www.divine-pride.net/database/item/2233/) [1] - 999.png 20 [Aço](http://www.divine-pride.net/database/item/999/) - 969.png 1 [Ouro](http://www.divine-pride.net/database/item/969/) - 949.png 80 [Pluma](http://www.divine-pride.net/database/item/949/) - 938.png 800 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) |
+|  | | | | | |
+| Garota | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Lightmix | (comodo 228,159) | 5036.png [Cruz](http://www.divine-pride.net/database/item/5036/) | - 2608.png 1 [Rosário](http://www.divine-pride.net/database/item/2608/) - 7069.png 500 [Armadura Destruída](http://www.divine-pride.net/database/item/7069/) |
+| 5052.png [Faixa Azul](http://www.divine-pride.net/database/item/5052/) | - 2211.png 1 [Bandana](http://www.divine-pride.net/database/item/2211/) - 978.png 1 [Tintura Azul](http://www.divine-pride.net/database/item/978/) - 7003.png 300 [Pele de Anolian](http://www.divine-pride.net/database/item/7003/) |
+| 5049.png [Faixa Listrada](http://www.divine-pride.net/database/item/5049/) | - 1099.png 1.500 [Uniforme Velho de Presidiário](http://www.divine-pride.net/database/item/1099/) |
+| 5034.png [Lâmpada](http://www.divine-pride.net/database/item/5034/) | - 2233.png 1 [Tiara](http://www.divine-pride.net/database/item/2233/) [1] - 746.png 20 [Bolinha de Gude](http://www.divine-pride.net/database/item/746/) |
+|  | | | | | |
+| Melon Dye | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Indhbmix | (comodo 237,217) | 5071.png [Faixa Indígena](http://www.divine-pride.net/database/item/5071/) | - 5010.png 1 [Penacho](http://www.divine-pride.net/database/item/5010/) [[4]](#cite_note-RR-4) - 7101.png 10 [Pena de Grand Peco](http://www.divine-pride.net/database/item/7101/) - 5049.png 1 [Faixa Listrada](http://www.divine-pride.net/database/item/5049/) |
+|  | | | | | |
+| Garota Fashion | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Lightmix | (comodo 236,164) | 5444.png [Pente Vermelho](http://www.divine-pride.net/database/item/5444/) | - 974.png 1 [Mistura](http://www.divine-pride.net/database/item/974/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) - 943.png 50 [Casca Rija](http://www.divine-pride.net/database/item/943/) - 985.png 5 [Elunium](http://www.divine-pride.net/database/item/985/) - 1302.png 1 [Machado](http://www.divine-pride.net/database/item/1302/) [4] |
+| Geffen | | | | | |
+| Sapo de Rodda | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Frog Hat Mixing | (gef\_fild07 108,161) | 5447.png [Chapéu de Sapo](http://www.divine-pride.net/database/item/5447/) [[3]](#cite_note-SV-3) | - 908.png 100 [Ovas de Sapo](http://www.divine-pride.net/database/item/908/) - 937.png 100 [Canino Venenoso](http://www.divine-pride.net/database/item/937/) - 936.png 50 [Casca Escamada](http://www.divine-pride.net/database/item/936/) - Caçar:   - 50 [Sorrateiro](http://www.divine-pride.net/database/monster/1037/)   - 50 [Argiope](http://www.divine-pride.net/database/monster/1099/) |
+|  | | | | | |
+| Myu | | | | | |
+| Mapa | Coordenadas | Chapéu | Caça |
+| HatMyu | (gef\_fild05 80,149) | 5446.png [Presilha de Pegada](http://www.divine-pride.net/database/item/5446/) | - 1.000 [Kobold Arqueiro](http://www.divine-pride.net/database/monster/1282/) |
+|  | | | | | |
+| Senhora Orc | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bride Corolla Mix | (in\_orcs01 119,106) | 5436.png [Coroa da Noiva](http://www.divine-pride.net/database/item/5436/) | - 1032.png 1.000 [Flor de Planta Carnívora](http://www.divine-pride.net/database/item/1032/) - 10007.png 1 [Laço de Seda](http://www.divine-pride.net/database/item/10007/) |
+|  | | | | | |
+| Arjen | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Xpinmix | (geffen 129,148) | 5063.png [Curativo Gigante](http://www.divine-pride.net/database/item/5063/) | - 970.png 1 [Álcool](http://www.divine-pride.net/database/item/970/) - 930.png 500 [Bandagem Estragada](http://www.divine-pride.net/database/item/930/) |
+| 5061.png [Presilha de Flor](http://www.divine-pride.net/database/item/5061/) | - 20.000 [zenys](Zenys.md "Zenys") - 2269.png 1 [Flor Romântica](http://www.divine-pride.net/database/item/2269/) |
+| 5079.png [Presilha de X](http://www.divine-pride.net/database/item/5079/) | - 7220.png 400 [Ectoplasma](http://www.divine-pride.net/database/item/7220/) - 2294.png 1 [Presilha de Estrela](http://www.divine-pride.net/database/item/2294/) |
+|  | | | | | |
+| Zenhizha | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Headmix | (geffen\_in 30,71) | 5001.png [Fone de Ouvido](http://www.divine-pride.net/database/item/5001/) | - 2.000 [zenys](Zenys.md "Zenys") - 999.png 40 [Aço](http://www.divine-pride.net/database/item/999/) - 1003.png 1 [Carvão](http://www.divine-pride.net/database/item/1003/) - 970.png 1 [Álcool](http://www.divine-pride.net/database/item/970/) - 984.png 1 [Oridecon](http://www.divine-pride.net/database/item/984/) |
+|  | | | | | |
+| Ferreiro | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Weldmix | (geffen\_in 144,166) | 2292.png [Máscara de Solda](http://www.divine-pride.net/database/item/2292/) [[1]](#cite_note-SC-1) | - 2.000 [zenys](Zenys.md "Zenys") - 999.png 50 [Aço](http://www.divine-pride.net/database/item/999/) |
+|  | | | | | |
+| Ses | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Tulipmix | (geffen 83,189) | 5077.png [Presilha de Tulipa](http://www.divine-pride.net/database/item/5077/) | - 2278.png 1 [Máscara Feliz](http://www.divine-pride.net/database/item/2278/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) |
+|  | | | | | |
+| Aipo | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Decshroommix | (geffen 67,87) | 5082.png [Tiara de Cogumelo](http://www.divine-pride.net/database/item/5082/) | - 921.png 300 [Esporo de Cogumelo](http://www.divine-pride.net/database/item/921/) |
+| Lutie | | | | | |
+| Homem da Máquina de Vender | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Vendingmachine | (xmas 115,295) | 5040.png [Candura](http://www.divine-pride.net/database/item/5040/) | - 7047.png 100 [Avental de Alice](http://www.divine-pride.net/database/item/7047/) |
+| 5050.png [Casca de Noz](http://www.divine-pride.net/database/item/5050/) | - 5037.png 1 [Casca de Maçã](http://www.divine-pride.net/database/item/5037/) - 7064.png 500 [Asa de Libélula](http://www.divine-pride.net/database/item/7064/) |
+| 5039.png [Casca de Ovo Colorida](http://www.divine-pride.net/database/item/5039/) | - 5015.png 1 [Casca de Ovo](http://www.divine-pride.net/database/item/5015/) - 978.png 1 [Tinta Azul](http://www.divine-pride.net/database/item/978/) - 7030.png 50 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) |
+| 5024.png [Chapéu de Bolo](http://www.divine-pride.net/database/item/5024/) | - 529.png 10 [Bala](http://www.divine-pride.net/database/item/529/) - 530.png 5 [Bengala Doce](http://www.divine-pride.net/database/item/530/) - 538.png 15 [Biscoito de Gengibre](http://www.divine-pride.net/database/item/538/) - 539.png 20 [Pedaço de Bolo](http://www.divine-pride.net/database/item/539/) - 999.png 10 [Aço](http://www.divine-pride.net/database/item/999/) |
+| 5028.png [Vela](http://www.divine-pride.net/database/item/5028/) | - 2279.png 1 [Pavio](http://www.divine-pride.net/database/item/2279/) - 526.png 100 [Geleia Real](http://www.divine-pride.net/database/item/526/) - 7035.png 50 [Palito de Fósforo](http://www.divine-pride.net/database/item/7035/) |
+| 5026.png [Mestre-Cuca](http://www.divine-pride.net/database/item/5026/) | - 539.png 120 [Pedaço de Bolo](http://www.divine-pride.net/database/item/539/) - 1036.png 450 [Escama de Dragão](http://www.divine-pride.net/database/item/1036/) - 982.png 1 [Tintura Branca](http://www.divine-pride.net/database/item/982/) - 949.png 330 [Pluma](http://www.divine-pride.net/database/item/949/) |
+| 5029.png [Chapéu de Esporo](http://www.divine-pride.net/database/item/5029/) | - 7033.png 850 [Esporo Venenoso](http://www.divine-pride.net/database/item/7033/) - 7068.png 300 [Madeira Queimada](http://www.divine-pride.net/database/item/7068/) - 1015.png 1 [Língua](http://www.divine-pride.net/database/item/1015/) |
+| 5033.png [Chapéu de Fumacento](http://www.divine-pride.net/database/item/5033/) | - 2213.png 1 [Orelha de Gato](http://www.divine-pride.net/database/item/2213/) - 1036.png 20 [Escama de Dragão](http://www.divine-pride.net/database/item/1036/) - 7012.png 200 [Pedaço de Escama Dura](http://www.divine-pride.net/database/item/7012/) - 7065.png 300 [Pele de Lontra](http://www.divine-pride.net/database/item/7065/) |
+|  | | | | | |
+| Comerciante | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Hatmerchant | (xmas\_in 35,30) | 5075.png [Chapéu de Cowboy](http://www.divine-pride.net/database/item/5075/) [[4]](#cite_note-RR-4) | - 2248.png 1 [Chapéu de Velho Oeste](http://www.divine-pride.net/database/item/2248/) [[4]](#cite_note-RR-4) - 7030.png 108 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) - 7194.png 108 [Grama](http://www.divine-pride.net/database/item/7194/) - 7120.png 4 [Ferradura em Chamas](http://www.divine-pride.net/database/item/7120/) |
+| 5060.png [Chapéu de Festa](http://www.divine-pride.net/database/item/5060/) | - 2236.png 1 [Gorro de Natal](http://www.divine-pride.net/database/item/2236/) - 7111.png 100 [Pedaço de Papel](http://www.divine-pride.net/database/item/7111/) - 7151.png 100 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/) |
+| 5076.png [Gorro](http://www.divine-pride.net/database/item/5076/) | - 2226.png 1 [Barrete](http://www.divine-pride.net/database/item/2226/) - 7038.png 500 [Novelo](http://www.divine-pride.net/database/item/7038/) |
+| 5062.png [Chapéu de Palha](http://www.divine-pride.net/database/item/5062/) | - 2280.png 1 [Chapéu Chinês](http://www.divine-pride.net/database/item/2280/) - 7197.png 300 [Palha](http://www.divine-pride.net/database/item/7197/) - 7150.png 300 [Pedaço de Bambu](http://www.divine-pride.net/database/item/7150/) |
+| 5067.png [Sombrero](http://www.divine-pride.net/database/item/5067/) [[4]](#cite_note-RR-4) | - 5062.png 1 [Chapéu de Palha](http://www.divine-pride.net/database/item/5062/) - 952.png 50 [Espinho de Cacto](http://www.divine-pride.net/database/item/952/) - 1907.png 1 [Violão](http://www.divine-pride.net/database/item/1907/) |
+|  | | | | | |
+| Nani | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Prettylindsay | (xmas 183,267) | 5078.png [Chapéu de Lontra](http://www.divine-pride.net/database/item/5078/) | - 5033.png 1 [Chapéu de Fumacento](http://www.divine-pride.net/database/item/5033/) - 5064.png 1 [Tiara de Folha](http://www.divine-pride.net/database/item/5064/) |
+|  | | | | | |
+| Foo Soon | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Fuzzyfuzz | (xmas 175,156) | 5059.png [Chapéu de Ursinho](http://www.divine-pride.net/database/item/5059/) | - 5030.png 1 [Chapéu de Panda](http://www.divine-pride.net/database/item/5030/) - 7213.png 100 [Almofada de Alfinetes](http://www.divine-pride.net/database/item/7213/) - 7217.png 100 [Carretel](http://www.divine-pride.net/database/item/7217/) - 7161.png 300 [Pele Negra de Urso](http://www.divine-pride.net/database/item/7161/) |
+| Lighthalzen | | | | | |
+| Beberrão | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Necktie Mix | (lhz\_in02 276,281) | 5442.png [Gravata Azul](http://www.divine-pride.net/database/item/5442/) | - 978.png 1 [Tintura Azul](http://www.divine-pride.net/database/item/978/) - 1059.png 100 [Tecido](http://www.divine-pride.net/database/item/1059/) - 7217.png 20 [Carretel](http://www.divine-pride.net/database/item/7217/) - 7151.png 30 [Papel Amarelado](http://www.divine-pride.net/database/item/7151/) |
+|  | | | | | |
+| Margaret Merry | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Mysticmix | (lhz\_in02 91,38) | 5117.png [Rosa Mística](http://www.divine-pride.net/database/item/5117/) | - 50.000 [zenys](Zenys.md "Zenys") - 731.png 10 [Diamante de 2 Quilates](http://www.divine-pride.net/database/item/731/) - 748.png 3 [Rosa Eterna](http://www.divine-pride.net/database/item/748/) - 982.png 1 [Tintura Branca](http://www.divine-pride.net/database/item/982/) |
+|  | | | | | |
+| Menina Rica | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bonnetmix | (lighthalzen 182,89) | 5109.png [Boné Vermelho](http://www.divine-pride.net/database/item/5109/) | - 50.000 [zenys](Zenys.md "Zenys") - 10015.png 1 [Laço Verde](http://www.divine-pride.net/database/item/10015/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) - 10007.png 1 [Laço de Seda](http://www.divine-pride.net/database/item/10007/) - 5032.png 1 [Chapéu de Verão](http://www.divine-pride.net/database/item/5032/) |
+|  | | | | | |
+| Garoto Estranho | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Detecmix | (lighthalzen 143,68) | 5108.png [Chapéu de Detetive Famoso](http://www.divine-pride.net/database/item/5108/) | - 1.887 [zenys](Zenys.md "Zenys") - 611.png 10 [Lupa](http://www.divine-pride.net/database/item/611/) - 7301.png 1.887 [Fitilhos](http://www.divine-pride.net/database/item/7301/) - 5120.png 1 [Chapéu de Balde](http://www.divine-pride.net/database/item/5120/) |
+|  | | | | | |
+| Garoto | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Pacifmix | (lighthalzen 360,313) | 5110.png [Chupeta de Bebê](http://www.divine-pride.net/database/item/5110/) | - 526.png 1 [Geleia Real](http://www.divine-pride.net/database/item/526/) - 7270.png 1 [Mamadeira](http://www.divine-pride.net/database/item/7270/) - 10004.png 1 [Chupeta](http://www.divine-pride.net/database/item/10004/) - 941.png 1 [Argola](http://www.divine-pride.net/database/item/941/) |
+| Morroc | | | | | |
+| Viajante | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bfishmix | (morocc 273,79) | 5064.png [Tiara de Folha](http://www.divine-pride.net/database/item/5064/) | - 945.png 600 [Folha de Fumacento](http://www.divine-pride.net/database/item/945/) - 7030.png 1 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) |
+| 5065.png [Peixe Azul](http://www.divine-pride.net/database/item/5065/) | - 624.png 1 [Peixe Podre](http://www.divine-pride.net/database/item/624/) - 959.png 300 [Escama Fétida](http://www.divine-pride.net/database/item/959/) - 551.png 50 [Peixe Cru](http://www.divine-pride.net/database/item/551/) - 1023.png 1 [Cauda de Peixe](http://www.divine-pride.net/database/item/1023/) - 938.png 100 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) - 7030.png 1 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) |
+| 5084.png [Chapéu de Fumacento Dorminhoco](http://www.divine-pride.net/database/item/5084/) | - 1026.png 1.000 [Avelã](http://www.divine-pride.net/database/item/1026/) - 7065.png 100 [Pele de Lontra](http://www.divine-pride.net/database/item/7065/) - 945.png 10 [Folha de Fumacento](http://www.divine-pride.net/database/item/945/) - 7030.png 1 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) |
+| 5058.png [Chapéu de Gatinho Dorminhoco](http://www.divine-pride.net/database/item/5058/) | - 7030.png 1 [Garra de Lobo do Deserto](http://www.divine-pride.net/database/item/7030/) - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/) - 2233.png 1 [Tiara](http://www.divine-pride.net/database/item/2233/) [1] - 7206.png 300 [Boneco de Gato Preto](http://www.divine-pride.net/database/item/7206/) |
+|  | | | | | |
+| Guilda de alquimia | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Binomix | (morocc 169,168) | 2296.png [Binóculos](http://www.divine-pride.net/database/item/2296/) [[1]](#cite_note-SC-1) | - 50.000 [zenys](Zenys.md "Zenys") - 2243.png 1 [Quatro-Olhos](http://www.divine-pride.net/database/item/2243/) - 999.png 100 [Aço](http://www.divine-pride.net/database/item/999/) |
+|  | | | | | |
+| Stair | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Dyemix | (morocc 152,167) | 2272.png [Placa de PARE](http://www.divine-pride.net/database/item/2272/) | - 91.100 [zenys](Zenys.md "Zenys") - 1019.png 50 [Tronco](http://www.divine-pride.net/database/item/1019/) - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/)´ |
+|  | | | | | |
+| Aprendiz Elgo | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Meigohmix | (morocc\_in 137,102) | 5440.png [Laço Meigo Azul](http://www.divine-pride.net/database/item/5440/) | - 2250.png 1 [Laço Meigo](http://www.divine-pride.net/database/item/2250/) - 978.png 1 [Tintura Azul](http://www.divine-pride.net/database/item/978/) |
+| 5441.png [Laço Meigo Branco](http://www.divine-pride.net/database/item/5441/) | - 2250.png 1 [Laço Meigo](http://www.divine-pride.net/database/item/2250/) - 982.png 1 [Tintura Branca](http://www.divine-pride.net/database/item/982/) |
+| 5438.png [Laço Meigo Verde](http://www.divine-pride.net/database/item/5438/) | - 2250.png 1 [Laço Meigo](http://www.divine-pride.net/database/item/2250/) - 979.png 1 [Tintura Verde](http://www.divine-pride.net/database/item/979/) |
+| 5439.png [Laço Meigo Vermelho](http://www.divine-pride.net/database/item/5439/) | - 2250.png 1 [Laço Meigo](http://www.divine-pride.net/database/item/2250/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) |
+| Payon | | | | | |
+| Chungwolmang | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bride Mask Mix | (payon 135,320) | 5169.png [Máscara de Noiva](http://www.divine-pride.net/database/item/5169/) | - 706.png 1 [Trevo de Quatro Folhas](http://www.divine-pride.net/database/item/706/) - 7201.png 500 [Tora](http://www.divine-pride.net/database/item/7201/) - 7200.png 10 [Elástico](http://www.divine-pride.net/database/item/7200/) - 1049.png 20 [Saia Virginal](http://www.divine-pride.net/database/item/1049/) - 1059.png 500 [Tecido](http://www.divine-pride.net/database/item/1059/) - 1054.png 2 [Lábio Fossilizado](http://www.divine-pride.net/database/item/1054/) - 1024.png 100 [Tinta de Polvo](http://www.divine-pride.net/database/item/1024/) |
+| 5176.png [Máscara Hahoe](http://www.divine-pride.net/database/item/5176/) [[3]](#cite_note-SV-3) | - 706.png 1 [Trevo de Quatro Folhas](http://www.divine-pride.net/database/item/706/) - 7201.png 500 [Tora](http://www.divine-pride.net/database/item/7201/) - 7200.png 10 [Elástico](http://www.divine-pride.net/database/item/7200/) - 7015.png 20 [Marca-Páginas](http://www.divine-pride.net/database/item/7015/) - 952.png 100 [Espinho de Cacto](http://www.divine-pride.net/database/item/952/) - 1028.png 100 [Crina](http://www.divine-pride.net/database/item/1028/) |
+| 5177.png [Máscara Mítica de Leão](http://www.divine-pride.net/database/item/5177/) | - 706.png 1 [Trevo de Quatro Folhas](http://www.divine-pride.net/database/item/706/) - 7201.png 500 [Tora](http://www.divine-pride.net/database/item/7201/) - 7200.png 10 [Elástico](http://www.divine-pride.net/database/item/7200/) - 1048.png 500 [Cabelos Horrendos](http://www.divine-pride.net/database/item/1048/) - 1053.png 2 [Dente Fossilizado](http://www.divine-pride.net/database/item/1053/) - 980.png 1 [Tintura Laranja](http://www.divine-pride.net/database/item/980/) |
+|  | | | | | |
+| Han Garm | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Ayam Mix | (payon\_in03 139,124) | 5174.png [Ayam](http://www.divine-pride.net/database/item/5174/) | - 7445.png 7 [Bijuteria Verde](http://www.divine-pride.net/database/item/7445/) - 7446.png 7 [Bijuteria Azul](http://www.divine-pride.net/database/item/7446/) - 7447.png 7 [Bijuteria Vermelha](http://www.divine-pride.net/database/item/7447/) - 7448.png 7 [Bijuteria Amarela](http://www.divine-pride.net/database/item/7448/) - 954.png 300 [Escama Brilhante](http://www.divine-pride.net/database/item/954/) - 975.png 1 [Tintura Vermelha](http://www.divine-pride.net/database/item/975/) - 733.png 5 [Diamante Rachado](http://www.divine-pride.net/database/item/733/) - 7166.png 50 [Seda Macia](http://www.divine-pride.net/database/item/7166/) |
+| 5173.png [Chapéu de Magistrado](http://www.divine-pride.net/database/item/5173/) | - 7445.png 7 [Bijuteria Verde](http://www.divine-pride.net/database/item/7445/) - 7446.png 7 [Bijuteria Azul](http://www.divine-pride.net/database/item/7446/) - 7447.png 7 [Bijuteria Vermelha](http://www.divine-pride.net/database/item/7447/) - 7448.png 7 [Bijuteria Amarela](http://www.divine-pride.net/database/item/7448/) - 954.png 300 [Escama Brilhante](http://www.divine-pride.net/database/item/954/) - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/) - 733.png 5 [Diamante Rachado](http://www.divine-pride.net/database/item/733/) - 2221.png 1 [Chapéu](http://www.divine-pride.net/database/item/2221/) [1] |
+|  | | | | | |
+| Nove Caudas | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Kitsumix | (pay\_dun03 48,84) | 5069.png [Máscara Kitsune](http://www.divine-pride.net/database/item/5069/) [[1]](#cite_note-SC-1) | - 1022.png 999 [Nove Caudas](http://www.divine-pride.net/database/item/1022/) |
+|  | | | | | |
+| Vovó | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Murdermix | (payon\_in01 99,72) | 2293.png [Faca Falsa](http://www.divine-pride.net/database/item/2293/) | - 1049.png 4 [Saia Virginal](http://www.divine-pride.net/database/item/1049/) |
+|  | | | | | |
+| Jovem | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Oxymix | (payon\_in02 25,71) | 5004.png [Máscara de Oxigênio](http://www.divine-pride.net/database/item/5004/) | - 701.png 5 [Armadilha para Insetos](http://www.divine-pride.net/database/item/701/) |
+|  | | | | | |
+| Jovem | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Angelmix | (payon\_in01 55,12) | 5038.png [Chapéu de Deviruchi](http://www.divine-pride.net/database/item/5038/) [[3]](#cite_note-SV-3) | - 1038.png 600 [Pequeno Chifre Maligno](http://www.divine-pride.net/database/item/1038/) - 7048.png 40 [Garra de Grifo](http://www.divine-pride.net/database/item/7048/) |
+| 5025.png [Elmo Angelical](http://www.divine-pride.net/database/item/5025/) [[1]](#cite_note-SC-1) | - 2254.png 1 [Asas de Anjo](http://www.divine-pride.net/database/item/2254/) - 2229.png 1 [Elmo](http://www.divine-pride.net/database/item/2229/) [1] - 7036.png 5 [Presa de Hatii](http://www.divine-pride.net/database/item/7036/) |
+|  | | | | | |
+| KoneKone | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Bcemix | (payon 115,131) | 5057.png [Orelhas de Gato Preto](http://www.divine-pride.net/database/item/5057/) | - 10.000 [zenys](Zenys.md "Zenys") - 2213.png 1 [Orelha de Gato](http://www.divine-pride.net/database/item/2213/) - 914.png 200 [Felpa](http://www.divine-pride.net/database/item/914/) - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/) |
+|  | | | | | |
+| Nanhyang | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Modmix | (payon\_in03 8,193) | 5073.png [Chapéu para Modelos](http://www.divine-pride.net/database/item/5073/) | - 1550.png 1 [Livro](http://www.divine-pride.net/database/item/1550/) [3] - 2285.png 1 [Maçã de Guilherme Tell](http://www.divine-pride.net/database/item/2285/) |
+|  | | | | | |
+| Senhora Mística | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Muffmix | (payon\_in01 18,10) | 2283.png [Aquecedor de Orelha](http://www.divine-pride.net/database/item/2283/) | - 5.000 [zenys](Zenys.md "Zenys") - 724.png 1 [Rubi Amaldiçoado](http://www.divine-pride.net/database/item/724/) - 5001.png 1 [Fone de Ouvido](http://www.divine-pride.net/database/item/5001/) - 949.png 200 [Pluma](http://www.divine-pride.net/database/item/949/) |
+| Prontera | | | | | |
+| Netpia | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Redrmix | (prontera 165,232) | 5083.png [Laço Vermelho](http://www.divine-pride.net/database/item/5083/) | - 2244.png 1 [Laço Grande](http://www.divine-pride.net/database/item/2244/) - 2209.png 1 [Laço](http://www.divine-pride.net/database/item/2209/) [1] - 10007.png 1 [Laço de Seda](http://www.divine-pride.net/database/item/10007/) |
+|  | | | | | |
+| Professora | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Docmix | (prt\_in 38,108) | 5012.png [Capelo](http://www.divine-pride.net/database/item/5012/) [[2]](#cite_note-SL-2) | - 703.png 1 [Hinalle](http://www.divine-pride.net/database/item/703/) - 704.png 1 [Aloés](http://www.divine-pride.net/database/item/704/) - 710.png 1 [Flor das Ilusões](http://www.divine-pride.net/database/item/710/) - 708.png 1 [Menta](http://www.divine-pride.net/database/item/708/) |
+|  | | | | | |
+| Dona Risadinha | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Smilemix | (prontera 157,187) | 2278.png [Máscara Feliz](http://www.divine-pride.net/database/item/2278/) | - 909.png 10 [Jellopy](http://www.divine-pride.net/database/item/909/) - 914.png 10 [Felpa](http://www.divine-pride.net/database/item/914/) - 705.png 10 [Trevo](http://www.divine-pride.net/database/item/705/) |
+| Rachel | | | | | |
+| Sakjul | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Feather Beret mix | (rachel 152,131) | 5170.png [Boina Alada](http://www.divine-pride.net/database/item/5170/) [[5]](#cite_note-5) | - 5172.png 1 [Boina](http://www.divine-pride.net/database/item/5172/) - 7063.png 100 [Pena Macia](http://www.divine-pride.net/database/item/7063/) - 982.png 1 [Tintura Branca](http://www.divine-pride.net/database/item/982/) - Tem 40% de chance de não conseguir o item. |
+|  | | | | | |
+| ?? | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Censor mix | (rachel 91,273) | 5175.png [Faixa de Censura](http://www.divine-pride.net/database/item/5175/) | - 100.000 [zenys](Zenys.md "Zenys") - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/) - 7111.png 100 [Pedaço de Papel](http://www.divine-pride.net/database/item/7111/) - 938.png 99 [Muco Pegajoso](http://www.divine-pride.net/database/item/938/) |
+| Juno | | | | | |
+| Velho Ferreiro | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Oldsmithnpc | (yuno 241,52) | 5068.png [Asas Malignas](http://www.divine-pride.net/database/item/5068/) | - 20.000 [zenys](Zeny.md "Zeny") - 2255.png 1 [Asa de Demônio](http://www.divine-pride.net/database/item/2255/) - 2286.png 1 [Orelha de Elfo](http://www.divine-pride.net/database/item/2286/) |
+| 5074.png [Orelhas de Anjo](http://www.divine-pride.net/database/item/5074/) | - 20.000 [zenys](Zeny.md "Zeny") - 2254.png 1 [Asas de Anjo](http://www.divine-pride.net/database/item/2254/) - 2286.png 1 [Orelhas de Elfo](http://www.divine-pride.net/database/item/2286/) |
+|  | | | | | |
+| Neris | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Nehrisnpc | (yuno\_in03 20,18) | 5091.png [Sinos Dourados](http://www.divine-pride.net/database/item/5091/) | - 20.000 [zenys](Zeny.md "Zeny") - 714.png 1 [Emperium](http://www.divine-pride.net/database/item/714/) - 969.png 3 [Ouro](http://www.divine-pride.net/database/item/969/) - 10016.png 1 [Sino de Ouro](http://www.divine-pride.net/database/item/10016/) |
+| 5080.png [Coroa de Rainhas Antigas](http://www.divine-pride.net/database/item/5080/) | - 20.000 [zenys](Zeny.md "Zeny") - 714.png 1 [Emperium](http://www.divine-pride.net/database/item/714/) - 969.png 3 [Ouro](http://www.divine-pride.net/database/item/969/) - 10006.png 1 [Ornamento da Rainha](http://www.divine-pride.net/database/item/10006/) |
+| 5081.png [Coroa de Abelha Rainha](http://www.divine-pride.net/database/item/5081/) | - 40.000 [zenys](Zeny.md "Zeny") - 714.png 1 [Emperium](http://www.divine-pride.net/database/item/714/) - 969.png 3 [Ouro](http://www.divine-pride.net/database/item/969/) - 2249.png 1 [Coroa Menor](http://www.divine-pride.net/database/item/2249/) |
+|  | | | | | |
+| Kasis | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Kasisnpc | (yuno 222,116) | 5107.png [Torrada Crocante](http://www.divine-pride.net/database/item/5107/) | - 519.png 50 [Leite](http://www.divine-pride.net/database/item/519/) - 548.png 50 [Queijo](http://www.divine-pride.net/database/item/548/) - 539.png 50 [Pedaço de Bolo](http://www.divine-pride.net/database/item/539/) - 7031.png 50 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/) |
+|  | | | | | |
+| Jamput | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Zhenboltnpc | (yuno 300,188) | 5070.png [Faixa de Karatê](http://www.divine-pride.net/database/item/5070/) | - 7216.png 300 [Cachecol Vermelho](http://www.divine-pride.net/database/item/7216/) - 7097.png 300 [Coração Incandescente](http://www.divine-pride.net/database/item/7097/) - 982.png 1 [Tintura Branca](http://www.divine-pride.net/database/item/982/) - 2211.png 1 [Bandana](http://www.divine-pride.net/database/item/2211/) |
+| Outros | | | | | |
+| Irina | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Shafka Mix | (moscovia 211,93) | 5243.png [Gorro de Chullos](http://www.divine-pride.net/database/item/5243/) | - 1022.png 20 [Nove Caudas](http://www.divine-pride.net/database/item/1022/) - 7038.png 10 [Novelo](http://www.divine-pride.net/database/item/7038/) - 7166.png 10 [Seda Macia](http://www.divine-pride.net/database/item/7166/) - 7065.png 20 [Pele de Lontra](http://www.divine-pride.net/database/item/7065/) - 7217.png 1 [Carretel](http://www.divine-pride.net/database/item/7217/) |
+|  | | | | | |
+| Yotang | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| MoscemKunMix | (gonryun 149,189) | 5437.png [Flor de Moscóvia](http://www.divine-pride.net/database/item/5437/) | - 7165.png 100 [Manto Cerimonial](http://www.divine-pride.net/database/item/7165/) - 7166.png 100 [Seda Macia](http://www.divine-pride.net/database/item/7166/) - 745.png 1 [Buquê de Casamento](http://www.divine-pride.net/database/item/745/) - 981.png 1 [Tintura Violeta](http://www.divine-pride.net/database/item/981/) - 2211.png 1 [Bandana](http://www.divine-pride.net/database/item/2211/) |
+|  | | | | | |
+| Mater | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Wintermix | (einbech 70,222) | 5115.png [Chapéu de Inverno](http://www.divine-pride.net/database/item/5115/) | - 50.000 [zenys](Zenys.md "Zenys") - 7267.png 999 [Tanga de Tigre](http://www.divine-pride.net/database/item/7267/) - 983.png 1 [Tintura Preta](http://www.divine-pride.net/database/item/983/) - 749.png 1 [Rosa de Gelo](http://www.divine-pride.net/database/item/749/) |
+|  | | | | | |
+| Ghenirhemin | | | | | |
+| Mapa | Coordenadas | Chapéu | Materiais |
+| Valkyrie Helm Mix | (hugel 147,103) | 5171.png [Elmo das Valquírias](http://www.divine-pride.net/database/item/5171/) [[3]](#cite_note-SV-3) | - 10.000.000 [zenys](Zenys.md "Zenys") - 4219.png 1 [Carta Verme Sábio](http://www.divine-pride.net/database/item/4219/) - 4114.png 1 [Carta Argiope](http://www.divine-pride.net/database/item/4114/) - 4177.png 1 [Carta Dríade](http://www.divine-pride.net/database/item/4177/) - 4259.png 1 [Carta Golem de Madeira](http://www.divine-pride.net/database/item/4259/) - 4212.png 1 [Carta Bongun](http://www.divine-pride.net/database/item/4212/) - 4073.png 1 [Carta Esqueleto Pirata](http://www.divine-pride.net/database/item/4073/) - 4112.png 1 [Carta Marduk](http://www.divine-pride.net/database/item/4112/) - 4081.png 1 [Carta Hode](http://www.divine-pride.net/database/item/4081/) - 4251.png 1 [Carta Ancião](http://www.divine-pride.net/database/item/4251/) - 4166.png 1 [Carta Pesadelo Sombrio](http://www.divine-pride.net/database/item/4166/) - 7511.png 1000 [Runas da Escuridão](http://www.divine-pride.net/database/item/7511/) - 7563.png 1000 [Runas Sangrentas](http://www.divine-pride.net/database/item/7563/) |
+
+#### Referências
+
+1. ↑ [1,0](#cite_ref-SC_1-0) [1,1](#cite_ref-SC_1-1) [1,2](#cite_ref-SC_1-2) [1,3](#cite_ref-SC_1-3) [1,4](#cite_ref-SC_1-4) [1,5](#cite_ref-SC_1-5) [1,6](#cite_ref-SC_1-6) [1,7](#cite_ref-SC_1-7) [1,8](#cite_ref-SC_1-8) Pode ser aprimorado através da [Síntese de Cristais](Síntese de Cristais.md "Síntese de Cristais").
+2. ↑ [2,0](#cite_ref-SL_2-0) [2,1](#cite_ref-SL_2-1) [2,2](#cite_ref-SL_2-2) Pode receber [slots](Slot.md#Sloteamento "Slot").
+3. ↑ [3,0](#cite_ref-SV_3-0) [3,1](#cite_ref-SV_3-1) [3,2](#cite_ref-SV_3-2) [3,3](#cite_ref-SV_3-3) [3,4](#cite_ref-SV_3-4) Pode ser transformado em um [visual](Visual.md "Visual") em [Eclage](Eclage.md#Visuais "Eclage").
+4. ↑ [4,0](#cite_ref-RR_4-0) [4,1](#cite_ref-RR_4-1) [4,2](#cite_ref-RR_4-2) [4,3](#cite_ref-RR_4-3) [4,4](#cite_ref-RR_4-4) [4,5](#cite_ref-RR_4-5) Pode ser comprado em [Rockridge](Rockridge.md "Rockridge").
+5. [↑](#cite_ref-5) Pode receber 1 [slot](Slot.md "Slot") trocando [Moeda de Guerra](Guerra do Emperium.md#Moedas "Guerra do Emperium")
+
+| *[Itens](Itens.md "Itens") em [Ragnarök Online](Ragnarök Online.md "Ragnarök Online")* | | |
+| --- | --- | --- |
+| Melhorias | [Refino](Refinamento.md "Refinamento") · [Bônus Aleatórios](Bônus Aleatórios.md "Bônus Aleatórios") · [Encantamento](Encantamento.md "Encantamento") · [Combinação](Combinação.md "Combinação") · [Grau](Grau.md "Grau") · [Reforma](Reforma.md "Reforma") | |
+| Rota de [Equipamentos](Equipamentos.md "Equipamentos") | [Éden](Equipamentos do Éden.md "Equipamentos do Éden") · [Iniciais](Equipamento Inicial.md "Equipamento Inicial") · [Honra](Equipamentos de Honra.md "Equipamentos de Honra") · [Relíquias de Mora](Relíquias de Mora.md "Relíquias de Mora") · [Excelion](Equipamento Excelion.md "Equipamento Excelion") · [Ilusión](Equipamentos Ilusión.md "Equipamentos Ilusión") · [Automatron](Equipamentos Automatron.md "Equipamentos Automatron") | |
+| Encantos | [Botas Temporais](Glastheim.md#Itens_Temporais "Glastheim") · [Itens Natalinos](Lutie.md#Itens_Natalinos "Lutie") · [Armas em Malangdo](Encantamentos de Malangdo.md "Encantamentos de Malangdo") · [Armas Biológicas](Lighthalzen.md#Itens_Biológicos "Lighthalzen") · [Ninjas](Equipamentos Ninja.md#Encantamento "Equipamentos Ninja") · [Ilusionais](Cavernas Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais") · [Visuais](Encantamento de Visual.md "Encantamento de Visual") |
+| Outros | [Drop](Drop.md "Drop") · [Slot](Slot.md "Slot") · [Cartas](Cartas.md "Cartas") ([Lista](Lista de Cartas.md "Lista de Cartas")) · [Tintura](Tintura.md "Tintura") · [Loja de Estilos](Loja de Estilos.md "Loja de Estilos") · [Loja Fashion](Encantamento de Visual.md "Encantamento de Visual") · [Culinária](Culinária.md "Culinária") · [JoyCoins](JoyCoins.md "JoyCoins") | |
