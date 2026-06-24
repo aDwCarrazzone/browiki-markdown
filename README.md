@@ -14,6 +14,11 @@ O objetivo é triplo:
 > Espelho **não oficial**, mantido para fins de arquivo. O conteúdo pertence à bROWiki e
 > seus colaboradores. Este repositório só lê a wiki — nunca escreve de volta.
 
+## Navegação
+
+- **[📑 Índice por categoria (INDEX.md)](INDEX.md)** — todas as páginas agrupadas por categoria.
+- **[📖 Wiki navegável](../../wiki)** — versão para leitura humana, com imagens, na aba *Wiki*.
+
 ## Estrutura
 
 ```
