@@ -2,23 +2,23 @@
 
 # Encantamentos de Malangdo
 
-Em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"), você pode adicionar um [encantamento](Encantamento.md "Encantamento") em armas de nível 3 e 4 ao custo de [moedas](http://www.divine-pride.net/database/item/6418/) adquiridas através das [quests](../Quest/Quests.md "Quests") da ilha.
+Em [Malangdo](../Lugares/Malangdo.md "Malangdo"), você pode adicionar um [encantamento](Encantamento.md "Encantamento") em armas de nível 3 e 4 ao custo de [moedas](http://www.divine-pride.net/database/item/6418/) adquiridas através das [quests](../Quests/Gerais/Quests.md "Quests") da ilha.
 
-- O [NPC](../Sem%20categoria/NPC.md "NPC") encarregado de encantar é Snow (malangdo 213,167)
+- O [NPC](../Redirecionamentos/NPC.md "NPC") encarregado de encantar é Snow (malangdo 213,167)
 
   :   ![Snowmal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f0/Snowmal.png)
 - Observe atentamente os requisitos:
-  - A [arma](../Sem%20categoria/Arma.md "Arma") precisa estar equipada na mão direita do personagem;
-  - Uma [arma](../Sem%20categoria/Arma.md "Arma") pode ter até 2 encantos;
-  - [Armas](../Sem%20categoria/Armas.md "Armas") de 3 [slots](../Sem%20categoria/Slots.md "Slots") receberão somente 1 encanto;
-  - Os [encantamentos](../Sem%20categoria/Encantamentos.md "Encantamentos") pagos com [moedas](http://www.divine-pride.net/database/item/6418/) são aleatórios e não são escolhidos pelo jogador.
+  - A [arma](../Redirecionamentos/Arma.md "Arma") precisa estar equipada na mão direita do personagem;
+  - Uma [arma](../Redirecionamentos/Arma.md "Arma") pode ter até 2 encantos;
+  - [Armas](../Redirecionamentos/Armas.md "Armas") de 3 [slots](../Redirecionamentos/Slots.md "Slots") receberão somente 1 encanto;
+  - Os [encantamentos](../Redirecionamentos/Encantamentos.md "Encantamentos") pagos com [moedas](http://www.divine-pride.net/database/item/6418/) são aleatórios e não são escolhidos pelo jogador.
   - Os tipos de encanto (Físico, Longo Alcance ou Mágico) pagos com [Ira do Deus do Mar](http://www.divine-pride.net/database/item/6423/) ou [Moedas Classe A](http://www.divine-pride.net/database/item/6418/) podem ser escolhidos, mas o nível da pedra de encanto é aleatório;
   - Todos os encantamentos (1º e 2º) serão resetados por 1 ![6909.png](https://static.divine-pride.net/images/items/item/6909.png) [MiauMiau](http://www.divine-pride.net/database/item/6909/);
   - Não há chances de falha, um encantamento sempre será dado para sua arma, porém alguns encantos são melhores que outros;
-  - [Cartas](Cartas.md "Cartas") e [refinamentos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") não serão perdidos.
+  - [Cartas](Cartas.md "Cartas") e [refinamentos](Refinamento.md "Refinamento") não serão perdidos.
 - Abaixo segue a lista de armas que podem ser encantadas com o custo em Moedas ou em Ira.
-- O [NPC](../Sem%20categoria/NPC.md "NPC") aceita todas as versões de arma, com ou sem [slot](Slot.md "Slot").
-- As Essências de Morroc **serão perdidas** se você resetar os encantos da arma. No entanto [cartas](Cartas.md "Cartas") e [refinamentos](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") não serão perdidos.
+- O [NPC](../Redirecionamentos/NPC.md "NPC") aceita todas as versões de arma, com ou sem [slot](Slot.md "Slot").
+- As Essências de Morroc **serão perdidas** se você resetar os encantos da arma. No entanto [cartas](Cartas.md "Cartas") e [refinamentos](Refinamento.md "Refinamento") não serão perdidos.
 
 ## Armas encantáveis
 
@@ -283,9 +283,13 @@ Em [Malangdo](../Lugares%20em%20Ragnar%C3%B6k/Malangdo.md "Malangdo"), você pod
 | 4,7% | [DES +1](http://www.divine-pride.net/database/item/4720/), [VIT +1](http://www.divine-pride.net/database/item/4740/), [SOR +1](http://www.divine-pride.net/database/item/4750/) |
 | 0,4% | [FOR +1](http://www.divine-pride.net/database/item/4700/), [AGI +1](http://www.divine-pride.net/database/item/4730/), [INT +1](http://www.divine-pride.net/database/item/4710/) |
 
-| *[Itens](Itens.md "Itens") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
+| *[Itens](Itens.md "Itens") em [Ragnarök Online](../Sistema%20e%20Mec%C3%A2nicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |
-| Melhorias | [Refino](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") · [Bônus Aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios") · [Encantamento](Encantamento.md "Encantamento") · [Combinação](Combina%C3%A7%C3%A3o.md "Combinação") · [Grau](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Grau.md "Grau") · [Reforma](Reforma.md "Reforma") | |
-| Rota de [Equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") | [Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") · [Iniciais](Equipamento%20Inicial.md "Equipamento Inicial") · [Honra](Equipamentos%20de%20Honra.md "Equipamentos de Honra") · [Relíquias de Mora](../Sem%20categoria/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora") · [Excelion](../Quest/Equipamento%20Excelion.md "Equipamento Excelion") · [Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión") · [Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") · [Lobo Cinzento](../Quest/Equipamentos%20Cinzentos.md "Equipamentos Cinzentos") | |
-| Encantos | [Botas Temporais](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim") · [Itens Natalinos](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md#Itens_Natalinos "Lutie") · Armas em Malangdo · [Armas Biológicas](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md#Itens_Biológicos "Lighthalzen") · [Ninjas](../Guias%20de%20Classe/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja") · [Ilusionais](../Lugares%20em%20Ragnar%C3%B6k/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais") · [Visuais](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") |
-| Outros | [Drop](../Sem%20categoria/Drop.md "Drop") · [Slot](Slot.md "Slot") · [Cartas](Cartas.md "Cartas") ([Lista](../Sem%20categoria/Lista%20de%20Cartas.md "Lista de Cartas")) · [Tintura](../Quests%20repet%C3%ADveis/Tintura.md "Tintura") · [Loja de Estilos](../Sem%20categoria/Loja%20de%20Estilos.md "Loja de Estilos") · [Loja Fashion](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") · [Culinária](Culin%C3%A1ria.md "Culinária") · [JoyCoins](JoyCoins.md "JoyCoins") | |
+| Melhorias | [Refino](Refinamento.md "Refinamento") · [Bônus Aleatórios](../Redirecionamentos/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios") · [Encantamento](Encantamento.md "Encantamento") · [Combinação](Combina%C3%A7%C3%A3o.md "Combinação") · [Grau](Grau.md "Grau") · [Reforma](Reforma.md "Reforma") | |
+| Rota de [Equipamentos](../Redirecionamentos/Equipamentos.md "Equipamentos") | [Éden](../Quests/Gerais/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") · [Iniciais](Equipamento%20Inicial.md "Equipamento Inicial") · [Honra](Equipamentos%20de%20Honra.md "Equipamentos de Honra") · [Relíquias de Mora](../Redirecionamentos/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora") · [Excelion](../Quests/Gerais/Equipamento%20Excelion.md "Equipamento Excelion") · [Ilusión](../Quests/Gerais/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión") · [Automatron](../Quests/Gerais/Equipamentos%20Automatron.md "Equipamentos Automatron") · [Lobo Cinzento](../Quests/Gerais/Equipamentos%20Cinzentos.md "Equipamentos Cinzentos") | |
+| Encantos | [Botas Temporais](../Lugares/Glastheim.md#Itens_Temporais "Glastheim") · [Itens Natalinos](../Lugares/Lutie.md#Itens_Natalinos "Lutie") · Armas em Malangdo · [Armas Biológicas](../Lugares/Lighthalzen.md#Itens_Biológicos "Lighthalzen") · [Ninjas](../Classes/Guias/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja") · [Ilusionais](../Lugares/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais") · [Visuais](../Redirecionamentos/Encantamento%20de%20Visual.md "Encantamento de Visual") |
+| Outros | [Drop](../Redirecionamentos/Drop.md "Drop") · [Slot](Slot.md "Slot") · [Cartas](Cartas.md "Cartas") ([Lista](../Redirecionamentos/Lista%20de%20Cartas.md "Lista de Cartas")) · [Tintura](../Quests/Repet%C3%ADveis/Tintura.md "Tintura") · [Loja de Estilos](../Redirecionamentos/Loja%20de%20Estilos.md "Loja de Estilos") · [Loja Fashion](../Redirecionamentos/Encantamento%20de%20Visual.md "Encantamento de Visual") · [Culinária](Culin%C3%A1ria.md "Culinária") · [JoyCoins](JoyCoins.md "JoyCoins") | |
+
+---
+*Categorias: Itens*  
+*Importado da [bROWiki](https://browiki.org/wiki/Encantamentos_de_Malangdo) — revisão 40072*

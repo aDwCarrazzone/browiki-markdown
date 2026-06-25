@@ -1,0 +1,64 @@
+# Memorizar
+
+# Memorizar
+
+|  |  |
+| --- | --- |
+| **![Memorizar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c9/Memorizar.png) Memorizar** | |
+| ![Memorizar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fe/Memorizar.gif) | |
+| **Reading Spell Book / Leer Libro de Hechizos** | |
+| **ID** | WL\_READING\_SB (2231) |
+| **Tipo** | Passiva |
+| **Níveis** | 1 |
+| **[Conjuração](../../Redirecionamentos/Conjura%C3%A7%C3%A3o.md "Conjuração")** | 1 + 5 seg. |
+| **Item** | Grimórios |
+| **Pré-requisitos** | |
+| - Nenhum | |
+
+Permite ler Grimórios para memorizar magias.
+
+Magias memorizadas podem ser conjuradas através de [Lançar Magia](../Ofensiva/Lan%C3%A7ar%20Magia.md "Lançar Magia") no nível 1.
+
+Todos os [Arcanos](../../Classes/Arcanos.md "Arcanos") começam com zero [Pontos Mágicos](Estudo%20Arcano%20Avan%C3%A7ado.md "Estudo Arcano Avançado") até aprenderem a [Estudar](Estudo%20Arcano%20Avan%C3%A7ado.md "Estudo Arcano Avançado").
+
+| Tipo | Grimório | Pontos Mágicos |
+| --- | --- | --- |
+| Iniciante | |  |  | | --- | --- | | ![100065.png](https://static.divine-pride.net/images/items/item/100065.png) | [Grimório (Nevasca)](http://www.divine-pride.net/database/item/100065/) | | 10 |
+| |  |  | | --- | --- | | ![100066.png](https://static.divine-pride.net/images/items/item/100066.png) | [Grimório (Ira de Thor)](http://www.divine-pride.net/database/item/100066/) | | 10 |
+| |  |  | | --- | --- | | ![100067.png](https://static.divine-pride.net/images/items/item/100067.png) | [Grimório (Chuva de Meteoros)](http://www.divine-pride.net/database/item/100067/) | | 10 |
+| Intermediário | |  |  | | --- | --- | | ![100068.png](https://static.divine-pride.net/images/items/item/100068.png) | [Grimório (Drenar Vida)](http://www.divine-pride.net/database/item/100068/) | | 8 |
+| |  |  | | --- | --- | | ![100069.png](https://static.divine-pride.net/images/items/item/100069.png) | [Grimório (Esquife de Gelo)](http://www.divine-pride.net/database/item/100069/) | | 12 |
+| |  |  | | --- | --- | | ![100070.png](https://static.divine-pride.net/images/items/item/100070.png) | [Grimório (Abalo Sísmico)](http://www.divine-pride.net/database/item/100070/) | | 12 |
+| |  |  | | --- | --- | | ![100071.png](https://static.divine-pride.net/images/items/item/100071.png) | [Grimório (Meteoro Escarlate)](http://www.divine-pride.net/database/item/100071/) | | 12 |
+| |  |  | | --- | --- | | ![100072.png](https://static.divine-pride.net/images/items/item/100072.png) | [Grimório (Corrente Elétrica)](http://www.divine-pride.net/database/item/100072/) | | 12 |
+| Avançado | |  |  | | --- | --- | | ![100073.png](https://static.divine-pride.net/images/items/item/100073.png) | [Grimório (Cometa)](http://www.divine-pride.net/database/item/100073/) | | 22 |
+| |  |  | | --- | --- | | ![100074.png](https://static.divine-pride.net/images/items/item/100074.png) | [Grimório (Tetra Vortex)](http://www.divine-pride.net/database/item/100074/) | | 22 |
+
+### Fórmula
+
+`Pontos Mágicos = (Nv. de Estudo Arcano Avançado × 8) + (Nv. de Base ÷ 10) + (INT total ÷ 10)`
+
+## Notas
+
+- Grimórios não somem quando usados.
+- Você precisa ter pelo menos 1 ponto em [Estudo Arcano Avançado](Estudo%20Arcano%20Avan%C3%A7ado.md "Estudo Arcano Avançado") para memorizar.
+- Você só pode ter o máximo de 7 magias memorizadas.
+- Usar grimórios de magias não aprendidas ou não ter aprendido a memorizar, fará com que você caia no [sono](../../Redirecionamentos/Sono.md "Sono").
+- Ao lançar uma magia, o [SP](../../Redirecionamentos/SP.md "SP") da magia será gasto normalmente.
+- Se não houver [SP](../../Redirecionamentos/SP.md "SP") para usar magia, a memorização acaba.
+- Magias memorizadas ainda precisam atender aos seus requisitos.
+- É possível memorizar e disparar múltiplas magias desde que o usuário tenha Pontos Mágicos o suficiente e não ultrapasse o limite de 7 magias.
+- Os grimórios são adquiridos com a [Lea na Guilda dos Magos](../../Classes/Guias/Novas%20habilidades-%20Magos%20e%20evolu%C3%A7%C3%B5es.md#Grimórios_Definitivos "Novas habilidades: Magos e evoluções") (geffen\_in 175,112)
+
+| *O Poder dos Elementos* | |
+| --- | --- |
+| |  |  | | --- | --- | | [![Magospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/09/Magospartyicn.png)](../../Classes/Magos.md "Magos") | [Magos](../../Classes/Magos.md "Magos") | | [Ataque Espiritual](../Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../Especiais/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../Especiais/Petrificar.md "Petrificar") · [Proteção Arcana](../Suporte/Prote%C3%A7%C3%A3o%20Arcana.md "Proteção Arcana") · [Rajada Congelante](../Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") |
+| |  |  | | --- | --- | | [![Bruxospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fc/Bruxospartyicn.png)](../../Classes/Bruxos.md "Bruxos") | [Bruxos](../../Classes/Bruxos.md "Bruxos") | | [Barreira de Gelo](../Especiais/Barreira%20de%20Gelo.md "Barreira de Gelo") · [Chuva de Meteoros](../Ofensiva/Chuva%20de%20Meteoros.md "Chuva de Meteoros") · [Coluna de Fogo](../Ofensiva/Coluna%20de%20Fogo.md "Coluna de Fogo") · [Coluna de Pedra](../Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") · [Congelar](../Ofensiva/Congelar.md "Congelar") · [Esfera d'Água](../Ofensiva/Esfera%20d%27%C3%81gua.md "Esfera d'Água") · *[Explosão Protetora](../Ofensiva/Explos%C3%A3o%20Protetora.md "Explosão Protetora")* · [Fúria da Terra](../Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") · [Ira de Thor](../Ofensiva/Ira%20de%20Thor.md "Ira de Thor") · [Nevasca](../Ofensiva/Nevasca.md "Nevasca") · [Pântano dos Mortos](../Especiais/P%C3%A2ntano%20dos%20Mortos.md "Pântano dos Mortos") · [Sentido Sobrenatural](../Especiais/Sentido%20Sobrenatural.md "Sentido Sobrenatural") · [Supernova](../Ofensiva/Supernova.md "Supernova") · [Trovão de Júpiter](../Ofensiva/Trov%C3%A3o%20de%20J%C3%BApiter.md "Trovão de Júpiter") |
+| |  |  | | --- | --- | | [![Arquimagospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1c/Arquimagospartyicn.png)](../../Classes/Arquimagos.md "Arquimagos") | [Arquimagos](../../Classes/Arquimagos.md "Arquimagos") | | [Amplificação Mística](../Suporte/Amplifica%C3%A7%C3%A3o%20M%C3%ADstica.md "Amplificação Mística") · [Campo Gravitacional](../Ofensiva/Campo%20Gravitacional.md "Campo Gravitacional") · [Dreno de Alma](Dreno%20de%20Alma.md "Dreno de Alma") · [Esmagamento Mágico](../Ofensiva/Esmagamento%20M%C3%A1gico.md "Esmagamento Mágico") · [Ganbantein](../Especiais/Ganbantein.md "Ganbantein") · [Vulcão Napalm](../Ofensiva/Vulc%C3%A3o%20Napalm.md "Vulcão Napalm") |
+| |  |  | | --- | --- | | [![Arcanospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Arcanospartyicn.png)](../../Classes/Arcanos.md "Arcanos") | [Arcanos](../../Classes/Arcanos.md "Arcanos") | | [Abalo Sísmico](../Ofensiva/Abalo%20S%C3%ADsmico.md "Abalo Sísmico") · [Chamas de Hela](../Ofensiva/Chamas%20de%20Hela.md "Chamas de Hela") · [Cometa](../Ofensiva/Cometa.md "Cometa") · [Corrente Elétrica](../Ofensiva/Corrente%20El%C3%A9trica.md "Corrente Elétrica") · [Drenar Vida](../Ofensiva/Drenar%20Vida.md "Drenar Vida") · [Esquife de Gelo](../Ofensiva/Esquife%20de%20Gelo.md "Esquife de Gelo") · [Estudo Arcano Avançado](Estudo%20Arcano%20Avan%C3%A7ado.md "Estudo Arcano Avançado") · [Exílio](../Especiais/Ex%C3%ADlio.md "Exílio") · [Fúria da Medusa](../Especiais/F%C3%BAria%20da%20Medusa.md "Fúria da Medusa") · [Impacto Espiritual](../Ofensiva/Impacto%20Espiritual.md "Impacto Espiritual") · [Invocar Esfera de Água](../Especiais/Invocar%20Esfera%20de%20%C3%81gua.md "Invocar Esfera de Água") · [Invocar Esfera de Fogo](../Especiais/Invocar%20Esfera%20de%20Fogo.md "Invocar Esfera de Fogo") · [Invocar Esfera de Terra](../Especiais/Invocar%20Esfera%20de%20Terra.md "Invocar Esfera de Terra") · [Invocar Esfera de Vento](../Especiais/Invocar%20Esfera%20de%20Vento.md "Invocar Esfera de Vento") · [Lançar Magia](../Ofensiva/Lan%C3%A7ar%20Magia.md "Lançar Magia") · [Maestria Arcana](../Suporte/Maestria%20Arcana.md "Maestria Arcana") · *[Maximizar Poder](../Suporte/Maximizar%20Poder.md "Maximizar Poder")* · Memorizar · [Meteoro Escarlate](../Ofensiva/Meteoro%20Escarlate.md "Meteoro Escarlate") · [Pântano de Nifflheim](../Especiais/P%C3%A2ntano%20de%20Nifflheim.md "Pântano de Nifflheim") · [Radius](Radius.md "Radius") · [Stasis](../Especiais/Stasis.md "Stasis") · [Telecinesia](../Suporte/Telecinesia.md "Telecinesia") · [Tetra Vortex](../Ofensiva/Tetra%20Vortex.md "Tetra Vortex") · [Zero Absoluto](../Ofensiva/Zero%20Absoluto.md "Zero Absoluto") |
+| |  |  | | --- | --- | | [![Maguspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/Maguspartyicn.png)](../../Classes/Magus.md "Magus") | [Magus](../../Classes/Magus.md "Magus") | | [Cacos de Gelo](../Ofensiva/Cacos%20de%20Gelo.md "Cacos de Gelo") · [Cascata de Cristal](../Ofensiva/Cascata%20de%20Cristal.md "Cascata de Cristal") · [Ciclone](../Ofensiva/Ciclone.md "Ciclone") · [Colisão Astral](../Ofensiva/Colis%C3%A3o%20Astral.md "Colisão Astral") · [Deslize de Pedras](../Ofensiva/Deslize%20de%20Pedras.md "Deslize de Pedras") · [Espíritos Ancestrais](../Ofensiva/Esp%C3%ADritos%20Ancestrais.md "Espíritos Ancestrais") · [Flecha Escarlate](../Ofensiva/Flecha%20Escarlate.md "Flecha Escarlate") · [Florescer](../Ofensiva/Florescer.md "Florescer") · [Gelo Cortante](../Ofensiva/Gelo%20Cortante.md "Gelo Cortante") · [Lufada de Vento](../Ofensiva/Lufada%20de%20Vento.md "Lufada de Vento") · [Perícia com Cajado de Duas Mãos](Per%C3%ADcia%20com%20Cajado%20de%20Duas%20M%C3%A3os.md "Perícia com Cajado de Duas Mãos") · [Pilares de Pedra](../Ofensiva/Pilares%20de%20Pedra.md "Pilares de Pedra") · [Portal do Submundo](../Ofensiva/Portal%20do%20Submundo.md "Portal do Submundo") · [Potencializar Magia](../Suporte/Potencializar%20Magia.md "Potencializar Magia") · [Projeção Maldita](../Ofensiva/Proje%C3%A7%C3%A3o%20Maldita.md "Projeção Maldita") · [Stratum Tremor](../Ofensiva/Stratum%20Tremor.md "Stratum Tremor") · [Tufão Destrutivo](../Ofensiva/Tuf%C3%A3o%20Destrutivo.md "Tufão Destrutivo") · [Vereda Floral Incandescente](../Ofensiva/Vereda%20Floral%20Incandescente.md "Vereda Floral Incandescente") |
+| [Quests](../../Quests/Gerais/Quests.md "Quests") | [Novas habilidades](../../Classes/Guias/Novas%20habilidades-%20Magos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Magos e evoluções") · [Mudança de Classe: Bruxos](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Bruxos.md "Mudança de Classe: Bruxos") · [Mudança de Classe: Arcanos](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Arcanos.md "Mudança de Classe: Arcanos") · [Mudança de Classe: Magus](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Magus.md "Mudança de Classe: Magus") |
+
+---
+*Categorias: Passiva, Habilidades com itens, O Poder dos Elementos*  
+*Importado da [bROWiki](https://browiki.org/wiki/Memorizar) — revisão 46505*

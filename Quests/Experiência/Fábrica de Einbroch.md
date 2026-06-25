@@ -1,0 +1,61 @@
+# Fábrica de Einbroch
+
+# Fábrica de Einbroch
+
+| ![EP ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/EP_ico.png) Fábrica de Einbroch | |
+| --- | --- |
+| Fiscalize uma antiga fábrica com problemas técnicos para relatar ao chefe. | |
+| Requisitos mínimos | |
+| **Nv. de base** | Nenhum |
+| **Tipo** | Episódio |
+| **[Itens](../../Itens/Itens.md "Itens")** | ![7325.png](https://static.divine-pride.net/images/items/item/7325.png) 20 [Tubos Flexíveis](http://www.divine-pride.net/database/item/7325/)  ![7319.png](https://static.divine-pride.net/images/items/item/7319.png) 10 [Placas de Ferro Usadas](http://www.divine-pride.net/database/item/7319/)  ![7317.png](https://static.divine-pride.net/images/items/item/7317.png) 10 [Parafusos Enferrujados](http://www.divine-pride.net/database/item/7317/) |
+| Premiação | |
+| **[EXP base](../../Redirecionamentos/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | Ver tabela |
+
+1. Siga até Zelmeto (ein\_in01 67,242)
+
+   :   ![Fábrica de Einbroch01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b0/F%C3%A1brica_de_Einbroch01.png)
+
+   - Selecione as opções:
+     - *Vocês estão com falta de empregados?*
+     - *Eu posso te ajudar.*
+2. O [NPC](../../Redirecionamentos/NPC.md "NPC") pedirá que você informe a situação de diversos objetos espalhados na Fábrica. Observe o mapa abaixo para saber as coordenadas de cada uma delas.
+
+   :   ![Fábrica de Einbrochmapa](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/46/F%C3%A1brica_de_Einbrochmapa.png)
+
+   - Sempre que interagir com uma máquina, reporte a situação a Zelmeto.
+   1. Segundo Painel de Controle (ein\_in01 49,232)
+   2. Reguladores de Pressão Automáticos (ein\_in01 108,217)
+   3. Painel de Controle (ein\_in01 62,258)
+   4. Esteira (ein\_in01 46,197)
+   5. Canos (ein\_in01 100,266)
+   6. Esteira Grande (ein\_in01 95,239)
+3. Fale com Liotzburg (einbroch 132,84)
+
+   :   ![Fábrica de Einbroch02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/53/F%C3%A1brica_de_Einbroch02.png)
+4. Entregue os itens a Zelmeto para receber sua recompensa.
+
+:   :   | Nv. | [EXP](../../Redirecionamentos/EXP.md "EXP") |
+        | --- | --- |
+        | 1-41 | 61 |
+        | 41-50 | 307 |
+        | 51-60 | 660 |
+        | 61-70 | 1.850 |
+        | 71-80 | 3.206 |
+        | 81-90 | 7.602 |
+        | 91-99 | 29.067 |
+        | 100+ | 0 |
+
+![Saga1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Saga1.png)
+
+| Parte I | | Parte II | | Parte III | | Parte IV | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Inspeção no Templo de Odin](Inspe%C3%A7%C3%A3o%20no%20Templo%20de%20Odin.md "Inspeção no Templo de Odin") | | | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Rebelião](A%20Rebeli%C3%A3o.md "A Rebelião") | | |
+| Fábrica de Einbroch | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Propriedade Maldita](Propriedade%20Maldita.md "Propriedade Maldita") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [O Presidente](O%20Presidente.md "O Presidente") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| [Infiltrando na Rekenber](../../Calabou%C3%A7os%20e%20Inst%C3%A2ncias/Infiltrando%20na%20Rekenber.md "Infiltrando na Rekenber") | | | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [A Empresa](A%20Empresa.md "A Empresa") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) |
+| ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Rumores Sérios](../../Calabou%C3%A7os%20e%20Inst%C3%A2ncias/Rumores%20S%C3%A9rios.md "Rumores Sérios") | ![SetaVermelha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/0f/SetaVermelha.png) | [Laboratório de Wolfchev](../../Calabou%C3%A7os%20e%20Inst%C3%A2ncias/Laborat%C3%B3rio%20de%20Wolfchev.md "Laboratório de Wolfchev") |
+| [Contador de Histórias](../Gerais/Contador%20de%20Hist%C3%B3rias.md "Contador de Histórias") | | |
+
+---
+*Categorias: Páginas com aviso, Quests de experiência, Quest*  
+*Importado da [bROWiki](https://browiki.org/wiki/F%C3%A1brica_de_Einbroch) — revisão 28082*

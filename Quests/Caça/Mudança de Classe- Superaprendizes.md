@@ -1,0 +1,77 @@
+# Mudança de Classe: Superaprendizes
+
+# Mudança de Classe: Superaprendizes
+
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Superaprendizes | |
+| --- | --- |
+| Requisitos mínimos | |
+| **Nv. de base** | 45 |
+| **Nv. de classe** | 10 |
+| **Tipo** | Classe |
+| **Classe** | [Aprendiz](../../Redirecionamentos/Aprendiz.md "Aprendiz") |
+| **[Itens](../../Itens/Itens.md "Itens")** | ![938.png](https://static.divine-pride.net/images/items/item/938.png) 30 [Mucos Pegajosos](http://www.divine-pride.net/database/item/938/)  ![907.png](https://static.divine-pride.net/images/items/item/907.png) 30 [Resinas](http://www.divine-pride.net/database/item/907/) |
+| Premiação | |
+| **[Itens](../../Itens/Itens.md "Itens")** | ![2339.png](https://static.divine-pride.net/images/items/item/2339.png) 1 [Roupa de Baixo](http://www.divine-pride.net/database/item/2339/) |
+| **Recompensa** | Muda a classe para [Superaprendiz](../../Redirecionamentos/Superaprendiz.md "Superaprendiz") |
+
+1. Fale com Tzerero (aldeba\_in 223,167)
+
+   :   ![Tzerero](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/19/Tzerero.png)
+2. Entregue 30 [Mucos Pegajosos](http://www.divine-pride.net/database/item/938/) e [Resinas](http://www.divine-pride.net/database/item/907/) a ele para mudar de classe.
+   - Selecione a opção "*Hã?*" para garantir que você não perca os [itens](../../Itens/Itens.md "Itens").
+   - Você receberá 1 [Roupa de Baixo](http://www.divine-pride.net/database/item/2339/).
+
+## Mudança de Classe: Superaprendizes EX
+
+| ![JQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/JQ_ico.png) Mudança de Classe: Superaprendizes | |
+| --- | --- |
+| Requisitos mínimos | |
+| **Nv. de base** | 99 |
+| **Nv. de classe** | 99 |
+| **Tipo** | Classe |
+| **Classe** | [Superaprendiz](../../Redirecionamentos/Superaprendiz.md "Superaprendiz") |
+| **Caça** | 1.000 monstros |
+| **[Zeny](../../Redirecionamentos/Zeny.md "Zeny")** | 100.000 |
+| Premiação | |
+| **[Itens](../../Itens/Itens.md "Itens")** | 1 [Equipamento](../../Redirecionamentos/Equipamento.md "Equipamento") aleatório |
+| **Recompensa** | Muda a classe para [Superaprendiz EX](../../Redirecionamentos/Superaprendiz%20EX.md "Superaprendiz EX") |
+
+1. Converse com Essrei (aldeba\_in 222,167)
+
+   :   [![Essrei](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/af/Essrei.png)](https://browiki.org/wiki/Arquivo%3AEssrei.png)
+2. Encontre o Aprendiz Pescador (beach\_dun2 119,92)
+
+   :   [![Aprendiz pescador](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/f9/Aprendiz_pescador.png)](https://browiki.org/wiki/Arquivo%3AAprendiz_pescador.png)
+
+   - Seu objetivo é eliminar os monstros pedidos pelo [NPC](../../Redirecionamentos/NPC.md "NPC"):
+     - 1.000 [Porings](http://www.divine-pride.net/database/monster/1002/) ou
+     - 1.000 [Lunáticos](http://www.divine-pride.net/database/monster/1063/) ou
+     - 1.000 [Fabres](http://www.divine-pride.net/database/monster/1007/) ou
+     - 1.000 [Pickys](http://www.divine-pride.net/database/monster/1049/)
+3. Retorne ao Aprendiz Pescador (beach\_dun2 119,92)
+   - Após uma breve conversa, aguarde alguns minutos e fale novamente com ele até ele citar o irmão, que está no aeroplano de [Izlude](../../Lugares/Izlude.md "Izlude").
+4. No [aeroplano](../../Redirecionamentos/Aeroplano.md "Aeroplano") de voos domésticos, doe qualquer uma das 3 quantias de [zenys](../../Redirecionamentos/Zenys.md "Zenys") a Nudor (airplane 33,47).
+
+   :   [![Nudor](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/02/Nudor.png)](https://browiki.org/wiki/Arquivo%3ANudor.png)
+5. Retorne ao Aprendiz Pescador (beach\_dun2 119,92) para mudar de classe.
+6. Fale mais uma vez com o Aprendiz Pescador, você deverá receber equipamentos de acordo com a quantia doada.
+
+:   :   | Zeny doado | Equip. dado |
+        | --- | --- |
+        | 100.000 z | ![2340.png](https://static.divine-pride.net/images/items/item/2340.png) [Armadura de Aprendiz](http://www.divine-pride.net/database/item/2340/) |
+        | 300.000 z | ![2522.png](https://static.divine-pride.net/images/items/item/2522.png) [Camiseta](http://www.divine-pride.net/database/item/2522/) |
+        | 1.000.000 z | ![2340.png](https://static.divine-pride.net/images/items/item/2340.png) [Armadura de Aprendiz](http://www.divine-pride.net/database/item/2340/) ![2113.png](https://static.divine-pride.net/images/items/item/2113.png) [Escudo do Aprendiz](http://www.divine-pride.net/database/item/2113/) ![2416.png](https://static.divine-pride.net/images/items/item/2416.png) [Sapatos do Aprendiz](http://www.divine-pride.net/database/item/2416/) ![2512.png](https://static.divine-pride.net/images/items/item/2512.png) [Manteau do Aprendiz](http://www.divine-pride.net/database/item/2512/) ![2628.png](https://static.divine-pride.net/images/items/item/2628.png) [Bracelete de Aprendiz](http://www.divine-pride.net/database/item/2628/) ![5119.png](https://static.divine-pride.net/images/items/item/5119.png) [Chapéu do Superaprendiz](http://www.divine-pride.net/database/item/5119/) [1] |
+
+- Ao chegar no nível 100, pegue sua *[Caixa Inicial](../../Redirecionamentos/Conquista.md "Conquista")* para ajudar na sua nova jornada.
+
+| *O Eterno Aprendizado* | | |
+| --- | --- | --- |
+| |  |  | | --- | --- | | [![Aprendizespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/97/Aprendizespartyicn.png)](../../Classes/Aprendizes.md "Aprendizes") | [Aprendizes](../../Classes/Aprendizes.md "Aprendizes") | | [Habilidades Básicas](../../Habilidades/Passiva/Habilidades%20B%C3%A1sicas.md "Habilidades Básicas") · [Fingir de Morto](../../Habilidades/Especiais/Fingir%20de%20Morto.md "Fingir de Morto") · [Primeiros Socorros](../../Habilidades/Suporte/Primeiros%20Socorros.md "Primeiros Socorros") |
+| |  |  | | --- | --- | | [![Superaprendizespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/Superaprendizespartyicn.png)](../../Classes/Superaprendizes.md "Superaprendizes") | [Superaprendizes](../../Classes/Superaprendizes.md "Superaprendizes") | | [Angelus](../../Habilidades/Suporte/Angelus.md "Angelus") · [Aqua Benedicta](../../Habilidades/Especiais/Aqua%20Benedicta.md "Aqua Benedicta") · [Aumentar Agilidade](../../Habilidades/Suporte/Aumentar%20Agilidade.md "Aumentar Agilidade") · [Bênção](../../Habilidades/Suporte/B%C3%AAn%C3%A7%C3%A3o.md "Bênção") · [Curar](../../Habilidades/Suporte/Curar.md "Curar") · [Diminuir Agilidade](../../Habilidades/Suporte/Diminuir%20Agilidade.md "Diminuir Agilidade") · [Escudo Sagrado](../../Habilidades/Suporte/Escudo%20Sagrado.md "Escudo Sagrado") · [Flagelo do Mal](../../Habilidades/Passiva/Flagelo%20do%20Mal.md "Flagelo do Mal") · [Medicar](../../Habilidades/Suporte/Medicar.md "Medicar") · [Portal](../../Habilidades/Especiais/Portal.md "Portal") · [Proteção Divina](../../Habilidades/Passiva/Prote%C3%A7%C3%A3o%20Divina.md "Proteção Divina") · [Revelação](../../Habilidades/Ofensiva/Revela%C3%A7%C3%A3o.md "Revelação") · [Signum Crucis](../../Habilidades/Suporte/Signum%20Crucis.md "Signum Crucis") · [Teleporte](../../Habilidades/Especiais/Teleporte.md "Teleporte")    ---   [Concentrar](../../Habilidades/Suporte/Concentrar.md "Concentrar") · [Olhos de Águia](../../Habilidades/Passiva/Olhos%20de%20%C3%81guia.md "Olhos de Águia") · [Olhos de Coruja](../../Habilidades/Passiva/Olhos%20de%20Coruja.md "Olhos de Coruja")   ---   [Aumentar Capacidade de Carga](../../Habilidades/Passiva/Aumentar%20Capacidade%20de%20Carga.md "Aumentar Capacidade de Carga") · [Comércio](../../Habilidades/Especiais/Com%C3%A9rcio.md "Comércio") · [Desconto](../../Habilidades/Passiva/Desconto.md "Desconto") · [Identificar Item](../../Habilidades/Especiais/Identificar%20Item.md "Identificar Item") · [Mammonita](../../Habilidades/Ofensiva/Mammonita.md "Mammonita") · [Superfaturar](../../Habilidades/Passiva/Superfaturar.md "Superfaturar") · [Usar Carrinho](../../Habilidades/Passiva/Usar%20Carrinho.md "Usar Carrinho")   ---   [Aumentar Recuperação de HP](../../Habilidades/Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20HP.md "Aumentar Recuperação de HP") · [Golpe Fulminante](../../Habilidades/Ofensiva/Golpe%20Fulminante.md "Golpe Fulminante") · [Impacto Explosivo](../../Habilidades/Ofensiva/Impacto%20Explosivo.md "Impacto Explosivo") · [Perícia com Espada](../../Habilidades/Passiva/Per%C3%ADcia%20com%20Espada.md "Perícia com Espada") · [Provocar](../../Habilidades/Especiais/Provocar.md "Provocar") · [Vigor](../../Habilidades/Suporte/Vigor.md "Vigor")   ---   [Desintoxicar](../../Habilidades/Suporte/Desintoxicar.md "Desintoxicar") · [Envenenar](../../Habilidades/Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../../Habilidades/Especiais/Esconderijo.md "Esconderijo") · [Furto](../../Habilidades/Especiais/Furto.md "Furto") · [Perícia em Esquiva](../../Habilidades/Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva")   ---   [Ataque Espiritual](../../Habilidades/Ofensiva/Ataque%20Espiritual.md "Ataque Espiritual") · [Aumentar Recuperação de SP](../../Habilidades/Passiva/Aumentar%20Recupera%C3%A7%C3%A3o%20de%20SP.md "Aumentar Recuperação de SP") · [Barreira de Fogo](../../Habilidades/Ofensiva/Barreira%20de%20Fogo.md "Barreira de Fogo") · [Bolas de Fogo](../../Habilidades/Ofensiva/Bolas%20de%20Fogo.md "Bolas de Fogo") · [Chama Reveladora](../../Habilidades/Especiais/Chama%20Reveladora.md "Chama Reveladora") · [Escudo Mágico](../../Habilidades/Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") · [Espíritos Anciões](../../Habilidades/Ofensiva/Esp%C3%ADritos%20Anci%C3%B5es.md "Espíritos Anciões") · [Lanças de Fogo](../../Habilidades/Ofensiva/Lan%C3%A7as%20de%20Fogo.md "Lanças de Fogo") · [Lanças de Gelo](../../Habilidades/Ofensiva/Lan%C3%A7as%20de%20Gelo.md "Lanças de Gelo") · [Petrificar](../../Habilidades/Especiais/Petrificar.md "Petrificar") · [Rajada Congelante](../../Habilidades/Ofensiva/Rajada%20Congelante.md "Rajada Congelante") · [Relâmpago](../../Habilidades/Ofensiva/Rel%C3%A2mpago.md "Relâmpago") · [Tempestade de Raios](../../Habilidades/Ofensiva/Tempestade%20de%20Raios.md "Tempestade de Raios") |
+| |  |  | | --- | --- | | [![Superaprendizes EXpartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/08/Superaprendizes_EXpartyicn.png)](../../Redirecionamentos/Superaprendizes%20EX.md "Superaprendizes EX") | [Superaprendizes EX](../../Redirecionamentos/Superaprendizes%20EX.md "Superaprendizes EX") | | **[Ajuda Angelical](../../Habilidades/Suporte/Ajuda%20Angelical.md "Ajuda Angelical") · [Crescimento](../../Habilidades/Passiva/Crescimento.md "Crescimento") · [Transcendência](../../Habilidades/Passiva/Transcend%C3%AAncia.md "Transcendência")**   ---   [Crux Divinum](../../Habilidades/Ofensiva/Crux%20Divinum.md "Crux Divinum") · [Fé](../../Habilidades/Passiva/F%C3%A9.md "Fé") · [Envenenar Arma](../../Habilidades/Suporte/Envenenar%20Arma.md "Envenenar Arma") · [Túnel de Fuga](../../Habilidades/Passiva/T%C3%BAnel%20de%20Fuga.md "Túnel de Fuga") · [Perícia com Machado e Espada](../../Habilidades/Passiva/Per%C3%ADcia%20com%20Machado%20e%20Espada.md "Perícia com Machado e Espada") · [Perícia em Armamento](../../Habilidades/Passiva/Per%C3%ADcia%20em%20Armamento.md "Perícia em Armamento") · [Punho Firme](../../Habilidades/Passiva/Punho%20Firme.md "Punho Firme") · [Bloqueio](../../Habilidades/Suporte/Bloqueio.md "Bloqueio") · [Punição Divina](../../Habilidades/Ofensiva/Puni%C3%A7%C3%A3o%20Divina.md "Punição Divina") · [Escudo Bumerangue](../../Habilidades/Ofensiva/Escudo%20Bumerangue.md "Escudo Bumerangue")   ---   [Absorver Esferas Espirituais](../../Habilidades/Suporte/Absorver%20Esferas%20Espirituais.md "Absorver Esferas Espirituais") · [Glória](../../Habilidades/Suporte/Gl%C3%B3ria.md "Glória") · [Graça Divina](../../Habilidades/Suporte/Gra%C3%A7a%20Divina.md "Graça Divina") · [Impositio Manus](../../Habilidades/Suporte/Impositio%20Manus.md "Impositio Manus") · [Invocar Esfera Espiritual](../../Habilidades/Suporte/Invocar%20Esfera%20Espiritual.md "Invocar Esfera Espiritual") · [Punhos de Ferro](../../Habilidades/Passiva/Punhos%20de%20Ferro.md "Punhos de Ferro") · [Santuário](../../Habilidades/Suporte/Santu%C3%A1rio.md "Santuário") · [Aspersio](../../Habilidades/Suporte/Aspersio.md "Aspersio") · [Magnificat](../../Habilidades/Suporte/Magnificat.md "Magnificat") · [Fúria Interior](../../Habilidades/Suporte/F%C3%BAria%20Interior.md "Fúria Interior") · [Zen](../../Habilidades/Especiais/Zen.md "Zen")   ---   [Armadilha Atordoante](../../Habilidades/Ofensiva/Armadilha%20Atordoante.md "Armadilha Atordoante") · [Armadilha Escorregadia](../../Habilidades/Especiais/Armadilha%20Escorregadia.md "Armadilha Escorregadia") · [Flagelo das Feras](../../Habilidades/Passiva/Flagelo%20das%20Feras.md "Flagelo das Feras") · [Consertar Armas](../../Habilidades/Especiais/Consertar%20Armas.md "Consertar Armas") · [Refletir Veneno](../../Habilidades/Especiais/Refletir%20Veneno.md "Refletir Veneno") · [Névoa Tóxica](../../Habilidades/Especiais/N%C3%A9voa%20T%C3%B3xica.md "Névoa Tóxica") · [Explosão Tóxica](../../Habilidades/Ofensiva/Explos%C3%A3o%20T%C3%B3xica.md "Explosão Tóxica") · [Mãos Leves](../../Habilidades/Passiva/M%C3%A3os%20Leves.md "Mãos Leves") · [Afanar](../../Habilidades/Especiais/Afanar.md "Afanar") · [Apunhalar](../../Habilidades/Ofensiva/Apunhalar.md "Apunhalar") · [Ataque Surpresa](../../Habilidades/Ofensiva/Ataque%20Surpresa.md "Ataque Surpresa")   ---   [Barreira de Gelo](../../Habilidades/Especiais/Barreira%20de%20Gelo.md "Barreira de Gelo") · [Coluna de Fogo](../../Habilidades/Ofensiva/Coluna%20de%20Fogo.md "Coluna de Fogo") · [Coluna de Pedra](../../Habilidades/Ofensiva/Coluna%20de%20Pedra.md "Coluna de Pedra") · [Congelar](../../Habilidades/Ofensiva/Congelar.md "Congelar") · [Esfera d'Água](../../Habilidades/Ofensiva/Esfera%20d%27%C3%81gua.md "Esfera d'Água") · [Esmagamento Mágico](../../Habilidades/Ofensiva/Esmagamento%20M%C3%A1gico.md "Esmagamento Mágico") · [Fúria da Terra](../../Habilidades/Ofensiva/F%C3%BAria%20da%20Terra.md "Fúria da Terra") · [Pântano dos Mortos](../../Habilidades/Especiais/P%C3%A2ntano%20dos%20Mortos.md "Pântano dos Mortos") · [Sentido Sobrenatural](../../Habilidades/Especiais/Sentido%20Sobrenatural.md "Sentido Sobrenatural") · [Supernova](../../Habilidades/Ofensiva/Supernova.md "Supernova") · [Trovão de Júpiter](../../Habilidades/Ofensiva/Trov%C3%A3o%20de%20J%C3%BApiter.md "Trovão de Júpiter") · [Nevasca](../../Habilidades/Ofensiva/Nevasca.md "Nevasca") · [Ira de Thor](../../Habilidades/Ofensiva/Ira%20de%20Thor.md "Ira de Thor") · [Chuva de Meteoros](../../Habilidades/Ofensiva/Chuva%20de%20Meteoros.md "Chuva de Meteoros") | |
+| Hypernovice | Físico Autodidata · Golpe de Tyr · Choque Violento · Lâminas Devastadoras · Furar em Espiral · Anjo da Prosperidade Mágico Autodidata · Chuva de Meteoritos · Zona Gravitacional · Tempestade de Júpiter · Esquife Congelante · Ira da Terra · Espectro Napalm · Anjo da Libertação | |
+| [Quests](../Gerais/Quests.md "Quests") | [Primeiros Passos](../Experi%C3%AAncia/Primeiros%20Passos.md "Primeiros Passos") · Mudança de Classe: Superaprendizes · [Mudança de Classe: Superaprendizes Ex](../../Redirecionamentos/Mudan%C3%A7a%20de%20Classe-%20Superaprendizes%20Ex.md "Mudança de Classe: Superaprendizes Ex") | |
+
+---
+*Categorias: Quest, Quests de caça*  
+*Importado da [bROWiki](https://browiki.org/wiki/Mudan%C3%A7a_de_Classe%3A_Superaprendizes) — revisão 41024*

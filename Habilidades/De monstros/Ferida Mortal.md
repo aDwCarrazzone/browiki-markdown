@@ -1,0 +1,60 @@
+# Ferida Mortal
+
+# Ferida Mortal
+
+|  |  |
+| --- | --- |
+| **![NPC Skill Icon](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7f/NPC_Skill_Icon.png) Ferida Mortal** | |
+| ![Ferida Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/52/Ferida_Mortal.gif) | |
+| **ID:** | NPC\_WIDECRITICALWOUND (749) |
+| **Níveis:** | 10 |
+| **Exclusiva:** | Não |
+| **Alcance:** | 7 células |
+| **Efeito negativo:** | [Ferimento Crítico](../../Redirecionamentos/Ferimento%20Cr%C3%ADtico.md "Ferimento Crítico") |
+
+Desfere um golpe em área que inflige *Ferimento Crítico* por 30 segundos.
+
+| Nv. | Cura recebida | Área |
+| --- | --- | --- |
+| 1 | -20% | 5x5 células |
+| 2 | -40% | 11x11 células |
+| 3 | -60% | 17x17 células |
+| 4 | -80% | 23x23 células |
+| 5 | -100% | 29x29 células |
+| 6 | -20% |
+| 7 | -40% |
+| 8 | -60% |
+| 9 | -80% |
+| 10 | -100% | 5x5 células |
+
+### Ferimento Crítico
+
+- [Ícone](../../Redirecionamentos/%C3%8Dcone.md "Ícone"): ![I Ferimento Mortal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5f/I_Ferimento_Mortal.png)
+- Reduz a Cura recebida por [itens](../../Itens/Itens.md "Itens") e habilidades como [Curar](../Suporte/Curar.md "Curar") e [Santuário](../Suporte/Santu%C3%A1rio.md "Santuário").
+- Não afeta efeitos recuperam [HP](../../Redirecionamentos/HP.md "HP") em % como [Renovatio](../Suporte/Renovatio.md "Renovatio") e [carta Mosca Caçadora](http://www.divine-pride.net/database/item/4115/).
+- Itens que aumentam Cura Recebida reduzem o impacto do efeito.
+- Pode ser removido por [Gênese](../Especiais/G%C3%AAnese.md "Gênese") ou ao desconectar o personagem.
+
+## Notas
+
+- *Confira a lista de [monstros](../../Sistema%20e%20Mec%C3%A2nicas/Monstros.md "Monstros") que usam [Ferida Mortal](http://www.divine-pride.net/database/skill/749)*
+- Pode ser bloqueada por [Escudo Mágico](../Suporte/Escudo%20M%C3%A1gico.md "Escudo Mágico") se estiver 4 células próximo do alvo ou por [Escudo Sagrado](../Suporte/Escudo%20Sagrado.md "Escudo Sagrado") se estiver distante 5 células em diante.
+- De acordo com a desenvolvedora, a área de efeito retorna aos 5x5 células no nível 10.
+- Itens relacionados:
+  - ![480812.png](https://static.divine-pride.net/images/items/item/480812.png) [Manto Branco Físico](http://www.divine-pride.net/database/item/480812/)
+  - ![31023.png](https://static.divine-pride.net/images/items/item/31023.png) [Carta Celine Kimi](http://www.divine-pride.net/database/item/31023/)
+
+| *[Monstros](../../Sistema%20e%20Mec%C3%A2nicas/Monstros.md "Monstros") em [Ragnarök Online](../../Sistema%20e%20Mec%C3%A2nicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| Tipos | [Raças](../../Redirecionamentos/Ra%C3%A7as.md "Raças") · [Propriedade](../../Sistema%20e%20Mec%C3%A2nicas/Monstros.md#Propriedade "Monstros") · [Tamanho](../../Redirecionamentos/Tamanho.md "Tamanho") · [Mascotes](../../Sistema%20e%20Mec%C3%A2nicas/Mascotes.md "Mascotes") · [MVP](../../Sistema%20e%20Mec%C3%A2nicas/MVP.md "MVP") | |
+| [Habilidades](../Especiais/Habilidades.md "Habilidades") | Dano | [Ataque Crítico](Ataque%20Cr%C3%ADtico.md "Ataque Crítico") · [Ataque Guiado](Ataque%20Guiado.md "Ataque Guiado") · [Ataque Sombrio](Ataque%20Sombrio.md "Ataque Sombrio") · [Baforada](Baforada.md "Baforada") · [Bênção Maldita](B%C3%AAn%C3%A7%C3%A3o%20Maldita.md "Bênção Maldita") · [Crux Malignum](Crux%20Malignum.md "Crux Malignum") · [Explodir](Explodir.md "Explodir") · [Golpe Avassalador](Golpe%20Avassalador.md "Golpe Avassalador") · [Julgamento Infernal](Julgamento%20Infernal.md "Julgamento Infernal") · [Laser Rastreador](Laser%20Rastreador.md "Laser Rastreador") · [Sopro Sombrio](Sopro%20Sombrio.md "Sopro Sombrio") |
+| Bônus | [Anti Magia](Anti%20Magia.md "Anti Magia") · [Aumentar AGI](Aumentar%20AGI.md "Aumentar AGI") · [Corrente da Vida](Corrente%20da%20Vida.md "Corrente da Vida") · [Invencibilidade](Invencibilidade.md "Invencibilidade") · [Mudar de Elemento](Mudar%20de%20Elemento.md "Mudar de Elemento") · [Pele Rochosa](Pele%20Rochosa.md "Pele Rochosa") · [Resguarda](Resguarda.md "Resguarda") · [Reviver](Reviver.md "Reviver") |
+| [Efeitos negativos](../../Sistema%20e%20Mec%C3%A2nicas/Efeitos%20negativos.md "Efeitos negativos") | [Ataque Atordoante](Ataque%20Atordoante.md "Ataque Atordoante") · [Ataque Maldito](Ataque%20Maldito.md "Ataque Maldito") · [Ataque Silenciador](Ataque%20Silenciador.md "Ataque Silenciador") · [Ataque Sonífero](Ataque%20Son%C3%ADfero.md "Ataque Sonífero") · [Conjuração Lenta](Conjura%C3%A7%C3%A3o%20Lenta.md "Conjuração Lenta") · [Ferimento Mortal](Ferimento%20Mortal.md "Ferimento Mortal") · [Zumbificar](Zumbificar.md "Zumbificar") |
+| Área | [Atordoamento Titânico](Atordoamento%20Tit%C3%A2nico.md "Atordoamento Titânico") · [Avalanche](Avalanche.md "Avalanche") · [Beijo do Inverno](Beijo%20do%20Inverno.md "Beijo do Inverno") · [Combustão](Combust%C3%A3o.md "Combustão") · [Espírito dos Amaldiçoados](Esp%C3%ADrito%20dos%20Amaldi%C3%A7oados.md "Espírito dos Amaldiçoados") · Ferida Mortal · [Flecha do Cupido](Flecha%20do%20Cupido.md "Flecha do Cupido") · [Grande Geada](Grande%20Geada.md "Grande Geada") · [Grito Ameaçador](Grito%20Amea%C3%A7ador.md "Grito Ameaçador") · [Magia Malévola](Magia%20Mal%C3%A9vola.md "Magia Malévola") · [Neblina de Veneno](Neblina%20de%20Veneno.md "Neblina de Veneno") · [Olhar da Medusa](Olhar%20da%20Medusa.md "Olhar da Medusa") · [Sangria](Sangria.md "Sangria") · [Som do Silêncio](Som%20do%20Sil%C3%AAncio.md "Som do Silêncio") · [Sussurro de Morfeu](Sussurro%20de%20Morfeu.md "Sussurro de Morfeu") · [Terror Draconiano](Terror%20Draconiano.md "Terror Draconiano") · [Toque de Insanidade](Toque%20de%20Insanidade.md "Toque de Insanidade") |
+| Especiais | [Aliviar](Aliviar.md "Aliviar") · [Cetros do Mau-Olhado](Cetros%20do%20Mau-Olhado.md "Cetros do Mau-Olhado") · [Chuva Meteórica](Chuva%20Mete%C3%B3rica.md "Chuva Meteórica") · [Conversão de Dano](Convers%C3%A3o%20de%20Dano.md "Conversão de Dano") · [Dor Máxima](Dor%20M%C3%A1xima.md "Dor Máxima") · [Energizar](Energizar.md "Energizar") · [Gravidade Gradual](Gravidade%20Gradual.md "Gravidade Gradual") · [Imunidade Elemental](Imunidade%20Elemental.md "Imunidade Elemental") · [Invocar Escravos](Invocar%20Escravos.md "Invocar Escravos") · [Perda Total](Perda%20Total.md "Perda Total") · [Ruptura Terrestre](Ruptura%20Terrestre.md "Ruptura Terrestre") · [Terremoto](Terremoto.md "Terremoto") |
+| Outros | [Beijo do Vampiro](Beijo%20do%20Vampiro.md "Beijo do Vampiro") · [Campo de Teia](Campo%20de%20Teia.md "Campo de Teia") · [Deslocar](Deslocar.md "Deslocar") · [Drenar Mente](Drenar%20Mente.md "Drenar Mente") · [Drenar Sangue](Drenar%20Sangue.md "Drenar Sangue") · [Drenar SP](Drenar%20SP.md "Drenar SP") · [Falar](Falar.md "Falar") · [Fugir](Fugir.md "Fugir") · [Fumando](Fumando.md "Fumando") · [Lex Regio](Lex%20Regio.md "Lex Regio") · [Metamorfose](Metamorfose.md "Metamorfose") · [Parar](Parar.md "Parar") · [Poder Infernal](Poder%20Infernal.md "Poder Infernal") · [Puxar](Puxar.md "Puxar") · [Reflexão Mágica](Reflex%C3%A3o%20M%C3%A1gica.md "Reflexão Mágica") · [Suicídio](Suic%C3%ADdio.md "Suicídio") · [Terra Amaldiçoada](Terra%20Amaldi%C3%A7oada.md "Terra Amaldiçoada") · [Transformação Orc](Transforma%C3%A7%C3%A3o%20Orc.md "Transformação Orc") |
+| [Veja a lista das habilidades de monstros](Categoria-Habilidades de monstros.md "Categoria:Habilidades de monstros") | | |
+
+---
+*Categorias: Habilidades de monstros*  
+*Importado da [bROWiki](https://browiki.org/wiki/Ferida_Mortal) — revisão 44056*

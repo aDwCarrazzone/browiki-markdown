@@ -1,0 +1,59 @@
+# Carrasco Sombrio
+
+# Carrasco Sombrio
+
+|  |  |
+| --- | --- |
+| **![Carrasco Sombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/ba/Carrasco_Sombrio.png) Carrasco Sombrio** | |
+| [Arquivo:Carrasco Sombrio.gif](https://browiki.org/index.php?title=Especial:Carregar_arquivo&wpDestFile=Carrasco_Sombrio.gif "Arquivo:Carrasco Sombrio.gif") | |
+| **Shadow Exceed / Verdugo Sombrío** | |
+| **ID** | SHC\_SHADOW\_EXCEED (5285) |
+| **Tipo** | Suporte |
+| **Níveis** | 10 |
+| **[SP](../../Redirecionamentos/SP.md "SP")** | 100 |
+| **Custo de [AP](../../Redirecionamentos/AP.md "AP")** | **150** |
+| **[Conjuração](../../Redirecionamentos/Conjura%C3%A7%C3%A3o.md "Conjuração")** | 1 + 0 seg. |
+| **Pós-conjuração** | 1 segundo |
+| **Recarga** | 60 segundos |
+| **Duração** | [40 + (Nv. da hab. × 20)] segundos |
+| **Alvo** | Usuário |
+| **Ícone** | ![I Carrasco Sombrio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8a/I_Carrasco_Sombrio.png) |
+| **Pré-requisitos** | |
+| - [![Senso das Sombras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Senso_das_Sombras.png)](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") [Senso das Sombras](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") Nv. 7 - [![Profanar Arma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Profanar_Arma.png)](Profanar%20Arma.md "Profanar Arma") [Profanar Arma](Profanar%20Arma.md "Profanar Arma") Nv. 5 - [![Adulterar Veneno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/79/Adulterar_Veneno.png)](../Especiais/Adulterar%20Veneno.md "Adulterar Veneno") [Adulterar Veneno](../Especiais/Adulterar%20Veneno.md "Adulterar Veneno") Nv. 3 | |
+
+Invoca um Carrasco das Sombras, criando uma cópia fiel à sua imagem.
+
+Enquanto estiver vivo, aumenta o dano das seguintes habilidades:
+
+- [![Impacto Brutal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/74/Impacto_Brutal.png)](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal") [Impacto Brutal](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal")
+- [![Talho Eterno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ef/Talho_Eterno.png)](../Ofensiva/Talho%20Eterno.md "Talho Eterno") [Talho Eterno](../Ofensiva/Talho%20Eterno.md "Talho Eterno")
+
+| Nv. | Duração |
+| --- | --- |
+| 1 | 60 segundos |
+| 2 | 80 segundos |
+| 3 | 100 segundos |
+| 4 | 120 segundos |
+| 5 | 140 segundos |
+| 6 | 160 segundos |
+| 7 | 180 segundos |
+| 8 | 200 segundos |
+| 9 | 220 segundos |
+| 10 | 240 segundos |
+
+## Notas
+
+- Não pode ser cancelado por [Gênese](../Especiais/G%C3%AAnese.md "Gênese") ou [Desencantar](../Especiais/Desencantar.md "Desencantar").
+
+| *A Luz das Trevas* | |
+| --- | --- |
+| |  |  | | --- | --- | | [![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png)](../../Classes/Gatunos.md "Gatunos") | [Gatunos](../../Classes/Gatunos.md "Gatunos") | | [Arremessar Pedra](../Ofensiva/Arremessar%20Pedra.md "Arremessar Pedra") · [Ataque Duplo](../Passiva/Ataque%20Duplo.md "Ataque Duplo") · [Chutar Areia](../Ofensiva/Chutar%20Areia.md "Chutar Areia") · [Desintoxicar](Desintoxicar.md "Desintoxicar") · [Envenenar](../Ofensiva/Envenenar.md "Envenenar") · [Esconderijo](../Especiais/Esconderijo.md "Esconderijo") · [Furto](../Especiais/Furto.md "Furto") · [Perícia em Esquiva](../Passiva/Per%C3%ADcia%20em%20Esquiva.md "Perícia em Esquiva") · [Procurar Pedras](../Especiais/Procurar%20Pedras.md "Procurar Pedras") · [Recuar](../Especiais/Recuar.md "Recuar") |
+| |  |  | | --- | --- | | [![Mercenáriospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Mercen%C3%A1riospartyicn.png)](../../Classes/Mercen%C3%A1rios.md "Mercenários") | [Mercenários](../../Classes/Mercen%C3%A1rios.md "Mercenários") | | [Envenenar Arma](Envenenar%20Arma.md "Envenenar Arma") · [Explosão Tóxica](../Ofensiva/Explos%C3%A3o%20T%C3%B3xica.md "Explosão Tóxica") · *[Faca Envenenada](../Ofensiva/Faca%20Envenenada.md "Faca Envenenada")* · [Furtividade](../Especiais/Furtividade.md "Furtividade") · *[Lâminas Aceleradas](../Passiva/L%C3%A2minas%20Aceleradas.md "Lâminas Aceleradas")* · [Lâminas Destruidoras](../Ofensiva/L%C3%A2minas%20Destruidoras.md "Lâminas Destruidoras") · [Névoa Tóxica](../Especiais/N%C3%A9voa%20T%C3%B3xica.md "Névoa Tóxica") · [Perícia com Katar](../Passiva/Per%C3%ADcia%20com%20Katar.md "Perícia com Katar") · [Perícia com Mão Direita](../Passiva/Per%C3%ADcia%20com%20M%C3%A3o%20Direita.md "Perícia com Mão Direita") · [Perícia com Mão Esquerda](../Passiva/Per%C3%ADcia%20com%20M%C3%A3o%20Esquerda.md "Perícia com Mão Esquerda") · [Refletir Veneno](../Especiais/Refletir%20Veneno.md "Refletir Veneno") · [Tocaia](../Ofensiva/Tocaia.md "Tocaia") |
+| |  |  | | --- | --- | | [![Algozespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b8/Algozespartyicn.png)](../../Classes/Algozes.md "Algozes") | [Algozes](../../Classes/Algozes.md "Algozes") | | [Criar Veneno Mortal](../Especiais/Criar%20Veneno%20Mortal.md "Criar Veneno Mortal") · [Destruidor de Almas](../Ofensiva/Destruidor%20de%20Almas.md "Destruidor de Almas") · [Encantar com Veneno Mortal](Encantar%20com%20Veneno%20Mortal.md "Encantar com Veneno Mortal") · [Impacto Meteoro](../Ofensiva/Impacto%20Meteoro.md "Impacto Meteoro") · [Perícia com Katar Avançada](../Passiva/Per%C3%ADcia%20com%20Katar%20Avan%C3%A7ada.md "Perícia com Katar Avançada") |
+| |  |  | | --- | --- | | [![Sicáriospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Sic%C3%A1riospartyicn.png)](../../Classes/Sic%C3%A1rios.md "Sicários") | [Sicários](../../Classes/Sic%C3%A1rios.md "Sicários") | | [Ameaça Fantasma](../Ofensiva/Amea%C3%A7a%20Fantasma.md "Ameaça Fantasma") · [Antídoto](Ant%C3%ADdoto.md "Antídoto") · [Aplicar Toxina](../Especiais/Aplicar%20Toxina.md "Aplicar Toxina") · [Castigo de Loki](../Ofensiva/Castigo%20de%20Loki.md "Castigo de Loki") · [Criar Toxina](../Especiais/Criar%20Toxina.md "Criar Toxina") · [Estilhaçar Arma](../Ofensiva/Estilha%C3%A7ar%20Arma.md "Estilhaçar Arma") · [Garra Sombria](../Ofensiva/Garra%20Sombria.md "Garra Sombria") · [Intoxicar](../Ofensiva/Intoxicar.md "Intoxicar") · [Lâminas de Loki](../Ofensiva/L%C3%A2minas%20de%20Loki.md "Lâminas de Loki") · [Lâminas Retalhadoras](../Ofensiva/L%C3%A2minas%20Retalhadoras.md "Lâminas Retalhadoras") · *[Maximizar Poder](Maximizar%20Poder.md "Maximizar Poder")* · [Nevoeiro Tóxico](../Especiais/Nevoeiro%20T%C3%B3xico.md "Nevoeiro Tóxico") · [Ocultação](../Especiais/Oculta%C3%A7%C3%A3o.md "Ocultação") · [Passo Sombrio](../Ofensiva/Passo%20Sombrio.md "Passo Sombrio") · [Passos da Ilusão](Passos%20da%20Ilus%C3%A3o.md "Passos da Ilusão") · [Pesquisa de Toxinas](../Passiva/Pesquisa%20de%20Toxinas.md "Pesquisa de Toxinas") · [Potencializar Veneno](../Especiais/Potencializar%20Veneno.md "Potencializar Veneno") · [Reflexo de Combate](../Especiais/Reflexo%20de%20Combate.md "Reflexo de Combate") · [Retaliação](../Ofensiva/Retalia%C3%A7%C3%A3o.md "Retaliação") |
+| |  |  | | --- | --- | | [![Executorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6e/Executorespartyicn.png)](../../Classes/Executores.md "Executores") | [Executores](../../Classes/Executores.md "Executores") | | [Adagas Voadoras](../Ofensiva/Adagas%20Voadoras.md "Adagas Voadoras") · [Adulterar Veneno](../Especiais/Adulterar%20Veneno.md "Adulterar Veneno") · Carrasco Sombrio · [Facada](../Ofensiva/Facada.md "Facada") · [Impacto Brutal](../Ofensiva/Impacto%20Brutal.md "Impacto Brutal") · [Impacto Cratera](../Ofensiva/Impacto%20Cratera.md "Impacto Cratera") · [Profanar Arma](Profanar%20Arma.md "Profanar Arma") · [Revoada Sombria](../Ofensiva/Revoada%20Sombria.md "Revoada Sombria") · [Senso das Sombras](../Passiva/Senso%20das%20Sombras.md "Senso das Sombras") · [Talho Eterno](../Ofensiva/Talho%20Eterno.md "Talho Eterno") |
+| [Quests](../../Quests/Gerais/Quests.md "Quests") | [Mudança de Classe: Mercenários](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Mercen%C3%A1rios.md "Mudança de Classe: Mercenários") · [Mudança de Classe: Sicários](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Sic%C3%A1rios.md "Mudança de Classe: Sicários") · [Mudança de Classe: Executores](../../Classes/Guias/Mudan%C3%A7a%20de%20Classe-%20Executores.md "Mudança de Classe: Executores") [Novas habilidades](../../Classes/Guias/Novas%20habilidades-%20Gatunos%20e%20evolu%C3%A7%C3%B5es.md "Novas habilidades: Gatunos e evoluções") |
+
+---
+*Categorias: Páginas com ligações inválidas para arquivos, Suporte, A Luz das Trevas*  
+*Importado da [bROWiki](https://browiki.org/wiki/Carrasco_Sombrio) — revisão 46060*

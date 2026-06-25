@@ -1,0 +1,196 @@
+# RO Stars
+
+# RO Stars
+
+**RO Stars** (*Ragnarök Online Stars*) é o nome do campeonato de [PvP](PvP.md "PvP") que ocorre anualmente em diversas regiões do planeta, sendo Taiwan (twRO) o mais famoso.
+
+Cada servidor de [Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online") administra seu próprio campeonato e premiações.
+
+Em 2025, RO Stars chega nos servidores latino-americanos.
+
+Para mais informações, acesse o **[Site Oficial](https://ro.gnjoylatam.com/pt/event/roslatam/info).**
+
+O torneio segue um formato de partida baseada em [clãs](../Redirecionamentos/Cl%C3%A3s.md "Clãs").
+
+![ROS2025a](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3d/ROS2025a.png)
+
+## Informações
+
+- O campeonato não é feito nos servidores comuns do jogo, mas em um *client* separado.
+- O *client* fica disponível para download no site oficial do torneio.
+- Configurações do servidor:
+  - Para fins de balanceamento, a versão do jogo é a do [Episódio 17.1](../Redirecionamentos/Epis%C3%B3dio.md "Episódio").
+  - O modo de batalha é [GvG](Guerra%20do%20Emperium.md "Guerra do Emperium").
+  - O dano causado pelas habilidades é de 40% do dano original (60% de redução de dano).
+- Sobre os itens:
+  - Cada personagem receberá 20.000.000 zeny, sem possibilidade de alteração.
+  - Itens necessários podem ser comprados de [NPCs](../Redirecionamentos/NPC.md "NPC") em [Izlude](../Lugares/Izlude.md "Izlude").
+  - Certos itens (como Garrafas de Veneno, Frascos de Ácido, Runas, etc.) têm um limite que podem ser comprados.
+  - Itens não podem ser derrubados, trocados entre participantes ou vendidos.
+  - Equipamentos só podem ser refinados até os seguintes níveis:
+    - Armadura: +4
+    - Arma Nv.1: +7
+    - Arma Nv.2: +6
+    - Arma Nv.3: +5
+    - Arma Nv.4: +4
+- Sobre os personagens:
+  - Contas e Personagens serão fornecidos pela GNJOY LATAM aos líderes de equipe.
+  - Cada conjunto de contas conterá **13** contas, 1 para cada 3ª classe transcendida (expandidas não estão incluídas).
+  - Sua equipe não pode ter a mesma classe.
+  - Alterações na escalação de personagens são permitidas durante o período do torneio.
+  - Todos os personagens são definidos para o *Nível de Base 170* e *Nível de Classe 60*.
+  - Os nomes dos personagens devem seguir o formato: `ROS00_AA`
+    - Onde *00* é o número que distingue cada clã e *AA* é a abreviação da classe
+- Sobre as partidas:
+  - Cada partida dura **7 minutos**.
+  - Cada equipe é composta por um máximo de 10 jogadores e mínimo de 7 jogadores.
+  - O número de jogadores não será preenchido se um dos times tiver 1 jogador a menos ou a mais.
+- Sobre as arenas:
+  - Existem 6 arenas disponíveis para a batalha.
+  - Uma vez dentro da arena, a troca de personagens não é permitida.
+  - Cada arena é inspirada em um ambiente do jogo.
+
+|  |  |  |
+| --- | --- | --- |
+| ![ROS2025arena1](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/22/ROS2025arena1.png) | ![ROS2025arena2](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/ROS2025arena2.png) | ![ROS2025arena3](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/db/ROS2025arena3.png) |
+| Terror na Fábrica de Brinquedos | Castelo de Glastheim | Teatro de Nifflheim |
+| ![ROS2025arena4](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cb/ROS2025arena4.png) | ![ROS2025arena5](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/ce/ROS2025arena5.png) | ![ROS2025arena6](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/64/ROS2025arena6.jpg) |
+| Depósito do Biolaboratório | Pôr do Sol em Ayothaya | Brasilis à Noite |
+
+### Habilidades
+
+- As seguintes [habilidades](../Habilidades/Especiais/Habilidades.md "Habilidades") estão restritas ou alteradas no *RO Stars*.
+
+| Classe | Habilidade | Alteração |
+| --- | --- | --- |
+| [![Noviçospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Novi%C3%A7ospartyicn.png)](../Classes/Novi%C3%A7os.md "Noviços") [Noviços](../Classes/Novi%C3%A7os.md "Noviços") | [![Teleporte](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3b/Teleporte.png)](../Habilidades/Especiais/Teleporte.md "Teleporte") [Teleporte](../Habilidades/Especiais/Teleporte.md "Teleporte") | **Bloqueado** |
+| [![Portal](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/Portal.png)](../Habilidades/Especiais/Portal.md "Portal") [Portal](../Habilidades/Especiais/Portal.md "Portal") | **Bloqueado** |
+| [![Gatunospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/Gatunospartyicn.png)](../Classes/Gatunos.md "Gatunos") [Gatunos](../Classes/Gatunos.md "Gatunos") | [![Recuar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/78/Recuar.png)](../Habilidades/Especiais/Recuar.md "Recuar") [Recuar](../Habilidades/Especiais/Recuar.md "Recuar") | **Bloqueado** |
+| [![Mercadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c0/Mercadorespartyicn.png)](../Classes/Mercadores.md "Mercadores") [Mercadores](../Classes/Mercadores.md "Mercadores") | [![Comércio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5a/Com%C3%A9rcio.png)](../Habilidades/Especiais/Com%C3%A9rcio.md "Comércio") [Comércio](../Habilidades/Especiais/Com%C3%A9rcio.md "Comércio") | **Bloqueado** |
+| [![Cavaleiros Rúnicospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7c/Cavaleiros_R%C3%BAnicospartyicn.png)](../Classes/Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos") [Cavaleiros Rúnicos](../Classes/Cavaleiros%20R%C3%BAnicos.md "Cavaleiros Rúnicos") |
+| [![Sopro do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Sopro_do_Drag%C3%A3o.png)](../Habilidades/Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [Sopro do Dragão](../Habilidades/Ofensiva/Sopro%20do%20Drag%C3%A3o.md "Sopro do Dragão") [![Bafo do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5d/Bafo_do_Drag%C3%A3o.png)](../Habilidades/Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") [Bafo do Dragão](../Habilidades/Ofensiva/Bafo%20do%20Drag%C3%A3o.md "Bafo do Dragão") | Recarga 0s → 0,5s |
+| Conjuração fixa 0,5s → 2,5s |
+| [![Luz da Alma](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d7/Luz_da_Alma.png)](../Habilidades/Especiais/Luz%20da%20Alma.md "Luz da Alma") [Luz da Alma](../Habilidades/Especiais/Luz%20da%20Alma.md "Luz da Alma") | Duração 900s → 30s |
+| [![Arcanospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d6/Arcanospartyicn.png)](../Classes/Arcanos.md "Arcanos") [Arcanos](../Classes/Arcanos.md "Arcanos") |
+| [![Lançar Magia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d2/Lan%C3%A7ar_Magia.png)](../Habilidades/Ofensiva/Lan%C3%A7ar%20Magia.md "Lançar Magia") [Lançar Magia](../Habilidades/Ofensiva/Lan%C3%A7ar%20Magia.md "Lançar Magia") | Recarga 0s → 0,5s |
+| [![Stasis](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/65/Stasis.png)](../Habilidades/Especiais/Stasis.md "Stasis") [Stasis](../Habilidades/Especiais/Stasis.md "Stasis") | Duração 60s → 30s |
+| Conjuração fixa 1s → 3s |
+| [![Telecinesia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Telecinesia.png)](../Habilidades/Suporte/Telecinesia.md "Telecinesia") [Telecinesia](../Habilidades/Suporte/Telecinesia.md "Telecinesia") | Dano ×3,0 → Dano ×2,0 |
+| [![Feiticeirospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5b/Feiticeirospartyicn.png)](../Classes/Feiticeiros.md "Feiticeiros") [Feiticeiros](../Classes/Feiticeiros.md "Feiticeiros") | [![Abracadabra](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a0/Abracadabra.png)](../Habilidades/Especiais/Abracadabra.md "Abracadabra") [Abracadabra](../Habilidades/Especiais/Abracadabra.md "Abracadabra") | **Bloqueado** |
+| [![Análise Elemental](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e6/An%C3%A1lise_Elemental.png)](../Habilidades/Especiais/An%C3%A1lise%20Elemental.md "Análise Elemental") [Análise Elemental](../Habilidades/Especiais/An%C3%A1lise%20Elemental.md "Análise Elemental") | **Bloqueado** |
+| [![Sicáriospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a1/Sic%C3%A1riospartyicn.png)](../Classes/Sic%C3%A1rios.md "Sicários") [Sicários](../Classes/Sic%C3%A1rios.md "Sicários") |
+| [![Destruidor de Almas](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9b/Destruidor_de_Almas.png)](../Habilidades/Ofensiva/Destruidor%20de%20Almas.md "Destruidor de Almas") [Destruidor de Almas](../Habilidades/Ofensiva/Destruidor%20de%20Almas.md "Destruidor de Almas") | Recarga 0,25s → 0,50s |
+| [![Lâminas Retalhadoras](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/16/L%C3%A2minas_Retalhadoras.png)](../Habilidades/Ofensiva/L%C3%A2minas%20Retalhadoras.md "Lâminas Retalhadoras") [Lâminas Retalhadoras](../Habilidades/Ofensiva/L%C3%A2minas%20Retalhadoras.md "Lâminas Retalhadoras") | Pós-conjuração 0,5s → 1s |
+| [![Renegadospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e1/Renegadospartyicn.png)](../Classes/Renegados.md "Renegados") [Renegados](../Classes/Renegados.md "Renegados") | [![Rapto](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d8/Rapto.png)](../Habilidades/Ofensiva/Rapto.md "Rapto") [Rapto](../Habilidades/Ofensiva/Rapto.md "Rapto") | **Bloqueado** |
+| [![Porta Dimensional](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/f/fa/Porta_Dimensional.png)](../Habilidades/Especiais/Porta%20Dimensional.md "Porta Dimensional") [Porta Dimensional](../Habilidades/Especiais/Porta%20Dimensional.md "Porta Dimensional") | **Bloqueado** |
+| [![Pintar Armadilha](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3c/Pintar_Armadilha.png)](../Habilidades/Especiais/Pintar%20Armadilha.md "Pintar Armadilha") [Pintar Armadilha](../Habilidades/Especiais/Pintar%20Armadilha.md "Pintar Armadilha") | **Bloqueado** |
+| [![Máscara da Melancolia](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/89/M%C3%A1scara_da_Melancolia.png)](../Habilidades/Especiais/M%C3%A1scara%20da%20Melancolia.md "Máscara da Melancolia") [Máscara da Melancolia](../Habilidades/Especiais/M%C3%A1scara%20da%20Melancolia.md "Máscara da Melancolia") | **Bloqueado** |
+| [![Máscara do Infortúnio](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6c/M%C3%A1scara_do_Infort%C3%BAnio.png)](../Habilidades/Especiais/M%C3%A1scara%20do%20Infort%C3%BAnio.md "Máscara do Infortúnio") [Máscara do Infortúnio](../Habilidades/Especiais/M%C3%A1scara%20do%20Infort%C3%BAnio.md "Máscara do Infortúnio") | **Bloqueado** |
+| [![Arcebispospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/3f/Arcebispospartyicn.png)](../Classes/Arcebispos.md "Arcebispos") [Arcebispos](../Classes/Arcebispos.md "Arcebispos") | [![Ressuscitar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/34/Ressuscitar.png)](../Habilidades/Suporte/Ressuscitar.md "Ressuscitar") [Ressuscitar](../Habilidades/Suporte/Ressuscitar.md "Ressuscitar") | **Bloqueado** |
+| [![Shuraspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4e/Shuraspartyicn.png)](../Classes/Shuras.md "Shuras") [Shuras](../Classes/Shuras.md "Shuras") |
+| [![Punho Supremo de Asura](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e8/Punho_Supremo_de_Asura.png)](../Habilidades/Ofensiva/Punho%20Supremo%20de%20Asura.md "Punho Supremo de Asura") [Punho Supremo de Asura](../Habilidades/Ofensiva/Punho%20Supremo%20de%20Asura.md "Punho Supremo de Asura") | Rec. SP 3s → 5s |
+| [![Portões do Inferno](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/Port%C3%B5es_do_Inferno.png)](../Habilidades/Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno") [Portões do Inferno](../Habilidades/Ofensiva/Port%C3%B5es%20do%20Inferno.md "Portões do Inferno") | Recarga 0s → 0,5s |
+| [![Punho do Dragão](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/Punho_do_Drag%C3%A3o.png)](../Habilidades/Ofensiva/Punho%20do%20Drag%C3%A3o.md "Punho do Dragão") [Punho do Dragão](../Habilidades/Ofensiva/Punho%20do%20Drag%C3%A3o.md "Punho do Dragão") | Recarga 0s → 1s |
+| [![Ruína](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/00/Ru%C3%ADna.png)](../Habilidades/Ofensiva/Ru%C3%ADna.md "Ruína") [Ruína](../Habilidades/Ofensiva/Ru%C3%ADna.md "Ruína") | Recarga 0s → 1s |
+| [![Garra de Tigre](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e2/Garra_de_Tigre.png)](../Habilidades/Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") [Garra de Tigre](../Habilidades/Ofensiva/Garra%20de%20Tigre.md "Garra de Tigre") | Recarga 5s → 6s |
+| [![Combo Rápido](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/90/Combo_R%C3%A1pido.png)](../Habilidades/Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido") [Combo Rápido](../Habilidades/Ofensiva/Combo%20R%C3%A1pido.md "Combo Rápido") | Recarga 3s → 4s |
+| [![Mecânicospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/7/7a/Mec%C3%A2nicospartyicn.png)](../Classes/Mec%C3%A2nicos.md "Mecânicos") [Mecânicos](../Classes/Mec%C3%A2nicos.md "Mecânicos") | [![Aprimorar Armamento](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/2/27/Aprimorar_Armamento.png)](../Habilidades/Especiais/Aprimorar%20Armamento.md "Aprimorar Armamento") [Aprimorar Armamento](../Habilidades/Especiais/Aprimorar%20Armamento.md "Aprimorar Armamento") | **Bloqueado** |
+| [![Gás Criogênico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bc/G%C3%A1s_Criog%C3%AAnico.png)](../Habilidades/Ofensiva/G%C3%A1s%20Criog%C3%AAnico.md "Gás Criogênico") [Gás Criogênico](../Habilidades/Ofensiva/G%C3%A1s%20Criog%C3%AAnico.md "Gás Criogênico") | Recarga 0s → 0,5s |
+| [![Punho Foguete](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/59/Punho_Foguete.png)](../Habilidades/Ofensiva/Punho%20Foguete.md "Punho Foguete") [Punho Foguete](../Habilidades/Ofensiva/Punho%20Foguete.md "Punho Foguete") | Recarga 0s → 0,5s |
+| [![Bioquímicospartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/cc/Bioqu%C3%ADmicospartyicn.png)](../Classes/Bioqu%C3%ADmicos.md "Bioquímicos") [Bioquímicos](../Classes/Bioqu%C3%ADmicos.md "Bioquímicos") | [![Vaporizar](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Vaporizar.png)](../Hom%C3%BAnculos/Vaporizar.md "Vaporizar") [Vaporizar](../Hom%C3%BAnculos/Vaporizar.md "Vaporizar") | **Bloqueado** |
+| [![Despertar Homunculus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/a/a6/Despertar_Homunculus.png)](../Hom%C3%BAnculos/Despertar%20Homunculus.md "Despertar Homunculus") [Despertar Homunculus](../Hom%C3%BAnculos/Despertar%20Homunculus.md "Despertar Homunculus") | **Bloqueado** |
+| [![Ressuscitar Homunculus](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/83/Ressuscitar_Homunculus.png)](../Hom%C3%BAnculos/Ressuscitar%20Homunculus.md "Ressuscitar Homunculus") [Ressuscitar Homunculus](../Hom%C3%BAnculos/Ressuscitar%20Homunculus.md "Ressuscitar Homunculus") | **Bloqueado** |
+| [![Reação Alquímica](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5c/Rea%C3%A7%C3%A3o_Alqu%C3%ADmica.png)](../Habilidades/Especiais/Rea%C3%A7%C3%A3o%20Alqu%C3%ADmica.md "Reação Alquímica") [Reação Alquímica](../Habilidades/Especiais/Rea%C3%A7%C3%A3o%20Alqu%C3%ADmica.md "Reação Alquímica") | **Bloqueado** |
+| [![Muralha de Espinhos](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/4/4c/Muralha_de_Espinhos.png)](../Habilidades/Ofensiva/Muralha%20de%20Espinhos.md "Muralha de Espinhos") [Muralha de Espinhos](../Habilidades/Ofensiva/Muralha%20de%20Espinhos.md "Muralha de Espinhos") | **Bloqueado** |
+| [![Sentinelaspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/3/38/Sentinelaspartyicn.png)](../Classes/Sentinelas.md "Sentinelas") [Sentinelas](../Classes/Sentinelas.md "Sentinelas") | [![Tiro Preciso](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6f/Tiro_Preciso.png)](../Habilidades/Ofensiva/Tiro%20Preciso.md "Tiro Preciso") [Tiro Preciso](../Habilidades/Ofensiva/Tiro%20Preciso.md "Tiro Preciso") | Recarga 0,15s → 0,50s |
+| [![Musaspartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b2/Musaspartyicn.png)](../Classes/Musas.md "Musas") [Musas](../Classes/Musas.md "Musas") e [![Trovadorespartyicn](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/e3/Trovadorespartyicn.png)](../Classes/Trovadores.md "Trovadores") [Trovadores](../Classes/Trovadores.md "Trovadores") |
+| [![Ressonância](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/Resson%C3%A2ncia.png)](../Habilidades/Ofensiva/Resson%C3%A2ncia.md "Ressonância") [Ressonância](../Habilidades/Ofensiva/Resson%C3%A2ncia.md "Ressonância") | Recarga 0,15s → 0,65s |
+| [![Ode a Hela](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/c/c2/Ode_a_Hela.png)](../Habilidades/Por%20arma/Ode%20a%20Hela.md "Ode a Hela") [Ode a Hela](../Habilidades/Por%20arma/Ode%20a%20Hela.md "Ode a Hela") | **Bloqueado** |
+| Classes 3 | [![Maximizar Poder](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/5/5e/Maximizar_Poder.png)](../Habilidades/Suporte/Maximizar%20Poder.md "Maximizar Poder") [Maximizar Poder](../Habilidades/Suporte/Maximizar%20Poder.md "Maximizar Poder") | **Bloqueado** |
+
+## Regras
+
+### Geral
+
+1. A equipe que eliminar todos os membros da equipe adversária em 7 minutos ou tiver mais personagens sobreviventes no final da partida vence.
+2. Se o número de jogadores sobreviventes for o mesmo quando a partida terminar, será declarado um empate e uma revanche será realizada para decidir o vencedor.
+3. Se o líder do clã declarar desistência, a equipe adversária vencerá por padrão.
+4. Durante a partida, todas as funções de chat são desabilitadas, exceto o chat do grupo.
+5. Se um jogador sair do grupo durante a partida, ele será considerado como tendo desistido e será removido à força do jogo.
+6. Qualquer comportamento que perturbe o andamento do torneio (como usar [Furtividade](../Habilidades/Especiais/Furtividade.md "Furtividade") ou [Túnel de Fuga](../Habilidades/Passiva/T%C3%BAnel%20de%20Fuga.md "Túnel de Fuga") antes da partida para ultrapassar o bloqueio da arena, spam, conduta antidesportiva ou quaisquer atos considerados perturbadores pelo juiz) resultará em:  
+   1ª violação: aviso para a equipe  
+   2ª violação: derrota automática para a equipe
+7. Em uma revanche, apenas 6 jogadores, em vez de 7, participarão. [Arcebispos](../Classes/Arcebispos.md "Arcebispos") não podem participar de uma revanche.
+8. Partidas de prorrogação prosseguem com uma duração de 7 minutos.
+9. Participantes que forem desconectados após o início de uma partida (Quando a contagem regressiva da transmissão começar, a partida terá início) serão considerados nocauteados e não poderão retornar à arena da partida.
+10. Participantes que forem desconectados antes do início da partida terão 5 minutos para se reconectar, de acordo com o tempo do juiz.  
+    Se o mesmo personagem for desconectado novamente, ele será considerado nocauteado.
+11. Participantes que não conseguirem se conectar dentro do tempo limite alocado para a partida não terão permissão para entrar depois que a partida tiver começado.  
+    Equipes que não tiverem pelo menos 5 membros conectados dentro do tempo designado e nos locais corretos serão consideradas como desistência automática.
+
+### Partida
+
+1. Todos os participantes devem entrar na arena conforme as instruções do juiz.  
+   Quem não seguir as instruções será removido e desclassificado.  
+   Uma vez removido ou desistente, a reentrada não é permitida.
+2. Após entrar na arena, o staff da partida verificará os participantes novamente.  
+   A partida começará assim que o oficial do torneio anunciar o início.
+3. Antes do início do torneio, o líder da equipe deve criar o clã e o grupo, garantindo que todos os membros do clã estejam corretamente designados como membros do grupo e membros do clã.  
+   Qualquer participante que não estiver no grupo ou sair voluntariamente do grupo durante a partida será imediatamente desclassificado.  
+   Se tal violação for descoberta após o término da partida, a equipe será declarada perdedora.  
+   O Emperium necessário para a criação do clã deve ser comprado usando o Zeny fornecido.  
+   O Líder do Clã e o Líder do Grupo não precisam ser a mesma pessoa, mas ambos devem participar da partida.
+4. Antes do início da partida, os participantes dentro da arena não têm permissão para usar habilidades de ocultação (por exemplo, [Esconderijo](../Habilidades/Especiais/Esconderijo.md "Esconderijo"), [Furtividade](../Habilidades/Especiais/Furtividade.md "Furtividade")).  
+   1ª violação: Aviso  
+   2ª violação: Desclassificado (removido)  
+   3ª violação: a equipe perde por padrão.  
+   Por favor, tome nota e cumpra de acordo com a regra.
+5. Se um participante for desconectado durante o processo de entrada na arena, mas antes do início da partida, o participante deve notificar o staff imediatamente via chat do Discord e se reconectar.  
+   O início da partida pode ser adiado em até 3 minutos até que o personagem desconectado se reconecte.  
+   Se algum jogador não puder continuar o jogo durante a partida devido a término anormal ou erros, ele será considerado desistente e a partida continuará sem ele.  
+   Quando um personagem desconectado se reconecta, ele não tem permissão para usar nenhum [NPC](../Redirecionamentos/NPC.md "NPC").  
+   O jogador deve se reportar ao staff e esperar sem controlar o personagem até ser invocado para a arena.  
+   Se o atraso exceder 3 minutos devido a um problema operacional, a partida será adiada até que o problema seja resolvido.  
+   No entanto, se o atraso for causado por 'má conduta do jogador' ou 'qualquer problema não relacionado à operação', e exceder 3 minutos, será considerado uma desistência.
+6. Se qualquer situação anormal surgir durante a partida, o jogador deve levantar a mão em uma partida presencial, ou em uma partida online, via chat do Discord, para alertar o staff da partida e explicar o status de seu personagem ou do jogo.  
+   O staff então encerrará a partida à força.  
+   Se o problema não for devido à *fraude* ou *erro de servidor/operacional*, a decisão sobre desistência ou revanche fica a critério exclusivo do staff da partida.
+7. Quando um personagem se torna incapacitado durante uma partida, ele deve permanecer em sua posição até que a partida termine. Após a partida, todos os jogadores, incluindo os incapacitados, serão movidos para [Izlude](../Lugares/Izlude.md "Izlude").
+8. Em caso de empate que exija prorrogação, cada equipe terá uma revanche com 6 jogadores por equipe, excluindo as classes de [Sacerdote](../Redirecionamentos/Sacerdote.md "Sacerdote") (6v6).
+9. Se a revanche de prorrogação 6v6 também terminar em empate, outra revanche de prorrogação será realizada e continuará até que um vencedor seja decidido.  
+   Para a próxima revanche de prorrogação, cada equipe decidirá qual personagem excluir, além do Arcebispo, e jogarão uma revanche 5v5.
+10. Se 7 minutos se passarem e a partida resultar em empate, uma revanche será realizada.
+11. Uma vez que um personagem é selecionado durante a partida, ele não pode ser trocado até que a rodada atual da partida termine.
+    - Durante uma partida refere-se ao tempo após a entrada na arena.
+    - Em um formato Melhor de Três, nenhuma troca de personagem é permitida entre as rodadas dentro da mesma partida.
+    - Após o término de uma rodada, a troca de personagens é permitida, mas nenhum tempo de preparação adicional será concedido.
+    - Se o líder do grupo precisar trocar seus personagens entre as partidas, ele deve informar o staff e reformar o grupo.
+12. Personagens da classe [Renegado](../Redirecionamentos/Renegado.md "Renegado") devem aprender habilidades via [Mimetismo](../Habilidades/Especiais/Mimetismo.md "Mimetismo") ou [Plágio](../Habilidades/Passiva/Pl%C3%A1gio.md "Plágio") na sala de prática antes de entrar na arena.  
+    Após entrar na arena, as habilidades não podem ser reaprendidas, então certifique-se de usar a habilidade [Preservar](../Habilidades/Especiais/Preservar.md "Preservar") com sabedoria.
+13. Todas as partidas devem ser jogadas usando o cliente oficial fornecido pela Gravity.  
+    Ferramentas não autorizadas (por exemplo, ferramentas de zoom, múltiplos clientes, edições de grf, macros, etc.) são estritamente proibidas.  
+    Se alguma das violações acima for descoberta, a equipe receberá um aviso e deverá corrigir a violação.  
+    A falha em cumprir resultará na desclassificação do participante infrator.
+    - Além das ferramentas explicitamente listadas acima, quaisquer programas não autorizados recém-descobertos também podem ser julgados como violações no local.
+    - Se tais ferramentas forem consideradas não autorizadas, elas estarão sujeitas à mesma penalidade (um aviso e correção exigida). #\* Se um participante desejar instalar quaisquer programas adicionais em seu computador para fins de configuração, ele deve primeiro consultar o staff do torneio com antecedência para aprovação.
+14. Os clãs participantes devem preparar um emblema para a criação no servidor do torneio.  
+    O uso de um emblema é obrigatório.  
+    Se não for preparado com antecedência, o emblema deve ser criado e aplicado durante o tempo de preparação.  
+    Se a partida começar sem um emblema (excluindo problemas em que foi registrado, mas não exibido), a equipe será desclassificada.  
+    Se o emblema tiver transparência excessiva ou for considerado inapropriado, ele deve ser modificado.  
+    A recusa em cumprir o julgamento do juiz resultará em desistência.
+15. Comportamento antidesportivo não será tolerado.  
+    A violação das regras gerais do jogo em relação a comportamento e linguagem inapropriados se aplica à competição ROS.
+16. Salvo disposição em contrário, as violações dos regulamentos do ROS são aplicadas em um método de 3 alertas.  
+    A 1ª e a 2ª vezes resultarão em avisos; a 3ª terá o membro ou a equipe desqualificada.
+17. Em caso de disputa ou violação de regra, as decisões finais da GNJOY LATAM são absolutas e não podem ser contestadas.
+
+| *Jogador contra Jogador em [Ragnarök Online](Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | |
+| --- | --- |
+| [PvP](PvP.md "PvP") | [Guerra do Emperium](Guerra%20do%20Emperium.md "Guerra do Emperium") · [Clã](Cl%C3%A3.md "Clã") · [Clãs Reais](Cl%C3%A3s%20Reais.md "Clãs Reais") · [Grupo](Grupo.md "Grupo") · [Batalhas Campais](Batalhas%20Campais.md "Batalhas Campais") · [Guerra dos Porings](../Quests/Gerais/Guerra%20dos%20Porings.md "Guerra dos Porings") · RO Stars |
+| [Quests](../Quests/Gerais/Quests.md "Quests") | [Caça no Calabouço](../Quests/Experi%C3%AAncia/Ca%C3%A7a%20no%20Calabou%C3%A7o.md "Caça no Calabouço") · **[Desafio das Desilusões](../Quests/Gerais/Desafio%20das%20Desilus%C3%B5es.md "Desafio das Desilusões")** · [Esconderijo dos Remanescentes](../Redirecionamentos/Esconderijo%20dos%20Remanescentes.md "Esconderijo dos Remanescentes") · [Espírito da Guilda](../Quests/Gerais/Esp%C3%ADrito%20da%20Guilda.md "Espírito da Guilda") · **[Guerreiras Mágicas](../Quests/Repet%C3%ADveis/Guerreiras%20M%C3%A1gicas.md "Guerreiras Mágicas")** · [Instrutor de Treino](../Quests/Experi%C3%AAncia/Instrutor%20de%20Treino.md "Instrutor de Treino") · [Ocupe o Feudo](../Quests/Repet%C3%ADveis/Ocupe%20o%20Feudo.md "Ocupe o Feudo") · **[Selos Divinos](../Quests/Gerais/Selos%20Divinos.md "Selos Divinos")** · [Tesouro do Anão](../Quests/Gerais/Tesouro%20do%20An%C3%A3o.md "Tesouro do Anão") · **[Távola Dourada](../Quests/Ca%C3%A7a/T%C3%A1vola%20Dourada.md "Távola Dourada")** |
+| Habilidades | [Armazém do Clã](../Habilidades/Passiva/Armaz%C3%A9m%20do%20Cl%C3%A3.md "Armazém do Clã") · [Autorização Oficial](../Habilidades/Passiva/Autoriza%C3%A7%C3%A3o%20Oficial.md "Autorização Oficial") · [Chamado Urgente](../Habilidades/Especiais/Chamado%20Urgente.md "Chamado Urgente") · [Comandar Guardiões](../Habilidades/Passiva/Comandar%20Guardi%C3%B5es.md "Comandar Guardiões") · [Comando de Batalha](../Habilidades/Suporte/Comando%20de%20Batalha.md "Comando de Batalha") · [Contrato com Kafra](../Habilidades/Passiva/Contrato%20com%20Kafra.md "Contrato com Kafra") · [Coração Frio](../Habilidades/Passiva/Cora%C3%A7%C3%A3o%20Frio.md "Coração Frio") · [Desenvolvimento Permanente](../Habilidades/Passiva/Desenvolvimento%20Permanente.md "Desenvolvimento Permanente") · [Disparada](../Habilidades/Suporte/Disparada.md "Disparada") · [Expandir Clã](../Habilidades/Passiva/Expandir%20Cl%C3%A3.md "Expandir Clã") · [Ferimentos de Glória](../Habilidades/Passiva/Ferimentos%20de%20Gl%C3%B3ria.md "Ferimentos de Glória") · [Fortalecer Guardiões](../Habilidades/Passiva/Fortalecer%20Guardi%C3%B5es.md "Fortalecer Guardiões") · [Grande Liderança](../Habilidades/Passiva/Grande%20Lideran%C3%A7a.md "Grande Liderança") · [Grito de Batalha](../Habilidades/Especiais/Grito%20de%20Batalha.md "Grito de Batalha") · [Marcar Território](../Habilidades/Especiais/Marcar%20Territ%C3%B3rio.md "Marcar Território") · [Olhar Apurado](../Habilidades/Passiva/Olhar%20Apurado.md "Olhar Apurado") · [Regeneração](../Habilidades/Suporte/Regenera%C3%A7%C3%A3o.md "Regeneração") · [Restauração](../Habilidades/Suporte/Restaura%C3%A7%C3%A3o.md "Restauração") |
+
+---
+*Categorias: PvP*  
+*Importado da [bROWiki](https://browiki.org/wiki/RO_Stars) — revisão 40583*

@@ -22,19 +22,21 @@ O objetivo é triplo:
 ## Estrutura
 
 ```
-<Categoria>/      Artigos organizados em pastas por categoria principal
-Categoria/        Páginas do namespace Categoria
-Ajuda/            Páginas de Ajuda
-INDEX.md          Índice navegável por categoria
+Habilidades/      Ofensiva, Suporte, Passiva, Por arma, De monstros, Especiais
+Quests/           Experiência, Caça, Repetíveis, Diárias, Gerais
+Classes/          (+ Guias)
+Calabouços e Instâncias/   Lugares/   Itens/   Homúnculos/
+Sistema e Mecânicas/   Eventos/   Referência/   Redirecionamentos/
+INDEX.md          Índice navegável pela taxonomia
 dump/             browiki-current.xml — dump restaurável de TODOS os namespaces
 export_browiki.py Extração/sincronização (baixa para _flat/)
 build_views.py    Gera a árvore organizada + INDEX.md + wiki/ a partir de _flat/
 _flat/            Markdown cru intermediário (não versionado)
 ```
 
-Cada artigo de conteúdo fica na pasta da sua **categoria principal**; o `INDEX.md` lista
-cada página em **todas** as suas categorias. Os links internos são relativos e corrigidos
-automaticamente.
+Os artigos são organizados numa **taxonomia curada de 2 níveis** (tipo → subtipo), e não nas
+categorias cruas da wiki. As categorias originais de cada página ficam no **rodapé** dela.
+Os links internos são relativos e corrigidos automaticamente.
 
 > **Imagens:** as ~6.700 imagens (~1,2 GB) ficam no repositório separado
 > **[browiki-images](https://github.com/aDwCarrazzone/browiki-images)** e são servidas pelo

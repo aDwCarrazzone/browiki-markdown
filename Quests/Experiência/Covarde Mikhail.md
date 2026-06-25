@@ -1,0 +1,68 @@
+# Covarde Mikhail
+
+# Covarde Mikhail
+
+| ![DQ ico](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/8/8b/DQ_ico.png) Covarde Mikhail | |
+| --- | --- |
+| Com medo de ser punido pela própria mãe, um garoto desaparece após quebrar uma matrioska, uma boneca tradicional. | |
+| Requisitos mínimos | |
+| **Nv. de base** | Nenhum |
+| **Tipo** | Repetível |
+| **[Itens](../../Itens/Itens.md "Itens")** | ![7134.png](https://static.divine-pride.net/images/items/item/7134.png) 1 [Vasilha de Mistura](http://www.divine-pride.net/database/item/7134/) |
+| **[Zeny](../../Redirecionamentos/Zeny.md "Zeny")** | 6.000 |
+| **Quests anteriores** | [Encontrando a Ilha-Baleia](Encontrando%20a%20Ilha-Baleia.md "Encontrando a Ilha-Baleia") |
+| Premiação | |
+| **[EXP base](../../Redirecionamentos/Experi%C3%AAncia%20de%20Base.md "Experiência de Base")** | 90.000 |
+| **[Itens](../../Itens/Itens.md "Itens")** | ![593.png](https://static.divine-pride.net/images/items/item/593.png) 5 [Panqueca com Mel](http://www.divine-pride.net/database/item/593/)  ![592.png](https://static.divine-pride.net/images/items/item/592.png) 5 [Panqueca de Geléia](http://www.divine-pride.net/database/item/592/) |
+| **Recompensa** | Cria Panquecas |
+
+1. Ajude Gallina (mosk\_in 144,278)
+
+   :   ![OCM01](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/6/6d/OCM01.png)
+2. Clique no Forno (mosk\_in 205,268)
+
+   :   ![OCM02](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/bd/OCM02.png)
+3. Converse com a Anna, selecionando todas as opções. (mosk\_in 148,274)
+
+   :   ![OCM04](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/e/ed/OCM04.png)
+4. Localize a Senhoria (mosk\_in 135,190)
+
+   :   ![OCM05](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b1/OCM05.png)
+
+   - Selecione:
+     - *Perguntar sobre Mikhail*.
+     - *Passar a noite e receber a informação – 5.000z*.
+   - Você acorda na cama, no segundo andar da Estalagem. Desça as escadas e pergunte sobre Mikhail para a Senhoria.
+5. Pague 1.000 [zenys](../../Redirecionamentos/Zenys.md "Zenys") pela informação do Dono da Taverna (mosk\_in 141,212)
+
+   :   ![OCM06](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/0/01/OCM06.png)
+6. Converse com Victor (mosk\_in 147,202)
+
+   :   ![OCM07](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/9/9d/OCM07.png)
+7. Dirija-se ao Pântano (mosk\_dun03 153,90)
+
+   :   ![OCM08](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/1/1a/OCM08.png)
+8. Volte a clicar no Forno.
+   - Selecione:
+     - *Olhar melhor*
+     - *Mikhail está no forno*.
+9. Volte a falar com Victor, na Estalagem.
+10. Colete 10 [Ervas Grudentas](http://www.divine-pride.net/database/item/7763/) no Pântano. É preciso ficar clicando várias vezes no [NPC](../../Redirecionamentos/NPC.md "NPC") até adquirir as 10.
+11. Reencontre Victor com as 10 [Ervas Grudentas](http://www.divine-pride.net/database/item/7763/) e uma [Vasilha de Mistura](http://www.divine-pride.net/database/item/7134/) para adquirir os [Adesivos Fortes](http://www.divine-pride.net/database/item/7764/).
+12. Entregue os [Adesivos Fortes](http://www.divine-pride.net/database/item/7764/) ao Forno.
+13. Converse com Gallina, que agradecerá com [experiência](../../Redirecionamentos/Experi%C3%AAncia.md "Experiência").
+14. Agora você pode fazer panquecas com a Larissa (mosk\_in 211,259)
+
+    :   ![OCM09](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/d/d3/OCM09.png)
+
+| Panqueca | Itens Necessários |
+| --- | --- |
+| ![591.png](https://static.divine-pride.net/images/items/item/591.png) [Panqueca de Caviar](http://www.divine-pride.net/database/item/591/) | - ![7031.png](https://static.divine-pride.net/images/items/item/7031.png) 1 [Frigideira Velha](http://www.divine-pride.net/database/item/7031/) - ![519.png](https://static.divine-pride.net/images/items/item/519.png) 2 [Leites](http://www.divine-pride.net/database/item/519/) - ![504.png](https://static.divine-pride.net/images/items/item/504.png) 2 [Poções Brancas](http://www.divine-pride.net/database/item/504/) - ![548.png](https://static.divine-pride.net/images/items/item/548.png) 1 [Queijo](http://www.divine-pride.net/database/item/548/) - ![1019.png](https://static.divine-pride.net/images/items/item/1019.png) 1 [Tronco](http://www.divine-pride.net/database/item/1019/) - ![518.png](https://static.divine-pride.net/images/items/item/518.png) 1 [Mel](http://www.divine-pride.net/database/item/518/) |
+| ![592.png](https://static.divine-pride.net/images/items/item/592.png) [Panqueca de Geleia](http://www.divine-pride.net/database/item/592/) |
+| ![593.png](https://static.divine-pride.net/images/items/item/593.png) [Panqueca com Mel](http://www.divine-pride.net/database/item/593/) |
+| ![594.png](https://static.divine-pride.net/images/items/item/594.png) [Panqueca Azeda](http://www.divine-pride.net/database/item/594/) |
+| ![595.png](https://static.divine-pride.net/images/items/item/595.png) [Panqueca de Cogumelos](http://www.divine-pride.net/database/item/595/) |
+
+---
+*Categorias: Quests repetíveis, Quests de experiência, Quest*  
+*Importado da [bROWiki](https://browiki.org/wiki/Covarde_Mikhail) — revisão 27942*

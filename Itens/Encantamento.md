@@ -6,9 +6,9 @@
 
 Item encantado
 
-Algumas [equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") podem ser encantados por [NPCs](../Sem%20categoria/NPC.md "NPC") específicos.
+Algumas [equipamentos](../Redirecionamentos/Equipamentos.md "Equipamentos") podem ser encantados por [NPCs](../Redirecionamentos/NPC.md "NPC") específicos.
 
-Um encantamento é um bônus especial que não ocupa o mesmo espaço de uma [carta](../Sem%20categoria/Carta.md "Carta").
+Um encantamento é um bônus especial que não ocupa o mesmo espaço de uma [carta](../Redirecionamentos/Carta.md "Carta").
 
 Equipamentos encantados terão cores diferentes e uma sigla no final do nome.
 
@@ -40,7 +40,7 @@ Exemplos
 :   ![ArcanoJcaaído](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/be/ArcanoJcaa%C3%ADdo.png)
 
 - As [Asas de Arcanjo](http://www.divine-pride.net/database/item/2573/) recebem apenas 1 pedra de encanto aleatória.
-- O processo de encanto custa 1.000.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
+- O processo de encanto custa 1.000.000 [zenys](../Redirecionamentos/Zenys.md "Zenys").
 - O encanto pode ser resetado com 5 [MiauMiau](http://www.divine-pride.net/database/item/6909/).
 - Existem chances de perder as [Asas de Arcanjo](http://www.divine-pride.net/database/item/2573/) em caso de falha.
 - Carta e refino serão mantidos em caso de sucesso.
@@ -64,7 +64,7 @@ Exemplos
 
 - Encantar as [Asas de Arcanjo Caído](http://www.divine-pride.net/database/item/2589/) é de graça.
 - Você pode escolher a categoria do encanto, mas não pode escolher um encanto específico.
-- O [refinamento](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") do item define a quantidade de encantamentos:
+- O [refinamento](Refinamento.md "Refinamento") do item define a quantidade de encantamentos:
   - +0 a +6 = 1 encanto
   - +7 ou +8 = 2 encantos
   - +9 em diante = 3 encantos
@@ -94,14 +94,14 @@ Exemplos
 :   ![AprendizEnch](https://cdn.jsdelivr.net/gh/aDwCarrazzone/browiki-images@main/b/b9/AprendizEnch.png)
 
 - Armaduras são encantadas pela Aprendiz de Encantamento (prontera 165,60)
-- Cada processo de encanto custa 400.000 [zenys](../Sem%20categoria/Zenys.md "Zenys").
-- O encanto é aleatório entre +1 a +3 em um dos [atributos](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Atributos.md "Atributos") primários ([FOR](../Sem%20categoria/FOR.md "FOR"), [AGI](../Sem%20categoria/AGI.md "AGI"), [VIT](../Sem%20categoria/VIT.md "VIT"), [INT](../Sem%20categoria/INT.md "INT"), [DES](../Sem%20categoria/DES.md "DES"), [SOR](../Sem%20categoria/SOR.md "SOR")).
+- Cada processo de encanto custa 400.000 [zenys](../Redirecionamentos/Zenys.md "Zenys").
+- O encanto é aleatório entre +1 a +3 em um dos [atributos](../Sistema%20e%20Mec%C3%A2nicas/Atributos.md "Atributos") primários ([FOR](../Redirecionamentos/FOR.md "FOR"), [AGI](../Redirecionamentos/AGI.md "AGI"), [VIT](../Redirecionamentos/VIT.md "VIT"), [INT](../Redirecionamentos/INT.md "INT"), [DES](../Redirecionamentos/DES.md "DES"), [SOR](../Redirecionamentos/SOR.md "SOR")).
   - Apenas 1 pedra de encanto pode ser adicionada na armadura.
-  - Quando se encanta uma [armadura](../Sem%20categoria/Armadura.md "Armadura"), o [refinamento](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") e a [carta](../Sem%20categoria/Carta.md "Carta") equipada serão perdidos.
-  - Se você encantar uma [armadura](../Sem%20categoria/Armadura.md "Armadura") duas ou mais vezes, prevalecerá o último encanto.
+  - Quando se encanta uma [armadura](../Redirecionamentos/Armadura.md "Armadura"), o [refinamento](Refinamento.md "Refinamento") e a [carta](../Redirecionamentos/Carta.md "Carta") equipada serão perdidos.
+  - Se você encantar uma [armadura](../Redirecionamentos/Armadura.md "Armadura") duas ou mais vezes, prevalecerá o último encanto.
 - A armadura precisa estar no inventário.
   - É recomendado que somente a armadura desejada esteja no inventário.
-- Há uma chance de falha, perdendo a [armadura](../Sem%20categoria/Armadura.md "Armadura") para sempre.
+- Há uma chance de falha, perdendo a [armadura](../Redirecionamentos/Armadura.md "Armadura") para sempre.
 - A chance de sucesso no processo de encanto varia de acordo com a classe da armadura.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -110,23 +110,27 @@ Exemplos
 
 ## Outros Encantadores
 
-- [Encantamento de Visual](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual")
-- [Equipamentos do Éden](../Quest/Equipamentos%20do%20%C3%89den.md#Encantamentos "Equipamentos do Éden")
+- [Encantamento de Visual](../Redirecionamentos/Encantamento%20de%20Visual.md "Encantamento de Visual")
+- [Equipamentos do Éden](../Quests/Gerais/Equipamentos%20do%20%C3%89den.md#Encantamentos "Equipamentos do Éden")
 - [Desentupidor](JoyCoins.md#Desentupidor "JoyCoins")
 - [Relíquias de Mora](Encantamentos%20de%20Mora.md "Encantamentos de Mora")
 - [Armas em Malangdo](Encantamentos%20de%20Malangdo.md "Encantamentos de Malangdo")
-- [Itens de Ninja](../Guias%20de%20Classe/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja")
-- [Itens Biológicos](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md#Itens_Biológicos "Lighthalzen")
-- [Itens Natalinos](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md#Encantamento "Lutie")
-- [Botas Temporais](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim")
-- [Equipamentos Excelion](../Sem%20categoria/Opera%C3%A7%C3%A3o%20Sucata.md "Operação Sucata")
-- [Encantamentos Ilusionais](../Lugares%20em%20Ragnar%C3%B6k/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais")
-- [Pó Espacial](../Lugares%20em%20Ragnar%C3%B6k/Pharos.md#O_Farol "Pharos")
-- [Acessórios](../Quest/T%C3%BAmulo%20do%20Monarca.md#Encantamento "Túmulo do Monarca")
+- [Itens de Ninja](../Classes/Guias/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja")
+- [Itens Biológicos](../Lugares/Lighthalzen.md#Itens_Biológicos "Lighthalzen")
+- [Itens Natalinos](../Lugares/Lutie.md#Encantamento "Lutie")
+- [Botas Temporais](../Lugares/Glastheim.md#Itens_Temporais "Glastheim")
+- [Equipamentos Excelion](../Redirecionamentos/Opera%C3%A7%C3%A3o%20Sucata.md "Operação Sucata")
+- [Encantamentos Ilusionais](../Lugares/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais")
+- [Pó Espacial](../Lugares/Pharos.md#O_Farol "Pharos")
+- [Acessórios](../Calabou%C3%A7os%20e%20Inst%C3%A2ncias/T%C3%BAmulo%20do%20Monarca.md#Encantamento "Túmulo do Monarca")
 
-| *[Itens](Itens.md "Itens") em [Ragnarök Online](../Informa%C3%A7%C3%B5es%20b%C3%A1sicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
+| *[Itens](Itens.md "Itens") em [Ragnarök Online](../Sistema%20e%20Mec%C3%A2nicas/Ragnar%C3%B6k%20Online.md "Ragnarök Online")* | | |
 | --- | --- | --- |
-| Melhorias | [Refino](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Refinamento.md "Refinamento") · [Bônus Aleatórios](../Sem%20categoria/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios") · Encantamento · [Combinação](Combina%C3%A7%C3%A3o.md "Combinação") · [Grau](../P%C3%A1ginas%20que%20usam%20a%20etiqueta%20Tabber%20do%20analisador%20sint%C3%A1tico/Grau.md "Grau") · [Reforma](Reforma.md "Reforma") | |
-| Rota de [Equipamentos](../Sem%20categoria/Equipamentos.md "Equipamentos") | [Éden](../Quest/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") · [Iniciais](Equipamento%20Inicial.md "Equipamento Inicial") · [Honra](Equipamentos%20de%20Honra.md "Equipamentos de Honra") · [Relíquias de Mora](../Sem%20categoria/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora") · [Excelion](../Quest/Equipamento%20Excelion.md "Equipamento Excelion") · [Ilusión](../Quest/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión") · [Automatron](../Quest/Equipamentos%20Automatron.md "Equipamentos Automatron") · [Lobo Cinzento](../Quest/Equipamentos%20Cinzentos.md "Equipamentos Cinzentos") | |
-| Encantos | [Botas Temporais](../Lugares%20em%20Ragnar%C3%B6k/Glastheim.md#Itens_Temporais "Glastheim") · [Itens Natalinos](../Lugares%20em%20Ragnar%C3%B6k/Lutie.md#Itens_Natalinos "Lutie") · [Armas em Malangdo](Encantamentos%20de%20Malangdo.md "Encantamentos de Malangdo") · [Armas Biológicas](../Lugares%20em%20Ragnar%C3%B6k/Lighthalzen.md#Itens_Biológicos "Lighthalzen") · [Ninjas](../Guias%20de%20Classe/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja") · [Ilusionais](../Lugares%20em%20Ragnar%C3%B6k/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais") · [Visuais](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") |
-| Outros | [Drop](../Sem%20categoria/Drop.md "Drop") · [Slot](Slot.md "Slot") · [Cartas](Cartas.md "Cartas") ([Lista](../Sem%20categoria/Lista%20de%20Cartas.md "Lista de Cartas")) · [Tintura](../Quests%20repet%C3%ADveis/Tintura.md "Tintura") · [Loja de Estilos](../Sem%20categoria/Loja%20de%20Estilos.md "Loja de Estilos") · [Loja Fashion](../Sem%20categoria/Encantamento%20de%20Visual.md "Encantamento de Visual") · [Culinária](Culin%C3%A1ria.md "Culinária") · [JoyCoins](JoyCoins.md "JoyCoins") | |
+| Melhorias | [Refino](Refinamento.md "Refinamento") · [Bônus Aleatórios](../Redirecionamentos/B%C3%B4nus%20Aleat%C3%B3rios.md "Bônus Aleatórios") · Encantamento · [Combinação](Combina%C3%A7%C3%A3o.md "Combinação") · [Grau](Grau.md "Grau") · [Reforma](Reforma.md "Reforma") | |
+| Rota de [Equipamentos](../Redirecionamentos/Equipamentos.md "Equipamentos") | [Éden](../Quests/Gerais/Equipamentos%20do%20%C3%89den.md "Equipamentos do Éden") · [Iniciais](Equipamento%20Inicial.md "Equipamento Inicial") · [Honra](Equipamentos%20de%20Honra.md "Equipamentos de Honra") · [Relíquias de Mora](../Redirecionamentos/Rel%C3%ADquias%20de%20Mora.md "Relíquias de Mora") · [Excelion](../Quests/Gerais/Equipamento%20Excelion.md "Equipamento Excelion") · [Ilusión](../Quests/Gerais/Equipamentos%20Ilusi%C3%B3n.md "Equipamentos Ilusión") · [Automatron](../Quests/Gerais/Equipamentos%20Automatron.md "Equipamentos Automatron") · [Lobo Cinzento](../Quests/Gerais/Equipamentos%20Cinzentos.md "Equipamentos Cinzentos") | |
+| Encantos | [Botas Temporais](../Lugares/Glastheim.md#Itens_Temporais "Glastheim") · [Itens Natalinos](../Lugares/Lutie.md#Itens_Natalinos "Lutie") · [Armas em Malangdo](Encantamentos%20de%20Malangdo.md "Encantamentos de Malangdo") · [Armas Biológicas](../Lugares/Lighthalzen.md#Itens_Biológicos "Lighthalzen") · [Ninjas](../Classes/Guias/Equipamentos%20Ninja.md#Encantamento "Equipamentos Ninja") · [Ilusionais](../Lugares/Cavernas%20Ilusionais.md#Encantamentos_Ilusionais "Cavernas Ilusionais") · [Visuais](../Redirecionamentos/Encantamento%20de%20Visual.md "Encantamento de Visual") |
+| Outros | [Drop](../Redirecionamentos/Drop.md "Drop") · [Slot](Slot.md "Slot") · [Cartas](Cartas.md "Cartas") ([Lista](../Redirecionamentos/Lista%20de%20Cartas.md "Lista de Cartas")) · [Tintura](../Quests/Repet%C3%ADveis/Tintura.md "Tintura") · [Loja de Estilos](../Redirecionamentos/Loja%20de%20Estilos.md "Loja de Estilos") · [Loja Fashion](../Redirecionamentos/Encantamento%20de%20Visual.md "Encantamento de Visual") · [Culinária](Culin%C3%A1ria.md "Culinária") · [JoyCoins](JoyCoins.md "JoyCoins") | |
+
+---
+*Categorias: Itens*  
+*Importado da [bROWiki](https://browiki.org/wiki/Encantamento) — revisão 43829*
